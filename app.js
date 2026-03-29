@@ -520,7 +520,7 @@ const getFrontLeadData = (section) => {
     };
   }
   return {
-    href: buildDetailHash(section.id, 0),
+    href: buildArticleHref(section.id, 0, firstItem),
     item: sanitizeItem(firstItem, section.title),
   };
 };
@@ -544,6 +544,37 @@ const findMainStoryRecord = () => {
   }
   return fallback;
 };
+
+const createSlugSeed = (value = "") => {
+  let hash = 0;
+  for (const char of String(value)) {
+    hash = (hash * 33 + char.charCodeAt(0)) >>> 0;
+  }
+  return hash.toString(36);
+};
+
+const slugifyTitle = (value = "") => {
+  const normalized = String(value)
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-+|-+$/g, "");
+  return normalized || "article";
+};
+
+const buildArticleSlug = (sectionId, index, item = {}) => {
+  const sectionToken = sanitizeSectionId(sectionId);
+  const dateToken = formatDate(item.date).replace(/-/g, "");
+  const titleToken = slugifyTitle(item.title).slice(0, 40);
+  const seed = createSlugSeed(`${sectionToken}-${dateToken}-${index}-${item.title ?? ""}`);
+  return `${sectionToken}-${dateToken}-${index + 1}-${titleToken}-${seed}`;
+};
+
+const buildArticleHref = (sectionId, index, item = {}) => `/articles/${buildArticleSlug(sectionId, index, item)}.html`;
 
 const buildDetailHash = (sectionId, index) => `#detail-${encodeURIComponent(sectionId)}-${index}`;
 
@@ -588,7 +619,7 @@ const renderNav = () => {
     .map((section) => {
       const sectionId = sanitizeSectionId(section.id);
       const sectionTitle = escapeHtml(section.title ?? "未命名栏目");
-      return `<li><a href="#${sectionId}">${sectionTitle}</a></li>`;
+      return `<li><a href="/sections/${sectionId}.html">${sectionTitle}</a></li>`;
     })
     .join("");
   return `<nav class="top-nav" aria-label="栏目导航"><ul>${items}</ul></nav>`;
@@ -596,10 +627,10 @@ const renderNav = () => {
 
 const renderLead = (sectionId, sectionCategory, item, index) => {
   const safeItem = sanitizeItem(item, sectionCategory);
-  const detailHash = buildDetailHash(sectionId, index);
+  const detailHref = buildArticleHref(sectionId, index, item);
   return `
     <article class="lead-story">
-      <h3><a href="${detailHash}">${safeItem.title}</a></h3>
+      <h3><a href="${detailHref}">${safeItem.title}</a></h3>
       <p class="meta">发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
       <p class="summary">${safeItem.summary}</p>
     </article>
@@ -610,11 +641,11 @@ const renderList = (sectionId, sectionCategory, items, startIndex = 0) => {
   const html = items
     .map((item, idx) => {
       const safeItem = sanitizeItem(item, sectionCategory);
-      const detailHash = buildDetailHash(sectionId, startIndex + idx);
+      const detailHref = buildArticleHref(sectionId, startIndex + idx, item);
       return `
         <li>
           <article>
-            <h4><a href="${detailHash}">${safeItem.title}</a></h4>
+            <h4><a href="${detailHref}">${safeItem.title}</a></h4>
             <p class="meta">发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
             <p class="summary">${safeItem.summary}</p>
           </article>
@@ -651,7 +682,7 @@ const renderFrontPage = () => {
   const mainStory = findMainStoryRecord();
   const mainStoryData = mainStory
     ? {
-        href: buildDetailHash(mainStory.section.id, mainStory.index),
+        href: buildArticleHref(mainStory.section.id, mainStory.index, mainStory.item),
         item: sanitizeItem(mainStory.item, mainStory.section.title),
       }
     : {
@@ -791,5 +822,18 @@ const renderApp = () => {
   }
 };
 
-window.addEventListener("hashchange", renderApp);
-renderApp();
+if (typeof module !== "undefined" && module.exports) {
+  module.exports = {
+    sections,
+    sectionLabels,
+    sanitizeSectionId,
+    formatDate,
+    buildArticleSlug,
+    todayText,
+  };
+}
+
+if (typeof window !== "undefined") {
+  window.addEventListener("hashchange", renderApp);
+  renderApp();
+}
