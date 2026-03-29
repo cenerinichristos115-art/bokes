@@ -1,53 +1,58 @@
-// Article authoring template:
+// Default draft template:
+// See ./DEFAULT_DRAFT_TEMPLATE.md
+// Required article fields:
 // ---
 // title: 文章标题（20字以内，简洁有力）
 // category: AI新闻 | AI使用教程 | 开源项目
-// date: 2026-03-29
-// source: 来源名称（如 GITHUB / SIGNAL FOLD / BOKE LAB）
-// source_url: https://原文链接
-// summary: 摘要（50字以内，显示在列表页和三栏首页）
+// date: YYYY-MM-DD
+// source: 来源名称（可写多来源缩写，如 36氪 / 量子位 / 21经济网）
+// source_url: 主来源链接（正文中再列完整来源清单）
+// summary: 摘要（50字以内，必须包含事实结论，不写空泛判断）
 // featured: true | false （是否作为 MAIN STORY 主推）
 // ---
-// 正文第一段（无需标题，直接陈述核心内容）
-// ## 二级标题
-// 段落内容……
-// ## 二级标题
-// 段落内容……
-// [查看原始来源](原文链接)
+// Content rule: not title aggregation only.
+// Each section must include verified facts (time, actor, action, numbers/metrics).
+// Must include: source-content extraction + cross-source synthesis + objective analysis.
 const sections = [
   {
     id: "ai-news",
     title: "AI新闻",
     items: [
       {
-        title: "Claude Code进入自动模式",
+        title: "Claude三月协同能力升级",
         category: "AI新闻",
-        date: "2026-03-25",
-        summary: "过去一周中国媒体聚焦三点：自动模式上线、电脑接管扩展、跨设备协同推进。",
+        date: "2026-03-29",
+        summary: "并行协作、故障风险与安全对标，构成Claude近周中国报道主线。",
         featured: true,
         content: {
           intro:
-            "在 2026 年 3 月 22 日至 3 月 29 日这一周内，Claude Code 在中国报道中的核心议题从“是否可用”转向“自动权限决策 + 电脑接管 + 手机远程派单”三项能力的组合落地。",
+            "在 2026 年 3 月 22 日至 3 月 29 日这一周内，中国关于 Claude 的高热度报道集中在三条线：Claude Code 的并行协作方法、一次全球中断暴露的可用性风险，以及安全智能体能力对标带来的竞争信号。",
           blocks: [
             {
-              heading: "三条核心报道",
+              heading: "开发范式变化",
               paragraphs: [
-                "第一条来自新浪网资讯滚动（2026-03-25，来源网易科技）：Anthropic 为 Claude Code 引入 auto mode，允许模型在安全层审查后自动执行低风险操作，当前为研究预览并面向团队计划用户先行开放。",
-                "第二条来自 TechWeb 微晚报（2026-03-24，新浪科技转载）：报道“电脑使用”通过 Claude Cowork 与 Claude Code 打通桌面操作，并与 Dispatch 形成跨设备指令链路，用户可从手机向电脑端 Claude 下达任务。",
-                "第三条来自凤凰网科技（2026-03-24，智东西）：披露当前能力先向 Pro/Max 开放且以 macOS 为主，Windows 版本待后续跟进，同时指出系统执行速度与稳定性仍处早期验证阶段。",
+                "36氪转载的新智元报道披露，Claude Code 团队建议在同一仓库下并行使用 3 到 5 个 Git Worktree，把测试、修复和重构拆给不同 Claude 会话并发处理，而非在单会话串行等待结果。",
+                "报道同时指出，AI 编程场景下开发者大量时间消耗在等待响应和运行回执。并行会话配合 Plan Mode 与项目规则文件，可以把 Claude 从“代码生成助手”提升为“可调度执行单元”，核心收益来自流程设计而非单次提示词。",
               ],
             },
             {
-              heading: "整合结论",
+              heading: "稳定性压力暴露",
               paragraphs: [
-                "过去一周的中国报道共同指向：Claude Code 正从“代码补全工具”向“可执行任务代理”演进，新增能力重点不在模型参数，而在权限判断、工具协同和跨端连续执行。",
-                "同样明确的边界是：关键功能仍在研究预览或分层开放阶段，企业在生产接入前仍需重点验证权限策略、沙盒隔离与异常回滚机制。",
+                "36氪在 3 月 3 日的报道回顾了 3 月 2 日晚 Claude 的全球中断：网页端、控制台、Claude Code 与移动端均受影响，用户出现 500/529 错误并临时切换替代工具。",
+                "这类事件说明，Claude Code 深度进入研发流程后，模型可用性已不只是体验问题，而是生产连续性问题。企业侧需要同步建设跨模型 fallback、任务断点恢复与应急流程，降低单点故障损失。",
+              ],
+            },
+            {
+              heading: "安全能力分化",
+              paragraphs: [
+                "量子位报道援引公开对标信息称，Anthropic 披露其系统定位到 3 个典型 0day；国产安全智能体在复现这 3 个漏洞后，继续挖掘出 10 个新漏洞（7 个 ghostscript、3 个 opensc）。",
+                "这表明 Claude 提供了可验证的安全基线，但行业竞争正转向“基线之上的纵深能力”，即在同一模块持续扩展攻击面与发现未知变种的能力。",
               ],
             },
           ],
         },
-        source: "新浪网（网易科技）/ TechWeb / 凤凰网智东西",
-        source_url: "https://k.sina.com.cn/article_5953741034_162dee0ea06703dwdo.html?from=tech",
+        source: "36氪 / 量子位",
+        source_url: "https://www.36kr.com/p/3704949768941960",
       },
       {
         title: "AI智能体进驻一线业务",
