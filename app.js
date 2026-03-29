@@ -729,7 +729,7 @@ const renderDetailPage = (record) => {
       ? `
         <section class="detail-block">
           <h3 class="detail-subtitle">信息来源</h3>
-          <ul class="story-list">
+          <ul class="detail-sources">
             ${safeItem.references
               .map((reference) => `<li><a href="${reference.url}" target="_blank" rel="noopener noreferrer">${reference.label}</a></li>`)
               .join("")}

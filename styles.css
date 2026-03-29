@@ -15,11 +15,11 @@ body {
   padding: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: "Charter", "Georgia", "Times New Roman", "Noto Serif SC", "Source Han Serif SC", "Songti SC", serif;
+  font-family: "Source Han Serif SC", "Noto Serif SC", "Songti SC", "STSong", "SimSun", "Charter", "Georgia", serif;
 }
 
 body {
-  line-height: 1.65;
+  line-height: 1.72;
 }
 
 #app {
@@ -237,6 +237,92 @@ a:focus-visible {
   line-height: 1.55;
 }
 
+.empty-state {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.detail-main {
+  max-width: 780px;
+  margin: 0 auto 20px;
+}
+
+.detail-article {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 18px 0 26px;
+}
+
+.detail-breadcrumb {
+  margin-bottom: 8px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.detail-title {
+  font-size: clamp(1.86rem, 4.2vw, 2.66rem);
+  line-height: 1.32;
+  margin-bottom: 12px;
+}
+
+.detail-intro {
+  margin: 16px 0 18px;
+  font-size: 1.08rem;
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+  text-indent: 2em;
+}
+
+.detail-block {
+  margin-top: 18px;
+}
+
+.detail-subtitle {
+  margin: 0 0 10px;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+.detail-body {
+  margin-bottom: 14px;
+  font-size: 1.07rem;
+  line-height: 1.92;
+  letter-spacing: 0.01em;
+  text-indent: 2em;
+}
+
+.detail-article .meta {
+  margin-bottom: 12px;
+  font-size: 0.9rem;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.detail-sources {
+  margin: 0;
+  padding-left: 1.3rem;
+}
+
+.detail-sources li {
+  margin: 0 0 8px;
+  padding: 0;
+  border: 0;
+  line-height: 1.75;
+}
+
+.detail-source-link,
+.detail-actions {
+  margin-top: 18px;
+}
+
+.back-home-link {
+  font-size: 0.84rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
 footer {
   border-top: 1px solid var(--line);
   padding-top: 10px;
@@ -286,5 +372,15 @@ footer {
 
   .lead-story h3 {
     font-size: 1.38rem;
+  }
+
+  .detail-title {
+    font-size: 1.56rem;
+  }
+
+  .detail-intro,
+  .detail-body {
+    font-size: 1rem;
+    text-indent: 0;
   }
 }
