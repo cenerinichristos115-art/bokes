@@ -13,6 +13,9 @@
 // Content rule: not title aggregation only.
 // Each section must include verified facts (time, actor, action, numbers/metrics).
 // Must include: source-content extraction + cross-source synthesis + objective analysis.
+// Body style: de-source narrative. Do not lead with media-attribution phrases; put links in final sources section.
+// Pre-publish check: >=2 facts per section, include consensus+uncertainty+why-it-matters, and keep full clickable links in final sources list.
+// Trend words require dated timeline points; conclusions must follow explicit facts, and all selected sources must be substantively used.
 const sections = [
   {
     id: "ai-news",
@@ -702,23 +705,12 @@ const renderHomePage = () => {
 };
 
 const renderDetailNotFound = () => `
-  <header class="masthead">
-    <p class="edition">JICHUAN DAILY</p>
-    <h1><a href="#">寂川日报</a></h1>
-    <p class="deck">AI news, practical guides, and open-source intelligence.</p>
-    <p class="issue-meta">${todayText} ｜ Detail</p>
-  </header>
   <main class="detail-main">
     <article class="detail-article">
-      <p class="section-label">DETAIL</p>
       <h2 class="detail-title">内容不存在</h2>
       <p class="summary">这条详情可能已被删除，或链接地址不正确。</p>
-      <p class="detail-actions"><a class="back-home-link" href="#">返回首页</a></p>
     </article>
   </main>
-  <footer>
-    <p>改版说明：保留三栏目，采用更接近 WSJ 的极简新闻排版。</p>
-  </footer>
 `;
 
 const renderDetailPage = (record) => {
@@ -726,9 +718,6 @@ const renderDetailPage = (record) => {
     return renderDetailNotFound();
   }
   const safeItem = sanitizeItem(record.item, record.section.title);
-  const sectionTitle = escapeHtml(record.section.title ?? "未命名栏目");
-  const sectionLabel = escapeHtml(sectionLabels[record.section.id] || "SECTION");
-  const sectionAnchor = sanitizeSectionId(record.section.id);
   const sourceLink =
     safeItem.source_url === "#"
       ? ""
@@ -758,28 +747,16 @@ const renderDetailPage = (record) => {
     .join("");
 
   return `
-    <header class="masthead">
-      <p class="edition">JICHUAN DAILY</p>
-      <h1><a href="#">寂川日报</a></h1>
-      <p class="deck">AI news, practical guides, and open-source intelligence.</p>
-      <p class="issue-meta">${todayText} ｜ Detail</p>
-    </header>
     <main class="detail-main">
       <article class="detail-article">
-        <p class="section-label">${sectionLabel}</p>
-        <p class="detail-breadcrumb"><a href="#${sectionAnchor}">${sectionTitle}</a></p>
         <h2 class="detail-title">${safeItem.title}</h2>
         <p class="meta">分类：${safeItem.category} ｜ 发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
         <p class="detail-intro">${safeItem.content.intro}</p>
         ${detailBlocksHtml}
         ${sourcesListHtml}
         ${sourceLink}
-        <p class="detail-actions"><a class="back-home-link" href="#${sectionAnchor}">返回栏目</a></p>
       </article>
     </main>
-    <footer>
-      <p>改版说明：保留三栏目，采用更接近 WSJ 的极简新闻排版。</p>
-    </footer>
   `;
 };
 
