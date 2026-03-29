@@ -10,19 +10,21 @@
 // summary: 摘要（50字以内，必须包含事实结论，不写空泛判断）
 // featured: true | false （是否作为 MAIN STORY 主推）
 // ---
+// Title rule: prefer latest project-specific action headline; avoid generic "一周全纪录" default style.
 // Content rule: not title aggregation only.
 // Each section must include verified facts (time, actor, action, numbers/metrics).
 // Must include: source-content extraction + cross-source synthesis + objective analysis.
 // Body style: de-source narrative. Do not lead with media-attribution phrases; put links in final sources section.
 // Pre-publish check: >=2 facts per section, include consensus+uncertainty+why-it-matters, and keep full clickable links in final sources list.
 // Trend words require dated timeline points; conclusions must follow explicit facts, and all selected sources must be substantively used.
+// Writing style: vary sentence patterns and news leads; avoid repetitive opener templates.
 const sections = [
   {
     id: "ai-news",
     title: "AI新闻",
     items: [
       {
-        title: "Claude Code一周全纪录",
+        title: "Claude Code自动模式上线",
         category: "AI新闻",
         date: "2026-03-29",
         summary: "自动模式、电脑接管与跨端协同，构成Claude Code近周核心变化。",
