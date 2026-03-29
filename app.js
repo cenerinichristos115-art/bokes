@@ -1,28 +1,133 @@
+// Article authoring template:
+// ---
+// title: 文章标题（20字以内，简洁有力）
+// category: AI新闻 | AI使用教程 | 开源项目
+// date: 2026-03-29
+// source: 来源名称（如 GITHUB / SIGNAL FOLD / BOKE LAB）
+// source_url: https://原文链接
+// summary: 摘要（50字以内，显示在列表页和三栏首页）
+// featured: true | false （是否作为 MAIN STORY 主推）
+// ---
+// 正文第一段（无需标题，直接陈述核心内容）
+// ## 二级标题
+// 段落内容……
+// ## 二级标题
+// 段落内容……
+// [查看原始来源](原文链接)
 const sections = [
   {
     id: "ai-news",
     title: "AI新闻",
     items: [
       {
-        title: "多家企业将 AI 智能体接入客服与销售流程",
+        title: "Claude Cowork会自己做事了",
+        category: "AI新闻",
+        date: "2026-03-23",
+        summary: "Cowork新增Dispatch与电脑代办，Claude可跨手机和桌面连续执行任务，先向Pro/Max开放研究预览。",
+        featured: true,
+        content: {
+          intro:
+            "Anthropic 在 2026 年 3 月 23 日为 Claude Cowork 发布关键更新：新增 Dispatch 任务调度与 Computer use 电脑代办能力，目标是让 Claude 不只“回答问题”，而是持续完成跨工具工作流。",
+          blocks: [
+            {
+              heading: "这次更新了什么",
+              paragraphs: [
+                "Dispatch 会把待办任务集中交给 Claude 跟进，即使你不在电脑前，它也能在手机和桌面之间持续推进进度。团队可把原本零散的跟进动作，改造成可追踪的连续执行流程。",
+                "Computer use 已并入 Cowork 与 Claude Code。Claude 会先尝试通过连接器调用工具；如果无法直连，它可以在获准后接管浏览器、鼠标和键盘去完成网页级操作。",
+              ],
+            },
+            {
+              heading: "当前边界与风险",
+              paragraphs: [
+                "该能力目前以研究预览形式先向 Pro 与 Max 订阅用户开放，并运行在 macOS 桌面端。要让任务不中断，需要在设置中启用选项，并保持桌面设备在线。",
+                "Anthropic 同时提醒，这类自动化在复杂场景仍可能出错，执行速度也未必快于原生集成。涉及金融或医疗等高风险应用时，仍应采用人工复核和更严格权限控制。",
+              ],
+            },
+          ],
+        },
+        source: "CLAUDE BLOG",
+        source_url: "https://claude.com/blog/dispatch-and-computer-use",
+      },
+      {
+        title: "AI智能体进驻一线业务",
+        category: "AI新闻",
         date: "2026-03-26",
-        summary: "企业应用重点从演示效果转向稳定交付，围绕权限、追踪和回退机制展开部署。",
+        summary: "客服与销售开始规模化接入AI智能体，企业把可回滚、可审计和监控能力放在首位。",
+        featured: false,
+        content: {
+          intro:
+            "本周多家企业在客服和销售场景上线了面向真实用户的 AI 智能体，不再停留在内部演示。项目负责人普遍把“可回滚、可审计、可监控”作为第一优先级，而不是单次回答的惊艳程度。",
+          blocks: [
+            {
+              heading: "部署方式",
+              paragraphs: [
+                "在落地方式上，团队通常采用“规则系统 + 模型决策”的双轨结构：高风险动作由规则层兜底，模型负责检索、归纳和对话。这样可以在保证体验的同时，把误操作风险控制在可接受范围内。",
+              ],
+            },
+            {
+              heading: "关键结论",
+              paragraphs: [
+                "企业侧反馈显示，真正影响效果的并不是模型参数规模，而是业务知识接入质量、权限边界定义和异常处理流程。能够把这些基础能力跑通的团队，才更容易实现稳定的成本下降和效率提升。",
+              ],
+            },
+          ],
+        },
         source: "Signal Fold 编辑部",
-        url: "https://example.com/ai-news-1",
+        source_url: "https://example.com/ai-news-1",
       },
       {
-        title: "推理算力采购增长，训练预算增速放缓",
+        title: "推理算力成采购新焦点",
+        category: "AI新闻",
         date: "2026-03-24",
-        summary: "采购方更关注推理效率和单位成本，基础设施策略向长期运营倾斜。",
+        summary: "训练扩容放缓，预算转向推理效率与单位成本，基础设施进入长期运营比拼。",
+        featured: false,
+        content: {
+          intro:
+            "今年一季度，多家云厂商和大型应用公司把新增预算从“训练集群扩容”转向“推理集群优化”。核心目标是降低单位请求成本，并提升高峰时段的响应稳定性。",
+          blocks: [
+            {
+              heading: "采购指标变化",
+              paragraphs: [
+                "采购决策也更加偏向长期运营指标，例如每千次请求成本、缓存命中率、模型切换时延和灰度发布成功率。相比过去只看峰值性能，现在更强调全链路可观测和可运维性。",
+              ],
+            },
+            {
+              heading: "行业影响",
+              paragraphs: [
+                "行业分析认为，这种变化意味着 AI 基础设施进入“运营效率竞争”阶段。能在推理侧实现更高吞吐和更低故障率的团队，将在商业化落地上获得更明显优势。",
+              ],
+            },
+          ],
+        },
         source: "Infra Watch",
-        url: "https://example.com/ai-news-2",
+        source_url: "https://example.com/ai-news-2",
       },
       {
-        title: "开源模型迭代加快，行业应用门槛继续下降",
+        title: "开源模型加速应用普及",
+        category: "AI新闻",
         date: "2026-03-22",
-        summary: "产品竞争重心从模型参数转向业务流程与场景化体验。",
+        summary: "模型可得性提升后，竞争重心转向流程设计、数据治理与场景化体验。",
+        featured: false,
+        content: {
+          intro:
+            "开源模型社区在最近几个月保持高频更新，围绕长上下文、工具调用和指令跟随能力持续改进。对中小团队而言，获得“够用且可定制”的模型方案变得更容易。",
+          blocks: [
+            {
+              heading: "竞争重心迁移",
+              paragraphs: [
+                "随着模型可得性提升，产品差异化不再主要来自底层模型本身，而是来自流程设计、数据治理和交互体验。谁能把业务知识沉淀成稳定流程，谁就更容易形成壁垒。",
+              ],
+            },
+            {
+              heading: "实践趋势",
+              paragraphs: [
+                "不少团队已从“追最新模型”转为“按任务选模型”，在成本、速度和效果之间做组合优化。这种工程化思路正在成为行业默认做法。",
+              ],
+            },
+          ],
+        },
         source: "Tech Field Notes",
-        url: "https://example.com/ai-news-3",
+        source_url: "https://example.com/ai-news-3",
       },
     ],
   },
@@ -31,25 +136,85 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
-        title: "教程：从零搭建个人 AI 新闻工作流",
+        title: "个人AI新闻流实战指南",
+        category: "AI使用教程",
         date: "2026-03-25",
-        summary: "介绍选题收集、提示词模板、摘要复核和发布节奏，适合内容创作者。",
+        summary: "从信息源分层、提示词模板到发布复核，搭建可持续的个人内容生产流程。",
+        featured: false,
+        content: {
+          intro:
+            "第一步先明确信息源边界，把资讯渠道分成“官方公告、行业媒体、社区讨论”三类，并为每类设置固定采集时间。这样可以减少无效浏览，保证输入质量。",
+          blocks: [
+            {
+              heading: "模板固化",
+              paragraphs: [
+                "第二步是建立统一提示词模板，要求模型输出来源、关键结论、潜在偏差和可验证点。模板固定后，内容生产会从“临场发挥”变成“流程执行”。",
+              ],
+            },
+            {
+              heading: "发布前复核",
+              paragraphs: [
+                "第三步加入人工复核清单，包括事实核对、措辞风险和发布时间窗口。通过“机器初稿 + 人工校对”的模式，个人创作者也能稳定产出高质量内容。",
+              ],
+            },
+          ],
+        },
         source: "Boke Lab",
-        url: "https://example.com/ai-guide-1",
+        source_url: "https://example.com/ai-guide-1",
       },
       {
-        title: "教程：用 AI 做会议纪要与行动项跟踪",
+        title: "会议纪要自动化落地法",
+        category: "AI使用教程",
         date: "2026-03-23",
-        summary: "通过结构化提示词让纪要输出统一格式，并自动提取责任人与截止时间。",
+        summary: "用结构化提示词统一纪要格式，自动提取负责人和截止时间，提升协作追踪效率。",
+        featured: false,
+        content: {
+          intro:
+            "会议纪要场景的关键不是“写得像人”，而是“结构一致、可追踪”。建议固定输出为：结论、行动项、负责人、截止时间、阻塞风险五个模块。",
+          blocks: [
+            {
+              heading: "产出流程",
+              paragraphs: [
+                "在实践中，可先让模型基于录音转写生成初稿，再由主持人快速补充上下文和优先级。这样既能减少整理时间，也能避免信息丢失。",
+              ],
+            },
+            {
+              heading: "跟踪机制",
+              paragraphs: [
+                "行动项跟踪建议接入表格或任务系统，按周回顾完成率与延期原因。持续复盘后，团队会逐步形成更清晰的协作节奏。",
+              ],
+            },
+          ],
+        },
         source: "Workflow Journal",
-        url: "https://example.com/ai-guide-2",
+        source_url: "https://example.com/ai-guide-2",
       },
       {
-        title: "教程：构建高质量提示词的 5 步法",
+        title: "高质量提示词五步法",
+        category: "AI使用教程",
         date: "2026-03-21",
-        summary: "从目标定义、上下文约束、输出结构到验收标准，降低无效生成。",
+        summary: "明确目标、补齐上下文、约束输出并设验收标准，显著降低无效生成与返工。",
+        featured: false,
+        content: {
+          intro:
+            "第一步先写清任务目标和使用场景，避免把多个目标塞进同一条提示词。目标越具体，模型输出越稳定。",
+          blocks: [
+            {
+              heading: "边界约束",
+              paragraphs: [
+                "第二步提供必要上下文与边界条件，例如受众、语气、禁用内容和引用要求。边界清楚后，返工率会明显下降。",
+              ],
+            },
+            {
+              heading: "验收标准",
+              paragraphs: [
+                "第三步定义输出结构和验收标准，比如字段顺序、字数范围和质量检查项。最后通过小样本迭代持续修正，形成可复用模板库。",
+              ],
+            },
+          ],
+        },
         source: "Prompt Practice",
-        url: "https://example.com/ai-guide-3",
+        source_url: "https://example.com/ai-guide-3",
       },
     ],
   },
@@ -58,25 +223,85 @@ const sections = [
     title: "开源项目",
     items: [
       {
-        title: "项目：轻量级本地 RAG 检索模板",
+        title: "本地RAG最小模板发布",
+        category: "开源项目",
         date: "2026-03-26",
-        summary: "提供最小可运行示例，包含文档切分、向量检索和问答接口。",
+        summary: "开箱覆盖切分、向量检索与问答接口，适合作为内部知识库原型起点。",
+        featured: false,
+        content: {
+          intro:
+            "该模板聚焦“本地可跑通”与“依赖最少”，默认提供文档导入、切分、向量化、检索与问答五个基础模块，适合作为内部知识库原型的起点。",
+          blocks: [
+            {
+              heading: "可替换设计",
+              paragraphs: [
+                "项目结构按职责拆分，便于替换组件：你可以独立更换嵌入模型、向量数据库或重排策略，而不需要重写整条链路。",
+              ],
+            },
+            {
+              heading: "落地建议",
+              paragraphs: [
+                "维护者建议先用小规模文档验证召回质量，再逐步扩大数据量并加入监控指标，这样能更快定位性能瓶颈和答案偏差。",
+              ],
+            },
+          ],
+        },
         source: "GitHub",
-        url: "https://example.com/open-source-1",
+        source_url: "https://example.com/open-source-1",
       },
       {
-        title: "项目：AI 代理任务编排脚手架",
+        title: "AI代理编排脚手架开源",
+        category: "开源项目",
         date: "2026-03-24",
-        summary: "支持多步骤任务拆分与状态追踪，便于快速搭建自动化流程。",
+        summary: "支持任务拆分、状态追踪与失败重试，便于快速搭建可回放的自动化流程。",
+        featured: false,
+        content: {
+          intro:
+            "这个脚手架提供任务分解、状态机调度和失败重试机制，适合搭建“多步骤、可回放”的代理流程。开发者可以清晰看到每一步的输入、输出和耗时。",
+          blocks: [
+            {
+              heading: "风险控制",
+              paragraphs: [
+                "框架内置了人工接管节点，当模型置信度不足或触发高风险动作时，流程会自动转入人工审批，降低自动化系统的事故概率。",
+              ],
+            },
+            {
+              heading: "实施路径",
+              paragraphs: [
+                "实际使用中，团队通常先从 2 到 3 步的简单流程开始，跑通后再增加分支和工具调用，避免一次性把系统复杂度拉满。",
+              ],
+            },
+          ],
+        },
         source: "GitHub",
-        url: "https://example.com/open-source-2",
+        source_url: "https://example.com/open-source-2",
       },
       {
-        title: "项目：中文提示词评测集",
+        title: "中文提示词评测集上线",
+        category: "开源项目",
         date: "2026-03-20",
-        summary: "用于比较不同提示词模板在摘要、改写和问答任务下的稳定性。",
+        summary: "覆盖摘要改写与问答任务，帮助团队评估模板稳定性并沉淀可复用资产。",
+        featured: false,
+        content: {
+          intro:
+            "该评测集覆盖摘要、改写、信息抽取和问答等常见任务，重点关注中文语境下的稳定性差异。每个样本都提供了可复现的评分维度和参考输出。",
+          blocks: [
+            {
+              heading: "评测维度",
+              paragraphs: [
+                "相比只看单次效果，这套评测更强调“多轮、多模型、多温度”的一致性表现，有助于识别提示词在真实生产环境中的波动风险。",
+              ],
+            },
+            {
+              heading: "团队价值",
+              paragraphs: [
+                "对于内容团队和应用团队来说，这类基准可以帮助快速筛选可复用模板，把经验从个人技巧沉淀为团队资产。",
+              ],
+            },
+          ],
+        },
         source: "Open Dataset Hub",
-        url: "https://example.com/open-source-3",
+        source_url: "https://example.com/open-source-3",
       },
     ],
   },
@@ -88,99 +313,324 @@ const sectionLabels = {
   "open-source": "OPEN SOURCE",
 };
 
-const formatDate = (value) => {
-  const [y, m, d] = value.split("-");
-  return `${y}-${m}-${d}`;
-};
+const allowedCategories = ["AI新闻", "AI使用教程", "开源项目"];
 
 const today = new Date();
 const todayText = `${today.getFullYear()}-${`${today.getMonth() + 1}`.padStart(2, "0")}-${`${today.getDate()}`.padStart(2, "0")}`;
 
+const escapeHtml = (value = "") =>
+  String(value).replace(/[&<>"']/g, (char) => {
+    const map = {
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#39;",
+    };
+    return map[char];
+  });
+
+const sanitizeUrl = (value) => {
+  if (typeof value !== "string") {
+    return "#";
+  }
+  try {
+    const parsed = new URL(value, window.location.origin);
+    if (parsed.protocol === "http:" || parsed.protocol === "https:") {
+      return parsed.href;
+    }
+  } catch {
+    return "#";
+  }
+  return "#";
+};
+
+const sanitizeSectionId = (value = "") => {
+  const normalized = String(value).toLowerCase().replace(/[^a-z0-9_-]/g, "-");
+  return normalized || "section";
+};
+
+const formatDate = (value) => {
+  if (typeof value !== "string") {
+    return todayText;
+  }
+  const match = value.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!match) {
+    return todayText;
+  }
+  return `${match[1]}-${match[2]}-${match[3]}`;
+};
+
+const normalizeCategory = (value, fallback = "") => {
+  const category = typeof value === "string" ? value.trim() : "";
+  if (allowedCategories.includes(category)) {
+    return category;
+  }
+  const fallbackCategory = typeof fallback === "string" ? fallback.trim() : "";
+  if (allowedCategories.includes(fallbackCategory)) {
+    return fallbackCategory;
+  }
+  return "AI新闻";
+};
+
+const normalizeContent = (item = {}) => {
+  if (item.content && typeof item.content === "object" && !Array.isArray(item.content)) {
+    const intro =
+      typeof item.content.intro === "string" && item.content.intro.trim().length > 0
+        ? item.content.intro
+        : item.summary ?? "暂无正文。";
+
+    const blocks = Array.isArray(item.content.blocks)
+      ? item.content.blocks
+          .map((block) => {
+            if (!block || typeof block !== "object") {
+              return null;
+            }
+            const heading =
+              typeof block.heading === "string" && block.heading.trim().length > 0
+                ? block.heading
+                : "小标题";
+            const paragraphs = Array.isArray(block.paragraphs)
+              ? block.paragraphs.filter((paragraph) => typeof paragraph === "string" && paragraph.trim().length > 0)
+              : [];
+            if (paragraphs.length === 0) {
+              return null;
+            }
+            return { heading, paragraphs };
+          })
+          .filter(Boolean)
+      : [];
+
+    return { intro, blocks };
+  }
+
+  if (Array.isArray(item.content) && item.content.length > 0) {
+    const paragraphs = item.content.filter((paragraph) => typeof paragraph === "string" && paragraph.trim().length > 0);
+    const [intro, ...rest] = paragraphs;
+    return {
+      intro: intro ?? item.summary ?? "暂无正文。",
+      blocks: rest.length > 0 ? [{ heading: "正文", paragraphs: rest }] : [],
+    };
+  }
+
+  return { intro: item.summary ?? "暂无正文。", blocks: [] };
+};
+
+const sanitizeItem = (item = {}, fallbackCategory = "") => {
+  const normalizedContent = normalizeContent(item);
+  return {
+    title: escapeHtml(item.title ?? "暂无标题"),
+    category: escapeHtml(normalizeCategory(item.category, fallbackCategory)),
+    date: formatDate(item.date),
+    summary: escapeHtml(item.summary ?? ""),
+    featured: item.featured === true,
+    content: {
+      intro: escapeHtml(normalizedContent.intro),
+      blocks: normalizedContent.blocks.map((block) => ({
+        heading: escapeHtml(block.heading),
+        paragraphs: block.paragraphs.map((paragraph) => escapeHtml(paragraph)),
+      })),
+    },
+    source: escapeHtml(item.source ?? "未知来源"),
+    source_url: sanitizeUrl(item.source_url ?? item.url),
+  };
+};
+
+const emptyItem = {
+  title: "暂无内容",
+  category: "AI新闻",
+  date: todayText,
+  summary: "该栏目暂未更新。",
+  featured: false,
+  content: {
+    intro: "该栏目暂未更新。",
+    blocks: [],
+  },
+  source: "寂川日报",
+  source_url: "#",
+};
+
+const getSectionItems = (section) => (section && Array.isArray(section.items) ? section.items : []);
+
+const getFrontLeadData = (section) => {
+  const items = getSectionItems(section);
+  const firstItem = items[0];
+  if (!section || !firstItem) {
+    return {
+      href: "#",
+      item: sanitizeItem(emptyItem, section?.title ?? ""),
+    };
+  }
+  return {
+    href: buildDetailHash(section.id, 0),
+    item: sanitizeItem(firstItem, section.title),
+  };
+};
+
+const findMainStoryRecord = () => {
+  let fallback = null;
+  for (const section of sections) {
+    const items = getSectionItems(section);
+    for (let index = 0; index < items.length; index += 1) {
+      const item = items[index];
+      if (!item) {
+        continue;
+      }
+      if (!fallback) {
+        fallback = { section, item, index };
+      }
+      if (item.featured === true) {
+        return { section, item, index };
+      }
+    }
+  }
+  return fallback;
+};
+
+const buildDetailHash = (sectionId, index) => `#detail-${encodeURIComponent(sectionId)}-${index}`;
+
+const parseDetailHash = (hash) => {
+  if (typeof hash !== "string") {
+    return null;
+  }
+  const match = hash.match(/^#detail-(.+)-(\d+)$/);
+  if (!match) {
+    return null;
+  }
+  try {
+    const sectionId = decodeURIComponent(match[1]);
+    const index = Number.parseInt(match[2], 10);
+    if (!Number.isInteger(index) || index < 0) {
+      return null;
+    }
+    return { sectionId, index };
+  } catch {
+    return null;
+  }
+};
+
+const findArticleByRoute = (route) => {
+  if (!route) {
+    return null;
+  }
+  const section = sections.find((entry) => entry.id === route.sectionId);
+  if (!section) {
+    return null;
+  }
+  const items = getSectionItems(section);
+  const item = items[route.index];
+  if (!item) {
+    return null;
+  }
+  return { section, item, index: route.index };
+};
+
 const renderNav = () => {
   const items = sections
-    .map((section) => `<li><a href="#${section.id}">${section.title}</a></li>`)
+    .map((section) => {
+      const sectionId = sanitizeSectionId(section.id);
+      const sectionTitle = escapeHtml(section.title ?? "未命名栏目");
+      return `<li><a href="#${sectionId}">${sectionTitle}</a></li>`;
+    })
     .join("");
   return `<nav class="top-nav" aria-label="栏目导航"><ul>${items}</ul></nav>`;
 };
 
-const renderLead = (item) => {
+const renderLead = (sectionId, sectionCategory, item, index) => {
+  const safeItem = sanitizeItem(item, sectionCategory);
+  const detailHash = buildDetailHash(sectionId, index);
   return `
     <article class="lead-story">
-      <h3><a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a></h3>
-      <p class="meta">发布日期：<time datetime="${item.date}">${formatDate(item.date)}</time> ｜ 来源：${item.source}</p>
-      <p class="summary">${item.summary}</p>
+      <h3><a href="${detailHash}">${safeItem.title}</a></h3>
+      <p class="meta">发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
+      <p class="summary">${safeItem.summary}</p>
     </article>
   `;
 };
 
-const renderList = (items) => {
+const renderList = (sectionId, sectionCategory, items, startIndex = 0) => {
   const html = items
-    .map(
-      (item) => `
+    .map((item, idx) => {
+      const safeItem = sanitizeItem(item, sectionCategory);
+      const detailHash = buildDetailHash(sectionId, startIndex + idx);
+      return `
         <li>
           <article>
-            <h4><a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a></h4>
-            <p class="meta">发布日期：<time datetime="${item.date}">${formatDate(item.date)}</time> ｜ 来源：${item.source}</p>
-            <p class="summary">${item.summary}</p>
+            <h4><a href="${detailHash}">${safeItem.title}</a></h4>
+            <p class="meta">发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
+            <p class="summary">${safeItem.summary}</p>
           </article>
         </li>
-      `,
-    )
+      `;
+    })
     .join("");
 
   return `<ul class="story-list">${html}</ul>`;
 };
 
 const renderSection = (section) => {
-  const [lead, ...rest] = section.items;
+  const sectionId = sanitizeSectionId(section.id);
+  const sectionTitle = escapeHtml(section.title ?? "未命名栏目");
+  const items = getSectionItems(section);
+  const [lead, ...rest] = items;
+  const sectionLabel = escapeHtml(sectionLabels[section.id] || "SECTION");
   return `
-    <section class="news-section" id="${section.id}" aria-labelledby="title-${section.id}">
+    <section class="news-section" id="${sectionId}" aria-labelledby="title-${sectionId}">
       <header class="section-head">
-        <p class="section-label">${sectionLabels[section.id]}</p>
-        <h2 id="title-${section.id}">${section.title}</h2>
+        <p class="section-label">${sectionLabel}</p>
+        <h2 id="title-${sectionId}">${sectionTitle}</h2>
       </header>
       <div class="section-grid">
-        ${renderLead(lead)}
-        ${renderList(rest)}
+        ${lead ? `${renderLead(section.id, section.title, lead, 0)}${renderList(section.id, section.title, rest, 1)}` : `<p class="empty-state">本栏目暂时没有内容。</p>`}
       </div>
     </section>
   `;
 };
 
 const renderFrontPage = () => {
-  const [aiLead, guideLead, openLead] = sections.map((section) => section.items[0]);
+  const guideLeadData = getFrontLeadData(sections.find((section) => section.id === "ai-guide"));
+  const openLeadData = getFrontLeadData(sections.find((section) => section.id === "open-source"));
+  const mainStory = findMainStoryRecord();
+  const mainStoryData = mainStory
+    ? {
+        href: buildDetailHash(mainStory.section.id, mainStory.index),
+        item: sanitizeItem(mainStory.item, mainStory.section.title),
+      }
+    : {
+        href: "#",
+        item: sanitizeItem(emptyItem),
+      };
+
   return `
     <section class="front-page" aria-labelledby="front-page-title">
       <h2 id="front-page-title" class="visually-hidden">头版要闻</h2>
       <div class="front-grid">
         <aside class="front-col front-col-left">
           <p class="front-kicker">Left Column</p>
-          <h3><a href="${guideLead.url}" target="_blank" rel="noreferrer">${guideLead.title}</a></h3>
-          <p class="meta">发布日期：<time datetime="${guideLead.date}">${formatDate(guideLead.date)}</time> ｜ 来源：${guideLead.source}</p>
-          <p class="summary">${guideLead.summary}</p>
+          <h3><a href="${guideLeadData.href}">${guideLeadData.item.title}</a></h3>
+          <p class="meta">发布日期：<time datetime="${guideLeadData.item.date}">${guideLeadData.item.date}</time> ｜ 来源：${guideLeadData.item.source}</p>
+          <p class="summary">${guideLeadData.item.summary}</p>
         </aside>
         <article class="front-main">
           <p class="front-kicker">Main Story</p>
-          <h3><a href="${aiLead.url}" target="_blank" rel="noreferrer">${aiLead.title}</a></h3>
-          <p class="meta">发布日期：<time datetime="${aiLead.date}">${formatDate(aiLead.date)}</time> ｜ 来源：${aiLead.source}</p>
-          <p class="summary">${aiLead.summary}</p>
+          <h3><a href="${mainStoryData.href}">${mainStoryData.item.title}</a></h3>
+          <p class="meta">发布日期：<time datetime="${mainStoryData.item.date}">${mainStoryData.item.date}</time> ｜ 来源：${mainStoryData.item.source}</p>
+          <p class="summary">${mainStoryData.item.summary}</p>
         </article>
         <aside class="front-col front-col-right">
           <p class="front-kicker">Right Column</p>
-          <h3><a href="${openLead.url}" target="_blank" rel="noreferrer">${openLead.title}</a></h3>
-          <p class="meta">发布日期：<time datetime="${openLead.date}">${formatDate(openLead.date)}</time> ｜ 来源：${openLead.source}</p>
-          <p class="summary">${openLead.summary}</p>
+          <h3><a href="${openLeadData.href}">${openLeadData.item.title}</a></h3>
+          <p class="meta">发布日期：<time datetime="${openLeadData.item.date}">${openLeadData.item.date}</time> ｜ 来源：${openLeadData.item.source}</p>
+          <p class="summary">${openLeadData.item.summary}</p>
         </aside>
       </div>
     </section>
   `;
 };
 
-const renderApp = () => {
-  const app = document.querySelector("#app");
+const renderHomePage = () => {
   const sectionHtml = sections.map(renderSection).join("");
-
-  app.innerHTML = `
+  return `
     <header class="masthead">
       <p class="edition">JICHUAN DAILY</p>
       <h1>寂川日报</h1>
@@ -198,4 +648,102 @@ const renderApp = () => {
   `;
 };
 
+const renderDetailNotFound = () => `
+  <header class="masthead">
+    <p class="edition">JICHUAN DAILY</p>
+    <h1><a href="#">寂川日报</a></h1>
+    <p class="deck">AI news, practical guides, and open-source intelligence.</p>
+    <p class="issue-meta">${todayText} ｜ Detail</p>
+  </header>
+  <main class="detail-main">
+    <article class="detail-article">
+      <p class="section-label">DETAIL</p>
+      <h2 class="detail-title">内容不存在</h2>
+      <p class="summary">这条详情可能已被删除，或链接地址不正确。</p>
+      <p class="detail-actions"><a class="back-home-link" href="#">返回首页</a></p>
+    </article>
+  </main>
+  <footer>
+    <p>改版说明：保留三栏目，采用更接近 WSJ 的极简新闻排版。</p>
+  </footer>
+`;
+
+const renderDetailPage = (record) => {
+  if (!record) {
+    return renderDetailNotFound();
+  }
+  const safeItem = sanitizeItem(record.item, record.section.title);
+  const sectionTitle = escapeHtml(record.section.title ?? "未命名栏目");
+  const sectionLabel = escapeHtml(sectionLabels[record.section.id] || "SECTION");
+  const sectionAnchor = sanitizeSectionId(record.section.id);
+  const sourceLink =
+    safeItem.source_url === "#"
+      ? ""
+      : `<p class="detail-source-link"><a href="${safeItem.source_url}" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>`;
+  const detailBlocksHtml = safeItem.content.blocks
+    .map(
+      (block) => `
+        <section class="detail-block">
+          <h3 class="detail-subtitle">${block.heading}</h3>
+          ${block.paragraphs.map((paragraph) => `<p class="detail-body">${paragraph}</p>`).join("")}
+        </section>
+      `,
+    )
+    .join("");
+
+  return `
+    <header class="masthead">
+      <p class="edition">JICHUAN DAILY</p>
+      <h1><a href="#">寂川日报</a></h1>
+      <p class="deck">AI news, practical guides, and open-source intelligence.</p>
+      <p class="issue-meta">${todayText} ｜ Detail</p>
+    </header>
+    <main class="detail-main">
+      <article class="detail-article">
+        <p class="section-label">${sectionLabel}</p>
+        <p class="detail-breadcrumb"><a href="#${sectionAnchor}">${sectionTitle}</a></p>
+        <h2 class="detail-title">${safeItem.title}</h2>
+        <p class="meta">分类：${safeItem.category} ｜ 发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
+        <p class="detail-intro">${safeItem.content.intro}</p>
+        ${detailBlocksHtml}
+        ${sourceLink}
+        <p class="detail-actions"><a class="back-home-link" href="#${sectionAnchor}">返回栏目</a></p>
+      </article>
+    </main>
+    <footer>
+      <p>改版说明：保留三栏目，采用更接近 WSJ 的极简新闻排版。</p>
+    </footer>
+  `;
+};
+
+const renderApp = () => {
+  const app = document.querySelector("#app");
+  if (!app) {
+    return;
+  }
+
+  const hash = window.location.hash || "";
+  const detailRoute = parseDetailHash(hash);
+
+  if (detailRoute) {
+    app.innerHTML = renderDetailPage(findArticleByRoute(detailRoute));
+    return;
+  }
+
+  app.innerHTML = renderHomePage();
+
+  if (hash.startsWith("#") && hash.length > 1) {
+    const targetId = hash.slice(1);
+    if (!targetId.startsWith("detail-")) {
+      const target = document.getElementById(targetId);
+      if (target) {
+        requestAnimationFrame(() => {
+          target.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
+      }
+    }
+  }
+};
+
+window.addEventListener("hashchange", renderApp);
 renderApp();

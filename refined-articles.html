@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>寂川日报 - 精修内容总览</title>
+  <style>
+    :root { --bg:#fff; --text:#111; --muted:#555; --line:#222; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); font-family: Charter, Georgia, 'Noto Serif SC', serif; line-height:1.7; }
+    main { width:min(920px, calc(100vw - 32px)); margin:18px auto 40px; }
+    h1 { font-size:2.1rem; margin:0 0 6px; }
+    h2 { border-bottom:1px solid var(--line); padding-bottom:6px; margin:28px 0 12px; font-size:1.45rem; }
+    h3 { margin:0 0 4px; font-size:1.52rem; line-height:1.25; }
+    h4 { margin:12px 0 5px; font-size:1.05rem; }
+    article { border-bottom:1px solid #d2d2d2; padding:14px 0 18px; }
+    .kicker { font-size:.74rem; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:0 0 4px; }
+    .meta { color:var(--muted); font-size:.82rem; margin:0 0 6px; }
+    .summary { margin:0 0 8px; font-size:1rem; }
+    p { margin:0 0 8px; }
+    header { border-bottom:3px double var(--line); padding-bottom:10px; }
+    .note { color:var(--muted); font-size:.88rem; }
+    a { color:inherit; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>寂川日报：精修内容总览</h1>
+      <p class="note">生成日期：2026-03-29 ｜ 最新稿含 Claude Cowork 专题</p>
+    </header>
+    
+<section>
+  <h2>AI新闻</h2>
+  
+<article id="ai-news-1">
+  <p class="kicker">AI新闻 | MAIN STORY</p>
+  <h3>Claude Cowork会自己做事了</h3>
+  <p class="meta">发布日期：2026-03-23 ｜ 来源：CLAUDE BLOG</p>
+  <p class="summary">Cowork新增Dispatch与电脑代办，Claude可跨手机和桌面连续执行任务，先向Pro/Max开放研究预览。</p>
+  <p>Anthropic 在 2026 年 3 月 23 日为 Claude Cowork 发布关键更新：新增 Dispatch 任务调度与 Computer use 电脑代办能力，目标是让 Claude 不只“回答问题”，而是持续完成跨工具工作流。</p>
+  <section><h4>这次更新了什么</h4><p>Dispatch 会把待办任务集中交给 Claude 跟进，即使你不在电脑前，它也能在手机和桌面之间持续推进进度。团队可把原本零散的跟进动作，改造成可追踪的连续执行流程。</p><p>Computer use 已并入 Cowork 与 Claude Code。Claude 会先尝试通过连接器调用工具；如果无法直连，它可以在获准后接管浏览器、鼠标和键盘去完成网页级操作。</p></section><section><h4>当前边界与风险</h4><p>该能力目前以研究预览形式先向 Pro 与 Max 订阅用户开放，并运行在 macOS 桌面端。要让任务不中断，需要在设置中启用选项，并保持桌面设备在线。</p><p>Anthropic 同时提醒，这类自动化在复杂场景仍可能出错，执行速度也未必快于原生集成。涉及金融或医疗等高风险应用时，仍应采用人工复核和更严格权限控制。</p></section>
+  <p><a href="https://claude.com/blog/dispatch-and-computer-use" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="ai-news-2">
+  <p class="kicker">AI新闻</p>
+  <h3>AI智能体进驻一线业务</h3>
+  <p class="meta">发布日期：2026-03-26 ｜ 来源：Signal Fold 编辑部</p>
+  <p class="summary">客服与销售开始规模化接入AI智能体，企业把可回滚、可审计和监控能力放在首位。</p>
+  <p>本周多家企业在客服和销售场景上线了面向真实用户的 AI 智能体，不再停留在内部演示。项目负责人普遍把“可回滚、可审计、可监控”作为第一优先级，而不是单次回答的惊艳程度。</p>
+  <section><h4>部署方式</h4><p>在落地方式上，团队通常采用“规则系统 + 模型决策”的双轨结构：高风险动作由规则层兜底，模型负责检索、归纳和对话。这样可以在保证体验的同时，把误操作风险控制在可接受范围内。</p></section><section><h4>关键结论</h4><p>企业侧反馈显示，真正影响效果的并不是模型参数规模，而是业务知识接入质量、权限边界定义和异常处理流程。能够把这些基础能力跑通的团队，才更容易实现稳定的成本下降和效率提升。</p></section>
+  <p><a href="https://example.com/ai-news-1" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="ai-news-3">
+  <p class="kicker">AI新闻</p>
+  <h3>推理算力成采购新焦点</h3>
+  <p class="meta">发布日期：2026-03-24 ｜ 来源：Infra Watch</p>
+  <p class="summary">训练扩容放缓，预算转向推理效率与单位成本，基础设施进入长期运营比拼。</p>
+  <p>今年一季度，多家云厂商和大型应用公司把新增预算从“训练集群扩容”转向“推理集群优化”。核心目标是降低单位请求成本，并提升高峰时段的响应稳定性。</p>
+  <section><h4>采购指标变化</h4><p>采购决策也更加偏向长期运营指标，例如每千次请求成本、缓存命中率、模型切换时延和灰度发布成功率。相比过去只看峰值性能，现在更强调全链路可观测和可运维性。</p></section><section><h4>行业影响</h4><p>行业分析认为，这种变化意味着 AI 基础设施进入“运营效率竞争”阶段。能在推理侧实现更高吞吐和更低故障率的团队，将在商业化落地上获得更明显优势。</p></section>
+  <p><a href="https://example.com/ai-news-2" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="ai-news-4">
+  <p class="kicker">AI新闻</p>
+  <h3>开源模型加速应用普及</h3>
+  <p class="meta">发布日期：2026-03-22 ｜ 来源：Tech Field Notes</p>
+  <p class="summary">模型可得性提升后，竞争重心转向流程设计、数据治理与场景化体验。</p>
+  <p>开源模型社区在最近几个月保持高频更新，围绕长上下文、工具调用和指令跟随能力持续改进。对中小团队而言，获得“够用且可定制”的模型方案变得更容易。</p>
+  <section><h4>竞争重心迁移</h4><p>随着模型可得性提升，产品差异化不再主要来自底层模型本身，而是来自流程设计、数据治理和交互体验。谁能把业务知识沉淀成稳定流程，谁就更容易形成壁垒。</p></section><section><h4>实践趋势</h4><p>不少团队已从“追最新模型”转为“按任务选模型”，在成本、速度和效果之间做组合优化。这种工程化思路正在成为行业默认做法。</p></section>
+  <p><a href="https://example.com/ai-news-3" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+</section>
+
+<section>
+  <h2>AI使用教程</h2>
+  
+<article id="ai-guide-1">
+  <p class="kicker">AI使用教程</p>
+  <h3>个人AI新闻流实战指南</h3>
+  <p class="meta">发布日期：2026-03-25 ｜ 来源：Boke Lab</p>
+  <p class="summary">从信息源分层、提示词模板到发布复核，搭建可持续的个人内容生产流程。</p>
+  <p>第一步先明确信息源边界，把资讯渠道分成“官方公告、行业媒体、社区讨论”三类，并为每类设置固定采集时间。这样可以减少无效浏览，保证输入质量。</p>
+  <section><h4>模板固化</h4><p>第二步是建立统一提示词模板，要求模型输出来源、关键结论、潜在偏差和可验证点。模板固定后，内容生产会从“临场发挥”变成“流程执行”。</p></section><section><h4>发布前复核</h4><p>第三步加入人工复核清单，包括事实核对、措辞风险和发布时间窗口。通过“机器初稿 + 人工校对”的模式，个人创作者也能稳定产出高质量内容。</p></section>
+  <p><a href="https://example.com/ai-guide-1" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="ai-guide-2">
+  <p class="kicker">AI使用教程</p>
+  <h3>会议纪要自动化落地法</h3>
+  <p class="meta">发布日期：2026-03-23 ｜ 来源：Workflow Journal</p>
+  <p class="summary">用结构化提示词统一纪要格式，自动提取负责人和截止时间，提升协作追踪效率。</p>
+  <p>会议纪要场景的关键不是“写得像人”，而是“结构一致、可追踪”。建议固定输出为：结论、行动项、负责人、截止时间、阻塞风险五个模块。</p>
+  <section><h4>产出流程</h4><p>在实践中，可先让模型基于录音转写生成初稿，再由主持人快速补充上下文和优先级。这样既能减少整理时间，也能避免信息丢失。</p></section><section><h4>跟踪机制</h4><p>行动项跟踪建议接入表格或任务系统，按周回顾完成率与延期原因。持续复盘后，团队会逐步形成更清晰的协作节奏。</p></section>
+  <p><a href="https://example.com/ai-guide-2" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="ai-guide-3">
+  <p class="kicker">AI使用教程</p>
+  <h3>高质量提示词五步法</h3>
+  <p class="meta">发布日期：2026-03-21 ｜ 来源：Prompt Practice</p>
+  <p class="summary">明确目标、补齐上下文、约束输出并设验收标准，显著降低无效生成与返工。</p>
+  <p>第一步先写清任务目标和使用场景，避免把多个目标塞进同一条提示词。目标越具体，模型输出越稳定。</p>
+  <section><h4>边界约束</h4><p>第二步提供必要上下文与边界条件，例如受众、语气、禁用内容和引用要求。边界清楚后，返工率会明显下降。</p></section><section><h4>验收标准</h4><p>第三步定义输出结构和验收标准，比如字段顺序、字数范围和质量检查项。最后通过小样本迭代持续修正，形成可复用模板库。</p></section>
+  <p><a href="https://example.com/ai-guide-3" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+</section>
+
+<section>
+  <h2>开源项目</h2>
+  
+<article id="open-source-1">
+  <p class="kicker">开源项目</p>
+  <h3>本地RAG最小模板发布</h3>
+  <p class="meta">发布日期：2026-03-26 ｜ 来源：GitHub</p>
+  <p class="summary">开箱覆盖切分、向量检索与问答接口，适合作为内部知识库原型起点。</p>
+  <p>该模板聚焦“本地可跑通”与“依赖最少”，默认提供文档导入、切分、向量化、检索与问答五个基础模块，适合作为内部知识库原型的起点。</p>
+  <section><h4>可替换设计</h4><p>项目结构按职责拆分，便于替换组件：你可以独立更换嵌入模型、向量数据库或重排策略，而不需要重写整条链路。</p></section><section><h4>落地建议</h4><p>维护者建议先用小规模文档验证召回质量，再逐步扩大数据量并加入监控指标，这样能更快定位性能瓶颈和答案偏差。</p></section>
+  <p><a href="https://example.com/open-source-1" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="open-source-2">
+  <p class="kicker">开源项目</p>
+  <h3>AI代理编排脚手架开源</h3>
+  <p class="meta">发布日期：2026-03-24 ｜ 来源：GitHub</p>
+  <p class="summary">支持任务拆分、状态追踪与失败重试，便于快速搭建可回放的自动化流程。</p>
+  <p>这个脚手架提供任务分解、状态机调度和失败重试机制，适合搭建“多步骤、可回放”的代理流程。开发者可以清晰看到每一步的输入、输出和耗时。</p>
+  <section><h4>风险控制</h4><p>框架内置了人工接管节点，当模型置信度不足或触发高风险动作时，流程会自动转入人工审批，降低自动化系统的事故概率。</p></section><section><h4>实施路径</h4><p>实际使用中，团队通常先从 2 到 3 步的简单流程开始，跑通后再增加分支和工具调用，避免一次性把系统复杂度拉满。</p></section>
+  <p><a href="https://example.com/open-source-2" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+
+<article id="open-source-3">
+  <p class="kicker">开源项目</p>
+  <h3>中文提示词评测集上线</h3>
+  <p class="meta">发布日期：2026-03-20 ｜ 来源：Open Dataset Hub</p>
+  <p class="summary">覆盖摘要改写与问答任务，帮助团队评估模板稳定性并沉淀可复用资产。</p>
+  <p>该评测集覆盖摘要、改写、信息抽取和问答等常见任务，重点关注中文语境下的稳定性差异。每个样本都提供了可复现的评分维度和参考输出。</p>
+  <section><h4>评测维度</h4><p>相比只看单次效果，这套评测更强调“多轮、多模型、多温度”的一致性表现，有助于识别提示词在真实生产环境中的波动风险。</p></section><section><h4>团队价值</h4><p>对于内容团队和应用团队来说，这类基准可以帮助快速筛选可复用模板，把经验从个人技巧沉淀为团队资产。</p></section>
+  <p><a href="https://example.com/open-source-3" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>
+</article>
+</section>
+  </main>
+</body>
+</html>
