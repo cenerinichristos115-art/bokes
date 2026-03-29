@@ -20,33 +20,34 @@ const sections = [
     title: "AI新闻",
     items: [
       {
-        title: "Claude Cowork会自己做事了",
+        title: "Claude Cowork中国热议升温",
         category: "AI新闻",
-        date: "2026-03-23",
-        summary: "Cowork新增Dispatch与电脑代办，Claude可跨手机和桌面连续执行任务，先向Pro/Max开放研究预览。",
+        date: "2026-03-24",
+        summary: "过去一周中国三家媒体集中关注其手机派单与电脑代办，焦点转向可用性与安全边界。",
         featured: true,
         content: {
           intro:
-            "Anthropic 在 2026 年 3 月 23 日为 Claude Cowork 发布关键更新：新增 Dispatch 任务调度与 Computer use 电脑代办能力，目标是让 Claude 不只“回答问题”，而是持续完成跨工具工作流。",
+            "在 2026 年 3 月 22 日至 3 月 29 日这一周内，Claude Cowork 在中国科技媒体的关注点明显收敛：不是“模型参数”，而是 Dispatch 与 Computer use 叠加后，是否真的能把手机派单、桌面执行、结果回传串成稳定工作流。",
           blocks: [
             {
-              heading: "这次更新了什么",
+              heading: "三条高相关报道",
               paragraphs: [
-                "Dispatch 会把待办任务集中交给 Claude 跟进，即使你不在电脑前，它也能在手机和桌面之间持续推进进度。团队可把原本零散的跟进动作，改造成可追踪的连续执行流程。",
-                "Computer use 已并入 Cowork 与 Claude Code。Claude 会先尝试通过连接器调用工具；如果无法直连，它可以在获准后接管浏览器、鼠标和键盘去完成网页级操作。",
+                "第一条来自 TechWeb（2026-03-24，新浪科技转载）：重点强调“可接管 Mac 桌面全操作”，并把 Cowork 与 Code 的电脑使用能力、Dispatch 的跨设备指令链路放在同一叙事里。",
+                "第二条来自 智东西（2026-03-24，凤凰网科技频道分发）：突出“Computer Use + Dispatch”组合，指出用户可在离开电脑后继续通过手机远程分派任务，强化了 Cowork 的连续执行定位。",
+                "第三条来自 新浪AI热点小时报（2026-03-24）：将上述能力纳入当日AI热点主线，反映该功能在中国资讯分发链路中已从单点新功能，进入“可落地办公能力”的讨论区间。",
               ],
             },
             {
-              heading: "当前边界与风险",
+              heading: "信息整合后的判断",
               paragraphs: [
-                "该能力目前以研究预览形式先向 Pro 与 Max 订阅用户开放，并运行在 macOS 桌面端。要让任务不中断，需要在设置中启用选项，并保持桌面设备在线。",
-                "Anthropic 同时提醒，这类自动化在复杂场景仍可能出错，执行速度也未必快于原生集成。涉及金融或医疗等高风险应用时，仍应采用人工复核和更严格权限控制。",
+                "三条报道的一致结论是：Claude Cowork 的价值不只在“能操作电脑”，而在“先连连接器、再在必要时接管界面”的双层路径，这比传统远程桌面更接近任务代理。",
+                "分歧与保留点也清晰存在：能力仍处研究预览阶段，主要面向 Pro/Max 与桌面端场景，复杂任务稳定性和安全权限边界仍是企业采用前必须验证的第一道门槛。",
               ],
             },
           ],
         },
-        source: "CLAUDE BLOG",
-        source_url: "https://claude.com/blog/dispatch-and-computer-use",
+        source: "TechWeb / 凤凰网智东西 / 新浪AI热点",
+        source_url: "https://finance.sina.com.cn/tech/roll/2026-03-24/doc-inhsarqu1746363.shtml",
       },
       {
         title: "AI智能体进驻一线业务",
