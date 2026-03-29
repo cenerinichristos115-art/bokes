@@ -19,40 +19,65 @@ const sections = [
     title: "AI新闻",
     items: [
       {
-        title: "Claude三月协同能力升级",
+        title: "Claude Code一周全纪录",
         category: "AI新闻",
         date: "2026-03-29",
-        summary: "并行协作、故障风险与安全对标，构成Claude近周中国报道主线。",
+        summary: "自动模式、电脑接管与跨端协同，构成Claude Code近周核心变化。",
         featured: true,
         content: {
           intro:
-            "在 2026 年 3 月 22 日至 3 月 29 日这一周内，中国关于 Claude 的高热度报道集中在三条线：Claude Code 的并行协作方法、一次全球中断暴露的可用性风险，以及安全智能体能力对标带来的竞争信号。",
+            "过去一周（2026 年 3 月 22 日至 3 月 29 日），中国关于 Claude Code 的公开讨论从“写得更快”转向“能否连续执行”。自动模式、电脑接管与跨端派单成为高频关键词，焦点逐步落在工程化可用性而非单次生成效果。",
           blocks: [
             {
-              heading: "开发范式变化",
+              heading: "目录",
               paragraphs: [
-                "36氪转载的新智元报道披露，Claude Code 团队建议在同一仓库下并行使用 3 到 5 个 Git Worktree，把测试、修复和重构拆给不同 Claude 会话并发处理，而非在单会话串行等待结果。",
-                "报道同时指出，AI 编程场景下开发者大量时间消耗在等待响应和运行回执。并行会话配合 Plan Mode 与项目规则文件，可以把 Claude 从“代码生成助手”提升为“可调度执行单元”，核心收益来自流程设计而非单次提示词。",
+                "一、自动模式上线：从“辅助写代码”走向“可连续执行”",
+                "二、桌面接管与任务派单打通：执行链路开始闭环",
+                "三、落地边界与企业采用门槛：能力进步与风险并存",
               ],
             },
             {
-              heading: "稳定性压力暴露",
+              heading: "一、自动模式上线：从“辅助写代码”走向“可连续执行”",
               paragraphs: [
-                "36氪在 3 月 3 日的报道回顾了 3 月 2 日晚 Claude 的全球中断：网页端、控制台、Claude Code 与移动端均受影响，用户出现 500/529 错误并临时切换替代工具。",
-                "这类事件说明，Claude Code 深度进入研发流程后，模型可用性已不只是体验问题，而是生产连续性问题。企业侧需要同步建设跨模型 fallback、任务断点恢复与应急流程，降低单点故障损失。",
+                "3 月 25 日的中国报道显示，Claude Code 已引入 auto mode 研究预览，核心变化是：在安全策略约束下自动执行低风险步骤，减少“每一步都手动确认”的交互摩擦。",
+                "这类变化的意义不在“多一个开关”，而在产品角色迁移。Claude Code 正从代码生成助手向任务执行代理过渡，流程从“提问-回答”变成“拆解-执行-回传”的连续链路。",
+                "从公开口径看，自动执行并非无条件放开，而是围绕风险分级和权限边界推进。能力提升已发生，但节奏是可控放量，不是全面放权。",
               ],
             },
             {
-              heading: "安全能力分化",
+              heading: "二、桌面接管与任务派单打通：执行链路开始闭环",
               paragraphs: [
-                "量子位报道援引公开对标信息称，Anthropic 披露其系统定位到 3 个典型 0day；国产安全智能体在复现这 3 个漏洞后，继续挖掘出 10 个新漏洞（7 个 ghostscript、3 个 opensc）。",
-                "这表明 Claude 提供了可验证的安全基线，但行业竞争正转向“基线之上的纵深能力”，即在同一模块持续扩展攻击面与发现未知变种的能力。",
+                "3 月 24 日多条报道共同指向同一件事：Claude 的电脑操作能力与任务派单能力正在合并到同一工作流，用户可从移动端发起任务，由桌面端持续执行并返回结果。",
+                "这意味着执行链路从单点问答升级为跨端协同：指令下发、工具调用、界面操作、结果回传被串联。对研发团队而言，价值是降低远程协作与长任务执行中的中断成本。",
+                "同时，公开报道也明确提示该能力仍在快速演进阶段：不同系统、不同场景的稳定性并不等价。方向已明确，但工程细节仍在补齐。",
+              ],
+            },
+            {
+              heading: "三、落地边界与企业采用门槛：能力进步与风险并存",
+              paragraphs: [
+                "过去一周中国报道的共同结论是，Claude Code 的竞争重心已从“生成质量”扩展到“执行可靠性”。企业关注点不只是会不会写代码，而是能否在权限可控前提下持续完成任务。",
+                "当前落地门槛主要集中在三类问题：权限策略是否细粒度、异常是否可回滚、执行过程是否可审计。这些能力如果不足，自动模式带来的效率收益容易被事故成本抵消。",
+                "换句话说，Claude Code 正把竞争焦点推向代理工程化能力。短期内，谁能把自动执行做得更稳、更可控，谁更可能在企业场景获得持续使用。",
               ],
             },
           ],
         },
-        source: "36氪 / 量子位",
-        source_url: "https://www.36kr.com/p/3704949768941960",
+        references: [
+          {
+            label: "新浪网（网易科技，2026-03-25）",
+            url: "https://k.sina.com.cn/article_5953741034_162dee0ea06703dwdo.html?from=tech",
+          },
+          {
+            label: "TechWeb（新浪科技转载，2026-03-24）",
+            url: "https://finance.sina.com.cn/tech/roll/2026-03-24/doc-inhsarqu1746363.shtml",
+          },
+          {
+            label: "凤凰网科技（智东西，2026-03-24）",
+            url: "https://tech.ifeng.com/c/8rktLuQIXIl",
+          },
+        ],
+        source: "新浪网（网易科技）/ TechWeb / 凤凰网智东西",
+        source_url: "https://k.sina.com.cn/article_5953741034_162dee0ea06703dwdo.html?from=tech",
       },
       {
         title: "AI智能体进驻一线业务",
@@ -424,6 +449,26 @@ const normalizeContent = (item = {}) => {
 
 const sanitizeItem = (item = {}, fallbackCategory = "") => {
   const normalizedContent = normalizeContent(item);
+  const references = Array.isArray(item.references)
+    ? item.references
+        .map((reference) => {
+          if (!reference || typeof reference !== "object") {
+            return null;
+          }
+          const label =
+            typeof reference.label === "string" && reference.label.trim().length > 0 ? reference.label : "来源链接";
+          const url = sanitizeUrl(reference.url);
+          if (url === "#") {
+            return null;
+          }
+          return {
+            label: escapeHtml(label),
+            url,
+          };
+        })
+        .filter(Boolean)
+    : [];
+
   return {
     title: escapeHtml(item.title ?? "暂无标题"),
     category: escapeHtml(normalizeCategory(item.category, fallbackCategory)),
@@ -439,6 +484,7 @@ const sanitizeItem = (item = {}, fallbackCategory = "") => {
     },
     source: escapeHtml(item.source ?? "未知来源"),
     source_url: sanitizeUrl(item.source_url ?? item.url),
+    references,
   };
 };
 
@@ -454,6 +500,7 @@ const emptyItem = {
   },
   source: "寂川日报",
   source_url: "#",
+  references: [],
 };
 
 const getSectionItems = (section) => (section && Array.isArray(section.items) ? section.items : []);
@@ -686,6 +733,19 @@ const renderDetailPage = (record) => {
     safeItem.source_url === "#"
       ? ""
       : `<p class="detail-source-link"><a href="${safeItem.source_url}" target="_blank" rel="noopener noreferrer">查看原始来源</a></p>`;
+  const sourcesListHtml =
+    safeItem.references.length > 0
+      ? `
+        <section class="detail-block">
+          <h3 class="detail-subtitle">信息来源</h3>
+          <ul class="story-list">
+            ${safeItem.references
+              .map((reference) => `<li><a href="${reference.url}" target="_blank" rel="noopener noreferrer">${reference.label}</a></li>`)
+              .join("")}
+          </ul>
+        </section>
+      `
+      : "";
   const detailBlocksHtml = safeItem.content.blocks
     .map(
       (block) => `
@@ -712,6 +772,7 @@ const renderDetailPage = (record) => {
         <p class="meta">分类：${safeItem.category} ｜ 发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
         <p class="detail-intro">${safeItem.content.intro}</p>
         ${detailBlocksHtml}
+        ${sourcesListHtml}
         ${sourceLink}
         <p class="detail-actions"><a class="back-home-link" href="#${sectionAnchor}">返回栏目</a></p>
       </article>
