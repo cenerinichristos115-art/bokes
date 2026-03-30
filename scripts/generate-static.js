@@ -14,6 +14,19 @@ const SITE_NAME = "寂川日报";
 const SITE_URL = (process.env.SITE_URL || "https://cenerinichristos115-art.github.io/bokes").replace(/\/$/, "");
 const OUTPUT_DIR = path.join(__dirname, "..", "articles");
 const SECTION_DIR = path.join(__dirname, "..", "sections");
+const SITE_BASE_PATH = (() => {
+  try {
+    const parsed = new URL(SITE_URL);
+    return parsed.pathname === "/" ? "" : parsed.pathname.replace(/\/$/, "");
+  } catch {
+    return "";
+  }
+})();
+
+const withBasePath = (pathname = "/") => {
+  const cleanPath = pathname.startsWith("/") ? pathname : `/${pathname}`;
+  return `${SITE_BASE_PATH}${cleanPath}`;
+};
 
 const now = new Date();
 const currentDate = new Intl.DateTimeFormat("en-CA", {
@@ -123,13 +136,14 @@ for (const section of sections) {
   const sectionTitle = section.title || "未命名栏目";
   const items = Array.isArray(section.items) ? section.items : [];
   const sectionPath = `/sections/${sectionId}.html`;
+  const sectionHrefPath = withBasePath(sectionPath);
 
   let sectionRecord = sectionRecordMap.get(sectionId);
   if (!sectionRecord) {
     sectionRecord = {
       id: sectionId,
       title: sectionTitle,
-      path: sectionPath,
+      path: sectionHrefPath,
       absUrl: `${SITE_URL}${sectionPath}`,
       items: [],
     };
@@ -140,6 +154,7 @@ for (const section of sections) {
   items.forEach((item, index) => {
     const slug = buildArticleSlug(sectionId, index, item);
     const relPath = `/articles/${slug}.html`;
+    const relHrefPath = withBasePath(relPath);
     const absUrl = `${SITE_URL}${relPath}`;
 
     const title = (item.title || "暂无标题").trim();
@@ -271,7 +286,7 @@ ${sourcesHtml}
 
     articleRecords.push({
       slug,
-      relPath,
+      relPath: relHrefPath,
       absUrl,
       title,
       summary,
@@ -286,7 +301,7 @@ ${sourcesHtml}
       summary,
       source,
       date,
-      relPath,
+      relPath: relHrefPath,
     });
   });
 }

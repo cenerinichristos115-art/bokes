@@ -517,6 +517,36 @@ const sectionLabels = {
 
 const allowedCategories = ["AI新闻", "AI使用教程", "开源项目"];
 
+const inferSiteBasePath = () => {
+  if (typeof window === "undefined" || !window.location) {
+    return "";
+  }
+  if (!window.location.hostname.endsWith("github.io")) {
+    return "";
+  }
+  const parts = String(window.location.pathname || "/")
+    .split("/")
+    .filter(Boolean);
+  if (parts.length === 0) {
+    return "";
+  }
+  const first = parts[0];
+  if (first === "articles" || first === "sections") {
+    return "";
+  }
+  return `/${first}`;
+};
+
+const SITE_BASE_PATH = inferSiteBasePath();
+
+const withBasePath = (pathname = "/") => {
+  const cleanPath = pathname.startsWith("/") ? pathname : `/${pathname}`;
+  if (!SITE_BASE_PATH) {
+    return cleanPath;
+  }
+  return `${SITE_BASE_PATH}${cleanPath}`;
+};
+
 const today = new Date();
 const todayText = `${today.getFullYear()}-${`${today.getMonth() + 1}`.padStart(2, "0")}-${`${today.getDate()}`.padStart(2, "0")}`;
 
@@ -746,7 +776,7 @@ const buildArticleSlug = (sectionId, index, item = {}) => {
   return `${sectionToken}-${dateToken}-${index + 1}-${titleToken}-${seed}`;
 };
 
-const buildArticleHref = (sectionId, index, item = {}) => `/articles/${buildArticleSlug(sectionId, index, item)}.html`;
+const buildArticleHref = (sectionId, index, item = {}) => withBasePath(`/articles/${buildArticleSlug(sectionId, index, item)}.html`);
 
 const buildDetailHash = (sectionId, index) => `#detail-${encodeURIComponent(sectionId)}-${index}`;
 
@@ -791,7 +821,7 @@ const renderNav = () => {
     .map((section) => {
       const sectionId = sanitizeSectionId(section.id);
       const sectionTitle = escapeHtml(section.title ?? "未命名栏目");
-      return `<li><a href="/sections/${sectionId}.html">${sectionTitle}</a></li>`;
+      return `<li><a href="${withBasePath(`/sections/${sectionId}.html`)}">${sectionTitle}</a></li>`;
     })
     .join("");
   return `<nav class="top-nav" aria-label="栏目导航"><ul>${items}</ul></nav>`;
