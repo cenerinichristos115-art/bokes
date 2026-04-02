@@ -24,12 +24,66 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        slug: "ai-news-20260402-1-openai-122b-funding-k8v3nq",
+        title: "OpenAI 1220亿美元融资落地",
+        category: "AI新闻",
+        date: "2026-04-02",
+        summary: "OpenAI宣布完成1220亿美元融资，估值8520亿美元，并首次通过银行渠道引入超30亿美元个人资金。",
+        featured: true,
+        content: {
+          intro:
+            "截至 2026 年 4 月 2 日，全球 AI 赛道最新高影响事件是 OpenAI 在 3 月 31 日官宣完成 1220 亿美元融资。该轮融资把行业竞争从模型能力继续推向“资金 + 算力 + 分发”的系统战。",
+          blocks: [
+            {
+              heading: "一、融资结果与关键条款",
+              paragraphs: [
+                "OpenAI 官方披露，本轮融资已完成交割，承诺资本总额 1220 亿美元，投后估值 8520 亿美元；这是公司迄今规模最大的一次融资。",
+                "官方同时确认，SoftBank 与 a16z、D. E. Shaw Ventures、MGX、TPG、T. Rowe Price 相关账户共同参与本轮；Amazon、NVIDIA、Microsoft 继续作为关键战略合作方参投。",
+                "融资结构里有两个新增信号：其一，首次通过银行渠道面向个人投资者募得超过 30 亿美元；其二，OpenAI 将被纳入 ARK Invest 旗下多只 ETF，并把循环信贷额度扩展到约 47 亿美元（截至披露时未动用）。",
+              ],
+            },
+            {
+              heading: "二、资本为何在此时继续加码",
+              paragraphs: [
+                "OpenAI 在同日披露的经营指标显示，ChatGPT 周活用户超过 9 亿，订阅用户超过 5000 万，当前月营收约 20 亿美元；企业业务收入占比已超过 40%，并给出“2026 年底接近消费业务体量”的目标。",
+                "产品侧同步给出“扩张理由”：GPT-5.4、Codex、检索与代理工作流持续上量，API 峰值处理已达到每分钟 150 亿 token，Codex 周活超过 200 万，近 3 个月增长约 5 倍。",
+                "小结：这笔资金并非单纯“补充现金”，而是为更高密度的算力采购、数据中心建设和代理型产品扩张提前锁定弹药。",
+              ],
+            },
+            {
+              heading: "三、市场影响与后续观察点",
+              paragraphs: [
+                "一致信号是明确的：头部基础模型公司的竞争门槛，正在从“模型可用”快速升级到“全球化基础设施 + 大规模商业化”双门槛。",
+                "外部媒体报道披露了更细的单家出资拆分与 IPO 预期，但这类细节并未在官方公告中完整披露，后续仍需以监管文件与公司进一步披露为准。",
+                "我们的分析：未来两个季度最关键的验证点不是“估值还能否继续抬升”，而是 OpenAI 能否把高资本投入稳定转化为三项硬指标：单位推理成本下降、企业收入占比继续抬升、以及多代理工作流的可控交付能力。",
+              ],
+            },
+          ],
+        },
+        references: [
+          {
+            label: "OpenAI（2026-03-31）：OpenAI raises $122 billion to accelerate the next phase of AI",
+            url: "https://openai.com/index/accelerating-the-next-phase-ai/",
+          },
+          {
+            label: "TechCrunch（2026-03-31）：OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+            url: "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          },
+          {
+            label: "Bloomberg Law（2026-03-31）：OpenAI Valued at $852 Billion After Closing $122 Billion Round",
+            url: "https://news.bloomberglaw.com/health-law-and-business/openai-valued-at-852-billion-after-closing-122-billion-round",
+          },
+        ],
+        source: "OpenAI / TechCrunch / Bloomberg Law",
+        source_url: "https://openai.com/index/accelerating-the-next-phase-ai/",
+      },
+      {
         slug: "ai-news-20260330-1-claude-paid-growth-1xk9pw",
         title: "Claude付费订阅增速抬升",
         category: "AI新闻",
         date: "2026-03-30",
         summary: "支付追踪显示Claude美国付费订阅年内翻倍，增量由20美元Pro档与功能更新共同驱动。",
-        featured: true,
+        featured: false,
         content: {
           intro:
             "从 2026 年 1 月底到 3 月底，Claude 在美国消费端出现了“付费转化 + 分发曝光”同步上行。围绕订阅、下载和功能发布节奏的多源信号指向同一趋势：消费者业务进入可观测增长阶段。",
