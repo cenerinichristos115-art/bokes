@@ -24,6 +24,65 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        slug: "ai-news-20260404-1-claude-openclaw-ban-r7p2md",
+        title: "Claude订阅封禁OpenClaw通道",
+        category: "AI新闻",
+        date: "2026-04-04",
+        summary: "Anthropic将OpenClaw移出Claude订阅额度，第三方调用改为按量计费。",
+        hero_image: {
+          url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png",
+          alt: "Claude 标志图形",
+          credit: "图片来源：Wikimedia Commons（CC0）",
+        },
+        featured: true,
+        content: {
+          intro:
+            "截至 2026 年 4 月 4 日，Claude 订阅策略出现关键调整：Pro 与 Max 订阅不再覆盖 OpenClaw 等第三方 harness 的调用额度，第三方路径转为按量计费。",
+          blocks: [
+            {
+              heading: "一、政策生效时间与计费改造",
+              paragraphs: [
+                "4 月 4 日 12:00 PT / 15:00 ET 起，Claude Pro 与 Max 订阅不再覆盖 OpenClaw 这类第三方工具链调用，用户不能继续使用原包月额度直接跑这类外部执行路径。",
+                "生效后仍可继续调用 Claude，但路径切换为 extra usage（与 Claude 登录绑定的按量计费）或 API key 独立计费，变化对象是第三方工具中的 Claude 用量，而非 Claude 原生订阅资格本身。",
+                "小结：这次变更不是下线功能，而是把第三方高频调用从订阅池迁移到按量轨道。",
+              ],
+            },
+            {
+              heading: "二、官方理由与用户成本变化",
+              paragraphs: [
+                "官方公开说明把核心理由指向容量治理：第三方 harness 的调用形态与消费级订阅模型不匹配，并对系统形成了更高负载压力。",
+                "计费规则变化是，超出订阅内配额的调用按标准 API 费率独立结算，并与订阅账单分开；帮助文档同时给出 extra usage 的预算控制能力，包括月度上限与预充值机制。",
+                "小结：对重度自动化用户而言，成本模型从“固定月费预期”转向“用量驱动”。",
+              ],
+            },
+            {
+              heading: "三、生态影响与后续观察点",
+              paragraphs: [
+                "此次调整附带一次性缓冲安排，包括向受影响订阅用户发放额度信用和退款入口，但长期计费结构仍是第三方路径按量化。",
+                "一致信号是，消费端订阅与 agent 型高负载调用正在分账；不确定性在于官方尚未披露第三方 harness 在整体负载中的具体占比，以及后续是否推出独立中间层套餐。",
+                "我们的分析：未来两个月值得重点跟踪第三方代理生态是否加速多模型迁移，以及 Anthropic 是否补充介于订阅与 API 之间的定价层。",
+              ],
+            },
+          ],
+        },
+        references: [
+          {
+            label: "The Verge（2026-04-03）：Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+            url: "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+          },
+          {
+            label: "Business Insider（2026-04）：Anthropic says Claude subscriptions will no longer support OpenClaw because it puts an 'outsized strain' on systems",
+            url: "https://www.businessinsider.com/anthropic-cuts-off-openclaw-support-claude-subscriptions-2026-4",
+          },
+          {
+            label: "Claude Help Center：Manage extra usage for paid Claude plans",
+            url: "https://support.claude.com/en/articles/12429409-manage-extra-usage-for-paid-claude-plans",
+          },
+        ],
+        source: "The Verge / Business Insider / Claude Help",
+        source_url: "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      },
+      {
         slug: "ai-news-20260402-1-openai-122b-funding-k8v3nq",
         title: "OpenAI 1220亿美元融资落地",
         category: "AI新闻",
