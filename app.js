@@ -24,6 +24,180 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260404-auto-1-ec09b0",
+        "title": "天津AI智算企业冲刺IPO",
+        "category": "AI新闻",
+        "date": "2026-04-04",
+        "summary": "天津一家AI智算企业披露年营收55亿元并推进上市。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "天津AI智算企业冲刺IPO 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月4日，一家位于天津的AI智算企业被曝年营收达到55亿元，并已进入IPO推进阶段，成为区域算力产业的新进展。",
+          "blocks": [
+            {
+              "heading": "事件进展",
+              "paragraphs": [
+                "根据公开报道，该企业定位于AI智算基础设施与服务，当前披露的营收规模显示其已形成较强商业化能力。",
+                "在AIGC与行业大模型需求持续增长背景下，算力供给企业正在从单纯硬件交付转向平台化与服务化运营。",
+                "此次IPO进程若顺利推进，预计将为其后续扩张、研发投入和全国节点布局提供更稳定的资本支持。"
+              ]
+            },
+            {
+              "heading": "行业背景",
+              "paragraphs": [
+                "2026年国内AI产业竞争焦点仍集中在算力、数据与场景落地，智算中心相关企业受到资本市场持续关注。",
+                "与前两年相比，市场对企业的评估标准更强调收入质量、客户结构与持续交付能力，而非单一概念热度。",
+                "在这一框架下，具备稳定现金流和可复制项目经验的智算企业更容易获得融资与合作机会。"
+              ]
+            },
+            {
+              "heading": "影响与观察",
+              "paragraphs": [
+                "对地方产业而言，该事件有助于提升天津在北方AI算力版图中的能见度，并带动上下游配套企业集聚。",
+                "对投资者而言，后续需要重点关注企业招股说明书中的利润结构、资本开支计划与客户集中度。",
+                "从更长期看，智算企业能否建立差异化服务能力，将决定其在下一轮行业整合中的位置。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智东西原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Gd1BvUG85a3hHLTZ2VW4xYmJaaUk2LThEMGw3eTRfSzYyOW5EY3A4Sy1OSDJiNVB3ZWUxbk1YVmxJdzhjZ1E?oc=5"
+          },
+          {
+            "label": "AI产业估值观察",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kbzZIMGVUZHF2YmdjZThVZmVSc01wZTRmd0wwalBpeWVETzByNDJvR2trREE4WE4yd1BrSWRURjhKV09MTzN0Tg?oc=5"
+          },
+          {
+            "label": "全球市值结构变化",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHBScE1mang1SE1PYmw5VE0ybnhkMUV5LXAtcHNiSHl3a2NDVG1kNDZkOGxIWXJiZDdvQm10ZGRuYTNzVUhsYlFvWmIxak9ndElXWnRMWnNWNDBqRS1uS0JkZmNVNGdETUdEY2ZOR0NRMHl3bTVwZDNfSk9Vb2VKQkc2WlJaNXl6VmN1WTQ0bV9RbjRQeDNhOTZ5QjBwNmtRVVVVWWlrdw?oc=5"
+          }
+        ],
+        "source": "智东西",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Gd1BvUG85a3hHLTZ2VW4xYmJaaUk2LThEMGw3eTRfSzYyOW5EY3A4Sy1OSDJiNVB3ZWUxbk1YVmxJdzhjZ1E?oc=5"
+      },
+      {
+        "slug": "ai-news-20260404-auto-2-c9a92c",
+        "title": "谷歌AI Pro扩容至5TB",
+        "category": "AI新闻",
+        "date": "2026-04-04",
+        "summary": "Google AI Pro方案新增5TB存储，订阅服务竞争加剧。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌AI Pro扩容至5TB 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年4月4日最新消息显示，Google AI Pro订阅方案已提供5TB存储容量，产品组合进一步向“AI工具+云空间”整合。",
+          "blocks": [
+            {
+              "heading": "产品调整要点",
+              "paragraphs": [
+                "此次更新的核心是存储空间提升到5TB，面向高频使用生成式AI与多终端协作的用户需求。",
+                "在AI应用日常化后，文档、图片、音视频及模型输出文件规模快速增长，云存储成为订阅价值的重要组成部分。",
+                "该调整也意味着平台希望通过容量与生态联动，提高用户留存和跨产品使用深度。"
+              ]
+            },
+            {
+              "heading": "竞争格局变化",
+              "paragraphs": [
+                "当前主流AI厂商正在通过功能打包、价格分层和办公生态绑定推进订阅转化，竞争从模型能力延展到服务体系。",
+                "与单一聊天助手相比，用户更关注可用性、数据管理和团队协作效率，存储能力因此被纳入核心体验。",
+                "同日其他厂商在办公集成方面也有动作，反映出AI服务市场进入平台化竞争阶段。"
+              ]
+            },
+            {
+              "heading": "用户与企业影响",
+              "paragraphs": [
+                "对个人创作者而言，更大存储空间可减少外部迁移和分散管理成本，尤其适合多媒体生产场景。",
+                "对中小团队而言，若配合权限控制与版本管理，订阅方案可替代部分独立协作工具。",
+                "后续值得关注的是定价策略、地区可用性与数据合规条款，这将影响实际采用速度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NewsBytes报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOExyX3NPOVpKckJTNkp0aG1vdmdta0hTMmMxZXpQcXNDTmhtQW5XUWU3bkQ1VHB2dEdHYVI0MEpXVFRCV0FOZF9lNkktWmdzZFZ5QWc0OWJ4RFRKT213MEFiUTN0VHhuZWZjTjE5ZEM5X3lPM012amliR2lyZFhYbTVYYUYwZEtPa1RhWEZMTGJzVVVtRHJWZXF6ZDBiMjQ2Vmc?oc=5"
+          },
+          {
+            "label": "谷歌离线模型动态",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONV9XNHRZVzVwV2VFLXFJWTJHMVZNUEJYT0RjeXlpZld0eF9vUzg1SHJCSHZ6eDJlaGlDcWpacEtaUTNlTk1CYUNaNTFfczI5OERUaUN1QWYwczg3NnRwZzcwYmpqSlZyemw2Z0dKT1BOODBpakk2WkRhM2dqblR4ZzEydnhMZW1QNzJIbjRwblVCUjdrU2ExcWFtbUFMNjRlV1haUDlHV0ZtbklrNmwwNTM5bEd5TlFXdmQwMGJR?oc=5"
+          },
+          {
+            "label": "Claude集成策略",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPandnTldJQ2plckFxUEV0SVBmZENEOUpRYWV4UGhmQ0dOOUFnaDRpSV9PSkgwaXZtSm93UmRDdTZHdjBRSEVQRW8zMUtKLWh3eURPbU9KNjlZSXlGWXlza24tSTZkYTlkeUt5RUtHZ0k1cDFyYmJwNTNhN0FRakJIOVlBcEpuaEYwdlFmUXZIVkloWGlQMEJYR1d0QXRidVlsa0FHV0hIbHJHLU5SWWwwbXhieVpEMjE5dGRMWWxzNUtOUm1HdWc?oc=5"
+          }
+        ],
+        "source": "NewsBytes",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOExyX3NPOVpKckJTNkp0aG1vdmdta0hTMmMxZXpQcXNDTmhtQW5XUWU3bkQ1VHB2dEdHYVI0MEpXVFRCV0FOZF9lNkktWmdzZFZ5QWc0OWJ4RFRKT213MEFiUTN0VHhuZWZjTjE5ZEM5X3lPM012amliR2lyZFhYbTVYYUYwZEtPa1RhWEZMTGJzVVVtRHJWZXF6ZDBiMjQ2Vmc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260404-auto-3-684a04",
+        "title": "Anthropic加码AI生物科技",
+        "category": "AI新闻",
+        "date": "2026-04-04",
+        "summary": "报道称Anthropic以4亿美元收购Coefficient Bio。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic加码AI生物科技 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "据2026年4月4日报道，Anthropic拟以4亿美元收购Coefficient Bio，显示头部AI公司正把并购触角延伸至生物科技领域。",
+          "blocks": [
+            {
+              "heading": "交易信息与定位",
+              "paragraphs": [
+                "消息称本次交易金额约4亿美元，目标是扩展AI驱动生物科技能力，强化跨学科研发布局。",
+                "若交易完成，Anthropic有望获得生物数据处理、模型应用场景与行业团队资源的协同效应。",
+                "该方向与近年“基础模型+垂直行业”趋势一致，尤其在医药和生命科学环节受到关注。"
+              ]
+            },
+            {
+              "heading": "产业逻辑",
+              "paragraphs": [
+                "AI生物科技通常依赖高质量数据、专业知识图谱与可验证实验流程，并非通用模型能力的直接平移。",
+                "大型AI公司通过并购进入垂直领域，可缩短能力建设周期，同时降低独立从零搭建团队的成本。",
+                "但交易后的整合难点同样明显，包括研发节奏、合规审查与商业化路径匹配。"
+              ]
+            },
+            {
+              "heading": "后续看点",
+              "paragraphs": [
+                "市场将关注交易是否披露更完整条款，以及双方在产品路线和组织架构上的整合安排。",
+                "在监管层面，涉及医疗与生物数据的项目通常面临更严格要求，合规进展将影响落地速度。",
+                "从行业层面看，这一事件可能推动更多AI企业评估生物科技合作与并购机会。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Elets CIO报道",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlJyUW11RW92Snh1MlJyamczZXo5WHZHbmc5cUNkSUx5WC14djYzWmdVeXdVSFhzQTJwZlduRW1CZE12ZF90aG13bzZrX2h3T0ctZFNIVDd1Xzd5UXVsMGVpM1FNWHBBdnNGRGh6ZGNmSUt5TC1CRnpRLW1faG10UGFzWnJ0X21DclJqdVBLQUkzU2Z1MDVsdkNyNDNmZndrTG5tM0tJR1R0ZXpNNmJYNERkWkZ6Nm1jSGRTM1l5SDhsTEtNSXc?oc=5"
+          },
+          {
+            "label": "OpenAI并购媒体动态",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWgzdkFPMWVCUksxdG1aVTIwX2NyTW0yMmpMRVNfcnpoLTZNSEFVaXUtSXczM21wVG1ycHZyQWZJdmlOcHo4emo2MU9FOXVxWUJJUG5GYUotcmVRUi1pMHNYTnA5aWNtLXNtT19vNFFla3RfMXdDa2RwaURrZjFHOEFsc1FMNDJ5M2MtRTZDbi05OEtueG5QQjNR?oc=5"
+          },
+          {
+            "label": "AI投资风向讨论",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZm1OWFRyMXpHV2J5bTRoNzVMQWZYTjhUek5EcUFUdE1wY01xcXBrUzExMUN1WjhHcFRLSmpXT1BhLU1PeUZqMDA1Wi0xVE1DTi0yVUh5V1pwVXU3eEFkYmptRVRrVk9RVEpZdzIyc0dCLUdOSGVfc3FYOEx0UlBOT2V0Nno2Tm5YSEMyVnhOZUV5V3BOdU5odjBoYkJOQXRnd1RnbzI0Q0xZanc0R1oxNWVnUkFDd21UZGlTaFBRclFxTDJCQW1MRGFGWjFaYWNOYlBQaGcxODRCeHd6OE9pV29JZEs1WWxWaERrVGE2Uk85RmJBYjZyOWpYaENaVmhsNE4yaHZqaDVwYjlKTk00?oc=5"
+          }
+        ],
+        "source": "Elets CIO",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlJyUW11RW92Snh1MlJyamczZXo5WHZHbmc5cUNkSUx5WC14djYzWmdVeXdVSFhzQTJwZlduRW1CZE12ZF90aG13bzZrX2h3T0ctZFNIVDd1Xzd5UXVsMGVpM1FNWHBBdnNGRGh6ZGNmSUt5TC1CRnpRLW1faG10UGFzWnJ0X21DclJqdVBLQUkzU2Z1MDVsdkNyNDNmZndrTG5tM0tJR1R0ZXpNNmJYNERkWkZ6Nm1jSGRTM1l5SDhsTEtNSXc?oc=5"
+      },
+      {
         slug: "ai-news-20260404-1-claude-openclaw-ban-r7p2md",
         title: "Claude订阅封禁OpenClaw通道",
         category: "AI新闻",
