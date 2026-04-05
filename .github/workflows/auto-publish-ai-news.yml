@@ -15,7 +15,6 @@ concurrency:
 
 env:
   TZ: Asia/Shanghai
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   AUTO_NEWS_COUNT: "3"
   AUTO_NEWS_TIMEZONE: Asia/Shanghai
 
@@ -24,21 +23,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "24"
+
+      - name: Preflight checks
+        id: preflight
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "${OPENAI_API_KEY}" ]; then
+            echo "::warning::OPENAI_API_KEY 未配置，跳过自动生成。"
+            echo "skip_generate=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip_generate=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Generate 3 daily AI news posts
+        id: generate
+        if: steps.preflight.outputs.skip_generate != 'true'
+        continue-on-error: true
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: node scripts/auto-generate-daily-ai-news.js
+
+      - name: Report skipped generation
+        if: steps.preflight.outputs.skip_generate == 'true'
+        run: echo "::notice::自动生成已跳过，后续仅重建静态页面。"
+
+      - name: Report generation failure
+        if: steps.generate.outcome == 'failure'
+        run: echo "::warning::自动生成失败，已跳过当天自动发布。"
 
       - name: Rebuild static pages
         run: node scripts/generate-static.js

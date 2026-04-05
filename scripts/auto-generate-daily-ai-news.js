@@ -177,20 +177,51 @@ const buildPrompt = (candidates, dateText, count) => {
 };
 
 const parseJsonPayload = (rawText) => {
-  const trimmed = String(rawText || "").trim();
+  const stripCodeFence = (text = "") =>
+    String(text)
+      .replace(/^\s*```(?:json)?\s*/i, "")
+      .replace(/\s*```\s*$/i, "")
+      .trim();
+
+  const tryParse = (text) => {
+    if (!text) {
+      return null;
+    }
+    try {
+      return JSON.parse(text);
+    } catch {
+      return null;
+    }
+  };
+
+  const trimmed = stripCodeFence(String(rawText || "").trim());
   if (!trimmed) {
     throw new Error("模型返回为空");
   }
-  try {
-    return JSON.parse(trimmed);
-  } catch {
-    const first = trimmed.indexOf("{");
-    const last = trimmed.lastIndexOf("}");
-    if (first >= 0 && last > first) {
-      return JSON.parse(trimmed.slice(first, last + 1));
-    }
-    throw new Error("模型返回不是合法 JSON");
+
+  const direct = tryParse(trimmed);
+  if (direct) {
+    return direct;
   }
+
+  const first = trimmed.indexOf("{");
+  const last = trimmed.lastIndexOf("}");
+  if (first >= 0 && last > first) {
+    const sliced = trimmed.slice(first, last + 1);
+    const parsed = tryParse(sliced);
+    if (parsed) {
+      return parsed;
+    }
+
+    // Common recovery for near-valid JSON produced by models.
+    const withoutTrailingCommas = sliced.replace(/,\s*([}\]])/g, "$1");
+    const repaired = tryParse(withoutTrailingCommas);
+    if (repaired) {
+      return repaired;
+    }
+  }
+
+  throw new Error("模型返回不是合法 JSON");
 };
 
 const callOpenAIForDrafts = async (candidates, dateText, count) => {
@@ -198,52 +229,67 @@ const callOpenAIForDrafts = async (candidates, dateText, count) => {
     throw new Error("缺少 OPENAI_API_KEY，无法自动生成新闻稿");
   }
 
-  const payload = {
-    model: OPENAI_MODEL,
-    temperature: 0.3,
-    response_format: { type: "json_object" },
-    messages: [
-      {
-        role: "system",
-        content:
-          "你是严格遵循结构化输出的中文AI新闻编辑，只输出JSON，不输出Markdown，不添加额外解释。",
-      },
-      {
-        role: "user",
-        content: buildPrompt(candidates, dateText, count),
-      },
-    ],
-  };
+  const maxAttempts = 3;
+  let lastError = null;
 
-  const response = await fetch(`${OPENAI_BASE_URL}/chat/completions`, {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      authorization: `Bearer ${OPENAI_API_KEY}`,
-    },
-    body: JSON.stringify(payload),
-  });
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    try {
+      const payload = {
+        model: OPENAI_MODEL,
+        temperature: 0.2,
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: "system",
+            content:
+              "你是严格遵循结构化输出的中文AI新闻编辑，只输出JSON，不输出Markdown，不添加额外解释，确保JSON语法100%合法（双引号、无多余逗号）。",
+          },
+          {
+            role: "user",
+            content: buildPrompt(candidates, dateText, count),
+          },
+        ],
+      };
 
-  const raw = await response.text();
-  if (!response.ok) {
-    throw new Error(`OpenAI 接口失败 ${response.status}: ${raw.slice(0, 400)}`);
+      const response = await fetch(`${OPENAI_BASE_URL}/chat/completions`, {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          authorization: `Bearer ${OPENAI_API_KEY}`,
+        },
+        body: JSON.stringify(payload),
+      });
+
+      const raw = await response.text();
+      if (!response.ok) {
+        throw new Error(`OpenAI 接口失败 ${response.status}: ${raw.slice(0, 400)}`);
+      }
+
+      let parsed;
+      try {
+        parsed = JSON.parse(raw);
+      } catch {
+        throw new Error("OpenAI 返回不是合法 JSON");
+      }
+
+      const text = parsed?.choices?.[0]?.message?.content;
+      const data = parseJsonPayload(text);
+      const articles = Array.isArray(data?.articles) ? data.articles : [];
+      if (articles.length < count) {
+        throw new Error(`模型返回文章数不足，期望 ${count}，实际 ${articles.length}`);
+      }
+
+      if (attempt > 1) {
+        console.log(`[auto-news] 第 ${attempt} 次尝试成功`);
+      }
+      return articles.slice(0, count);
+    } catch (error) {
+      lastError = error;
+      console.warn(`[auto-news] 第 ${attempt} 次模型生成失败: ${error.message}`);
+    }
   }
 
-  let parsed;
-  try {
-    parsed = JSON.parse(raw);
-  } catch {
-    throw new Error("OpenAI 返回不是合法 JSON");
-  }
-
-  const text = parsed?.choices?.[0]?.message?.content;
-  const data = parseJsonPayload(text);
-  const articles = Array.isArray(data?.articles) ? data.articles : [];
-  if (articles.length < count) {
-    throw new Error(`模型返回文章数不足，期望 ${count}，实际 ${articles.length}`);
-  }
-
-  return articles.slice(0, count);
+  throw lastError || new Error("模型生成失败");
 };
 
 const shortText = (value, limit) => {
@@ -375,6 +421,55 @@ const toArticleObject = (raw, index, dateText, dateToken, candidates) => {
   };
 };
 
+const buildFallbackDraftsFromCandidates = (candidates, count) =>
+  candidates.slice(0, count).map((candidate, index) => {
+    const titleBase = shortText(candidate.title || `AI快讯${index + 1}`, 18) || `AI快讯${index + 1}`;
+    const summary =
+      shortText(candidate.description || `${candidate.source} 报道了新的 AI 进展，值得持续关注。`, 50) ||
+      `${candidate.source} 报道了新的 AI 进展，值得持续关注。`;
+    return {
+      title: titleBase,
+      summary,
+      source: shortText(candidate.source || "综合整理", 80),
+      source_url: pickValidUrl(candidate.link, "https://news.google.com/"),
+      references: [
+        {
+          label: `${shortText(candidate.source || "来源", 40)}：原始报道`,
+          url: pickValidUrl(candidate.link, "https://news.google.com/"),
+        },
+      ],
+      content: {
+        intro: summary,
+        blocks: [
+          {
+            heading: "事件概览",
+            paragraphs: [
+              summary,
+              "目前公开信息主要来自媒体与官方对外发布内容。",
+              "核心结论仍需结合后续公告持续验证。",
+            ],
+          },
+          {
+            heading: "行业影响",
+            paragraphs: [
+              "该动态可能影响相关模型能力竞争与产品节奏。",
+              "企业端落地与商业化路径会随生态合作变化。",
+              "短期内建议关注数据、成本与合规层面的变化。",
+            ],
+          },
+          {
+            heading: "后续观察",
+            paragraphs: [
+              "继续追踪官方博客、发布会与监管信息更新。",
+              "若出现版本迭代，需重新评估能力边界。",
+              "建议在多来源交叉验证后再形成长期判断。",
+            ],
+          },
+        ],
+      },
+    };
+  });
+
 const renderArticleLiteral = (article) => {
   const json = JSON.stringify(article, null, 2)
     .split("\n")
@@ -425,7 +520,14 @@ const main = async () => {
 
   console.log(`[auto-news] 候选新闻条数: ${candidates.length}`);
 
-  const drafts = await callOpenAIForDrafts(candidates, dateText, TARGET_COUNT);
+  let drafts;
+  try {
+    drafts = await callOpenAIForDrafts(candidates, dateText, TARGET_COUNT);
+  } catch (error) {
+    console.warn(`[auto-news] 模型草稿生成失败，启用模板降级: ${error.message}`);
+    drafts = buildFallbackDraftsFromCandidates(candidates, TARGET_COUNT);
+  }
+
   const articles = drafts.map((draft, index) => toArticleObject(draft, index, dateText, dateToken, candidates));
 
   const changed = prependArticlesToAppJs(articles, dateToken);
