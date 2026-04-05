@@ -24,6 +24,180 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260405-auto-1-31eac6",
+        "title": "微软Copilot条款引关注",
+        "category": "AI新闻",
+        "date": "2026-04-05",
+        "summary": "微软服务条款表述与Copilot推广定位出现讨论。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微软Copilot条款引关注 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年4月5日，围绕微软Copilot产品定位与服务条款表述的讨论持续升温，焦点集中在法律文本、市场推广与用户预期之间是否存在差异。",
+          "blocks": [
+            {
+              "heading": "争议起点",
+              "paragraphs": [
+                "根据The Next Web报道，微软相关服务条款中将Copilot描述为“仅供娱乐”用途，这一表述与其在办公、搜索和企业场景中的宣传定位形成明显反差。",
+                "报道同时提到，在生成式AI工具竞争加剧的背景下，Copilot的采用情况受到外界关注，部分观察者据此质疑产品承诺与实际落地节奏之间的匹配程度。",
+                "从发布时间看，这一话题出现在多家媒体持续追踪AI产品商业化的阶段，因此很快被纳入更广泛的行业讨论之中。"
+              ]
+            },
+            {
+              "heading": "条款与产品之间",
+              "paragraphs": [
+                "法律条款中的谨慎措辞并不一定直接等同于产品能力判断，但它会影响用户对风险、责任边界和使用场景的理解，尤其是在企业采购与合规审查过程中。",
+                "对于面向办公场景的AI助手而言，若条款语义偏保守，而营销强调效率提升和工作协同，企业客户往往会要求供应商进一步明确责任划分、输出可靠性与数据处理规则。",
+                "这也反映出当前AI产品普遍面临的一项现实问题，即技术迭代速度快于制度与合同文本更新速度，导致外界容易从字面内容中解读出更大的信号。"
+              ]
+            },
+            {
+              "heading": "行业影响观察",
+              "paragraphs": [
+                "在2026年的AI应用竞争中，市场已不只看模型能力，还更加关注工具的可交付性、合规设计和长期使用成本，Copilot相关争议因此具有一定代表性。",
+                "如果平台方后续调整条款说明或补充官方解释，相关变化可能成为观察大型科技公司如何平衡法律风险与产品扩张的重要案例。",
+                "短期来看，这一事件未必改变AI助手总体发展方向，但可能推动企业用户在部署类似产品时，进一步审查服务协议与实际业务承诺的一致性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Next Web相关报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHk0bXRJWkRDX2wwaTZEeGpieWRELUZfdWxuUUtYb0V4OW9KTk1BWXNoTkdDcm1LUnhJMDlHUHhKNVpwdFJxdVdVYlg0X2pCR0l4YmJwdlhfTnNyYW14XzNFUktRUDdIQ3BZVlZ6R2NoUHRJM290MmVlSWZsVS1pUWV3YVFKcUYxTXhfOQ?oc=5"
+          },
+          {
+            "label": "The Sequence周报背景",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nRkZESTR3alVTejczejBVd2pZekdMakxZMHhZMGgzWHEyRTNabG9Xa0xYbUVpblh2LVVjcVNEbzdocmszd1NGMXRnVXlmMVpYRXI5ci1WVklsNk5yMXB4RVFDSnhtaWVtOHhxRHNIeTZ5ZTBkamc?oc=5"
+          },
+          {
+            "label": "华盛顿邮报评论参考",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkRmMlN2enZkY3U0U2pjYncwTUhYRUpRc3BsWTVwcXUyT1BQYU0zMEhzSVkxR0ZsVm1TWEhtanhMMkNEY29iWHhGM1VEdEhUSmRudXRESHN1MjlRRVFDcnIxYkNXQ1Y5OEEyMVRjZjhxUVhIb3FmM0VMME1fXy1pQy1NRzMzX2g0TUp2dWVCeURlazNSOFNwNnZ2OFcyczA?oc=5"
+          }
+        ],
+        "source": "The Next Web",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHk0bXRJWkRDX2wwaTZEeGpieWRELUZfdWxuUUtYb0V4OW9KTk1BWXNoTkdDcm1LUnhJMDlHUHhKNVpwdFJxdVdVYlg0X2pCR0l4YmJwdlhfTnNyYW14XzNFUktRUDdIQ3BZVlZ6R2NoUHRJM290MmVlSWZsVS1pUWV3YVFKcUYxTXhfOQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260405-auto-2-02448b",
+        "title": "中国企业AI落地再受审视",
+        "category": "AI新闻",
+        "date": "2026-04-05",
+        "summary": "前OpenAI高管谈中国企业文化与AI采用节奏问题。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中国企业AI落地再受审视 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年4月5日，一名前OpenAI高管关于中国企业文化影响AI采用速度的观点，引发市场对组织管理、决策机制与技术落地效率关系的再讨论。",
+          "blocks": [
+            {
+              "heading": "观点内容",
+              "paragraphs": [
+                "南华早报援引相关人士观点称，中国较为刚性的企业文化可能拖慢AI工具在组织内部的采用速度，原因涉及层级决策、容错空间与跨部门协作方式。",
+                "这一表述并非单纯评价技术能力，而是把AI应用推进的难点指向组织结构本身，强调部署成败不只取决于模型性能，还取决于管理机制是否适配新工具。",
+                "在外部看来，这类判断与近年来业界对“AI最后一公里”问题的观察相互呼应，即技术可用并不意味着企业会快速完成流程改造。"
+              ]
+            },
+            {
+              "heading": "为何落地仍慢",
+              "paragraphs": [
+                "企业在引入AI时，往往要同步处理数据权限、责任追踪、岗位调整和绩效评价等问题，这些环节一旦缺乏明确授权，就容易造成试点推进缓慢。",
+                "尤其在大型组织中，AI应用常需要业务部门、IT团队与法务合规共同参与，若内部偏向自上而下审批，项目节奏可能不及市场预期。",
+                "与此同时，员工层面的接受度也是关键因素，部分岗位担心经验被抽象为模型能力，进而影响知识共享意愿，这也构成企业导入AI时的现实阻力。"
+              ]
+            },
+            {
+              "heading": "对市场的启示",
+              "paragraphs": [
+                "这场讨论提示外界，在评估一个地区或行业的AI进展时，不能只看融资规模、模型发布数量或政策口号，还要关注企业内部治理是否支持实验和迭代。",
+                "对于软件供应商而言，未来竞争点可能从单纯售卖模型能力，转向帮助客户重构流程、培训员工并建立可衡量的应用场景。",
+                "从2026年春季的时间节点来看，中国企业AI采用并非停滞，而是进入更强调组织适配与实际收益验证的阶段。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "南华早报相关报道",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5IME5KTVNRWUlvWlhJdDBnNkNhUWxxQ2VmS2d1NTl4eWJMSExUVlBuMEZqc2lYLVZjc1l4bWlfRHRDZ2I0ZVpOLWVFZkNpem0yZ2lMUjBwU21KYkZUUk83YTJwcDZRZmY4QUVVZXpWUTRWY0k2N0FPNXdYNDlyZC1mSTR5U0tMWURBMERGOUh5Y0o3M0tHU1NBbVJyeVNlVFc0alByRzNLQ3NKLTl4YVNDX1BUdllmSV92bjg0RVl4TUxXSlQyelJtMNIBywFBVV95cUxQZURJek1OWG81NGd0VnJlb0JIV0wtTElnUy13T1NJejlpY2lJQ0RRWVNsSEJ0cnY2Z283LU0zdUEzcnVZWThFbnhNZUlGd3ZzUGl1bnBMWjJob2xmejNScVJubU0wSFJmaW5hb3pZWm8zZzI1ckEzNU9zbkhmWXZhRzQyX3ZBcmsxVlhBR3BWRWRHblV1ODUyS05NRmlTY2hnR1FaUElyZkdsTWUzN3RVem5Ha0UyYVFpc0dmZk9xMFpyMDlpRUZpZ05qUQ?oc=5"
+          },
+          {
+            "label": "新浪财经职场AI讨论",
+            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOVzEwZWMxcWRQQWk2d1J0aHhjZjJKTUhxWUQwblNDeU1LZDFQVi1mX0VRT0JwOE8tNVVCTkxsQThHcGItWS1sSXRZc2loUzJONDdQWmUyNFAwUk1jcEtHSXEzY1FIUTl0VkV5T3NfV0dDdGpVU3pySGVSX29ybXFpVTVEV2ozbmNjOHBveEJhV01rbmJKUEZHbnlqcDF2NzBQZkJEbW1UdHV6THRPTG5HZlBMT3hZdzM5TDkwc3lpV3pYOGlJdEEyU1o4NlAybjJ3WnZ4VTcza0JFNmRXeTBCRUlYaVcyeVhRa1lNODRUaE93Mm5rRUNMQi1TM2s0UkM2YVJTNVVkQVBILXY0Vll5VllCVEc5c1MwSTEtRA?oc=5"
+          },
+          {
+            "label": "小企业AI需求来信",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR2VMTVZzOXR4ZlpSY2M1Rk9tRno1dHNPbzNha0RvOUl4X1o1NnJoOEM1aWhPamRyWnpPazF1UUhDSndKZGhtMG1wZkxhMTNZalo4UnB5a21NdW5EOG52MmRGcnNnWm84Tnl4VjJLTFRRSWJzcnBFakxSQi1tMEVoZEg1ekpuaERZelp0dmo4R1JnQTVzRmRqQkV1bGlWMmlDLVE?oc=5"
+          }
+        ],
+        "source": "South China Morning Post",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5IME5KTVNRWUlvWlhJdDBnNkNhUWxxQ2VmS2d1NTl4eWJMSExUVlBuMEZqc2lYLVZjc1l4bWlfRHRDZ2I0ZVpOLWVFZkNpem0yZ2lMUjBwU21KYkZUUk83YTJwcDZRZmY4QUVVZXpWUTRWY0k2N0FPNXdYNDlyZC1mSTR5U0tMWURBMERGOUh5Y0o3M0tHU1NBbVJyeVNlVFc0alByRzNLQ3NKLTl4YVNDX1BUdllmSV92bjg0RVl4TUxXSlQyelJtMNIBywFBVV95cUxQZURJek1OWG81NGd0VnJlb0JIV0wtTElnUy13T1NJejlpY2lJQ0RRWVNsSEJ0cnY2Z283LU0zdUEzcnVZWThFbnhNZUlGd3ZzUGl1bnBMWjJob2xmejNScVJubU0wSFJmaW5hb3pZWm8zZzI1ckEzNU9zbkhmWXZhRzQyX3ZBcmsxVlhBR3BWRWRHblV1ODUyS05NRmlTY2hnR1FaUElyZkdsTWUzN3RVem5Ha0UyYVFpc0dmZk9xMFpyMDlpRUZpZ05qUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260405-auto-3-3ed269",
+        "title": "南大AI模型瞄准食品保鲜",
+        "category": "AI新闻",
+        "date": "2026-04-05",
+        "summary": "新加坡南大研发AI模型，目标是帮助延长食品保质期。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "南大AI模型瞄准食品保鲜 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年4月5日，新加坡南洋理工大学研发的一项人工智能模型受到关注，报道指出其目标是帮助业者更有效地延长食品保质期并优化管理流程。",
+          "blocks": [
+            {
+              "heading": "项目方向",
+              "paragraphs": [
+                "8world报道显示，该模型聚焦食品保鲜相关场景，意在协助业者更准确判断产品状态与保存条件，从而减少损耗并提升流通效率。",
+                "相较于面向通用对话的AI产品，这类项目更强调垂直行业数据、具体任务定义和可量化结果，因此更接近实际产业应用。",
+                "食品供应链长期面临库存波动、运输条件复杂和损耗成本较高等问题，AI若能提升预测与决策质量，实际价值将主要体现在运营环节。"
+              ]
+            },
+            {
+              "heading": "潜在应用价值",
+              "paragraphs": [
+                "在零售、餐饮和冷链场景中，保质期判断往往关系到进货安排、价格策略和废弃处理，AI模型可望为这些决策提供更细化的参考依据。",
+                "若模型能够结合温度、湿度、时间与品类差异进行分析，企业就有机会在不影响安全标准的前提下，改善库存周转并降低浪费。",
+                "这也与当前AI产业的一个趋势相符，即从内容生成逐步扩展到制造、物流、医疗和食品等更注重流程优化的领域。"
+              ]
+            },
+            {
+              "heading": "落地仍需验证",
+              "paragraphs": [
+                "不过，科研模型走向商业应用仍需经过多轮验证，包括不同食品类别的泛化能力、数据采集质量以及与现有监管标准的兼容程度。",
+                "对业者而言，是否采用这类系统，还要看部署成本、操作门槛以及输出结果能否嵌入日常工作流，而不是停留在实验室演示阶段。",
+                "从2026年4月的行业环境看，类似项目的意义在于展示AI正更多进入实体产业，但其长期成效仍需依靠规模化应用数据来检验。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "8world原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NNko3S2tBVnlCY1VOOVZWOW5uZk1Md0RrbGtPNFl5djR0Z1Q2WUNPX1NMWXRxY3N1bmhIdmdHdFJiSmFUSWdqWnFQQTVnM3JNT3B1c19iOFVsb0ZuanRuZmh0YkJaQlJ4UzNGU0Jyd2t4ZXc?oc=5"
+          },
+          {
+            "label": "EMJ药物研发平台参考",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDBfaEdyVlkzREhUWFdGQnZZZ05HOVoyVDVSdFBkS1M4NTRPS0dxdHVIOVhrTWliY2lBaV9lQ3NwNk0yeFpIeGlvVW1EcXpHclFncHZLTUhISENlbWRIdHNnNDY2NTN0NHkzMmJNNHduejc5LWl0Z1VvSmJXNVVlQUxGZ1F3elJTU3lCWnRma2FWNHRwSWdINUljd1ZaT0lFdzItY0s3Q3dycXY0cEpiUU9zOV8xbURmVEp4Vko5MDBJZTcwTUE?oc=5"
+          },
+          {
+            "label": "科学网机器人产业观察",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pR0diempvNUVJQkpFcERFSXhiLU1scUpnLWt2LUdvc2dOdWEtQjcxMk9SZUxIbEpxZWNmVDlaSWUyOWVONHJXOEJlOG9uaU51ZFFIQWcxY0h5cmdWSGFPMTNfWjQ?oc=5"
+          }
+        ],
+        "source": "8world",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NNko3S2tBVnlCY1VOOVZWOW5uZk1Md0RrbGtPNFl5djR0Z1Q2WUNPX1NMWXRxY3N1bmhIdmdHdFJiSmFUSWdqWnFQQTVnM3JNT3B1c19iOFVsb0ZuanRuZmh0YkJaQlJ4UzNGU0Jyd2t4ZXc?oc=5"
+      },
+      {
         "slug": "ai-news-20260404-auto-1-ec09b0",
         "title": "天津AI智算企业冲刺IPO",
         "category": "AI新闻",
