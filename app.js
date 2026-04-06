@@ -24,6 +24,180 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260406-auto-1-4f583e",
+        "title": "谷歌发布Gemma 4模型",
+        "category": "AI新闻",
+        "date": "2026-04-06",
+        "summary": "Gemma 4面向多类硬件开放，强调部署灵活性。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌发布Gemma 4模型 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月6日，谷歌推出Gemma 4开放模型系列，重点强调可在多类硬件环境中部署，继续推进轻量化与开放生态布局。",
+          "blocks": [
+            {
+              "heading": "发布信息",
+              "paragraphs": [
+                "根据候选报道，Gemma 4被定位为面向多样化硬件使用场景的开放AI模型。这意味着其设计目标不仅包括云端环境，也兼顾本地设备和不同算力条件下的运行需求。",
+                "在当前模型竞争中，硬件适配能力已成为产品落地的重要指标。相比单纯追求参数规模，厂商越来越重视模型在推理效率、成本控制和可部署范围上的平衡。",
+                "从发布时间看，这一动作延续了谷歌在开放模型领域的布局思路，即通过更广泛的可用性吸引开发者、研究机构与企业用户进入其生态。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "Gemma 4若能覆盖更多终端和算力平台，将有助于企业在私有化部署、边缘计算和定制化应用方面获得更多选择。这类灵活性对于预算有限或对数据合规要求较高的团队尤为重要。",
+                "与此同时，开放模型的扩散通常会推动工具链、评测体系和社区二次开发的活跃度。模型本身之外，围绕微调、推理加速和安全治理的配套能力也会随之受到关注。",
+                "对市场而言，这类发布也反映出AI基础模型竞争正从单点性能走向综合能力比拼，包括开放程度、运行门槛、生态支持以及长期维护节奏。"
+              ]
+            },
+            {
+              "heading": "风险与观察",
+              "paragraphs": [
+                "随着模型更易部署到多样化环境，安全问题也会同步上升。近期有关AI智能体风险和恶意网页影响代理系统的讨论，说明开放可用性与安全防护需要同步推进。",
+                "对于开发者来说，采用新模型时除了关注性能指标，还需要评估提示注入、外部内容污染、权限边界和日志审计等实际问题，避免将模型能力直接等同于系统可靠性。",
+                "后续值得观察的重点包括Gemma 4的实际开源条款、社区接纳程度、第三方基准测试结果，以及它在开发者工具、企业应用和边缘设备中的真实落地表现。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Gemma 4发布报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkV4cWxLdVhLUEVJVnhLX05icTBaRTFERl9YSlg4bG5RdjNSMXN3cDlVQnlpamdGZU1MU2k5SU1jYXJ5V1JvSnNHN2hQSVNxeWlQZldBNmhxVHJxOVVvdXZMZDg4SkE?oc=5"
+          },
+          {
+            "label": "AI智能体安全风险分析",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11eWk2TWY5czhoTURkN2hDUmlMdXBjdkw0RXpaOHBmcHhlbXUyUFp3aU1QdXhDMVY0V2hZRzltLWFra2tmOEU5Vg?oc=5"
+          },
+          {
+            "label": "恶意网页影响AI代理",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZRHhXal9WOFdfQVNEc0lDbHRHY1RVTlJha2RTVUFtbDF6SFZLOVVUeGpMT1lfMVREYWUydGRSbVNiblRzZUU1RGxSVFR2UVdaWUFIenMxRHNPZW9TRVp2YVpNSFlBd9IBa0FVX3lxTE1mbTNlN3lHbE0wMm1CbmdkVWpMOGdWckZ6MG14MkZCVDNMQzlSN243QWRNLU9nNmd2eE9GMHdQWl9pczlLaTFaR2FDSGtweS1Qci14VWwyQUFTcmhXaTRPSVlfbjVMMnhYRHow?oc=5"
+          }
+        ],
+        "source": "verdict.co.uk",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZkV4cWxLdVhLUEVJVnhLX05icTBaRTFERl9YSlg4bG5RdjNSMXN3cDlVQnlpamdGZU1MU2k5SU1jYXJ5V1JvSnNHN2hQSVNxeWlQZldBNmhxVHJxOVVvdXZMZDg4SkE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260406-auto-2-b4ed70",
+        "title": "芝大获赠5000万美元扩招AI师资",
+        "category": "AI新闻",
+        "date": "2026-04-06",
+        "summary": "芝加哥大学获大额捐赠，计划引进更多AI领域教师。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "芝大获赠5000万美元扩招AI师资 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月6日，芝加哥大学获得5000万美元捐赠，用于引进AI领域专家教师。该消息显示，美国高校正继续通过资金投入强化人工智能学术布局。",
+          "blocks": [
+            {
+              "heading": "资金用途",
+              "paragraphs": [
+                "报道指出，这笔5000万美元捐赠将主要用于招聘AI专家教师。对于研究型大学而言，师资扩充不仅影响课程供给，也直接决定跨学科研究的组织能力。",
+                "AI领域的人才竞争已从企业扩展到高校。顶尖院校希望通过更有吸引力的资源配置，在基础模型、机器学习理论、计算基础设施和社会影响研究等方面建立长期优势。",
+                "在研究经费和人才薪酬持续上升的背景下，来自外部捐赠的长期资金，能够帮助学校减少短期预算压力，并提升招聘计划的稳定性。"
+              ]
+            },
+            {
+              "heading": "高教趋势",
+              "paragraphs": [
+                "美国高校近年普遍加快AI课程与研究中心建设，相关投入已不再局限于计算机学院，而是向医学、法学、商业、公共政策等多个学科延伸。",
+                "与此同时，围绕学生在AI环境中的权益保护也在升温。候选报道中提到的“学生AI权利法案”倡议，反映出高校在引入AI工具的同时，也需要回应透明度、公平性与申诉机制等问题。",
+                "从更广的教育市场看，AI教学平台与教育机构的合作也在增加。高校、培训平台和技术公司正在形成更复杂的供给网络，推动AI教育从精英研究走向普及应用。"
+              ]
+            },
+            {
+              "heading": "后续关注",
+              "paragraphs": [
+                "外界后续将关注芝加哥大学计划招聘的学科方向，是偏重基础研究、应用开发，还是更强调AI治理、伦理与社会科学交叉研究。",
+                "另一项现实问题是，高校如何在加强AI实力的同时维持教学质量与学术独立性。资金扩大并不必然转化为教育成效，还取决于课程设计、师生比例和基础设施建设。",
+                "对全球高教机构而言，这类大额捐赠案例也可能进一步加剧头部高校的人才虹吸效应，使AI研究资源向少数机构集中，进而影响未来学术竞争格局。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "芝大AI师资捐赠报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUotSzIyaF9FN2daTWc5UmwxYlhMS2tUWnRQVWFtdU5IUkZNQlZQa2RUbjFUUHpzdU5sdlZmNGExeWowY2RfX3ltZVRHVEVlR0RQRVdFNDJwYXhaTHhZOXQ1MkNLMUhUZThIRlRNZlJSZ0JFel9JMjhoQkhPYUNnYzlRSnMwUVozYzJQUExFQk11ay1EdWJldHQ5c2I0UXNuV3VrMU9sLUdBR1FX?oc=5"
+          },
+          {
+            "label": "学生AI权利法案倡议",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVJURDRWdGFXNHdyQTJPa1VsUGpHMldlWHNGdWZfbFplek15WElwa0pNRUloU0h6ejgyUXJUX0VpQmpibmpPNGlIRDJ4Y0JkWmZ0Y0hjWFBTRFlpa29pcGFMMElKOVBIekRZU0dFRDhwR1ZvYU9GaE1MY21yc0VqaVdUdko3ajZjOGxwRVlzNjd2cE5kREdhMDhVVXN2anRlOWh5cFpwRlRQalhOeHZZcms2Unladw?oc=5"
+          },
+          {
+            "label": "AI教育平台合作进展",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fWGdIVEFqaEwtSFZScGEzc3k5MURsMTJwUHJwVkEzOE9JeWhrRGZFeGpiTHdocEszZmIwZDRDTGZVRnhfWW16TXdXeHJSU1MySXFj?oc=5"
+          }
+        ],
+        "source": "Inside Higher Ed",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUotSzIyaF9FN2daTWc5UmwxYlhMS2tUWnRQVWFtdU5IUkZNQlZQa2RUbjFUUHpzdU5sdlZmNGExeWowY2RfX3ltZVRHVEVlR0RQRVdFNDJwYXhaTHhZOXQ1MkNLMUhUZThIRlRNZlJSZ0JFel9JMjhoQkhPYUNnYzlRSnMwUVozYzJQUExFQk11ay1EdWJldHQ5c2I0UXNuV3VrMU9sLUdBR1FX?oc=5"
+      },
+      {
+        "slug": "ai-news-20260406-auto-3-e12cdb",
+        "title": "OpenAI联手新世界拓展韩国AI零售",
+        "category": "AI新闻",
+        "date": "2026-04-06",
+        "summary": "双方计划在韩国推进AI商业与零售应用合作。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI联手新世界拓展韩国AI零售 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月6日，OpenAI与韩国新世界集团达成合作，计划在韩国市场推进AI商业与零售应用。这一合作显示，生成式AI正进一步进入大型零售与消费场景。",
+          "blocks": [
+            {
+              "heading": "合作方向",
+              "paragraphs": [
+                "根据候选报道，双方合作重点是建设面向韩国市场的AI商业能力。结合新世界在零售和消费领域的布局，这类合作通常会涉及客服、商品推荐、营销自动化和运营分析等环节。",
+                "对于OpenAI而言，与本地大型商业集团合作有助于推进模型能力在具体行业中的场景化落地。相比通用演示，零售环境更强调用户交互效率、库存联动和转化表现。",
+                "韩国零售市场数字化程度较高，消费者线上线下触点密集，这为AI商业工具提供了较丰富的数据与应用条件，也提高了合作项目的可验证性。"
+              ]
+            },
+            {
+              "heading": "市场意义",
+              "paragraphs": [
+                "零售行业一直是AI应用较快的领域之一，因为其业务链路长、数据密度高，且能较快通过用户留存、客单价和运营效率等指标反馈成效。",
+                "除了面向消费者的购物助手，AI还可延伸至供应链预测、门店运营、商品分类和内容生产。候选列表中的物流与供应链应用报道，也说明商业AI正由前端服务向后端流程扩展。",
+                "此次合作还反映出国际AI公司与区域龙头企业的合作模式正在增多，即由技术方提供模型与平台能力，本地企业负责渠道、品牌、数据和落地执行。"
+              ]
+            },
+            {
+              "heading": "风险与挑战",
+              "paragraphs": [
+                "零售AI应用面临的首要问题之一是责任划分。已有报道指出，当购物助手给出错误建议时，责任有时仍落在用户一侧，这会引发消费者保护争议。",
+                "因此，AI零售项目在推广过程中，除了追求效率提升，还需要明确提示生成内容的局限，建立人工复核、售后纠错和异常处理机制，避免影响消费者体验。",
+                "后续值得关注的是，双方合作是否会形成面向韩国市场的专属产品形态，以及这些工具能否在合规、准确率和商业回报之间取得稳定平衡。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI与新世界合作报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TaHFjMl9xTk1jRC1GSGJJTENnS2xNXzFaZjgtdE93aVM2b0VCRjI4SzFzUG54OWpvT3pCNkJGc0lXaVVVMW8wOWlrc0FUOUpjdnEybXU0R2otbHBTdHFtQVNBbW94OWNXNWxzaWJIMGhBeTFwbWVpOWN30gGOAUFVX3lxTE4wVjF0dGp5d0VUNnF6blJaTXFPLURnMXVKd1lVLVZMNGl2X3NvVnREYkgzd2RHMkpUX2R0RXdKUnlRUjlwSWo3eXJoNlNDelh6Y2hmRDRWcU1nc2dOaEZVaFhmaEJIWlVKYzI0X0dfWnhmZF82TTV0eVRCdnF0V1g1bjdleVV4NXJJNk54M2c?oc=5"
+          },
+          {
+            "label": "零售购物助手责任争议",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGVpQkVPNTd4aWRsVV9pMlJ6ZjhLUUVzWjFabUYzMmRmTDNqZUFYZkxYYm13NmxRZEtFVDFCemdqa21sSkEyYVVrUy15VElnOXRxRXB4bDdrNmlCd2p4OVJSNDFCTjctYlNlZHVnUnI3eno0STBUaldlNXRUbzhUOG1BYXAwV3JUb09hNWxvcDVjQTlXdk5mY0pFMU5kV3dEQk9kdnBpLTI2WHN2ajlLR213?oc=5"
+          },
+          {
+            "label": "AI改造供应链应用",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMm9oWWR2SEJfMThpeUt3dGx0OFBua2w3V20xU3NFLTNWZ0FWQXIzSnNIXzdrNmhFN0U4cXQyczVkcjloY29IT3luQTI5OGNtdFlCdnc4VDlBeDJlZ19mUVpKRk11X3NHdlhZU1RzWUdtLS1MeW5oMjRwU3JzUnVCQlFRdXBDRWtXdHFyenpuMjdITUs3UmFDWmgwV21Da3hVMFR2WkVvUnVyY3ExWnRmbm1fZG9oQ0sycmh5cjRxMXpjc3BZeTVSMmdKa1hjamtIUU9GWU5LY1kyYXFzMi1R?oc=5"
+          }
+        ],
+        "source": "Chosunbiz",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TaHFjMl9xTk1jRC1GSGJJTENnS2xNXzFaZjgtdE93aVM2b0VCRjI4SzFzUG54OWpvT3pCNkJGc0lXaVVVMW8wOWlrc0FUOUpjdnEybXU0R2otbHBTdHFtQVNBbW94OWNXNWxzaWJIMGhBeTFwbWVpOWN30gGOAUFVX3lxTE4wVjF0dGp5d0VUNnF6blJaTXFPLURnMXVKd1lVLVZMNGl2X3NvVnREYkgzd2RHMkpUX2R0RXdKUnlRUjlwSWo3eXJoNlNDelh6Y2hmRDRWcU1nc2dOaEZVaFhmaEJIWlVKYzI0X0dfWnhmZF82TTV0eVRCdnF0V1g1bjdleVV4NXJJNk54M2c?oc=5"
+      },
+      {
         "slug": "ai-news-20260405-auto-1-31eac6",
         "title": "微软Copilot条款引关注",
         "category": "AI新闻",
