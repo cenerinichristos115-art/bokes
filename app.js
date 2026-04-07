@@ -24,6 +24,180 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260407-auto-1-e93293",
+        "title": "Flowise曝高危远程漏洞",
+        "category": "AI新闻",
+        "date": "2026-04-07",
+        "summary": "Flowise被曝遭在野利用，涉及大量暴露实例。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Flowise曝高危远程漏洞 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月7日，安全媒体披露Flowise AI Agent Builder存在被在野利用的高危远程代码执行漏洞，事件引发对AI应用部署安全的关注。",
+          "blocks": [
+            {
+              "heading": "事件概况",
+              "paragraphs": [
+                "据报道，该漏洞评分达到CVSS 10.0，属于最高危等级，攻击者可在特定条件下远程执行代码。",
+                "报道同时提到，互联网上存在数量较多的暴露实例，潜在影响范围覆盖测试环境与部分生产环境。",
+                "从时间节点看，漏洞信息与利用活动几乎同步出现，说明相关攻击行为可能已具备自动化特征。"
+              ]
+            },
+            {
+              "heading": "可能影响与风险点",
+              "paragraphs": [
+                "对于依赖Flowise构建智能体工作流的团队而言，风险不仅限于服务中断，还可能涉及模型调用凭据和业务数据泄露。",
+                "如果实例未设置严格访问控制，攻击面会从单一主机扩展到关联数据库、对象存储和内部API网关。",
+                "在多租户或云原生环境中，漏洞还可能与配置错误叠加，放大横向移动和权限提升风险。"
+              ]
+            },
+            {
+              "heading": "处置建议",
+              "paragraphs": [
+                "建议运维团队优先核查对外暴露面，临时下线不必要实例，并通过WAF或访问策略限制未知来源流量。",
+                "随后应尽快完成补丁更新与版本核验，轮换密钥和令牌，并对近期日志开展入侵痕迹排查。",
+                "中长期看，组织可将AI应用纳入常规漏洞管理流程，建立资产清单、告警分级和应急演练机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Hacker News原文",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmV2elZDZ1d0eWFXU2prMHQweUZ4b2tPbEk1cWtFY0ktWHgxcXZ0XzlGdUc4em50UVBDMmtyaC1QMF80UjNjTVpjSVpLckFvUG9xUDloVkFOLWNPcDN5OTA2YkZRVmF1YzlXVG5mdzc5dTR2LUVxRkdKNy1WeWhaV3p3?oc=5"
+          },
+          {
+            "label": "AI语音应用相关新闻",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWozT0V6bG84dFRyZi1zMnRWY01ocVFaMmxSVkZyV25QbUd1ZHBGS0JXeFVsUFY2SVhrQ2JRSkJrX1NNS2c0ZEI1dDN5bURLSzJlZTRPTWVKVnUtcEkxZFpaWDE0SURuQjlhTWVIRmtvVURGYV96bkxHRFJBa2poUUdaVmxVQnNmX3JpNjVZX01ldTFieUg2ZGZlRENkYUlLcllGeWpERdIBpgFBVV95cUxOSWp1U0lULWZ4cG44X1hlZWx4TEpGcDlXX3BUSThpbXJlcGZyMGZfdHNUdGl1SEx4R2Myc0Z1LVI5NHNyQV91cThfaWJwOWZiMWhQU0FOX09nLWxCU2RXWl9hbzVoam04NTRmUkc1RFM0UGhuMkNJSWRyLW1FRDVSY21hOERBVHZvRFJRbHVwcmEzNmpuWmNqVlFfY0ZEOWptLWZDZElB?oc=5"
+          },
+          {
+            "label": "芯片供应链相关新闻",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVgxenk4b1dXemVydzhsMWpFWnJNRl84blRuOXZYUGRNLWhxaUtrNnNxUEFvemdBR3dvMXlyd0FiMkwwMl9XQ1pOa2FyeWZlU01pUjNtdXhWQkNvd0xSTUY4X2RRVzVYMk9JUDNmT2FjbmZfWHlTNnB0bU9WMVRqaA?oc=5"
+          }
+        ],
+        "source": "The Hacker News",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmV2elZDZ1d0eWFXU2prMHQweUZ4b2tPbEk1cWtFY0ktWHgxcXZ0XzlGdUc4em50UVBDMmtyaC1QMF80UjNjTVpjSVpLckFvUG9xUDloVkFOLWNPcDN5OTA2YkZRVmF1YzlXVG5mdzc5dTR2LUVxRkdKNy1WeWhaV3p3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260407-auto-2-a0132e",
+        "title": "谷歌推离线AI听写应用",
+        "category": "AI新闻",
+        "date": "2026-04-07",
+        "summary": "Google发布可离线运行的AI听写工具，主打本地转写。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌推离线AI听写应用 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月7日，多家媒体报道谷歌推出AI Edge Eloquent听写应用，强调离线可用和本地语音转文字能力。",
+          "blocks": [
+            {
+              "heading": "产品定位",
+              "paragraphs": [
+                "该应用被描述为基于Gemma能力构建的听写工具，主要面向移动端或边缘设备语音输入场景。",
+                "与云端转写服务不同，离线模式意味着在无网络或弱网络环境下仍可执行基础识别任务。",
+                "从用户侧看，产品价值集中在输入连续性和响应时延，适合会议速记、外出记录等即时需求。"
+              ]
+            },
+            {
+              "heading": "隐私与技术意义",
+              "paragraphs": [
+                "本地处理路径可减少音频上传频次，在一定程度上降低原始语音外传的隐私风险。",
+                "但离线识别的准确率仍受设备算力、模型尺寸和语言场景影响，不同终端体验可能存在差异。",
+                "这类应用也反映出端侧AI趋势，即把部分生成式与识别能力从云迁移到设备本地。"
+              ]
+            },
+            {
+              "heading": "市场观察",
+              "paragraphs": [
+                "目前语音转写市场竞争重点从“可用”转向“可用且可控”，离线能力成为差异化标签之一。",
+                "若谷歌后续完善多语言支持与专业词汇自定义，该产品在办公和教育领域有望扩大使用面。",
+                "行业层面看，端云协同将是下一阶段方向：高频任务本地执行，复杂任务再交由云端处理。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Neowin报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWozT0V6bG84dFRyZi1zMnRWY01ocVFaMmxSVkZyV25QbUd1ZHBGS0JXeFVsUFY2SVhrQ2JRSkJrX1NNS2c0ZEI1dDN5bURLSzJlZTRPTWVKVnUtcEkxZFpaWDE0SURuQjlhTWVIRmtvVURGYV96bkxHRFJBa2poUUdaVmxVQnNmX3JpNjVZX01ldTFieUg2ZGZlRENkYUlLcllGeWpERdIBpgFBVV95cUxOSWp1U0lULWZ4cG44X1hlZWx4TEpGcDlXX3BUSThpbXJlcGZyMGZfdHNUdGl1SEx4R2Myc0Z1LVI5NHNyQV91cThfaWJwOWZiMWhQU0FOX09nLWxCU2RXWl9hbzVoam04NTRmUkc1RFM0UGhuMkNJSWRyLW1FRDVSY21hOERBVHZvRFJRbHVwcmEzNmpuWmNqVlFfY0ZEOWptLWZDZElB?oc=5"
+          },
+          {
+            "label": "Tech Times相关报道",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenVGUkw0UGRQSnlfZ202aWdBaTJmSUMzWTdWMTMzUGtwaVhmTUd1VVdJenNoN0Q3OGx5TVVXZ2d5cF9HZmF6ajlWelJrNlgtSDA0UXZ6QUk3MGJISlFsTVB5cnFXMTlSQTJEdDBzSFBOblZNSVRTdEdCcE1mU0p0Ymc5c1o4Uk1HZTBKYUlKdEtpUzdQM2xoU2VjQ3pfQ3lRYTZpV1ZON0JZc0tQVEphTmJ1dF9WdDhTdDJuTk9uX2NpUVJyTEhYYW1veG5PendTM1BJX3dBSzZYQ09Qcm1B?oc=5"
+          },
+          {
+            "label": "Storyboard18相关报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEd4THpaeVVZRlB2WDRFNVVrSjFoMGFadjF1T3FCdHdXeEctbTR2cU1XTjBHeDc3M1pYNkJ1dUpSYkVhdVZOdkxDVl9qTEtrUUVyUHlQLXktdm1uYk1qOFpBaV94QzhYdlA1blJHZml2Y0FFRkN5TmZIaFNicEJKVk92OXBKQzdmUmZIRUFMclFmb0MwMVc1N3djZ0RWTTNtV3RQUzhJTG9aY0lrelRnWTBOYWhfZGFRWERNcVRkSdIBxAFBVV95cUxOdGJUeU1JRDNiUjFDeF9TUDRqYzF2T1RFWkI4MVljeGQzMnJtc0VvSVVXd2NTdmJOVnNWN3ZRdW03eDk1aGktYTB0VjZYTTNmQmY3dmxMWFFxYXE4NzJWMDdiVjdZbExDdFY2bWpOd3V0QWNhZlVjZlRqa1JnZ01rVGNIR25uWmxBaEdyMkhmamwwcmRGOHJOR3h5QktnWXEwa3FSaUhRTm4xYk9ZZzAxNW91SGdIa3R0ZkJHTFc4a3dES3hF?oc=5"
+          }
+        ],
+        "source": "Neowin",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWozT0V6bG84dFRyZi1zMnRWY01ocVFaMmxSVkZyV25QbUd1ZHBGS0JXeFVsUFY2SVhrQ2JRSkJrX1NNS2c0ZEI1dDN5bURLSzJlZTRPTWVKVnUtcEkxZFpaWDE0SURuQjlhTWVIRmtvVURGYV96bkxHRFJBa2poUUdaVmxVQnNmX3JpNjVZX01ldTFieUg2ZGZlRENkYUlLcllGeWpERdIBpgFBVV95cUxOSWp1U0lULWZ4cG44X1hlZWx4TEpGcDlXX3BUSThpbXJlcGZyMGZfdHNUdGl1SEx4R2Myc0Z1LVI5NHNyQV91cThfaWJwOWZiMWhQU0FOX09nLWxCU2RXWl9hbzVoam04NTRmUkc1RFM0UGhuMkNJSWRyLW1FRDVSY21hOERBVHZvRFJRbHVwcmEzNmpuWmNqVlFfY0ZEOWptLWZDZElB?oc=5"
+      },
+      {
+        "slug": "ai-news-20260407-auto-3-291493",
+        "title": "UNO教师入选NSF项目",
+        "category": "AI新闻",
+        "date": "2026-04-07",
+        "summary": "内布拉斯加奥马哈大学教师入选NSF首届AI教育资助项目。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "UNO教师入选NSF项目 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月7日，内布拉斯加奥马哈大学发布消息称，该校教师入选美国国家科学基金会首届相关资助项目，聚焦提升全国范围AI教育可及性。",
+          "blocks": [
+            {
+              "heading": "项目要点",
+              "paragraphs": [
+                "该项目强调“扩大AI教育获得机会”，核心目标是让更多地区、更多学习者接触到基础与进阶AI课程资源。",
+                "从高校角度看，入选教师通常需要承担课程设计、师资协作和教学评估等综合性任务。",
+                "首届项目的启动也被视为政策层面对AI人才基础建设的延续，重点不只在科研，还在教学普及。"
+              ]
+            },
+            {
+              "heading": "对教育体系的影响",
+              "paragraphs": [
+                "若项目推进顺利，K-12与高等教育之间可能形成更清晰的AI课程衔接路径。",
+                "对地方院校而言，联邦级项目可带来课程框架、资源共享和跨校合作机会，降低单校探索成本。",
+                "对学生层面，教育可及性提升意味着更多非计算机专业学习者也能获得AI素养训练。"
+              ]
+            },
+            {
+              "heading": "后续观察方向",
+              "paragraphs": [
+                "短期可关注项目是否公布统一教学标准、学习成果指标及覆盖人群规模等量化信息。",
+                "中期可观察课程是否兼顾技术能力与伦理、隐私、社会影响等治理议题。",
+                "在全球AI竞争背景下，教育端投入的持续性将影响未来产业人才供给与创新能力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "UNO官方新闻",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV1k5Q19XdXA2aTh2MXU4M3R1VUJtSVhWSU9Yc2Y3dFhRRS1YSXVLdE5MNHMydkVDZ0xtcXVSdnJhTVJHOFJZSVp4X3BYOGJUa09aQXhUQ3N5djNlb3ZQQmsyYm5FT1BPdzZRbktoY1Y0UFZ2TUhXTVoyeTItdXFKdWltQXUzUDhvemZCLVdfRy1aSEVOQ1B0VkpLZUVrRFA5eFVQZWZQZUJITGd1bXpuZFd4N2UxY0thZmNmenF0TTNsRk1KYm9SLUQ1VHJDUG4wanFSU2ltbGhTWnVpMnFvQkdOaWx0akZKX3FObHJnYnB0QXY3MFE?oc=5"
+          },
+          {
+            "label": "AI教育评论参考",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2J2QWdha3FzYWI2eUFKMy1tWW1uNlN4Mlh5bTVLTEo1UWpWb1UyalBxSkJtYUk0YkVkMzJVTFVqRFR4UnRDTnc4QXBZYWlMYThEUnNVNF9YYmpQN1Y5UWlVVnJOb3BsWmVYU005amdtUjlWN3dfUDZfaWpuVUowWG1WWl9wZmRmVlhlNjBmNlFFOFVzYi1ZWVo3cHBjUUFyZXVPUjZSdnE4UG9wZkNyZzBqbk1yQQ?oc=5"
+          },
+          {
+            "label": "AI治理背景报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pdHNSdEpTT3NVSXF3VFZuUFNWOTF0UDB6VG5mTUU0RDAxX21lZEhLSWd0YjBmb21KeFlySWE4SFMwenVjS0loY2c1emlRS2dTX2Zmdng4TkNBZw?oc=5"
+          }
+        ],
+        "source": "University of Nebraska Omaha",
+        "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV1k5Q19XdXA2aTh2MXU4M3R1VUJtSVhWSU9Yc2Y3dFhRRS1YSXVLdE5MNHMydkVDZ0xtcXVSdnJhTVJHOFJZSVp4X3BYOGJUa09aQXhUQ3N5djNlb3ZQQmsyYm5FT1BPdzZRbktoY1Y0UFZ2TUhXTVoyeTItdXFKdWltQXUzUDhvemZCLVdfRy1aSEVOQ1B0VkpLZUVrRFA5eFVQZWZQZUJITGd1bXpuZFd4N2UxY0thZmNmenF0TTNsRk1KYm9SLUQ1VHJDUG4wanFSU2ltbGhTWnVpMnFvQkdOaWx0akZKX3FObHJnYnB0QXY3MFE?oc=5"
+      },
+      {
         "slug": "ai-news-20260406-auto-1-4f583e",
         "title": "谷歌发布Gemma 4模型",
         "category": "AI新闻",
