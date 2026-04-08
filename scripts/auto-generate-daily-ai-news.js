@@ -5,11 +5,80 @@ const path = require("path");
 const crypto = require("crypto");
 
 const APP_JS_PATH = path.join(__dirname, "..", "app.js");
+const CATEGORY_CONFIGS = {
+  "ai-news": {
+    category: "AI新闻",
+    slugPrefix: "ai-news",
+    promptBrief: "重点报道产业、产品、融资、政策等新闻事件。",
+    feeds: [
+      {
+        name: "Google News US AI",
+        url: "https://news.google.com/rss/search?q=artificial+intelligence+when:1d&hl=en-US&gl=US&ceid=US:en",
+      },
+      {
+        name: "Google News US GenAI",
+        url: "https://news.google.com/rss/search?q=(OpenAI+OR+Anthropic+OR+Google+AI+OR+Microsoft+AI)+when:1d&hl=en-US&gl=US&ceid=US:en",
+      },
+      {
+        name: "Google News CN AI",
+        url: "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      },
+    ],
+  },
+  "ai-guide": {
+    category: "AI使用教程",
+    slugPrefix: "ai-guide",
+    promptBrief: "强调可执行步骤与实操建议，避免空泛描述。",
+    feeds: [
+      {
+        name: "Google News AI Tutorial",
+        url: "https://news.google.com/rss/search?q=(AI+tutorial+OR+prompt+engineering+guide+OR+copilot+tips)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      },
+      {
+        name: "Google News CN AI Guide",
+        url: "https://news.google.com/rss/search?q=(AI+%E6%95%99%E7%A8%8B+OR+%E6%8F%90%E7%A4%BA%E8%AF%8D+OR+%E5%B7%A5%E5%85%B7%E5%AE%9E%E6%88%98)+when:2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      },
+      {
+        name: "Google News Developer Guide",
+        url: "https://news.google.com/rss/search?q=(OpenAI+API+tutorial+OR+LLM+workflow+guide)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      },
+    ],
+  },
+  "open-source": {
+    category: "开源项目",
+    slugPrefix: "open-source",
+    promptBrief: "聚焦开源AI项目的新发布或关键更新，写清用途与上手门槛。",
+    feeds: [
+      {
+        name: "Google News Open Source AI",
+        url: "https://news.google.com/rss/search?q=(open+source+AI+project+OR+GitHub+AI+release)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      },
+      {
+        name: "Google News CN Open Source AI",
+        url: "https://news.google.com/rss/search?q=(%E5%BC%80%E6%BA%90+AI+%E9%A1%B9%E7%9B%AE+OR+GitHub+AI)+when:2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      },
+      {
+        name: "Google News Model Release",
+        url: "https://news.google.com/rss/search?q=(open+weights+model+release+OR+hugging+face+new+model)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      },
+    ],
+  },
+};
+
+const TARGET_SECTION_ID = process.env.AUTO_TARGET_SECTION || "ai-news";
+const SECTION_CONFIG = CATEGORY_CONFIGS[TARGET_SECTION_ID];
+if (!SECTION_CONFIG) {
+  throw new Error(`AUTO_TARGET_SECTION 无效: ${TARGET_SECTION_ID}`);
+}
+
+const TARGET_CATEGORY = process.env.AUTO_TARGET_CATEGORY || SECTION_CONFIG.category;
+const TARGET_PREFIX = process.env.AUTO_TARGET_PREFIX || SECTION_CONFIG.slugPrefix;
 const TARGET_COUNT = Number.parseInt(process.env.AUTO_NEWS_COUNT || "3", 10);
 const TIMEZONE = process.env.AUTO_NEWS_TIMEZONE || "Asia/Shanghai";
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY || "";
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4.1-mini";
 const OPENAI_BASE_URL = (process.env.OPENAI_BASE_URL || "https://api.openai.com/v1").replace(/\/$/, "");
+const LOG_PREFIX = `[auto-${TARGET_PREFIX}]`;
 
 const FALLBACK_HERO = {
   url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
@@ -124,22 +193,8 @@ const dedupeCandidates = (items) => {
   return output;
 };
 
-const fetchNewsCandidates = async () => {
-  const feeds = [
-    {
-      name: "Google News US AI",
-      url: "https://news.google.com/rss/search?q=artificial+intelligence+when:1d&hl=en-US&gl=US&ceid=US:en",
-    },
-    {
-      name: "Google News US GenAI",
-      url: "https://news.google.com/rss/search?q=(OpenAI+OR+Anthropic+OR+Google+AI+OR+Microsoft+AI)+when:1d&hl=en-US&gl=US&ceid=US:en",
-    },
-    {
-      name: "Google News CN AI",
-      url: "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+when:1d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-    },
-  ];
-
+const fetchCandidates = async () => {
+  const feeds = SECTION_CONFIG.feeds;
   const results = [];
   for (const feed of feeds) {
     try {
@@ -147,7 +202,7 @@ const fetchNewsCandidates = async () => {
       const parsed = parseRssItems(xml, feed.name);
       results.push(...parsed);
     } catch (error) {
-      console.warn(`[auto-news] 拉取失败: ${feed.name} -> ${error.message}`);
+      console.warn(`${LOG_PREFIX} 拉取失败: ${feed.name} -> ${error.message}`);
     }
   }
 
@@ -173,7 +228,7 @@ const buildPrompt = (candidates, dateText, count) => {
     })
     .join("\n");
 
-  return `请基于以下候选新闻，生成 ${count} 篇中文 AI 新闻稿（用于网站发布）。\n\n输出 JSON 对象，格式为:\n{\n  "articles": [\n    {\n      "title": "",\n      "summary": "",\n      "source": "",\n      "source_url": "",\n      "references": [{"label":"","url":""}],\n      "content": {\n        "intro": "",\n        "blocks": [\n          {"heading":"", "paragraphs":["", "", ""]},\n          {"heading":"", "paragraphs":["", "", ""]},\n          {"heading":"", "paragraphs":["", "", ""]}\n        ]\n      }\n    }\n  ]\n}\n\n硬性要求:\n1) 必须是 ${count} 篇，且是不同事件。\n2) title 控制在 20 个中文字符以内；summary 控制在 50 个中文字符以内。\n3) source_url 与 references.url 必须只使用候选列表里的链接。\n4) 每篇 references 恰好 3 条。\n5) 每篇 blocks 恰好 3 个，每个 block 的 paragraphs 恰好 3 段。\n6) 语气客观，避免夸张词。\n7) 发布日期语境是 ${dateText}（北京时间）。\n\n候选新闻列表:\n${sourceList}`;
+  return `请基于以下候选信息，生成 ${count} 篇中文「${TARGET_CATEGORY}」稿件（用于网站发布）。\n\n输出 JSON 对象，格式为:\n{\n  "articles": [\n    {\n      "title": "",\n      "summary": "",\n      "source": "",\n      "source_url": "",\n      "references": [{"label":"","url":""}],\n      "content": {\n        "intro": "",\n        "blocks": [\n          {"heading":"", "paragraphs":["", "", ""]},\n          {"heading":"", "paragraphs":["", "", ""]},\n          {"heading":"", "paragraphs":["", "", ""]}\n        ]\n      }\n    }\n  ]\n}\n\n硬性要求:\n1) 必须是 ${count} 篇，且是不同事件或项目。\n2) title 控制在 20 个中文字符以内；summary 控制在 50 个中文字符以内。\n3) source_url 与 references.url 必须只使用候选列表里的链接。\n4) 每篇 references 恰好 3 条。\n5) 每篇 blocks 恰好 3 个，每个 block 的 paragraphs 恰好 3 段。\n6) 语气客观，避免夸张词。\n7) 发布日期语境是 ${dateText}（北京时间）。\n8) ${SECTION_CONFIG.promptBrief}\n\n候选信息列表:\n${sourceList}`;
 };
 
 const parseJsonPayload = (rawText) => {
@@ -280,12 +335,12 @@ const callOpenAIForDrafts = async (candidates, dateText, count) => {
       }
 
       if (attempt > 1) {
-        console.log(`[auto-news] 第 ${attempt} 次尝试成功`);
+        console.log(`${LOG_PREFIX} 第 ${attempt} 次尝试成功`);
       }
       return articles.slice(0, count);
     } catch (error) {
       lastError = error;
-      console.warn(`[auto-news] 第 ${attempt} 次模型生成失败: ${error.message}`);
+      console.warn(`${LOG_PREFIX} 第 ${attempt} 次模型生成失败: ${error.message}`);
     }
   }
 
@@ -389,7 +444,7 @@ const makeSlug = (dateToken, index, title) => {
     .update(`${dateToken}-${index + 1}-${title}`)
     .digest("hex")
     .slice(0, 6);
-  return `ai-news-${dateToken}-auto-${index + 1}-${seed}`;
+  return `${TARGET_PREFIX}-${dateToken}-auto-${index + 1}-${seed}`;
 };
 
 const toArticleObject = (raw, index, dateText, dateToken, candidates) => {
@@ -402,7 +457,7 @@ const toArticleObject = (raw, index, dateText, dateToken, candidates) => {
   return {
     slug: makeSlug(dateToken, index, title),
     title,
-    category: "AI新闻",
+    category: TARGET_CATEGORY,
     date: dateText,
     summary,
     hero_image: {
@@ -412,7 +467,7 @@ const toArticleObject = (raw, index, dateText, dateToken, candidates) => {
     },
     featured: index === 0,
     content: {
-      intro: shortText(raw?.content?.intro || `${dateText} 最新 AI 动态聚焦于模型发布、产品策略和商业化推进。`, 180),
+      intro: shortText(raw?.content?.intro || `${dateText} 最新${TARGET_CATEGORY}动态值得关注。`, 180),
       blocks: normalizeBlocks(raw?.content?.blocks),
     },
     references: refs,
@@ -481,20 +536,20 @@ const renderArticleLiteral = (article) => {
 const prependArticlesToAppJs = (articles, dateToken) => {
   const current = fs.readFileSync(APP_JS_PATH, "utf8");
 
-  const alreadyExists = new RegExp(`slug:\\s*"ai-news-${dateToken}-auto-\\d+-`, "m").test(current);
+  const alreadyExists = new RegExp(`slug:\\s*"${TARGET_PREFIX}-${dateToken}-auto-\\d+-`, "m").test(current);
   if (alreadyExists) {
-    console.log(`[auto-news] ${dateToken} 的自动稿已存在，跳过写入`);
+    console.log(`${LOG_PREFIX} ${dateToken} 的自动稿已存在，跳过写入`);
     return false;
   }
 
-  const aiNewsIndex = current.indexOf('id: "ai-news"');
-  if (aiNewsIndex < 0) {
-    throw new Error("未在 app.js 中找到 ai-news 分区");
+  const sectionIndex = current.indexOf(`id: "${TARGET_SECTION_ID}"`);
+  if (sectionIndex < 0) {
+    throw new Error(`未在 app.js 中找到 ${TARGET_SECTION_ID} 分区`);
   }
 
-  const itemsIndex = current.indexOf("items: [", aiNewsIndex);
+  const itemsIndex = current.indexOf("items: [", sectionIndex);
   if (itemsIndex < 0) {
-    throw new Error("未在 ai-news 分区中找到 items 数组");
+    throw new Error(`未在 ${TARGET_SECTION_ID} 分区中找到 items 数组`);
   }
 
   const insertAt = current.indexOf("\n", itemsIndex);
@@ -511,20 +566,20 @@ const prependArticlesToAppJs = (articles, dateToken) => {
 const main = async () => {
   const dateText = todayInTimezone();
   const dateToken = toDateToken(dateText);
-  console.log(`[auto-news] date=${dateText}, target=${TARGET_COUNT}`);
+  console.log(`${LOG_PREFIX} date=${dateText}, category=${TARGET_CATEGORY}, target=${TARGET_COUNT}`);
 
-  const candidates = await fetchNewsCandidates();
+  const candidates = await fetchCandidates();
   if (candidates.length < TARGET_COUNT) {
-    throw new Error(`候选新闻不足：需要 ${TARGET_COUNT} 条，实际 ${candidates.length} 条`);
+    throw new Error(`候选信息不足：需要 ${TARGET_COUNT} 条，实际 ${candidates.length} 条`);
   }
 
-  console.log(`[auto-news] 候选新闻条数: ${candidates.length}`);
+  console.log(`${LOG_PREFIX} 候选信息条数: ${candidates.length}`);
 
   let drafts;
   try {
     drafts = await callOpenAIForDrafts(candidates, dateText, TARGET_COUNT);
   } catch (error) {
-    console.warn(`[auto-news] 模型草稿生成失败，启用模板降级: ${error.message}`);
+    console.warn(`${LOG_PREFIX} 模型草稿生成失败，启用模板降级: ${error.message}`);
     drafts = buildFallbackDraftsFromCandidates(candidates, TARGET_COUNT);
   }
 
@@ -535,10 +590,10 @@ const main = async () => {
     return;
   }
 
-  console.log(`[auto-news] 已写入 ${articles.length} 篇：${articles.map((item) => item.slug).join(", ")}`);
+  console.log(`${LOG_PREFIX} 已写入 ${articles.length} 篇：${articles.map((item) => item.slug).join(", ")}`);
 };
 
 main().catch((error) => {
-  console.error(`[auto-news] 失败: ${error.message}`);
+  console.error(`${LOG_PREFIX} 失败: ${error.message}`);
   process.exit(1);
 });

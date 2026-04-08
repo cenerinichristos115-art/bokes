@@ -7,6 +7,7 @@
 // date: YYYY-MM-DD
 // source: 来源名称（可写多来源缩写，如 36氪 / 量子位 / 21经济网）
 // source_url: 主来源链接（正文中再列完整来源清单）
+// hero_image: { url: 头图URL, alt: 图片替代文本, credit: 图片来源说明 }
 // summary: 摘要（50字以内，必须包含事实结论，不写空泛判断）
 // featured: true | false （是否作为 MAIN STORY 主推）
 // ---
@@ -958,6 +959,11 @@ const sections = [
         category: "AI新闻",
         date: "2026-04-02",
         summary: "OpenAI宣布完成1220亿美元融资，估值8520亿美元，并首次通过银行渠道引入超30亿美元个人资金。",
+        hero_image: {
+          url: "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          alt: "OpenAI 标志",
+          credit: "图片来源：Wikimedia Commons",
+        },
         featured: true,
         content: {
           intro:
@@ -1532,6 +1538,7 @@ const withBasePath = (pathname = "/") => {
 
 const today = new Date();
 const todayText = `${today.getFullYear()}-${`${today.getMonth() + 1}`.padStart(2, "0")}-${`${today.getDate()}`.padStart(2, "0")}`;
+const MS_PER_DAY = 24 * 60 * 60 * 1000;
 
 const escapeHtml = (value = "") =>
   String(value).replace(/[&<>"']/g, (char) => {
@@ -1565,6 +1572,29 @@ const sanitizeSectionId = (value = "") => {
   return normalized || "section";
 };
 
+const normalizeHeroImage = (item = {}) => {
+  if (!item.hero_image || typeof item.hero_image !== "object" || Array.isArray(item.hero_image)) {
+    return null;
+  }
+  const imageUrl = sanitizeUrl(item.hero_image.url);
+  if (imageUrl === "#") {
+    return null;
+  }
+  const altText =
+    typeof item.hero_image.alt === "string" && item.hero_image.alt.trim().length > 0
+      ? item.hero_image.alt.trim()
+      : "文章头图";
+  const creditText =
+    typeof item.hero_image.credit === "string" && item.hero_image.credit.trim().length > 0
+      ? item.hero_image.credit.trim()
+      : "";
+  return {
+    url: imageUrl,
+    alt: escapeHtml(altText),
+    credit: escapeHtml(creditText),
+  };
+};
+
 const formatDate = (value) => {
   if (typeof value !== "string") {
     return todayText;
@@ -1574,6 +1604,28 @@ const formatDate = (value) => {
     return todayText;
   }
   return `${match[1]}-${match[2]}-${match[3]}`;
+};
+
+const toUtcDayMs = (value) => {
+  const safeDate = formatDate(value);
+  const [year, month, day] = safeDate.split("-").map((part) => Number.parseInt(part, 10));
+  if (![year, month, day].every((part) => Number.isInteger(part))) {
+    return null;
+  }
+  return Date.UTC(year, month - 1, day);
+};
+
+const isWithinRecentDays = (dateText, days = 2, referenceDate = new Date()) => {
+  if (!Number.isInteger(days) || days <= 0) {
+    return true;
+  }
+  const targetMs = toUtcDayMs(dateText);
+  if (targetMs === null) {
+    return false;
+  }
+  const referenceMs = Date.UTC(referenceDate.getFullYear(), referenceDate.getMonth(), referenceDate.getDate());
+  const diffDays = Math.floor((referenceMs - targetMs) / MS_PER_DAY);
+  return diffDays >= 0 && diffDays < days;
 };
 
 const normalizeCategory = (value, fallback = "") => {
@@ -1658,6 +1710,7 @@ const sanitizeItem = (item = {}, fallbackCategory = "") => {
     category: escapeHtml(normalizeCategory(item.category, fallbackCategory)),
     date: formatDate(item.date),
     summary: escapeHtml(item.summary ?? ""),
+    hero_image: normalizeHeroImage(item),
     featured: item.featured === true,
     content: {
       intro: escapeHtml(normalizedContent.intro),
@@ -1682,6 +1735,7 @@ const emptyItem = {
     intro: "该栏目暂未更新。",
     blocks: [],
   },
+  hero_image: null,
   source: "寂川日报",
   source_url: "#",
   references: [],
@@ -1822,11 +1876,16 @@ const renderLead = (sectionId, sectionCategory, item, index) => {
   `;
 };
 
-const renderList = (sectionId, sectionCategory, items, startIndex = 0) => {
-  const html = items
-    .map((item, idx) => {
+const renderList = (sectionId, sectionCategory, records) => {
+  const html = records
+    .map((record) => {
+      if (!record || typeof record !== "object") {
+        return "";
+      }
+      const item = record.item;
+      const index = Number.isInteger(record.index) ? record.index : 0;
       const safeItem = sanitizeItem(item, sectionCategory);
-      const detailHref = buildArticleHref(sectionId, startIndex + idx, item);
+      const detailHref = buildArticleHref(sectionId, index, item);
       return `
         <li>
           <article>
@@ -1846,7 +1905,9 @@ const renderSection = (section) => {
   const sectionId = sanitizeSectionId(section.id);
   const sectionTitle = escapeHtml(section.title ?? "未命名栏目");
   const items = getSectionItems(section);
-  const [lead, ...rest] = items;
+  const indexedItems = items.map((item, index) => ({ item, index }));
+  const leadRecord = indexedItems[0] ?? null;
+  const recentListRecords = indexedItems.slice(1).filter((record) => isWithinRecentDays(record.item?.date, 2));
   const sectionLabel = escapeHtml(sectionLabels[section.id] || "SECTION");
   return `
     <section class="news-section" id="${sectionId}" aria-labelledby="title-${sectionId}">
@@ -1855,7 +1916,11 @@ const renderSection = (section) => {
         <h2 id="title-${sectionId}">${sectionTitle}</h2>
       </header>
       <div class="section-grid">
-        ${lead ? `${renderLead(section.id, section.title, lead, 0)}${renderList(section.id, section.title, rest, 1)}` : `<p class="empty-state">本栏目暂时没有内容。</p>`}
+        ${
+          leadRecord
+            ? `${renderLead(section.id, section.title, leadRecord.item, leadRecord.index)}${renderList(section.id, section.title, recentListRecords)}`
+            : `<p class="empty-state">本栏目暂时没有内容。</p>`
+        }
       </div>
     </section>
   `;
@@ -1963,12 +2028,22 @@ const renderDetailPage = (record) => {
       `,
     )
     .join("");
+  const heroImageHtml =
+    safeItem.hero_image && safeItem.hero_image.url
+      ? `
+        <figure class="detail-hero">
+          <img src="${safeItem.hero_image.url}" alt="${safeItem.hero_image.alt}" loading="eager" decoding="async" />
+          ${safeItem.hero_image.credit ? `<figcaption>${safeItem.hero_image.credit}</figcaption>` : ""}
+        </figure>
+      `
+      : "";
 
   return `
     <main class="detail-main">
       <article class="detail-article">
         <h2 class="detail-title">${safeItem.title}</h2>
         <p class="meta">分类：${safeItem.category} ｜ 发布日期：<time datetime="${safeItem.date}">${safeItem.date}</time> ｜ 来源：${safeItem.source}</p>
+        ${heroImageHtml}
         <p class="detail-intro">${safeItem.content.intro}</p>
         ${detailBlocksHtml}
         ${sourcesListHtml}

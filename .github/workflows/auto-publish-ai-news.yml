@@ -1,4 +1,4 @@
-name: Auto Publish AI News
+name: Auto Publish AI Content
 
 on:
   schedule:
@@ -15,7 +15,9 @@ concurrency:
 
 env:
   TZ: Asia/Shanghai
-  AUTO_NEWS_COUNT: "3"
+  AUTO_NEWS_COUNT: "2"
+  AUTO_GUIDE_COUNT: "1"
+  AUTO_OPEN_SOURCE_COUNT: "2"
   AUTO_NEWS_TIMEZONE: Asia/Shanghai
 
 jobs:
@@ -44,7 +46,7 @@ jobs:
             echo "skip_generate=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Generate 3 daily AI news posts
+      - name: Generate daily AI content (2 news + 1 guide + 2 open-source)
         id: generate
         if: steps.preflight.outputs.skip_generate != 'true'
         continue-on-error: true
@@ -52,7 +54,12 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-        run: node scripts/auto-generate-daily-ai-news.js
+        run: |
+          status=0
+          node scripts/auto-generate-daily-ai-news.js || status=1
+          AUTO_TARGET_SECTION=ai-guide AUTO_TARGET_CATEGORY="AI使用教程" AUTO_TARGET_PREFIX=ai-guide AUTO_NEWS_COUNT="${AUTO_GUIDE_COUNT}" node scripts/auto-generate-daily-ai-news.js || status=1
+          AUTO_TARGET_SECTION=open-source AUTO_TARGET_CATEGORY="开源项目" AUTO_TARGET_PREFIX=open-source AUTO_NEWS_COUNT="${AUTO_OPEN_SOURCE_COUNT}" node scripts/auto-generate-daily-ai-news.js || status=1
+          exit "$status"
 
       - name: Report skipped generation
         if: steps.preflight.outputs.skip_generate == 'true'
@@ -74,7 +81,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add app.js articles sections sitemap.xml robots.txt
-          git commit -m "Auto publish 3 AI news for $(date +%F)"
+          git commit -m "Auto publish 2 news, 1 guide, 2 open-source for $(date +%F)"
           BRANCH="${GITHUB_REF_NAME:-master}"
           for attempt in 1 2 3; do
             if ! git pull --rebase origin "$BRANCH"; then
