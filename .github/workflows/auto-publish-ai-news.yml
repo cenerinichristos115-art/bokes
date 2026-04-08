@@ -70,6 +70,9 @@ jobs:
         run: echo "::warning::自动生成失败，已跳过当天自动发布。"
 
       - name: Rebuild static pages
+        env:
+          GOOGLE_SITE_VERIFICATION: ${{ secrets.GOOGLE_SITE_VERIFICATION }}
+          BING_SITE_VERIFICATION: ${{ secrets.BING_SITE_VERIFICATION }}
         run: node scripts/generate-static.js
 
       - name: Commit and push
@@ -80,7 +83,7 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add app.js articles sections sitemap.xml robots.txt
+          git add app.js index.html about.html editorial-policy.html privacy.html contact.html articles sections sitemap.xml rss.xml robots.txt
           git commit -m "Auto publish 2 news, 1 guide, 2 open-source for $(date +%F)"
           BRANCH="${GITHUB_REF_NAME:-master}"
           for attempt in 1 2 3; do

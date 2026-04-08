@@ -1536,6 +1536,14 @@ const withBasePath = (pathname = "/") => {
   return `${SITE_BASE_PATH}${cleanPath}`;
 };
 
+const RSS_SUBSCRIBE_HREF = withBasePath("/rss.xml");
+const TRUST_LINKS = [
+  { label: "关于我们", href: withBasePath("/about.html") },
+  { label: "编辑规范", href: withBasePath("/editorial-policy.html") },
+  { label: "隐私政策", href: withBasePath("/privacy.html") },
+  { label: "联系方式", href: withBasePath("/contact.html") },
+];
+
 const today = new Date();
 const todayText = `${today.getFullYear()}-${`${today.getMonth() + 1}`.padStart(2, "0")}-${`${today.getDate()}`.padStart(2, "0")}`;
 const MS_PER_DAY = 24 * 60 * 60 * 1000;
@@ -1864,6 +1872,30 @@ const renderNav = () => {
   return `<nav class="top-nav" aria-label="栏目导航"><ul>${items}</ul></nav>`;
 };
 
+const renderSubscribeCta = (variant = "home") => {
+  const title = variant === "detail" ? "不错过下一条更新" : "免费订阅寂川日报";
+  const desc =
+    variant === "detail"
+      ? "用 RSS 订阅后，你的阅读器会自动收到每日更新。"
+      : "每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。";
+  return `
+    <section class="subscribe-cta subscribe-cta-${variant}" aria-label="订阅入口">
+      <p class="subscribe-kicker">SUBSCRIBE</p>
+      <h2 class="subscribe-title">${title}</h2>
+      <p class="subscribe-desc">${desc}</p>
+      <p class="subscribe-actions">
+        <a class="subscribe-btn" href="${RSS_SUBSCRIBE_HREF}" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+        <a class="subscribe-link" href="${withBasePath("/")}">返回首页</a>
+      </p>
+    </section>
+  `;
+};
+
+const renderTrustLinks = () => {
+  const links = TRUST_LINKS.map((item) => `<li><a href="${item.href}">${item.label}</a></li>`).join("");
+  return `<nav class="site-links" aria-label="站点信息"><ul>${links}</ul></nav>`;
+};
+
 const renderLead = (sectionId, sectionCategory, item, index) => {
   const safeItem = sanitizeItem(item, sectionCategory);
   const detailHref = buildArticleHref(sectionId, index, item);
@@ -1978,11 +2010,13 @@ const renderHomePage = () => {
       ${renderNav()}
     </header>
     <main>
+      ${renderSubscribeCta("home")}
       ${renderFrontPage()}
       ${sectionHtml}
     </main>
     <footer>
       <p>改版说明：保留三栏目，采用更接近 WSJ 的极简新闻排版。</p>
+      ${renderTrustLinks()}
     </footer>
   `;
 };
@@ -2047,6 +2081,8 @@ const renderDetailPage = (record) => {
         <p class="detail-intro">${safeItem.content.intro}</p>
         ${detailBlocksHtml}
         ${sourcesListHtml}
+        ${renderSubscribeCta("detail")}
+        ${renderTrustLinks()}
         ${sourceLink}
       </article>
     </main>
