@@ -24,6 +24,180 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260408-auto-1-fd3b36",
+        "title": "Discernment in the",
+        "category": "AI新闻",
+        "date": "2026-04-08",
+        "summary": "Discernment in the Digital Age: A review of AI Goe",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Discernment in the 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Discernment in the Digital Age: A review of AI Goe",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Discernment in the Digital Age: A review of AI Goe",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Reformed Journal：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOC1SdHUxR193RVFRY1JaUW1nTk9MUzNvVENGX2VwZ2VaRFVZckM1RFFTYlQzZ0lXX3FxSFY0RGZxcmI4SmItMEMteG1ld0I3NHAwc1B0NXJEQ1NFdkpfSDg0YlhmQUdXNmEwMmtKQkhuVWhNcUs4SkJBWm8wazk1SWlTcTJpNGZZOWxESnI1eHl6QUI0bmUyclNUeXIzQzJMT2c?oc=5"
+          },
+          {
+            "label": "PhocusWire：Mirai rebuilds booking engine for conversational, agent-driven travel ",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5"
+          },
+          {
+            "label": "thurrott.com：Google Photos AI Enhance Android - thurrott.com",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFJsSnBlWHdyRWlyS1ZJcUNQMkZIX0IxNTFqWkZmcFVxOWU4c1RtSDdEWkRRQ2NOaHB2NlZZQ29aUy1xOVcyYk5oSlFRWGRzR3EzY2ZHaGNvQlAzaTFRM3ZGYXlRWi1XSWpWcGg0eFNmSE16MndpWXF5RmhUdHhGMWxqYVdwOUZIcmFoREpWc1JKZzNUYzVzenhMZ0I4NUtqVzVnWmxoNkFULVpTeWd4TGJORE4zal91ZGxpOTFlVEc4alUtUkZXaQ?oc=5"
+          }
+        ],
+        "source": "Reformed Journal",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOC1SdHUxR193RVFRY1JaUW1nTk9MUzNvVENGX2VwZ2VaRFVZckM1RFFTYlQzZ0lXX3FxSFY0RGZxcmI4SmItMEMteG1ld0I3NHAwc1B0NXJEQ1NFdkpfSDg0YlhmQUdXNmEwMmtKQkhuVWhNcUs4SkJBWm8wazk1SWlTcTJpNGZZOWxESnI1eHl6QUI0bmUyclNUeXIzQzJMT2c?oc=5"
+      },
+      {
+        "slug": "ai-news-20260408-auto-2-125e79",
+        "title": "Mirai rebuilds boo",
+        "category": "AI新闻",
+        "date": "2026-04-08",
+        "summary": "Mirai rebuilds booking engine for conversational,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mirai rebuilds boo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Mirai rebuilds booking engine for conversational,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mirai rebuilds booking engine for conversational,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PhocusWire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5"
+          },
+          {
+            "label": "Reformed Journal：Discernment in the Digital Age: A review of AI Goes to Church - Reform",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOC1SdHUxR193RVFRY1JaUW1nTk9MUzNvVENGX2VwZ2VaRFVZckM1RFFTYlQzZ0lXX3FxSFY0RGZxcmI4SmItMEMteG1ld0I3NHAwc1B0NXJEQ1NFdkpfSDg0YlhmQUdXNmEwMmtKQkhuVWhNcUs4SkJBWm8wazk1SWlTcTJpNGZZOWxESnI1eHl6QUI0bmUyclNUeXIzQzJMT2c?oc=5"
+          },
+          {
+            "label": "thurrott.com：Google Photos AI Enhance Android - thurrott.com",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFJsSnBlWHdyRWlyS1ZJcUNQMkZIX0IxNTFqWkZmcFVxOWU4c1RtSDdEWkRRQ2NOaHB2NlZZQ29aUy1xOVcyYk5oSlFRWGRzR3EzY2ZHaGNvQlAzaTFRM3ZGYXlRWi1XSWpWcGg0eFNmSE16MndpWXF5RmhUdHhGMWxqYVdwOUZIcmFoREpWc1JKZzNUYzVzenhMZ0I4NUtqVzVnWmxoNkFULVpTeWd4TGJORE4zal91ZGxpOTFlVEc4alUtUkZXaQ?oc=5"
+          }
+        ],
+        "source": "PhocusWire",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260408-auto-3-af27bc",
+        "title": "Google Photos AI E",
+        "category": "AI新闻",
+        "date": "2026-04-08",
+        "summary": "Google Photos AI Enhance Android thurrott.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Photos AI E 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google Photos AI Enhance Android thurrott.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Photos AI Enhance Android thurrott.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thurrott.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFJsSnBlWHdyRWlyS1ZJcUNQMkZIX0IxNTFqWkZmcFVxOWU4c1RtSDdEWkRRQ2NOaHB2NlZZQ29aUy1xOVcyYk5oSlFRWGRzR3EzY2ZHaGNvQlAzaTFRM3ZGYXlRWi1XSWpWcGg0eFNmSE16MndpWXF5RmhUdHhGMWxqYVdwOUZIcmFoREpWc1JKZzNUYzVzenhMZ0I4NUtqVzVnWmxoNkFULVpTeWd4TGJORE4zal91ZGxpOTFlVEc4alUtUkZXaQ?oc=5"
+          },
+          {
+            "label": "Reformed Journal：Discernment in the Digital Age: A review of AI Goes to Church - Reform",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOC1SdHUxR193RVFRY1JaUW1nTk9MUzNvVENGX2VwZ2VaRFVZckM1RFFTYlQzZ0lXX3FxSFY0RGZxcmI4SmItMEMteG1ld0I3NHAwc1B0NXJEQ1NFdkpfSDg0YlhmQUdXNmEwMmtKQkhuVWhNcUs4SkJBWm8wazk1SWlTcTJpNGZZOWxESnI1eHl6QUI0bmUyclNUeXIzQzJMT2c?oc=5"
+          },
+          {
+            "label": "PhocusWire：Mirai rebuilds booking engine for conversational, agent-driven travel ",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnc4U3RNYS0zOFFoV2kxYnc0eVJ1VDl1YldHM01lbDRCU1lqM1VyOW51U0F4RkpraVlPVThoQWR3YWctcTh3Si11b1FXSi1sVGo0ZGhJaE1uaVd3RFNZdTVjSEZxUmFodkxERmR1dURhcnNuQ3loZjlrRlg3emdNWjI0WktERUdSdWp5RHZISnNoS2JNQnc4MjF3?oc=5"
+          }
+        ],
+        "source": "thurrott.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFJsSnBlWHdyRWlyS1ZJcUNQMkZIX0IxNTFqWkZmcFVxOWU4c1RtSDdEWkRRQ2NOaHB2NlZZQ29aUy1xOVcyYk5oSlFRWGRzR3EzY2ZHaGNvQlAzaTFRM3ZGYXlRWi1XSWpWcGg0eFNmSE16MndpWXF5RmhUdHhGMWxqYVdwOUZIcmFoREpWc1JKZzNUYzVzenhMZ0I4NUtqVzVnWmxoNkFULVpTeWd4TGJORE4zal91ZGxpOTFlVEc4alUtUkZXaQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260407-auto-1-e93293",
         "title": "Flowise曝高危远程漏洞",
         "category": "AI新闻",
