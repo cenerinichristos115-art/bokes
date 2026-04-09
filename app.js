@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260409-auto-1-a53f0f",
+        "title": "十部门发布AI伦理审查办法",
+        "category": "AI新闻",
+        "date": "2026-04-09",
+        "summary": "我国十部门联合印发AI科技伦理审查与服务试行办法。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "十部门发布AI伦理审查办法 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026年4月9日的政策信息中，人工智能治理继续向制度化推进。十部门联合发布试行办法，释放出强化伦理审查、规范服务流程的信号。",
+          "blocks": [
+            {
+              "heading": "政策发布背景",
+              "paragraphs": [
+                "据公开信息，十部门联合印发《人工智能科技伦理审查与服务办法（试行）》，文件聚焦人工智能研发与应用中的伦理治理问题。",
+                "从时间节点看，该文件与地方层面的“人工智能+”行动征求意见形成呼应，显示中央与地方正并行完善治理与产业推进机制。",
+                "在技术快速落地背景下，监管框架的提前布局有助于明确企业、科研机构和服务平台在研发、部署、运营阶段的责任边界。"
+              ]
+            },
+            {
+              "heading": "对产业与企业的影响",
+              "paragraphs": [
+                "对企业而言，伦理审查机制可能成为产品上线与场景扩展的重要前置环节，尤其是在涉及个人信息、生成内容与自动决策的业务中。",
+                "在合规成本方面，企业需要投入更多资源建设内部治理体系，包括数据来源管理、模型风险评估和审查记录留存等能力。",
+                "从长期看，统一的审查与服务规则有助于降低跨区域、跨行业合作中的制度摩擦，提升人工智能项目的可预期性。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "第一，关注配套细则是否进一步明确审查流程、责任主体和问责机制，以便产业端形成可执行的合规路径。",
+                "第二，关注地方“人工智能+”政策与国家层面伦理要求如何衔接，避免出现标准不一致影响企业实施效率。",
+                "第三，围绕数字人、员工肖像与知情同意等社会讨论热点，相关制度在实际案例中的适用性将成为检验政策效果的关键。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "十部门联合印发《人工智能科技伦理审查与服务办法（试行）》",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFZQT2V6WmFZZlNrTGhvSGJMbFprRG84dDk2eWFPNElWdk45WkNhVFhmT3lWdF9XbnJhWmlDVy1rbFVJWlNNeWpkWVNXa01mYnh6dXExRFMxWmk2S0FCVlVVQjdiME91TzFSNGI5bFJ3WjFpWXJCNnhzSTBLaDRGQUhHM19Haml4LTBjSQ?oc=5"
+          },
+          {
+            "label": "成都公开征求“人工智能+”行动意见",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWM5TjFZMzgtNTVLWWxRU01fSklMZFFHZkZ2SXFDWnR2TzcyZGNTZ05aRXpwMGRnZXJTczVDYnJ2bnBYcjlnV3ItRURjalRrb0Riem9WaktyVk1vUHVQZHNWRmhLU1lyV3UwbmpCMmxqZmh0WS02ZWhZVk0xaFBhaG5wd3p2eEZ6?oc=5"
+          },
+          {
+            "label": "离职员工AI数字人争议",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsTWJMS3BQOThWWVpqaG42WWpyYzRKTUt5Q1pOVjNBVnlKR0gwb0M3VElvek1DSjF2QXpudzNBcS1rZWZrTHpHQkJsZko0TDI4MjVKY2ZpQm5MdnhGbGc?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFZQT2V6WmFZZlNrTGhvSGJMbFprRG84dDk2eWFPNElWdk45WkNhVFhmT3lWdF9XbnJhWmlDVy1rbFVJWlNNeWpkWVNXa01mYnh6dXExRFMxWmk2S0FCVlVVQjdiME91TzFSNGI5bFJ3WjFpWXJCNnhzSTBLaDRGQUhHM19Haml4LTBjSQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260409-auto-2-027229",
+        "title": "Grab推出AI旅行工具",
+        "category": "AI新闻",
+        "date": "2026-04-09",
+        "summary": "Grab发布AI驱动旅行工具，强化出行与旅游服务整合。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Grab推出AI旅行工具 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年4月9日，东南亚平台企业在AI商业化方面继续推进。Grab宣布上线AI驱动旅行工具，进一步连接交通、住宿与行程服务。",
+          "blocks": [
+            {
+              "heading": "产品动作与定位",
+              "paragraphs": [
+                "Grab此次发布的重点是AI旅行工具，核心方向是用智能能力优化用户在出行与旅游场景中的决策与执行流程。",
+                "从平台定位看，这类工具通常强调一站式体验，通过推荐、匹配与自动化操作提升行程规划效率。",
+                "在竞争层面，AI能力正成为综合出行平台的新差异化抓手，尤其是在高频交通入口向低频旅游消费延伸的过程中。"
+              ]
+            },
+            {
+              "heading": "商业模式与行业趋势",
+              "paragraphs": [
+                "AI旅行工具的商业价值主要体现在转化率提升、交叉销售增强以及客服与运营成本优化等方面。",
+                "与其他平台的AI转型案例相比，市场对“功能上线”与“财务兑现”的关注同步上升，企业需要证明AI投入可以形成持续回报。",
+                "从行业趋势看，平台型企业正在将大模型能力嵌入既有业务链条，而非单独推出孤立产品，这有助于缩短变现路径。"
+              ]
+            },
+            {
+              "heading": "后续看点",
+              "paragraphs": [
+                "第一，观察该工具在不同城市与国家的落地节奏，尤其是本地数据、语言与监管要求对功能可用性的影响。",
+                "第二，关注用户侧指标变化，包括预订转化、复购率和平均客单价，以评估AI功能的实际经营贡献。",
+                "第三，随着区域内AI大会和产业活动增多，平台与模型厂商、云服务商之间的合作深度可能成为下一阶段竞争关键。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Grab launches AI-powered travel tools",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRHUmtXRW41UnZiYjJMWXVVd19BS0NES3E0QTN1SlBUay1EVDVPV1ZydDYyZmpnRExNM0paTE43THZrMUZocVBrSGdfaHhvVmQtZmZkSElOVlJrQ1JOVnN0SUNhRVRXTDFRYlg4M244Q3RwOFU3eEhwdVhrb2VySHVR?oc=5"
+          },
+          {
+            "label": "Bolt AI转型与估值讨论",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3lrX0ZGdXBZWVIzT0pMaWVpNk5vNDVPeFBCOWkzUDhSMU9UNlQ0MEc4amhXeDZwSGt3MW80Y2RMc0Y4RjVMMTJzdjRoZm5rWlQxVkYwU0x1UzBRQ0ZUanRSVzVkWWRwQzNVR3ItLXJHZGNmaFRLdnctMC05bGw0N3ZiVVY0b25wanF4V19lS1NFUnRwWG51MjBZNkxZRmNJVDFN?oc=5"
+          },
+          {
+            "label": "北京亦庄AI未来大会启幕",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FWVRBNm40bmpzWGFEQTBwb1hieFcxby1KWVB6cmhoSnl5cWlKcDdpRDZ6bjhXc0d0anlHUkJjbjBxbmRwTkhUcU96bUlCX1p4Rm90U3luZWpwdllaeVcyZmlCVQ?oc=5"
+          }
+        ],
+        "source": "PhocusWire",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmRHUmtXRW41UnZiYjJMWXVVd19BS0NES3E0QTN1SlBUay1EVDVPV1ZydDYyZmpnRExNM0paTE43THZrMUZocVBrSGdfaHhvVmQtZmZkSElOVlJrQ1JOVnN0SUNhRVRXTDFRYlg4M244Q3RwOFU3eEhwdVhrb2VySHVR?oc=5"
+      },
+      {
         "slug": "ai-news-20260408-auto-1-fd3b36",
         "title": "Discernment in the",
         "category": "AI新闻",
@@ -1327,6 +1443,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260409-auto-1-f7c5b7",
+        "title": "公众号AI写作合规教程",
+        "category": "AI使用教程",
+        "date": "2026-04-09",
+        "summary": "结合最新平台规则，给出可执行的AI写作发布流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "公众号AI写作合规教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026-04-09（北京时间），内容平台对“非真人AI写作”治理继续收紧。对公众号运营者来说，重点不是停用AI，而是把AI纳入“可追溯、可复核、可纠错”的生产流程。下面给出一套可直接执行的合规写作方法。",
+          "blocks": [
+            {
+              "heading": "先做合规基线：明确哪些环节必须人工负责",
+              "paragraphs": [
+                "第一步，建立“人机分工表”。建议将选题判断、事实核查、最终发布三项明确为人工负责；将提纲生成、语句润色、标题备选设为AI辅助。这样做的核心是：把责任边界写清楚，避免整篇由AI自动生成后直接发布。",
+                "第二步，制作“发布前检查单”，至少包含三项：是否有可验证来源、是否有人工改写痕迹、是否存在明显模板化重复。每篇稿件在发布前由编辑逐条勾选并留档，便于后续内部审计。",
+                "第三步，设置“高风险主题二审机制”。涉及政策、金融、医疗、法律等主题时，要求第二位编辑复核事实与表述。AI可以给初稿，但高风险内容必须通过人工双重确认，降低误导与违规概率。"
+              ]
+            },
+            {
+              "heading": "搭建实操流程：从提示词到终稿的可追溯链路",
+              "paragraphs": [
+                "起草阶段，先输入结构化提示词，而不是一句“帮我写一篇”。建议固定模板：目标读者、文章目的、核心观点3条、禁用表述、引用要求。这样可以显著减少空泛内容和“撞模板”问题。",
+                "加工阶段，要求AI输出“依据说明区”，即每个关键判断后附一句“依据类型”（如公开报道、平台规则、历史案例）。即使AI给出的依据不完整，编辑也能快速定位需要补证的位置。",
+                "定稿阶段，保留三个版本：AI初稿、人工修改稿、发布稿。并在内部文档记录“人工修改比例”和“关键改动点”。这既能证明真人参与，也能帮助团队持续优化AI使用方式。"
+              ]
+            },
+            {
+              "heading": "上线后的风控动作：监测、纠错与团队培训",
+              "paragraphs": [
+                "文章发布后24小时内，安排一次快速复查：查看读者反馈中是否出现事实争议、是否被指出措辞机械、是否存在未标注引用。若出现问题，优先做“更正说明+时间戳更新”，不要静默修改。",
+                "建立“违规样本库”。把被判定风险的句式、过度自动化段落、未经核实的数据表达沉淀为反例，并在下次提示词中加入“禁止生成类似表达”的约束，形成闭环改进。",
+                "每两周开展一次15分钟内部训练：复盘1篇合规样稿和1篇问题样稿，统一团队对“AI辅助”与“真人创作责任”的理解。通过短周期训练，通常比一次性大培训更容易执行并长期保持效果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：微信公众号打击非真人AI写作",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUVWTGRLTnBEVHZrUkxJZllROEYzYkRhVGNxbGNRQnpWdXo5UHhQdUZMcWdxR3VtM21TbVQ2NXlLVi1pRElSVjBjc3BkSHZ5WVlVYTdTS0ZOd1k5OFRDa0M4R3JQVlEtc2FtOWtVR2RINnBWYldrVDBDVWU5ZGJuYmNZZEZQa3A3Tm52cVZtMnlpMENSdVU0YV9RYTBWNC1seml2Y3JNMk5uS3ZMZ2RnelY0T01XbVVfVmxnMEhNMWt0cEo1UlBYMTF4RG1mTE5EeHVoczIweWF2TGh6NTlISExHRVg0Q25waGgyM2lGbm5lT1hqR2FkNWZIRE1XZw?oc=5"
+          },
+          {
+            "label": "Sohu：微信公众号严打AI写作新规",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZURrc0FmbWx5M1VQZ3JSd2M5R1pUeU9TN0tYWkNCUjFBaXRuZGNDSnJLZ2NKaWNEcWNYY3NKM1ByZWNnZUxQaW5CVE5iY0JLMzhQMmJ0ektYMDhQUFdrMDBrWW1qOFBVVjAzMW56S1pIYl9mSzlsS29OLVBYWG8yMmtZcTkyREdiN1l1VA?oc=5"
+          },
+          {
+            "label": "Sohu：Design.md与AI辅助开发规范",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3FZUXowRGV3Q0ZQU2kxcUFXMVNUZXUyWW9FZFJlUnlqZVZhMmE0OFRSMVZjZjlQTWcxMkxuSmxpbEo0VGR1ODdBZHpaY1AzdUtvMTNwQ2ExUHJxaGFrUWtwU1M0SjRBZFh2cDA3NENpTTI4Y1FsbEhRd19jSUVKekd0VFcwVGVFTzlpdA?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUVWTGRLTnBEVHZrUkxJZllROEYzYkRhVGNxbGNRQnpWdXo5UHhQdUZMcWdxR3VtM21TbVQ2NXlLVi1pRElSVjBjc3BkSHZ5WVlVYTdTS0ZOd1k5OFRDa0M4R3JQVlEtc2FtOWtVR2RINnBWYldrVDBDVWU5ZGJuYmNZZEZQa3A3Tm52cVZtMnlpMENSdVU0YV9RYTBWNC1seml2Y3JNMk5uS3ZMZ2RnelY0T01XbVVfVmxnMEhNMWt0cEo1UlBYMTF4RG1mTE5EeHVoczIweWF2TGh6NTlISExHRVg0Q25waGgyM2lGbm5lT1hqR2FkNWZIRE1XZw?oc=5"
+      },
+      {
         title: "个人AI新闻流实战指南",
         category: "AI使用教程",
         date: "2026-03-25",
@@ -1413,6 +1587,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260409-auto-1-3339b3",
+        "title": "Asqav开源治理SDK发布",
+        "category": "开源项目",
+        "date": "2026-04-09",
+        "summary": "Asqav面向AI智能体治理开源，提供策略与审计能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Asqav开源治理SDK发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间 2026-04-09，Asqav 作为一款面向 AI 智能体治理的开源 SDK 进入公开视野。其定位不是训练模型，而是为“已经能运行的智能体”补上规则约束、行为审计和流程合规能力。",
+          "blocks": [
+            {
+              "heading": "项目解决什么问题",
+              "paragraphs": [
+                "在多智能体和自动化代理场景中，常见难点是“能做事”与“可控”之间的矛盾。团队往往先实现任务自动化，后补权限边界和审计机制，导致上线风险增大。",
+                "Asqav 这类治理 SDK 的价值在于把策略校验、操作留痕、行为回放等能力前置到开发阶段。这样可以在功能扩展前先定义哪些动作允许执行、哪些需要人工确认。",
+                "对企业团队来说，这种工具通常用于内部助手、工单代理、代码代理等场景，目标是降低误操作概率，并为安全、法务和运维团队提供可追溯记录。"
+              ]
+            },
+            {
+              "heading": "关键能力与接入方式",
+              "paragraphs": [
+                "从公开信息看，Asqav 主打 SDK 形态，意味着它更容易嵌入现有应用，而不是要求团队迁移到全新平台。对于已有 Python/Node 服务的团队，上手路径通常是“引入依赖 + 包装代理调用链”。",
+                "治理能力一般会覆盖三层：输入治理（提示词与参数约束）、执行治理（工具调用权限与速率限制）、输出治理（敏感内容过滤与动作审批）。这三层组合后，才能形成较完整的控制闭环。",
+                "如果团队已有日志系统与告警系统，建议优先打通审计事件输出，再逐步启用强约束策略。这样能先观测真实流量，再调整规则，避免一次性收紧导致可用性下降。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "门槛主要不在算法，而在工程治理：需要梳理代理可调用的工具清单、定义角色权限、设置例外流程。对没有安全治理经验的小团队，这部分前期工作量可能高于预期。",
+                "实践上可采用“从低风险任务开始”的路径，例如先治理检索、摘要、工单分类，再扩展到外部 API 调用或自动执行写操作。每次扩展都应配套回滚与人工接管机制。",
+                "总体看，Asqav 代表的是开源 AI 生态里“治理中间层”方向。对于希望在 2026 年推进智能体落地的组织，这类项目可作为模型能力之外的基础设施补充。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security 报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44LWxEMnlHd1pnMFR6WkZDbHZUWmMzdFp1U2c5LUR5VEp6VjJNZE5SVTU2M2xXal9BVkh6cmNiX21mcjhNR2hpbjRBbDlEdzE2MWJSZUJLUEk1TUNjWTV5d01nX19DaFlyUS1feWpxdGFkZ2tfUXpHSTZR?oc=5"
+          },
+          {
+            "label": "Business Wire：ZeroID 开源身份平台",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3VkQWxjdVRmNlFXR1dER1ZtNmVnM01yNzlGcThDeGV2Wnc2NkRxM2EwTmJabVVVMEdRQWk3WV9hRjZaQXZWQ1M0WUE0TkN5Nkl4NWhHQXBQSWI2V0IxcjBRS2stUFE2WGFqTVRDTVVPR0h0V0ROWHp4U0NMZkJNd0dCT3R2ODlPZG9Qd1NScHVUQnNvMDNxcUJjUnAtdGlVY2lpWlFMWTZham40ZkNVdXVIRk1MWF91bFdkLWJvTzlVU3hac1FVbUNIZDZhN2FEN2FNX1NyQQ?oc=5"
+          },
+          {
+            "label": "51CTO：Harness 开源项目动态",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ec3Q0cG1qVHlJbU9GcnZobFc0eWdfQUVoaHJGQ3NVNWg4eXpmY0V6a3k5QWZMT3FDUXJua2p4M1hoNC1Vc0hlM0lWUTBKQQ?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44LWxEMnlHd1pnMFR6WkZDbHZUWmMzdFp1U2c5LUR5VEp6VjJNZE5SVTU2M2xXal9BVkh6cmNiX21mcjhNR2hpbjRBbDlEdzE2MWJSZUJLUEk1TUNjWTV5d01nX19DaFlyUS1feWpxdGFkZ2tfUXpHSTZR?oc=5"
+      },
+      {
+        "slug": "open-source-20260409-auto-2-d778af",
+        "title": "ZeroID开源智能体身份平台",
+        "category": "开源项目",
+        "date": "2026-04-09",
+        "summary": "ZeroID发布开源身份平台，聚焦自主智能体认证与授权。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ZeroID开源智能体身份平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间 2026-04-09 的开源动态中，ZeroID 作为“自主 AI 智能体身份平台”发布，重点落在身份标识、认证与授权管理。它面向的是智能体之间、智能体与服务之间的可信交互。",
+          "blocks": [
+            {
+              "heading": "为何需要智能体身份层",
+              "paragraphs": [
+                "当智能体开始调用数据库、支付接口或企业内部系统时，传统“共享 API Key”方式难以满足最小权限和责任追踪要求。尤其在多代理协作下，调用来源会变得复杂。",
+                "ZeroID 这类平台试图给每个智能体分配可验证身份，并绑定细粒度权限策略。这样在出现异常调用时，可以快速定位到具体代理实例和操作路径。",
+                "从合规角度看，身份层是治理层的基础。没有稳定身份，就难以做可靠审计、撤权和跨系统访问控制，也难以满足企业安全审查流程。"
+              ]
+            },
+            {
+              "heading": "核心使用场景",
+              "paragraphs": [
+                "第一类场景是企业内网代理：如自动报表、知识库问答、工单处理等。通过统一身份平台，可将代理权限限定在部门级资源，减少横向越权风险。",
+                "第二类场景是对外服务代理：例如客服机器人、交易助手、营销自动化代理。对外调用需要更严格的身份验证与签名机制，以防伪造请求与重放攻击。",
+                "第三类场景是多组织协作：当供应商、客户与平台方代理互通时，统一身份协议有助于建立基础信任，降低接口对接和审计对账成本。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施步骤",
+              "paragraphs": [
+                "技术门槛主要在身份体系设计，而非模型训练。团队需要先定义“谁是主体、可访问什么、在什么条件下访问”，再把规则映射到令牌、证书或策略引擎。",
+                "建议按三步推进：先给高风险代理建立独立身份；再接入策略校验与日志；最后打通告警和自动撤权。这个顺序能在不影响业务节奏的前提下逐步提升安全性。",
+                "对于中小团队，最实际的做法是先覆盖关键接口而不是一次性全量改造。只要先实现可识别、可撤销、可审计，就能显著降低智能体生产化的运维压力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Business Wire 发布信息",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3VkQWxjdVRmNlFXR1dER1ZtNmVnM01yNzlGcThDeGV2Wnc2NkRxM2EwTmJabVVVMEdRQWk3WV9hRjZaQXZWQ1M0WUE0TkN5Nkl4NWhHQXBQSWI2V0IxcjBRS2stUFE2WGFqTVRDTVVPR0h0V0ROWHp4U0NMZkJNd0dCT3R2ODlPZG9Qd1NScHVUQnNvMDNxcUJjUnAtdGlVY2lpWlFMWTZham40ZkNVdXVIRk1MWF91bFdkLWJvTzlVU3hac1FVbUNIZDZhN2FEN2FNX1NyQQ?oc=5"
+          },
+          {
+            "label": "Help Net Security：Asqav 治理 SDK",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44LWxEMnlHd1pnMFR6WkZDbHZUWmMzdFp1U2c5LUR5VEp6VjJNZE5SVTU2M2xXal9BVkh6cmNiX21mcjhNR2hpbjRBbDlEdzE2MWJSZUJLUEk1TUNjWTV5d01nX19DaFlyUS1feWpxdGFkZ2tfUXpHSTZR?oc=5"
+          },
+          {
+            "label": "The Manila Times：Apache 负责任AI计划",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZDZSejBqajhCTGxyaDVZNy1vcWwxa01lRkg2Y3I1V2lsRnRVSGduUUZrWnQtQTY3RTdSYVJTMWNkR1lCRUl6Ump2bG1MRDVjeVVKM2NfdWhDb1RpOVo3VnZ6OUpLZmhlZ25PbjBtTUJDR3BDSlBRaG5VVGUwckpUcmd0T0Q2d0RmS3BCeXJ6eXpjQWxjdGp6THFfOUxMaFYybUpobmhmNGpUVXcwTXlRX3ZwRUQzZjFpLTd4QV84ZUpaYjlYX2d5VldkNm9PdXk2c1RvNjF0Y3dkZ253MW1tRGlpUE1nS3FZOFhxeUFtNnBKQzZHT2tWOGFGOHBTdEJxbFpOd9IBhAJBVV95cUxPZDZSejBqajhCTGxyaDVZNy1vcWwxa01lRkg2Y3I1V2lsRnRVSGduUUZrWnQtQTY3RTdSYVJTMWNkR1lCRUl6Ump2bG1MRDVjeVVKM2NfdWhDb1RpOVo3VnZ6OUpLZmhlZ25PbjBtTUJDR3BDSlBRaG5VVGUwckpUcmd0T0Q2d0RmS3BCeXJ6eXpjQWxjdGp6THFfOUxMaFYybUpobmhmNGpUVXcwTXlRX3ZwRUQzZjFpLTd4QV84ZUpaYjlYX2d5VldkNm9PdXk2c1RvNjF0Y3dkZ253MW1tRGlpUE1nS3FZOFhxeUFtNnBKQzZHT2tWOGFGOHBTdEJxbFpOdw?oc=5"
+          }
+        ],
+        "source": "Business Wire",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc3VkQWxjdVRmNlFXR1dER1ZtNmVnM01yNzlGcThDeGV2Wnc2NkRxM2EwTmJabVVVMEdRQWk3WV9hRjZaQXZWQ1M0WUE0TkN5Nkl4NWhHQXBQSWI2V0IxcjBRS2stUFE2WGFqTVRDTVVPR0h0V0ROWHp4U0NMZkJNd0dCT3R2ODlPZG9Qd1NScHVUQnNvMDNxcUJjUnAtdGlVY2lpWlFMWTZham40ZkNVdXVIRk1MWF91bFdkLWJvTzlVU3hac1FVbUNIZDZhN2FEN2FNX1NyQQ?oc=5"
+      },
       {
         title: "本地RAG最小模板发布",
         category: "开源项目",
