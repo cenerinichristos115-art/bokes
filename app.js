@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260410-auto-1-a600f1",
+        "title": "五部门发布AI教育行动计划",
+        "category": "AI新闻",
+        "date": "2026-04-10",
+        "summary": "教育领域AI政策进一步细化，涵盖课程、考试与算力平台建设。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "五部门发布AI教育行动计划 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月10日，北京时间，教育领域人工智能政策继续推进。多部门围绕课程建设、教师培养、考试评价和算力基础设施发布配套信息，显示“人工智能+教育”正从倡议进入更具体的实施阶段。",
+          "blocks": [
+            {
+              "heading": "政策框架进一步明确",
+              "paragraphs": [
+                "根据公开信息，五部门已发布《“人工智能+教育”行动计划》，政策重点聚焦教育场景中的AI应用推广、教学能力提升和治理规范完善。这意味着教育数字化建设将进一步与人工智能技术路线结合。",
+                "从政策表达看，本轮安排并不局限于课堂工具引入，而是延伸至课程体系、教师培养、评价机制以及支撑平台建设，体现出较强的系统化特征。对于地方教育部门和学校而言，后续重点将转向执行标准与资源配置。",
+                "在发布时间节点上，这一政策出现在全国多地教育智能化探索加快的背景下，也与产业侧大模型、算力服务和教育软件供应链的发展形成呼应。"
+              ]
+            },
+            {
+              "heading": "教师培养与考试体系纳入AI",
+              "paragraphs": [
+                "候选信息显示，人工智能相关内容将被纳入教师资格考试和认证内容。这表明教师数字素养的要求正从培训层面逐步进入准入和评价层面，对师范培养与继续教育都将产生直接影响。",
+                "这一变化可能推动高校和培训机构调整课程设置，增加AI基础知识、教育应用能力、伦理规范和课堂实践等内容。对中小学教师而言，未来不仅需要会使用工具，还需要理解教学边界与合规要求。",
+                "从行业角度看，教师端能力建设将带动教育科技产品更新，包括备课辅助、学情分析、课堂互动和内容审核等模块。相关厂商需要根据考试与认证导向，推出更符合教学场景的解决方案。"
+              ]
+            },
+            {
+              "heading": "算力平台建设成关键支撑",
+              "paragraphs": [
+                "教育部提出将建设国家教育智能算力服务平台，说明教育AI应用已不再只是软件部署问题，而是进入算力、数据与平台协同建设阶段。统一平台有望降低学校独立采购和运维的门槛。",
+                "在实施层面，算力平台若能面向学校、教师和教育机构提供标准化服务，可能有助于缓解区域资源不均衡问题，支持更多教学、科研和管理场景试点落地。",
+                "不过，平台建设也意味着更高的数据治理和安全要求。教育场景涉及未成年人数据、考试评价信息和教学内容管理，后续配套规则与技术标准预计将成为落地重点。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "五部门发布《“人工智能+教育”行动计划》",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTFvcy1EVG5LZmJhU0JRRFVUYzlqcnFsclc1ZnVaWjJETDhZQk5NVVlnMHp5by1PSUpzMDhSWU91S2RvU0d1NkM0ZHVxbGZ2Qk52ZHZXMGM1RHJFYWp1RE8tRFQ1ZDhxWmQtOWlWS0hkYWVqOW55WXFVS3BDdmt0YnJn?oc=5"
+          },
+          {
+            "label": "教育部：将建设国家教育智能算力服务平台",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRG5HMEk5WUhJYU53ZmFER2lVSUxSTXZLS21SNDFodlBNWlBpWjZ1cU9WdjJ1bzB1ZmFiX0V0NTRVZVdPUzYybE1CeDZGUFVzQ2tOR0RoVEdqMHphQmRPeDd3TWs0OW52V3JWMElwY2xKTHhNS0dJNWpsYk8xamVGQkxaTWJXZHB2YWZ6cGRFRHAzOVVJbmdySg?oc=5"
+          },
+          {
+            "label": "人工智能纳入教师资格考试和认证内容",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zaFZjdzgtNWI0eWY5UFowRHNlNkp6Y0pBMktvaWlHVmVmMFBsemRiOXJjNTMxSUNNR1ZyMnhTOEQwOUhZWjVCVmpkcjF2WWFRUTU3VHc0RHBpSGtTYmRYbEhXZWFfOVFPQ0duTmZQM2plZw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTFvcy1EVG5LZmJhU0JRRFVUYzlqcnFsclc1ZnVaWjJETDhZQk5NVVlnMHp5by1PSUpzMDhSWU91S2RvU0d1NkM0ZHVxbGZ2Qk52ZHZXMGM1RHJFYWp1RE8tRFQ1ZDhxWmQtOWlWS0hkYWVqOW55WXFVS3BDdmt0YnJn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260410-auto-2-344278",
+        "title": "Anthropic发布软件安全项目",
+        "category": "AI新闻",
+        "date": "2026-04-10",
+        "summary": "Anthropic推出Glasswing，聚焦AI时代关键软件安全与供应链防护。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic发布软件安全项目 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月10日，北京时间，Anthropic发布Project Glasswing，主题为在AI时代保障关键软件安全。该项目将安全议题从模型本身延展到软件供应链和关键基础设施，反映出AI企业的产品边界正在外扩。",
+          "blocks": [
+            {
+              "heading": "从模型安全延伸到软件安全",
+              "paragraphs": [
+                "Anthropic此次发布的Glasswing项目，重点指向关键软件的安全防护。与以往围绕模型对齐、内容安全和访问控制的讨论相比，该项目更加关注AI系统所依赖的软件基础设施本身。",
+                "这一变化说明，随着AI工具深入企业开发、运维和决策流程，软件风险已不再是传统IT部门的单独议题，而是与AI能力交付直接相关的产业问题。对大型客户而言，软件可信性和可审计性将成为采购考量的重要部分。",
+                "从市场角度看，安全能力正在成为AI厂商差异化竞争的一环。尤其在面向金融、医疗、政府和关键行业客户时，厂商需要同时证明模型表现与系统级安全控制能力。"
+              ]
+            },
+            {
+              "heading": "供应链与关键系统成为焦点",
+              "paragraphs": [
+                "Glasswing所强调的关键软件安全，与当前行业对开源依赖、代码生成、自动化部署和第三方组件风险的关注高度一致。AI加速开发效率的同时，也可能放大软件供应链中的脆弱点。",
+                "在企业采用AI编程和自动化工具的背景下，安全策略需要覆盖代码生成、依赖管理、版本更新、访问权限和异常监测等多个环节。项目若能提供系统化方法，将有助于企业控制由AI引入的新型风险。",
+                "对于监管较严的行业，关键软件一旦与AI能力深度耦合，审计、追溯和责任划分的重要性会进一步上升。因此，类似项目也可能推动企业重新评估现有安全架构。"
+              ]
+            },
+            {
+              "heading": "与算力和芯片布局形成呼应",
+              "paragraphs": [
+                "同日候选信息还显示，Anthropic被报道考虑自研AI芯片，原因之一是全球AI芯片供给紧张。若相关计划推进，意味着该公司在模型、安全与基础设施层面的布局可能同步展开。",
+                "从产业链视角看，AI企业正逐步向上游算力与下游行业解决方案延伸。安全项目与芯片规划虽然属于不同层面，但都反映出头部厂商希望增强关键资源可控性和产品交付稳定性。",
+                "未来一段时间，市场将继续关注Anthropic如何将安全项目转化为具体产品、合作方案或企业服务能力。如果Glasswing进入客户场景，AI安全商业化路径可能进一步清晰。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Project Glasswing: Securing critical software for the AI era",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "AI芯片供不应求！继META和OpenAI后 Anthropic也考虑自研芯片",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92TnlzRlVuU3NJMC1xR2ZxcktRLTBFLWY1RWpxSnJyRWdwQ2dWR3RrYlZEaGpEQTlyb1pCRS13OFYwWEJXVHc?oc=5"
+          },
+          {
+            "label": "Anthropic Eyes Custom AI Chips Amid Global Shortage As Claude Demand Surges Past $30 Billion Run Rate: Re",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNWdrSHJHLXpJcU45TWZTZHF2RnpJMEZSWHJYRlowNEZOeVVKWXVVOHQzOW1SQ3E4SWZXbE5LMU9sZEtFVVZMYzdwMlpaZTJmUTVfZDBkNXJmWkQwNkdoWWRaeG53UFZBLXdGRmNZaFVicXVScXBscEtmUlhxczRmZkp0dW1hNFdnX2xmTkNKQkRXWVR1QTJMX0JVTVdvbkE4MGItQzZJd2oyYkM2YmV6TzRmTDZlY1Jid2xQWTM0eEFfeWtlc2FYWWN3ZVVkYUpHX2M2aEpqLVdNYjJmZmxTMF9OUTE3cHUtU250aEVrMFFBUQ?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
         "slug": "ai-news-20260409-auto-1-a53f0f",
         "title": "十部门发布AI伦理审查办法",
         "category": "AI新闻",
@@ -1443,6 +1559,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260410-auto-1-9b9804",
+        "title": "公众号AI写作合规教程",
+        "category": "AI使用教程",
+        "date": "2026-04-10",
+        "summary": "面向公众号运营者的AI辅助写作合规发布步骤清单。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "公众号AI写作合规教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年4月10日前后的平台治理信息，公众号运营者在使用AI辅助写作时，应把重点放在“真人主导、过程留痕、发布前复核”三件事上。下面给出一套可直接执行的合规操作流程，适合个人号、团队号和内容工作室参考。",
+          "blocks": [
+            {
+              "heading": "先判断哪些做法风险最高",
+              "paragraphs": [
+                "第一步先划分工作边界。可以把AI用于选题发散、提纲整理、资料归纳、错别字检查和标题备选，但不要把“输入一句话后直接整篇发布”作为默认流程。尤其是批量生成、批量排版、批量定时投放这类自动化链路，应当单独审查。",
+                "第二步检查账号是否存在“非真人自动化创作”特征。常见信号包括：同一模板高频发文、文风高度一致、段落结构机械重复、配图和摘要规则化、发布时间过于规律。如果你的账号近期依赖脚本、工作流平台或接口自动发布，应立即改为人工终审后再提交。",
+                "第三步建立一张风险清单，发布前逐项勾选。至少包含三类：内容是否由真人改写并补充观点，事实信息是否经过二次核验，发布动作是否由真人完成。只要其中一项无法确认，就不要直接上线。"
+              ]
+            },
+            {
+              "heading": "搭建可执行的人机协作流程",
+              "paragraphs": [
+                "建议把一篇文章拆成五步：选题、提纲、初稿、改写、终审。AI只参与前四步中的辅助环节，终审必须由编辑本人完成。实际操作时，可以先让AI输出提纲，再由作者补充案例、行业背景、个人判断和平台适配表达，避免成稿呈现明显机器痕迹。",
+                "在改写阶段，优先做人类编辑最有价值的三件事：补充真实经验、删除空泛句式、统一事实口径。例如把“效率显著提升”改成“将整理采访记录的时间从40分钟缩短到15分钟”；把泛化判断改成可验证描述；把来源不明的数据全部删除或标注待核。",
+                "终审阶段建议使用“三遍检查法”。第一遍查事实，包括时间、人物、机构、产品名和数据；第二遍查表达，包括是否有过度营销、拼接感、模板感；第三遍查平台合规，包括封面、标题、导流语、外链表述和评论区预设回复。这样能明显降低误判和违规概率。"
+              ]
+            },
+            {
+              "heading": "发布与留痕的实操建议",
+              "paragraphs": [
+                "发布前保留最少量但关键的工作记录。包括原始提纲、AI生成草稿、人工修改版本、最终定稿时间和审核人。团队账号可以把这些信息放进共享文档或内容管理表，至少保存最近30天。这样在内容被质疑时，能够说明文章并非全自动生成。",
+                "如果你负责多账号运营，不要把同一篇AI初稿简单改标题后重复分发。更稳妥的做法是：同一选题针对不同账号重新组织结构、补充不同案例、调整标题口径，并根据账号定位加入明确的人类编辑判断。平台通常更容易识别批量复制痕迹，而不是单纯识别是否使用过AI。",
+                "最后给出一个日常执行建议：从今天开始，把账号规则写成团队SOP，明确“哪些环节能用AI、哪些环节必须人工、谁对最终发布负责”。在2026年4月10日的监管语境下，继续使用AI并非不可行，关键是把AI定位为辅助工具，而不是替代真人创作与发布责任。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：公众号打击非真人AI写作",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTGh4T0c4SFRaNkFManE4QlJsNDVoZWl6ZElBV0hOVDdHU0NjMC1YamlPdlhSWUkyakVqMEJ5V2RDNDNzaG56OHJKdmg5Z0VFQ1ZmQk03UjhfXzByMmVhTVFMckdFWG5RMmluamFHWEZuNllkZktaRjNtbXNMS3R5eGpNaGJNdkVpdTdDdUxLbi1SYW94MUs2QW5DN0xQMmpQV216LU9lUDBiUjVtbHF3elJMUDZsQTdFN19GZFRNLWNtdU44Q1U0TWRhSEJXQnhPTHNhMzNGb01IVGs1Y0l6ZUpWQi1wbUlKclV3VTZPUEQ4OU5PQzAzeGFDNm15SFpJZUR6ZHpVd05xUQ?oc=5"
+          },
+          {
+            "label": "Sohu：非真人自动化创作面临封号风险",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem5LU3F1azBCOVBDTjlOYTgxc0Q2RFMxd2lTelN1OHBfYURldjZZbzhZUGNrQjFYeEhLdEcwTmh0ZmNabTRJZkEzME5MRVM5ZUxRankwRnR4bHZpQnd2cWxZWEdRQmNFVkd4OFV0WDZmdWg2X1pEVXVCeWlQQnpLWFJYdzIwN1Vaak84Yg?oc=5"
+          },
+          {
+            "label": "smarthey.com：教程类文章被批量删除",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KOVBBS3F5Z2JhZXFZaFhtdTFOQk1QbkwwM0s3N3pXeUpLWWJnUklGX182M1Y2ZVpoM2NJekJPUUhSNWFUcnFfNVB0dzhHaTBiMHFodjRiYlpYWlZ5MUE?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTGh4T0c4SFRaNkFManE4QlJsNDVoZWl6ZElBV0hOVDdHU0NjMC1YamlPdlhSWUkyakVqMEJ5V2RDNDNzaG56OHJKdmg5Z0VFQ1ZmQk03UjhfXzByMmVhTVFMckdFWG5RMmluamFHWEZuNllkZktaRjNtbXNMS3R5eGpNaGJNdkVpdTdDdUxLbi1SYW94MUs2QW5DN0xQMmpQV216LU9lUDBiUjVtbHF3elJMUDZsQTdFN19GZFRNLWNtdU44Q1U0TWRhSEJXQnhPTHNhMzNGb01IVGs1Y0l6ZUpWQi1wbUlKclV3VTZPUEQ4OU5PQzAzeGFDNm15SFpJZUR6ZHpVd05xUQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260409-auto-1-f7c5b7",
         "title": "公众号AI写作合规教程",
         "category": "AI使用教程",
@@ -1587,6 +1761,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260410-auto-1-579419",
+        "title": "Project Glasswing:",
+        "category": "开源项目",
+        "date": "2026-04-10",
+        "summary": "Project Glasswing: Securing critical software for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Project Glasswing: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Project Glasswing: Securing critical software for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Project Glasswing: Securing critical software for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Issuewire：Hermes Agent Gains Momentum as Developers Compare It with OpenClaw in ",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUplcC1oaDVJWkVteUZIVk9OOEp4RkxfUndtR2d6NTZYWjRQQnc2dWdtaWN2Y1JhNUkxdUU3bk92RWM2a09LU1pBVldNS1VQTnd6TXNFMFk5QnJobXI4MzNxb2xMakpWbVctTzNkMkNMTDl4TWhpckNCcFFTMzBYZmswYm56bjlQV184MXBEbktRMlZDOXlMbHRYaXFyY2VCaDEzVUVtRk91WmFDVVFoRUFKM3gtemFU?oc=5"
+          },
+          {
+            "label": "International Business Times Australia：France's Top 10 AI Companies in 2026: Mistral AI Leads Europe's Genera",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDY5X19hRGs2S21OaWRhUk9CTFNpU0ZDWGFyYjN4WDUwRTZRNXY1TzE3VmNDcDBweXdrSEYwUU45OVY1YWVpTnR4R0lwU1ozb3QwVml2cUVmRTVQaFFTZEdIN2t4UkpvNThOaF8zSlJkYUs2UC1QNktfcVNmRTNCcmNQc09ldi1yZ3Q1R0pKMElJX01vMG9GM05oU0tiR0pXaEV3SEhkS2ZuT3ZpTWlqRi1iNlpvakNIYUp4dkYtbnhpbGpVMzNV?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "open-source-20260410-auto-2-ef0153",
+        "title": "Hermes Agent Gains",
+        "category": "开源项目",
+        "date": "2026-04-10",
+        "summary": "Hermes Agent Gains Momentum as Developers Compare",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hermes Agent Gains 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Hermes Agent Gains Momentum as Developers Compare",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hermes Agent Gains Momentum as Developers Compare",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Issuewire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUplcC1oaDVJWkVteUZIVk9OOEp4RkxfUndtR2d6NTZYWjRQQnc2dWdtaWN2Y1JhNUkxdUU3bk92RWM2a09LU1pBVldNS1VQTnd6TXNFMFk5QnJobXI4MzNxb2xMakpWbVctTzNkMkNMTDl4TWhpckNCcFFTMzBYZmswYm56bjlQV184MXBEbktRMlZDOXlMbHRYaXFyY2VCaDEzVUVtRk91WmFDVVFoRUFKM3gtemFU?oc=5"
+          },
+          {
+            "label": "Anthropic：Project Glasswing: Securing critical software for the AI era - Anthrop",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "International Business Times Australia：France's Top 10 AI Companies in 2026: Mistral AI Leads Europe's Genera",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDY5X19hRGs2S21OaWRhUk9CTFNpU0ZDWGFyYjN4WDUwRTZRNXY1TzE3VmNDcDBweXdrSEYwUU45OVY1YWVpTnR4R0lwU1ozb3QwVml2cUVmRTVQaFFTZEdIN2t4UkpvNThOaF8zSlJkYUs2UC1QNktfcVNmRTNCcmNQc09ldi1yZ3Q1R0pKMElJX01vMG9GM05oU0tiR0pXaEV3SEhkS2ZuT3ZpTWlqRi1iNlpvakNIYUp4dkYtbnhpbGpVMzNV?oc=5"
+          }
+        ],
+        "source": "Issuewire",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUplcC1oaDVJWkVteUZIVk9OOEp4RkxfUndtR2d6NTZYWjRQQnc2dWdtaWN2Y1JhNUkxdUU3bk92RWM2a09LU1pBVldNS1VQTnd6TXNFMFk5QnJobXI4MzNxb2xMakpWbVctTzNkMkNMTDl4TWhpckNCcFFTMzBYZmswYm56bjlQV184MXBEbktRMlZDOXlMbHRYaXFyY2VCaDEzVUVtRk91WmFDVVFoRUFKM3gtemFU?oc=5"
+      },
       {
         "slug": "open-source-20260409-auto-1-3339b3",
         "title": "Asqav开源治理SDK发布",
