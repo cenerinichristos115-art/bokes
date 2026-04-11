@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260411-auto-1-7db26e",
+        "title": "Project Glasswing:",
+        "category": "AI新闻",
+        "date": "2026-04-11",
+        "summary": "Project Glasswing: Securing critical software for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Project Glasswing: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Project Glasswing: Securing critical software for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Project Glasswing: Securing critical software for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "中华网：智汇北经·赋能未来——2026北京经济技术职业学院人工智能应用与发展论坛成功举办 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbGhOb0tiT1ZzT2txdzNWTFd6NmFMd1o0cUtGSkxxVExDQUtRT3AxQ2U5Q0s1bndKZmFqWGo3U0tBNkRLVmx1UHQ3dUNaQ2JzR18wMkV1XzZmYW5rVnhrQXdNTVpVelJocmdGRzhR?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Weekly Summary. RTZ #1053 - AI: Reset to Zero",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MTmZiLXRoN1l2bS1kNzc5M19sVGhSUm5lVUo0ZUNtRmNMNGhoSGdVLW10Tkt6SjB5eGg3bUU3RjlIdjduYWFlYWlpU2tUOVFHbDVoOVdoZ1BGWU9jRlU0TFQ1b0NFUHhyUXJ0SmtCQ2U?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260411-auto-2-f02817",
+        "title": "智汇北经·赋能未来——2026北京经",
+        "category": "AI新闻",
+        "date": "2026-04-11",
+        "summary": "智汇北经·赋能未来——2026北京经济技术职业学院人工智能应用与发展论坛成功举办 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智汇北经·赋能未来——2026北京经 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "智汇北经·赋能未来——2026北京经济技术职业学院人工智能应用与发展论坛成功举办 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智汇北经·赋能未来——2026北京经济技术职业学院人工智能应用与发展论坛成功举办 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbGhOb0tiT1ZzT2txdzNWTFd6NmFMd1o0cUtGSkxxVExDQUtRT3AxQ2U5Q0s1bndKZmFqWGo3U0tBNkRLVmx1UHQ3dUNaQ2JzR18wMkV1XzZmYW5rVnhrQXdNTVpVelJocmdGRzhR?oc=5"
+          },
+          {
+            "label": "Anthropic：Project Glasswing: Securing critical software for the AI era - Anthrop",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Weekly Summary. RTZ #1053 - AI: Reset to Zero",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MTmZiLXRoN1l2bS1kNzc5M19sVGhSUm5lVUo0ZUNtRmNMNGhoSGdVLW10Tkt6SjB5eGg3bUU3RjlIdjduYWFlYWlpU2tUOVFHbDVoOVdoZ1BGWU9jRlU0TFQ1b0NFUHhyUXJ0SmtCQ2U?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbGhOb0tiT1ZzT2txdzNWTFd6NmFMd1o0cUtGSkxxVExDQUtRT3AxQ2U5Q0s1bndKZmFqWGo3U0tBNkRLVmx1UHQ3dUNaQ2JzR18wMkV1XzZmYW5rVnhrQXdNTVpVelJocmdGRzhR?oc=5"
+      },
+      {
         "slug": "ai-news-20260410-auto-1-a600f1",
         "title": "五部门发布AI教育行动计划",
         "category": "AI新闻",
@@ -1559,6 +1675,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260411-auto-1-1bb31f",
+        "title": "从Prompt到Harness：AI",
+        "category": "AI使用教程",
+        "date": "2026-04-11",
+        "summary": "从Prompt到Harness：AI应用工程化引领智能体新范式 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从Prompt到Harness：AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从Prompt到Harness：AI应用工程化引领智能体新范式 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从Prompt到Harness：AI应用工程化引领智能体新范式 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnM2WmtuMmFmVnBhRFVsWUJ2ZXpyOUUwWEYyTWhITEl5VEVkemcwRm9lOXIyYWJnY3BERzBsMFQ3cXhtRV9JMnFhcUpHVHFoRnNDSGpjZmJ0TVIwejQ4ZFFMOHp2UFYtamhfbkJ6dkh4Y2RXWDNjdjZVWU9KOU40eEU1ZFFyYmFfSllmZw?oc=5"
+          },
+          {
+            "label": "Sohu：画帝创意联合港科大推出文本生成图像新专利，聚焦AI提示词低依赖技术 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmxFRzlvdEE5b3E4ekNlNDJlMWo2djJuOFo1M2kyLWpHZ3E0ckJURW1ZNkd1anlqTk15d0pEX3QyNWQwM1JaX2hNczlXZENYcUdsNzFybnJMU2tNYUppWjhPdjQ0Ym9CbXNCeWpvZE1NYlEtMG80NGJOX3A4ejN5bnVoUGozVVl4MjBDZQ?oc=5"
+          },
+          {
+            "label": "新浪财经：微信公众号开始规范非真人AI写作 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWNmQnM3ZFVrU0QxeVBhSW5UdU84UHJteVJMMV9JcTRyRkpDdTRkZWZyelBleDZoOFp1b1lMcWZHS3pqOGhVZ2ZQOWFzR0FybjZ6a3lSTm5ZNnFfNE1HdGNHWVNBY0NjTVlmZEFmLVU4SFl5UVlKQUk1aFFHX0JqWUdCUEgxSFJTXzZ5Zlh0V0tGeFJJdVY2YQ?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnM2WmtuMmFmVnBhRFVsWUJ2ZXpyOUUwWEYyTWhITEl5VEVkemcwRm9lOXIyYWJnY3BERzBsMFQ3cXhtRV9JMnFhcUpHVHFoRnNDSGpjZmJ0TVIwejQ4ZFFMOHp2UFYtamhfbkJ6dkh4Y2RXWDNjdjZVWU9KOU40eEU1ZFFyYmFfSllmZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260410-auto-1-9b9804",
         "title": "公众号AI写作合规教程",
         "category": "AI使用教程",
@@ -1761,6 +1935,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260411-auto-1-7db26e",
+        "title": "Project Glasswing:",
+        "category": "开源项目",
+        "date": "2026-04-11",
+        "summary": "Project Glasswing: Securing critical software for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Project Glasswing: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Project Glasswing: Securing critical software for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Project Glasswing: Securing critical software for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Texas Diamond Garage：Best Helmet For Cruiser Motorcycle You Can’t Miss Today - Texas Diamon",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bVMwalp1aXhKRDRIb2JIbllobmgxOXAzYzVnM20tRHVrc19xLXJyX3c5VzIzM1R5M2xWR0JnaXg1VS1zd19WMXM5Mkl6VEV5YWZucC1QN3hiMkxrNGlDaVlpMHBFcm4xMmwtd1l3MEdMeW5E?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Gavriel Cohen: AI native service companies can achieve software-like m",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdGkwMkYyU3JFTkxLMjJuNTBnR2lKZ2Z6WnVtZGVnTUxCbFhmcGpjMHFIeDlhd2Jfd3hiVEJGeDdfVkZFeURORXdvVXRvU1hMM1pEUXhoVGtPM1NKSkIwcl9SWGh3cGNLVW9UdTE4VzE5cEFUekprdFBSNlFKQ2s4WVp3ekQyYzc2YnE3aGNxOXBsNDFjMFRwTmtJNGVlS0JCaWdGTVNjVkpCSktZRWJNcmgxSDdOSWt6aEJrZlJHZmRkVTItdmdoY09JU3ozaHFNN0FhNFJqYzU2cTlHN1RlOVhRdnJhTmhJajZsZW1zdnc3bTkzR3BlaVFtd0RWX1NLcUh4MS1qT01SUFVIWC1WalVEX04xZw?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "open-source-20260411-auto-2-450868",
+        "title": "Best Helmet For Cr",
+        "category": "开源项目",
+        "date": "2026-04-11",
+        "summary": "Best Helmet For Cruiser Motorcycle You Can’t Miss",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Best Helmet For Cr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Best Helmet For Cruiser Motorcycle You Can’t Miss",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Best Helmet For Cruiser Motorcycle You Can’t Miss",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Texas Diamond Garage：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bVMwalp1aXhKRDRIb2JIbllobmgxOXAzYzVnM20tRHVrc19xLXJyX3c5VzIzM1R5M2xWR0JnaXg1VS1zd19WMXM5Mkl6VEV5YWZucC1QN3hiMkxrNGlDaVlpMHBFcm4xMmwtd1l3MEdMeW5E?oc=5"
+          },
+          {
+            "label": "Anthropic：Project Glasswing: Securing critical software for the AI era - Anthrop",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Gavriel Cohen: AI native service companies can achieve software-like m",
+            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdGkwMkYyU3JFTkxLMjJuNTBnR2lKZ2Z6WnVtZGVnTUxCbFhmcGpjMHFIeDlhd2Jfd3hiVEJGeDdfVkZFeURORXdvVXRvU1hMM1pEUXhoVGtPM1NKSkIwcl9SWGh3cGNLVW9UdTE4VzE5cEFUekprdFBSNlFKQ2s4WVp3ekQyYzc2YnE3aGNxOXBsNDFjMFRwTmtJNGVlS0JCaWdGTVNjVkpCSktZRWJNcmgxSDdOSWt6aEJrZlJHZmRkVTItdmdoY09JU3ozaHFNN0FhNFJqYzU2cTlHN1RlOVhRdnJhTmhJajZsZW1zdnc3bTkzR3BlaVFtd0RWX1NLcUh4MS1qT01SUFVIWC1WalVEX04xZw?oc=5"
+          }
+        ],
+        "source": "Texas Diamond Garage",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84bVMwalp1aXhKRDRIb2JIbllobmgxOXAzYzVnM20tRHVrc19xLXJyX3c5VzIzM1R5M2xWR0JnaXg1VS1zd19WMXM5Mkl6VEV5YWZucC1QN3hiMkxrNGlDaVlpMHBFcm4xMmwtd1l3MEdMeW5E?oc=5"
+      },
       {
         "slug": "open-source-20260410-auto-1-579419",
         "title": "Project Glasswing:",
