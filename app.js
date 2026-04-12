@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260412-auto-1-784bc8",
+        "title": "Anthropic发布Glasswing",
+        "category": "AI新闻",
+        "date": "2026-04-12",
+        "summary": "Anthropic推出关键软件安全项目，强调AI时代供应链防护。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic发布Glasswing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月12日，Anthropic发布“Project Glasswing”，将关键软件安全与AI应用部署放在同一治理框架中，释放出企业级AI竞争正从模型能力延伸到供应链与合规体系的信号。",
+          "blocks": [
+            {
+              "heading": "项目发布：从模型安全扩展到软件安全",
+              "paragraphs": [
+                "从已披露信息看，Glasswing聚焦“AI时代关键软件安全”，核心并非单一模型功能更新，而是围绕开发、集成和运维环节的系统化防护。",
+                "这一方向反映出产业阶段变化：随着AI在金融、政务、医疗与工业系统中渗透，安全边界已从推理结果质量，扩展到依赖组件、调用链和部署环境。",
+                "对企业客户而言，未来采购评估将更重视“可审计、可追溯、可治理”的安全能力，安全产品化也可能成为大模型厂商的重要差异点。"
+              ]
+            },
+            {
+              "heading": "产业影响：企业采购与风险管理逻辑变化",
+              "paragraphs": [
+                "在企业AI预算持续增长背景下，安全能力正在影响招标与续约决策，尤其是涉及关键基础设施和高监管行业的场景。",
+                "外部报道提到金融机构对高性能模型保持高度关注，也意味着模型供应商需要同步提供风险控制接口、权限管理和事件响应机制。",
+                "从市场竞争看，谁能在性能、成本与安全治理之间建立稳定平衡，谁就更可能获得长期企业订单，而非短期试点项目。"
+              ]
+            },
+            {
+              "heading": "后续观察：标准化与生态协同",
+              "paragraphs": [
+                "Glasswing后续落地效果，取决于是否形成可复用的实施标准，例如安全基线、第三方验证和跨系统兼容能力。",
+                "若项目能够与企业现有DevSecOps流程衔接，将降低AI系统纳管门槛，并提升跨部门协同效率，缩短从测试到生产的周期。",
+                "面向2026年下半年，行业可能继续围绕“模型能力+安全能力”双指标展开竞争，软件供应链安全有望成为企业级AI的新基础设施议题。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Project Glasswing: Securing critical software for the AI era",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Global Banks on Alert Over Anthropic's Powerful AI Model",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYjR6MFBYd2cxZjFmZHB2aXpwbkVNejFxdXJuRE5DU1d6eE5PbDBjZnZocjQ0SVFfemF2QkZoSmpTTVNEOHRpLUNWLVNsWUhoZGh6LUw3aDhjM1JqdFhrYnlrZWZ1SE1FLTZMRWxJMTNIOUg1MmxxUVFwVXRYbkhyb1RDSDF6NHB1SmpnMTRuNFBOZVFfR1BzYzB1aGpvOVE2ZkpWR0Z1QjlYUGFIVzc1bkRET0x5Znl6UGNuS2xFVFlLbDRIemVXak1qc1c4Q2NGaUU5SVpWOFk1VnM?oc=5"
+          },
+          {
+            "label": "Anthropic closes on OpenAI in US corporate AI",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yaEs0cVVWN0ljc3BUUmtPODVUOVA1QThULUFudFkzSnpoeUg3OUVyQnZJVUg2ckd1YlNBVGM4anFUYXh3X1VzaXc5bkZGZkFtOWdLRVJRTFg3MkJ0ZXdVRUZSSU1LMHNRekNubmllWHlKb1FlN21qaFlR0gGOAUFVX3lxTE5RV215NkVvUVgyZ2ZfakF1TXNUWnRTVUhReG01UVRBTFFCbUttUlAtc3Q2Q2pINXkwM1o3Sk9NbEx6QVdOLTJKRHBCTmxsY3g5SlJGM1ZxSDJqb2E3WlhBMGJRUU4tXzNCMlRva0RZVXpOQ3VlS0tFTVpCRzJCSmtvVUVQQlVBLURSbmtZNmc?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260412-auto-2-79ed4a",
+        "title": "软银牵头成立高性能AI新公司",
+        "category": "AI新闻",
+        "date": "2026-04-12",
+        "summary": "软银等设立新企业，瞄准高性能AI研发与产业化推进。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "软银牵头成立高性能AI新公司 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月12日，软银与合作方宣布设立高性能AI新公司。该动作被视为日本及亚洲资本加速布局算力与模型能力的重要信号，目标指向企业级与行业级应用市场。",
+          "blocks": [
+            {
+              "heading": "事件要点：联合设企瞄准高性能AI",
+              "paragraphs": [
+                "根据披露信息，新公司由软银及其他参与方共同推进，重点投入高性能AI相关研发与商业化，体现“资本+技术+场景”联合模式。",
+                "与单纯财务投资不同，成立实体公司意味着各方将承担更长期的研发与运营责任，通常也会同步布局算力、人才与客户渠道。",
+                "从产业节奏看，头部企业通过合资或联盟方式建立新平台，已成为加快技术落地、分摊研发风险的常见路径。"
+              ]
+            },
+            {
+              "heading": "产业意义：区域AI竞赛进入组织化阶段",
+              "paragraphs": [
+                "该项目对区域产业链的意义在于，推动高性能AI从实验室导向产业化导向，带动上游芯片、云基础设施与下游行业方案协同。",
+                "结合国内外生态大会与行业表态可见，制造、汽车、医疗等垂直行业对推理能力和部署效率的要求正在提升，倒逼平台方升级能力。",
+                "在这一背景下，新公司的竞争重点将不只在模型参数规模，还包括交付稳定性、总拥有成本和行业适配速度。"
+              ]
+            },
+            {
+              "heading": "后续关注：商业化路径与合作边界",
+              "paragraphs": [
+                "市场将重点关注其首批落地行业、产品形态与客户结构，尤其是是否优先切入高价值、高合规要求的企业场景。",
+                "若项目能够形成清晰分工，例如基础模型、行业解决方案与渠道服务分层推进，将有助于提升商业化效率并降低重复投入。",
+                "截至目前，外界对具体投资规模与时间表仍待更多公开信息，后续披露将成为评估其产业影响力的关键依据。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SoftBank, others set up new firm to develop high-performance AI",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXd5ODZ2RktaRlQ4eDRtVHA2TzdBU1lzUU51dWl4cVNRZ0d4dlNVSkZCZWVhMUtCR00wZ3BHX2V4ajZaRHRjdEJvNW5iejZ3anhwYlYtSnl6dUt0WG1aZXh1dl9rc1Jibk9TbURSdFRyQWtPRlVLV3hQbUQ2NlZQUDFqdGswcHc?oc=5"
+          },
+          {
+            "label": "2026中关村人工智能OPC生态大会召开",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50d2pjVzUwdHhWdjNHQml0UWllTVdIQlpuYXllZ3hHYm1Bcm9nMnlYb3p0UFJZQXBLaDV4Vk5MTTAyMEttS2JnTnE2QUxULTZPVUFRTXI4TFBmNm1CZ1E2ZDNPRQ?oc=5"
+          },
+          {
+            "label": "百度副总裁：汽车产业迈入全量推理时代",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mb21veEZPSnpZQ0V2bVNXWGxMWmdZMk1aTWY5ak51RzJpaExUSEdkQTh0dW1GS2YxeHA2WUNSWDMwSXAwV2xnNWJaVVExcDh2aGNuVEFPVHRkYVJOZW9scml1SHZLYnpOTDhhdUUwUFpoYS1jckE?oc=5"
+          }
+        ],
+        "source": "The Japan Times",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYXd5ODZ2RktaRlQ4eDRtVHA2TzdBU1lzUU51dWl4cVNRZ0d4dlNVSkZCZWVhMUtCR00wZ3BHX2V4ajZaRHRjdEJvNW5iejZ3anhwYlYtSnl6dUt0WG1aZXh1dl9rc1Jibk9TbURSdFRyQWtPRlVLV3hQbUQ2NlZQUDFqdGswcHc?oc=5"
+      },
+      {
         "slug": "ai-news-20260411-auto-1-7db26e",
         "title": "Project Glasswing:",
         "category": "AI新闻",
@@ -1675,6 +1791,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260412-auto-1-c8e251",
+        "title": "公众号AI写作合规实操",
+        "category": "AI使用教程",
+        "date": "2026-04-12",
+        "summary": "面向内容团队的AI写作合规流程与发布检查清单。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "公众号AI写作合规实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026-04-12这一发布语境下，平台对“非真人AI写作”管理趋严。对运营团队而言，重点不是停用AI，而是建立“可追溯、可标注、可复核”的内容生产流程。下面给出一套可直接落地的操作方法。",
+          "blocks": [
+            {
+              "heading": "先搭建合规底座：账号、流程、留痕",
+              "paragraphs": [
+                "第一步，给AI内容设定分级：A类（纯人工）、B类（AI辅助改写）、C类（AI生成初稿）。每篇稿件在选题立项时就确定级别，并写入选题表，避免发布前临时判断。",
+                "第二步，建立“三段留痕”：提示词记录、模型输出记录、人工修改记录。可用表格固定字段（时间、操作者、版本号、改动说明），至少保留90天，便于内部审计与平台申诉。",
+                "第三步，明确责任人链路：作者、审核、发布三角色分离。作者对事实准确负责，审核对合规标注负责，发布对最终版本一致性负责，减少多人协作时的责任空白。"
+              ]
+            },
+            {
+              "heading": "写作实操：从提示词到可发布文本",
+              "paragraphs": [
+                "在提示词阶段，避免使用“模仿某作者语气”“按某爆款原文改写”等高风险指令，改为“基于公开事实，输出中性说明+步骤建议”的结构化需求，并要求模型列出不确定信息点。",
+                "在成稿阶段，执行“40%人工重写线”：标题、开头、结论、案例四个区域必须人工重写或重组，避免整段照搬模型表达。这样既降低同质化，也有助于形成可证明的人类创作贡献。",
+                "在发布前，跑一遍检查清单：是否含未经核实数据、是否误导为真人独立创作、是否遗漏AI参与说明（若平台要求）、是否含潜在侵权素材。检查完成后再进入排版与定时发布。"
+              ]
+            },
+            {
+              "heading": "团队执行建议：一周内可落地的改造计划",
+              "paragraphs": [
+                "第1-2天，完成制度上线：发布《AI写作使用规范》1页版，统一术语和红线；同时在内容管理工具中新增“AI参与程度”“留痕链接”两个必填字段。",
+                "第3-5天，做一次历史内容抽检：随机抽取近30篇，按“事实准确、原创贡献、标注完整”三项评分，低于合格线的文章先下线修订，再补齐留痕。",
+                "第6-7天，建立持续机制：每周复盘一次违规风险点，每月更新提示词模板库。把“效率指标”与“合规指标”并列考核，确保团队不只追求产量，也能稳定通过平台规则变化。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "微信公众号开始规范非真人AI写作",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02RnFNSTZ5QTJudkVuak9NRldXRk9aZmZZMlhLSnFXV1dTYVlVQ2pKWFJXaGJ1SHhxYkZZd3FGeUZaM1h4X2twT0tVdUF4cm9RV3ROQXROaEV2VDZyTUJtNUs2R29yYjVNdFp1SFBUN2hoeW82SXV0Yg?oc=5"
+          },
+          {
+            "label": "微信小红书集体对AI代笔说不",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWVNYmloS1ZnWHV1S2pwdGVPRmk1aHBicmI3YUF5VDNEdGZUbTg5VGg0OU10U01MQlotVmdIOU9hNlJqVEhEeWZGMlAwbmJTQUhBaktTeDdqNERKWk50dmpyNlYxdm5KQlBtSXE3SktsbzJBd3B1b085ejB3YmtUM2RTTXllUWZEc3JMYUNaZlVGbjNfWWp6OA?oc=5"
+          },
+          {
+            "label": "AI代笔的小说不但以假乱真还火了",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOWjNpQ0RtaURzUHRPZFVEenFCcGNmUzdSa3pJVkN4d2Itc3pubFRwaXNkX3AwQnJwZ1FsMm9QU2YxaG1OdjUxTl9aODJKNWZ2OXVOT1NFNVU1MDFIUlJmbkVuR2pPWnZIWmVNOHRqa3NwMTVBaEVSRzh2WktUMzVjc2hqTmlkWWxRWmxfanVRUmFISC1zMEdoaHpia0x2bVRDdEZrZTl5aFRXaTFDOFVuVWE4ZTdqTnBMUWVnYV95QWNEWHl1eGJodWEwelIxR2lXZzBuZ2NIald3aFEtNVVxVkd3U1BGaWFsSVhwQ3ZOaGRZdHZicnFoU2daSGtWOEprdjVsT0hnQUpYQ1cxUTRIby1TZkJQSmVLNjlQUlphMjFtSjNOUG9TUUhxMG8xU3NhQWQ1NDhYR0c?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02RnFNSTZ5QTJudkVuak9NRldXRk9aZmZZMlhLSnFXV1dTYVlVQ2pKWFJXaGJ1SHhxYkZZd3FGeUZaM1h4X2twT0tVdUF4cm9RV3ROQXROaEV2VDZyTUJtNUs2R29yYjVNdFp1SFBUN2hoeW82SXV0Yg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260411-auto-1-1bb31f",
         "title": "从Prompt到Harness：AI",
         "category": "AI使用教程",
@@ -1935,6 +2109,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260412-auto-1-e7c0ec",
+        "title": "Colab MCP Server开源",
+        "category": "开源项目",
+        "date": "2026-04-12",
+        "summary": "谷歌开源Colab MCP Server，支持智能体云端执行代码。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Colab MCP Server开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间 2026-04-12，谷歌开源 Colab MCP Server 的消息引发了开发者关注。该项目的核心价值在于把“模型上下文协议（MCP）”与 Colab 云端算力结合，让 AI 智能体能够在受控环境中执行代码、读取结果并继续任务流。",
+          "blocks": [
+            {
+              "heading": "这次发布解决了什么问题",
+              "paragraphs": [
+                "在传统本地工作流中，智能体执行代码往往依赖开发者手动复制粘贴，环境配置也容易不一致。Colab MCP Server 的方向是把执行环境标准化，降低智能体调用工具链时的摩擦。",
+                "对于需要快速验证想法的团队，这类“云端可执行 + 协议化接入”的模式，可以减少从提示词到结果的切换成本，尤其适合数据清洗、脚本生成和实验复现等场景。",
+                "从开源生态角度看，MCP 兼容意味着该服务有机会连接更多智能体框架，不局限于单一模型或单一前端，这也是本次更新的现实意义。"
+              ]
+            },
+            {
+              "heading": "适用场景与能力边界",
+              "paragraphs": [
+                "适用场景包括：教学演示中的自动跑例子、研发中的批量脚本测试、以及面向分析任务的快速 notebook 编排。其共同特点是需要可重复执行与即时反馈。",
+                "能力边界也需要明确：云端执行并不自动等于生产级稳定，任务队列、会话时长、权限隔离等仍要结合实际业务约束设计。",
+                "如果团队涉及敏感数据，建议先采用脱敏数据与最小权限策略，再逐步放开文件读写和外部网络访问，避免“先接入后补安全”带来的风险。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "上手门槛总体中等：对普通开发者而言，需要理解 MCP 的基本调用模式；对平台工程师而言，还需要关注鉴权、会话管理和审计日志。",
+                "建议以“单任务最小闭环”启动：先让智能体完成一个可验证的小任务（如读取样例数据并生成图表），确认执行链路稳定后再扩展到多步骤流程。",
+                "在 2026 年的发布语境下，这类项目更像是智能体工程基础设施的一环。它不直接替代现有 CI/CD 或数据平台，但可以作为 AI 自动化流程的轻量入口。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ 报道：谷歌开源 Colab MCP Server",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQUtTcTZXcTZXdFF0Y3hBRmFtcl9DZ1NnMmNJQ0tCY21hS01HSjlocnJzeVZoZU9zdFl3aS1YN1JESDh1a1ZyVEdRbkYtdWxzRldVWW9ZRXdVX0pWSkE?oc=5"
+          },
+          {
+            "label": "相关话题：Agentic AI 发展观察",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdxRXk4T1NRR3AzUjBkSDF6cktUVk9NejZaaW1SMzV4LTF5Z2syeDQwQXowQUVwOEx5aFV4NTQwSjhvS0N3c29TTUd3YWZ2bmxzYmhETVh0NkpFTzE2Ry1zLVJPNEM5ZHJmSFdKMUNDd29qeUxZN2NNcHVXVktXUUpYcW9Ca3dNODhjZXJCN0ZKQnRnX0VSQkhobUdLWDRvZ095QmI1Q20zNUk?oc=5"
+          },
+          {
+            "label": "相关生态：Openclaw 更新动态",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tcUxCYnVwUHlsbjFEcnNuajNVMkFxREt2cG9EdU53VXZ3ZWNUYmhjMTZTY2VPa01Ga3d0a1QtQ0ROWWI5Zk1PbWdBalZMUQ?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQUtTcTZXcTZXdFF0Y3hBRmFtcl9DZ1NnMmNJQ0tCY21hS01HSjlocnJzeVZoZU9zdFl3aS1YN1JESDh1a1ZyVEdRbkYtdWxzRldVWW9ZRXdVX0pWSkE?oc=5"
+      },
+      {
+        "slug": "open-source-20260412-auto-2-ad7220",
+        "title": "LFM2.5-VL-450M发布",
+        "category": "开源项目",
+        "date": "2026-04-12",
+        "summary": "Liquid AI发布450M多模态模型，强调端侧低时延与检测能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "LFM2.5-VL-450M发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间 2026-04-12，Liquid AI 发布 LFM2.5-VL-450M。公开信息显示，该模型强调视觉-语言理解、边界框预测、多语言支持与低时延端侧推理，定位偏向“轻量可部署”的多模态能力。",
+          "blocks": [
+            {
+              "heading": "关键更新点有哪些",
+              "paragraphs": [
+                "与通用大参数路线不同，450M 规模意味着它更关注部署效率。对需要在终端或边缘设备落地的团队来说，这一参数量级通常更利于资源控制。",
+                "边界框预测能力让它不仅能“看图说话”，还可用于目标定位类任务，例如基础检测、内容标注和视觉检索前处理。",
+                "多语言支持使其在跨地区产品中更易复用，尤其是需要同一模型服务多语种界面的场景，可降低模型切换和维护复杂度。"
+              ]
+            },
+            {
+              "heading": "适配场景与技术取舍",
+              "paragraphs": [
+                "该模型适配的典型场景包括：移动端视觉问答、轻量巡检、零售货架识别和边缘摄像头事件理解，前提是任务复杂度可控。",
+                "若业务需要高精度开放域推理，450M 级模型可能仍需与更大模型协同，形成“端侧初筛 + 云端复核”的两级架构。",
+                "从工程取舍看，低时延通常伴随输入分辨率、上下文长度或输出细粒度的限制，团队在上线前应先做任务级基准测试。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛中低：有基础 MLOps 经验的团队可较快接入；个人开发者则需先解决推理框架、量化配置与设备兼容问题。",
+                "建议从单一场景 PoC 开始，例如只做“图像中目标框选 + 简短文本说明”，先评估时延、准确率、功耗三项关键指标。",
+                "若 PoC 结果稳定，再逐步引入多语言与复杂提示模板。这样可以在控制工程风险的同时，明确该模型在业务中的边界和收益。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：LFM2.5-VL-450M 发布",
+            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNenRRM0J5LVlnWi1LSWthalNnSFFfV29MZXVXWjZkdTFiY3YtUlROWW9yaWZONmc1LUVnTVFXRlNUVXpyQm04RElMR3JLYUJBUGhCcjZlZlFLaTFsbE5LYzZaVTYzcVBPWDhoaVUyV0VjNXlFR2kzWmI0ZV9uWVpscW1wdWdmVUMtQkhQVHA1X2xLMFZMRkplYlJZM2taSmpKcy02RnN6VTNXOWdHa01kU0k5MFo2WUotTU9QNHZlbURjVG5tUEdWaHJqY0wzNlJKWFgxeHlZenNCTlhwSjBXSE1uWG9Nc0kwTXZSN2cwWjlER2xrMmhRekE5aUJCbVNSWjFYTjdFRDRxdlgxLUQ3cXpEV3hrQjYtNHVOadIBogJBVV95cUxQa1hoRnRFTGxmODJRZW56a2gyQlNYcFVRTVFDem12Q2FRY3BXWDJXQ1R3ZHZQOGxTRDJKT25JcTBzNkdpMTEySlNqVDVDY1NNeDlhbUdGSkRXcDExemZpTGYwM01Rak05U3lvMVdsSEV5X2hTVndNd3dwQ2dOTlpjNXc5NkFvVjk2RXhOSGs0RDl6ZTcxQjBkRHNpQWpmSl9SUlNaVlR4RGNGNUFLVzdKUkhoSXhSdFhrZDdWS3RxYnNNS3NVZS1TNm9yVGNaNEF0VWd0Zi1LMnVMQzA3UzRsd2RGcTE4VUFxenpjcWxmSVJselE4dVVWbE5lVVVnR01EWk15QnpIOFRMbFFvcnY5TU9jem40aVJQMDBQUDlyUFNoQQ?oc=5"
+          },
+          {
+            "label": "MiniMax M2.7 与 NVIDIA 基础设施进展",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXFQWXRUTXlNdlFxX0o0M1dxZjVJdzFHZl9UUjVYdWlLek1TOFJ2STdOV1BDT1FQLUY5elozQi1xYVUzdHBKY2QwWnJ6WVNhN0gtT3NQbTNiZlFXRFNCeGtyV3hzd0lhdk4xalNxbGdJU0ZZc1prMDUwUGEwZnQ5R0MtNTYzWHBadENFTUJyRQ?oc=5"
+          },
+          {
+            "label": "NVIDIA Developer：Agentic 工作流扩展",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXhubVRlZ2xpR1FWbzdJSUp6Q040dUV5S0dTWHdfamFxZk1hMEwxSndTSTM4YjczZGpOWC1YMm1temkwMnN2Unc5QnVrbjh2SDYxNjdLOTBMbHZSQUxyRlloTktXNjFGcnVRNlVMZXFRR1F6SzMzNFZCcUk3NnAxTkFZYUVzQlRJREtianhfVXVBbjZWV2gteG85T1lMdE1fbldPVHhqVXEwM0l1eVY2eVp5NV9XXzRKcGh0c2Z5VkJld2h3RGdKMWN0bw?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNenRRM0J5LVlnWi1LSWthalNnSFFfV29MZXVXWjZkdTFiY3YtUlROWW9yaWZONmc1LUVnTVFXRlNUVXpyQm04RElMR3JLYUJBUGhCcjZlZlFLaTFsbE5LYzZaVTYzcVBPWDhoaVUyV0VjNXlFR2kzWmI0ZV9uWVpscW1wdWdmVUMtQkhQVHA1X2xLMFZMRkplYlJZM2taSmpKcy02RnN6VTNXOWdHa01kU0k5MFo2WUotTU9QNHZlbURjVG5tUEdWaHJqY0wzNlJKWFgxeHlZenNCTlhwSjBXSE1uWG9Nc0kwTXZSN2cwWjlER2xrMmhRekE5aUJCbVNSWjFYTjdFRDRxdlgxLUQ3cXpEV3hrQjYtNHVOadIBogJBVV95cUxQa1hoRnRFTGxmODJRZW56a2gyQlNYcFVRTVFDem12Q2FRY3BXWDJXQ1R3ZHZQOGxTRDJKT25JcTBzNkdpMTEySlNqVDVDY1NNeDlhbUdGSkRXcDExemZpTGYwM01Rak05U3lvMVdsSEV5X2hTVndNd3dwQ2dOTlpjNXc5NkFvVjk2RXhOSGs0RDl6ZTcxQjBkRHNpQWpmSl9SUlNaVlR4RGNGNUFLVzdKUkhoSXhSdFhrZDdWS3RxYnNNS3NVZS1TNm9yVGNaNEF0VWd0Zi1LMnVMQzA3UzRsd2RGcTE4VUFxenpjcWxmSVJselE4dVVWbE5lVVVnR01EWk15QnpIOFRMbFFvcnY5TU9jem40aVJQMDBQUDlyUFNoQQ?oc=5"
+      },
       {
         "slug": "open-source-20260411-auto-1-7db26e",
         "title": "Project Glasswing:",
