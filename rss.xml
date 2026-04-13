@@ -5,7 +5,47 @@
 <link>https://cenerinichristos115-art.github.io/bokes/</link>
 <description>每日更新 AI新闻、AI使用教程、开源项目。</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 12 Apr 2026 06:18:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 07:31:29 GMT</lastBuildDate>
+<item>
+<title>阶跃星辰传筹备IPO</title>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260413-auto-1-7eaae3.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260413-auto-1-7eaae3.html</guid>
+<description>消息称阶跃星辰调整离岸架构，为后续IPO铺路。</description>
+<pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+<category>AI新闻</category>
+</item>
+<item>
+<title>中方发布AI治理倡议</title>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260413-auto-2-7f682a.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260413-auto-2-7f682a.html</guid>
+<description>16家科技社团联合发起全球AI治理倡议，聚焦规则协同。</description>
+<pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+<category>AI新闻</category>
+</item>
+<item>
+<title>企业AI合规使用实操</title>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260413-auto-1-b334d7.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260413-auto-1-b334d7.html</guid>
+<description>基于近期曝光事件，建立可执行的AI内容合规流程。</description>
+<pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+<category>AI使用教程</category>
+</item>
+<item>
+<title>ZeroID开源智能体身份平台</title>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260413-auto-1-204b5f.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260413-auto-1-204b5f.html</guid>
+<description>ZeroID发布开源身份平台，面向自治AI智能体认证与授权。</description>
+<pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+<category>开源项目</category>
+</item>
+<item>
+<title>AI联盟发布Project Tapest</title>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260413-auto-2-1679c0.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260413-auto-2-1679c0.html</guid>
+<description>Project Tapestry面向开放与主权AI协作，强调跨组织共建。</description>
+<pubDate>Mon, 13 Apr 2026 01:00:00 GMT</pubDate>
+<category>开源项目</category>
+</item>
 <item>
 <title>Anthropic发布Glasswing</title>
 <link>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260412-auto-1-784bc8.html</link>
@@ -344,16 +384,16 @@
 </item>
 <item>
 <title>本地RAG最小模板发布</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-9-rag-478s71.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-9-rag-478s71.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-11-rag-1dvwjty.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-11-rag-1dvwjty.html</guid>
 <description>开箱覆盖切分、向量检索与问答接口，适合作为内部知识库原型起点。</description>
 <pubDate>Thu, 26 Mar 2026 01:00:00 GMT</pubDate>
 <category>开源项目</category>
 </item>
 <item>
 <title>个人AI新闻流实战指南</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-5-ai-1emj5k2.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-5-ai-1emj5k2.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-6-ai-1m8in7.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-6-ai-1m8in7.html</guid>
 <description>从信息源分层、提示词模板到发布复核，搭建可持续的个人内容生产流程。</description>
 <pubDate>Wed, 25 Mar 2026 01:00:00 GMT</pubDate>
 <category>AI使用教程</category>
@@ -368,16 +408,16 @@
 </item>
 <item>
 <title>AI代理编排脚手架开源</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-10-ai-1m76gvd.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-10-ai-1m76gvd.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-12-ai-19nmuz6.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-12-ai-19nmuz6.html</guid>
 <description>支持任务拆分、状态追踪与失败重试，便于快速搭建可回放的自动化流程。</description>
 <pubDate>Tue, 24 Mar 2026 01:00:00 GMT</pubDate>
 <category>开源项目</category>
 </item>
 <item>
 <title>会议纪要自动化落地法</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-6-article-wdmnv4.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-6-article-wdmnv4.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-7-article-19yl0oh.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-7-article-19yl0oh.html</guid>
 <description>用结构化提示词统一纪要格式，自动提取负责人和截止时间，提升协作追踪效率。</description>
 <pubDate>Mon, 23 Mar 2026 01:00:00 GMT</pubDate>
 <category>AI使用教程</category>
@@ -392,16 +432,16 @@
 </item>
 <item>
 <title>高质量提示词五步法</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-7-article-1nl74sm.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-7-article-1nl74sm.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-8-article-pk7arr.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-8-article-pk7arr.html</guid>
 <description>明确目标、补齐上下文、约束输出并设验收标准，显著降低无效生成与返工。</description>
 <pubDate>Sat, 21 Mar 2026 01:00:00 GMT</pubDate>
 <category>AI使用教程</category>
 </item>
 <item>
 <title>中文提示词评测集上线</title>
-<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-11-article-1br2i9c.html</link>
-<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-11-article-1br2i9c.html</guid>
+<link>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-13-article-3vv5wy.html</link>
+<guid isPermaLink="true">https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-13-article-3vv5wy.html</guid>
 <description>覆盖摘要改写与问答任务，帮助团队评估模板稳定性并沉淀可复用资产。</description>
 <pubDate>Fri, 20 Mar 2026 01:00:00 GMT</pubDate>
 <category>开源项目</category>

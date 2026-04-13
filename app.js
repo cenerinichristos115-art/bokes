@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260413-auto-1-7eaae3",
+        "title": "阶跃星辰传筹备IPO",
+        "category": "AI新闻",
+        "date": "2026-04-13",
+        "summary": "消息称阶跃星辰调整离岸架构，为后续IPO铺路。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "阶跃星辰传筹备IPO 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月13日，路透消息称中国AI初创企业阶跃星辰（StepFun）正考虑拆解离岸架构，以为潜在IPO做准备。该动向引发市场对AI公司资本路径与合规重构的关注。",
+          "blocks": [
+            {
+              "heading": "事件核心：离岸架构调整与上市预期",
+              "paragraphs": [
+                "报道显示，相关安排仍处于筹划阶段，核心目标是提升后续资本运作的可执行性。对成长中的AI企业而言，股权与法域结构往往直接影响融资效率和上市地点选择。",
+                "若消息属实，阶跃星辰此次动作可视为从“融资驱动”向“资本市场驱动”的阶段切换。企业在这一阶段通常会同步推进财务规范、业务合规和治理透明度建设。",
+                "目前公开信息尚未披露具体时间表与目标交易所，市场仍需关注公司后续官方披露及监管口径。"
+              ]
+            },
+            {
+              "heading": "产业意义：AI企业进入治理与财务并重周期",
+              "paragraphs": [
+                "过去两年，生成式AI企业的竞争重点多集中在模型能力、场景落地和融资规模。进入2026年后，资本市场更关注持续收入、成本结构和风险控制能力。",
+                "对计划IPO的AI公司而言，数据合规、内容安全、客户结构稳定性以及算力采购安排，已成为与技术指标同等重要的审查维度。",
+                "这也意味着行业竞争正在从“技术演示”逐步过渡到“经营质量”比较，企业需要在产品、合规和财务之间建立更均衡的增长框架。"
+              ]
+            },
+            {
+              "heading": "后续看点：披露节奏与同业示范效应",
+              "paragraphs": [
+                "短期看，市场将重点观察阶跃星辰是否公布正式组织重组方案，以及是否出现新一轮配套融资或战略投资安排。",
+                "中期看，若IPO推进顺利，可能为国内AI初创公司提供一条可参照的资本路径，尤其是在跨境结构优化与本地化治理方面。",
+                "在监管趋严与商业化压力并行的背景下，AI企业的估值逻辑正从“预期叙事”转向“可验证业绩”，这将影响整个赛道的融资与并购节奏。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Reuters：StepFun拟调整离岸结构",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5"
+          },
+          {
+            "label": "新浪财经：涉黄AI软件融资往事",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2dRVUNBNXUzOXd3d1kyYUJqVndldXFiUy1wSF92d2pOZExBbU4yV2xzZklVZnhWZEtpaFlPOGFMWHVlZjFFOExnUm1wSWJkUDZZN3dPcFRxYlNjQ3VzdDl6SnRkUlpzM0NGMEtxd0txdHNkQUVrNTVtb09XYjk2Q3FQRDdEMDVmcmxxXzBTTUt6VFZoVmlUWTlzRjUwWDA1VmlGdF9pbw?oc=5"
+          },
+          {
+            "label": "21财经：AI+教育市场观察",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNY3ktZlhoeE1md25JYzdITk1lZVJhUHlEMFdtUGwzYUgzWm9DS1BOYndxTjE3aC1Bd3FqNjlIdXhfaG91cGlqdUlJTTd3d3Zna20tcVVrTkhzbDZKYVpycVo2ci1kczR0blFTM29RU3JTLUNlVlIwdnFYTWhBWUhpamY2T3MwOUtSWDhlMU9jZw?oc=5"
+          }
+        ],
+        "source": "Reuters",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5"
+      },
+      {
+        "slug": "ai-news-20260413-auto-2-7f682a",
+        "title": "中方发布AI治理倡议",
+        "category": "AI新闻",
+        "date": "2026-04-13",
+        "summary": "16家科技社团联合发起全球AI治理倡议，聚焦规则协同。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中方发布AI治理倡议 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月13日，国内16家科技社团联合发布全球人工智能治理相关倡议。该事件延续了近期产业界对AI安全、责任边界和国际规则协调的关注。",
+          "blocks": [
+            {
+              "heading": "倡议内容：从技术发展转向规则协同",
+              "paragraphs": [
+                "从公开信息看，倡议重点围绕“促进AI向善应用”“加强风险防范”“推动多方协作”等方向，强调在创新与治理之间保持平衡。",
+                "与单一企业发布安全声明不同，社团联合倡议更接近行业层面的共识表达，目标是形成可被政府、企业和研究机构共同参考的框架。",
+                "在当前跨国数据流动、模型责任认定和内容安全管理仍存差异的背景下，倡议为后续规则对话提供了组织化入口。"
+              ]
+            },
+            {
+              "heading": "政策与产业影响：治理能力成为竞争变量",
+              "paragraphs": [
+                "AI产业进入规模化应用期后，监管议题已从原则讨论转向执行细则，例如产品准入、审计评估和场景分级管理。",
+                "对企业而言，治理能力不仅是合规要求，也正在转化为商业合作门槛，尤其在教育、金融、医疗等高敏感行业更为明显。",
+                "此次联合倡议有助于降低行业沟通成本，推动形成更一致的术语体系与评估方法，减少跨机构协作中的解释差异。"
+              ]
+            },
+            {
+              "heading": "观察点：落地机制与国际对接",
+              "paragraphs": [
+                "下一步关键在于倡议是否配套工作组、评测标准或年度报告机制。只有形成可持续执行路径，治理倡议才能转化为行业实践。",
+                "此外，国际对接同样重要。若能与其他国家和地区的监管讨论建立接口，国内治理经验有望在更大范围参与规则共建。",
+                "在2026年的全球AI政策周期中，产业组织的联合行动预计将更频繁出现，并对产品出海和跨境合作产生实质影响。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "界面新闻：16家科技社团联合倡议",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYUZYLV9VbnJOM0xhcGEza1hjckFWek5pVDFnTm1tZDBnNW5raWZYOUZxRVhLVEx3Y0NCTkFqOVNHNFJiMkc5cWxnX3Y2VnA2NHZBdHBB?oc=5"
+          },
+          {
+            "label": "AIBase：全球AI治理倡议发布",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rQ05JVTJJTEpWMElrOUk3VGVNR0VfQ05QN19HSjJxc3RkdkwwdjlzWll6Yjhzb2RvS1JBVjBMX1lLVThKb2cyWnF3?oc=5"
+          },
+          {
+            "label": "新浪新闻：智能教育产品监管讨论",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93TF83ZzI4WmlNYklzZUdJMEY0U2lhSUJNS1VVSWxlYWF2SGRNc2lDd3ZlWGc1U1l3aUVkUF9McS1hQVc1ZzN0bWN3YjJHTGRXSTB1MTJYenhzZHJpSEhsaHp2RTVjZG5IRnRDUkR3U20?oc=5"
+          }
+        ],
+        "source": "Jiemian.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wYUZYLV9VbnJOM0xhcGEza1hjckFWek5pVDFnTm1tZDBnNW5raWZYOUZxRVhLVEx3Y0NCTkFqOVNHNFJiMkc5cWxnX3Y2VnA2NHZBdHBB?oc=5"
+      },
+      {
         "slug": "ai-news-20260412-auto-1-784bc8",
         "title": "Anthropic发布Glasswing",
         "category": "AI新闻",
@@ -1791,6 +1907,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260413-auto-1-b334d7",
+        "title": "企业AI合规使用实操",
+        "category": "AI使用教程",
+        "date": "2026-04-13",
+        "summary": "基于近期曝光事件，建立可执行的AI内容合规流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "企业AI合规使用实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-13前后的公开报道，企业在使用生成式AI时应把“先合规、后提效”作为默认策略。下面给出一套可直接落地的流程，重点覆盖账号、提示词、输出内容和审计留痕四个环节。",
+          "blocks": [
+            {
+              "heading": "第一步：划定使用边界与责任人",
+              "paragraphs": [
+                "先发布一页纸《AI使用红线清单》：明确禁止生成涉黄、侵权、仿冒真人、深度伪造等内容；同时写明违规处理机制。清单应在入职培训和每季度复训中重复宣导。",
+                "设立“业务负责人+合规审核人”双责任制。业务负责人对需求真实性负责，合规审核人对模型输出是否触碰红线负责，避免“所有人都在用但无人负责”的状态。",
+                "按场景给权限：普通员工仅可使用通过审批的企业账号与模型；涉及品牌、公关、招聘、教育未成年人等高风险场景，必须启用二次审核后才能对外发布。"
+              ]
+            },
+            {
+              "heading": "第二步：建立提示词与模型调用防护",
+              "paragraphs": [
+                "将高风险词库和规则前置到系统层，而不是只靠员工自觉。对提示词做实时检测，命中敏感规则时直接拦截，并给出合规替代写法，例如改为科普、反诈、法律教育等正当用途。",
+                "对模型输出启用二次检测：文本、图片、视频分别配置内容安全策略。建议设置“自动拦截+人工复核”阈值，例如置信度高于阈值自动阻断，低于阈值进入审核队列。",
+                "针对“隐晦提示词绕过限制”的问题，每周更新一次对抗样本。把近期拦截失败案例沉淀为测试集，发布新模型或新版本前先跑安全回归测试，确保规则没有被轻易绕过。"
+              ]
+            },
+            {
+              "heading": "第三步：上线审计机制与应急流程",
+              "paragraphs": [
+                "做好可追溯记录：至少保存请求时间、账号、提示词、模型版本、输出摘要、审核结论。日志保留周期可按行业要求设定，一般不少于6个月，用于内部复盘和外部核查。",
+                "建立24小时内可执行的应急SOP：发现违规内容后，按“下线内容—冻结账号—保全日志—通知负责人—法务评估—对外回应”顺序处理，避免扩散和二次传播。",
+                "每月做一次合规演练与抽检，抽样检查不同部门的AI产出。对重复出现的问题给出整改时限，例如7天完成规则修订、14天完成培训补课，并在下月复查闭环。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "央视曝光AI“造黄”产业链",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnFISmdaX3NZZDVVbS1aZVhhbmJmaFNhZG9XOUtLMnpQTThkbGYxQVRla2RwQ2tqT1A5UC1Kd3VRZURvcXdGbUZFdVp5T0NybzNoTnMtR2VkWTE3RjMwbkdqRlpsV2NWLUhGaG9oXzhkWHhNYVlrdmJPRGNHZlBvYmRocmZvd19GNE43cjRYcHV0NlhfYmFSQw?oc=5"
+          },
+          {
+            "label": "AI“造黄”教程网络公然兜售 背后产业链曝光",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3VFMmQ4XzFHQ0VYUTFWWlpqWTBreHBlWDBoYllrMmNHYWhrMG9fMjF0cC0tbW5wcHBpYy1BMzdOdnRxX1dWdEIwRUxrV0pPR1J4RzZsRjdqV2xHekxndmV3bXBnbHNoaG1PdjE2Zkd4cEhkV3VNeWE2dWVsYkJ5a0JmZ2h5Qk9PVVNCTnJHdkZCRnEwM2ZVTw?oc=5"
+          },
+          {
+            "label": "提示词隐晦就可能绕过限制 多款AI应用存在涉黄生成漏洞",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xZWJWMTRSVVF4YjNsX3QxLUFJQ3BlS2h2U0RRZXZ4SUh4ZkhmOEdLM2oxZ1ZOby1GMjJlYnZKcFpVQXFSeXpORXJsTzQyMTItUXZpNm0xbzBSWkYwaW5n?"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnFISmdaX3NZZDVVbS1aZVhhbmJmaFNhZG9XOUtLMnpQTThkbGYxQVRla2RwQ2tqT1A5UC1Kd3VRZURvcXdGbUZFdVp5T0NybzNoTnMtR2VkWTE3RjMwbkdqRlpsV2NWLUhGaG9oXzhkWHhNYVlrdmJPRGNHZlBvYmRocmZvd19GNE43cjRYcHV0NlhfYmFSQw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260412-auto-1-c8e251",
         "title": "公众号AI写作合规实操",
         "category": "AI使用教程",
@@ -2109,6 +2283,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260413-auto-1-204b5f",
+        "title": "ZeroID开源智能体身份平台",
+        "category": "开源项目",
+        "date": "2026-04-13",
+        "summary": "ZeroID发布开源身份平台，面向自治AI智能体认证与授权。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ZeroID开源智能体身份平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年4月13日，ZeroID作为面向自治AI智能体的开源身份平台受到关注。该项目聚焦“谁在调用、以何身份调用、拥有哪些权限”这三类基础问题，适合需要多智能体协作与审计能力的团队评估接入。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心用途",
+              "paragraphs": [
+                "ZeroID的定位是为AI智能体提供统一身份层，覆盖注册、认证、授权与凭证管理。与传统用户身份系统不同，它更强调机器到机器的自动化交互场景。",
+                "在多智能体工作流中，开发者常需要区分“执行代理”“审核代理”“外部工具代理”等不同角色。ZeroID的价值在于把角色与权限显式化，降低隐式信任带来的风险。",
+                "对于企业或团队而言，该类开源身份底座可用于构建可追溯的调用链：当代理触发敏感操作时，可以快速定位责任主体与授权来源。"
+              ]
+            },
+            {
+              "heading": "关键更新意义与应用场景",
+              "paragraphs": [
+                "从本次信息看，ZeroID被明确为开源身份平台，强调自治AI代理场景。这意味着其路线更偏向生态兼容，而非单一厂商封闭实现。",
+                "典型应用包括：多Agent客服系统、自动化运维代理、数据分析代理编排等。这些场景共同特点是调用频繁、权限细粒度、需要审计。",
+                "在合规要求较高的行业中，身份与授权机制通常先于模型能力落地。ZeroID这类项目可作为“先治理、后扩展”方案的一部分。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "技术门槛方面，团队至少需要具备基础身份与权限模型认知，如令牌、角色、策略控制和密钥轮换等。若缺乏IAM经验，建议先做小范围PoC。",
+                "工程门槛主要在系统集成：需要把现有代理框架、日志系统和网关策略打通。实践中可先接入高风险动作，再逐步扩大到全量调用。",
+                "对中小团队而言，可先采用默认策略模板与最小权限原则，优先解决“可见性和可追溯性”问题，再优化性能与复杂策略编排。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ZeroID 新闻条目",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0tqVkFiZV9IbjR1R1ZMVVZVdHpMZjcta0VTV3hxSllhNkpmaUFWYzdSZmFZQjd3SlZ5UzNlU083Ql9pa0E1ajF4alBYRktpdEVFYnFlTVprNHBQTXNwWWFFNVFhVVdlVmRKdkNHVjdCTFFFSnIwSmgzdDdMOTJKTThjbURYOU9LOUFTcGotQ1NqVmhraFA2OGswMGhxQWlfamZv?oc=5"
+          },
+          {
+            "label": "AI联盟Tapestry（生态协作参考）",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcl9Lcm4wVV9lS3kxSHRkSzMwQUVFRVM5QTh5MVF1TXdDYV93XzEtbkE5WXRrN0J4OVFhV1YwUlgyMEhmRDhZNUtZN3VRU2h5T3hPR1lhbFg0eWZTaUlnZm9BTmtjZjl0c29JeUhWSDRkd0VPbnhrNHNuSy1RWDBMNkVPVGc5M0dzTnpsX1dLbmFxSE9CVzdWUGlhaEJZYU5CLVNGbXVKQzMxZFF4dkFkM2ZzSnk?oc=5"
+          },
+          {
+            "label": "Glasswing（AI时代软件安全背景）",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0tqVkFiZV9IbjR1R1ZMVVZVdHpMZjcta0VTV3hxSllhNkpmaUFWYzdSZmFZQjd3SlZ5UzNlU083Ql9pa0E1ajF4alBYRktpdEVFYnFlTVprNHBQTXNwWWFFNVFhVVdlVmRKdkNHVjdCTFFFSnIwSmgzdDdMOTJKTThjbURYOU9LOUFTcGotQ1NqVmhraFA2OGswMGhxQWlfamZv?oc=5"
+      },
+      {
+        "slug": "open-source-20260413-auto-2-1679c0",
+        "title": "AI联盟发布Project Tapest",
+        "category": "开源项目",
+        "date": "2026-04-13",
+        "summary": "Project Tapestry面向开放与主权AI协作，强调跨组织共建。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI联盟发布Project Tapest 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月13日，AI Alliance公布Project Tapestry，重点是促进开放与主权AI协作。该项目更偏向“协作框架与生态机制”层面，适合有跨组织、跨区域部署诉求的开源AI团队关注。",
+          "blocks": [
+            {
+              "heading": "项目关注点：开放与主权并行",
+              "paragraphs": [
+                "Project Tapestry提出的关键词是open与sovereign，意味着在开放协作的同时，保留各参与方对数据、模型与部署策略的控制权。",
+                "这类框架通常不替代具体模型，而是提供跨机构协作所需的规则、接口或互操作方式，帮助不同技术栈之间建立可持续协同。",
+                "对公共部门、大型企业或跨国团队而言，主权AI诉求往往涉及数据驻留和本地治理，Tapestry的方向与此类需求高度相关。"
+              ]
+            },
+            {
+              "heading": "对开源AI生态的现实价值",
+              "paragraphs": [
+                "当前开源AI竞争已从“单模型能力”扩展到“生态协作效率”。Tapestry这类项目的价值在于降低重复建设，提升组件复用与协同开发效率。",
+                "它也有助于缓解供应链锁定问题：当组织采用统一协作框架后，可在不同开源模型、工具链与基础设施之间更平滑切换。",
+                "结合近期多个开源项目动态可见，社区正从模型发布走向工程治理，协作协议、身份体系与安全边界正在成为新重点。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施路径",
+              "paragraphs": [
+                "上手门槛主要在组织层而非算法层：需要明确参与方的治理边界、数据权限和责任分工。技术实现之前，先完成制度设计更关键。",
+                "技术团队可从小范围联合项目切入，例如共享评测流程、统一接口规范或跨团队模型部署标准，逐步验证协作收益。",
+                "若团队规模较小，可先选择一到两个高频协作环节试点，避免一次性重构全流程。确认稳定后再扩展到更大范围的开源协同。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Project Tapestry 新闻条目",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcl9Lcm4wVV9lS3kxSHRkSzMwQUVFRVM5QTh5MVF1TXdDYV93XzEtbkE5WXRrN0J4OVFhV1YwUlgyMEhmRDhZNUtZN3VRU2h5T3hPR1lhbFg0eWZTaUlnZm9BTmtjZjl0c29JeUhWSDRkd0VPbnhrNHNuSy1RWDBMNkVPVGc5M0dzTnpsX1dLbmFxSE9CVzdWUGlhaEJZYU5CLVNGbXVKQzMxZFF4dkFkM2ZzSnk?oc=5"
+          },
+          {
+            "label": "ZeroID（智能体身份层参考）",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ0tqVkFiZV9IbjR1R1ZMVVZVdHpMZjcta0VTV3hxSllhNkpmaUFWYzdSZmFZQjd3SlZ5UzNlU083Ql9pa0E1ajF4alBYRktpdEVFYnFlTVprNHBQTXNwWWFFNVFhVVdlVmRKdkNHVjdCTFFFSnIwSmgzdDdMOTJKTThjbURYOU9LOUFTcGotQ1NqVmhraFA2OGswMGhxQWlfamZv?oc=5"
+          },
+          {
+            "label": "Qwen开源市场报道（生态对比）",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlVHalF3V3BJanNiSG5keUZkV0dMbnZPelRpWWhIcWJSVEdXcE1nWm9HUjJiczMxVzRrRzlwTVVtRlpzYy1feXQtSFpYdkhqR0tYRk9xWkNGZ1JfdmthbHFrdXVWNFJvcUNOTUFIWHRsYVRPaVpiOFJaT3doUnB6N0hlQXBJUnhq?oc=5"
+          }
+        ],
+        "source": "FutureCIO",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcl9Lcm4wVV9lS3kxSHRkSzMwQUVFRVM5QTh5MVF1TXdDYV93XzEtbkE5WXRrN0J4OVFhV1YwUlgyMEhmRDhZNUtZN3VRU2h5T3hPR1lhbFg0eWZTaUlnZm9BTmtjZjl0c29JeUhWSDRkd0VPbnhrNHNuSy1RWDBMNkVPVGc5M0dzTnpsX1dLbmFxSE9CVzdWUGlhaEJZYU5CLVNGbXVKQzMxZFF4dkFkM2ZzSnk?oc=5"
+      },
       {
         "slug": "open-source-20260412-auto-1-e7c0ec",
         "title": "Colab MCP Server开源",
