@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260414-auto-1-b9ceb3",
+        "title": "诺和诺德联手OpenAI",
+        "category": "AI新闻",
+        "date": "2026-04-14",
+        "summary": "双方宣布合作推进AI药物研发，聚焦效率与研发流程优化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "诺和诺德联手OpenAI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月14日，多家媒体披露诺和诺德与OpenAI达成合作，核心方向是将生成式与数据驱动能力引入药物发现和研发流程。",
+          "blocks": [
+            {
+              "heading": "合作信息与业务指向",
+              "paragraphs": [
+                "从公开信息看，合作重点落在AI驱动药物研发，目标是提升候选分子筛选、知识整合与研发协同效率。",
+                "诺和诺德作为大型制药企业，具备疾病领域数据和临床开发体系；OpenAI提供模型与平台能力，双方形成产业与技术互补。",
+                "此次合作被市场解读为医药行业继续加码AI应用的信号，尤其在研发周期长、试错成本高的环节更受关注。"
+              ]
+            },
+            {
+              "heading": "对医药产业链的潜在影响",
+              "paragraphs": [
+                "若合作落地顺利，AI有望在早研阶段减少低价值实验，提高研发资源配置效率，并加快内部决策节奏。",
+                "对上游生物数据服务与计算基础设施供应商而言，头部药企与AI公司的联合可能带来新增采购与平台整合需求。",
+                "同时，行业普遍预期AI不会替代临床与监管环节，而是作为前置增强工具，与现有药物开发体系并行融合。"
+              ]
+            },
+            {
+              "heading": "监管与执行层面的关注点",
+              "paragraphs": [
+                "在医药场景中，模型可解释性、数据合规与结果可复核性仍是关键议题，关系到后续研发决策的稳健性。",
+                "跨国合作还需要协调数据治理与知识产权边界，确保算法应用与企业内部研发规范保持一致。",
+                "短期看，市场将重点观察双方是否披露阶段性成果、平台建设路径以及与现有研发管线的衔接方式。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Reuters报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVd5WmtCdF9IWmtsMmY2YjRnRDhZZHhTMWFYZE9MMkJiUjc0dHJZeUkyX3pfZjQ2YjQzdEJOTjlCR0R6Nk5FRHM2RmlGUlp5Z2JJSHJtWEhvX3VSNDQ1RFR1TkQza0FHS1JURUY1eGd6LWtwbi1NdmdYazU3NGdqZ1ZocVVZRnVLUEN0cTIyXzhjSFZsWFNCNnVKQjIxNktGTmdlQjZ2WDdiN0Z6bW5OYTFLd25SazRrcXE5dEtwVQ?oc=5"
+          },
+          {
+            "label": "CNBC报道",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzZGRFBxSTR2WEhWVFF6OTVMWlVzOXlzQmdDTExDdklHWUpMR3hBRE9fSUpheEhuRFFRTlo5NDU0cGdIOGZkNU1RTlRxb0w0MHk3THF3MHlOY2gzb2xNd3JDYnVwbUNUYVpYemdQRm1LVTFoOVc5OUliaE03OTkxZDNWdFkwZGJwSzZVdWM4cmZiZTDSAZgBQVVfeXFMTVdhQ25iMUNTWUZmSXNIVFlTckNXSjBCS3lTbkthM0hsaTJnd3lBcEYtNHJXQTdDTXYxMENoX09Wam5NSHdIejFrVnNYUFNweTZHVmdOdGVzWTd5YUV0dnNwdzd2ci0yUzhoNnJreV9SdTB1WWFBRFpxcWxKTUdVbTJydUFRLVVrQl9pRUNKVElqcHVEb3BVOUU?oc=5"
+          },
+          {
+            "label": "Seeking Alpha报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVdfdnZkSTBsejc2bUtYUWZrTXlweTh2emtXWFdvTkRtMUI2YXFPU0FwbWJzT0xGUkFSY2Fyb0hFclExeEdKc2NVOFpaQXc3TFF0bkh2cmZOQThHb002WlZmZkw0a1ZsV3YwRHFidnk1c2twU1J6QjN5cy1BVUg3Q0pzZmZNODZHMlJoNkpmd2dQTDZmdUJFOTZ0TnNjVGJmZzMzWkZiTXRPNUlYUUtkV2xPcw?oc=5"
+          }
+        ],
+        "source": "Reuters",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVd5WmtCdF9IWmtsMmY2YjRnRDhZZHhTMWFYZE9MMkJiUjc0dHJZeUkyX3pfZjQ2YjQzdEJOTjlCR0R6Nk5FRHM2RmlGUlp5Z2JJSHJtWEhvX3VSNDQ1RFR1TkQza0FHS1JURUY1eGd6LWtwbi1NdmdYazU3NGdqZ1ZocVVZRnVLUEN0cTIyXzhjSFZsWFNCNnVKQjIxNktGTmdlQjZ2WDdiN0Z6bW5OYTFLd25SazRrcXE5dEtwVQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260414-auto-2-65765e",
+        "title": "广州国资基金重仓AI",
+        "category": "AI新闻",
+        "date": "2026-04-14",
+        "summary": "广州国资1600亿基金布局AI，并提出最高50%容亏率机制。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "广州国资基金重仓AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月14日，广州国资体系被报道以1600亿元基金群重点投向AI，并设置最高50%容亏率，以支持中长期科技投资。",
+          "blocks": [
+            {
+              "heading": "资金规模与机制设计",
+              "paragraphs": [
+                "从披露口径看，1600亿元规模体现地方国资对AI赛道的系统性配置，覆盖不同阶段与类型的项目。",
+                "“最高50%容亏率”被视为耐心资本机制的一部分，旨在适配硬科技投资周期长、不确定性高的特点。",
+                "该机制与传统财务回报考核相比，更强调组合管理与长期产业培育，降低早期项目的短期业绩压力。"
+              ]
+            },
+            {
+              "heading": "对区域产业的现实意义",
+              "paragraphs": [
+                "大体量资金若持续落地，可能带动算力、模型、行业应用和智能硬件等环节形成更完整的本地生态。",
+                "对初创企业而言，政策性与市场化资金协同可改善融资可得性，尤其是技术验证到商业化过渡阶段。",
+                "对龙头企业而言，区域基金有助于推动联合研发、场景开放和产业链配套，增强本地集聚效应。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "市场将关注基金实际投向结构，包括基础研究、平台能力与应用落地之间的资金配比是否均衡。",
+                "同时需观察容亏机制如何与尽调、投后管理和退出安排衔接，以兼顾创新容错与国资保值增值要求。",
+                "若形成可复制经验，相关做法可能为其他城市AI产业基金提供制度参考，推动地方间差异化布局。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb04zbE9Cc2xITmdPMHA4TXZxdDhlU3NfR1JnaTdKN3lvM0JBWUxRWWZRSHkyaFZXbUgzcmxPckd2QWZnWXVyaDEwUzJybGlTZEV4eWYtY1J5SUFvNnJlQ09XdnZKdHp3MXBxNGZqZldGbnZNSllKTG5iV1k2RWcyb0YzOGg2X2t3NjlaTG1HYw?oc=5"
+          },
+          {
+            "label": "财新相关文章",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbERrbllsNHhzbDU1TmZPU01vSXk4RnplaEJBclRwbTdDcm1MMEltamhpRXB2bjZKT0Q2am1QLW5FVVZGVXVrX0F0WXZObk9yQnZ0T2hjTGUtenZNNDNXX0RB?oc=5"
+          },
+          {
+            "label": "人民日报署名文章转引",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObTlDNktmVm1nWldMdWNLTUZMd1lHM1dMQl9UR2J3d1Q3aFpiNGprMUM3NTAtN1ZGUEc5OUhUbFRzTHl5ajRmczJyY3FDcEtHZEg3bnZvMHhrbTRMS1RtdERYNHBxVjQ3YTcyLWhYU3pVWmhxUUZCMi1DWk5BMmJzdEc5d3BmLVRHMnBKUg?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb04zbE9Cc2xITmdPMHA4TXZxdDhlU3NfR1JnaTdKN3lvM0JBWUxRWWZRSHkyaFZXbUgzcmxPckd2QWZnWXVyaDEwUzJybGlTZEV4eWYtY1J5SUFvNnJlQ09XdnZKdHp3MXBxNGZqZldGbnZNSllKTG5iV1k2RWcyb0YzOGg2X2t3NjlaTG1HYw?oc=5"
+      },
+      {
         "slug": "ai-news-20260413-auto-1-7eaae3",
         "title": "阶跃星辰传筹备IPO",
         "category": "AI新闻",
@@ -1907,6 +2023,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260414-auto-1-078df4",
+        "title": "Google ADK多智能体实战",
+        "category": "AI使用教程",
+        "date": "2026-04-14",
+        "summary": "用Python搭建数据到报告的多智能体流程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google ADK多智能体实战 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-14的公开教程信息，本文给出一个可直接落地的Google ADK多智能体流水线实践方案，目标是在Python中完成“数据加载—统计检验—可视化—报告生成”的闭环。",
+          "blocks": [
+            {
+              "heading": "步骤一：先搭建可复现的项目骨架",
+              "paragraphs": [
+                "先创建独立环境并固定版本，建议使用venv或conda。将项目目录拆成data、agents、reports、notebooks四层，并在根目录放置requirements.txt与.env.example，确保团队成员可一键复现。",
+                "定义最小可运行输入：一份CSV样例数据（至少含时间、类别、数值三列）和一份任务配置JSON（包含目标指标、显著性水平、输出图表类型）。这样可避免在智能体编排前就陷入数据格式不一致问题。",
+                "在ADK中先只注册两个基础角色：DataLoaderAgent与ValidatorAgent。前者负责读取和标准化字段，后者负责空值率、异常值比例、字段类型校验。先跑通这一步，再逐步增加统计和报告智能体。"
+              ]
+            },
+            {
+              "heading": "步骤二：把统计检验与可视化拆成独立智能体",
+              "paragraphs": [
+                "将统计检验封装为StatsAgent，输入为清洗后的DataFrame和检验配置，输出统一为JSON结果对象（如test_name、p_value、effect_size、assumptions）。统一结构后，后续报告生成会更稳定。",
+                "将可视化封装为VizAgent，约定文件输出规则（如reports/figures/{run_id}/）。建议至少生成分布图、对比图、趋势图三类，并在元数据中记录图表对应的数据切片和生成时间，方便审计。",
+                "在编排层增加一个Orchestrator，负责失败重试与分支执行：当样本量不足或正态性不满足时，自动切换非参数检验；当图表生成失败时降级为表格摘要。这样可提高流水线的鲁棒性。"
+              ]
+            },
+            {
+              "heading": "步骤三：生成报告并建立质量闸门",
+              "paragraphs": [
+                "用ReportAgent读取统计JSON和图表元数据，按固定模板输出Markdown或HTML报告。模板建议包含：研究问题、数据范围、方法说明、关键结果、局限性、复现实验命令，避免只有结论没有过程。",
+                "设置发布前检查清单：数值口径是否一致、显著性阈值是否在文中明确、图表标题是否含样本范围、结论是否区分相关与因果。检查清单可写成脚本，在CI中自动执行。",
+                "实操建议是先以单数据集离线跑通，再接入定时任务。上线初期保留人工审核节点，重点审查异常结果与措辞风险。稳定后再逐步提高自动化比例，形成可维护的AI分析生产线。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Google ADK多智能体教程报道",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOVctUDc2VzNFX1lFcWRidG8yX2EzbU5EVEJHREVNMWF2enlKM3lRTDVfelRybUloa2VmRm9LSGlhQzZOZ3RydjAySEVaVXVFby1RbWFVVjFudFhXRUVHa0gwOWZOOHEyNnJTZndiYjAzRDJsbVlrZkx6VzlaaDJNUzFmT19GOHJFbDNKaFk1UU8yZi1wZUphOWxZNkI1dTN1cUNjMkFCYjB1aU9SNGtmekxxMVJHbEUyTXpleER4Nkxvd2ZjWWh0ZkpYUm1ZOWcyeDZ2WDhPdDRYTk5NVEdDVzRXdHNINEpmblR0MG8tQUxDd9IB9wFBVV95cUxNSTFfdEk5NDBfX1NnNEt4MTIxNUMyVE5fMUZCNjItVTgyVGNRYXNDc2h1Q1NkT3NCOEtCR3d2WDhkcU9naGpuRnFkdEhVVHJHMlJYR3hkXzZ1c2d0dHJFQWtZeG94cGFPcmRucnFMWlFOYkhPVHl6aU9PYUpGRm5LdEJvbm44Y2JobjI3d1hvN01iUnEyUGVnWjFPaFNBM3dQcUJnUVJsdklvYzB1OHBzT28xNDZxRlM3TkIzUjZhcUVhYjJyTUU2TDBkSkFqd05XT1BsWFppWXUyamt4ek51SGwtQTRCMG41NEdmZTNtQXZ4b2VTWkNr?oc=5"
+          },
+          {
+            "label": "Prompt工程开发者指南",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYndMa0JVT25uN2kxcy1XemJKVGlpZ1ZCU2M1ODM1SEFJZWtzR0dHbFU1V2hEMG5BdTJ0NmFtZXdXS3hKa0g0dktTOFR4cDc3d0JBdVB0ZFg1VUppRTJOSzkzdW82TUFrazlUSUdFZ1g0enNEakRIV21IXzI?oc=5"
+          },
+          {
+            "label": "上下文工程方法讨论",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVdfYVV6NHQtcVhOZ0VwOHNGbVNtWlhuMUhUejJIUXpuWG8yVi1fbGJpb0JMQU5zeGVmb3Rja0tyZ3B4Q05uRVpOLWY3a1Y5RFV4NkpLNGhoSkk5aEpPSjhPV19ZZXZEcFJ2eFZrXzBRSU9mNkxNUHdHeVBkaU8yVF9vVjZIT00?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOVctUDc2VzNFX1lFcWRidG8yX2EzbU5EVEJHREVNMWF2enlKM3lRTDVfelRybUloa2VmRm9LSGlhQzZOZ3RydjAySEVaVXVFby1RbWFVVjFudFhXRUVHa0gwOWZOOHEyNnJTZndiYjAzRDJsbVlrZkx6VzlaaDJNUzFmT19GOHJFbDNKaFk1UU8yZi1wZUphOWxZNkI1dTN1cUNjMkFCYjB1aU9SNGtmekxxMVJHbEUyTXpleER4Nkxvd2ZjWWh0ZkpYUm1ZOWcyeDZ2WDhPdDRYTk5NVEdDVzRXdHNINEpmblR0MG8tQUxDd9IB9wFBVV95cUxNSTFfdEk5NDBfX1NnNEt4MTIxNUMyVE5fMUZCNjItVTgyVGNRYXNDc2h1Q1NkT3NCOEtCR3d2WDhkcU9naGpuRnFkdEhVVHJHMlJYR3hkXzZ1c2d0dHJFQWtZeG94cGFPcmRucnFMWlFOYkhPVHl6aU9PYUpGRm5LdEJvbm44Y2JobjI3d1hvN01iUnEyUGVnWjFPaFNBM3dQcUJnUVJsdklvYzB1OHBzT28xNDZxRlM3TkIzUjZhcUVhYjJyTUU2TDBkSkFqd05XT1BsWFppWXUyamt4ek51SGwtQTRCMG41NEdmZTNtQXZ4b2VTWkNr?oc=5"
+      },
+      {
         "slug": "ai-guide-20260413-auto-1-b334d7",
         "title": "企业AI合规使用实操",
         "category": "AI使用教程",
@@ -2283,6 +2457,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260414-auto-1-d40299",
+        "title": "Anthropic发布Glasswing",
+        "category": "开源项目",
+        "date": "2026-04-14",
+        "summary": "面向AI时代关键软件安全的新项目发布。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic发布Glasswing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月14日（北京时间），Anthropic发布Project Glasswing，主题聚焦“AI时代关键软件安全”。从公开信息看，该项目面向高风险软件供应链与安全流程治理，强调在AI参与开发后提升审核与防护能力。",
+          "blocks": [
+            {
+              "heading": "更新要点与定位",
+              "paragraphs": [
+                "Project Glasswing被定义为面向关键软件的安全项目，核心语境是AI工具已经深度进入研发流程，传统安全审计方法需要同步升级。",
+                "该项目关注的不只是模型安全，还包括代码来源可信性、依赖链完整性、发布环节可追溯等软件工程层面的基础问题。",
+                "从新闻口径判断，Glasswing更接近“安全体系与实践框架”的发布，而非单一模型或应用功能更新。"
+              ]
+            },
+            {
+              "heading": "用途与适用场景",
+              "paragraphs": [
+                "对企业研发团队而言，Glasswing可用于梳理AI辅助编码后的风险控制点，尤其是涉及金融、政务、医疗等关键系统时的合规与上线审查。",
+                "对开源维护者而言，其价值在于提供一套更明确的安全协作方向，减少因自动化生成内容带来的漏洞引入与报告噪声问题。",
+                "结合同日Node.js因AI生成虚假报告而暂停安全赏金发放的事件，行业对“安全信号质量”与“漏洞处理效率”的关注正在上升。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要在流程建设而非算力：团队需要先具备基础的代码审查、依赖管理、漏洞响应与发布治理机制。",
+                "建议从小范围试点开始，例如先在核心仓库引入更严格的变更审计和安全检查，再逐步扩展到全部项目与CI流程。",
+                "对于中小团队，优先级可设为“减少高风险依赖+提升漏洞分流效率”，先解决最常见的安全运维负担，再扩展到更完整的框架实践。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic：Project Glasswing",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Node.js安全赏金暂停事件",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50M0dCVk9IZE0tQWdxSmF1Mnlsa0dsMU1DNHF2cEpQTGZfbHdqZlZaNlJINF9DRDVEZkhFdUxEMUN1M3lOM2ZySkVn?oc=5"
+          },
+          {
+            "label": "Node.js中文报道补充",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PZlpTRHI3UHhEVzhmTzZqYkl4TER3WUVzMnI5Sm9tdlV6MTlHVVJQWFBGckdNLU1oczdaTm56YUpQQW8zZ1BRRDBPOW1Ednc?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "open-source-20260414-auto-2-bfde80",
+        "title": "Netflix开源视频模型",
+        "category": "开源项目",
+        "date": "2026-04-14",
+        "summary": "流媒体场景首发开源AI视频模型，降低实验门槛。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Netflix开源视频模型 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月14日（北京时间），媒体消息称Netflix首次开源AI视频模型。该动作将视频生成与处理能力从平台内部能力进一步外溢到开发者生态，属于开源AI项目层面的关键更新。",
+          "blocks": [
+            {
+              "heading": "本次发布的行业意义",
+              "paragraphs": [
+                "在流媒体行业，视频模型通常与内容生产流程高度绑定，公开开源意味着更多外部团队可复用相关技术路径进行实验与二次开发。",
+                "与通用文本模型相比，视频模型对数据处理、时序建模与推理成本要求更高，开源有助于形成更透明的评测与优化社区。",
+                "从趋势看，这次更新也与近期Agent和多模态开源热度形成呼应，说明AI能力正在从对话场景扩展到内容工业流程。"
+              ]
+            },
+            {
+              "heading": "可落地用途",
+              "paragraphs": [
+                "开发者可将其用于短视频片段生成、素材重组、自动预览图生成、字幕与画面协同优化等任务，服务内容生产和分发。",
+                "媒体与品牌团队可在合规前提下用于低成本样片制作和A/B测试，提高创意迭代效率，缩短从脚本到演示的周期。",
+                "研究团队则可将其作为基线模型，验证压缩、蒸馏、时序一致性修复和多模态对齐等方向的改进效果。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛主要体现在算力、数据与工程链路三方面：需要GPU资源、规范的视频数据管线，以及可重复的训练或推理环境。",
+                "建议先从推理与微调入手，使用小样本任务验证质量与成本，再决定是否进入完整训练；这对团队预算更友好。",
+                "上线前应补齐版权与内容安全策略，包括素材来源审计、生成内容标识、人工复核流程，避免技术试验直接进入生产引发风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36氪：Netflix首次开源AI视频模型",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dlhHb1EzbmJ0Mmp5bjFndjB0T3k5U3RFYW93c2Jud0FkTjBlc05FckN0VXItMjY1bzVGQ0ZsMENVYUt4Wnh6bHNWZmh4Zw?oc=5"
+          },
+          {
+            "label": "Hermes Agent相关报道",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9BTEdCRkpCWllmSzZwUnRMLWVNVHhEbks0OVo3MTYyaDE4ZGtTeG12OEV1R1lLUi00VzFaUDBvODJsdTA?oc=5"
+          },
+          {
+            "label": "开源AI开发框架观察",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnRXhzeEtPSFhlbU1OVzEtTDNPR20tNjFhcGhTR3RrWVdIdExtZWVlYkREZ3RvWmlpYmc2QVMwdU1CSkhQTUJZTnVCdW5SQQ?oc=5"
+          }
+        ],
+        "source": "36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90dlhHb1EzbmJ0Mmp5bjFndjB0T3k5U3RFYW93c2Jud0FkTjBlc05FckN0VXItMjY1bzVGQ0ZsMENVYUt4Wnh6bHNWZmh4Zw?oc=5"
+      },
       {
         "slug": "open-source-20260413-auto-1-204b5f",
         "title": "ZeroID开源智能体身份平台",

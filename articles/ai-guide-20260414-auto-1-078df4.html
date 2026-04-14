@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Google ADK多智能体实战 | 寂川日报</title>
+<meta name="description" content="用Python搭建数据到报告的多智能体流程" />
+<meta name="keywords" content="AI新闻,AI使用教程,MarkTechPost" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260414-auto-1-078df4.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Google ADK多智能体实战" />
+<meta property="og:description" content="用Python搭建数据到报告的多智能体流程" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260414-auto-1-078df4.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-04-14" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Google ADK多智能体实战" />
+<meta name="twitter:description" content="用Python搭建数据到报告的多智能体流程" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Google ADK多智能体实战","datePublished":"2026-04-14","dateModified":"2026-04-14","description":"用Python搭建数据到报告的多智能体流程","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260414-auto-1-078df4.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260414-auto-1-078df4.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">Google ADK多智能体实战</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-04-14">2026-04-14</time> | 文章日期：<time datetime="2026-04-14">2026-04-14</time> | 来源：MarkTechPost</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="Google ADK多智能体实战 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">步骤一：先搭建可复现的项目骨架</a></li>
+<li><a href="#section-2">步骤二：把统计检验与可视化拆成独立智能体</a></li>
+<li><a href="#section-3">步骤三：生成报告并建立质量闸门</a></li>
+</ul>
+</nav>
+<p class="detail-intro">结合2026-04-14的公开教程信息，本文给出一个可直接落地的Google ADK多智能体流水线实践方案，目标是在Python中完成“数据加载—统计检验—可视化—报告生成”的闭环。</p>
+<section>
+<h2 id="section-1">步骤一：先搭建可复现的项目骨架</h2>
+<p>先创建独立环境并固定版本，建议使用venv或conda。将项目目录拆成data、agents、reports、notebooks四层，并在根目录放置requirements.txt与.env.example，确保团队成员可一键复现。</p>
+<p>定义最小可运行输入：一份CSV样例数据（至少含时间、类别、数值三列）和一份任务配置JSON（包含目标指标、显著性水平、输出图表类型）。这样可避免在智能体编排前就陷入数据格式不一致问题。</p>
+<p>在ADK中先只注册两个基础角色：DataLoaderAgent与ValidatorAgent。前者负责读取和标准化字段，后者负责空值率、异常值比例、字段类型校验。先跑通这一步，再逐步增加统计和报告智能体。</p>
+</section>
+<section>
+<h2 id="section-2">步骤二：把统计检验与可视化拆成独立智能体</h2>
+<p>将统计检验封装为StatsAgent，输入为清洗后的DataFrame和检验配置，输出统一为JSON结果对象（如test_name、p_value、effect_size、assumptions）。统一结构后，后续报告生成会更稳定。</p>
+<p>将可视化封装为VizAgent，约定文件输出规则（如reports/figures/{run_id}/）。建议至少生成分布图、对比图、趋势图三类，并在元数据中记录图表对应的数据切片和生成时间，方便审计。</p>
+<p>在编排层增加一个Orchestrator，负责失败重试与分支执行：当样本量不足或正态性不满足时，自动切换非参数检验；当图表生成失败时降级为表格摘要。这样可提高流水线的鲁棒性。</p>
+</section>
+<section>
+<h2 id="section-3">步骤三：生成报告并建立质量闸门</h2>
+<p>用ReportAgent读取统计JSON和图表元数据，按固定模板输出Markdown或HTML报告。模板建议包含：研究问题、数据范围、方法说明、关键结果、局限性、复现实验命令，避免只有结论没有过程。</p>
+<p>设置发布前检查清单：数值口径是否一致、显著性阈值是否在文中明确、图表标题是否含样本范围、结论是否区分相关与因果。检查清单可写成脚本，在CI中自动执行。</p>
+<p>实操建议是先以单数据集离线跑通，再接入定时任务。上线初期保留人工审核节点，重点审查异常结果与措辞风险。稳定后再逐步提高自动化比例，形成可维护的AI分析生产线。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOVctUDc2VzNFX1lFcWRidG8yX2EzbU5EVEJHREVNMWF2enlKM3lRTDVfelRybUloa2VmRm9LSGlhQzZOZ3RydjAySEVaVXVFby1RbWFVVjFudFhXRUVHa0gwOWZOOHEyNnJTZndiYjAzRDJsbVlrZkx6VzlaaDJNUzFmT19GOHJFbDNKaFk1UU8yZi1wZUphOWxZNkI1dTN1cUNjMkFCYjB1aU9SNGtmekxxMVJHbEUyTXpleER4Nkxvd2ZjWWh0ZkpYUm1ZOWcyeDZ2WDhPdDRYTk5NVEdDVzRXdHNINEpmblR0MG8tQUxDd9IB9wFBVV95cUxNSTFfdEk5NDBfX1NnNEt4MTIxNUMyVE5fMUZCNjItVTgyVGNRYXNDc2h1Q1NkT3NCOEtCR3d2WDhkcU9naGpuRnFkdEhVVHJHMlJYR3hkXzZ1c2d0dHJFQWtZeG94cGFPcmRucnFMWlFOYkhPVHl6aU9PYUpGRm5LdEJvbm44Y2JobjI3d1hvN01iUnEyUGVnWjFPaFNBM3dQcUJnUVJsdklvYzB1OHBzT28xNDZxRlM3TkIzUjZhcUVhYjJyTUU2TDBkSkFqd05XT1BsWFppWXUyamt4ek51SGwtQTRCMG41NEdmZTNtQXZ4b2VTWkNr?oc=5" target="_blank" rel="noopener noreferrer">MarkTechPost（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1pYndMa0JVT25uN2kxcy1XemJKVGlpZ1ZCU2M1ODM1SEFJZWtzR0dHbFU1V2hEMG5BdTJ0NmFtZXdXS3hKa0g0dktTOFR4cDc3d0JBdVB0ZFg1VUppRTJOSzkzdW82TUFrazlUSUdFZ1g0enNEakRIV21IXzI?oc=5" target="_blank" rel="noopener noreferrer">Prompt工程开发者指南</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVdfYVV6NHQtcVhOZ0VwOHNGbVNtWlhuMUhUejJIUXpuWG8yVi1fbGJpb0JMQU5zeGVmb3Rja0tyZ3B4Q05uRVpOLWY3a1Y5RFV4NkpLNGhoSkk5aEpPSjhPV19ZZXZEcFJ2eFZrXzBRSU9mNkxNUHdHeVBkaU8yVF9vVjZIT00?oc=5" target="_blank" rel="noopener noreferrer">上下文工程方法讨论</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
