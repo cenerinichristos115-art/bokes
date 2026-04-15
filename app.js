@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260415-auto-1-41f823",
+        "title": "广州设200亿AI母基金",
+        "category": "AI新闻",
+        "date": "2026-04-15",
+        "summary": "广州发布人工智能母基金方案，强调赛马机制与绩效导向。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "广州设200亿AI母基金 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年4月15日，北京时间，广州提出设立总规模200亿元的人工智能母基金。该消息聚焦地方政府在AI产业投资中的组织方式与绩效要求，显示出资金与产业协同推进的政策取向。",
+          "blocks": [
+            {
+              "heading": "基金定位与运作思路",
+              "paragraphs": [
+                "根据公开信息，该母基金以人工智能产业链为主要投向，预计覆盖早中期项目与关键环节企业，目标是提升区域产业集聚度与技术转化效率。",
+                "报道提到“赛马机制”将成为重要管理特征，意味着不同团队或子基金需在既定指标框架下进行阶段性比较，并根据结果动态调整资源配置。",
+                "这一安排通常有助于降低单一路径押注风险，同时强化投资执行端的责任约束，对地方产业基金从“规模导向”转向“绩效导向”具有示范意义。"
+              ]
+            },
+            {
+              "heading": "对产业与企业的影响",
+              "paragraphs": [
+                "从产业侧看，母基金若形成稳定出资节奏，可为算力基础设施、行业模型、应用软件与安全治理等细分方向提供更连续的资本支持。",
+                "对企业而言，政策性资金进入通常会提高项目获得社会资本跟投的概率，但企业也需要在商业化进度、合规能力与技术可持续性方面提供更明确的证明。",
+                "在全国多个城市加码AI布局的背景下，广州方案的关键变量在于项目筛选效率、投后协同能力，以及是否能与本地制造业和服务业场景形成闭环。"
+              ]
+            },
+            {
+              "heading": "观察指标与后续看点",
+              "paragraphs": [
+                "短期可关注基金管理架构、首批合作机构与首轮投资节奏，这些信息将直接反映“赛马机制”的落地强度与执行透明度。",
+                "中期可追踪被投企业在收入增长、产品交付和产业链协同上的数据，判断资金是否真正转化为区域竞争力，而非停留在项目储备层面。",
+                "截至2026年4月15日，地方AI基金竞争已进入精细化运营阶段，广州此次举措将成为观察地方资本如何服务AI实体经济的重要样本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "广州设200亿人工智能母基金，将以“赛马机制”促投资绩效",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTG90MHk1c1E5VXB6dURzWjRIYkZhQ3d5elo2TFBDVllZTnFQdUVFempEOGFSbTNFdFotR0l0dHpFWHVBbERZQjdQcmZ0dEtSclZ5bE9wYnVGMllFbEpERTB3UXpRZ1czQjc5ajhlWk5WbTFtVVZDZG1LU0JnOUdRRWlvWjIweXJ3?oc=5"
+          },
+          {
+            "label": "斯坦福发布《2026年人工智能指数报告》相关解读",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45b2lsMG1lVkYxdjRCZ042d3g2SlNDU1NNQ25VSGc1a2o0SVJ1TEVKRUlLOVlRMW9WMlZCM184a1VNck5iWklLYw?oc=5"
+          },
+          {
+            "label": "PwC研究：仅少数企业在AI竞赛中领先",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUpOa0tkbGZ3MkxLV0xQMTRjaFhSS0xkUzRheXRaUGdoWER1TzZVSy1oZmFRbXhSbHVxRDB1emJ4bDkzbVNhUUdsVTJvVTMwbV8xODVwZV9zTHZKTlA2YlZXbjhqalRyWUdDdVhzLVpwcDRWV0lXNm9VMGk2aVQtMzhwQVV6Q3ZNMWF6eHVqQ01ldzBxVmJTbDlSMjQzd1U?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTG90MHk1c1E5VXB6dURzWjRIYkZhQ3d5elo2TFBDVllZTnFQdUVFempEOGFSbTNFdFotR0l0dHpFWHVBbERZQjdQcmZ0dEtSclZ5bE9wYnVGMllFbEpERTB3UXpRZ1czQjc5ajhlWk5WbTFtVVZDZG1LU0JnOUdRRWlvWjIweXJ3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260415-auto-2-afb5d1",
+        "title": "Anthropic推软件安全项目",
+        "category": "AI新闻",
+        "date": "2026-04-15",
+        "summary": "Anthropic发布Glasswing，聚焦AI时代关键软件供应链安全。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic推软件安全项目 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年4月15日，北京时间，Anthropic公布Project Glasswing，重点指向AI时代关键软件与供应链安全。该项目体现出模型公司正从能力竞争延伸至安全工程与生态治理。",
+          "blocks": [
+            {
+              "heading": "项目背景与核心目标",
+              "paragraphs": [
+                "随着AI系统在企业生产环境中的部署加速，底层软件组件、依赖库与构建流程的安全风险被放大，任何薄弱环节都可能影响模型服务稳定性。",
+                "Glasswing被定位为面向关键软件安全的系统性项目，目标是提升从开发到部署各环节的可信度，减少高影响漏洞与供应链攻击带来的运营风险。",
+                "从行业趋势看，这类项目不再局限于传统网络安全范畴，而是与模型开发、数据治理和基础设施运维形成一体化安全框架。"
+              ]
+            },
+            {
+              "heading": "产业竞争中的安全维度",
+              "paragraphs": [
+                "AI厂商竞争正从模型性能指标扩展到安全能力、合规能力与企业可用性，安全项目的公开发布有助于增强政企客户对平台长期可控性的评估信心。",
+                "同时，第三方关于内部威胁与补丁周期压力的讨论，表明企业在采用云端AI服务时，需同步强化访问控制、审计机制与漏洞响应流程。",
+                "在采购决策层面，安全路线图、应急机制和责任边界逐步成为与价格、性能同等重要的考量条件，推动AI产品进入更成熟的企业级竞争阶段。"
+              ]
+            },
+            {
+              "heading": "落地挑战与后续观察",
+              "paragraphs": [
+                "项目能否取得实际效果，关键取决于其是否转化为可执行的工程实践，例如依赖管理标准、自动化检测能力和跨团队协同机制。",
+                "对于使用方企业而言，导入新安全框架通常伴随流程改造与成本投入，需要在开发效率与风险控制之间建立可量化的平衡。",
+                "截至2026年4月15日，Glasswing的行业意义在于进一步明确：在AI规模化商用阶段，安全能力已成为产品竞争力和市场准入能力的重要组成。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Project Glasswing: Securing critical software for the AI era",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "Palo Alto Networks关注Vertex AI内部威胁风险",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjVZU2kxOTAxenVIaVUtMTVSUFBrR0FnYk9nQVU4dkdmakJ2NTVtZXFYcnBxaUdUNWtTQ0hhOHVuS2lUd2ExOC02TU5VYzNua202ZVN3S3RMSDhtQmc4b2hPZVJKYkdLWHphZVFFaHo3ODduXzd2bzlfMW5wdEVMMkZfSTJrd3l1RFc3ZFY5TzBic25XemlmMUh2WDZrVzd3RkxjVA?oc=5"
+          },
+          {
+            "label": "The exploit gap is closing, and your patch cycle wasn’t built for this",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHdQNjJWZjd3QkJERmdxV1h0Tk4xbjdITU9lVDhrdzZDcFVfNWtvVUFaUmNwUkszUFhNbi1IcERsekN6VE01WVkteUtfVkZsZWk2UDJqZzFFZnBENFdPOTl1MkFGT2EwQnhuVFFrcTFOZ01mZS0tSFpmM0UzZXppc0NibnVZTFpEMkdwWEtUZWpsYmlTODZrbHNR?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
         "slug": "ai-news-20260414-auto-1-b9ceb3",
         "title": "诺和诺德联手OpenAI",
         "category": "AI新闻",
@@ -2023,6 +2139,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260415-auto-1-a32375",
+        "title": "Chrome提示词技能库教程",
+        "category": "AI使用教程",
+        "date": "2026-04-15",
+        "summary": "用Chrome AI Skills保存并跨页复用提示词",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Chrome提示词技能库教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-04-15，Chrome围绕Gemini上线了可保存与复用提示词的AI Skills能力。下面给出一套可直接执行的上手流程，目标是减少重复输入、提高跨页面任务的一致性。",
+          "blocks": [
+            {
+              "heading": "先完成基础配置与技能库建档",
+              "paragraphs": [
+                "第1步，确认运行环境。将Chrome更新到最新稳定版，并登录已开通Gemini相关能力的Google账号。若企业设备受策略限制，先让IT管理员确认浏览器策略未禁用实验性AI功能，避免后续看不到入口。",
+                "第2步，建立你的“提示词分类”。建议先建3个技能组：写作润色、数据整理、代码辅助。每个技能组只放同类任务，命名用“场景+动作+输出格式”，例如“周报-提炼要点-三段式”，便于后期搜索。",
+                "第3步，录入首批高频提示词。优先选择你每周重复使用3次以上的模板，并在模板中预留变量位，如“{主题}、{受众}、{字数}”。变量化后可在不同网页快速替换，避免每次重写整段提示。"
+              ]
+            },
+            {
+              "heading": "实操：一键调用与跨页复用",
+              "paragraphs": [
+                "第1步，在任一支持输入的页面打开AI Skills入口，选择已保存技能。调用后先只改变量，不改结构，这样可保持输出稳定。若首次结果偏离预期，先补充约束（语气、长度、格式），再保存为“v2”版本。",
+                "第2步，执行跨页复用。将同一技能分别用于文档页、邮件页和表单页，观察是否都能产出可用文本。若某一页面效果下降，通常是上下文不足，可在技能前加一行“当前页面目标：____”进行补充。",
+                "第3步，建立最小回路：调用技能→审阅输出→微调模板→覆盖保存。建议每次只改一个参数，例如先固定语气再调整长度，避免多变量同时变化导致无法判断改进来源。"
+              ]
+            },
+            {
+              "heading": "优化与风控：让技能长期可维护",
+              "paragraphs": [
+                "设置版本规则。对同一技能保留“基础版、精简版、严格版”三个分支：基础版用于日常，精简版用于移动端快速回复，严格版用于对外发布前的高约束生成。这样可以减少临时改模板带来的混乱。",
+                "做效果复盘。每周抽样10次调用记录，统计三项指标：一次通过率、平均修改轮次、最终可用率。若一次通过率低于50%，先检查提示词是否缺少输入条件，而不是先更换模型或工具。",
+                "注意数据边界。不要把敏感个人信息、商业机密原文直接写入可复用模板。可改为占位符输入，并在提交前人工替换。对团队协作场景，建议统一命名规范与权限，避免误用他人未验证模板。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：Chrome浏览器推出Gemini技能库",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDE2d2pUZU1HUDlLUlFhYnVILVppMW9FWXpUMGxGdjRHcGJpSldwZ0RvQkxqVnNhZHIwc2hZMWk4VHR5eWtjQ0dUSy1OME5SaU92T0FZVmlxd3BSdndXZHFGTU5Td3VCRXhDRkFIMmhzU0F2Rl9Tc1NIT0ZUZTNpdTFjNGRYUGlVTFdBOQ?oc=5"
+          },
+          {
+            "label": "新浪网：AI Skills支持保存复用提示词",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYjNsejZJVWlicTdPVjRNVWVrMnBKOTJCaUh1MEJIYmNhN2V4bzRrVGdzbWJ1YmNqZXYtcUhxeHhyVHRxU19nTzdBV0pMNEZTRTdkbDFQV29VdGZJUHVyLTlPNTNFdlJaVEx0SUwta0Uya0I2YkZ1ZGFoOW96TmM?oc=5"
+          },
+          {
+            "label": "DoNews：支持提示词跨页复用",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHNlF3MGctbVpuUjI3WU5IbUxKWDFocUdIaTJBelNoTV9VNzc3MXFwS21erkt2RnBzNUFKRDNSVXJEUEx6ekM2WF9nMDlULVczX1B1NXBBOHZyRVhpaGc?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDE2d2pUZU1HUDlLUlFhYnVILVppMW9FWXpUMGxGdjRHcGJpSldwZ0RvQkxqVnNhZHIwc2hZMWk4VHR5eWtjQ0dUSy1OME5SaU92T0FZVmlxd3BSdndXZHFGTU5Td3VCRXhDRkFIMmhzU0F2Rl9Tc1NIT0ZUZTNpdTFjNGRYUGlVTFdBOQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260414-auto-1-078df4",
         "title": "Google ADK多智能体实战",
         "category": "AI使用教程",
@@ -2457,6 +2631,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260415-auto-1-b265fe",
+        "title": "Anthropic发布Glasswing",
+        "category": "开源项目",
+        "date": "2026-04-15",
+        "summary": "Anthropic提出Glasswing，聚焦AI时代关键软件安全治理。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic发布Glasswing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月15日，Anthropic披露Project Glasswing，议题集中在AI应用扩张背景下的关键软件安全。公开信息显示，该项目强调以工程化手段降低高风险组件在训练、推理与部署链路中的暴露面。",
+          "blocks": [
+            {
+              "heading": "更新要点与定位",
+              "paragraphs": [
+                "Glasswing被描述为面向“AI时代关键软件安全”的项目，核心目标是让模型相关系统在上线前和运行中都具备更清晰的风险边界。",
+                "从发布语境看，它并非单一模型或单一扫描器，而更接近一套安全治理框架：覆盖依赖、构建、配置与运行时的组合检查。",
+                "这类项目的价值在于把安全工作前置到开发流程，减少只在事后补救的情况，尤其适用于多团队协作和频繁迭代的AI产品线。"
+              ]
+            },
+            {
+              "heading": "适用场景与实际用途",
+              "paragraphs": [
+                "对企业研发团队而言，Glasswing可用于梳理关键服务的“高影响组件清单”，并将风险分级结果与发布审批流程关联。",
+                "对开源维护者而言，该思路有助于建立更标准化的安全发布节奏，例如在版本发布前统一执行依赖与配置检查。",
+                "对安全团队而言，它提供了与AI工程团队共同协作的抓手，使安全规则可以通过流水线自动执行，而不是仅靠人工复核。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛中等：需要基本的DevSecOps能力，包括CI/CD配置、依赖管理和基础威胁建模知识。",
+                "建议先从单一高风险服务试点，建立最小可行规则集，再逐步扩展到模型训练、推理网关和数据处理节点。",
+                "在2026年的发布窗口下，团队应优先明确“必须阻断”的安全阈值，并把规则结果接入日常研发看板，避免项目只停留在概念层。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic: Project Glasswing",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+          },
+          {
+            "label": "GitHub Blog: Secure Code Game",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclhVTl9Ibl9vR0Z2blFHX2NEWnlrYUFDTHp6VmYtaFBOWS1XZ1JDMFdoZW5yUmdKYmdrREpWVTZyTUhNWm9PZnN5ZlBLUjRhM2NFN3BhSTZmUk1CWDAwT2t5M0tGTFMyODBvT0hxTlBvWDFydEl2T2pnM0RSZFpHTWxMUjBEdldiUTZXUDl6Ny01TTV3OGJIV2ItVERWMWpSeFRabGZKbDk2NkZaWDZFV1pfSQ?oc=5"
+          },
+          {
+            "label": "Let's Data Science: GitHub安全游戏",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1VraVRwaFAzeWdaUWtIcjRiOGlacE5zMXA2aWc0OUxMb2pNanZja1k1STVGQ1hSTmVoUUsyX1l1SXYxbm1JcmNXV1BfQjVvVEg3c2d2VTliMW9oMjZZTTN4bzM1eGtmNWxmY1RsNXBWYWZPWWpXZHdKUGhxTXE3WWJrWTh1dS1FNVJoLVEtZDJCTm90SE1tZkRiWFAzM1QyR3d4Tw?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5"
+      },
+      {
+        "slug": "open-source-20260415-auto-2-9c9cad",
+        "title": "AURA开源项目受关注",
+        "category": "开源项目",
+        "date": "2026-04-15",
+        "summary": "AURA作为开源AI项目被讨论其关键性，强调可治理与可复用。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AURA开源项目受关注 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月15日，围绕开源项目AURA的讨论升温。相关报道将其放在“AI时代基础能力建设”框架下，重点关注项目在可复用能力、治理规则与协作效率方面的实践价值。",
+          "blocks": [
+            {
+              "heading": "项目信号与版本语境",
+              "paragraphs": [
+                "AURA被强调“关键性”，说明其影响不只在模型效果，而在于能否成为团队可持续迭代的共同底座。",
+                "在当下AI工具快速变动的环境里，项目价值越来越取决于接口稳定性、治理机制和社区协作，而非单点性能数字。",
+                "从新闻时间点看，AURA讨论与行业对guardrails的关注同步，反映出开源生态正从“能用”转向“可管、可审计、可扩展”。"
+              ]
+            },
+            {
+              "heading": "用途与目标用户",
+              "paragraphs": [
+                "对中小团队，AURA的主要用途在于减少重复造轮子：通过可复用模块快速搭建代理、编排或数据处理流程。",
+                "对平台团队，AURA可作为统一开发基线，把日志、策略和权限控制纳入同一工程规范，降低多项目维护成本。",
+                "对社区开发者，开源形态便于二次开发与插件化扩展，有助于形成围绕真实场景的增量贡献，而不是孤立演示。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施路径",
+              "paragraphs": [
+                "上手门槛中低到中等，取决于团队是否具备基础Python工程能力、API编排经验和最基本的安全配置意识。",
+                "建议先完成本地最小闭环：单任务运行、日志可观测、失败可回滚，再逐步接入多工具链与权限策略。",
+                "在2026年4月的发布语境下，采用方应优先验证“可维护性指标”，包括升级成本、配置复杂度和社区响应速度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The AI Journal: AURA项目解读",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcEdrcGhVSHJINWZiUmJwaXhiMDNGd0hmVlU3WW5yWEVFX2ZHdjBSVHNEMEYtYXhtTkpnSnVMNXJveUFVcnAtYm1HRkpzODRnTDZlanN1S2pzQTdMUm5TbHFjSjNyS3BrcGtXZTk4NzdTSU1HdDVzM1lmZmlvS3hoMA?oc=5"
+          },
+          {
+            "label": "The AI Journal: Guardrails讨论",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmRzVXE4WDI1Z0EyTnltTkJiS0dkNjBWdGFrc09hUEViQWtINll3LUZVWHFkV05hYnk3S2VEdmh6VzNBaUNmaXI0a2lXWk05LTJ4WHlEbUNNMEtZTlhYYXRJcE16b1RDbjZvQzZ3dzlubzRnVWYyX2lvZHY3dlU2TG5zUnhQLTFHQmFHVFhyWDU?oc=5"
+          },
+          {
+            "label": "ACCESS Newswire: 浏览器Agent开源框架",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNemdVNGZHT0hwSVgxSU9oNWIxb1NVV2Noc2lnbVpXVzlCdzhXR0tDQzVSRXRweFBVN1JPYkpCbF9aSTgtX29tX1pMZWVkWGM1N2lNWjhsaUYtb0R4cFFISTJEdUZBNkJ3b3lnY0JzdmJtbF9qXzBzVEtDby1maTRsWlRGVW5NTVMxSi1IdlNKc1FPeXFaaldXQ0pqTVEtdkV1dWdselZEZFY5UFlobVp0SkVuRXMwUEtianpiUEI1dmZSS3NLWHBuNWVVLTRnTzBDUTFyNmZBMWVZaHhSQXRMWmluaW8?oc=5"
+          }
+        ],
+        "source": "The AI Journal",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcEdrcGhVSHJINWZiUmJwaXhiMDNGd0hmVlU3WW5yWEVFX2ZHdjBSVHNEMEYtYXhtTkpnSnVMNXJveUFVcnAtYm1HRkpzODRnTDZlanN1S2pzQTdMUm5TbHFjSjNyS3BrcGtXZTk4NzdTSU1HdDVzM1lmZmlvS3hoMA?oc=5"
+      },
       {
         "slug": "open-source-20260414-auto-1-d40299",
         "title": "Anthropic发布Glasswing",
