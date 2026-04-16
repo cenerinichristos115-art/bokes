@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260416-auto-1-cb8f19",
+        "title": "台积电一季度利润创新高",
+        "category": "AI新闻",
+        "date": "2026-04-16",
+        "summary": "AI需求带动台积电一季度净利同比大增，市场关注产能与资本开支。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "台积电一季度利润创新高 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月16日，北京时间，台积电披露的一季度业绩显示，公司在人工智能相关需求拉动下实现利润与营收的阶段性增长，成为半导体产业链关注焦点。",
+          "blocks": [
+            {
+              "heading": "业绩表现与核心驱动",
+              "paragraphs": [
+                "多家媒体披露，台积电2026年第一季度净利润同比显著增长，并好于市场预期。业绩改善与高性能计算、AI训练与推理芯片订单增长直接相关。",
+                "从需求结构看，先进制程在AI芯片中的占比持续上升，带动晶圆代工平均单价和产能利用率改善。这一变化也使公司在高端制造环节的议价能力相对稳定。",
+                "市场观点认为，本轮增长并非单一客户驱动，而是由云厂商、自研芯片企业和系统厂商共同推动，需求来源更趋多元。"
+              ]
+            },
+            {
+              "heading": "产业链影响与竞争格局",
+              "paragraphs": [
+                "台积电业绩走强对上游设备、材料及封测环节形成传导，尤其是先进封装与高带宽存储配套需求。AI算力扩张背景下，代工与封装协同重要性进一步提升。",
+                "与此同时，全球主要半导体制造商仍在加码先进产能建设，行业竞争重点从单纯制程节点转向良率、交付周期和系统级整合能力。",
+                "对终端品牌和云服务商而言，芯片供给稳定性与成本可控性将影响其AI产品发布节奏，产业链正在由短期抢产能转向中期资源配置。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "投资者后续将关注台积电对全年营收指引、资本开支计划以及先进封装扩产安排，这些指标将影响市场对AI景气持续性的判断。",
+                "另一个关键变量是终端AI应用落地速度。如果企业级和消费级应用持续扩大，芯片需求有望保持韧性；若应用商业化放缓，则可能影响新增订单节奏。",
+                "在政策与地缘因素层面，供应链区域化趋势仍会影响半导体制造布局。台积电如何平衡全球化产能部署与成本效率，将是中长期焦点。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CNBC：台积电一季度利润增长58%",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5"
+          },
+          {
+            "label": "France 24：AI需求推动台积电净利新高",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFRHZzhPOXpQX09rbEFPbjVDQmtfdjVMTVd4SEZBV2l1S3FFa2lUMmxub2lnSjg5UUNVQUxlY1FjbG02VlBHYW0tM2RBVTlfcmpxQ3VSb1k3V3lKdUN2YmcwbmlXQkF2TWttbktWNG51UERtRHZYc25LRlN1dlFmSjRFWFYtc3RfX2pXd1BoZGtmV19EYkNkelh5d1hnMkowR3ZuTldKdWJHbEk?oc=5"
+          },
+          {
+            "label": "新浪财经：台积电称AI需求强劲",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xaUNUdWRYb3h6cUdvLVUtcUltb29xZ2tWWkRSdWJ1MUVmNkdITWpPblhpUE1pR1NWY0ZDRGxOR0JTTjNLQlVMSFJPTQ?oc=5"
+          }
+        ],
+        "source": "CNBC",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRWZwMDJTU0dzUHVkSDZWLXNRRnVSRXlkT2lHSDY3SWppdk44dWtuYVl0OTJFRGJSU2pFblNuNkVxei1fWWlZbkVJT21BRkNVVXhjdjg2MDJLVG9lc2RkR1o5Y080ZzdzWDV6TC0zV0dZdUk1SEx0SzBxWjQyb251UEVRZldfRV9DaXNOYdIBkgFBVV95cUxPSFNUTmRES3NvLWYyNTRJNzh2WDExblRPRVpwbzZiOHRIVzA5Mm1memlLOEFZS0FoelRWREdBUVpCVnEzS0dHWloteklmLUxuRXp5eHJZWl9RT3Z1U29TOGQ1ZUc0ajlVLS1qNHVDcFNnb1p2X2RieENtWkNvZXQ0d3FPVWEtZnotQXAwSUh5QWtSdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260416-auto-2-68c23b",
+        "title": "湖南公布首批大模型名单",
+        "category": "AI新闻",
+        "date": "2026-04-16",
+        "summary": "湖南21家企业进入首批人工智能大模型拟认定名单，区域产业政策加速落地。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "湖南公布首批大模型名单 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年4月16日，北京时间，湖南公布首批人工智能大模型拟认定名单，共有21家企业入围，显示地方层面正通过认定机制推进AI产业分层培育。",
+          "blocks": [
+            {
+              "heading": "名单发布与政策信号",
+              "paragraphs": [
+                "从公开信息看，此次拟认定名单覆盖多家本地企业，释放出湖南对大模型产业链进行系统化管理和支持的政策信号。",
+                "“拟认定”意味着企业能力评估进入实操阶段，后续可能与项目申报、示范应用、财政支持及算力资源对接形成联动。",
+                "在各地加快布局人工智能产业背景下，地方认定机制正在从概念引导转向标准化筛选，强调可验证能力与场景落地。"
+              ]
+            },
+            {
+              "heading": "对企业与市场的影响",
+              "paragraphs": [
+                "对入围企业而言，名单可提升其在政府项目、行业合作和客户拓展中的可信度，有助于降低早期商业化沟通成本。",
+                "对未入围企业而言，评估维度也提供了明确参照，包括模型性能、合规治理、行业适配与服务能力等核心指标。",
+                "从市场层面看，区域产业资源将更集中流向具备工程化和交付能力的企业，行业竞争会从“模型数量”转向“应用质量”。"
+              ]
+            },
+            {
+              "heading": "下一步观察方向",
+              "paragraphs": [
+                "后续需要关注正式认定结果及配套细则，特别是是否建立动态退出、年度复评和跨区域互认机制，以确保政策执行的连续性。",
+                "同时，教育、制造、政务等高频场景是否形成可复制案例，将决定地方大模型产业能否从试点走向规模化部署。",
+                "在全国范围内，类似名单制度若持续推进，可能推动形成更统一的AI产业评价框架，促进技术、资本与需求的高效匹配。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：湖南首批大模型拟认定名单",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUxrQkJwdEhFSUhJNEtSNDRSWVhzQ1MzQ1luQ3VwaGREX0p5aWpZNWllM1BSY3hpYk9iYTU2NWJTX2xlczE1Wkl0UlV1VnI5Q0l3TXBjTnJwWm1JQWNsSVZxdXN3Y3N5di1RY1RjRDYtOS1Ta1hqQ0l2RnlobGRSaUpXSk5kRFA1?oc=5"
+          },
+          {
+            "label": "杭州网：师范生AI使用规范十条",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTktQNHVLT0Z1VGNMRTFsajlDVExVRDNCSWh6bElfYUJkOGdaRUpWNk5qeVdZVnJ6X2c0alhHS0QtRi1wLWRjbndmOXEtLWRyckpYLXJTd05BdGZEZnF2NVN3Rm9QWTFYWkNrT3AzWThCVWpNSEZLZXVueWtsUQ?oc=5"
+          },
+          {
+            "label": "经济日报系：桐庐推进无人智能装备应用",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HZXNrZDVWblhPbENrRnNNY1VyWWJ3LWpTVGMwV1ZlN1pfSEl5cVFYOGlpbGZCeE9yRThxdzBBd0M3clVEUVVEc2ZYS1V6SEdHUFdJTmZSZUxEYmI0X2hTSzhOSQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUxrQkJwdEhFSUhJNEtSNDRSWVhzQ1MzQ1luQ3VwaGREX0p5aWpZNWllM1BSY3hpYk9iYTU2NWJTX2xlczE1Wkl0UlV1VnI5Q0l3TXBjTnJwWm1JQWNsSVZxdXN3Y3N5di1RY1RjRDYtOS1Ta1hqQ0l2RnlobGRSaUpXSk5kRFA1?oc=5"
+      },
+      {
         "slug": "ai-news-20260415-auto-1-41f823",
         "title": "广州设200亿AI母基金",
         "category": "AI新闻",
@@ -2139,6 +2255,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260416-auto-1-0aee1a",
+        "title": "Chrome技能库实操教程",
+        "category": "AI使用教程",
+        "date": "2026-04-16",
+        "summary": "用Chrome Skills保存并复用提示词的落地步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Chrome技能库实操教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026-04-16的产品更新语境下，Chrome“Skills/技能库”适合用于固定高频提示词并跨页面复用。下面给出可直接执行的配置与使用流程，重点覆盖知识整理、客服回复和内容初稿三个常见场景。",
+          "blocks": [
+            {
+              "heading": "先完成最小可用配置",
+              "paragraphs": [
+                "第一步，确认浏览器与账号环境。将Chrome升级到最新稳定版，登录同一Google账号，并在AI相关入口中检查是否出现“Skills/技能库”或“保存提示词”选项。若入口未出现，先重启浏览器并检查实验功能开关，再进行后续操作。",
+                "第二步，建立技能命名规范。建议采用“场景-目标-版本”的格式，例如“客服-退款说明-v1”“运营-周报摘要-v2”。命名统一后，后续检索和迭代更快，也能避免团队成员误用旧模板。",
+                "第三步，先做3条基础技能作为起步：信息提取、结构化输出、语气改写。每条技能都包含输入要求、输出格式、限制条件三部分。先少量上线，观察一周使用效果，再扩展到更多业务场景。"
+              ]
+            },
+            {
+              "heading": "按场景设计可复用提示词",
+              "paragraphs": [
+                "知识整理场景可用模板：要求AI先提取要点，再按“结论-依据-待确认项”输出。你可以在技能中固定输出字段，减少每次手动补充格式说明。对于会议纪要，附加“标注时间与责任人”字段可提升可执行性。",
+                "客服场景建议把约束写清楚：例如“不得承诺未公开政策”“遇到退款争议先给流程再给时限”“敏感问题转人工”。把这些规则写入技能而不是临时输入，可以降低回复波动，便于质检抽查。",
+                "内容初稿场景可将语气和长度参数化，例如“正式/中性”“300字/800字”。在技能中预设两个版本：短版用于站内快讯，长版用于周报。这样可减少重复编辑时间，并让输出更稳定。"
+              ]
+            },
+            {
+              "heading": "建立迭代与风控机制",
+              "paragraphs": [
+                "建议每周做一次技能复盘，统计三项指标：命中率（是否直接可用）、修改率（人工改动比例）、错误率（事实或格式问题）。若某技能连续两周修改率高于50%，应拆分场景或重写约束。",
+                "给每条技能设置版本号和变更记录，至少包含“修改人、修改时间、修改原因”。当输出质量下降时，可以快速回滚到上一个稳定版本，避免团队在同一问题上重复排查。",
+                "最后加入合规检查：不保存个人敏感信息，不在技能中写入账号密钥，不让模型生成违法内容。对外发布文本前保留人工终审环节，尤其是涉及价格、政策、法律结论的内容。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：Chrome浏览器功能更新",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYjNsejZJVWlicTdPVjRNVWVrMnBKOTJCaUh1MEJIYmNhN2V4bzRrVGdzbWJ1YmNqZXYtcUhxeHhyVHRxU19nTzdBV0pMNEZTRTdkbDFQV29VdGZJUHVyLTlPNTNFdlJaVEx0SUwta0Uya0I2YkZ1ZGFoOW96TmM?oc=5"
+          },
+          {
+            "label": "AIBase：Chrome Gemini技能库",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11WHpfZnJUSk9ncnRvZUoyUldqYlBMWnQzMmFGRDNZVDR2VHNWNU16MzBRd2d0SElCZk5kR2NRdXlCSld2Sm41Qm5qSzIyZw?oc=5"
+          },
+          {
+            "label": "DoNews：Chrome推AI技能功能",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHNlF3MGctbVpuUjI3WU5IbUxKWDFocUdIaTJBelNoTV9VNzc3MXFwS21erkt2RnBzNUFKRDNSVXJEUEx6ekM2WF9nMDlULVczX1B1NXBBOHZyRVhpaGc?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYjNsejZJVWlicTdPVjRNVWVrMnBKOTJCaUh1MEJIYmNhN2V4bzRrVGdzbWJ1YmNqZXYtcUhxeHhyVHRxU19nTzdBV0pMNEZTRTdkbDFQV29VdGZJUHVyLTlPNTNFdlJaVEx0SUwta0Uya0I2YkZ1ZGFoOW96TmM?oc=5"
+      },
+      {
         "slug": "ai-guide-20260415-auto-1-a32375",
         "title": "Chrome提示词技能库教程",
         "category": "AI使用教程",
@@ -2631,6 +2805,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260416-auto-1-d6b301",
+        "title": "New-API修复高危漏洞",
+        "category": "开源项目",
+        "date": "2026-04-16",
+        "summary": "开源AI中转项目发布安全修复，建议立即升级。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "New-API修复高危漏洞 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年4月16日，开源AI中转站项目New-API披露并修复了一项高危漏洞。公开信息显示，漏洞可能被用于伪造充值金额，直接影响计费与资金安全。",
+          "blocks": [
+            {
+              "heading": "事件概览与影响范围",
+              "paragraphs": [
+                "此次更新的核心是安全补丁，而非功能新增。对使用New-API承接多模型调用、统一密钥管理和流量转发的团队来说，风险点主要集中在账户余额与计费链路。",
+                "如果服务商将充值、额度与调用授权直接绑定，漏洞可能引发连锁问题，包括异常请求放量、成本失控和账务对账困难。中小团队通常缺乏专门风控岗位，受影响更明显。",
+                "从开源运维角度看，这类漏洞提醒项目方在发布新版本时同步给出迁移说明、数据库校验脚本和回滚步骤，减少修复过程中的二次故障。"
+              ]
+            },
+            {
+              "heading": "项目用途与适用人群",
+              "paragraphs": [
+                "New-API这类开源中转项目常用于把不同模型供应商的接口做统一封装，便于前端或业务系统通过单一网关调用，降低多平台对接复杂度。",
+                "典型使用场景包括：多模型A/B测试、企业内部统一计费、按团队分配额度、以及在自建平台中接入外部大模型能力。",
+                "它更适合具备基础后端与运维能力的团队。若仅是个人开发者短期试用，直接使用云厂商原生API通常更省维护成本。"
+              ]
+            },
+            {
+              "heading": "上手门槛与升级建议",
+              "paragraphs": [
+                "最低门槛是具备容器部署、反向代理、日志审计和数据库备份能力。没有这些基础，安全补丁即使可用，也难以验证是否完整生效。",
+                "在升级顺序上，建议先做全量备份，再在测试环境复现充值和扣费流程，确认计费字段、权限校验和异常日志都正常后再切生产。",
+                "对外提供API服务的团队可增加临时防护：限制高频充值请求、增加管理员二次确认、对异常余额变动设置告警阈值，以降低窗口期风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "蓝点网：New-API漏洞修复",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tR0pLb3MwZ2lLWDRlNFpsVnc3Y2h1NzNUc3h6cUFZN3EwRlp1NVhvWkxaakdLRnZxbjZSMVlqOFFYd3JHdExndDFfalFXZnZILWh6YzNEOWdFLXZy?oc=5"
+          },
+          {
+            "label": "Jiemian：Hermes争议背景",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95cTBFN3B5Sm9fOUhrb3ZQMGJuZ0hHbDZnMlpGODNvLWluTzVTVmctOVd6SUhaVkZpN09KclBnb2J0dTU3OVhyOWptUjBoUVpvcVVMU2liNHU?oc=5"
+          },
+          {
+            "label": "Phoronix：开源社区代码政策",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRNHlzRHI0eFpwSWhNcEJRVV9fOFkwVHpGNFk3bkhHUDJHdThSd2E1MEtjVzQ3MkZ3ZWo2clJYWGRZZkxZTm9yYTAwRXVWWVdrUkt4ZHdhZHVzS09PWUhPUk9n?oc=5"
+          }
+        ],
+        "source": "蓝点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tR0pLb3MwZ2lLWDRlNFpsVnc3Y2h1NzNUc3h6cUFZN3EwRlp1NVhvWkxaakdLRnZxbjZSMVlqOFFYd3JHdExndDFfalFXZnZILWh6YzNEOWdFLXZy?oc=5"
+      },
+      {
+        "slug": "open-source-20260416-auto-2-dbd14a",
+        "title": "ERNIE Image Hub上线",
+        "category": "开源项目",
+        "date": "2026-04-16",
+        "summary": "ERNIE Image Hub开放免费生成与技术指标数据。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ERNIE Image Hub上线 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月16日，ERNIE Image Hub宣布上线，信息点包括免费图像生成入口、完整技术规格以及基准测试数据。对开发者而言，这意味着评估与接入成本进一步降低。",
+          "blocks": [
+            {
+              "heading": "本次发布包含什么",
+              "paragraphs": [
+                "从披露内容看，ERNIE Image Hub不仅提供可直接体验的免费生成功能，还同步公开了技术规格，便于开发者判断模型能力边界与资源需求。",
+                "基准测试数据的公开价值在于可比性。团队可基于同类任务进行横向评估，而不是只依赖宣传口径，进而决定是否纳入生产流程。",
+                "对于需要图像生成能力的产品团队，这类“可试用+可量化”的发布方式，通常比单一模型公告更利于快速立项。"
+              ]
+            },
+            {
+              "heading": "适用场景与集成方式",
+              "paragraphs": [
+                "常见用途包括营销素材草图、教育内容配图、游戏概念图初稿和电商视觉提案。在这些场景中，速度与成本往往比极致可控性更重要。",
+                "若团队已有内容审核链路，可将Image Hub作为前置生成模块，再接入本地审核与编辑系统，形成“生成-筛选-发布”的流水线。",
+                "对于多模型策略团队，Image Hub可作为候选模型之一，通过统一网关管理调用，并结合业务指标做动态路由。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "个人开发者的上手门槛相对较低，通常只需完成账号、API鉴权与基础参数配置。企业级落地则需要补齐审计、风控和版权合规流程。",
+                "在评估阶段，建议先选定固定提示词集，记录生成质量、响应时延和失败率，再与现有方案做同口径对比，避免样本偏差。",
+                "若计划上线生产，建议设置配额上限与缓存策略，并建立提示词与结果的可追溯日志，降低成本波动和内容治理压力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "24-7 Press Release：ERNIE Image Hub",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjNoNV95REk1N25CNE13Ri01U2RwRVE4cmVlTmZCMGs2Rl94Ty0tdUxCSHF3cGdUM0szTGgtUHVRNTdKSzZMRXBzUFRIVWNDd2M4dUUyMFp4V1dKejh3UTE4OXItY2pTYVBBOHdqOFltMXJha1BxSTlzcWFaRDV4NVBMQVpqQmpIZjBXNTBuT3RaNDlSZDB2ZWd1bklNZkNDYVdvYzZMNDlGcEgwLTRhTjFKLWhadWd3MmNoakNSbXZMYnRnWFQ0aXV1X28yeEd4UVhVY1Bn?oc=5"
+          },
+          {
+            "label": "MSN：NVIDIA开源量子AI模型",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2xMc2NIWjZGZXFlYmtjLURMSXdGN09Rb0Q4ZV9PcUZBNWs3Tk42RmEydUJTVkhfR1Q4VGUyVm5wdG5VRWNacHFsMDNRVkRwb1FaRFpIdzlfWFZCMk8ySkNqeUhHWFk0M1pXMGhKOFV6bUNITlhRWkJuVDVKeFdobTJ4WlcycnhjcW0xNXpkYjVoaUJUTjlxQWoxdVlUYk85eWhmbGNfWjdTbFZ1LTRxYmdn?oc=5"
+          },
+          {
+            "label": "搜狐：Ising开源模型报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXJ2djJsSkVCUGJ0cDBHa3M2cjFNSTZ3ckphWTlQUDFtem5vUTUtSVZpcllhTjJxZC1wX3lKeWJuUXFORGpqU21SMHF1SEs4YUE5UGhqaFViTVY3WnJvQnVueFBsMjd4eHFTa2p4dFFxS1V4Z1d4UWI5WGNPWEg3OWhjT0lYWk5LRTNEYQ?oc=5"
+          }
+        ],
+        "source": "24-7 Press Release Newswire",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjNoNV95REk1N25CNE13Ri01U2RwRVE4cmVlTmZCMGs2Rl94Ty0tdUxCSHF3cGdUM0szTGgtUHVRNTdKSzZMRXBzUFRIVWNDd2M4dUUyMFp4V1dKejh3UTE4OXItY2pTYVBBOHdqOFltMXJha1BxSTlzcWFaRDV4NVBMQVpqQmpIZjBXNTBuT3RaNDlSZDB2ZWd1bklNZkNDYVdvYzZMNDlGcEgwLTRhTjFKLWhadWd3MmNoakNSbXZMYnRnWFQ0aXV1X28yeEd4UVhVY1Bn?oc=5"
+      },
       {
         "slug": "open-source-20260415-auto-1-b265fe",
         "title": "Anthropic发布Glasswing",
