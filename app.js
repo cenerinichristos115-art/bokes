@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260417-auto-1-92c59e",
+        "title": "Solidroad获2500万美元A轮",
+        "category": "AI新闻",
+        "date": "2026-04-17",
+        "summary": "AI人力资源平台Solidroad宣布完成A轮融资。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Solidroad获2500万美元A轮 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月17日，AI人力资源赛道出现新融资进展。Solidroad完成2500万美元A轮融资，反映出企业对招聘、培训与组织效率数字化升级的持续投入。",
+          "blocks": [
+            {
+              "heading": "融资事件与市场背景",
+              "paragraphs": [
+                "据DoNews披露，Solidroad宣布完成2500万美元A轮融资。尽管公开信息未完整披露本轮全部投资方与估值细节，但融资规模在同类早中期AI HR项目中具有一定代表性。",
+                "从行业层面看，企业人力资源系统正从流程管理向“数据驱动决策”转型。AI工具在简历筛选、岗位匹配、面试辅助和员工服务中的应用，正在从试点走向常态化部署。",
+                "在2026年的融资环境中，投资机构更关注可量化的业务指标，例如客户留存、部署周期和单位人效提升。AI HR平台若能在这些指标上持续验证，通常更容易获得后续资金支持。"
+              ]
+            },
+            {
+              "heading": "产品价值与落地场景",
+              "paragraphs": [
+                "AI人力资源平台的核心价值在于缩短招聘与培训流程，并降低重复性运营成本。对中大型企业而言，统一的AI能力可以减少跨部门协同摩擦，提升人岗匹配效率。",
+                "结合远程与混合办公趋势，企业对自动化HR能力的需求仍在增长。相关研究显示，AI在远程场景中对生产率提升的贡献更容易被直接观测，这为HR AI产品提供了更明确的采购依据。",
+                "另一方面，AI在人才管理中的应用也受到合规和公平性要求约束。平台若要扩大企业客户覆盖，通常需要在模型可解释性、偏见控制与数据安全方面提供标准化方案。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "短期内，市场将关注Solidroad融资后的资金使用方向，包括销售网络扩展、行业化产品能力建设以及与现有HR系统的集成深度。",
+                "中期看，AI HR平台竞争将集中在“通用能力+行业模板”双轮模式。谁能更快沉淀面向不同行业的招聘与培训工作流，谁就更可能形成可复制增长。",
+                "从产业角度判断，本轮融资释放的信号是：AI应用层仍有明确增量空间，但资本更偏好具备商业闭环与可持续交付能力的团队。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DoNews：Solidroad完成A轮融资",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTkMwOTlXVFZLUllsbjk1NDhCMTdpeHVHY1gzVTVOTnlMSklXZjhHS0NnQjZxNjlRWEVvUmxFRGtnT2pSeG1fRTc0NXRqVFpIbFNqLTB4Q3YyNW9nOHc?oc=5"
+          },
+          {
+            "label": "Computerworld：远程办公生产率与AI",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkRFVEVqRklRTW9HVnBOUWxBa19YVmRUaHh0azcyclVSd2pNUktSc1poTHBzTmI5OTJJN0oxUjhiWkxaZmJ3anZDV2JMVjhadHVxZTBnSXhFZ2hKRXZHWDFWWl9iQzZHQ0pUNDdiei1OemtYc1p4MG1Xb3o1YzNob2czaXFjNkVpVW5iaGtmRFFIQ05nMzhQcXh6LWNXenpxOS1wVk5FWFFxdzh6U3c?oc=5"
+          },
+          {
+            "label": "搜狐网：AI赋能就业服务",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHRRVDU4QkNlNWstbnBPdmZvdW5kbzhieEZmc19lU3pCaEJEZWZNNW44WUFvckc3WEFTT1NobnNiQ1RoQm93MU0wVVEySEljUmtyUkFjOTFKdHNDRDhuMWFlaWsyTGNDNVU2QVgzNFQzMURkZllYVnhlSGxMRmcyNlIyWUFEVGhjNVFHcg?oc=5"
+          }
+        ],
+        "source": "DoNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTkMwOTlXVFZLUllsbjk1NDhCMTdpeHVHY1gzVTVOTnlMSklXZjhHS0NnQjZxNjlRWEVvUmxFRGtnT2pSeG1fRTc0NXRqVFpIbFNqLTB4Q3YyNW9nOHc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260417-auto-2-a69906",
+        "title": "中国加码人工智能+投资",
+        "category": "AI新闻",
+        "date": "2026-04-17",
+        "summary": "中国提出扩大人工智能+基础设施等领域有效投资。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中国加码人工智能+投资 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月17日，政策层面释放出“人工智能+”投资加码信号。围绕基础设施与相关重点领域的有效投资安排，被视作今年稳增长与培育新质生产力的重要抓手。",
+          "blocks": [
+            {
+              "heading": "政策信号与投资方向",
+              "paragraphs": [
+                "据中新网消息，中国今年将在“人工智能+”基础设施等领域扩大有效投资。该表述意味着AI相关建设将继续纳入宏观投资框架，并与产业升级目标形成联动。",
+                "从政策逻辑看，基础设施投资通常覆盖算力、数据、网络与行业平台等关键环节。其作用不仅是支持技术研发，也为应用落地提供标准化、规模化的底层条件。",
+                "在当前阶段，政策强调“有效投资”，意味着项目筛选将更重视产出效率与带动效应，避免单纯追求建设规模。"
+              ]
+            },
+            {
+              "heading": "对产业与区域的影响",
+              "paragraphs": [
+                "对产业链而言，政策加码将利好算力服务、数据治理、行业软件与系统集成等环节。企业层面的机会在于将通用AI能力转化为可部署的行业方案。",
+                "区域层面，地方正在通过创业生态政策承接AI创新项目。以海淀相关措施为例，地方政策与国家层面的投资导向有望形成配套，提升技术转化效率。",
+                "与此同时，国际合作也成为AI产业推进的一部分。中土在AI等领域达成合作协议，显示AI正在进入更广泛的跨国产业协作议程。"
+              ]
+            },
+            {
+              "heading": "2026年执行看点",
+              "paragraphs": [
+                "短期观察重点是项目开工节奏与资金到位情况，尤其是能够形成示范效应的基础设施与行业应用项目。",
+                "中期重点在于投资与应用之间的闭环：是否能够带动企业真实采购、提高行业生产率，并形成可持续商业模式。",
+                "从政策落地角度看，标准体系、数据安全和跨区域协同机制将影响最终成效。若配套规则同步完善，AI相关投资对经济结构升级的支撑作用将更清晰。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中新网：扩大人工智能+有效投资",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xVzJoVm9tTTFrLUpXdXZBVzNHRjNiNUJCWE9VdU5wTEJIbGoyalJNWjc3U0tGRmJ5VmFLVXd1SlJCajJ2SEI5LVhtbE1pQ296Vk1tTVExQm5VVzNwbEZBS2xvMDFFNU1B?oc=5"
+          },
+          {
+            "label": "能源界：中土在AI等领域合作",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NGszTTJNcVJ6b0x3b1plVC1FNzBwNWRjUFltVTcwU2U1TTdnWnhSSHZpLUFqbFp0R3MyUGJhX2dLdmJoTDRBbGUxaTJHZFA1ODRxckQ1bEgtU2M?oc=5"
+          },
+          {
+            "label": "投资界：海淀发布创业生态措施",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBob21WTm5mSmNjbk5nNnkyX2hiWl85LXdGNUFKMXA1NXI1T1ZSOVN2S1NwMmtXWW1Ib2xWQ09xQUV0YW8yeXhOUzBHMTFDbEcxNi1QZnFB?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xVzJoVm9tTTFrLUpXdXZBVzNHRjNiNUJCWE9VdU5wTEJIbGoyalJNWjc3U0tGRmJ5VmFLVXd1SlJCajJ2SEI5LVhtbE1pQ296Vk1tTVExQm5VVzNwbEZBS2xvMDFFNU1B?oc=5"
+      },
+      {
         "slug": "ai-news-20260416-auto-1-cb8f19",
         "title": "台积电一季度利润创新高",
         "category": "AI新闻",
@@ -2255,6 +2371,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260417-auto-1-c09d06",
+        "title": "AI短剧Agent实操教程",
+        "category": "AI使用教程",
+        "date": "2026-04-17",
+        "summary": "基于最新测评，给出短剧Agent选型与落地步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧Agent实操教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-17前后的公开测评与行业信息，这份教程面向内容团队、短视频工作室和个人创作者，目标是在7天内完成一次AI短剧Agent从选型到上线的闭环验证。",
+          "blocks": [
+            {
+              "heading": "先做选型：3小时内确定可用Agent",
+              "paragraphs": [
+                "第一步先设定业务目标，不要直接比功能。建议写成一页表：题材类型（情感、悬疑、都市）、目标时长（30秒或60秒）、日产量（如10条）、可接受成本（单条不超过X元）。有了这四项，后续测试才有判断标准。",
+                "第二步搭建统一测试集。准备同一批输入素材：3个主题梗概、2种角色设定、1份品牌或账号风格说明，再把这些输入分别喂给候选Agent。每个Agent都只跑同样任务，避免“题目不同导致结果不可比”。",
+                "第三步用打分卡做淘汰。建议设置5个维度：成片可用率、脚本结构完整度、镜头连贯性、修改效率、单条综合成本。每项10分，低于35分直接淘汰，留下前2名进入下一阶段灰度实战。"
+              ]
+            },
+            {
+              "heading": "再做生产：按流水线拆分到岗位",
+              "paragraphs": [
+                "把流程拆成四段：选题与脚本、分镜与画面、配音与字幕、发布与复盘。AI短剧Agent负责前两段的提效，人类负责题材判断、敏感内容把关和最终节奏校正。这样可避免“全自动后返工更多”的问题。",
+                "实操建议是建立“版本规则”：V0为Agent初稿，V1由编导改剧情冲突，V2由剪辑改节奏，V3才进入发布。每个版本只允许改固定内容，防止多人同时改同一层导致混乱。用表格记录每次修改耗时，3天后就能看出瓶颈。",
+                "在成本管理上，建议每天固定两次批量生成窗口，例如10:00与16:00，避免随时生成造成预算失控。把失败案例单独建库，按失败类型打标签（角色崩坏、口型错位、台词生硬），下一轮提示词直接复用修正模板。"
+              ]
+            },
+            {
+              "heading": "最后做风控：上线前的合规检查清单",
+              "paragraphs": [
+                "发布前设置三道检查：内容安全、版权归属、平台规则。内容安全重点检查低俗暗示、仇恨表达、未成年人不当情节；版权归属重点核查配乐、素材与角色形象来源；平台规则则按投放平台的审核细则逐条过一遍。",
+                "建议配置“高风险词与情节”拦截表。脚本生成后先做关键词扫描，再做人工抽检。对情绪冲突类短剧，要特别检查是否存在诱导极端对立的表达。若出现疑似风险，优先删改剧情节点，不要只替换个别词语。",
+                "上线后做72小时复盘：记录完播率、互动率、投诉与下架情况，并回溯到对应Agent版本和提示词。复盘目标不是追单条爆款，而是找到稳定可复制的生产参数。连续两周后，再决定是否扩大投放和招聘相关岗位。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "20多个AI短剧Agent测评",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1UldMcjNKcHJRWk1GamkwX0ttZGlUc0RuTFpPc29jVFFNMVZ3NFh5azZGb0NrUTk1YTdNV1BHRG1zaW1GaVhDSDhibzNGU3RZY3dUaHVtMjBBc3FXVU5lSQ?oc=5"
+          },
+          {
+            "label": "AI短剧行业用人趋势",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkVCM241WUlLYUVYbGduQzBON2VndTIwZ181UEwwLUJKZ1dubmo1b0VWUkpmalZzOE9EZWIta2Y5TnlFNnN0d01aaTRkRnJfaHJzZkQwOERYbUlndWhGTlE1clFOU1RJYmJ3YmdsMDhla1lxVmlKWGNJYWpfTnNMLUZR?oc=5"
+          },
+          {
+            "label": "AI内容合规风险案例",
+            "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxQRkNueUNKMGRESk5tUXhuTGpqamRVbDh3Nk9sSzM2cGpubl8xcUw2LWY1dHNlbHYtTF9Scy1SOUUxNzFZTUhlNEQ1Y1lhV2FUOTJCUDZ5OU0zeFR0cm5aSklKY3hCd2x6VnByaDBDdmVJM09CYno5RlBoUzRGVDhCYkR6YUdtclUwb0tRNmtVRmFmWlNZaXRSbXFvdXUzVHFWaWJoN2o0Mmxaekw5TmdISHlSWjhVbVRkT2hHZ3YwZHBVMXhYMEFtdTVLWS1KZkxuQVdwZ0luOWs5a0QzYllxOFRVSmlHdWotSmF5b0VIdXNwQVlSSVpBQmR5bWJTN1p3M0l4LXF2RjByTlZSNHJYMXAxYU5FbVdZZVlyRV9QYzEyejRtZy1rVl9KaEo1Q0ZZMnQ2S2dpUy1HNkVqYTBrazd5emVrSlhCam5aYUpwS1paTDdyTU5aZjhMUTdjWFBrNVFwaVB3WWE1czd1YnNWUWM0Yk9yeXlsbExEY0VSSjBHTkthS1BhN2I0UG9BUDNhNUcydHgwUk5OZ2dTVk5aRzdZOXpnV0xJbzZGb29GcHFMR00zVzY2bXFiZ3dnRDNGZEtjYTFHZ1BHYUhnclVlLV9OdVIyV1NVNXdsUm0wQko5UG80aExXVEVyeGJIcE5LemU0MUVzZVZUQXMzeWRDUm9lVjNuSER4ZHRuTnBjV1ZRYldmd0tDMUtfZTF0NEFVREdRN2JBRnJPOUNibW00MDRpZUtfSDFjNHFFOVc2MnpQRGRJQ013aU9yWnFaYVJfd09HdjZDekpmMVFLMENlOUMtZU9DZUNCUy1PT3RGVQ?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1UldMcjNKcHJRWk1GamkwX0ttZGlUc0RuTFpPc29jVFFNMVZ3NFh5azZGb0NrUTk1YTdNV1BHRG1zaW1GaVhDSDhibzNGU3RZY3dUaHVtMjBBc3FXVU5lSQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260416-auto-1-0aee1a",
         "title": "Chrome技能库实操教程",
         "category": "AI使用教程",
@@ -2805,6 +2979,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260417-auto-1-aa2c06",
+        "title": "Qwen3.6开源发布",
+        "category": "开源项目",
+        "date": "2026-04-17",
+        "summary": "Qwen团队开源视觉语言MoE模型，强调编码代理能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen3.6开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月17日，围绕Qwen3.6-35B-A3B的开源发布出现多家媒体跟进。公开信息显示，该模型采用稀疏MoE架构，定位为视觉语言与代码任务并重的通用能力模型。",
+          "blocks": [
+            {
+              "heading": "本次发布的关键信息",
+              "paragraphs": [
+                "候选信息显示，Qwen3.6-35B-A3B被描述为35B规模、约3B激活参数的稀疏混合专家模型。该设计通常用于在保持模型容量的同时控制单次推理计算量。",
+                "报道提到模型具备视觉语言处理能力，并强调了agentic coding（代理式编码）方向。这意味着它不仅回答问题，还可在多步开发任务中执行指令链。",
+                "从新闻语境看，此次属于“开源模型发布”事件而非单纯论文披露，关注点集中在可获取性与开发者可复用价值。"
+              ]
+            },
+            {
+              "heading": "适用场景与价值边界",
+              "paragraphs": [
+                "在应用层面，该模型可用于图文理解、代码生成与辅助调试等任务，适合需要统一多模态与编程能力的团队进行原型验证。",
+                "对于已有AI工程体系的团队，稀疏MoE模型可在推理成本与能力覆盖之间提供新的折中方案，但实际收益仍取决于部署框架与硬件调度能力。",
+                "需要注意的是，媒体报道侧重发布亮点，企业在评估时仍应补充基准测试、许可证条款、数据合规与长期维护计划等信息。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要体现在三方面：一是多模态数据管线准备，二是推理服务的显存与并发规划，三是代理式编码流程的安全控制。",
+                "个人开发者可先从小规模任务入手，例如单轮图文问答或代码补全，再逐步扩展到工具调用与多步任务编排，以便控制试错成本。",
+                "团队实践建议采用“离线评测先行”的流程：先建立任务集和验收标准，再决定是否进入线上灰度，从而降低因模型行为不稳定带来的工程风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost 报道",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTHljVmR5b2VTQjRKb28xUjJNTDBGMVRsQjQ3Z3RyejdiRkhhX1F1NGh3R2RFYl84TmtjTFYtSHpJbi1lZ0ViQkdnOHBPc01HRTRtaDRRSFdsSzYxREpHYkpibklUOTlPX0REWGI1OHFGalJBQ2xCckJqa1ZCUnJjaFU5VmpaSWQ5d2dwZ1doSUxkQlFBQjJOdnlpOHZPNUVzd2tsUkp2NHo0UG1yVVplcXVpYmxxNllpU0ZsM2gzT1dEc1Q5M3M0OXhEQmx5MUJiamVtaThyc3BEd0lvaGVFZjNXcktpT3Y2c3drdjhjMUY3TFN3R2I3dmZlMnFfblh2b3fSAYcCQVVfeXFMT0NBRHktWi1zRTB0TnpwVURXbkJjcDBSalRKMVlpT1lTNXRncl83RkNKVnBZclozRWt0SHp3Z28zcW5yS05OLUw1OEhFVkNiU0ItVjVnOXJQSE1rLTQ2RzhuUG1NeUNIejB0OXp4dXF0TGlfUWpYZ19YX2VwTXZvRm1LYndMR3g0NnNxOU5ia1RiTHhFZndiOGtEcUVMOV9oZVJWNUZkNURnaEk2U3ZYV2E4QWJSNjMxVVJTN3E3bGZQVGcxU2xYcWhQYTNxZ2ZId3Y3Mlg2TFhBQ3h1aldoaURjQ0hwaTQ3eWlZV0lTRG50dUlZTkFJVzhIa0gxSlhtTjJGYkRZdm8?oc=5"
+          },
+          {
+            "label": "GIGAZINE 相关报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SeHFIMFY5ZnJyT05fcmpUTWNILVM0aUl5M1RqbXFZRWEzNERmN1FjT0tDQ2hDcTJKUXpkeGIySTBzVlVMN2ktaXh5QWJOOElPbVVFZWNKR0VzeUUxN1FFcmZ6ZDluUlpS?oc=5"
+          },
+          {
+            "label": "Open Source For You 背景文",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHZ1UXMtaFFlbnpoX0hRUVl2OE1Qck5QemtLMHc5VWNES19PX0xIeDJfYjRzalJEMDl3a3dXN2dTeWNZZ3paaU5sdlFGQUtxNExrUEl1RVJSak5zVUxDMjJOcy1KVDNnSklUcVYwQjc2bTdtTmlUdHdmSVN5aHAyVzJzZlpHOU9GRHpjRXdNeHViTUk?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTHljVmR5b2VTQjRKb28xUjJNTDBGMVRsQjQ3Z3RyejdiRkhhX1F1NGh3R2RFYl84TmtjTFYtSHpJbi1lZ0ViQkdnOHBPc01HRTRtaDRRSFdsSzYxREpHYkpibklUOTlPX0REWGI1OHFGalJBQ2xCckJqa1ZCUnJjaFU5VmpaSWQ5d2dwZ1doSUxkQlFBQjJOdnlpOHZPNUVzd2tsUkp2NHo0UG1yVVplcXVpYmxxNllpU0ZsM2gzT1dEc1Q5M3M0OXhEQmx5MUJiamVtaThyc3BEd0lvaGVFZjNXcktpT3Y2c3drdjhjMUY3TFN3R2I3dmZlMnFfblh2b3fSAYcCQVVfeXFMT0NBRHktWi1zRTB0TnpwVURXbkJjcDBSalRKMVlpT1lTNXRncl83RkNKVnBZclozRWt0SHp3Z28zcW5yS05OLUw1OEhFVkNiU0ItVjVnOXJQSE1rLTQ2RzhuUG1NeUNIejB0OXp4dXF0TGlfUWpYZ19YX2VwTXZvRm1LYndMR3g0NnNxOU5ia1RiTHhFZndiOGtEcUVMOV9oZVJWNUZkNURnaEk2U3ZYV2E4QWJSNjMxVVJTN3E3bGZQVGcxU2xYcWhQYTNxZ2ZId3Y3Mlg2TFhBQ3h1aldoaURjQ0hwaTQ3eWlZV0lTRG50dUlZTkFJVzhIa0gxSlhtTjJGYkRZdm8?oc=5"
+      },
+      {
+        "slug": "open-source-20260417-auto-2-fe6538",
+        "title": "Mozilla发布Thunderbolt",
+        "category": "开源项目",
+        "date": "2026-04-17",
+        "summary": "Mozilla开源企业AI客户端执行环境，主打自托管与管理能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mozilla发布Thunderbolt 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月17日，Mozilla发布开源企业AI客户端与执行环境Thunderbolt的消息持续发酵。多篇报道一致强调其自托管导向，目标用户是需要可控部署的组织。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心能力",
+              "paragraphs": [
+                "Thunderbolt被描述为面向企业的AI执行环境，支持用户自行托管并管理AI客户端平台，而不是完全依赖外部托管服务。",
+                "这一定位对应企业对数据边界、访问控制和审计能力的常见需求，尤其适用于受合规约束较强的行业场景。",
+                "从开源属性看，项目价值在于可检视、可定制、可二次集成，便于组织将其嵌入既有身份系统与基础设施。"
+              ]
+            },
+            {
+              "heading": "适用人群与典型场景",
+              "paragraphs": [
+                "IT治理能力较强、已经具备私有云或混合云环境的团队，是Thunderbolt的主要适配对象。这类团队通常更重视主权控制与可运维性。",
+                "在场景层面，可用于企业内部知识问答、研发助手、运营自动化入口等，前提是先完成权限模型和数据分级设计。",
+                "对中小团队而言，价值在于可以先以最小可用部署验证业务流程，再逐步扩展节点与插件，不必一次性构建完整平台。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施路径",
+              "paragraphs": [
+                "上手门槛主要是基础设施运维能力，包括容器化部署、密钥管理、日志与监控体系，以及模型服务编排经验。",
+                "建议先从单部门试点开始，设定明确指标，如响应时延、权限误配率和人工接管比例，再据此优化策略与资源配置。",
+                "如果团队缺少专门MLOps人员，可采用分阶段落地：先跑通客户端托管，再接入模型与工具链，最后推进跨部门统一治理。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Ars Technica 报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTU1dlNEM2Fpd0Z6bWw0b1kwY19DaDlfMU1wenlDYXhrbk9lLUlfVk01WGlZbDdpMkV5RzlfVjVyYmtxMnNQUmpmdVJOSDlmYy10QThZM3lrU2lQRkphYldNNWJlQm5wSS00aGxYajBkZjJNcUNtd1c2cXV6bXhNd2k5Z1VxS05TcG1FSlRGT3E4SVdUM2lhMDRJWUl5T2o5R3Q5UC1pRHE0N1NfZ1JVSDR5ZmpHZw?oc=5"
+          },
+          {
+            "label": "GIGAZINE 报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xekZPWldNUnNJZkRUV0ZDVzdmdFhHQXNqWFFMdnJGWDZQUzdOdERLWHhfeXN4ZVFTRnZwalhhejdQMWRySXNYMURuclZPRWgzNWNUMmZ1bWdHZEdDazdadU9yREpUQlJoQ3F1b0MxSQ?oc=5"
+          },
+          {
+            "label": "Let's Data Science 报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1V4Um43Ym9iV25HQzdOTGxidS1sNTJrOFVZdjV6TWJUOHNuWXZEZjNuaWE0N3lYWDdsUzh2V1FjOGVqRy16TGVKNnlvTVFaaS1acFdQaEZSeEtUMEtuV1YtZnhLeVBJb0RQckFibzZkZVFIX3ViV2pxZ1VrVl9CRjdTUVlWbDRQb19UMERXeDdhV05fb3RFNkF2YzVWOWtuU3JGVg?oc=5"
+          }
+        ],
+        "source": "Ars Technica",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTU1dlNEM2Fpd0Z6bWw0b1kwY19DaDlfMU1wenlDYXhrbk9lLUlfVk01WGlZbDdpMkV5RzlfVjVyYmtxMnNQUmpmdVJOSDlmYy10QThZM3lrU2lQRkphYldNNWJlQm5wSS00aGxYajBkZjJNcUNtd1c2cXV6bXhNd2k5Z1VxS05TcG1FSlRGT3E4SVdUM2lhMDRJWUl5T2o5R3Q5UC1pRHE0N1NfZ1JVSDR5ZmpHZw?oc=5"
+      },
       {
         "slug": "open-source-20260416-auto-1-d6b301",
         "title": "New-API修复高危漏洞",
