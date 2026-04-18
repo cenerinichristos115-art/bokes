@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260418-auto-1-8de4c5",
+        "title": "Gemini应用登陆Mac",
+        "category": "AI新闻",
+        "date": "2026-04-18",
+        "summary": "Google宣布Gemini应用上线Mac端，扩展多端AI产品布局。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Gemini应用登陆Mac 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月18日，Google宣布Gemini应用已可在Mac设备上使用，标志其生成式AI助手进一步向桌面端渗透。",
+          "blocks": [
+            {
+              "heading": "产品发布要点",
+              "paragraphs": [
+                "此次更新的核心是将Gemini从网页和移动场景延展到Mac原生使用环境，降低用户在多设备间切换的操作成本。",
+                "从产品节奏看，桌面端是通用AI助手提高使用频次的重要入口，尤其面向办公、写作、资料整理等高频任务。",
+                "对Google而言，这一动作延续了其在AI助手侧的多端一致性策略，即通过统一模型能力覆盖更多终端。"
+              ]
+            },
+            {
+              "heading": "产业与竞争影响",
+              "paragraphs": [
+                "Mac端上线后，Gemini将直接进入主流生产力设备生态，与其他桌面AI助手在用户时长和工作流整合上展开竞争。",
+                "在企业场景中，桌面端部署通常意味着更明确的权限管理、账号体系对接和协作需求，这将推动产品向商业化能力深化。",
+                "从行业角度看，头部厂商正将竞争重点从单次模型性能，转向端到端体验、分发渠道和生态绑定能力。"
+              ]
+            },
+            {
+              "heading": "后续观察维度",
+              "paragraphs": [
+                "短期可关注Mac端功能与网页版、移动端是否保持同步，以及是否提供差异化能力以提升留存。",
+                "中期可观察其在订阅转化、企业采购与开发者生态接口方面的推进速度，这些因素将影响商业回报。",
+                "截至4月18日已披露信息显示，本次发布属于产品扩展型更新，后续仍需看用户规模与使用深度数据。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Google官方博客：Gemini app on Mac",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXdQVmxFWlVnUWE3WWpZZVZ3UURhZUFMalhyOGF5UGYyeVJEQ09ITlVHblh4d0VINjdLb1FLbVRxaXZOOFhhdWlDZGlmOUxlLVBSNEpBbjJyd0NCRFQwVHh6YU5WVU9zWWF0bGMtREdyZXZMSVZkcUozWGFoZWVnNFU3Rmp4XzhpRmk0?oc=5"
+          },
+          {
+            "label": "cnBeta相关AI产品动态",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpRWlOM3g1bEdWbExTMzQ0MzJRbk9PdC1rclBqVU8yT3hacC1zb3Nhc0VDb00zZWhCUk9TREphNVlFaXBJQWdfRS14VU9HTEV2SFNlNWVfSXdhYm1mdVc1MQ?oc=5"
+          },
+          {
+            "label": "AI行业周度观察",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYZVozRjlVbFJMQnZKWXFXcXlqc1B4ZWhwdHV5enZXbWxMeWFySmZzNTlIR0FjMmcwck1UWTlMXzloRTlvRkk2WTNHaWpIaktvekgxR0hkenRTRUJ1b3ltekwzR0hZNlotZ01fMVRUVW1wUVp2a2ZQbnNBX0lxZw?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeXdQVmxFWlVnUWE3WWpZZVZ3UURhZUFMalhyOGF5UGYyeVJEQ09ITlVHblh4d0VINjdLb1FLbVRxaXZOOFhhdWlDZGlmOUxlLVBSNEpBbjJyd0NCRFQwVHh6YU5WVU9zWWF0bGMtREdyZXZMSVZkcUozWGFoZWVnNFU3Rmp4XzhpRmk0?oc=5"
+      },
+      {
+        "slug": "ai-news-20260418-auto-2-15984a",
+        "title": "渝中区首批OPC社区授牌",
+        "category": "AI新闻",
+        "date": "2026-04-18",
+        "summary": "重庆渝中区首批OPC社区集中授牌，聚焦AI创业生态建设。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "渝中区首批OPC社区授牌 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月18日，重庆渝中区公布首批OPC社区集中授牌信息，释放出地方继续加码人工智能创业基础设施的信号。",
+          "blocks": [
+            {
+              "heading": "事件核心与定位",
+              "paragraphs": [
+                "首批OPC社区授牌属于区域创新平台建设动作，重点在于为AI创业团队提供更稳定的落地载体与资源协同环境。",
+                "从政策执行层面看，集中授牌有助于形成可识别的产业节点，便于后续在项目引入、服务供给和评估考核上统一推进。",
+                "该事件反映出地方政府在AI产业政策上从单点招商逐步转向生态化运营，更强调长期孵化能力。"
+              ]
+            },
+            {
+              "heading": "对产业链的实际意义",
+              "paragraphs": [
+                "对初创企业而言，社区化平台可降低早期办公、算力对接、场景验证和投融资沟通的组织成本。",
+                "对服务机构而言，集中社区能够提高法律、财税、知识产权和技术中介等专业服务的匹配效率。",
+                "对区域产业链而言，若能持续导入高校、医院、制造企业等应用端资源，AI项目从概念到商业化的周期有望缩短。"
+              ]
+            },
+            {
+              "heading": "全国动向与后续关注",
+              "paragraphs": [
+                "同日多地也出现AI相关组织与计划落地，显示地方竞争正从单一补贴转向人才、教育与应用场景的综合比拼。",
+                "后续可关注渝中区OPC社区是否公布更细化的入驻标准、支持政策和阶段性绩效指标，以提升外部可预期性。",
+                "截至目前公开信息，该项目处于首批授牌阶段，下一步成效将取决于项目质量、持续运营与跨机构协同能力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "渝中区首批OPC社区授牌",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDRYbVVpSEJpOE1JMVNNbVZhbmhldFVVSTFDZVU4YThlNFVFMXZnSVJBdDJBYlNIQ3l6dFJZSXhET1ExY1RiM1B4VTVmVVRXSEo3dnVFWXczSy1kRTJuQTlSNDlwZl9yZ3NCTzBPV1BIVFdGbFB3QjZXVzBnUUctX2dxc19qU0hNbEJvcw?oc=5"
+          },
+          {
+            "label": "广州成立产教融合共同体",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDhHWnhqaC1GNC1kYWQwSzVPVVBBX2JaVW9pRHFQc21WaTFMRjY1WnJSZ043OS1ZbkxHYjRPc3JmLXd6Q2o2UFg0Y0doWjg4Z0dVR1htRUY5YVNfN215QjloSEhVZ084Tzc1MXZ6YVZRaHNtN3loRElCMTl3dXdER0Zab2lSNDVQeGlJTQ?oc=5"
+          },
+          {
+            "label": "黄埔启动人工智能+教育计划",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS053TjVLOUk3VHNnTTJQSDY1RThlV0xVbTktS0NnMFlnaFpCTmY2NTY0Z3diZkUwbWJDMmRXeWlzdmlqQTlodkNMOXlaRE5SRjltNE1HR3lrQnQxc0FoT3Z1RlV1MkFxWFg1WGRJbm9XUjJaU243MWh4SGJyeWRVYWg5MGtfZ2hrZmdHdTBGbw?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDRYbVVpSEJpOE1JMVNNbVZhbmhldFVVSTFDZVU4YThlNFVFMXZnSVJBdDJBYlNIQ3l6dFJZSXhET1ExY1RiM1B4VTVmVVRXSEo3dnVFWXczSy1kRTJuQTlSNDlwZl9yZ3NCTzBPV1BIVFdGbFB3QjZXVzBnUUctX2dxc19qU0hNbEJvcw?oc=5"
+      },
+      {
         "slug": "ai-news-20260417-auto-1-92c59e",
         "title": "Solidroad获2500万美元A轮",
         "category": "AI新闻",
@@ -2371,6 +2487,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260418-auto-1-988515",
+        "title": "OpenAI开源模型部署教程",
+        "category": "AI使用教程",
+        "date": "2026-04-18",
+        "summary": "从环境搭建到推理优化的实操流程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI开源模型部署教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-18可获取的公开信息，下面给出一套可直接执行的OpenAI开源权重模型部署流程，重点覆盖本地推理、性能调优与稳定运行。",
+          "blocks": [
+            {
+              "heading": "第一步：完成最小可用环境",
+              "paragraphs": [
+                "先确定你的运行目标：是本地开发验证、团队共享推理服务，还是线上API化。目标不同会影响显存选择和并发配置。入门建议先做“单机单卡可跑通”，再扩展。",
+                "准备环境时，统一Python版本与依赖锁定文件，优先使用虚拟环境隔离项目。安装推理框架后，先执行官方最小示例，确认模型可加载、可生成、可重复运行。",
+                "建立基础目录结构：models、configs、scripts、logs四层分离。把模型下载脚本与推理脚本拆开，避免重复下载与误覆盖。首次成功推理后，立即保存可复现实验参数。"
+              ]
+            },
+            {
+              "heading": "第二步：搭建可维护推理工作流",
+              "paragraphs": [
+                "将推理流程拆为三个脚本：预处理、生成、后处理。预处理负责模板拼接与输入清洗；生成阶段只保留核心采样参数；后处理统一做截断、格式化和结果审计，便于定位问题。",
+                "参数管理建议采用配置文件而非硬编码。至少暴露temperature、top_p、max_tokens、batch_size四项，并记录每次运行配置。这样你可以在2026年的持续迭代中快速回溯性能变化。",
+                "为常见任务做基准集，例如问答、摘要、代码解释三类各20条样本。每次升级模型或框架后跑同一基准，比较延迟、输出长度和稳定性，避免“速度提升但质量下滑”。"
+              ]
+            },
+            {
+              "heading": "第三步：性能优化与上线建议",
+              "paragraphs": [
+                "优先做低风险优化：批处理、缓存复用和并行请求队列。若显存紧张，再考虑量化方案。量化前后需用同一基准集对比，重点看事实性错误和格式漂移，不只看吞吐提升。",
+                "上线前加入三类防护：输入长度限制、敏感指令过滤、超时重试机制。日志建议记录请求ID、参数快照、耗时分段和错误码，便于排障与容量规划。",
+                "最后做灰度发布：先给小流量真实用户，观察1到3天。若稳定，再逐步放量。每周固定复盘一次错误样例，把高频失败场景写回提示模板和后处理规则，形成可持续优化闭环。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "端到端部署指南原文",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcHhHQ3NNVktmUFJkTmd4aTJNY05IMGZMa0ZBNkdrbmI5cnk5dXJpdFlFZU1FQy1DR2llZEg4RTRqbHBYLXZfZkM5Q29fYTNzTzRfSnU5TG1nZGZ2blJ5VEdaYmQ2OVpHNUxRN1VJNThpT0h5dkZ6dkhIclRDdGhFNFRBaVBaY2FPYXZRLVJfUEdmUTlKdHVONjJmZlBqcEVHeHpBTG1aSTRqeUZPakJpekJQODJUM21qUU1SaVllTzNXTjY2WDdIcmwxNEFLLWNCVnk5UlViYWlnd3RVWFHSAeMBQVVfeXFMTnhUck9CdWw0SGNHaURRTXk1R2hCT2ltQlFPQm9ZZXhRRGdyU004aVk4WS1zTHE3bkxDZVRhOEM2X24wUTdYZlZUa1hURlkzLVg0bm1oemtTS0Joa2hrY2xMbTVOU01ERVRsaEhMSHpORXkzenBiQVd6REhGblkwcmZ5YkpvdzRwTl8zTl9VWHFFSkJzMGxiWWtvSW04b05QdFNjR1hwLTNIM0hnM1A1YjRHcWgxcmZEV0tKSVhrNGNGa3V5NmtmLURhX0JHQlpibXRhczVYZWljbWZ6YWpKd2d1XzQ?oc=5"
+          },
+          {
+            "label": "提示工程课程参考",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzFUNkpuMmExanJNejVpc2MzSGtzNEZkMkRSR01Ba2hOMG84M05KUktNUVBEUVBqX292eWpzQXl6MHZyYVlGSl9pZ1czM2lWR3U3VGlqbzVCVXVuRTE5M2hETVdMUVRtLVY1TWptNW9XM2pKVkI5S0FjUTRxSmtCblZlR0tfLTFrUGdBRVNEZGdPalJMNXpabHRzVllOdEMzZXhzdmFpNW5BbUhBeGQ3TVJyNXDSAbQBQVVfeXFMTUsxVDZKbjJhMWpyTXo1aXNjM0hrczRGZDJEUkdNQWtoTjBvODNOSlJLTVFQRFFQal9vdnlqc0F5ejB2cmFZRkpfaWdXMzNpVkd1N1Rpam81QlV1bkUxOTNoRE1XTFFUbS1WNU1qbTVvVzNqSlZCOUtBY1E0cUprQm5WZUdLXy0xa1BnQUVTRGRnT2pSTDV6Wmx0c1ZZTnRDM2V4c3ZhaTVuQW1IQXhkN01ScjVw?oc=5"
+          },
+          {
+            "label": "AI代理学习资料",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DaXlreGtnbkppMElpeXJsWmFOOVNMRVVvbXA0aWFLaDM1d0UwOGFMRWNtWFlyT1dpMHV1azJnbWpvZE5zYjNvYVRQazBDdGJ4SXptNjJsdDY0dGRjM1pIUmgxQlUwT3pvcy1oYkRlQQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcHhHQ3NNVktmUFJkTmd4aTJNY05IMGZMa0ZBNkdrbmI5cnk5dXJpdFlFZU1FQy1DR2llZEg4RTRqbHBYLXZfZkM5Q29fYTNzTzRfSnU5TG1nZGZ2blJ5VEdaYmQ2OVpHNUxRN1VJNThpT0h5dkZ6dkhIclRDdGhFNFRBaVBaY2FPYXZRLVJfUEdmUTlKdHVONjJmZlBqcEVHeHpBTG1aSTRqeUZPakJpekJQODJUM21qUU1SaVllTzNXTjY2WDdIcmwxNEFLLWNCVnk5UlViYWlnd3RVWFHSAeMBQVVfeXFMTnhUck9CdWw0SGNHaURRTXk1R2hCT2ltQlFPQm9ZZXhRRGdyU004aVk4WS1zTHE3bkxDZVRhOEM2X24wUTdYZlZUa1hURlkzLVg0bm1oemtTS0Joa2hrY2xMbTVOU01ERVRsaEhMSHpORXkzenBiQVd6REhGblkwcmZ5YkpvdzRwTl8zTl9VWHFFSkJzMGxiWWtvSW04b05QdFNjR1hwLTNIM0hnM1A1YjRHcWgxcmZEV0tKSVhrNGNGa3V5NmtmLURhX0JHQlpibXRhczVYZWljbWZ6YWpKd2d1XzQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260417-auto-1-c09d06",
         "title": "AI短剧Agent实操教程",
         "category": "AI使用教程",
@@ -2979,6 +3153,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260418-auto-1-4edb38",
+        "title": "cURL回应AI误报潮",
+        "category": "开源项目",
+        "date": "2026-04-18",
+        "summary": "维护者聚焦筛选噪声，优化开源协作流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "cURL回应AI误报潮 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年4月18日，开源网络工具 cURL 被大量“AI生成式”缺陷报告冲击，维护流程面临额外筛选压力。事件核心不在代码功能变化，而在社区协作质量控制。",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "报道显示，项目维护者近期收到显著增长的问题单，其中部分内容结构完整但技术细节不准确，疑似由大模型自动生成后直接提交。",
+                "这类报告通常包含泛化描述、复现路径模糊或与当前版本不匹配，增加了 triage（分流）与验证成本，挤占了真正缺陷的处理时间。",
+                "对高活跃开源项目而言，问题追踪系统本就是协作中枢；当低质量输入上升，维护者需要把精力从修复与迭代转向甄别与沟通。"
+              ]
+            },
+            {
+              "heading": "对开发者的实际影响",
+              "paragraphs": [
+                "普通使用者最直接的影响是反馈响应周期可能拉长，尤其在版本发布前后，维护团队优先级会更偏向可验证且带最小复现样例的问题。",
+                "对贡献者来说，提交门槛实际上提高：需要更明确的环境信息、命令参数、日志片段与预期行为，才能减少被标记为噪声的概率。",
+                "从生态角度看，这一变化提示“AI辅助提交”并非不可用，而是必须配合人工校对，否则会弱化开源社区长期依赖的信任机制。"
+              ]
+            },
+            {
+              "heading": "上手建议与门槛",
+              "paragraphs": [
+                "如果你计划参与 cURL 或类似项目，建议先阅读仓库 issue 模板与贡献指南，按模板提供版本号、操作系统、编译参数和复现步骤。",
+                "技术门槛方面，入门贡献者至少应具备基础命令行能力与网络协议常识；高级排障通常还需要抓包、日志分析和最小用例构造能力。",
+                "对于使用 AI 生成报告的开发者，实践上应把模型输出当草稿：逐项核验结论、删去猜测性描述，并补充可执行证据再提交。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech in Asia 报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19yMFBxWEdsT0NUdlI4cHU2UWQ0VFc2YzBxbzZTMTJJdGthdzB4ZUNQVWlPWGs2S3Z6c240QnhrVWlpdHJodEhBLWM5aURPdlJqdEdxNm9WNnpxb0Z0blNEMXJ6R2hPMFhzWVhiZ2RrS3Z0enBWdk9SS2RNM0xDRA?oc=5"
+          },
+          {
+            "label": "Global Voices 背景信息",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbHNUdERyNVpsQXg1em5OSUN3T3pxNG5TalJ0LXNUWVpXemJZUFh6c0xSb0lBMEFzaF95b090OEpYLUJCS0NCS1IyMGpldjdsMnI1NkFweS13dXY3VnpGQkJoN0JUcTdtclBpZ3haUE16b25yZWJCekRKSDltcEx4aHIwWk50amdPRkJTUXByR2pjN3hLQnpNVzFSMUJ4cnlaeXRXUC1XRW90Yy02Um5BTGd4dnpFNzltaU9SdGpRT29nQTRJOWJr?oc=5"
+          },
+          {
+            "label": "It's FOSS 开源治理讨论",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Qb3EtZXBOWXI3Q2c3d1FialFYUnh3UlEwNkcyMVd3MnQ1QV94ckd2OUJfam53aEJsNkEwbW5RVU9IenlPTnl3LVFxLVlYR2FZUHlfYlhZclBWUlpwbWkw"
+          }
+        ],
+        "source": "Tech in Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY19yMFBxWEdsT0NUdlI4cHU2UWQ0VFc2YzBxbzZTMTJJdGthdzB4ZUNQVWlPWGs2S3Z6c240QnhrVWlpdHJodEhBLWM5aURPdlJqdEdxNm9WNnpxb0Z0blNEMXJ6R2hPMFhzWVhiZ2RrS3Z0enBWdk9SS2RNM0xDRA?oc=5"
+      },
+      {
+        "slug": "open-source-20260418-auto-2-b59d44",
+        "title": "Codex开源化观察",
+        "category": "开源项目",
+        "date": "2026-04-18",
+        "summary": "围绕Codex开源传闻，开发场景与采用门槛受关注。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Codex开源化观察 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月18日语境下，关于 Codex 开源化的讨论升温。行业关注点集中在：代码生成能力如何落地到真实研发流程，以及团队采用时的工程门槛。",
+          "blocks": [
+            {
+              "heading": "发布信号与关注焦点",
+              "paragraphs": [
+                "相关报道将“开源化”与开发者机会绑定，强调的不仅是模型可访问性，还包括二次开发、私有部署与业务集成空间。",
+                "在当前工具链中，开发者更关心模型是否能稳定处理多文件重构、测试补全、命令行协作等高频任务，而非单次演示效果。",
+                "因此，项目热度背后实际是工程问题：上下文管理、代码库权限控制、成本可预测性与团队协作规范。"
+              ]
+            },
+            {
+              "heading": "典型用途场景",
+              "paragraphs": [
+                "第一类是研发提效：自动生成样板代码、补全单元测试、生成迁移脚本，适合中小团队在迭代早期提升交付速度。",
+                "第二类是运维与脚本自动化：结合 CLI 工具生成命令模板和排障脚本，降低重复性命令编写负担，但仍需人工审阅执行。",
+                "第三类是产品化封装：将代码助手能力嵌入内部平台，为业务团队提供受控的“自然语言到代码”接口。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "个人开发者的入门门槛相对可控：熟悉 Git、基础测试流程和提示词约束即可启动；但要得到稳定收益，仍需代码审查习惯。",
+                "团队级落地门槛更高，需建立权限边界、敏感信息过滤、自动化测试闸门和回滚机制，避免生成代码直接进入生产。",
+                "建议采用“低风险场景先行”策略：从脚本、测试、文档生成等可验证任务切入，逐步扩展到核心业务模块。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blockchain.news 分析",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDRPOWpLZGVOMUswSmxuZEtvdHZxWXpnbXhnQWp0WHhiY3ZGMEp2VUt4ZEtZOXV0TllJYkg3dXBSaHNneVJOXzhEVHU3QzV1ek1iU2ViaWlzYXpiVHIzQTNlVVl3akRuclZIQkFvRmJaTlNtVTh2XzdhYjQ2dHRteUNHSmFOVFZmamFtOHJnRHJnVDNIQnBieE9Ib1J3OW1jSWFfRGVvWkpnUFdYVm5sc2hQUWN4QVZ3QXRfcnRKa29oeGtweHhB?oc=5"
+          },
+          {
+            "label": "StartupHub.ai 示例应用",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGxqR3pldF9ta0VtLWt5TTRIekp0SUdmV0J4RlpyaURZRzREYm1oODZRWHlQQ0luZVJ1Nk9RR0ZBNnI2RFZ1V1E4SVpYcl8zeFpmS2E5OHlCWEhSenRfbDVubjdLbW5XSURLZk1LWFctUGRWcmN1US1BRkZqb09PT1hwcno1cFhwWS1PZHdDcW9XWjlyRHc?oc=5"
+          },
+          {
+            "label": "the-decoder.com 开放模型对比",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkg4N0tjVGRiSVdrYWU3Yk5yY3FJY3RWa2w3WndiNWVQcHdXS1g4b292RDRzWGlPSnNsMTFCVDBMSm1QZmRtQjZtUlFhc21ZM3JTdnN5LVlDWXV4UTVBYzNnUm5oZmhmUmUtLXkyajFMNXpNZTFiX3VMOVNiZzFUU1Z6UW01ZnZaaHI5c2V4M2puWkI3eHEzNmowSzdoaUNGRENJeUtmNTRFVEU?oc=5"
+          }
+        ],
+        "source": "blockchain.news",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDRPOWpLZGVOMUswSmxuZEtvdHZxWXpnbXhnQWp0WHhiY3ZGMEp2VUt4ZEtZOXV0TllJYkg3dXBSaHNneVJOXzhEVHU3QzV1ek1iU2ViaWlzYXpiVHIzQTNlVVl3akRuclZIQkFvRmJaTlNtVTh2XzdhYjQ2dHRteUNHSmFOVFZmamFtOHJnRHJnVDNIQnBieE9Ib1J3OW1jSWFfRGVvWkpnUFdYVm5sc2hQUWN4QVZ3QXRfcnRKa29oeGtweHhB?oc=5"
+      },
       {
         "slug": "open-source-20260417-auto-1-aa2c06",
         "title": "Qwen3.6开源发布",
