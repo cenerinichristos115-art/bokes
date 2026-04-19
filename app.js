@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260419-auto-1-efe15d",
+        "title": "STT Q1 Deep Dive:",
+        "category": "AI新闻",
+        "date": "2026-04-19",
+        "summary": "STT Q1 Deep Dive: Fee Revenue, Digital Innovation,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "STT Q1 Deep Dive: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "STT Q1 Deep Dive: Fee Revenue, Digital Innovation,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "STT Q1 Deep Dive: Fee Revenue, Digital Innovation,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "StockStory：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVk5YdU16TUNfS2ZuQ0t3WDgxUFliOEp5R1p3bG9uOEduams5anBwZW1ycjdJS1BuT250RkJjYUhRMzRPOUhNR2xESTg5T1ZOb1NvZTZSa2k0Ti13Ri04cHpId0VKUUJGWm5HekE2RU9EOHVwUWhJUzRIM3pyQ04tVUlOUEFUOTNmbURISmxYRXdOVi0ta3ZCMkQ0ZENJeTNEU1VGNWZocUpVVlVCeW9ybXFnbERMalE1NVFZS0s2UEJyS05OYnB1aW8zbEVhYVFNaDZMdUVCb29ZS3pWN0E?oc=5"
+          },
+          {
+            "label": "The Motley Fool：Prediction: The AI Supply Chain Shortage Will Create 2 New Trillion-Do",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1iTzlvNnBFN01Oa2s0Nzl6QU5OVWtZTzZZUkx1RFQ1ZzdhY3Q3d3M1b0loSWk5Y1ZVaUZrM3RERG5hMlpCNlVnMWRaUkROMlJGNnVfVFNSaUFQVERoMUxuWS1nRlZVZ0d3dF9nNWIzUjk5VkZpWWY5TEpyMThHWjd4dmNWUGxwbXNHSVZrTGNkN1BNYmVKLQ?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：“人机协同”模式推动“全民共创”时代到来 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DVmptRnBBTnU3c09uVjBPNjY5NklDME5FeHAtVGlpRUlfNHJab0htZkg4dm9GZ2NsbkpHU3ZKNVM2T1doLXBab3QxT2plZmNnMFE4N0NiTXloY2VGb18tLXkzUnd6R1BsV2E3VnJYRDBBUXpKUnc?oc=5"
+          }
+        ],
+        "source": "StockStory",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVk5YdU16TUNfS2ZuQ0t3WDgxUFliOEp5R1p3bG9uOEduams5anBwZW1ycjdJS1BuT250RkJjYUhRMzRPOUhNR2xESTg5T1ZOb1NvZTZSa2k0Ti13Ri04cHpId0VKUUJGWm5HekE2RU9EOHVwUWhJUzRIM3pyQ04tVUlOUEFUOTNmbURISmxYRXdOVi0ta3ZCMkQ0ZENJeTNEU1VGNWZocUpVVlVCeW9ybXFnbERMalE1NVFZS0s2UEJyS05OYnB1aW8zbEVhYVFNaDZMdUVCb29ZS3pWN0E?oc=5"
+      },
+      {
+        "slug": "ai-news-20260419-auto-2-1f7eed",
+        "title": "Prediction: The AI",
+        "category": "AI新闻",
+        "date": "2026-04-19",
+        "summary": "Prediction: The AI Supply Chain Shortage Will Crea",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Prediction: The AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Prediction: The AI Supply Chain Shortage Will Crea",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Prediction: The AI Supply Chain Shortage Will Crea",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Motley Fool：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1iTzlvNnBFN01Oa2s0Nzl6QU5OVWtZTzZZUkx1RFQ1ZzdhY3Q3d3M1b0loSWk5Y1ZVaUZrM3RERG5hMlpCNlVnMWRaUkROMlJGNnVfVFNSaUFQVERoMUxuWS1nRlZVZ0d3dF9nNWIzUjk5VkZpWWY5TEpyMThHWjd4dmNWUGxwbXNHSVZrTGNkN1BNYmVKLQ?oc=5"
+          },
+          {
+            "label": "StockStory：STT Q1 Deep Dive: Fee Revenue, Digital Innovation, and AI Transformati",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVk5YdU16TUNfS2ZuQ0t3WDgxUFliOEp5R1p3bG9uOEduams5anBwZW1ycjdJS1BuT250RkJjYUhRMzRPOUhNR2xESTg5T1ZOb1NvZTZSa2k0Ti13Ri04cHpId0VKUUJGWm5HekE2RU9EOHVwUWhJUzRIM3pyQ04tVUlOUEFUOTNmbURISmxYRXdOVi0ta3ZCMkQ0ZENJeTNEU1VGNWZocUpVVlVCeW9ybXFnbERMalE1NVFZS0s2UEJyS05OYnB1aW8zbEVhYVFNaDZMdUVCb29ZS3pWN0E?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：“人机协同”模式推动“全民共创”时代到来 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DVmptRnBBTnU3c09uVjBPNjY5NklDME5FeHAtVGlpRUlfNHJab0htZkg4dm9GZ2NsbkpHU3ZKNVM2T1doLXBab3QxT2plZmNnMFE4N0NiTXloY2VGb18tLXkzUnd6R1BsV2E3VnJYRDBBUXpKUnc?oc=5"
+          }
+        ],
+        "source": "The Motley Fool",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQk1iTzlvNnBFN01Oa2s0Nzl6QU5OVWtZTzZZUkx1RFQ1ZzdhY3Q3d3M1b0loSWk5Y1ZVaUZrM3RERG5hMlpCNlVnMWRaUkROMlJGNnVfVFNSaUFQVERoMUxuWS1nRlZVZ0d3dF9nNWIzUjk5VkZpWWY5TEpyMThHWjd4dmNWUGxwbXNHSVZrTGNkN1BNYmVKLQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260418-auto-1-8de4c5",
         "title": "Gemini应用登陆Mac",
         "category": "AI新闻",
@@ -2487,6 +2603,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260419-auto-1-18244c",
+        "title": "iPhone 17 Pro Max夺",
+        "category": "AI使用教程",
+        "date": "2026-04-19",
+        "summary": "iPhone 17 Pro Max夺冠、Air竟落榜！Q4畅销手机前4席Apple包揽 香港01",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "iPhone 17 Pro Max夺 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "iPhone 17 Pro Max夺冠、Air竟落榜！Q4畅销手机前4席Apple包揽 香港01",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "iPhone 17 Pro Max夺冠、Air竟落榜！Q4畅销手机前4席Apple包揽 香港01",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "香港01：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQLWdKc2paVnlPS1R1d1o4ZGxkSDlIcUxvdmlrRlRLdXM2dDRQSWxzekRZcVppTDFpVlIzYjBSbXloSXFGZkhVSEN1MXZaWTlEall6QlhiOHN1RklxX1lSZDJpVDNXeTBDMjdPbm9QRU5hdlRGZl9ZemxhaFk5Qm1VN0kyNXFSZ0ZKZnItb21OM1YyQVhralhmbTcxY3dodzBSRVg4b0UtQjFaSVdrOXU2YWpMcTR3NTJ1VmFfREhhTlQyWlk2S1NEMWtlRUtxeUVMRkV4V0VCdUk4NDg1NGlVUnZTN2xqeUZPcGc1aUpsdTNJNTNHVUZWWDU1N2RjS0FIdjdaSGkyYmxtT080ekJJRzdWY1RZb0h3dEh3UDMycXdTYVZ2XzdJNGNQU0ZOUFVQVFRjcEdkcUNMU0VPcFE?oc=5"
+          },
+          {
+            "label": "Intelligent Living：Meta's Proof-Style Structured Prompt Turns LLM Code Review into Eviden",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ETDJUT004cldNY0tWNXlRbnhkZ2cwcHZKZGRlU1NabkljMTNST0NvTjZpMGNhMHdTWWtzQlp4NGtnaVlKOUcxWnpFUEVzSHVDNDFtZjhSdU9WQngzV29pUEdIOVMyeW1FS29Tc3h6UG5TcTE2R0lnWi1Nbw?oc=5"
+          },
+          {
+            "label": "风闻：我把美国的“影子皇帝”蒸馏了 - 风闻",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ha0M1blJaLVNObVFlaWh1OVBvcGtKSHFJdHFnajRnRzFsQ1dNRlBWeEhCUDhUbHRjUEh2UWJhcmV6aGRjei0wQUZwVEo4WkpjWGRucHZ4ZmRnb0k?oc=5"
+          }
+        ],
+        "source": "香港01",
+        "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQLWdKc2paVnlPS1R1d1o4ZGxkSDlIcUxvdmlrRlRLdXM2dDRQSWxzekRZcVppTDFpVlIzYjBSbXloSXFGZkhVSEN1MXZaWTlEall6QlhiOHN1RklxX1lSZDJpVDNXeTBDMjdPbm9QRU5hdlRGZl9ZemxhaFk5Qm1VN0kyNXFSZ0ZKZnItb21OM1YyQVhralhmbTcxY3dodzBSRVg4b0UtQjFaSVdrOXU2YWpMcTR3NTJ1VmFfREhhTlQyWlk2S1NEMWtlRUtxeUVMRkV4V0VCdUk4NDg1NGlVUnZTN2xqeUZPcGc1aUpsdTNJNTNHVUZWWDU1N2RjS0FIdjdaSGkyYmxtT080ekJJRzdWY1RZb0h3dEh3UDMycXdTYVZ2XzdJNGNQU0ZOUFVQVFRjcEdkcUNMU0VPcFE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260418-auto-1-988515",
         "title": "OpenAI开源模型部署教程",
         "category": "AI使用教程",
@@ -3153,6 +3327,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260419-auto-1-105604",
+        "title": "What the Mythos se",
+        "category": "开源项目",
+        "date": "2026-04-19",
+        "summary": "What the Mythos security debate is missing and wha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What the Mythos se 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "What the Mythos security debate is missing and wha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What the Mythos security debate is missing and wha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXJCcjV2dXh4VXZWNVk1TE9TQlFBR0NDeEFyZDZVaFRIbF82dC1CbXVkWFdLYUYwd3FoMHFHUXM3QzZLdEtQSnQyT1hLenkwanRRd2hjNXB5NUcyTks3Z2VPVWJPeXpHYWpiMDFvTG9wcnRmOVczVkswZHphdHE2SHZMOE55ak1EbXI0NGlUZXdrcjBpQjBpQ29nVDhVZw?oc=5"
+          },
+          {
+            "label": "MarkTechPost：A Coding Tutorial for Running PrismML Bonsai 1-Bit LLM on CUDA with GG",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3JPbGlDOWduSmViTXgxb2xBWXJGRHBRQ19JZW5yNE1udGczSG5wNjd4Y3pPakJ6X3liTDlVS1BUc1dRUTBObF9zS1JydnZXSFFIZnVYODVMV2dycldINGFCQXJZSzZFOExPeVgyaUI1U2VHVWVTelpzZ3BsNjAtTVREVW5iYldqQmtTTk12NjNVRlZhaE4xWTliNXI2RkJsbEN5cm5vN1lFUkFZc2NHOEE2VWxwSzZ3M1hlTWQyalY0Sk9TY01zdDYzMlZzR0xBQTBja3NwS2xZbmth0gHiAUFVX3lxTE9mRmJ6SEhLTmVUcktmZ09Oc1VCUEQ3M2ZxMzRnWVZ3RXphLVBwY3FsQ2JidnRycjJXdVE3b2lEdlpObkFKWVF2Q0c2SWJzQ0NRcGJBVUhoWmZqTDJJUXlfXzBZaDFHX245RGNTZEFqUXNVNU5sZmZQcy1ZdHB5MjlFc1llWHYzRVplRzR6ZXpKYnBudTk3UUlidlpXYWxfdGxDMnJTdUc0M1ljVzZtQ0tzdTZsMXNOTlgtYUREN3FrS3FNZnZqUENIei0tVjhsbGxVSEQxaEZydktDbGZpYUY5eEE?oc=5"
+          },
+          {
+            "label": "新浪财经：这份中美AI竞争最权威报告，并没说出全部真相 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXF2Q0pucjBwUEtmN2JjVmFoU1cxVzZLcnhWbXpGUnpBd1Q3clFVWkFFZnFYV1poS24zQkhHdlNnUlZ2ZkF6eFBCcUItaVV4RWFKcElNOHVfZGhvM1NiNEpvbnRKSXRPQnVMZFo3ZjE5cEU4a1hBUkJPV25XbzlTcDRWZTd3LWlsYnY5bkZpVXExVzRDbEpJX055U2Fnakx6NFRCN0RwQVQ0enllT3QteDlWd1ZGVEJqZzJORTJsd3lPdTdkN2YtWVlvam1HSzJ3QWhMSTJ3ZVRoa1U2d3dveTBDdTczZTZqVjktYjZ2ZnJjMTk4NjhjX2Rn?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXJCcjV2dXh4VXZWNVk1TE9TQlFBR0NDeEFyZDZVaFRIbF82dC1CbXVkWFdLYUYwd3FoMHFHUXM3QzZLdEtQSnQyT1hLenkwanRRd2hjNXB5NUcyTks3Z2VPVWJPeXpHYWpiMDFvTG9wcnRmOVczVkswZHphdHE2SHZMOE55ak1EbXI0NGlUZXdrcjBpQjBpQ29nVDhVZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260419-auto-2-ea20b2",
+        "title": "A Coding Tutorial",
+        "category": "开源项目",
+        "date": "2026-04-19",
+        "summary": "A Coding Tutorial for Running PrismML Bonsai 1-Bit",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "A Coding Tutorial 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "A Coding Tutorial for Running PrismML Bonsai 1-Bit",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "A Coding Tutorial for Running PrismML Bonsai 1-Bit",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3JPbGlDOWduSmViTXgxb2xBWXJGRHBRQ19JZW5yNE1udGczSG5wNjd4Y3pPakJ6X3liTDlVS1BUc1dRUTBObF9zS1JydnZXSFFIZnVYODVMV2dycldINGFCQXJZSzZFOExPeVgyaUI1U2VHVWVTelpzZ3BsNjAtTVREVW5iYldqQmtTTk12NjNVRlZhaE4xWTliNXI2RkJsbEN5cm5vN1lFUkFZc2NHOEE2VWxwSzZ3M1hlTWQyalY0Sk9TY01zdDYzMlZzR0xBQTBja3NwS2xZbmth0gHiAUFVX3lxTE9mRmJ6SEhLTmVUcktmZ09Oc1VCUEQ3M2ZxMzRnWVZ3RXphLVBwY3FsQ2JidnRycjJXdVE3b2lEdlpObkFKWVF2Q0c2SWJzQ0NRcGJBVUhoWmZqTDJJUXlfXzBZaDFHX245RGNTZEFqUXNVNU5sZmZQcy1ZdHB5MjlFc1llWHYzRVplRzR6ZXpKYnBudTk3UUlidlpXYWxfdGxDMnJTdUc0M1ljVzZtQ0tzdTZsMXNOTlgtYUREN3FrS3FNZnZqUENIei0tVjhsbGxVSEQxaEZydktDbGZpYUY5eEE?oc=5"
+          },
+          {
+            "label": "디지털투데이：What the Mythos security debate is missing and what Anthropic must do ",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXJCcjV2dXh4VXZWNVk1TE9TQlFBR0NDeEFyZDZVaFRIbF82dC1CbXVkWFdLYUYwd3FoMHFHUXM3QzZLdEtQSnQyT1hLenkwanRRd2hjNXB5NUcyTks3Z2VPVWJPeXpHYWpiMDFvTG9wcnRmOVczVkswZHphdHE2SHZMOE55ak1EbXI0NGlUZXdrcjBpQjBpQ29nVDhVZw?oc=5"
+          },
+          {
+            "label": "新浪财经：这份中美AI竞争最权威报告，并没说出全部真相 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaXF2Q0pucjBwUEtmN2JjVmFoU1cxVzZLcnhWbXpGUnpBd1Q3clFVWkFFZnFYV1poS24zQkhHdlNnUlZ2ZkF6eFBCcUItaVV4RWFKcElNOHVfZGhvM1NiNEpvbnRKSXRPQnVMZFo3ZjE5cEU4a1hBUkJPV25XbzlTcDRWZTd3LWlsYnY5bkZpVXExVzRDbEpJX055U2Fnakx6NFRCN0RwQVQ0enllT3QteDlWd1ZGVEJqZzJORTJsd3lPdTdkN2YtWVlvam1HSzJ3QWhMSTJ3ZVRoa1U2d3dveTBDdTczZTZqVjktYjZ2ZnJjMTk4NjhjX2Rn?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3JPbGlDOWduSmViTXgxb2xBWXJGRHBRQ19JZW5yNE1udGczSG5wNjd4Y3pPakJ6X3liTDlVS1BUc1dRUTBObF9zS1JydnZXSFFIZnVYODVMV2dycldINGFCQXJZSzZFOExPeVgyaUI1U2VHVWVTelpzZ3BsNjAtTVREVW5iYldqQmtTTk12NjNVRlZhaE4xWTliNXI2RkJsbEN5cm5vN1lFUkFZc2NHOEE2VWxwSzZ3M1hlTWQyalY0Sk9TY01zdDYzMlZzR0xBQTBja3NwS2xZbmth0gHiAUFVX3lxTE9mRmJ6SEhLTmVUcktmZ09Oc1VCUEQ3M2ZxMzRnWVZ3RXphLVBwY3FsQ2JidnRycjJXdVE3b2lEdlpObkFKWVF2Q0c2SWJzQ0NRcGJBVUhoWmZqTDJJUXlfXzBZaDFHX245RGNTZEFqUXNVNU5sZmZQcy1ZdHB5MjlFc1llWHYzRVplRzR6ZXpKYnBudTk3UUlidlpXYWxfdGxDMnJTdUc0M1ljVzZtQ0tzdTZsMXNOTlgtYUREN3FrS3FNZnZqUENIei0tVjhsbGxVSEQxaEZydktDbGZpYUY5eEE?oc=5"
+      },
       {
         "slug": "open-source-20260418-auto-1-4edb38",
         "title": "cURL回应AI误报潮",
