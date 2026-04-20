@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260420-auto-1-36d104",
+        "title": "最高法拟出AI纠纷意见",
+        "category": "AI新闻",
+        "date": "2026-04-20",
+        "summary": "司法层面加快完善AI纠纷审理规则。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "最高法拟出AI纠纷意见 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月20日，北京时间，国内人工智能治理继续从产业规范走向司法规则。最高人民法院披露正抓紧起草涉人工智能纠纷审理意见，显示AI法律适用正在进入更细化阶段。",
+          "blocks": [
+            {
+              "heading": "政策信号：从原则倡议走向审判规则",
+              "paragraphs": [
+                "公开信息显示，最高法已启动涉人工智能纠纷相关意见的起草工作，重点在于“依法妥善审理”。这意味着未来相关案件在责任认定、证据审查和权益平衡上，可能出现更统一的裁判尺度。",
+                "与此前以部门规章、行业指引为主的治理路径相比，司法解释和审判指导意见更接近落地执行环节，对企业合同设计、平台治理流程和合规审计都有直接影响。",
+                "在生成式AI、智能推荐和自动化决策持续扩张的背景下，司法规则前置有助于降低交易不确定性，也为产业链上下游提供更稳定的预期。"
+              ]
+            },
+            {
+              "heading": "产业影响：平台、模型方与用户关系重塑",
+              "paragraphs": [
+                "对平台和模型服务商而言，未来合规重点可能集中在训练数据来源说明、模型输出可追溯、风险提示充分性等环节。这些环节将直接影响侵权争议和违约争议中的举证责任分配。",
+                "对企业用户而言，采购和部署AI系统时需要更加重视合同条款中的责任边界、服务等级和数据处理约定，避免在出现误判、内容侵权或业务中断时产生责任空档。",
+                "对个人用户而言，司法规则完善有望提升维权可操作性，尤其是在个人信息、名誉权益、算法歧视等高频争议点上，案件处理路径将更清晰。"
+              ]
+            },
+            {
+              "heading": "国际与区域监管对照",
+              "paragraphs": [
+                "同日可见，德国在工业AI方向讨论监管松绑，体现出“鼓励创新与风险治理并行”的政策取向。不同法域在监管强度上的差异，也将影响跨境AI产品的市场准入策略。",
+                "金融领域方面，香港金管局要求银行加强网络防护以应对AI风险，说明高敏感行业已把AI风险纳入现有审慎监管框架，强调技术应用必须匹配安全能力。",
+                "总体看，2026年AI治理进入“立法、监管、司法”协同推进阶段。企业若要稳健扩张，需要把法律合规与产品研发、商业化节奏同步规划。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "最高法：正在抓紧起草涉人工智能纠纷意见",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMVFTSU9vX3ZadE5NT1pMdkNEWmE4ZHU5TF9ZSlRWYUhzenhzRGFvZm9TZ28zWUN4aEhuZEQtVUctcEtYejlaWHhuTDlTZU9xWEZabUpxMGJDSk95WE9uQ1NfbjRGdWpsNWh5SEs2LU1zWkI2UVQwS19wZVU?oc=5"
+          },
+          {
+            "label": "金管局要求银行加强网络防护应对AI风险",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWMlVCZ2tSMTFzOHRuTEdWbWdURmxJbWVTT21jaWxBemxBU2ZVNWJ3azZCSS11RjZaZ0hHeF8xQ3pwYkR3NjFKMjhwLUZETmdscFRVamljNWFmbEJSRHl6RzNKWDZnTDl2SGc3dkhFdjhWVUE?oc=5"
+          },
+          {
+            "label": "德国推动为工业AI监管松绑",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNjJ2NWpkNnd2M2lCUnVvYXVBQkZNVFBYcjBZcWxHUUVPc09OYzluRWVKYUg5UjI4MGtVUi1nbXhOd1kxbXpoN0lZRE5yTWpSUUZwbTVkMWJhRGhjb1lISmVMdnYzM3VsUkwyREEtRG1JcXJTdXpRaGJLb2lKeDFnVTFaajdXRFZSeHVpWjV4S1VuMDBSUTVYTzJieTFNakpuakloRU1Vaw?oc=5"
+          }
+        ],
+        "source": "中国日报网",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMVFTSU9vX3ZadE5NT1pMdkNEWmE4ZHU5TF9ZSlRWYUhzenhzRGFvZm9TZ28zWUN4aEhuZEQtVUctcEtYejlaWHhuTDlTZU9xWEZabUpxMGJDSk95WE9uQ1NfbjRGdWpsNWh5SEs2LU1zWkI2UVQwS19wZVU?oc=5"
+      },
+      {
+        "slug": "ai-news-20260420-auto-2-d9a4c4",
+        "title": "谷歌或联手Marvell造芯",
+        "category": "AI新闻",
+        "date": "2026-04-20",
+        "summary": "传闻聚焦推理芯片，AI算力竞争延伸至自研。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌或联手Marvell造芯 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月20日，北京时间，市场消息称Google正与Marvell接触，讨论下一代AI芯片方案。若合作落地，重点可能放在推理侧算力优化，对云服务成本与芯片供应格局都将产生影响。",
+          "blocks": [
+            {
+              "heading": "合作焦点：从训练转向推理效率",
+              "paragraphs": [
+                "多家媒体报道显示，此次传闻中的合作方向更偏向推理工作负载，而非单纯追求训练峰值性能。该取向符合当前大模型商业化阶段对“低时延、低成本、可规模化部署”的需求。",
+                "推理芯片的竞争核心通常在能效比、内存带宽与软件适配能力。若Google与Marvell形成联合设计，可能在特定场景实现更高性价比的云端推理服务。",
+                "对企业客户而言，推理成本下降比训练成本更直接影响应用普及速度，尤其在客服、搜索、办公助手和行业Agent等高并发场景。"
+              ]
+            },
+            {
+              "heading": "产业链影响：云厂商自研趋势延续",
+              "paragraphs": [
+                "近年来，头部云厂商通过自研或联合研发芯片来提升议价能力，减少对单一GPU供应链的依赖。此次消息若成真，将延续“云平台+定制芯片”一体化路线。",
+                "Marvell在数据中心与高速互连方面具备工程积累，Google则拥有大规模AI服务与软件栈经验，双方协同的关键在于软硬件协同优化，而不只是流片本身。",
+                "资本市场层面，相关报道已被解读为AI芯片赛道竞争加剧信号，行业关注点正在从模型参数规模扩展到算力获取效率与长期TCO。"
+              ]
+            },
+            {
+              "heading": "竞争格局：Nvidia之外的第二路径",
+              "paragraphs": [
+                "Nvidia仍是当前AI算力市场的重要参与者，但云厂商推动多元芯片策略已成为明确趋势。通过定制化推理芯片构建第二路径，可在价格、供货与产品节奏上获得更大主动权。",
+                "不过，替代并非短期过程。生态兼容、开发者工具链成熟度、模型迁移成本仍是新方案能否大规模落地的关键约束。",
+                "从2026年的产业节奏看，AI基础设施竞争将更强调“系统能力”而非单点性能，芯片、框架、集群调度和行业应用的协同将决定最终商业结果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Google据称与Marvell洽谈下一代AI芯片设计",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0Y5X2pXNFB3Y2dBMm04elotaENndk5yQ1EyVXpYS0JQV0FxSXRZM29tTXdnTTVmd19TVElxdGVNcndnYVlzMkJDcU1zTHVsYlI3Mm43QjJxZEIzTzNPNGZ1UE1OVzE2TVJmXzR6aVJaNGhmdU9wUHdqSEJnSTE5WkpDWFh1d1NZckFuZ2o2SExpZk0tb3lLOTFUcFlQZTBpRDlCb1l5V0RtcjFpTVQxbXVKZmpmMDBLMFdLdDlwdWVJUQ?oc=5"
+          },
+          {
+            "label": "合作或瞄准推理负载AI芯片",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3Z4emZkUTFfRl93dGZrMndQbVNBSFVUSlJxcFY0QWowdFRGd05hZkNlUDRsZDhlS3pCaVVlelVEWGtHR0VHSUFCN3dzckc4TmFCYnlGckRpT3ZUQ0xSNThlSU1Jc1VhSWxkbWowQ01QSXh5cXM1R3Q4SkFPU0lGOEtrejBhMjQzMnNxY0RON0daYXFMT1h4c1pRSGZnMFIwUTJ5Z2V0OFhtWER3NUVDc2ZzZnFYVVFPOXJVNWdRalU?oc=5"
+          },
+          {
+            "label": "潜在合作或加剧与Nvidia竞争",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUhmRDBJeE1KWWRBNUVNeWxFTy1qdWV6QlRvdmlLYy15Vnp2dWVoM1VrUVZ6anNabXRFeXBZSGRfOHlqdDlNUDh2WXRsVm5lRllaSlVfSzF6cDlpS2lVUWV4ZmxHNHV3QXBjOFdQejNhaEFnZjNYY0w0RXBwS2h6ekttSU82ZHFOYmVCV3RrN3BhM0pEMEZZQnJIVm1SZUg1OEJ1aFVVUXlRM3ZmY2c?oc=5"
+          }
+        ],
+        "source": "Siliconindia",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU0Y5X2pXNFB3Y2dBMm04elotaENndk5yQ1EyVXpYS0JQV0FxSXRZM29tTXdnTTVmd19TVElxdGVNcndnYVlzMkJDcU1zTHVsYlI3Mm43QjJxZEIzTzNPNGZ1UE1OVzE2TVJmXzR6aVJaNGhmdU9wUHdqSEJnSTE5WkpDWFh1d1NZckFuZ2o2SExpZk0tb3lLOTFUcFlQZTBpRDlCb1l5V0RtcjFpTVQxbXVKZmpmMDBLMFdLdDlwdWVJUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260419-auto-1-efe15d",
         "title": "STT Q1 Deep Dive:",
         "category": "AI新闻",
@@ -2603,6 +2719,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260420-auto-1-8943b1",
+        "title": "华硕显卡开启DLSS4.5",
+        "category": "AI使用教程",
+        "date": "2026-04-20",
+        "summary": "面向玩家的DLSS4.5实操步骤与排错清单。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "华硕显卡开启DLSS4.5 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-04-20，DLSS4.5相关话题在玩家圈关注度较高。下面给出一套可直接执行的设置流程，目标是在保证画质可接受的前提下，提高游戏帧率并减少卡顿。",
+          "blocks": [
+            {
+              "heading": "步骤一：先做环境检查",
+              "paragraphs": [
+                "确认硬件与系统：检查显卡型号、显示器分辨率、系统版本是否为稳定更新版本。建议先记录当前游戏平均帧率，作为开启DLSS4.5后的对照数据。",
+                "更新驱动与游戏补丁：进入显卡驱动管理工具安装最新稳定版驱动，再在游戏平台更新游戏到最新版本。驱动和游戏版本不匹配是DLSS选项缺失的常见原因。",
+                "关闭干扰项后重启：临时关闭第三方性能覆盖层、录屏叠加层和冲突插件，完成后重启电脑。这样可以减少设置项不生效、进游戏闪退等问题。"
+              ]
+            },
+            {
+              "heading": "步骤二：在游戏中启用DLSS4.5",
+              "paragraphs": [
+                "进入游戏图形设置，先将渲染模式切换到支持DLSS的图形API，再开启DLSS选项。若看不到对应开关，先退回主菜单再进入设置页面，避免界面缓存导致选项不刷新。",
+                "按分辨率选择档位：1080p可优先“质量”或“平衡”，2K常用“平衡”，4K可从“性能”起步再逐步上调。每次只改一个参数，便于判断是哪个选项带来提升或画质下降。",
+                "配合帧生成与锐化参数：若游戏支持帧生成，可先开启后观察延迟变化；锐化建议小幅调整，避免出现边缘过硬和噪点感。建议在固定场景下连续测试3分钟以上。"
+              ]
+            },
+            {
+              "heading": "步骤三：实测、记录与排错",
+              "paragraphs": [
+                "建立对照测试：分别记录“关闭DLSS”“开启DLSS4.5默认档”“开启DLSS4.5+帧生成”三组数据，至少关注平均帧、1% Low帧和输入延迟体感，避免只看峰值帧率。",
+                "常见问题处理：若出现画面拖影，先降低帧生成相关设置并提高基础渲染比例；若出现文字发虚，适当提高DLSS档位或降低锐化；若帧率波动大，检查后台占用和温度墙。",
+                "形成个人预设：把不同游戏类型分成“竞技类低延迟预设”和“单机类高画质预设”，并保存截图记录参数。后续更新驱动后只需复测关键场景，可快速恢复稳定配置。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "驱动之家：华硕显卡如何开启DLSS4.5",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpVmlXXzAzeERHS1d1ZkpiaUcwclh2UWxLcnE0cElwQWR3b0JOdFBjXzNsUjJ6ZGRXV2NNbUpJS2JQeTBnZm8zTmgwTFFSM09mOFZCR1R4OEM?oc=5"
+          },
+          {
+            "label": "51CTO：AI智能代码审查系统实践",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53QnBhVTI5eUI3Mk9BS01sOGM4aUIydlhBamFxbkZ6MDVCOEI2ZnQ0S2xuZ0FEQ2l6MEx2ZVRJVkJ5N1N5ZldLWkoxMm8yQlhfSzNR?oc=5"
+          },
+          {
+            "label": "创业邦：AI编程还需要学习么",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdS04MGNLd01MU01TSDFXMjJ3VFFSdEJnem5fdjdhYW14bVUwV29nYVdJUDBENVRjeFFCWFlzTlBtYW5ma25vYmZRLXplOUhS?oc=5"
+          }
+        ],
+        "source": "驱动之家",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpVmlXXzAzeERHS1d1ZkpiaUcwclh2UWxLcnE0cElwQWR3b0JOdFBjXzNsUjJ6ZGRXV2NNbUpJS2JQeTBnZm8zTmgwTFFSM09mOFZCR1R4OEM?oc=5"
+      },
+      {
         "slug": "ai-guide-20260419-auto-1-18244c",
         "title": "iPhone 17 Pro Max夺",
         "category": "AI使用教程",
@@ -3327,6 +3501,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260420-auto-1-24eaf4",
+        "title": "Mozilla发布Thunderbolt",
+        "category": "开源项目",
+        "date": "2026-04-20",
+        "summary": "面向企业内网的开源自托管AI客户端上线",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mozilla发布Thunderbolt 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月20日（北京时间），Mozilla 相关团队发布开源项目 Thunderbolt，定位为企业可自托管的AI客户端，重点是把模型调用与数据流转留在组织内部环境。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心用途",
+              "paragraphs": [
+                "Thunderbolt 面向企业办公与内部知识场景，提供统一的AI交互入口，减少员工在多个模型服务之间切换的成本。",
+                "其“自托管”特性意味着部署方可将系统放在本地机房或私有云，适合对数据合规、审计和网络边界有明确要求的团队。",
+                "从报道描述看，项目强调客户端形态与企业集成能力，目标不是替代大模型本身，而是作为组织级AI接入层。"
+              ]
+            },
+            {
+              "heading": "开源价值与更新意义",
+              "paragraphs": [
+                "这次发布的关键点在于开源与企业化同时推进：开发者可审视代码路径，IT团队可按自身安全策略做二次改造。",
+                "相较托管SaaS方案，Thunderbolt 给了组织更多可控项，包括日志管理、权限体系对接以及模型路由策略的自主调整。",
+                "在当前企业导入AI的阶段，这类项目的现实意义在于降低试点阻力，让技术团队先在受控范围内验证业务价值。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要在基础设施与运维：需要具备容器部署、身份认证接入、反向代理与证书管理等常规企业能力。",
+                "对于中小团队，建议先以单部门试点，限定模型范围和数据域，优先验证问答、检索增强和文档助手等低风险场景。",
+                "对大型组织，可将其接入现有IAM与审计系统，先建立最小可用治理框架，再逐步扩展到跨部门协同使用。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Let's Data Science 报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNi1UdDJSeDN1TGxqa3ZoUzRHaE1RYnBWR0ptMGVQMm9YYUJFRVI2WkZqdDVERXRDNVkyTmZIUTlMN3V3OHpCTlhMbGZ4MjRiUXlFbHZabjBKOV9sMGRaLUlERTY1ZDdWRHc4X2p5NVhGME1vVzFvMnBKMGttaWtBbXJyOFhsam9kUUg2X2MwS1FEODVfaUNSMGdXdGwyRC1HcXhlUw?oc=5"
+          },
+          {
+            "label": "gHacks 报道",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlprQ2R0Z29tZVBrczUzZzJ0cmlMVGZOWFVMQUVjalM5bWNjczV3cVZlNVF0dnNBWW12SFM4M0dpWE05MWdKNHcyeGtQMWU4TVhQSWMyeDR3bnlFamdQdVNHanhaazg2MmxURzhMeDFQUV9nQUZHdDdialJJMGRoVmN1TXdKbFZCbHdpbDV3cUZVWTJlaHZ2NGc5eGJhXzVneTMyVHZBLTM2VmVqaDZFWVl3cmJNOHNUbDNhX2t4RlBkeFFZYUFYbHdB?oc=5"
+          },
+          {
+            "label": "Forbes 开源AI趋势观察",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHY3MUxrcnMycHA3Z0p5MlVTdGJXU0FoQ2Q5c1JJcmNQX3ZTYUkxR3FZYVQtRkJadVJELVl1bW02UklzWFoyc1M3WDV3TU9neHVBdlYzUzN6cUJucWxfZS0zNkFSdzFTZnBrQzRQY2RFVWdhNkVCeTBLNnBqS2s2aGxoczNwdGh0dlhiOUVvd25pblpIT2ZWSzlWVzVJX0YxbzI4Z28tZw?oc=5"
+          }
+        ],
+        "source": "gHacks",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlprQ2R0Z29tZVBrczUzZzJ0cmlMVGZOWFVMQUVjalM5bWNjczV3cVZlNVF0dnNBWW12SFM4M0dpWE05MWdKNHcyeGtQMWU4TVhQSWMyeDR3bnlFamdQdVNHanhaazg2MmxURzhMeDFQUV9nQUZHdDdialJJMGRoVmN1TXdKbFZCbHdpbDV3cUZVWTJlaHZ2NGc5eGJhXzVneTMyVHZBLTM2VmVqaDZFWVl3cmJNOHNUbDNhX2t4RlBkeFFZYUFYbHdB?oc=5"
+      },
+      {
+        "slug": "open-source-20260420-auto-2-a4a9a0",
+        "title": "SentiAvatar宣布开源",
+        "category": "开源项目",
+        "date": "2026-04-20",
+        "summary": "交互式3D数字人框架开放，面向内容与客服",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SentiAvatar宣布开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月20日（北京时间），SentiPulse 与 GSAI 宣布将 SentiAvatar 作为交互式3D数字人框架开源，项目面向实时互动、虚拟形象驱动与场景化部署。",
+          "blocks": [
+            {
+              "heading": "项目能力与典型场景",
+              "paragraphs": [
+                "SentiAvatar 的定位是“可交互3D数字人框架”，覆盖形象构建、动作驱动与交互链路，适用于客服接待、教育演示和内容制作。",
+                "与纯2D数字人方案相比，3D框架更适合多视角展示和沉浸式场景，对品牌展示与虚拟主持等应用更友好。",
+                "开源后，团队可在统一底座上组合语音、文本和动作模块，缩短原型开发周期。"
+              ]
+            },
+            {
+              "heading": "此次开源的关键变化",
+              "paragraphs": [
+                "本次信息的重点是“正式开源”，意味着开发者可直接评估框架架构、接口设计与可扩展性，而非仅使用封闭服务。",
+                "对于企业用户，这种模式便于做私有化改造，例如接入本地知识库、替换语音引擎或添加行业术语控制。",
+                "对生态而言，开源能推动插件化协作，第三方可围绕渲染、驱动、对话策略提供补充组件。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施路径",
+              "paragraphs": [
+                "门槛主要来自图形与实时系统能力：需要处理3D资源管线、推理延迟、设备性能与网络传输稳定性。",
+                "建议新团队先从单角色、单场景开始，优先验证口型同步、动作连贯与交互响应，再扩展到多角色编排。",
+                "若用于生产环境，应同步建立内容审核、日志留存和异常降级机制，确保数字人服务可持续运行。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ANTARA News 报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3BIYlo1NlRwQjhXalFHMjNVV1FBR3ZVTnR2QjZ6Rlp1VFJhLWpiSFVkbUNvbzg2aTZHaUtWZDBaeGZUaXdMT2JVVnJEaWgzQXNuWDFBWlRhRm1hUGgwaEp4eFI2VUhVWnN2QWhIY1RPeGV5Z1hFdEdmc3Jfdm41QlFzcHZkNURtVmlPdWR2ODF4ZFVHMnBGWEpJT0lOVjllSUVJVWdPb3dra2Z4ZVVEZmd2MjZ0NDhGZVZkVWZYOXo5Yjh0U21neHh1SjNGMkttNkxOdEZn0gHbAUFVX3lxTE00cTFkSFkwT0k3VFUyREpJb255SGJiTk9RajdzZWxjMzFXTGRsREQ5RGtRd29sRjJ2ODQ2SHZNSmoyUy1MQkhoV1ROY1ktUEtXMXFEdHFQUFdNcWRtZ1NvZV9kRjUzOEVRc1VJZW4xUDRhSmpsUnRHMHh4dkh6Q0dVZGJyR0lXYldjbmprYXVMVVd6Sl9SWjFweURyUmRLaFZfYjNiTE12Q0FiQXk0bkNCOUlqSGNjZ2xKd1JBRFVnb3pvMUVPNkF3WFY1TU5lVzFCcHZoZWhiQTA2Yw?oc=5"
+          },
+          {
+            "label": "Let's Data Science 报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbGVldVVmZWRPcWlpbGptZWo5SEJpMkFyVGd2ek1IbzhLQXYwaFM5WmdlRzBNeFYtal9WWmpuT21HQU9BMllZenh4Wm5SVEktcnNuMGUxN2U3czJXZ0M4aXhXX1poTzAwaDNLQ1ZxeGctTzVmUWYzSndQaUlnZWlnRllxd3JTOGZZWEwtbFlXWlpMckpJSDlyUEYzYWJYWlFWTl9pRA?oc=5"
+          },
+          {
+            "label": "AIBase 关于开源3D生成动态",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kdkZVeXNxMGJkTmFwemJoV3JIclJ6UWNONW9DWWR3Y3VvOFUyLVFGZVotd29Oc3ZwNUJIVDVTOVA4OFcxbjRsNXZldVNYZw?oc=5"
+          }
+        ],
+        "source": "ANTARA News",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ3BIYlo1NlRwQjhXalFHMjNVV1FBR3ZVTnR2QjZ6Rlp1VFJhLWpiSFVkbUNvbzg2aTZHaUtWZDBaeGZUaXdMT2JVVnJEaWgzQXNuWDFBWlRhRm1hUGgwaEp4eFI2VUhVWnN2QWhIY1RPeGV5Z1hFdEdmc3Jfdm41QlFzcHZkNURtVmlPdWR2ODF4ZFVHMnBGWEpJT0lOVjllSUVJVWdPb3dra2Z4ZVVEZmd2MjZ0NDhGZVZkVWZYOXo5Yjh0U21neHh1SjNGMkttNkxOdEZn0gHbAUFVX3lxTE00cTFkSFkwT0k3VFUyREpJb255SGJiTk9RajdzZWxjMzFXTGRsREQ5RGtRd29sRjJ2ODQ2SHZNSmoyUy1MQkhoV1ROY1ktUEtXMXFEdHFQUFdNcWRtZ1NvZV9kRjUzOEVRc1VJZW4xUDRhSmpsUnRHMHh4dkh6Q0dVZGJyR0lXYldjbmprYXVMVVd6Sl9SWjFweURyUmRLaFZfYjNiTE12Q0FiQXk0bkNCOUlqSGNjZ2xKd1JBRFVnb3pvMUVPNkF3WFY1TU5lVzFCcHZoZWhiQTA2Yw?oc=5"
+      },
       {
         "slug": "open-source-20260419-auto-1-105604",
         "title": "What the Mythos se",
