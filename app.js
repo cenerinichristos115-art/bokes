@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260421-auto-1-3cf7ef",
+        "title": "ServiceNow完成收购Armis",
+        "category": "AI新闻",
+        "date": "2026-04-21",
+        "summary": "ServiceNow以77.5亿美元完成Armis收购，强化AI安全布局。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ServiceNow完成收购Armis 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月21日北京时间，企业软件与网络安全赛道出现一笔大额并购。ServiceNow宣布完成对Armis的收购，交易规模为77.5亿美元，市场关注点集中在AI驱动安全能力的整合速度与商业化节奏。",
+          "blocks": [
+            {
+              "heading": "交易落地与战略方向",
+              "paragraphs": [
+                "此次收购属于已完成交割的并购事件，不再停留在意向阶段。对ServiceNow而言，这意味着其在IT运营、自动化流程之外，进一步把安全资产纳入统一平台能力。",
+                "Armis在资产可视化与安全暴露管理方面具有行业客户基础，与ServiceNow既有的企业流程产品形成互补。双方整合后，可能在威胁响应、工单编排与合规审计链路上形成更完整闭环。",
+                "从行业视角看，AI应用深化正在抬高企业对安全与治理的预算优先级。大额并购反映出头部厂商倾向于通过资本手段补齐能力，而不是完全依赖内部研发。"
+              ]
+            },
+            {
+              "heading": "对产业与客户的影响",
+              "paragraphs": [
+                "企业客户最关心的问题是整合后的产品路线是否稳定，包括接口兼容、部署复杂度和订阅成本变化。若整合顺利，客户可在更少系统间切换完成安全运营任务。",
+                "渠道与生态层面，收购通常会带来合作结构重排。原有合作伙伴可能面临新的认证、分销与服务边界，这将影响中短期项目交付节奏。",
+                "在竞争格局上，其他平台型厂商可能加快安全能力并购或联盟合作。AI安全从单点工具竞争，逐步转向平台化与场景化竞争。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "第一是产品整合时间表，包括功能并轨、品牌策略与客户迁移政策。若节奏明确，可降低市场对执行风险的担忧。",
+                "第二是财务表现与协同兑现，市场将关注并购后续的收入增量、续费率与毛利影响。大额收购的估值合理性通常需要多个季度验证。",
+                "第三是监管与合规环境变化。随着全球对AI安全和数据治理要求提升，平台厂商在跨区域服务中需持续平衡创新速度与合规成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CTech：ServiceNow完成收购Armis",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaOVdLcW1wY0lJYW5qQUphQVVNTXI5Ym12REtLdWNOekNKSTBBYUxiR25NYTFubnFnZTZ2cDVpUDNxQ2xwand0eWQ1SmdoRUxKSjNZSjNzcnJjMDBhbmZ4TVN4OGRJUXo1YWc?oc=5"
+          },
+          {
+            "label": "NDTV：WHO关注欧洲医疗AI安全",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzZUQlpDMW5sSFB6Ri1RVTI1SHVTelFObnZEQkhnX0MzS09Wd3JTNThJeFJHdXI4UWNDdVJHa3cwQzd0UUYyQTJPRHNKTG9zbDJ3N1pIa2U1YXhFbkJZZ1NNU3pvSlJWTnQ1eGIyc2ZNdkpXMEhFX0xXRkdSZUFVZXBQdzBvdFRFYUUwMmpLY0hWY3BNUUUw0gGfAUFVX3lxTE1jV01sLXFYZjdZamw4cGhqX21PNmxvdGhVYVRiOXJPekY3dm1QdUtfckV3SmJxc2lCNW5YdnFuLUF2a0JyakRXMmNzNzRJTjNnS19HMkU4ZHVyQkZNcjRXbWZlMG9Fbm1NWDBVa1RKdWNmT3Z6azByRlJpZm1VQTRUcEs5cjZXNVoxSWhaS2hYOWg5TWo5MkJTNWpxa3c5dw?oc=5"
+          },
+          {
+            "label": "Open Magazine：AI与财富管理变革",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEcxQkhLQkhseFR2ZXlaZzZIQXJIdzlGVG1Xb0hBc053WU03bjRTVkxoQVlZVThYNnYxVUdjTGgzU0RxTENkb0Z3TDFQZTM1QjB2eGJ1UTVpbV9WTmotZXF6WkFINlB1bTdzZnJ3Ukw4X19pWm5jc3pxTGo5RERZNFN3RFRfOGRvZzJJdEEzRzE5bjI4MXo3cEFwc2YtbzYzYnBZM0tITEs?oc=5"
+          }
+        ],
+        "source": "CTech",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaOVdLcW1wY0lJYW5qQUphQVVNTXI5Ym12REtLdWNOekNKSTBBYUxiR25NYTFubnFnZTZ2cDVpUDNxQ2xwand0eWQ1SmdoRUxKSjNZSjNzcnJjMDBhbmZ4TVN4OGRJUXo1YWc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260421-auto-2-bf4070",
+        "title": "成都启动AI教育示范基地",
+        "category": "AI新闻",
+        "date": "2026-04-21",
+        "summary": "成都启动“人工智能+教育”示范基地，推进教育场景落地应用。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "成都启动AI教育示范基地 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月21日北京时间，地方“人工智能+教育”项目继续推进。成都宣布启动创新应用示范基地，目标是把AI能力从概念验证推进到可复制的教学与管理场景。",
+          "blocks": [
+            {
+              "heading": "项目定位与建设重点",
+              "paragraphs": [
+                "示范基地的核心任务是形成可落地的应用范式，包括教学辅助、学习评价、校园治理与资源调度等环节。与单点试验不同，基地更强调系统性建设。",
+                "在实施层面，项目通常涉及教育主管部门、学校、技术企业和服务机构协同。通过统一标准与场景清单，可降低学校端重复采购与系统割裂问题。",
+                "政策导向上，此类基地也承担区域产业联动功能，既服务教育数字化，也为本地AI企业提供真实应用环境与迭代反馈。"
+              ]
+            },
+            {
+              "heading": "产业链机会与风险边界",
+              "paragraphs": [
+                "对厂商而言，教育场景需求稳定、规模可观，但对效果评估和合规要求较高。产品不仅要能用，还要可解释、可审计、可持续运维。",
+                "数据治理是推进重点。涉及未成年人数据时，采集范围、存储周期与调用权限需要更严格边界，避免技术应用快于治理框架。",
+                "从采购与交付看，学校端更关注总拥有成本与教师可用性。若培训与运维不到位，项目易停留在展示层面，难以形成长期价值。"
+              ]
+            },
+            {
+              "heading": "区域政策协同趋势",
+              "paragraphs": [
+                "同日公开信息显示，上海也在推进通用AI、智能软件与智算系统攻关，体现地方在技术研发与行业落地两端同步发力。",
+                "成都示范基地可被视为应用端抓手，若与算力、模型、内容平台形成联动，区域教育AI生态有望加快成熟。",
+                "后续观察重点包括示范学校覆盖范围、项目评估指标公开程度以及可复制经验输出。对行业而言，这些指标将决定项目的外溢价值。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：成都启动AI+教育示范基地",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDQ4c2hQLXFFODV3NlM0aElWVlFHUkl5ZjZNeTF6a3hDU1QtcnhCelBQYkJmWnFsdkRuZXZGRkd5R1FScUJhYnFuU3F2czViNWd6M2Flc0FDb3RHS3paUXh5dUo0TTIwQkVuRFVzR0V0eFZ6QWNVbmVmZWFuaXpSTTU1SlBnaDhCTUs3UzMtWm9FNGJEVmRWbWlmOWNFTGNDV280UGRHNA?oc=5"
+          },
+          {
+            "label": "新浪财经：上海加快通用AI技术攻关",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjJueEZBMmdNWk1kV1M2T0RCTzlCYUthei01TzBuSHZBaERBWjhnTGpraEVfSlZWbmI2am9sR0NSMm40QW1Hb0pfcVR4dDl0MWQ5YURTa0ZwbVdfR00zdkZJVndZVE9vQVQwS1BhYWlqQkxNMHdxV0w1T1A1cFl4ak4yaGRpVmRRd3BtZkhxREx6WmVQLW9HVw?oc=5"
+          },
+          {
+            "label": "杭州网：AI科技赋能社区青少年成长",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXZ3lHRUEwaWZwRmpkUFZCWVZzQUp3WFJmVV9xaFVvVHFmSGYzZHIzMlN0TTItc3dTb3FONXJsam85MTRlLU10Ry00WVdmMHAwNXh5RjBzUXI1TWxDenZhTXRGbF9yNHdoRjlSXzBzdlNWakdJX2dYbW9HTC02UQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMDQ4c2hQLXFFODV3NlM0aElWVlFHUkl5ZjZNeTF6a3hDU1QtcnhCelBQYkJmWnFsdkRuZXZGRkd5R1FScUJhYnFuU3F2czViNWd6M2Flc0FDb3RHS3paUXh5dUo0TTIwQkVuRFVzR0V0eFZ6QWNVbmVmZWFuaXpSTTU1SlBnaDhCTUs3UzMtWm9FNGJEVmRWbWlmOWNFTGNDV280UGRHNA?oc=5"
+      },
+      {
         "slug": "ai-news-20260420-auto-1-36d104",
         "title": "最高法拟出AI纠纷意见",
         "category": "AI新闻",
@@ -2719,6 +2835,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260421-auto-1-0ed601",
+        "title": "Claude Code防降智实操",
+        "category": "AI使用教程",
+        "date": "2026-04-21",
+        "summary": "基于官方指南整理性能衰退排查与修复步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Claude Code防降智实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-21前后的公开信息，本文给出一套可直接执行的Claude Code性能衰退排查流程，目标是减少“答非所问、代码质量下降、上下文遗忘”等常见问题，并形成可复用的团队操作基线。",
+          "blocks": [
+            {
+              "heading": "先确认是否真的“降智”",
+              "paragraphs": [
+                "第一步先做基线测试。准备3类固定任务：小型算法题、现有项目代码改造、带约束的错误修复。每类任务保留同一提示词模板、同一上下文长度、同一模型设置，连续跑3轮并记录成功率、平均响应时延、一次通过率。",
+                "第二步看日志而不是感觉。把失败案例按类型归档：理解偏差、工具调用失败、上下文遗漏、幻觉引用。若同类问题在24小时内明显上升，再判定为性能衰退；若只是单次异常，优先按网络波动或上下文污染处理。",
+                "第三步做环境对照。用同一任务在“当前工作区”和“新建干净工作区”各跑一遍；若干净环境明显更稳定，通常说明问题来自历史上下文、插件冲突或缓存污染，而不是模型本体能力变化。"
+              ]
+            },
+            {
+              "heading": "按优先级执行修复动作",
+              "paragraphs": [
+                "先清上下文：把超长对话拆成“需求、约束、当前文件、验收标准”四段，删除闲聊与过期方案；每次会话只保留必要文件片段。建议把单轮输入控制在团队约定范围内，避免无关token挤占推理预算。",
+                "再稳提示词：采用固定结构“角色-目标-输入-限制-输出格式-自检清单”。例如要求先给变更计划，再给补丁，再给回滚方案。这样可减少模型在复杂任务中的跳步和遗漏，提高结果可验证性。",
+                "最后做工具链体检：逐一禁用近期新增扩展、检查依赖版本、重建索引与缓存，并对关键命令设置超时与重试。若问题集中在外部工具调用，优先修工具配置，不要直接把问题归因于模型能力下降。"
+              ]
+            },
+            {
+              "heading": "建立长期防衰退机制",
+              "paragraphs": [
+                "建立周度回归集。固定10到20个代表性任务，每周同时间段自动跑一次，输出趋势图：成功率、返工次数、平均token消耗。这样可以提前发现质量拐点，而不是等线上交付受影响才处理。",
+                "把提示词资产化。将高质量提示词沉淀为模板库，按场景分层：需求澄清、代码生成、测试补全、文档撰写。每个模板都附示例输入与反例，减少个人风格差异导致的结果波动。",
+                "增加人工验收闸门。对高风险改动设置“三项必查”：边界条件、异常处理、回归测试。AI负责提速，人类负责最终判断。这样即使短期出现性能波动，也能把影响控制在可接受范围内。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Claude Code降智与官方防衰退指南解读",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UckRFQmQzY05YbmlVX0wyMV92dTFOeEZ1ZzRJbkZFTU9GclBvUXRKbkRuYUlVS1hDZDdjWnRvRkJBMW11LThZLUhUR19CRzc5NDhvejA0VFVsNUowWjFkLV9xNFFIM3J0RVhJOV9jOA?oc=5"
+          },
+          {
+            "label": "AI推理栈透明化趋势",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWDZYd0NGTVlmb0F5WHpMLWM3dXI1RENrODdudUhwT1Fqb3o5ZU9TTUt6dnRfWTVmUTBGRkdQbWU1cnZHaWEwaEVOT1BkN1JfYjlGTWhMNmE0Z0tobml4WnJpaTU0MjZ2RlpDbHNtNmRTbDBoZEJ6d1h2UUhGSkpOdVZsanF2WXhsZWh2WU0zdlFUeVlMUHlkS1ZaZXFPd3FjRi1RMUNjNzJlM2Vfekg1Mndob04yekhXeG9mWlkzTThxdWc1d0x2QjQ4QXZBWUEyQ1ZHMVl3QjN2Q0V2dll5cUJoYU5TRkJMYXc?oc=5"
+          },
+          {
+            "label": "职场提示词技能与规范化使用",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmlES0ZtRFpfZXBrejdjXzV2LWxmT0w5bk5oNGktV3FLbXlwMVNreUdVMmprVzdJVW9KQnJBY2hxcTlPVUpWQktETm80bk04S2xFYjB4dlJyVE4yTllXSVIyTDQyZnE5dUFQMzctUFF1RlU2RVpfZzZ6SzZFTU80dnNHNTlwX18xTWhrOGZwN1lCeEFIRjNINEV3Q0JqSFdRMXBmSjBYN0ZZNk5JbzRNbXdB?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UckRFQmQzY05YbmlVX0wyMV92dTFOeEZ1ZzRJbkZFTU9GclBvUXRKbkRuYUlVS1hDZDdjWnRvRkJBMW11LThZLUhUR19CRzc5NDhvejA0VFVsNUowWjFkLV9xNFFIM3J0RVhJOV9jOA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260420-auto-1-8943b1",
         "title": "华硕显卡开启DLSS4.5",
         "category": "AI使用教程",
@@ -3501,6 +3675,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260421-auto-1-ae8b9d",
+        "title": "Kimi K2.6开源发布",
+        "category": "开源项目",
+        "date": "2026-04-21",
+        "summary": "Moonshot发布Kimi K2.6，强调长程编程与多代理协同能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Kimi K2.6开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月21日，北京时间语境下，Kimi K2.6被多家媒体描述为面向开源生态的重要版本更新，核心看点集中在长程编程与多代理协同执行。",
+          "blocks": [
+            {
+              "heading": "更新要点与定位",
+              "paragraphs": [
+                "候选信息显示，Kimi K2.6强调长时任务处理能力，尤其在需要连续步骤规划的编码流程中，目标是减少中途偏航和上下文丢失。",
+                "公开报道提到其可扩展到较大规模的子代理协作，用于把复杂目标拆分为并行子任务，再汇总结果，这类机制更适合工程化场景。",
+                "从产品定位看，该版本同时覆盖聊天端与API端，意味着既面向个人开发者快速试用，也面向团队集成与自动化流水线。"
+              ]
+            },
+            {
+              "heading": "适用场景与实际价值",
+              "paragraphs": [
+                "在开源项目开发中，Kimi K2.6更适合多文件重构、跨模块排错、自动生成测试样例等需要长上下文保持的任务。",
+                "对于Agent工作流用户，其多代理设定可用于需求拆解、代码编写、审查和文档生成的分工流程，降低单代理串行执行的等待时间。",
+                "在企业侧，如果需要将模型接入现有CI/CD或内部工具链，API可作为统一入口，便于权限控制、日志审计和成本管理。"
+              ]
+            },
+            {
+              "heading": "上手门槛与部署建议",
+              "paragraphs": [
+                "个人上手门槛相对可控：先从官方聊天入口验证任务效果，再切换到API做最小可运行脚本，是风险较低的试用路径。",
+                "团队接入门槛主要在工程治理而非调用本身，包括提示词模板管理、失败重试策略、上下文截断规则与结果评估基线。",
+                "若计划用于生产流程，建议先选取单一高频场景做灰度，例如自动单测补全或PR描述生成，再逐步扩展到多代理编排。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost发布信息",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN2tMVDNQVG4tUW1jX2Jyb1c1ZUtmQl80Vm5TcHgwbTkzQkd3YzhmZWpjd3V0VGIzNzBhNVRaU3VWWGNuNjV5NWt1X2lNaVFLZjhRWUhJRWY5UW90X1dGMkVlNEZkUlppN3dSZE1ZQV92ZzQyMXhVYVVBOGw2MG9IaFN5eFFydG1QYmhIZDZJNEd4TnZDNlBEZmlBNllSamM3UXQ1SFRFUkRLQ0M2RnhjN2JPX0tPX2xHbEttVGgxeEw2R21IY3RFMjRvcENJTHlRWktZbThTenFwME42TlJ1YzkxUWlCcE05akRQZVZBZE1VR2fSAfgBQVVfeXFMTXJwd0syMXAtbERIbWo5Ni1zMVg5bVBhYmhGdUtmUHNZTDA5cjhBQlQ2d25Oc0VpeWRzUEtjX0poUmtibGotSXI2clNRQlVwTl9SWGc5VWE2NE5fT2FCNUJOdDBxajhFaFd6dmwtZGJibk5QNkoyb2t0a2VfenhmaTRTNWwwNm1oOVlUVmFkWlhhb3drNERhZ3lHVTB6Y1MwNllTTmxFUWgySTZrSFdxbzFBM21VazA2SnlGY2h0ZFg0T3lCTVNVRVhPQkZmSWdfR3BkWTFVNkl3RGR2T0FSc1plSFhPMmVGcVh5VUlCZGQ4em5XbldOeTA?oc=5"
+          },
+          {
+            "label": "GIGAZINE关于开源模型报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSHAzRi1pLVNjd0RhdFZuNVdRcUd2NDhNbHBnRHJ0cnhnWVJaeWpCclNrRGJqMV9rMmhXU04xbWVFRHNPeWc1UXhQSGlsa1VkVjExNzBXS2NlXzVBMlRJQUR3?oc=5"
+          },
+          {
+            "label": "TestingCatalog上线信息",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEFrYnhCeGdBTHdGZmFKNzJoTVhEeENxSzA2MWVQcUJjSVBUdmtYbWlhSDduU0tTVmxnLWRua0IzcWlRbTdUTXBhbUh4RFNSeUxHZlE1WGFMM2RxYmRtOUFVSEJNd1RHdTgxYW1uc0tDXzFNSE1TaW5MOVlkSGdsVTAtSUdSVzlnWFMtVg?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN2tMVDNQVG4tUW1jX2Jyb1c1ZUtmQl80Vm5TcHgwbTkzQkd3YzhmZWpjd3V0VGIzNzBhNVRaU3VWWGNuNjV5NWt1X2lNaVFLZjhRWUhJRWY5UW90X1dGMkVlNEZkUlppN3dSZE1ZQV92ZzQyMXhVYVVBOGw2MG9IaFN5eFFydG1QYmhIZDZJNEd4TnZDNlBEZmlBNllSamM3UXQ1SFRFUkRLQ0M2RnhjN2JPX0tPX2xHbEttVGgxeEw2R21IY3RFMjRvcENJTHlRWktZbThTenFwME42TlJ1YzkxUWlCcE05akRQZVZBZE1VR2fSAfgBQVVfeXFMTXJwd0syMXAtbERIbWo5Ni1zMVg5bVBhYmhGdUtmUHNZTDA5cjhBQlQ2d25Oc0VpeWRzUEtjX0poUmtibGotSXI2clNRQlVwTl9SWGc5VWE2NE5fT2FCNUJOdDBxajhFaFd6dmwtZGJibk5QNkoyb2t0a2VfenhmaTRTNWwwNm1oOVlUVmFkWlhhb3drNERhZ3lHVTB6Y1MwNllTTmxFUWgySTZrSFdxbzFBM21VazA2SnlGY2h0ZFg0T3lCTVNVRVhPQkZmSWdfR3BkWTFVNkl3RGR2T0FSc1plSFhPMmVGcVh5VUlCZGQ4em5XbldOeTA?oc=5"
+      },
+      {
+        "slug": "open-source-20260421-auto-2-d25243",
+        "title": "OpenMythos架构开源",
+        "category": "开源项目",
+        "date": "2026-04-21",
+        "summary": "OpenMythos公开循环深度Transformer，主打参数效率与可复现研究。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenMythos架构开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月21日，OpenMythos被报道为一次偏研究导向的开源发布，核心信息是通过循环深度Transformer在参数规模与效果之间寻求更高效率。",
+          "blocks": [
+            {
+              "heading": "项目核心机制",
+              "paragraphs": [
+                "从候选摘要看，OpenMythos强调在更少参数条件下维持同等级任务表现，重点不在盲目增大模型，而在架构层面的计算复用。",
+                "循环深度Transformer可理解为在深层表达阶段进行迭代式加工，用更可控的参数预算换取更充分的特征提炼。",
+                "这类路线对开源社区的意义在于，给出一条“先优化结构、再扩规模”的实践方向，便于中小团队参与。"
+              ]
+            },
+            {
+              "heading": "应用场景与受众",
+              "paragraphs": [
+                "在资源受限环境中，例如单机多卡不足或推理成本敏感的业务，参数效率更高的模型架构通常更容易落地。",
+                "对研究者而言，该项目价值在于可用于验证新训练策略、蒸馏路径和长上下文机制，形成可对比实验基线。",
+                "对应用开发者而言，若项目文档和权重开放完整，可在客服问答、知识检索增强生成等场景做小步快跑。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛主要取决于仓库完整度，包括训练配置、推理脚本、数据格式说明和许可证边界，建议先核对这些基础项。",
+                "初次试用可先跑最小推理样例，再在同一硬件上与现有基线模型做延迟、显存和效果对比，避免直接进入大规模训练。",
+                "若计划用于产品原型，建议优先选择可量化指标明确的任务，例如摘要准确率或代码补全通过率，再决定是否持续投入。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenMythos开源报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ycFExaFkxd1J1UGcyMzByZTRoWUg2cU5URWdsLURLZmtYVi1nUXpCbC1XTVk0T0p3RElnbGNhTUVtWlItUEExOVJUeGt4TmNDdmdj?oc=5"
+          },
+          {
+            "label": "GIGAZINE开源模型观察",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lSHAzRi1pLVNjd0RhdFZuNVdRcUd2NDhNbHBnRHJ0cnhnWVJaeWpCclNrRGJqMV9rMmhXU04xbWVFRHNPeWc1UXhQSGlsa1VkVjExNzBXS2NlXzVBMlRJQUR3?oc=5"
+          },
+          {
+            "label": "Oracle关于小模型方法论",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlNSE5tR1doVHp4Yll3VjJMeXloQkpadHc0STRsODB1QnowaUxKTXY4U0dHVUQ1ZTFVa2ZsTDZRQnNCWG1oVTd0eUVfMG9JWDlqSl8tMnRpRG10NURMUENWT3JUbkRScWdpQllDTXhfdkVPUUdOSW1vcUVYa2tmYkFiRXZYMWVJREdrbDFyRjI?oc=5"
+          }
+        ],
+        "source": "itsolotime.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ycFExaFkxd1J1UGcyMzByZTRoWUg2cU5URWdsLURLZmtYVi1nUXpCbC1XTVk0T0p3RElnbGNhTUVtWlItUEExOVJUeGt4TmNDdmdj?oc=5"
+      },
       {
         "slug": "open-source-20260420-auto-1-24eaf4",
         "title": "Mozilla发布Thunderbolt",
