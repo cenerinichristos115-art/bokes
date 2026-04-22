@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260422-auto-1-550eab",
+        "title": "扬州签约钉钉悟空社区",
+        "category": "AI新闻",
+        "date": "2026-04-22",
+        "summary": "全国首个钉钉“悟空社区”在扬州签约落地，聚焦企业数字化与AI应用协同。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "扬州签约钉钉悟空社区 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年4月22日，全国首个钉钉“悟空社区”在扬州签约落地。该项目被视为地方推进“平台+场景”式AI应用的一次新尝试。",
+          "blocks": [
+            {
+              "heading": "项目落地信息",
+              "paragraphs": [
+                "根据公开信息，扬州完成全国首个钉钉“悟空社区”签约。项目以企业服务平台为基础，叠加AI能力，面向本地产业和组织协同场景。",
+                "从时间点看，项目落地与近期国内软件产业活动密集推进形成呼应，反映地方对数字化基础设施和应用生态的持续投入。",
+                "此次签约释放出一个明确信号：地方在引入AI项目时，更重视可运营的社区化载体，而不仅是单点技术部署。"
+              ]
+            },
+            {
+              "heading": "产业与产品价值",
+              "paragraphs": [
+                "在产业层面，“悟空社区”模式可能把平台厂商、实施服务商与本地企业连接到同一协作网络中，降低企业导入AI工具的沟通与试错成本。",
+                "在产品层面，若项目围绕办公协同、流程自动化与知识管理等高频场景推进，预计会更快形成可复用方案，提升中小企业应用效率。",
+                "从区域发展角度看，类似项目有助于推动“软件能力本地化供给”，并为后续引入更多行业模型、智能体服务建立基础。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "第一，观察签约后的实施节奏，包括入驻企业数量、场景上线进度及实际使用频率，这是判断项目成效的核心指标。",
+                "第二，关注项目是否形成跨部门协同机制，尤其在数据治理、合规边界和服务标准方面是否建立可执行流程。",
+                "第三，关注项目能否与本地算力、软件园区及产业政策形成联动，进而从单一示范点扩展为可持续的AI应用生态。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "品玩：全国首个钉钉“悟空社区”签约落地扬州",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56SkZRRDFmZWVyWnA4VDhyS0VQTDh6bUp4NEYyRXJBRVZKdnA5Q2M1ZGZtb3ZzdGhQNGVsWWNFUHZXLWhlMEF6QQ?oc=5"
+          },
+          {
+            "label": "新华网：第五届中国国际软件发展大会在京举办",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44T1d2d1hLMFdvX2N2ejI2N1NWVm1HTWpPVTJia19aMks3RHdOZ0UzeE5BVGtGT3dZckVXSGhtYjFXSTNxYzY2UGRIMXNWWnhKUTdCX2JEY1FuUkJ6bFZNemdkdmtsSnZhWDlpSllIQ04xVTVRaTRIVWRCR2s?oc=5"
+          },
+          {
+            "label": "青岛日报：国家先进计算产业创新中心青岛基地启用",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxT1p0eVhqbmdlVGNfYzNxMmpQZkVDTnBKV2VHRDRJdmdvNmkwY1Y1WG9CU3NucjRnNERudnFwVG1RaTJGc0RGeFJxMU9UV0E3U0I2Nms1b0c?oc=5"
+          }
+        ],
+        "source": "品玩",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56SkZRRDFmZWVyWnA4VDhyS0VQTDh6bUp4NEYyRXJBRVZKdnA5Q2M1ZGZtb3ZzdGhQNGVsWWNFUHZXLWhlMEF6QQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260422-auto-2-72cb1f",
+        "title": "北京高院发布AI司法举措",
+        "category": "AI新闻",
+        "date": "2026-04-22",
+        "summary": "北京高院围绕人工智能等产业发布18项举措，并明确AI侵权图片销售构成犯罪。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北京高院发布AI司法举措 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年4月22日，北京在人工智能司法治理方面释放新信号。北京高院发布18项举措，同时相关案例进一步明确了AI生成内容侵权的法律边界。",
+          "blocks": [
+            {
+              "heading": "政策与司法动态",
+              "paragraphs": [
+                "北京高院此次举措覆盖人工智能、生物医药等重点产业，核心是通过更系统的司法保护机制服务创新活动与市场秩序。",
+                "与举措同步受到关注的，还有AI生成侵权图片并制作拼图销售被认定构成侵犯著作权罪的案例，体现“技术中立、行为担责”的审判导向。",
+                "在当前“人工智能+”政策持续推进的背景下，地方司法规则的细化有助于企业在创新与合规之间建立更清晰预期。"
+              ]
+            },
+            {
+              "heading": "对产业和企业的影响",
+              "paragraphs": [
+                "对AI应用企业而言，司法尺度更明确后，内容生成、数据来源和商业化环节的合规管理将从可选项转为经营基本项。",
+                "对平台与服务商而言，需进一步完善版权审核、素材溯源与投诉处置机制，减少因批量分发带来的侵权风险扩散。",
+                "对投资和采购方而言，法律确定性提升通常有助于降低交易不确定性，推动AI项目从试点走向规模化部署。"
+              ]
+            },
+            {
+              "heading": "合规实践建议",
+              "paragraphs": [
+                "企业应建立AI内容全流程台账，记录模型版本、提示词策略、训练与调用来源，提升事后举证能力。",
+                "在产品设计上，可将版权检测、风险提示和人工复核嵌入发布流程，避免高风险内容直接进入商业销售链路。",
+                "面向2026年的市场环境，企业竞争力不仅来自模型效果，也来自合规运营能力和可审计的治理体系。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新京报：北京高院发布18项产业司法保护举措",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MNzRMVGdVdmlVQXVRSjlEYTJmNEVDYnZFNzBIOGZlNEtwYUhZdWF5WHdCdkkwV0JiZ3hwQW1TbVh0SEZqWGI4NWNHc3hBenpmRVd2SEVIZGdNNEx1Uzk4UEhoVFM?oc=5"
+          },
+          {
+            "label": "21财经：AI生成侵权图片并销售被认定侵犯著作权罪",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlFXVzUtd2p6VFZBNVNHV09ucGxJbHRxZ1NldzgteHdWRFdwVnI2blN6NFFjZ3dtRjhTRzJSTllHY256WnpqYjJTUV9ScVZwRm1yemFfb04yX3JTMU1SbUs3TFl6MzhhOXBQN19KVGg3Wi1PX2s1cE1WcWNhd1hTQ25MUUd0UkQ3RHpwa2pZQQ?oc=5"
+          },
+          {
+            "label": "搜狐网：深入实施“人工智能+”行动相关报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXZDZldlVXdPYUdBNGEzY2Jtdi15S1JtX3pWdi1IRzc5enpoTk9XbWRWcms5OU5USEluSmZORVBOWTFQR1U2R1FXeTV3c2cwMTM3bnpIMGIyYTB0dUdwbTY0SmZIYUVROVlBZkVDWXRMQVpNeFZON1JWa3hSNXdVdFB4Ullma2FP?oc=5"
+          }
+        ],
+        "source": "新京报",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MNzRMVGdVdmlVQXVRSjlEYTJmNEVDYnZFNzBIOGZlNEtwYUhZdWF5WHdCdkkwV0JiZ3hwQW1TbVh0SEZqWGI4NWNHc3hBenpmRVd2SEVIZGdNNEx1Uzk4UEhoVFM?oc=5"
+      },
+      {
         "slug": "ai-news-20260421-auto-1-3cf7ef",
         "title": "ServiceNow完成收购Armis",
         "category": "AI新闻",
@@ -2835,6 +2951,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260422-auto-1-f5e658",
+        "title": "千问AI PPT功能升级 发布“英语",
+        "category": "AI使用教程",
+        "date": "2026-04-22",
+        "summary": "千问AI PPT功能升级 发布“英语教学PPT高分提示词”公式 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "千问AI PPT功能升级 发布“英语 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "千问AI PPT功能升级 发布“英语教学PPT高分提示词”公式 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "千问AI PPT功能升级 发布“英语教学PPT高分提示词”公式 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGdnaU1ub1VRUEdBWS1RUFdGbVBNbGl5V3RPb2ZDSGxSMmVuRUhRQjVLTWdETjFJdU9fQXZQenBvX2FoTGI3REp2eUNrRDBrNUFZa3NMRmF2SVdaUUJfaXBMR21OOWxTUGgxSzZocmJsWG5rd01CUVA0VFZvWDM5X3ZvLWdrb3RUUE5mVw?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：OpenClaw安全有救了！不改内核、无视AI内部逻辑，数学级枷锁驯服暴走智能体 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzLWxFbVg3Q2JYWGNEaV9nOHktc0VsTUJnQVczQlhhZkhxYUo5VVpaUnJiWllkVXZYclZOeURaQ2ZIdEpfMGQ3VXhYcE5pdDFqSHM4NC1CTndXMGw5Q3NfRlJGMnFxVW1jYnNiLXhUTQ?oc=5"
+          },
+          {
+            "label": "品玩：千问AI PPT被英语老师推火，官方顺势发布「高分提示词公式」 - 品玩",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WRV9KNE41RlF2TmZOR0h1TFJfQzdrb0szT1lsZ2kxYUNzVjlvOFE4WklTSUtvMy1CNWc4VnUzWVJEWnJ6UE96TA?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGdnaU1ub1VRUEdBWS1RUFdGbVBNbGl5V3RPb2ZDSGxSMmVuRUhRQjVLTWdETjFJdU9fQXZQenBvX2FoTGI3REp2eUNrRDBrNUFZa3NMRmF2SVdaUUJfaXBMR21OOWxTUGgxSzZocmJsWG5rd01CUVA0VFZvWDM5X3ZvLWdrb3RUUE5mVw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260421-auto-1-0ed601",
         "title": "Claude Code防降智实操",
         "category": "AI使用教程",
@@ -3675,6 +3849,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260422-auto-1-8a96a9",
+        "title": "OpenClaw发布新版本",
+        "category": "开源项目",
+        "date": "2026-04-22",
+        "summary": "v2026.4.21补齐图像与测试链路，降低集成门槛。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw发布新版本 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月22日，OpenClaw发布v2026.4.21版本，更新集中在图像能力接入、Docker端到端测试覆盖和npm插件修复三项，重点是提升工程稳定性与可用性。",
+          "blocks": [
+            {
+              "heading": "本次更新看点",
+              "paragraphs": [
+                "新版本增加对OpenAI Image 2的支持，意味着项目可在既有流程中补上图像生成或图像相关任务环节，减少开发者自行封装接口的工作量。",
+                "Docker E2E覆盖被强调为发布重点之一。对团队协作来说，这类端到端测试可以更早发现环境差异导致的问题，降低线上部署后才暴露故障的概率。",
+                "npm插件修复属于典型的生态可用性更新。对依赖Node.js工具链的用户而言，安装与调用路径更稳定，能缩短从拉取到可运行的时间。"
+              ]
+            },
+            {
+              "heading": "适用场景与用户类型",
+              "paragraphs": [
+                "OpenClaw更适合需要快速搭建AI能力编排流程的开发团队，尤其是同时处理文本与图像任务、并希望通过容器化方式统一环境的项目。",
+                "对中小团队而言，版本中的测试覆盖增强比新增功能更关键，因为它直接影响持续集成效率与回归测试成本，能减少手工排查。",
+                "如果团队已有npm插件链路，本次修复可作为升级触发点；若项目已运行旧版本，建议先在预发布环境做兼容性验证，再进行生产切换。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在工程基础而非算法训练，开发者通常需要具备基础的Docker与Node.js经验，能看懂项目配置与依赖说明。",
+                "建议初次接入时先跑通官方示例，再逐步替换为业务数据；对图像能力接入，优先验证输入输出格式和鉴权配置，避免联调阶段反复返工。",
+                "从发布节奏看，该版本偏向稳定性与可维护性优化，适合将OpenClaw用于长期迭代项目，而不是一次性脚本型任务。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenClaw英文发布报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUYxWnJmQnFSZU5fSmRhVi05Qi1CamdpQkdSd3EzdkpLemMtb2VlQTZGT1c1S21JTE80M0xzejdzemdqOVRmYzF3cUwtRDNkMnExRFBkWjZpbTEta0pzTFZuYnExZS1ST2ZVNGZ5SnJwVElhaDhvSzhSLVplSnhQLUhuNF85WUJVVlRBTU9GR2d2UW1zbEs1WFh4S1NLZkFSQnVtUk1IRmRRbWV3MW5xUnZDZXZsMFZZNmR6UzNCdzBqaGF3RXY1R1dyd0x3dU5XckdhTjJB?oc=5"
+          },
+          {
+            "label": "OpenClaw中文发布报道",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYWR6WUM5eWpaUTdwbmw1OUJwSXBhdDdQaXV5WC1UZkFiOElpclhabFdvV0tHZWtIbS1BVi11djVsVHhKdjBnLVlGMUF1cWlXQkhPVW1nNGFsOTA3SExUMFFGVXpzV1JKTTRTVGpjWHlOQnNuVXJGVHhJckdlSzd6Q0tsczhZTUQ3clFlTFZWMGhHb3VHdEl2TWxuNThaNlozbmtGTWY4bS1YRmNzb1NTUXM2Nm01QktwVEVyVjRBNFRTOFR2WU5TS3FRWEVtRWNfRGswUW5UYnM1MkpleUE?oc=5"
+          },
+          {
+            "label": "相关开源项目更新背景",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWEMyMWVQdGY5eG00WlFRaDNsZndqTHJiQ0hoTzNaLUZqcGltZER1alJZcC1CTDFqaTBDNVNiNUtya1VUdDd4YUdvdTRVeHhvMHQ3LUdxdnRuUkZaTjRIYWZQbEpvNXlpSlZhb2ZMaUluYS16elc0VWZHNlZXeG02d0VHaXV5YUFOUER3ZlRFbGJDdE01S2FaY2E4UnZpZEJuU0IzeFBMeGY0NGE5SVBSU2dwa2VQcDhraVpZdXlHMFJJcWxJRzQ5LW1jeldKZ1hjSkQ5UnhESUpsOHZ5UU1VMEpxcUExcXfSAecBQVVfeXFMTVhDMjFlUHRmOXhtNFpRUWgzbGZ3akxyYkNIaE8zWi1GanBpbWREdWpSWXAtQkwxamkwQzVTYjVLcmtVVHQ3eGFHb3U0VXh4bzB0Ny1HcXZ0blJGWk40SGFmUGxKbzV5aUpWYW9mTGlJbmEtenpXNFVmRzZWV3htNndFR2l1eWFBTlBEd2ZURWxiQ3RNNUthWmNhOFJ2aWRCblNCM3hQTHhmNDRhOUlQUlNncGtlUHA4a2laWXV5RzBSSXFsSUc0OS1tY3pXSmdYY0pEOVJ4RElKbDh2eVFNVTBKcXFBMXF3?oc=5"
+          }
+        ],
+        "source": "blockchain.news",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUYxWnJmQnFSZU5fSmRhVi05Qi1CamdpQkdSd3EzdkpLemMtb2VlQTZGT1c1S21JTE80M0xzejdzemdqOVRmYzF3cUwtRDNkMnExRFBkWjZpbTEta0pzTFZuYnExZS1ST2ZVNGZ5SnJwVElhaDhvSzhSLVplSnhQLUhuNF85WUJVVlRBTU9GR2d2UW1zbEs1WFh4S1NLZkFSQnVtUk1IRmRRbWV3MW5xUnZDZXZsMFZZNmR6UzNCdzBqaGF3RXY1R1dyd0x3dU5XckdhTjJB?oc=5"
+      },
+      {
+        "slug": "open-source-20260422-auto-2-ee54b8",
+        "title": "PentAGI开源渗透系统",
+        "category": "开源项目",
+        "date": "2026-04-22",
+        "summary": "自主化AI渗透测试框架发布，面向安全演练与流程自动化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "PentAGI开源渗透系统 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月22日，PentAGI以开源自主化渗透测试系统身份进入安全社区讨论，其核心价值在于将部分渗透流程交由AI代理执行，以提升测试覆盖效率。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心用途",
+              "paragraphs": [
+                "PentAGI面向攻防演练、内部安全评估和持续化安全测试等场景，目标是把信息收集、路径尝试和结果整理等环节部分自动化。",
+                "与传统脚本集合相比，这类系统强调任务编排与自主决策能力，能够根据中间结果调整后续步骤，减少人工频繁切换工具的成本。",
+                "对企业用户而言，它更适合作为安全团队的辅助工具，而非替代人工审计；最终结论仍需要由具备资质的安全人员进行复核。"
+              ]
+            },
+            {
+              "heading": "上手门槛与环境要求",
+              "paragraphs": [
+                "该项目的上手门槛中等偏高。使用者通常需要具备基础网络安全知识，理解授权测试边界、漏洞验证流程和日志留存要求。",
+                "在工程层面，团队需要准备可控测试环境，并配置模型调用、任务策略和结果存储链路，避免在生产网络直接进行未经验证的自动化动作。",
+                "对于初学者，更建议先在靶场或实验室复现标准流程，再逐步扩展到企业内网演练，从而降低误报、漏报和操作风险。"
+              ]
+            },
+            {
+              "heading": "部署建议与风险控制",
+              "paragraphs": [
+                "部署时应将PentAGI接入现有安全治理体系，包括工单审批、资产白名单和测试时间窗控制，确保每次扫描与验证具备可追溯记录。",
+                "建议设置分级执行策略：先进行低风险探测，再由人工确认后触发高风险动作，避免自动化流程对业务系统造成不必要影响。",
+                "从实践角度看，PentAGI的价值在于提升测试广度与重复任务效率，若与人工专家评估结合，通常更容易形成可持续的安全运营闭环。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PentAGI项目报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2FHSDJNMXBHNEM3czRVT3NZd0NEUk4yMW1qa3k5ZnE1dTFSdEJWTUduMWU1VVZ5SnA3cXhPTkNDZFdqeUZhT2FjYzROa1Nla3ZrN2dNSHVqWXFpenNpQXpKWFA4a0YtTnJ3WTJ0T0pIWXZCajZ1c0xNWXZsSzBqMHE2LU4wUzFDWnQ5a2xR?oc=5"
+          },
+          {
+            "label": "AI辅助漏洞发现案例",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDRfRmQ0UlFkSEpibG1PTjFlYkYtYlRRbjNFcVBKUHVNMEdza2NOMXVrQ01jYjFib3RRRC0yZ25ndHJjRnZfdkY0M2s5TF92Y0dxb0c0Z2FtWk1EVnlBbzNoTFlBTGZ6SVplZG5PbUFBX2lvQ3lRejZhaUFyU0V5dDlIU3JOaTNidjhWRkxlNUMzZnV6NlRoMWlsVEUtX3dzNGhLTE53MA?oc=5"
+          },
+          {
+            "label": "企业自托管AI客户端参考",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlprQ2R0Z29tZVBrczUzZzJ0cmlMVGZOWFVMQUVjalM5bWNjczV3cVZlNVF0dnNBWW12SFM4M0dpWE05MWdKNHcyeGtQMWU4TVhQSWMyeDR3bnlFamdQdVNHanhaazg2MmxURzhMeDFQUV9nQUZHdDdialJJMGRoVmN1TXdKbFZCbHdpbDV3cUZVWTJlaHZ2NGc5eGJhXzVneTMyVHZBLTM2VmVqaDZFWVl3cmJNOHNUbDNhX2t4RlBkeFFZYUFYbHdB?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2FHSDJNMXBHNEM3czRVT3NZd0NEUk4yMW1qa3k5ZnE1dTFSdEJWTUduMWU1VVZ5SnA3cXhPTkNDZFdqeUZhT2FjYzROa1Nla3ZrN2dNSHVqWXFpenNpQXpKWFA4a0YtTnJ3WTJ0T0pIWXZCajZ1c0xNWXZsSzBqMHE2LU4wUzFDWnQ5a2xR?oc=5"
+      },
       {
         "slug": "open-source-20260421-auto-1-ae8b9d",
         "title": "Kimi K2.6开源发布",
