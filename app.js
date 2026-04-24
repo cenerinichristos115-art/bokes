@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260424-auto-1-218ae7",
+        "title": "南京发布AI+软件方案",
+        "category": "AI新闻",
+        "date": "2026-04-24",
+        "summary": "南京出台行动方案，明确人工智能与软件产业协同路径。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "南京发布AI+软件方案 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月24日，南京发布“人工智能+软件”相关行动方案，释放出地方以软件产业为抓手推动AI落地的明确信号。",
+          "blocks": [
+            {
+              "heading": "政策内容与方向",
+              "paragraphs": [
+                "从公开信息看，方案重点放在“人工智能+软件”的融合推进，强调以应用场景带动技术迭代，以产业链协同提升本地软件产业竞争力。",
+                "与单点技术支持不同，行动方案通常涉及企业培育、平台建设、场景开放和生态合作等多条线并行，反映出地方政策对产业化节奏的重视。",
+                "在发布时间点上，南京选择在二季度推进相关部署，也有利于企业将政策窗口与年度产品规划、市场拓展计划进行衔接。"
+              ]
+            },
+            {
+              "heading": "产业影响与企业机会",
+              "paragraphs": [
+                "对本地软件企业而言，该方案有望带来更明确的业务方向，尤其是在政务、制造、城市运行和企业服务等可快速形成示范效应的场景。",
+                "对AI企业而言，软件化交付能力将成为竞争焦点，模型能力之外，项目实施、行业知识沉淀和长期运维能力的重要性进一步提升。",
+                "对产业投资方而言，评估逻辑可能从“模型参数与演示效果”转向“可复用产品、稳定收入结构与交付效率”，这将影响后续资本配置。"
+              ]
+            },
+            {
+              "heading": "区域协同与后续观察",
+              "paragraphs": [
+                "结合其他城市动态看，区域间正在形成“政策引导+园区承接+企业落地”的协同框架，南京此次动作也处于这一竞争与合作并存的格局中。",
+                "后续可重点关注三类指标：重点项目签约与落地速度、软件企业AI化改造比例、以及跨行业标杆案例的复制情况。",
+                "若配套机制持续完善，地方政策将不只停留在鼓励层面，而是逐步转化为可量化的产值、就业与数字化服务能力提升。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "南京市出台行动方案加快推进「人工智能+软件」发展",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGRTQnNXZklNck1yN3R3MFliYUhZNVZWczRISllaWnZRMHFvcURZUGlFXzZkVHNGbml1T0IxQ09IZEpLclFUaTAzd0ZoT3Q3MGlxVlpoNzFZSmhZRUdDVm92WlltX3RRVFVTMTltU09JRDROcDFZeTQ4akl3X0pZNVlGZTJHdHRj?oc=5"
+          },
+          {
+            "label": "深圳前海公布2026年度人工智能OPC社区认定结果",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44czlzUDBPUGE1N1Uwa1VESldoRWdCMWpDTWc1WmVqNnlLVDBmS3NpUFZIZmVxTUdFZ3ZXUDdVcGFOTGt6eTFKV1FzZmF1eEhEQUJrWFRnTzVNYUdHVlE0X01aOWRMVTFfQzR0Y3p5cm9WMThaR1l3?oc=5"
+          },
+          {
+            "label": "长沙以网络安全赋能AI企业实践",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5Wm93TTU5YzNxdGRJQm5iSkY0dkU5ZE1HS2dmOXpodENGc0pMcnBsREdZdmw5T1dnaDBoLVFRVWxBbFdvM0RaY3FwR201V0hy?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGRTQnNXZklNck1yN3R3MFliYUhZNVZWczRISllaWnZRMHFvcURZUGlFXzZkVHNGbml1T0IxQ09IZEpLclFUaTAzd0ZoT3Q3MGlxVlpoNzFZSmhZRUdDVm92WlltX3RRVFVTMTltU09JRDROcDFZeTQ4akl3X0pZNVlGZTJHdHRj?oc=5"
+      },
+      {
+        "slug": "ai-news-20260424-auto-2-566477",
+        "title": "DeepSeek V4再推降本",
+        "category": "AI新闻",
+        "date": "2026-04-24",
+        "summary": "DeepSeek发布V4版本，市场关注其对智能体成本结构的影响。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek V4再推降本 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月24日，DeepSeek V4相关消息引发行业关注，讨论重点集中在智能体应用的推理与部署成本变化。",
+          "blocks": [
+            {
+              "heading": "产品发布的关键信号",
+              "paragraphs": [
+                "从已披露信息看，V4版本的核心叙事是“降本增效”，尤其指向agentic AI场景中的调用成本、任务编排效率和规模化可用性。",
+                "这类升级对B端客户意义较大，因为智能体项目普遍面临持续调用带来的成本压力，版本更新若能稳定降低单任务成本，将直接影响采购决策。",
+                "市场也在关注该版本在不同硬件与部署模式下的表现差异，以判断其是短期价格优势还是可持续的工程能力提升。"
+              ]
+            },
+            {
+              "heading": "对产业链的传导影响",
+              "paragraphs": [
+                "模型侧降本通常会向应用侧传导，企业可在同等预算下扩大试点规模，或将节省预算投入到数据治理、流程改造与安全合规环节。",
+                "对AI创业公司而言，底层能力成本下降意味着进入门槛变化，竞争焦点将进一步转向行业场景理解、交付速度和客户留存能力。",
+                "对传统软件与物联网企业而言，若AI能力获取成本下降，产品线叠加智能模块的可行性提高，跨行业合作机会也将增加。"
+              ]
+            },
+            {
+              "heading": "资本与市场观察点",
+              "paragraphs": [
+                "资本市场近期对AI板块的关注，正从单纯追逐概念转向验证商业闭环，降本叙事能否兑现为收入增长是下一阶段关键。",
+                "行业需要观察V4在真实业务中的稳定性指标，包括响应时延、复杂任务完成率、以及多轮调用下的总拥有成本表现。",
+                "如果后续案例显示其在企业级场景具备可复制性，AI应用市场可能进入更强调ROI的竞争阶段，推动产品化与标准化进程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DeepSeek is back with V4, slashing agentic AI costs",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDExY2oyQ2hTY3dyNHVld2hQcFhYTGdJOWpGYnlwSUtBcFByMlNLU3o0MTRSZlhNRHBnODVUNFk1N3hxQWFrM0N2QXpUTW16QkR1OWlPa2lDUHVDUmQxTzExbnA5emVoOFZabzdqczJGQk1TR3lQUzl5VUdCRjUxV3JKZnRNYXU0U0dnajNuNVlpa1JyRWNja3B5R0QwS1E?oc=5"
+          },
+          {
+            "label": "DeepSeek V4发布推动AI产业正循环",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjBOSlNaalZZemxWakYxaUQ1YlE5dFpjaXJIRDlRVTU1Nm5uenN6RmJhdUU1ZkR0SzR5WXc2QnRma3JNZUM3NmxqS2tXM280aktVODhVdEQ5b0I0R0hDNXEwdXR4XzdIeW1rSnlfSU5LMWlGcUprOUpTbUFSZVZYQ3FITlh3NWM2TTBuQg?oc=5"
+          },
+          {
+            "label": "联检科技等成立新公司 含AI及物联网业务",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0YnlfNDFmRUE0bjZQcm5Wc3FvS0FvYjhIM1I4Z3g1RXh1cHZmTXdyWUtKOEtLY0xpTTdUT1BoOEVPbjMzcjc5cXdvUnM1SWl0ZHowbUNsU2libzZEVUpoRFowMEJwdw?oc=5"
+          }
+        ],
+        "source": "Techzine Global",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZDExY2oyQ2hTY3dyNHVld2hQcFhYTGdJOWpGYnlwSUtBcFByMlNLU3o0MTRSZlhNRHBnODVUNFk1N3hxQWFrM0N2QXpUTW16QkR1OWlPa2lDUHVDUmQxTzExbnA5emVoOFZabzdqczJGQk1TR3lQUzl5VUdCRjUxV3JKZnRNYXU0U0dnajNuNVlpa1JyRWNja3B5R0QwS1E?oc=5"
+      },
+      {
         "slug": "ai-news-20260423-auto-1-cbdb24",
         "title": "谷歌追加7.5亿美元投AI伙伴",
         "category": "AI新闻",
@@ -3067,6 +3183,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260424-auto-1-cca536",
+        "title": "种子思维提示词实战",
+        "category": "AI使用教程",
+        "date": "2026-04-24",
+        "summary": "用Seed-of-Thought方法提升多选决策质量",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "种子思维提示词实战 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026-04-24的应用语境下，很多团队把大模型用于“多方案择优”，但常见问题是答案看似合理却缺少比较过程。Seed-of-Thought可理解为先给模型一个可扩展的“思考种子”，再要求其围绕同一评价框架生成、筛选和复核选项。下面给出可直接落地的教程。",
+          "blocks": [
+            {
+              "heading": "先搭建可执行的决策模板",
+              "paragraphs": [
+                "第一步先定义任务边界：写清目标、约束、输出格式。建议使用三行输入模板：1）目标一句话；2）硬约束三条；3）可接受风险两条。这样可减少模型偏题。",
+                "第二步设置统一评分维度，推荐4项：成本、时间、效果、可维护性，每项1到5分。要求模型对每个候选方案都逐项打分并给出一句理由，避免只给总分。",
+                "第三步加入“种子句”。示例：\"先提出3个可行方向，再按同一评分表比较，最后只保留1个主方案与1个备选方案\"。该种子句是后续推理的锚点。"
+              ]
+            },
+            {
+              "heading": "用三轮提示完成方案收敛",
+              "paragraphs": [
+                "第1轮用发散提示：让模型生成3到5个方案，不允许直接下结论。提示词可写：\"仅列方案与关键假设，不做推荐\"。目标是拿到多样候选池。",
+                "第2轮用评估提示：粘贴上一轮结果，要求按固定评分表逐项评分，并标记信息不足项。此处要强制输出表格，字段含方案名、四维评分、主要风险、补充数据需求。",
+                "第3轮用收敛提示：要求模型基于评分与风险给出主方案、备选方案和执行顺序（今天、本周、本月）。同时要求写出“放弃其他方案”的原因，便于团队复盘。"
+              ]
+            },
+            {
+              "heading": "上线前做校验与复盘",
+              "paragraphs": [
+                "实操建议一：做一次反向提问。把模型结论改写为\"如果该方案失败，最可能因为什么\"，让模型给出前三失败点和对应缓解动作，用于补齐执行清单。",
+                "实操建议二：做最小试点。不要直接全面上线，先选单一场景跑1到2周，记录输入、输出、人工修改量和最终效果，形成可量化对照。",
+                "实操建议三：沉淀团队模板库。把高质量种子句、评分维度、失败案例归档为版本化文档，每两周更新一次。这样能在后续任务中持续提升提示一致性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Forbes：Seed-of-Thought 提示技术",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYXQ5MWhDNHdLRjFpN2FFMVNrX2l6TnFkamtJX0F2S3pCMlNFSzczMEdFQnpsNGV6eXV6bTB2SWpLYms3MGhyejZIWWVRakJhUDJDVjNVTjBJOEtmdnpOWnFCZWFleUI1U1BWVE1KaEhhMlBSOVVjTnJIZkJoZmhnV0hBSzU3RWlyQld2ZDFFSUhsX3A3b3hvby03UWthQzltQXJhcGQ5Zm51amRsblBjUnFyS2ZLMHFJXzBuS2FQbEJ0Y2RlRkJHZHhSdFBYbEs3WDZWcXEwNVVZNzJ3TUhvZTBxOHF4RHVFYVR2dzJiYlVjNWdZRzQ1Mmx3U2lwY00?oc=5"
+          },
+          {
+            "label": "eWeek：提示工程速查",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMC1HSmtjUVR1eE8yclgwM2NzNkxEUjJpSUxfR19Ud2g2VHpJZ0lhSWZ2N3pEU095NjRXRFVJamFzQXFCUnNRX2sxMHUyRDVJdjc5emZ4QnoxbHh0Ylg1OUxxOGtFZ2hUenk0eUdjUWt0dw?oc=5"
+          },
+          {
+            "label": "Redmondmag：日常IT为何更需高质量提示",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVN5R1FtZ19GckM2LTVQUm50aDRrYjhGTWZ3a0dRdWh1X28tNTFxTm1VQTFwLUJFMEk5OHJXazl0TTZJbmFTTVphNDlwMkVxQk0wWGNkVXJoeWo5UlgyMVZQQ3gzWmRoWEZLMmVEaU50U2lzLVlyTDVjcHhFRGo3TTZqYlM0dGNG?oc=5"
+          }
+        ],
+        "source": "Forbes",
+        "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYXQ5MWhDNHdLRjFpN2FFMVNrX2l6TnFkamtJX0F2S3pCMlNFSzczMEdFQnpsNGV6eXV6bTB2SWpLYms3MGhyejZIWWVRakJhUDJDVjNVTjBJOEtmdnpOWnFCZWFleUI1U1BWVE1KaEhhMlBSOVVjTnJIZkJoZmhnV0hBSzU3RWlyQld2ZDFFSUhsX3A3b3hvby03UWthQzltQXJhcGQ5Zm51amRsblBjUnFyS2ZLMHFJXzBuS2FQbEJ0Y2RlRkJHZHhSdFBYbEs3WDZWcXEwNVVZNzJ3TUhvZTBxOHF4RHVFYVR2dzJiYlVjNWdZRzQ1Mmx3U2lwY00?oc=5"
+      },
+      {
         "slug": "ai-guide-20260423-auto-1-ac66cf",
         "title": "千问AI PPT实操教程",
         "category": "AI使用教程",
@@ -4023,6 +4197,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260424-auto-1-2137a7",
+        "title": "Soul开源实时数字人模型",
+        "category": "开源项目",
+        "date": "2026-04-24",
+        "summary": "SoulXFlashTalk发布，主打亚秒级实时数字人口型生成。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Soul开源实时数字人模型 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月24日，Soul宣布开源实时数字人生成模型SoulXFlashTalk，重点是将语音驱动的人脸口型与表情生成延迟压到亚秒级，面向直播、客服和在线教育等互动场景。",
+          "blocks": [
+            {
+              "heading": "更新看点与定位",
+              "paragraphs": [
+                "此次更新的核心在于“实时性”与“可部署性”。从披露信息看，SoulXFlashTalk强调在连续语音输入下保持较低端到端时延，降低数字人在连麦、问答场景中的卡顿感。",
+                "项目定位偏工程化，而非单纯离线生成。与传统先录音再渲染的流程相比，实时架构更适合需要边说边动的产品形态，例如虚拟主播、智能导览员和企业服务机器人。",
+                "从开源生态角度看，这类项目能让中小团队直接复用基础能力，不必从音视频同步、驱动网络和推理服务框架全部自研，缩短原型验证周期。"
+              ]
+            },
+            {
+              "heading": "用途与适配场景",
+              "paragraphs": [
+                "在内容生产侧，团队可将其用于短视频批量制作与直播辅助，让真人主持与数字分身并行工作，降低重复录制成本。对多语言内容团队来说，也有利于做统一视觉形象输出。",
+                "在企业应用侧，数字前台、在线客服、知识库讲解是较直接的落地方向。若与检索或对话模型结合，可形成“语音输入—文本理解—数字人反馈”的闭环。",
+                "在教育与培训侧，实时数字讲师可用于标准化课程说明、题目讲解和业务培训。其价值不在替代教师，而在于处理高频、重复、时段分散的问答任务。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在三部分：一是推理硬件与低延迟服务编排，二是音频前处理与降噪链路，三是业务端播放器与互动协议对接。对已有实时音视频栈的团队，接入会更快。",
+                "开发者初次试用可先做单说话人、固定镜头、受控光照的最小可行版本，再逐步增加复杂背景、多人会话和长时稳定性测试。这样更容易定位性能瓶颈。",
+                "合规层面建议同步评估肖像授权、合成内容标识和日志审计。尤其在客服与教育场景，需明确“AI生成”提示机制与人工接管策略，降低误导风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AIBase首发报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EUjd1WWVvd20xQmNVSlltZnB6aEhZQnh1R3NtQkFVUlNZYURMTE81SzJ2cWszYWxIZlZFNjRmbWZGZTA4NXNIQ1hWeXJYZw?oc=5"
+          },
+          {
+            "label": "相关行业动态：开源维护压力",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwbE5MR1ZtNDhNa0dzdHB5SUNzc2dwQWJoX1pSQk9FcFBvOTBQdlY4NFozM3p3QkxGZkhuQjgzNVpMSzVEbUl3eQ?oc=5"
+          },
+          {
+            "label": "实时推理场景背景参考",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXREbE5qYk5XWFFKQ2o5bXY5SlpXbGZBdnphZ3hlUWVXQ2FFM0ZRNVExOEJlZXVONjQwYjJGRldlSWptdWJtZ08zMklPd052V3FwdEVEWkI1VzlEUFdVU0tMVnc1c1hhQmNZczBiU0VCMFpfcE0wb3dWRE5tUG1iaDRrTnQwRVpZb1piVkM3VlA?oc=5"
+          }
+        ],
+        "source": "AIBase",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EUjd1WWVvd20xQmNVSlltZnB6aEhZQnh1R3NtQkFVUlNZYURMTE81SzJ2cWszYWxIZlZFNjRmbWZGZTA4NXNIQ1hWeXJYZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260424-auto-2-c2c22d",
+        "title": "Google开源DESIGN.md",
+        "category": "开源项目",
+        "date": "2026-04-24",
+        "summary": "Google推出DESIGN.md，尝试标准化AI Agent界面设计描述。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google开源DESIGN.md 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月24日，围绕Google开源DESIGN.md格式的消息持续发酵。该格式面向AI Agent与设计协作流程，目标是把界面意图、组件约束和品牌规则写成可被模型读取的结构化文档。",
+          "blocks": [
+            {
+              "heading": "这次开源解决什么问题",
+              "paragraphs": [
+                "在多Agent或人机协作设计中，常见问题是提示词分散、组件命名不统一、品牌规范难复用。DESIGN.md试图把这些约束集中到单一文档，减少沟通损耗。",
+                "对团队而言，它更像“设计侧的可执行说明书”：不仅给设计师阅读，也给生成模型、代码助手和评审流程共同使用，降低跨角色信息偏差。",
+                "这类格式化资产若被广泛采用，有机会形成跨工具迁移能力。即便更换设计平台或模型供应商，核心规范仍可通过文档层保持连续性。"
+              ]
+            },
+            {
+              "heading": "典型用途与落地价值",
+              "paragraphs": [
+                "第一类用途是AI原型生成。团队可在DESIGN.md中先定义页面结构、交互规则、文案语气，再让Agent生成初稿，减少从空白画布开始的时间成本。",
+                "第二类用途是品牌一致性控制。对多产品线企业，可把色板、间距、组件状态和禁用模式写入标准模板，降低不同团队输出风格漂移。",
+                "第三类用途是评审与审计。结构化规范便于自动检查，例如是否违反可访问性要求、是否超出组件边界，从而把设计评审前置到开发前期。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛总体中等，关键不在语法本身，而在组织是否已有稳定设计系统。没有设计令牌、组件库和命名规范的团队，先补齐基础资产会更实际。",
+                "建议的落地顺序是：先选一个单页面流程试点，再沉淀模板字段，最后接入自动化校验。以小范围迭代替代一次性全量切换，可降低协作摩擦。",
+                "在发布与运营层面，仍需人工把关关键页面与高风险交互。DESIGN.md更适合作为“标准承载层”，而不是完全替代设计决策本身。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AIBase中文报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZcWx2WlRHWjdYbTF0ZU5WckJ6Z3MxLVB1ZElxcVc4eF8yZWhIMjBWVmxFZllZdFBGYTJuNm5Zc0RsSVoyay10SkxRMWlvZw?oc=5"
+          },
+          {
+            "label": "the-decoder补充解读",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUxkZVMzSkd3NXBJbmdOaE8zd3NrRHM0VzJaMTFNRUw1V2tNM1VHYkh4NEpKSThsWVgwOEYxLVRxUmdfWk9jcDBBT1p3Z1pNVE5jdG5nR0RUUjMwWmVZSjRrX3Jjc2VMMFRwcXhfV3VXV291OExrRjU1VjU5RE9zWDQ5SEtGVzBUczl4eWVUdUhaTXpQR2YxNWk2amh1NzlJSXZDMnV5UENlU2pldzVKLTNUc25tc1BWUW55SW9pS0w?oc=5"
+          },
+          {
+            "label": "Google.org开源方法论背景",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUS1jcTdka1d1MGs0cUVfZlRuTEpRZEFiampoYmFtSXF5TGt2X3ZPZGJmQVphdUlNSjlrXzVjd1g3djdxX2lJWlRkMXBqWWtlVjFUelRFSU9kQkJRcFBaZVUtNUEyS3VaZjNoTUpxODVBQnBaQ3RVZ1lEWlVXWjJ2MFpyVnF1U0lzbVRhN2o2Q2FGbWRhemdQRnFaQnMyUnVkRTFKUkhFcXZnNFYyLVRndjhCdTFEZ3pCRndoS002UXFfMUtzQkRUa0E5SHE?oc=5"
+          }
+        ],
+        "source": "AIBase",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZcWx2WlRHWjdYbTF0ZU5WckJ6Z3MxLVB1ZElxcVc4eF8yZWhIMjBWVmxFZllZdFBGYTJuNm5Zc0RsSVoyay10SkxRMWlvZw?oc=5"
+      },
       {
         "slug": "open-source-20260423-auto-1-6511cc",
         "title": "腾讯开源Cube Sandbox",

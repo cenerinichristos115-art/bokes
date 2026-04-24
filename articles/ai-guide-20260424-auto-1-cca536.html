@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>种子思维提示词实战 | 寂川日报</title>
+<meta name="description" content="用Seed-of-Thought方法提升多选决策质量" />
+<meta name="keywords" content="AI新闻,AI使用教程,Forbes" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260424-auto-1-cca536.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="种子思维提示词实战" />
+<meta property="og:description" content="用Seed-of-Thought方法提升多选决策质量" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260424-auto-1-cca536.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-04-24" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="种子思维提示词实战" />
+<meta name="twitter:description" content="用Seed-of-Thought方法提升多选决策质量" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"种子思维提示词实战","datePublished":"2026-04-24","dateModified":"2026-04-24","description":"用Seed-of-Thought方法提升多选决策质量","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260424-auto-1-cca536.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260424-auto-1-cca536.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">种子思维提示词实战</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-04-24">2026-04-24</time> | 文章日期：<time datetime="2026-04-24">2026-04-24</time> | 来源：Forbes</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="种子思维提示词实战 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">先搭建可执行的决策模板</a></li>
+<li><a href="#section-2">用三轮提示完成方案收敛</a></li>
+<li><a href="#section-3">上线前做校验与复盘</a></li>
+</ul>
+</nav>
+<p class="detail-intro">在2026-04-24的应用语境下，很多团队把大模型用于“多方案择优”，但常见问题是答案看似合理却缺少比较过程。Seed-of-Thought可理解为先给模型一个可扩展的“思考种子”，再要求其围绕同一评价框架生成、筛选和复核选项。下面给出可直接落地的教程。</p>
+<section>
+<h2 id="section-1">先搭建可执行的决策模板</h2>
+<p>第一步先定义任务边界：写清目标、约束、输出格式。建议使用三行输入模板：1）目标一句话；2）硬约束三条；3）可接受风险两条。这样可减少模型偏题。</p>
+<p>第二步设置统一评分维度，推荐4项：成本、时间、效果、可维护性，每项1到5分。要求模型对每个候选方案都逐项打分并给出一句理由，避免只给总分。</p>
+<p>第三步加入“种子句”。示例：&quot;先提出3个可行方向，再按同一评分表比较，最后只保留1个主方案与1个备选方案&quot;。该种子句是后续推理的锚点。</p>
+</section>
+<section>
+<h2 id="section-2">用三轮提示完成方案收敛</h2>
+<p>第1轮用发散提示：让模型生成3到5个方案，不允许直接下结论。提示词可写：&quot;仅列方案与关键假设，不做推荐&quot;。目标是拿到多样候选池。</p>
+<p>第2轮用评估提示：粘贴上一轮结果，要求按固定评分表逐项评分，并标记信息不足项。此处要强制输出表格，字段含方案名、四维评分、主要风险、补充数据需求。</p>
+<p>第3轮用收敛提示：要求模型基于评分与风险给出主方案、备选方案和执行顺序（今天、本周、本月）。同时要求写出“放弃其他方案”的原因，便于团队复盘。</p>
+</section>
+<section>
+<h2 id="section-3">上线前做校验与复盘</h2>
+<p>实操建议一：做一次反向提问。把模型结论改写为&quot;如果该方案失败，最可能因为什么&quot;，让模型给出前三失败点和对应缓解动作，用于补齐执行清单。</p>
+<p>实操建议二：做最小试点。不要直接全面上线，先选单一场景跑1到2周，记录输入、输出、人工修改量和最终效果，形成可量化对照。</p>
+<p>实操建议三：沉淀团队模板库。把高质量种子句、评分维度、失败案例归档为版本化文档，每两周更新一次。这样能在后续任务中持续提升提示一致性。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYXQ5MWhDNHdLRjFpN2FFMVNrX2l6TnFkamtJX0F2S3pCMlNFSzczMEdFQnpsNGV6eXV6bTB2SWpLYms3MGhyejZIWWVRakJhUDJDVjNVTjBJOEtmdnpOWnFCZWFleUI1U1BWVE1KaEhhMlBSOVVjTnJIZkJoZmhnV0hBSzU3RWlyQld2ZDFFSUhsX3A3b3hvby03UWthQzltQXJhcGQ5Zm51amRsblBjUnFyS2ZLMHFJXzBuS2FQbEJ0Y2RlRkJHZHhSdFBYbEs3WDZWcXEwNVVZNzJ3TUhvZTBxOHF4RHVFYVR2dzJiYlVjNWdZRzQ1Mmx3U2lwY00?oc=5" target="_blank" rel="noopener noreferrer">Forbes（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1wMC1HSmtjUVR1eE8yclgwM2NzNkxEUjJpSUxfR19Ud2g2VHpJZ0lhSWZ2N3pEU095NjRXRFVJamFzQXFCUnNRX2sxMHUyRDVJdjc5emZ4QnoxbHh0Ylg1OUxxOGtFZ2hUenk0eUdjUWt0dw?oc=5" target="_blank" rel="noopener noreferrer">eWeek：提示工程速查</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVN5R1FtZ19GckM2LTVQUm50aDRrYjhGTWZ3a0dRdWh1X28tNTFxTm1VQTFwLUJFMEk5OHJXazl0TTZJbmFTTVphNDlwMkVxQk0wWGNkVXJoeWo5UlgyMVZQQ3gzWmRoWEZLMmVEaU50U2lzLVlyTDVjcHhFRGo3TTZqYlM0dGNG?oc=5" target="_blank" rel="noopener noreferrer">Redmondmag：日常IT为何更需高质量提示</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
