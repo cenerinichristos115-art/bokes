@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260425-auto-1-bc1056",
+        "title": "Transcript: Why AI",
+        "category": "AI新闻",
+        "date": "2026-04-25",
+        "summary": "Transcript: Why AI CEOs Are Building Bunkers – Tri",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Transcript: Why AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Transcript: Why AI CEOs Are Building Bunkers – Tri",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Transcript: Why AI CEOs Are Building Bunkers – Tri",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Singju Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU1WcnZueXF0N3d4SU0yeEt5bjlNTThRLTFNZy1IUG1ES0RZS1ZNTTBIUklJQWl5UDVHbkNnN0Z1TnZtVloxZTVKbE9YV19SRml6NjVxWm5ETUl0Umw4Sjd0RHJMNFN5b1Bsd2NQdUl2aHFaQmFlLUFjRUNscmlNU01NVkt4VXZZVkE?oc=5"
+          },
+          {
+            "label": "新浪财经：AI当“红娘” 供需“秒匹配”——全国首个线上+线下全链条成果转化智能化服务平台在南宁正式亮相 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SU2lBQ2dDU3pMZVItVHFpMFhaWjNtX0JZdTBOSW1jVXZMTzRlcU1YRlJXeUtmVUpaM00yX21NZ3pLdEdXSzBab0xrMk5RempOX3ZNd1J1ZnUzZEV1RzFDdTNwTVA0NHhyakdQZ3p2VzBadl93dFE?oc=5"
+          },
+          {
+            "label": "blog.google：Our eighth generation TPUs: two chips for the agentic era - blog.googl",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdpOGpiZlhkZUpucVI1b1JoTDV4S0dQSmVQLTZaY1dHdkoxb3ZRbl9oa1BTZWgtdVhXN1U3TWFCN0t0WmI4eS1mdHp4X1o5Z0VUekJSbnF3NFU5YlgtTkMtX19yNXRUMi1odUluQ1dtbHktRXpoaTZUUmNvd1NsNlBlVEtybzgwQXI1aWJRUW4xNzVNdnBYTTFCV1kyWWNIMlViR3RicHpfTUtyNzJz?oc=5"
+          }
+        ],
+        "source": "The Singju Post",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU1WcnZueXF0N3d4SU0yeEt5bjlNTThRLTFNZy1IUG1ES0RZS1ZNTTBIUklJQWl5UDVHbkNnN0Z1TnZtVloxZTVKbE9YV19SRml6NjVxWm5ETUl0Umw4Sjd0RHJMNFN5b1Bsd2NQdUl2aHFaQmFlLUFjRUNscmlNU01NVkt4VXZZVkE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260425-auto-2-4c8f98",
+        "title": "AI当“红娘” 供需“秒匹配”——全",
+        "category": "AI新闻",
+        "date": "2026-04-25",
+        "summary": "AI当“红娘” 供需“秒匹配”——全国首个线上+线下全链条成果转化智能化服务平台在南宁正式亮相 新浪",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI当“红娘” 供需“秒匹配”——全 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI当“红娘” 供需“秒匹配”——全国首个线上+线下全链条成果转化智能化服务平台在南宁正式亮相 新浪",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI当“红娘” 供需“秒匹配”——全国首个线上+线下全链条成果转化智能化服务平台在南宁正式亮相 新浪",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SU2lBQ2dDU3pMZVItVHFpMFhaWjNtX0JZdTBOSW1jVXZMTzRlcU1YRlJXeUtmVUpaM00yX21NZ3pLdEdXSzBab0xrMk5RempOX3ZNd1J1ZnUzZEV1RzFDdTNwTVA0NHhyakdQZ3p2VzBadl93dFE?oc=5"
+          },
+          {
+            "label": "The Singju Post：Transcript: Why AI CEOs Are Building Bunkers – Tristan Harris - The Si",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU1WcnZueXF0N3d4SU0yeEt5bjlNTThRLTFNZy1IUG1ES0RZS1ZNTTBIUklJQWl5UDVHbkNnN0Z1TnZtVloxZTVKbE9YV19SRml6NjVxWm5ETUl0Umw4Sjd0RHJMNFN5b1Bsd2NQdUl2aHFaQmFlLUFjRUNscmlNU01NVkt4VXZZVkE?oc=5"
+          },
+          {
+            "label": "blog.google：Our eighth generation TPUs: two chips for the agentic era - blog.googl",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdpOGpiZlhkZUpucVI1b1JoTDV4S0dQSmVQLTZaY1dHdkoxb3ZRbl9oa1BTZWgtdVhXN1U3TWFCN0t0WmI4eS1mdHp4X1o5Z0VUekJSbnF3NFU5YlgtTkMtX19yNXRUMi1odUluQ1dtbHktRXpoaTZUUmNvd1NsNlBlVEtybzgwQXI1aWJRUW4xNzVNdnBYTTFCV1kyWWNIMlViR3RicHpfTUtyNzJz?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SU2lBQ2dDU3pMZVItVHFpMFhaWjNtX0JZdTBOSW1jVXZMTzRlcU1YRlJXeUtmVUpaM00yX21NZ3pLdEdXSzBab0xrMk5RempOX3ZNd1J1ZnUzZEV1RzFDdTNwTVA0NHhyakdQZ3p2VzBadl93dFE?oc=5"
+      },
+      {
         "slug": "ai-news-20260424-auto-1-218ae7",
         "title": "南京发布AI+软件方案",
         "category": "AI新闻",
@@ -3183,6 +3299,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260425-auto-1-a9407a",
+        "title": "How GPT Image 2 is",
+        "category": "AI使用教程",
+        "date": "2026-04-25",
+        "summary": "How GPT Image 2 is Revolutionizing AI Design for S",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How GPT Image 2 is 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How GPT Image 2 is Revolutionizing AI Design for S",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How GPT Image 2 is Revolutionizing AI Design for S",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TechBullion：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnV2UEhqUElmU2tmOGdoWXhVUHlqeFdnNzh4UkQ1TTE5NW53cnF6MnNSeGV0QlFkN2JFcGx4R1ZqVXl4U1EyYVFfeHZGYmpXZndSeFk3SkczcFpvSDdnd1pKX3NIZXdjRHFycUdPeEVpUElJWVN4VFcwcExSc09PQkxPRWQxM1B3ZTFqamFLYzZteXFxNVNuWDhqenEwelowOUpr?oc=5"
+          },
+          {
+            "label": "MSN：Get ChatGPT, Claude, and Gemini in your Chrome browser for life for ju",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcXBXMUVrYVJEZjBrLVFwa0dndXJQR0J3a1hwZjhEZ0FpWm91TFlsQmIxZnNMenA4elFUM1lFVXVCclVONnlSenMyLVlCVWVRbGNBWExtdTEwSnVOSDRGNmRWTkswX3JhN3ZpcDZQR182OUd2SWxCUk1RS3VVRW53TTFtRC1POGtoTnNqamxsT0o3bjc5eS1GM3BDRmVvcXVuakkxU3NJX2ViYWViaHp2YVlGeXBPdmVaNmhiX0w1a05MSHpubFE?oc=5"
+          },
+          {
+            "label": "HackerNoon：146 Blog Posts To Learn About Ai Tools - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52ZFBqNTQxMU5TRWMyREgwWnZGS1B2ODcwa0plVTFoaVVKb2U1OVozNlRvbTdBQnBEbFNBVTBlRzIzWkxUX3FyUGpuZHFGYlh5RW9sSTlYeDgwSVZwUnF3LWlyMXZrMlUzOTVYMGxR?oc=5"
+          }
+        ],
+        "source": "TechBullion",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnV2UEhqUElmU2tmOGdoWXhVUHlqeFdnNzh4UkQ1TTE5NW53cnF6MnNSeGV0QlFkN2JFcGx4R1ZqVXl4U1EyYVFfeHZGYmpXZndSeFk3SkczcFpvSDdnd1pKX3NIZXdjRHFycUdPeEVpUElJWVN4VFcwcExSc09PQkxPRWQxM1B3ZTFqamFLYzZteXFxNVNuWDhqenEwelowOUpr?oc=5"
+      },
+      {
         "slug": "ai-guide-20260424-auto-1-cca536",
         "title": "种子思维提示词实战",
         "category": "AI使用教程",
@@ -4197,6 +4371,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260425-auto-1-394f93",
+        "title": "NVIDIA Ising: Open",
+        "category": "开源项目",
+        "date": "2026-04-25",
+        "summary": "NVIDIA Ising: Open AI Models Stabilizing Fragile Q",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA Ising: Open 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NVIDIA Ising: Open AI Models Stabilizing Fragile Q",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA Ising: Open AI Models Stabilizing Fragile Q",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Intelligent Living：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DUDdWcU8tVUJkS0QzdkJ4Vl9SXzZ0UU5oNFY3cGxzcGY1ZHdseGxzWE1NZDMxbC1hSy1NYWdDQ0dmbkJlckNmNGc0N3Z6LWQ1SFF5WklUSUMwdmhZM0hLZnlFbmRxTTBQSzc3SGVhdG5KR1JZTlE?oc=5"
+          },
+          {
+            "label": "CXO Digitalpulse：ComfyUI Raises $30 Million to Scale AI Creator Tools and Expand Open-S",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamZWQWJYV3hrVGtrSVlwekxGWmw4TzVINDRvTnJpeFkzMUtxZG92QTlERjlrTVJKODdIWV9oX1lGczJrWlZaczZoWWRLN3NUWjBQYzI1NjFBaFdtbEJIdTNqdm1RYWxvZ2g5MUF4Zk5YTGp0RGdWTzRXZ1ZHU0Q5ZXYta0x2eTFxa1BsenV0U2w2YVlZVnNwdkhoWEhmQ2dwSmhuamk1NGJYdWFvZ1NsN01ubTV3ZExm?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That G",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNblc5d05IeXF5b3FtbEM1UHh4NmRibUJJemFwaUhyRUVHTjV6VXkySWZEY0phRHVqR2JVT3ZxNVV6dENUcWJiMTVDbFRjMm5SbFNIUlhaTU5GS1B1WUlnZDAtQVVOV2lsTUNqai1EQ20zbFpHaXpKUTNJQ21VOExnbG96LTJFeDMtVWVwVTR5OXRURDc1cEVZNTlTd2FJR3dpTFFDWDkzSTNGV3VSMzFlNGZJZUtBT29ZakpfME8zbXFaMHVURS1LU25YaHZLNl93OXN6UkVoU1V4YkV1bG1UTTBuQUNfY0gwVC02UnRiMVpXc19vWWdoaHEwcFEyakZFaGxjdkNoWdIBhwJBVV95cUxNblc5d05IeXF5b3FtbEM1UHh4NmRibUJJemFwaUhyRUVHTjV6VXkySWZEY0phRHVqR2JVT3ZxNVV6dENUcWJiMTVDbFRjMm5SbFNIUlhaTU5GS1B1WUlnZDAtQVVOV2lsTUNqai1EQ20zbFpHaXpKUTNJQ21VOExnbG96LTJFeDMtVWVwVTR5OXRURDc1cEVZNTlTd2FJR3dpTFFDWDkzSTNGV3VSMzFlNGZJZUtBT29ZakpfME8zbXFaMHVURS1LU25YaHZLNl93OXN6UkVoU1V4YkV1bG1UTTBuQUNfY0gwVC02UnRiMVpXc19vWWdoaHEwcFEyakZFaGxjdkNoWQ?oc=5"
+          }
+        ],
+        "source": "Intelligent Living",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DUDdWcU8tVUJkS0QzdkJ4Vl9SXzZ0UU5oNFY3cGxzcGY1ZHdseGxzWE1NZDMxbC1hSy1NYWdDQ0dmbkJlckNmNGc0N3Z6LWQ1SFF5WklUSUMwdmhZM0hLZnlFbmRxTTBQSzc3SGVhdG5KR1JZTlE?oc=5"
+      },
+      {
+        "slug": "open-source-20260425-auto-2-6df7eb",
+        "title": "ComfyUI Raises $30",
+        "category": "开源项目",
+        "date": "2026-04-25",
+        "summary": "ComfyUI Raises $30 Million to Scale AI Creator Too",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ComfyUI Raises $30 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "ComfyUI Raises $30 Million to Scale AI Creator Too",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ComfyUI Raises $30 Million to Scale AI Creator Too",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CXO Digitalpulse：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamZWQWJYV3hrVGtrSVlwekxGWmw4TzVINDRvTnJpeFkzMUtxZG92QTlERjlrTVJKODdIWV9oX1lGczJrWlZaczZoWWRLN3NUWjBQYzI1NjFBaFdtbEJIdTNqdm1RYWxvZ2g5MUF4Zk5YTGp0RGdWTzRXZ1ZHU0Q5ZXYta0x2eTFxa1BsenV0U2w2YVlZVnNwdkhoWEhmQ2dwSmhuamk1NGJYdWFvZ1NsN01ubTV3ZExm?oc=5"
+          },
+          {
+            "label": "Intelligent Living：NVIDIA Ising: Open AI Models Stabilizing Fragile Qubits for Hybrid Qua",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DUDdWcU8tVUJkS0QzdkJ4Vl9SXzZ0UU5oNFY3cGxzcGY1ZHdseGxzWE1NZDMxbC1hSy1NYWdDQ0dmbkJlckNmNGc0N3Z6LWQ1SFF5WklUSUMwdmhZM0hLZnlFbmRxTTBQSzc3SGVhdG5KR1JZTlE?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Meet GitNexus: An Open-Source MCP-Native Knowledge Graph Engine That G",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNblc5d05IeXF5b3FtbEM1UHh4NmRibUJJemFwaUhyRUVHTjV6VXkySWZEY0phRHVqR2JVT3ZxNVV6dENUcWJiMTVDbFRjMm5SbFNIUlhaTU5GS1B1WUlnZDAtQVVOV2lsTUNqai1EQ20zbFpHaXpKUTNJQ21VOExnbG96LTJFeDMtVWVwVTR5OXRURDc1cEVZNTlTd2FJR3dpTFFDWDkzSTNGV3VSMzFlNGZJZUtBT29ZakpfME8zbXFaMHVURS1LU25YaHZLNl93OXN6UkVoU1V4YkV1bG1UTTBuQUNfY0gwVC02UnRiMVpXc19vWWdoaHEwcFEyakZFaGxjdkNoWdIBhwJBVV95cUxNblc5d05IeXF5b3FtbEM1UHh4NmRibUJJemFwaUhyRUVHTjV6VXkySWZEY0phRHVqR2JVT3ZxNVV6dENUcWJiMTVDbFRjMm5SbFNIUlhaTU5GS1B1WUlnZDAtQVVOV2lsTUNqai1EQ20zbFpHaXpKUTNJQ21VOExnbG96LTJFeDMtVWVwVTR5OXRURDc1cEVZNTlTd2FJR3dpTFFDWDkzSTNGV3VSMzFlNGZJZUtBT29ZakpfME8zbXFaMHVURS1LU25YaHZLNl93OXN6UkVoU1V4YkV1bG1UTTBuQUNfY0gwVC02UnRiMVpXc19vWWdoaHEwcFEyakZFaGxjdkNoWQ?oc=5"
+          }
+        ],
+        "source": "CXO Digitalpulse",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamZWQWJYV3hrVGtrSVlwekxGWmw4TzVINDRvTnJpeFkzMUtxZG92QTlERjlrTVJKODdIWV9oX1lGczJrWlZaczZoWWRLN3NUWjBQYzI1NjFBaFdtbEJIdTNqdm1RYWxvZ2g5MUF4Zk5YTGp0RGdWTzRXZ1ZHU0Q5ZXYta0x2eTFxa1BsenV0U2w2YVlZVnNwdkhoWEhmQ2dwSmhuamk1NGJYdWFvZ1NsN01ubTV3ZExm?oc=5"
+      },
       {
         "slug": "open-source-20260424-auto-1-2137a7",
         "title": "Soul开源实时数字人模型",
