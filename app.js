@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260426-auto-1-92c360",
+        "title": "谷歌发布第八代TPU",
+        "category": "AI新闻",
+        "date": "2026-04-26",
+        "summary": "谷歌推出两款第八代TPU，面向智能体时代算力需求。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌发布第八代TPU 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月26日，谷歌披露第八代TPU产品路线，强调以两款芯片覆盖智能体应用的训练与推理需求，释放其在AI基础设施上的持续投入信号。",
+          "blocks": [
+            {
+              "heading": "产品发布与定位",
+              "paragraphs": [
+                "根据官方信息，本次第八代TPU以“智能体时代”作为核心场景，产品设计聚焦更高并行度和更稳定的规模化部署能力。",
+                "相较此前代际，谷歌在表述中更强调端到端系统效率，而非单一峰值性能，反映出AI工作负载从模型开发转向长期运营。",
+                "两款芯片并行发布的策略，意味着其可能在不同客户类型和业务阶段中提供分层选择，以覆盖成本、时延与吞吐的差异化需求。"
+              ]
+            },
+            {
+              "heading": "云竞争与产业影响",
+              "paragraphs": [
+                "在全球云服务竞争中，AI芯片与平台能力已成为关键变量，谷歌此次更新也被视作其提升云业务吸引力的基础动作之一。",
+                "对于企业客户而言，芯片迭代不仅关系模型训练速度，还影响推理成本和上线节奏，进而直接作用于AI项目的商业化回报周期。",
+                "从生态角度看，硬件、框架和云服务的一体化程度持续提高，可能促使更多客户在采购时采用“平台整体评估”而非“单点比价”。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "短期内，市场将关注第八代TPU在实际业务中的可用性、供货节奏与区域覆盖情况，这些因素决定其落地速度。",
+                "中期看，关键指标包括单位算力成本变化、企业迁移门槛以及与现有模型工具链的兼容程度，相关结果将影响客户续约意愿。",
+                "截至目前，公开信息主要来自企业发布和媒体报道，具体商业条款与客户规模仍有待后续披露。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Google官方博客：第八代TPU",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdpOGpiZlhkZUpucVI1b1JoTDV4S0dQSmVQLTZaY1dHdkoxb3ZRbl9oa1BTZWgtdVhXN1U3TWFCN0t0WmI4eS1mdHp4X1o5Z0VUekJSbnF3NFU5YlgtTkMtX19yNXRUMi1odUluQ1dtbHktRXpoaTZUUmNvd1NsNlBlVEtybzgwQXI1aWJRUW4xNzVNdnBYTTFCV1kyWWNIMlViR3RicHpfTUtyNzJz?oc=5"
+          },
+          {
+            "label": "FT：谷歌以AI追赶云计算对手",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBacXlDNGF0RzIxdGloSFAwejBnYjRVcFFSZHItRW1BV1FzWjJKdnlEeVNxQkRidnlvRTg1aVVkV1dfWnk5RkZLVHRuQUtnRlNPeldTcjdUWkdkcG9jbWlEMW83ajg3eW5PY28zNk9xeE4?oc=5"
+          },
+          {
+            "label": "MSN：花旗联合Google Cloud推AI助手",
+            "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOQlUwYmgyWHBzNXMwOE8zcFVkTlJUOU4zMEFaSmVFNTRTenh5UEN2SWJKM2x4R0Z6VnlsbUJVeHJZTWJmcVhKWXJxOUVXTkthZmgzeTBNdnhMXy10RmZ5VjFGZ2lqdnBSU3U3LXVoVnRyTlA0Sm1peFhEbVhVX0hmUW9XM0FEUnZ0VXhraXBON2VBMGcxOXdaWmx6X09QM0ZnWjFXT3BkdVg2dURURFNFb2FpeFo3bmt0ODU3czFETXk0d2tvbGtIQ2g0Q2U5NV9rV0NaTENZQWQ3dGFVTXd2Uk96MU55M1FTVVZBNk55SjRTOG92UHU4MlA0a1FIdG1IUmlfMUEzOE5HSEw2SHRESTZYNlE4Y3JBX0pOU255a2pDQUdDSFJJcXVKTGtIQVNsbHVJSUwzZkpOWFV1T3JPMHNtZWdiX1FNcEdfcGZvb1FjUVBLbFlHTXBhMUt5R2NpTWlzbU40bnA?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdpOGpiZlhkZUpucVI1b1JoTDV4S0dQSmVQLTZaY1dHdkoxb3ZRbl9oa1BTZWgtdVhXN1U3TWFCN0t0WmI4eS1mdHp4X1o5Z0VUekJSbnF3NFU5YlgtTkMtX19yNXRUMi1odUluQ1dtbHktRXpoaTZUUmNvd1NsNlBlVEtybzgwQXI1aWJRUW4xNzVNdnBYTTFCV1kyWWNIMlViR3RicHpfTUtyNzJz?oc=5"
+      },
+      {
+        "slug": "ai-news-20260426-auto-2-ca25d0",
+        "title": "东软智行联手腾讯云",
+        "category": "AI新闻",
+        "date": "2026-04-26",
+        "summary": "双方达成战略合作，聚焦AI智能座舱产品与解决方案。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "东软智行联手腾讯云 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月26日，东软智行与腾讯云宣布战略合作，目标是共同打造AI智能座舱产品及解决方案，显示车载AI生态正从单点功能向平台协同演进。",
+          "blocks": [
+            {
+              "heading": "合作范围与业务焦点",
+              "paragraphs": [
+                "从已披露信息看，双方合作聚焦智能座舱场景，预计覆盖语音交互、内容服务、系统运营等多个模块。",
+                "与传统车机项目相比，战略合作通常强调长期技术协同和联合交付，意味着双方可能在产品路线和客户拓展上建立更深绑定。",
+                "在产业端，车企对“可量产、可持续迭代”的AI方案需求提升，云厂商与汽车软件企业联合成为常见组织方式。"
+              ]
+            },
+            {
+              "heading": "对汽车AI产业的意义",
+              "paragraphs": [
+                "当前智能汽车竞争从硬件配置逐步转向软件体验，座舱AI能力已成为影响用户粘性和品牌差异化的重要因素。",
+                "通过云侧能力接入，座舱系统可在数据闭环、模型更新和服务编排方面获得更高弹性，但也对稳定性与安全提出更高要求。",
+                "此次合作释放的信号是，产业链正推动“车端+云端”协同研发，企业将更多围绕全生命周期运营构建商业模式。"
+              ]
+            },
+            {
+              "heading": "落地挑战与观察指标",
+              "paragraphs": [
+                "后续成效将取决于量产车型覆盖、项目交付周期和客户续签情况，这些指标比单次发布更能反映合作质量。",
+                "同时，车规级可靠性、隐私合规和跨品牌适配能力仍是关键挑战，决定方案能否在更广泛车企中复制。",
+                "截至目前，公开信息未披露具体财务规模与独家条款，市场仍需跟踪双方在后续车型与版本中的实际进展。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：东软智行与腾讯云战略合作",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kZlJoeENvTWxwUGwwZEZpVHhHTnN5OUQ1OHFhRksxdTQxZDBGanQtZVM2VXNnNWp1OUtxZDhpM0tvWXA5cWhZOS1lVQ?oc=5"
+          },
+          {
+            "label": "新浪财经：自动驾驶软硬一体化趋势",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX01QNUNjSGhiOC1fUmR0WXF6bGlTemxhZEk2b3I4azUzYnF1V2NDYTJXRTYwV1d4bmw1MlRuRGRXeDdvVUhCNWhtbGN2WGVUUGF5ZFNaMEJrMUUxTVNkZkdPTFBfMnlZa29CR3BGRGJ1OHNjQ05QUTBVMUk5TmVfNkFoUTJrSTFXOGF2ZlRuVFJCUy14Y3NZeDU1TXREQlZGWmxiQWRNTmMwTmZfOVpPbHV4RU80bEZWSHRGOUIzMWpIcnEzNlNxYy00TnNqRXVUQjRQZUJWbjRZZ2Z5c3NYVXBaZTlsZm1TcDczU3FGajhJWGJkSG5PTUNTMTFqZw?oc=5"
+          },
+          {
+            "label": "MSN：SentinelOne与Google Cloud合作",
+            "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxObm1sRzJzSFNqeDFESUxwejNhTHBhOHY1SGpKVlMtbmdneTA3UTlCek92cTIxT0Z5Wk9WclFkejVIMWRLZ3hXem1tdXQwTWFSTTMzODBPaDBpel81WDZyc095Q1QyWkpWX3p6aEE1S3lmejBVZHlXLXVrQVV0MmFVNW1NRnBFWVRvRmdwUTdXWUpZdmpqNnNROFU5dTdHaTJoejRNSk93eU1vanR5aVFNTkd0RFhxVVhJdFlGdkgtUHhYaVI1S0ZWYmJPdVhIaVFNajJiZE9CQkRhZkZhclkzXzQ4Q2RaMHNXMG9sTnRwUDdUY1ZrNFROV0FWa1FucnVKdVlCSmJZaXcyRHhtZ2xwLWdxYWgtQ0lOanB5RGpCOW9kb1U1SVY3OThxMlZSUmR0Ujl0Qmd0Y1BocG95OV9YdXFEeUlrVFNVbkxBcW1DclJ5OWtNc0NnRVpERkprZ3piWWNHdFc3ZGE3cGtSWXBfTEx3d3gxSEdwc19lUkVjbkQyRWRQWm9ZNA?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kZlJoeENvTWxwUGwwZEZpVHhHTnN5OUQ1OHFhRksxdTQxZDBGanQtZVM2VXNnNWp1OUtxZDhpM0tvWXA5cWhZOS1lVQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260425-auto-1-bc1056",
         "title": "Transcript: Why AI",
         "category": "AI新闻",
@@ -3299,6 +3415,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260426-auto-1-cf9288",
+        "title": "GPT图像生成实操教程",
+        "category": "AI使用教程",
+        "date": "2026-04-26",
+        "summary": "结合GPT-Image-2新闻，给出可复用出图流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT图像生成实操教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "基于2026-04-26可获取的信息，本文整理一套面向内容创作者与运营人员的GPT-Image-2出图流程，重点是可直接执行的提示词写法、迭代顺序与质检清单。",
+          "blocks": [
+            {
+              "heading": "步骤一：先做任务拆解再写提示词",
+              "paragraphs": [
+                "先把需求拆成四项：用途、主体、风格、限制。用途示例：文章配图、海报首图、社媒封面；主体示例：人物、产品、场景；限制示例：禁止文字水印、避免多余手指、背景干净。拆解完成后再写提示词，可减少返工。",
+                "建议使用“主提示+负面约束”双层结构。主提示描述画面目标，负面约束写不希望出现的元素，如“不要模糊背景中的文字，不要畸形肢体，不要额外logo”。这与传统文生图中的Prompt和Negative Prompt思路一致，便于稳定控制结果。",
+                "可直接套用模板：\"为{用途}生成一张{风格}图像，主体是{主体描述}，镜头为{景别/角度}，光线{光照描述}，色彩{配色}，画幅{比例}；避免{不需要元素1、2、3}\"。先用简版模板出第一张，再逐项补细节。"
+              ]
+            },
+            {
+              "heading": "步骤二：用三轮迭代法提升可用率",
+              "paragraphs": [
+                "第一轮只测构图，不追求细节。一次生成3到4张，对比主体位置、留白区域、阅读动线，选最接近目标的一张作为基底。此阶段只改“构图词”，例如“居中构图、三分法、低机位、俯拍”。",
+                "第二轮专注风格统一。固定第一轮选中的构图描述，只调整材质与氛围词，例如“写实摄影感、电影级冷暖对比、柔和侧光、低饱和商业质感”。每轮只改1到2个变量，避免无法判断改动效果。",
+                "第三轮做发布前精修：检查人物手部、面部对称、背景重复纹理、边缘破碎、品牌元素冲突。若用于中文内容，建议把标题与按钮等文字后期叠加，不依赖模型直接出字，以降低错字率。"
+              ]
+            },
+            {
+              "heading": "步骤三：建立可复用工作流与质检表",
+              "paragraphs": [
+                "把高频场景沉淀为提示词库，至少包含“科技产品图、人物采访封面、教程步骤插图”三类模板。每个模板保留版本号与样例图，后续只替换主题变量，可在团队内快速复用。",
+                "发布前执行5项质检：分辨率是否满足平台要求、画面是否有侵权元素、人物与物体是否结构正常、色彩是否与品牌规范一致、是否与文章核心观点一致。质检通过再进入排版流程。",
+                "最后记录本次参数：提示词版本、生成轮次、最终选图原因和被淘汰原因。连续记录两周后，通常能形成稳定的“少改动高命中”策略，显著提高教程、资讯与运营配图的交付效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "爱范儿：等等，这些图是GPT-Image-2出的？！",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VWVNDR042Y0JYSE5EU21hNzdMTmFYS2lybFN3Mk5PeGswZ2JtWWtmSnVLd192aXdmY0JBOVJTSzdKUWc?oc=5"
+          },
+          {
+            "label": "新浪财经：Stable Diffusion v1.5基础教程",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblpxR0U1aTUwaVlCR0hmbE84SXNEbURkZ1R2ZjhLRTVycHFjQ3U3Qm1fTmNWdnJsZU1rNnlZaG9PX2RURGZlSFV0cDMwWVZXWDB1U09RQXFneHN6YXVwcGtYbkJjRkxYbW5UakxsUlVLR0h6R2NLcUIzanNIV3lJTnRsTk8?oc=5"
+          },
+          {
+            "label": "blockchain.news：8种提示工程方法",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2w4VWhpLUpwN0R6VlM1TDVYakgxdlZ0dkM4VW9DOHR4YllXX0lOQ2VQMGd4VmVjT3dmX0stZnNCMm04RGVxTXlwZExySDY4X0FadEJiaUZJMWJIb1cyYXhGNENXdEZZT25ZNmI4aGNkbFppV1VFSHBMOGFKNUZ4dnBvQzRLbkQ5ZTRuT05jb0d6R09KLVV2cDVjYVhUdWZoU0VUT3gxUHY2ejhIT05BMzlWV2lUSUtsWHYtSGVkNnBabXM3?oc=5"
+          }
+        ],
+        "source": "爱范儿",
+        "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VWVNDR042Y0JYSE5EU21hNzdMTmFYS2lybFN3Mk5PeGswZ2JtWWtmSnVLd192aXdmY0JBOVJTSzdKUWc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260425-auto-1-a9407a",
         "title": "How GPT Image 2 is",
         "category": "AI使用教程",
@@ -4371,6 +4545,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260426-auto-1-687e6d",
+        "title": "OpenClaw默认切换V4",
+        "category": "开源项目",
+        "date": "2026-04-26",
+        "summary": "OpenClaw将DeepSeek V4设为默认模型，降低部署门槛。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw默认切换V4 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月26日，OpenClaw生态出现关键调整：默认模型切换至DeepSeek V4。对开发者而言，这意味着新用户可直接在默认配置中体验更强的通用与Agent能力，而无需先做复杂模型替换。",
+          "blocks": [
+            {
+              "heading": "更新要点与影响范围",
+              "paragraphs": [
+                "本次更新核心是“默认值变更”，不是单一演示发布。默认模型决定了用户首次体验、模板效果以及社区复现路径，通常会直接影响项目采用率。",
+                "DeepSeek V4进入默认位后，OpenClaw在多轮任务、工具调用和长上下文场景的基础能力预期将抬升，尤其适合Agent编排、自动化脚本和知识检索类流程。",
+                "对已有部署团队来说，最重要的是确认兼容层与推理参数是否沿用旧配置，避免因温度、上下文长度和工具协议差异带来结果波动。"
+              ]
+            },
+            {
+              "heading": "适用场景与上手门槛",
+              "paragraphs": [
+                "该组合适用于希望快速搭建开源Agent系统的团队，包括客服自动化、内部知识问答、代码辅助和流程编排等中等复杂度任务。",
+                "上手门槛相对可控：具备基础Python与容器经验的开发者可在现有OpenClaw流程中完成切换验证；若是新手，建议先从官方示例工作流入手。",
+                "资源门槛方面，开发阶段可先用小规模数据集验证提示词和工具链，再逐步扩展到生产负载，降低一次性迁移成本。"
+              ]
+            },
+            {
+              "heading": "部署建议与风险提示",
+              "paragraphs": [
+                "建议先做灰度发布：保留旧模型通道，对比任务成功率、响应时延和调用成本，再决定是否全量切换。",
+                "在Agent场景中，应重点回归测试工具调用稳定性、异常重试策略和权限边界，防止自动化流程在边缘输入下失控。",
+                "如果团队依赖历史提示词模板，建议同步做提示词重标定，并建立版本化评测集，以便在后续模型迭代中持续追踪效果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "53AI：DeepSeek V4成OpenClaw默认模型",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQlRUaTFraHR4M09tZzNEZEJldmdubFJMNzQ4bkdkVDc4U05SaU1NVzhLaG5HbXI5TUJONlR6OERZeENGeFlGdXkwblN0bzNLV2pTM2xCMGFHb2FZbm5ONkJjRTZ5UzhTV1E?oc=5"
+          },
+          {
+            "label": "智源社区：DeepSeek-V4更新解读",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sdVVQSEFkWGFrbl9BOTJYZTd4TkxhVHpHdDd3WlhwQ2lCM0x0OTVrMkpJejdBdDhSMkN2dXgzbjNHU1Bjc1VkZA?oc=5"
+          },
+          {
+            "label": "创业邦：DeepSeek-V4预览版上线并开源",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vWm1UZi1haTRJa25SejdFbWpkdG1IUHZzYVZSY3I2TV9BcHptYm5oQ3duc194czEyMkxTV09iengwTkU4Wk9LNGwwaE1HZmtz?oc=5"
+          }
+        ],
+        "source": "53AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQlRUaTFraHR4M09tZzNEZEJldmdubFJMNzQ4bkdkVDc4U05SaU1NVzhLaG5HbXI5TUJONlR6OERZeENGeFlGdXkwblN0bzNLV2pTM2xCMGFHb2FZbm5ONkJjRTZ5UzhTV1E?oc=5"
+      },
+      {
+        "slug": "open-source-20260426-auto-2-1adfb5",
+        "title": "英伟达拟推NemoClaw",
+        "category": "开源项目",
+        "date": "2026-04-26",
+        "summary": "消息称Nvidia筹备企业向开源Agent平台NemoClaw。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达拟推NemoClaw 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月26日，关于Nvidia拟推出企业级开源Agent平台“NemoClaw”的消息引发关注。若后续信息落地，企业侧AI Agent基础设施可能进入新一轮标准化竞争。",
+          "blocks": [
+            {
+              "heading": "事件背景与项目定位",
+              "paragraphs": [
+                "从现有信息看，NemoClaw被描述为面向企业场景的开源Agent平台，重点可能覆盖编排、部署与运维等环节，而不仅是单模型能力展示。",
+                "企业平台化路线的价值在于降低重复建设成本，让团队把精力放在业务流程与数据治理上，而不是反复搭建底层工具链。",
+                "在当前开源Agent快速迭代阶段，平台项目通常会与模型生态、工具协议和可观测性系统深度绑定，形成长期技术路径。"
+              ]
+            },
+            {
+              "heading": "用途与上手门槛评估",
+              "paragraphs": [
+                "潜在应用包括流程自动化、知识库问答、代码生成审查、工单流转和跨系统数据操作，核心是把大模型能力嵌入企业现有软件栈。",
+                "上手门槛主要在工程化而非算法本身：团队需要具备API治理、权限管理、日志审计和CI/CD能力，才能稳定运行多Agent任务。",
+                "对于中小团队，建议先从单一部门试点，例如客服或研发支持，优先验证ROI，再扩展到跨部门协作流程。"
+              ]
+            },
+            {
+              "heading": "落地建议与观察指标",
+              "paragraphs": [
+                "在项目尚处消息阶段时，企业可先准备评估框架：关注许可证类型、私有化部署能力、插件生态与模型兼容层。",
+                "试点阶段应记录任务成功率、人工接管比例、平均处理时长和单位调用成本，用统一指标比较不同Agent平台方案。",
+                "同时需设置合规边界，包括数据分级、敏感字段过滤与操作留痕，确保开源组件进入生产后满足审计与安全要求。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MSN：Nvidia计划开源NemoClaw",
+            "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT2prSE9mZWNwQzVKaS1FYVpoWGdCMGdKWGRTMkZxb0Z4Y0dvd1JIWkUyWkYtRjhsOFpOOUpfZG9SRFFLTjhGV3BDQzRsYlZrOHFhMnd5SlhSYUpDbmVacGNnaVNTNXl3TGIyb0RLN0pkOEJpQmQ4ZVhibURnVDZxZGdyYVZNbkd0b2lhb2hnREtud2xnUldHWlEyTkRueDhSZ0hQSE1pOUFJR3J1eWNyS0lKU2VDMC00eUNhTGZ6RzZLdWpwTzNXYnVzRTVpeTk3c1ppb2lqQmgtNkdSeTBubDJ4cUxnbnhMLTgyeVVheFhZTVEyMzZra3M0OWNCbjI2SUhxbGNxbmJEeEwzV0dXWGJPSjRlWUw2dFFqWTJRZlZmajlucjZnWlZDSWZ0dnZwbmFtV3I1Y283aTZOWjBwaTdyRlhNQTNZaGVaeDNzSXhZazJSbnNRSVZWcVltcWxnNHl5Y1djbWtOWHMzNEdHdnJmZHpaVko0VnRnaklHdG9YYnJw?oc=5"
+          },
+          {
+            "label": "53AI：OpenClaw默认模型调整",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQlRUaTFraHR4M09tZzNEZEJldmdubFJMNzQ4bkdkVDc4U05SaU1NVzhLaG5HbXI5TUJONlR6OERZeENGeFlGdXkwblN0bzNLV2pTM2xCMGFHb2FZbm5ONkJjRTZ5UzhTV1E?oc=5"
+          },
+          {
+            "label": "51CTO：OpenClaw与同类Agent对比",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FXzN2emJNVXpZZWVuTVZnOWlrQl9PZXRfc2ZqWUVPeGxSRjFmQURuZjR0NGVZcktDZ0Q0VmdwZ2ZyUDRuZmJic1ZSQXdKdw?oc=5"
+          }
+        ],
+        "source": "MSN",
+        "source_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOT2prSE9mZWNwQzVKaS1FYVpoWGdCMGdKWGRTMkZxb0Z4Y0dvd1JIWkUyWkYtRjhsOFpOOUpfZG9SRFFLTjhGV3BDQzRsYlZrOHFhMnd5SlhSYUpDbmVacGNnaVNTNXl3TGIyb0RLN0pkOEJpQmQ4ZVhibURnVDZxZGdyYVZNbkd0b2lhb2hnREtud2xnUldHWlEyTkRueDhSZ0hQSE1pOUFJR3J1eWNyS0lKU2VDMC00eUNhTGZ6RzZLdWpwTzNXYnVzRTVpeTk3c1ppb2lqQmgtNkdSeTBubDJ4cUxnbnhMLTgyeVVheFhZTVEyMzZra3M0OWNCbjI2SUhxbGNxbmJEeEwzV0dXWGJPSjRlWUw2dFFqWTJRZlZmajlucjZnWlZDSWZ0dnZwbmFtV3I1Y283aTZOWjBwaTdyRlhNQTNZaGVaeDNzSXhZazJSbnNRSVZWcVltcWxnNHl5Y1djbWtOWHMzNEdHdnJmZHpaVko0VnRnaklHdG9YYnJw?oc=5"
+      },
       {
         "slug": "open-source-20260425-auto-1-394f93",
         "title": "NVIDIA Ising: Open",
