@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GPT-5.5提示词实操指南 | 寂川日报</title>
+<meta name="description" content="面向日常办公的简洁提示词写法与落地流程" />
+<meta name="keywords" content="AI新闻,AI使用教程,article.9466.com" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260427-auto-1-891966.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="GPT-5.5提示词实操指南" />
+<meta property="og:description" content="面向日常办公的简洁提示词写法与落地流程" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260427-auto-1-891966.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-04-27" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="GPT-5.5提示词实操指南" />
+<meta name="twitter:description" content="面向日常办公的简洁提示词写法与落地流程" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"GPT-5.5提示词实操指南","datePublished":"2026-04-27","dateModified":"2026-04-27","description":"面向日常办公的简洁提示词写法与落地流程","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260427-auto-1-891966.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260427-auto-1-891966.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">GPT-5.5提示词实操指南</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-04-27">2026-04-27</time> | 文章日期：<time datetime="2026-04-27">2026-04-27</time> | 来源：article.9466.com</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="GPT-5.5提示词实操指南 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">先搭建最小可用提示词框架</a></li>
+<li><a href="#section-2">用两轮迭代替代一次性长指令</a></li>
+<li><a href="#section-3">落地到日常办公的检查清单</a></li>
+</ul>
+</nav>
+<p class="detail-intro">结合2026-04-27可见的提示词实践信息，本文给出一套可直接执行的GPT-5.5使用教程。核心思路是减少复杂模板，改用“目标-约束-输出格式”三段式，让模型更稳定地产出可用结果。</p>
+<section>
+<h2 id="section-1">先搭建最小可用提示词框架</h2>
+<p>第一步只写任务目标，控制在一句话，例如“请把这份会议纪要整理成3条决策和5条待办”。先不要加入风格、角色扮演和冗长背景，观察首轮输出是否覆盖核心信息。</p>
+<p>第二步补充必要约束，建议最多3项：时间范围、受众对象、长度限制。示例：&quot;面向销售团队；仅基于我提供文本；总字数不超过200字&quot;。约束过多会造成冲突，降低可执行性。</p>
+<p>第三步固定输出格式，用编号或JSON字段，避免自由发挥。示例：&quot;按{结论,依据,风险}三字段输出&quot;。这一步可显著减少后期手工整理时间，适合网站编辑与运营流程。</p>
+</section>
+<section>
+<h2 id="section-2">用两轮迭代替代一次性长指令</h2>
+<p>首轮让模型产出“草稿结果”，不要追求完美。你只检查三件事：是否答非所问、是否遗漏关键点、是否出现无法验证的断言。若出现任一问题，进入第二轮修正。</p>
+<p>第二轮使用定点反馈，不要重写整段提示词。可直接写：&quot;保留原结构；删除第2点；补充与预算相关风险；每条不超过30字&quot;。这种局部修改比重启会话更稳定，也更省时。</p>
+<p>当任务较复杂时，把工作拆成“提取信息→生成结构→润色表达”三步，每步单独提问。这样可以定位错误来源，便于团队协作复用，适合在周报、复盘、方案初稿中落地。</p>
+</section>
+<section>
+<h2 id="section-3">落地到日常办公的检查清单</h2>
+<p>在提交结果前执行5项自检：事实来源是否来自输入材料、数字是否一致、术语是否统一、输出长度是否达标、是否含不可公开信息。自检可作为固定尾提示，长期复用。</p>
+<p>为不同场景准备3个短模板：会议纪要模板、活动复盘模板、周报模板。每个模板保留相同骨架，仅替换“目标句”和“约束句”。模板越短，迁移到新任务越快。</p>
+<p>最后建立提示词版本记录，按日期保存“场景-提示词-结果评价”。以2026-04-27为起点做一周对比，重点观察返工次数和完成时长。用数据决定模板保留与淘汰，而不是凭主观偏好。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wR0tDX0F1ZGtOVVg5YzJBWnAtdWNUVGc4ZnR1bE1FMTcwLUZCSmJZU1VLblV1VW0zZG5MSWlycHJSLWl0cTBxUllkYll6RGs?oc=5" target="_blank" rel="noopener noreferrer">article.9466.com（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzFnVlZRRlVObFBMY1ZOUG4wQ3RpTEYyM0JyYnZDV1h4WGZVNmNnZW5qTmladVZzajJQa2gtdzZMYXRyN2ZmTEcwblp0NjBmOTZ2QVQ2WEZuM2NXMU8zUEdZQlJNMEczeFQ3MHFaeURiRW42d0o4THpsYTFOdDVHRjlyb19OQnlxZEl4SjdvVy02ZzZpaTZVRktrTkhWSW92WWJqc1F0cHJmZXpxQXViMmJ6TXZkRkxHTDFGa09qRQ?oc=5" target="_blank" rel="noopener noreferrer">Gemini任务管理实践参考</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZGxyOWlOZDNvNk55aG9kUHhwTUJoN1Naa3drUUxBb0xwSkwyTzVOU2txd05adEt4YkRUUjhvaEo2WHE2WGRreVJobElMQQ?oc=5" target="_blank" rel="noopener noreferrer">Claude Code国内上手教程参考</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
