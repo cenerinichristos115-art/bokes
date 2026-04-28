@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260428-auto-1-c30680",
+        "title": "IBM发布企业AI开发伙伴",
+        "category": "AI新闻",
+        "date": "2026-04-28",
+        "summary": "IBM推出Bob，定位从辅助编码到生产部署的企业AI开发伙伴。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IBM发布企业AI开发伙伴 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月28日，IBM宣布推出名为Bob的企业级AI开发伙伴，强调其覆盖从AI辅助编码到生产可用软件交付的完整流程。",
+          "blocks": [
+            {
+              "heading": "产品定位与核心场景",
+              "paragraphs": [
+                "从披露信息看，Bob并非单点代码补全工具，而是面向企业软件工程链路的协作式AI能力集合，目标是降低从原型到上线的交付摩擦。",
+                "其定位集中在企业级场景，包括代码生成、测试支持、工程规范对齐与部署前准备，这些环节通常决定AI编程工具能否真正进入生产环境。",
+                "在当前市场中，企业客户更加关注可控性、可审计性与与现有流程兼容度，Bob的发布反映出厂商正把竞争焦点从“能写代码”转向“能稳定交付”。"
+              ]
+            },
+            {
+              "heading": "产业竞争的现实背景",
+              "paragraphs": [
+                "同日行业动态显示，底层算力与开发平台仍在同步升级，例如Google披露第八代TPU进展，说明模型训练与推理基础设施仍是产业主轴。",
+                "另一方面，OpenAI相关资本市场消息持续受到关注，反映AI公司从技术竞争走向商业化与财务治理并重的新阶段。",
+                "在这一背景下，IBM以企业软件生产为切口发布新产品，体现传统科技公司在AI时代通过行业客户与交付能力建立差异化路径。"
+              ]
+            },
+            {
+              "heading": "对企业落地的可能影响",
+              "paragraphs": [
+                "若Bob能够在复杂系统中实现稳定集成，企业有望缩短需求到上线周期，并在一定程度上缓解高级工程人才供给紧张带来的交付压力。",
+                "同时，企业在采用此类工具时仍需建立内部治理框架，包括模型输出审核、代码安全扫描、责任边界划分与持续监控机制。",
+                "整体来看，2026年AI开发工具的价值判断标准正在变化，市场更关注可量化的生产效率、软件质量改进以及长期运维成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBM Newsroom原文",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbkdCSlJ5d3dzYWJ0WjVraFhVQjJycnZYc2RWck1rWHREbXdZS1pBSTF0UEFFQ0N5dTBheFp6NU9DNWJLYlh0RkNrUUdfSmxfSlJGZ2c4OHdWYmNYYTBWeWlHOHlYODhtOTdTNTItQnNBRlZSbXdzVjc3a0VCUVJpdmk3RzhCb09lX0M1WEZ1ZDJuYmZqV0l4dkVnQnhsNVk3QTFoSmJlOWJNaW9oR3F2eFB1Y29VaDlldHFiSXpWQ1VOR3FUTTZVTFY2YmFXQ3RqQ1JmSWlYcVZ0ZERXNlJOWjBReWJEZkVSVFE?oc=5"
+          },
+          {
+            "label": "Google第八代TPU发布",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDdpOGpiZlhkZUpucVI1b1JoTDV4S0dQSmVQLTZaY1dHdkoxb3ZRbl9oa1BTZWgtdVhXN1U3TWFCN0t0WmI4eS1mdHp4X1o5Z0VUekJSbnF3NFU5YlgtTkMtX19yNXRUMi1odUluQ1dtbHktRXpoaTZUUmNvd1NsNlBlVEtybzgwQXI1aWJRUW4xNzVNdnBYTTFCV1kyWWNIMlViR3RicHpfTUtyNzJz?oc=5"
+          },
+          {
+            "label": "OpenAI资本市场动向",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcy1XR3p5VUg3QWRoTm5zVmxzVGNPTUN4SW5SN1RSSmJVcG90QWRQMVhaRFViaWVMV2RtXzljOWJwanRid3ZsQkRSUHpXMWpKNHY0c0pnX2F6VW5HdFJzUWlLTjlsc0VBVkxHSmxuM3BNMWdqMXNKRElGaFJIUUk3ZFNRbzJTSU80b3NXUVN6V0d0ZE5yQ2I1TzI4Yi01Q1VrUzFzOWEwcERXS0FoNTBZWG9Odw?oc=5"
+          }
+        ],
+        "source": "IBM Newsroom",
+        "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbkdCSlJ5d3dzYWJ0WjVraFhVQjJycnZYc2RWck1rWHREbXdZS1pBSTF0UEFFQ0N5dTBheFp6NU9DNWJLYlh0RkNrUUdfSmxfSlJGZ2c4OHdWYmNYYTBWeWlHOHlYODhtOTdTNTItQnNBRlZSbXdzVjc3a0VCUVJpdmk3RzhCb09lX0M1WEZ1ZDJuYmZqV0l4dkVnQnhsNVk3QTFoSmJlOWJNaW9oR3F2eFB1Y29VaDlldHFiSXpWQ1VOR3FUTTZVTFY2YmFXQ3RqQ1JmSWlYcVZ0ZERXNlJOWjBReWJEZkVSVFE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260428-auto-2-acd439",
+        "title": "人社部将推AI技能提升行动",
+        "category": "AI新闻",
+        "date": "2026-04-28",
+        "summary": "围绕就业竞争力，人社部将开展人工智能技术技能提升行动。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人社部将推AI技能提升行动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月28日，围绕就业竞争力提升，人社部将开展人工智能技术技能提升行动，政策重点指向劳动者能力升级与岗位适配。",
+          "blocks": [
+            {
+              "heading": "政策信号与目标指向",
+              "paragraphs": [
+                "从公开信息看，此次行动的核心是通过系统化培训提升劳动者AI相关技能，帮助其在岗位变化中保持就业稳定性与流动能力。",
+                "政策语境强调“提升就业竞争力”，意味着重点不仅是培养高端算法人才，也包括面向更广泛职业群体的数字化与智能化能力补齐。",
+                "在2026年的时间节点上，这类行动与产业智能化进程形成呼应，政策目标更接近“规模化转型中的人力资本重构”。"
+              ]
+            },
+            {
+              "heading": "与产业转型的联动关系",
+              "paragraphs": [
+                "多地对AI产业的推动持续增强，国资系统对人工智能等重点领域的持续投入表态，为岗位需求扩展提供了中长期预期。",
+                "就业结构变化与技术扩散速度密切相关，部分传统岗位可能被重塑，同时会出现数据治理、模型应用、智能运维等新岗位类型。",
+                "因此，技能提升行动的效果将取决于培训内容是否与企业真实需求对齐，包括课程标准、认证机制和实操场景的匹配程度。"
+              ]
+            },
+            {
+              "heading": "落地挑战与观察重点",
+              "paragraphs": [
+                "政策执行层面需要关注覆盖范围与可及性，尤其是中小企业员工、转岗群体和区域间资源差异可能带来的培训不均衡问题。",
+                "此外，培训成效应通过就业率、薪酬变化、岗位迁移成功率等指标持续评估，避免出现“培训完成但岗位承接不足”的脱节。",
+                "总体而言，这一行动释放出明确政策导向：AI时代的就业治理将从短期稳岗逐步转向长期能力建设与产业协同。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "人社部行动报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUFByRG9Na1IzRW1VWGFOR1hSclN0T3ZtYW8tamlFNXNvWDdxa1Z3U1RVRWZzc1FnVlFFVkVGZlFoU3J6SF9LaUpqb0hrdlpfNkQ4WlJkNVI?oc=5"
+          },
+          {
+            "label": "AI就业结构转型观察",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHA3c2xIY1Frd3ZacS1ETUxzUVoyb2puR1JqVTlTU3YtbUhyUFRYY1NmZXhhQ0tDMl9tckRKdnBSTEdKZF91eFM2OW9EVF9sRWdMVExpN3NhV1U3V1htbnIyYWR0M09KM01wSjZlZ2pEcGNPODlPd1g2U2h5TzhxQkk5bWcyWHgtM0R2OUp0RQ?oc=5"
+          },
+          {
+            "label": "国资委重点领域表态",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZYUJvR21YdWRDa3dpcS1YWGd4TnJEeU5OZmEyek9IR1NSeW5aR1liamwyVzJMVFI4bTUtYk9OTGlnR21MLUVCSFVXNlUyQQ?oc=5"
+          }
+        ],
+        "source": "Jiemian.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUFByRG9Na1IzRW1VWGFOR1hSclN0T3ZtYW8tamlFNXNvWDdxa1Z3U1RVRWZzc1FnVlFFVkVGZlFoU3J6SF9LaUpqb0hrdlpfNkQ4WlJkNVI?oc=5"
+      },
+      {
         "slug": "ai-news-20260427-auto-1-816f37",
         "title": "谷歌维沙卡帕特南建AI数据中心",
         "category": "AI新闻",
@@ -3531,6 +3647,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260428-auto-1-92fc9c",
+        "title": "企业Copilot落地教程",
+        "category": "AI使用教程",
+        "date": "2026-04-28",
+        "summary": "基于员工主导模式的企业AI培训与应用步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "企业Copilot落地教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年4月的企业实践，下面给出一套可直接执行的Copilot落地教程，核心是“员工主导、场景优先、闭环复盘”。",
+          "blocks": [
+            {
+              "heading": "第一步：先定试点范围与任务清单",
+              "paragraphs": [
+                "先用一周时间做岗位盘点，只选3类高频文本任务作为试点，例如会议纪要、周报汇总、邮件草拟。每类任务明确输入材料、产出格式和完成时限，避免一开始覆盖过多部门。",
+                "为每个任务设置可量化目标，例如“纪要整理时长从40分钟降到20分钟”“邮件初稿一次通过率达到60%”。目标写进共享表格，便于后续按周追踪，不用抽象讨论效率提升。",
+                "建立最小治理规则：哪些数据可喂给AI、哪些必须脱敏、哪些内容必须人工复核。建议由业务负责人和信息安全同签确认，试点启动前完成一次15分钟宣导。"
+              ]
+            },
+            {
+              "heading": "第二步：用员工共创方式训练提示与流程",
+              "paragraphs": [
+                "每个试点小组选2名“场景负责人”，连续两周记录真实问题：提示词不稳定、输出口径不统一、事实遗漏等。所有问题统一登记到问题池，按影响度排序处理。",
+                "把提示词模板拆成固定结构：任务目标、背景信息、输出格式、限制条件、质量标准。要求团队成员每次调用都复用同一结构，再做小幅调整，可明显减少结果波动。",
+                "将成功案例沉淀为可复用SOP，例如“周报三步法：资料归档-提要生成-人工核验”。每条SOP附1个正例和1个反例，新成员可在30分钟内上手，降低培训成本。"
+              ]
+            },
+            {
+              "heading": "第三步：建立评估闭环并逐步扩面",
+              "paragraphs": [
+                "每周固定30分钟复盘会，检查3个核心指标：节省时长、返工次数、人工纠错率。若两周连续达标，再扩展到相邻任务；若未达标，先回到模板和流程环节修正。",
+                "在发布环节加入“双重检查”：业务准确性由任务负责人审核，合规性由指定审查人抽检。对于客户沟通、财务说明等高风险文本，保持人工最终签发，不直接自动发送。",
+                "按月发布内部简报，公开试点数据、常见错误和改进动作。通过透明反馈形成组织学习机制，避免AI使用停留在个人技巧，转为团队级可复制能力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Microsoft：员工主导Copilot技能建设案例",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTRCcDRKd0p0QS1FQmlwVjdBNXZBbmZBcHJkMmNtU0I2TGhrNWl0TEFYMzh0QnFTcDZYWDFKeHU2dFkyZGdKWEhkX0s5bmNLemlwOWRjbkFwb1RFLWxFUmZfWlp5S1ViRlhJZkprMHVQS2VnREF1MlB3MTF0YmRSYVNBYXJFZEFaSnZN?oc=5"
+          },
+          {
+            "label": "TechTarget：如何在组织内建设AI技能",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hWNFpVeU95dm9NTDRKMDVUaG1mWEtKa3U3cmtjSFNsVkxoYnZqMTBnY0xMS0JnckFwUGt2T1Ezc3lPMU0tWDN2R2RzWEI4SEhzMU91YkRwUmNCdzVPbG1LaUNRbTY3eTRVUnFCaDNhcGhfTXZrMTU3MFR6M1dMT1R1U1FWbUJua1J4YUdYcnhUNHg3Q0pyVHp3?oc=5"
+          },
+          {
+            "label": "Accounting Today：AI技能加速项目",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1dLOFdhN3AxWkRMVThPc0w1WkJmWDl0d2piY012YzlpNkdZaU4wZ0poUmJGRWgzczNnaUZjSXpqRmk5QndSZldQOU5mVU95OE5MbkI1S3RnRFlMLUV2b0dCTEF6VVoyRXlQOGJSNlk4ZldPZDhFTjlnTC1MTS1UYlVrcXVhRkpmM3kxcHVPTQ?oc=5"
+          }
+        ],
+        "source": "Microsoft",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTRCcDRKd0p0QS1FQmlwVjdBNXZBbmZBcHJkMmNtU0I2TGhrNWl0TEFYMzh0QnFTcDZYWDFKeHU2dFkyZGdKWEhkX0s5bmNLemlwOWRjbkFwb1RFLWxFUmZfWlp5S1ViRlhJZkprMHVQS2VnREF1MlB3MTF0YmRSYVNBYXJFZEFaSnZN?oc=5"
+      },
+      {
         "slug": "ai-guide-20260427-auto-1-891966",
         "title": "GPT-5.5提示词实操指南",
         "category": "AI使用教程",
@@ -4719,6 +4893,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260428-auto-1-c2a906",
+        "title": "Talkie-1930开源发布",
+        "category": "开源项目",
+        "date": "2026-04-28",
+        "summary": "13B开放权重模型聚焦1931年前英文语料研究。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Talkie-1930开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月28日，北京时间，Talkie-1930作为13B开放权重大模型被报道发布，核心定位是历史推理与跨时代泛化研究。",
+          "blocks": [
+            {
+              "heading": "项目定位与数据边界",
+              "paragraphs": [
+                "该模型训练语料聚焦1931年前英文文本，目标是让研究者观察模型在旧语体、历史语境和现代任务之间的迁移能力。",
+                "与通用当代语料模型相比，这类时间切片训练策略更适合用于历史语言学、史料问答和模型泛化评估。",
+                "开放权重发布降低了重复实验门槛，便于高校和独立研究团队在统一基线下做对比实验。"
+              ]
+            },
+            {
+              "heading": "可用场景与实际价值",
+              "paragraphs": [
+                "在教育与数字人文方向，Talkie-1930可用于构建历史文本辅助阅读、术语释义和年代语气对照工具。",
+                "在AI研究方向，该模型可作为“分布偏移”测试样本，用于分析模型在过时表达、稀有拼写和长句结构下的稳定性。",
+                "在安全与评测方向，研究者可以结合开放权重模型扫描方法，对其进行可解释性和风险面评估。"
+              ]
+            },
+            {
+              "heading": "上手门槛与部署建议",
+              "paragraphs": [
+                "13B参数规模通常需要较高显存环境，个人开发者可优先尝试量化推理或云端GPU实例以控制成本。",
+                "首次使用建议从离线推理和小样本评测开始，先验证其在历史任务上的增益，再决定是否做指令微调。",
+                "若用于生产场景，应补充当代语料对齐层或检索增强模块，避免历史语言偏置影响现代问答准确性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVlGRFAtTVlWQndBOS1vLWVQYl93ZHFHTjVnb0JZdmJ1QWg5bGZOOTRBZDZBYXE4UHFrV0dlU1J6elBUOXY1R29xNE9YQXlZa2VKTEpLazl5a3YyVFpwdnZZNEc1SE9jX1lSX2pic2huVUJMSEZHUDdraVRuNVRGU3AzVXQ2Q2drZDh5c2VuVUJET2pOYUJnUjhXWEFlZFEzNlg3X3NuU1JKblpVWkpHZG90OUFld2txcndCaU03am1VS2ljRmprRTBnU1ZaUzdKMjItbWFOZDc2X3FWWXE0bHdVUEZ5ekdlZWxjXzRLTUk5NlhIWm0wNdIB_gFBVV95cUxNY3hPd3JKdjZKWkdrM00xYVFlZ3lvUEhBY0JjZF9IU2JCbUx4Z0ZueURXVWZCeHNjRU9mYkg5U3lqRmduNkJBVWRJellIZFBybkYtVHBtbXh4ZFFIeFE3cGt5N2xFQzlmQTVRbk9yUjQ1NFhEU3JCc0dtZVFlQmwxMmRtbW9rT19yZVFiZnNDdGpzTjRuQnlkYzhGclJpcThkT0ZKVHo5M1lhREVteWZ5ZmZzMWxhWmdGcmhkWlcxc3NfRTkwMHJ6eGNFWDZybklzS05jQl9QWWN1OTUzR09qbjduWUR5c2N3X2lGM25XNDQtQWdhWGZkc1pTMGFSZw?oc=5"
+          },
+          {
+            "label": "开放权重安全扫描背景",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzQ2U19LV2tpUkx1UFNQXzFNXzQzNkxqeGtucXkwcGdoclYwOW9CY1VzNHpkMzc3Nk55N2MxcWtkdzIwYWQ1RHhLandCQ0ZLZXByX1N2WFRzcjJfRzdYV1Z4NFJNLUN5M1cyendIWVlFcEFEQk96aHBYUmdzdXNnbkxaS1E2Zw?oc=5"
+          },
+          {
+            "label": "同日开源模型动态参考",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE44U0tyVG5iVGRkU3JuM1VTNkFOVUxSc3Y5emxiSFBybEQzMjY0bmUzVkdYUlJhQ2I1N1phYTlTeEZ6X05GaVVqVjIzaG5QRnRVZ0JVVUhyeHB0RnBCSDNsZFkwdk8wZUZpNjdlVHBPSGpwbVoybmluTUkwVm1VbE5XYzJ1VEZmdGktUFpfcV94d0RHay1KVVpwX3JTYnc3LWRPeUhQUnI5Yl9XZ283WjVSRE5kbkpoQWo3SDBiMUkxVVczaE96bkIyM25WZE40QXk2UC14R0ZJd1ZTMHgwejhXT0VyTURzVjlKRU9TVXBMQw?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVlGRFAtTVlWQndBOS1vLWVQYl93ZHFHTjVnb0JZdmJ1QWg5bGZOOTRBZDZBYXE4UHFrV0dlU1J6elBUOXY1R29xNE9YQXlZa2VKTEpLazl5a3YyVFpwdnZZNEc1SE9jX1lSX2pic2huVUJMSEZHUDdraVRuNVRGU3AzVXQ2Q2drZDh5c2VuVUJET2pOYUJnUjhXWEFlZFEzNlg3X3NuU1JKblpVWkpHZG90OUFld2txcndCaU03am1VS2ljRmprRTBnU1ZaUzdKMjItbWFOZDc2X3FWWXE0bHdVUEZ5ekdlZWxjXzRLTUk5NlhIWm0wNdIB_gFBVV95cUxNY3hPd3JKdjZKWkdrM00xYVFlZ3lvUEhBY0JjZF9IU2JCbUx4Z0ZueURXVWZCeHNjRU9mYkg5U3lqRmduNkJBVWRJellIZFBybkYtVHBtbXh4ZFFIeFE3cGt5N2xFQzlmQTVRbk9yUjQ1NFhEU3JCc0dtZVFlQmwxMmRtbW9rT19yZVFiZnNDdGpzTjRuQnlkYzhGclJpcThkT0ZKVHo5M1lhREVteWZ5ZmZzMWxhWmdGcmhkWlcxc3NfRTkwMHJ6eGNFWDZybklzS05jQl9QWWN1OTUzR09qbjduWUR5c2N3X2lGM25XNDQtQWdhWGZkc1pTMGFSZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260428-auto-2-006971",
+        "title": "MOSS-Audio模型更新",
+        "category": "开源项目",
+        "date": "2026-04-28",
+        "summary": "OpenMOSS发布音频基础模型，覆盖语音与音乐推理。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MOSS-Audio模型更新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月28日，北京时间，OpenMOSS披露MOSS-Audio，定位为覆盖语音、环境声与音乐的开源基础模型，并强调时间相关音频推理能力。",
+          "blocks": [
+            {
+              "heading": "功能范围与技术特点",
+              "paragraphs": [
+                "MOSS-Audio并非单一语音识别器，而是面向多音频模态任务的统一基础模型，覆盖语音、声音事件和音乐内容。",
+                "其“时间感知推理”能力适合处理长音频中的先后关系、节奏变化和事件连续性判断。",
+                "开源发布使开发者可基于同一底座扩展下游任务，例如字幕对齐、音频摘要与声音检索。"
+              ]
+            },
+            {
+              "heading": "应用落地与团队收益",
+              "paragraphs": [
+                "对内容平台而言，可用于自动标签、片段切分和多语种语音处理，减少人工标注成本。",
+                "对教育和无障碍场景，可结合文本模型构建课堂录音结构化总结与关键片段回放。",
+                "对研究团队而言，该模型有助于统一比较不同音频任务的迁移效果，降低多模型维护复杂度。"
+              ]
+            },
+            {
+              "heading": "上手路径与门槛评估",
+              "paragraphs": [
+                "建议先从公开样例任务进行推理验证，确认在目标语种、采样率和时长条件下的基础表现。",
+                "工程部署需重点评估算力消耗与实时性，长音频任务通常更依赖批处理和流式切片策略。",
+                "若要接入业务流程，可先以离线分析方式上线，再逐步扩展到在线服务以控制稳定性风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost发布信息",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE44U0tyVG5iVGRkU3JuM1VTNkFOVUxSc3Y5emxiSFBybEQzMjY0bmUzVkdYUlJhQ2I1N1phYTlTeEZ6X05GaVVqVjIzaG5QRnRVZ0JVVUhyeHB0RnBCSDNsZFkwdk8wZUZpNjdlVHBPSGpwbVoybmluTUkwVm1VbE5XYzJ1VEZmdGktUFpfcV94d0RHay1KVVpwX3JTYnc3LWRPeUhQUnI5Yl9XZ283WjVSRE5kbkpoQWo3SDBiMUkxVVczaE96bkIyM25WZE40QXk2UC14R0ZJd1ZTMHgwejhXT0VyTURzVjlKRU9TVXBMQw?oc=5"
+          },
+          {
+            "label": "开源编排规范参考",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JY0Y0X3FzVk9yaVlDTHpKQ01IMWRneF9MeHNkR2F2Vy11VXlwWGFiekRrdWhFSURQMEZ1VWdXbDhfN25OdzR1Ni1QY1pWbjZRUnpsT2J1VmxLRTcyWXF6UmRQbjJOUktHdFVzWlFCcGFaS3N4?oc=5"
+          },
+          {
+            "label": "同日开源模型对照",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZS1hUGg1WGUwMHBMOG5WLWIyZzdrWGp3dXpjYkhVd05YWml3VVFvZHJaSFBla0NubzJ4RVBVZUpQbG9Hem9kNnA5dU43TjVadkpjX0poWmxHY1lkdHROeDhkLVJ6cEt1aWFwckxyZzE4V3dGaUhDcDZHbGlXbERYdXFrOGpNTGtLVmFiejhBS0JlemxGRUxWVElsNGdINUhHZ1FXRi0td1RpWWE1ekZrLUZHcldFdlJGV3RBWGR6cWhqNWNFN2JwT0FjcGZYeWs?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2I4OC16d3hzWUtVV1kzcHBYYnJGM1dzaFFUNU9oUklaNWxOaldoRFN6UFdoazFlaDd6VnlSNDI5OEdCRno1TTh6YlZLVnlyY0lobFN2YWpCNUdCUUdpOEpJNmdZd3M2MGxvbEQyM1kzRTRLenVlaTlxY29iNVg2MnNhQXlDTWl2VlNLVWNhUGo2SHFMNkdtZkZFaUtkWDQ4ZXhIaUlHNGs3RVRfbS1uOU9xam5fX2haRjhLTGZncUNJS3J1eE12Vkp3NnhwakhpTWJYWFZMOF9WYTBEMHRiSm5CZlJveERHR05r0gHwAUFVX3lxTE44U0tyVG5iVGRkU3JuM1VTNkFOVUxSc3Y5emxiSFBybEQzMjY0bmUzVkdYUlJhQ2I1N1phYTlTeEZ6X05GaVVqVjIzaG5QRnRVZ0JVVUhyeHB0RnBCSDNsZFkwdk8wZUZpNjdlVHBPSGpwbVoybmluTUkwVm1VbE5XYzJ1VEZmdGktUFpfcV94d0RHay1KVVpwX3JTYnc3LWRPeUhQUnI5Yl9XZ283WjVSRE5kbkpoQWo3SDBiMUkxVVczaE96bkIyM25WZE40QXk2UC14R0ZJd1ZTMHgwejhXT0VyTURzVjlKRU9TVXBMQw?oc=5"
+      },
       {
         "slug": "open-source-20260427-auto-1-0ae705",
         "title": "ComfyUI融资后再升级",
