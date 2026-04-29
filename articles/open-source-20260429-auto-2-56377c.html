@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Poolside发布Laguna XS. | 寂川日报</title>
+<meta name="description" content="免费开源编码模型面向本地Agent开发与离线部署。" />
+<meta name="keywords" content="AI新闻,开源项目,VentureBeat" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260429-auto-2-56377c.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Poolside发布Laguna XS." />
+<meta property="og:description" content="免费开源编码模型面向本地Agent开发与离线部署。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260429-auto-2-56377c.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-04-29" />
+<meta property="article:section" content="开源项目" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Poolside发布Laguna XS." />
+<meta name="twitter:description" content="免费开源编码模型面向本地Agent开发与离线部署。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Poolside发布Laguna XS.","datePublished":"2026-04-29","dateModified":"2026-04-29","description":"免费开源编码模型面向本地Agent开发与离线部署。","inLanguage":"zh-CN","articleSection":"开源项目","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260429-auto-2-56377c.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260429-auto-2-56377c.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">Poolside发布Laguna XS.</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-04-29">2026-04-29</time> | 文章日期：<time datetime="2026-04-29">2026-04-29</time> | 来源：VentureBeat</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="Poolside发布Laguna XS. 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">项目价值与目标用户</a></li>
+<li><a href="#section-2">典型用法与部署路径</a></li>
+<li><a href="#section-3">上手门槛与风险控制</a></li>
+</ul>
+</nav>
+<p class="detail-intro">北京时间2026年4月29日的开源项目动态中，Poolside被报道推出可免费使用的开源模型Laguna XS.2，主打本地Agentic Coding场景，强调在开发者终端或私有环境中完成代码生成与辅助任务。</p>
+<section>
+<h2 id="section-1">项目价值与目标用户</h2>
+<p>Laguna XS.2的核心价值在于降低“本地代码智能体”门槛。对无法将代码仓库上传至公有云的团队，这类模型提供了数据不出域的替代方案。</p>
+<p>目标用户主要包括安全要求较高的企业研发团队、独立开发者以及需要离线工作的工程岗位。相比通用对话模型，它更强调代码理解、补全和任务分解能力。</p>
+<p>在生态层面，免费开源策略有助于吸引插件开发者与工具链集成者，形成围绕本地IDE、CLI与自动化脚本的应用扩展。</p>
+</section>
+<section>
+<h2 id="section-2">典型用法与部署路径</h2>
+<p>常见用法包括：仓库级问答、重构建议、测试样例生成、提交信息草拟，以及多文件修改计划输出。若配合本地检索，可提升对私有代码上下文的理解稳定性。</p>
+<p>部署可从单机推理开始，再逐步扩展到团队共享推理节点。前期应优先打通模型调用、向量检索与权限控制三项基础能力。</p>
+<p>对于希望快速试点的团队，可先限定在非核心仓库进行辅助编码，收集通过率、人工修改率与响应时延数据，再决定是否扩大覆盖面。</p>
+</section>
+<section>
+<h2 id="section-3">上手门槛与风险控制</h2>
+<p>上手门槛主要是硬件资源与工程集成，而不是提示词本身。团队需要评估本地GPU或推理服务成本，并为长上下文任务设计缓存与分片策略。</p>
+<p>在质量控制上，建议将模型输出纳入CI流程，通过静态检查、单元测试和安全扫描进行自动拦截，避免“看似可运行但不符合规范”的代码直接入主干。</p>
+<p>在2026年的发布语境下，本地开源编码模型正在从尝鲜走向可运营阶段，组织应同步建立版本管理、回归评测与责任边界机制。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3Nuak16elR1SVFiRWpPRHJ5S1g5ZGI3Z0d0Rk5uTV8wMzRtYjJNMk1SNDk3SElXS1dsS0hreDE2U1BUcUY0M2Uwd1hweWNvaElBckZQY3F5MTU4czA4WTdjS3hXVnA1SlpPZTc2WWNCYVY4ekYxdXpGQjJKQnBJLUdmS2hFOWM5T09SV2lUZW1FbjJLVFl3VW80UjNLN0I3dGUwQXFGU0QyUjQzWEpPOFEwNW9IbUFGbVpsVTJQSTRoZG1jcTN6eG5USjZucmcwTDVFaWhid3U?oc=5" target="_blank" rel="noopener noreferrer">VentureBeat（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXFvNEFubEgtZEFJaG4yRkNxcV8wbW1iVjBKS2M1WmRsWklVWnN5UjBTcmdhMDZ6azZVZFZOVVhkS3BUVVpjRjg1UWx0RGtNUVdZbEdZNUZxZlpUempwMk1xU0piTGJwMTRhYXVWYUo4MjZTUW5WVExUbG9nS3BVTGdRZW9OajVlQmwwRDQydGotcE8wQzdMZjNjYXM3czhFdWFYT3ZzVlFYNlROQXEtTDJaUkMxS2RwVHlRdw?oc=5" target="_blank" rel="noopener noreferrer">Poolside模型线扩展报道</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNblV1NTc5R1dNVUNZcFhwQzMxOHU0OGlRTFJPeHNkVmUtN2FMbDZtZVBEaUxXS2VwWTRDZGQzYTYxWlV6MmNVWEI1SlA2RTJBN0tyTXZFcnVnOElzczEtdnB6S2MxWmJnbGF2YjhwdW01cC14YUNZdzM3aThCdnkzWnYxNHgxVEM2dEk2RTBFX2lTMHFydS1fNnItT2t5LWhKVHBnbQ?oc=5" target="_blank" rel="noopener noreferrer">本地Agent成本压力背景</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>

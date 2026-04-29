@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>用Promptflow搭建可追踪工作流 | 寂川日报</title>
+<meta name="description" content="三步完成LLM流程追踪、评测与迭代上线" />
+<meta name="keywords" content="AI新闻,AI使用教程,MarkTechPost" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260429-auto-1-1de836.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="用Promptflow搭建可追踪工作流" />
+<meta property="og:description" content="三步完成LLM流程追踪、评测与迭代上线" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260429-auto-1-1de836.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-04-29" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="用Promptflow搭建可追踪工作流" />
+<meta name="twitter:description" content="三步完成LLM流程追踪、评测与迭代上线" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"用Promptflow搭建可追踪工作流","datePublished":"2026-04-29","dateModified":"2026-04-29","description":"三步完成LLM流程追踪、评测与迭代上线","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260429-auto-1-1de836.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260429-auto-1-1de836.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">用Promptflow搭建可追踪工作流</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-04-29">2026-04-29</time> | 文章日期：<time datetime="2026-04-29">2026-04-29</time> | 来源：MarkTechPost</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="用Promptflow搭建可追踪工作流 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">步骤一：先搭可追踪骨架，再写提示词</a></li>
+<li><a href="#section-2">步骤二：建立评测集，量化质量与稳定性</a></li>
+<li><a href="#section-3">步骤三：上线与迭代的实操清单</a></li>
+</ul>
+</nav>
+<p class="detail-intro">截至2026年4月29日，面向生产环境的LLM应用已从“能跑起来”转向“可追踪、可评测、可迭代”。下面用Promptflow、Prompty与OpenAI接口给出一套可直接落地的教程框架。</p>
+<section>
+<h2 id="section-1">步骤一：先搭可追踪骨架，再写提示词</h2>
+<p>先定义一个最小业务流程：输入问题、检索上下文、生成答案、输出引用。将这四步拆成独立节点，避免把逻辑都写进单个Prompt。这样每一步都能单独记录输入输出，后续排查更快。</p>
+<p>在Promptflow中建立flow目录后，先完成节点连线与变量命名规范，例如user_query、retrieved_docs、final_answer。命名统一后，日志检索和多人协作会更顺畅，也便于后续接入评测脚本。</p>
+<p>Prompty用于管理提示词版本时，建议把系统提示、用户模板、few-shot样例分文件维护，并在文件头写清版本号与变更原因。上线前固定模型参数，如temperature与max_tokens，减少回归测试噪声。</p>
+</section>
+<section>
+<h2 id="section-2">步骤二：建立评测集，量化质量与稳定性</h2>
+<p>准备一份覆盖真实场景的数据集，建议至少包含三类样本：常规问题、边界问题、对抗问题。每条样本包含标准答案或评分规则，字段保持一致，例如query、ground_truth、category。</p>
+<p>设置两层评测：第一层是自动指标，如答案相关性、事实一致性、格式合规率；第二层是人工抽检，重点看高风险问题。自动评测用于快速筛选版本，人工评测用于确认是否可发布。</p>
+<p>每次修改提示词或模型后都跑同一套基线集，并记录版本对比表。重点观察失败样本是否集中在同一类别，若集中出现，优先修复流程节点而非盲目叠加提示词。</p>
+</section>
+<section>
+<h2 id="section-3">步骤三：上线与迭代的实操清单</h2>
+<p>上线前做灰度：先放10%流量，监控错误率、平均响应时延、人工差评率。若任一指标连续超过阈值，自动回滚到上一稳定版本，避免影响全量用户。</p>
+<p>为每次请求保留可追踪记录：模型版本、提示词版本、检索命中片段、最终输出与用户反馈。出现问题时可直接复现原始调用链，缩短定位时间。</p>
+<p>建立每周迭代节奏：周一整理失败样本，周三完成修复与离线评测，周五灰度发布。保持小步更新，优先解决高频失败场景，比一次性大改更稳定。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5" target="_blank" rel="noopener noreferrer">MarkTechPost（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1VeGlRbkViNTZtWExfQmN3UGtaeGlCTy1QZTQyQ1hTTDdlWlljVjVEQnB6aGVpNDVHTTdJaDNvUDJpLUEyWlZpNnZTVDd2RkxXaDFqaDFYVFJZWTVfVDF4UDFEUGp4bVUtSHlwVTlBclphUThlLUMySA?oc=5" target="_blank" rel="noopener noreferrer">提示词优化实操要点</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMi5wVBVV95cUxPaTZLdTA5RjdJb1hHMTBvdlhPcDRwUWJ1LV9jaUI3T3NsWkh2bV8ySGgzWUNCSk1hQmxtQUNiVFhkcUZVZk9FVm9SUmZ1Nm9rSTg0MTlKV1E3VW1WaG42MXF5eFZ5WlFhS19wa3hNWGRoOGlvc0xiX3VDOHFWZmRHeXpWVDMzX1Y1Y0x5ZlZWRldCbERVQ3M5TUVSRGE0TkpITko2bXlzcXR4NXViY3ZIaFgtdTQ4VzRiRDBuUXVFRTYtQ09DRE5HSjJvT0RSa1I5WFpBQ2pPYWtvLUFwaldLd2otYmZNQ09JU0Z1MkNuSzFxVWJ2cXRBdFNuRGNnanIwUmlJLW9OeTRQdnJPbVBxYVhDdHp1d2wySnFETDZkcGtvczZjVjJaMEFSUERSb1BVU1JoWWxqQkEtQWFPM2xUS2RWc2E0VWQ3dVZiRDd0ZU1RRHJmSjl5RUdJZjRlbWFNbjltUlRMWU8yT0RiNnIzTlA2ekt4T0g0SnNwdHBlWHFKTnl3aTJ0bHhuM05ONmR2YzBNSDJYMGI3OHdpS3pHZnhGTkRNdlhUXzcwdlRiTkxYa21idGgtZnFJT2hTakhIRk5CSHo5TGxnQ3MxOWxiU0tGQUtUMUJrdEpqNTZBcm5qd2k0ZXNrQkh5OFJncGpkdGtXaDZVWFJwM2dVdkVEWXhwZkctTDBuN0I5ME1TNlFzTmx4bmhXYU5pZk1ZclAxbW9ha0Q1ektOX2NsRmJOcjBXbzQ5bjhISEJqM3JHMHEydTU5am04UDdLVG11bVVkVktGbE5Xd3VoejVLdlFzU1RpUTg4TFBVZl9BWjI1RFpHeUFudEFyd0xsV0lzR1RuMzYzWVZsemplUkQ2eW9CY0tpYzRBZ3JSZzZnblF5QkRKZkVfZEdyTy0zV3VBSFkxNE9oczNtbzJXdmVZWGk1cEFlcERfbmttbnJMbDJ0NUEzQmdwWngwVm5zUmV6Zl9TQUctd3cxOA?oc=5" target="_blank" rel="noopener noreferrer">提示词误区与幻觉风险讨论</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>

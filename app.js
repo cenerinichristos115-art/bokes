@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260429-auto-1-15e2fd",
+        "title": "网信办征求虚拟人新规意见",
+        "category": "AI新闻",
+        "date": "2026-04-29",
+        "summary": "数字虚拟人管理办法公开征求意见，平台与服务商合规要求将细化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "网信办征求虚拟人新规意见 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年4月29日，北京时间，中央网信办就《数字虚拟人信息服务管理办法》向社会公开征求意见，释放出虚拟人产业进入规则化发展的明确信号。",
+          "blocks": [
+            {
+              "heading": "政策进展",
+              "paragraphs": [
+                "此次征求意见覆盖数字虚拟人的生成、发布、运营等关键环节，重点指向信息真实性、标识规范和平台责任。",
+                "从监管节奏看，相关部门在生成式人工智能治理框架基础上，进一步细化到虚拟人这一高频应用场景。",
+                "这意味着内容平台、技术提供商和品牌方在产品上线前，需要同步评估合规流程与风险控制机制。"
+              ]
+            },
+            {
+              "heading": "产业影响",
+              "paragraphs": [
+                "对于虚拟主播、数字客服、数字员工等商业化场景，规则明确有助于降低合作中的责任边界不清问题。",
+                "头部平台可能加快内容审核、身份标注和数据留痕能力建设，中小服务商则面临系统改造和成本压力。",
+                "短期看，行业将出现合规投入上升；中长期看，标准化有助于形成更稳定的B端采购与落地预期。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "一是征求意见结束后的正式版本发布时间，以及配套执行细则是否同步推出。",
+                "二是地方监管与行业协会是否跟进发布实施指引，推动跨平台、跨行业的统一执行口径。",
+                "三是企业如何把合规能力转化为产品能力，在保障安全的同时维持交互体验和运营效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中央网信办公开征求意见",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTZ0ZDhQbVJCaF8wT0YxLS0tWTk2cWM0clQyNmZvX0VBVFphNW9fVjE1dWNXZ3p3NGlmVU9BTkdGd1hPWmFzRF9tMVlqSWpjWVY5T2RwbGgxWGZ3SS1POWRZSXBrcXBqWTBTWnRRMW41TlVjQ1ltX0o1NFlWQ1g4WFZyVFg0ajgxQjJyeUd0ay1zRzNISmRvOVZmaEduWVBCenZlVnhpZw?oc=5"
+          },
+          {
+            "label": "同主题报道（新浪财经）",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01S014Rmd6dHhGcEhZOVBLZ3BvU3dwcWtQQXlOYmY4VHRXNnl5cXNUb2l3MUpDN0ZINzE2ZGdSaDU4QWZ0eDB2ZDBEVVRlRG0xM2FEN3pXb0hoc2hyUTNEbGotZmtoSFdpcF9kSnlLZk9wSlhIUWd3T1hxUkc?oc=5"
+          },
+          {
+            "label": "AI应用伦理安全指引动态",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkp1S3lFblMtLWpLMEVmd3UyYXB2YzJldlBhSk5iM1B5Ym9aa1NYTXZGRmQ2MDRCVE5BTU1aQ0Z4eWp3RFBJV1VCYjdLb3l5UGN0MXBERmx4QW1rd3g4aGV4a0MzM08tdHhDUVR2OWRZQVdtN1lSUDQ4T1lUWUQ4ZVAycFp6cTdhbFk3OHZ0ZkxjZTF0a0c1RHB2eEtfNkFDS0dLQWdDdw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTZ0ZDhQbVJCaF8wT0YxLS0tWTk2cWM0clQyNmZvX0VBVFphNW9fVjE1dWNXZ3p3NGlmVU9BTkdGd1hPWmFzRF9tMVlqSWpjWVY5T2RwbGgxWGZ3SS1POWRZSXBrcXBqWTBTWnRRMW41TlVjQ1ltX0o1NFlWQ1g4WFZyVFg0ajgxQjJyeUd0ay1zRzNISmRvOVZmaEduWVBCenZlVnhpZw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260429-auto-2-3f9704",
+        "title": "工信部批复AI相关行业标准",
+        "category": "AI新闻",
+        "date": "2026-04-29",
+        "summary": "工信部批准690项行业标准，涵盖AI深度合成图像系统技术规范。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "工信部批复AI相关行业标准 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年4月29日，北京时间，工信部批准包括《人工智能 深度合成图像系统技术规范》在内的690项行业标准，AI技术标准体系建设再进一步。",
+          "blocks": [
+            {
+              "heading": "标准发布重点",
+              "paragraphs": [
+                "本次获批标准覆盖面较广，AI相关标准被纳入统一行业标准序列，体现出技术产业化与监管协同推进。",
+                "其中深度合成图像系统技术规范受到关注，预计将对数据处理、生成流程、结果标注等环节形成约束。",
+                "标准层面的明确，通常会影响企业研发流程、测试方法和交付验收机制。"
+              ]
+            },
+            {
+              "heading": "对企业与市场的意义",
+              "paragraphs": [
+                "对技术厂商而言，统一标准有助于减少项目对接中的口径差异，提升跨行业复制能力。",
+                "对下游采购方而言，标准可作为招标和验收参考，降低选型风险并提升项目可比性。",
+                "资本市场层面，具备标准适配能力和合规工程化能力的企业，可能获得更稳定的订单预期。"
+              ]
+            },
+            {
+              "heading": "后续落地看点",
+              "paragraphs": [
+                "接下来需关注标准宣贯与实施节奏，尤其是是否形成分行业、分场景的操作指南。",
+                "同时，企业将面临存量系统改造与新增系统按标建设的双线任务，实施成本和周期需要评估。",
+                "随着伦理安全指引等政策推进，技术标准与治理规范的联动将成为AI产业发展的关键变量。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "工信部批准690项行业标准",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16emZiSmpfT1hFRTR3c2k4b0JPa2Z0SU16UVFfcU5NV2RNNnhSRkg1OHhuWlNseHQwdXBERV9ia1ZKc1U0eHAzcldyWQ?oc=5"
+          },
+          {
+            "label": "同主题报道（工业和信息化部）",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jS1pYamdjZ3FCY21EOFE4RGZvRHdxTXNMY1NsQ09wWmZSdkF5RXFMQ3M4SE1FQ1NnNkhBTTE4cGlxUDFqa3JyUmNKOFg3UHc?oc=5"
+          },
+          {
+            "label": "AI伦理安全指引相关动态",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkp1S3lFblMtLWpLMEVmd3UyYXB2YzJldlBhSk5iM1B5Ym9aa1NYTXZGRmQ2MDRCVE5BTU1aQ0Z4eWp3RFBJV1VCYjdLb3l5UGN0MXBERmx4QW1rd3g4aGV4a0MzM08tdHhDUVR2OWRZQVdtN1lSUDQ4T1lUWUQ4ZVAycFp6cTdhbFk3OHZ0ZkxjZTF0a0c1RHB2eEtfNkFDS0dLQWdDdw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16emZiSmpfT1hFRTR3c2k4b0JPa2Z0SU16UVFfcU5NV2RNNnhSRkg1OHhuWlNseHQwdXBERV9ia1ZKc1U0eHAzcldyWQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260428-auto-1-c30680",
         "title": "IBM发布企业AI开发伙伴",
         "category": "AI新闻",
@@ -3647,6 +3763,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260429-auto-1-1de836",
+        "title": "用Promptflow搭建可追踪工作流",
+        "category": "AI使用教程",
+        "date": "2026-04-29",
+        "summary": "三步完成LLM流程追踪、评测与迭代上线",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "用Promptflow搭建可追踪工作流 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月29日，面向生产环境的LLM应用已从“能跑起来”转向“可追踪、可评测、可迭代”。下面用Promptflow、Prompty与OpenAI接口给出一套可直接落地的教程框架。",
+          "blocks": [
+            {
+              "heading": "步骤一：先搭可追踪骨架，再写提示词",
+              "paragraphs": [
+                "先定义一个最小业务流程：输入问题、检索上下文、生成答案、输出引用。将这四步拆成独立节点，避免把逻辑都写进单个Prompt。这样每一步都能单独记录输入输出，后续排查更快。",
+                "在Promptflow中建立flow目录后，先完成节点连线与变量命名规范，例如user_query、retrieved_docs、final_answer。命名统一后，日志检索和多人协作会更顺畅，也便于后续接入评测脚本。",
+                "Prompty用于管理提示词版本时，建议把系统提示、用户模板、few-shot样例分文件维护，并在文件头写清版本号与变更原因。上线前固定模型参数，如temperature与max_tokens，减少回归测试噪声。"
+              ]
+            },
+            {
+              "heading": "步骤二：建立评测集，量化质量与稳定性",
+              "paragraphs": [
+                "准备一份覆盖真实场景的数据集，建议至少包含三类样本：常规问题、边界问题、对抗问题。每条样本包含标准答案或评分规则，字段保持一致，例如query、ground_truth、category。",
+                "设置两层评测：第一层是自动指标，如答案相关性、事实一致性、格式合规率；第二层是人工抽检，重点看高风险问题。自动评测用于快速筛选版本，人工评测用于确认是否可发布。",
+                "每次修改提示词或模型后都跑同一套基线集，并记录版本对比表。重点观察失败样本是否集中在同一类别，若集中出现，优先修复流程节点而非盲目叠加提示词。"
+              ]
+            },
+            {
+              "heading": "步骤三：上线与迭代的实操清单",
+              "paragraphs": [
+                "上线前做灰度：先放10%流量，监控错误率、平均响应时延、人工差评率。若任一指标连续超过阈值，自动回滚到上一稳定版本，避免影响全量用户。",
+                "为每次请求保留可追踪记录：模型版本、提示词版本、检索命中片段、最终输出与用户反馈。出现问题时可直接复现原始调用链，缩短定位时间。",
+                "建立每周迭代节奏：周一整理失败样本，周三完成修复与离线评测，周五灰度发布。保持小步更新，优先解决高频失败场景，比一次性大改更稳定。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Promptflow工作流与评测方法",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5"
+          },
+          {
+            "label": "提示词优化实操要点",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VeGlRbkViNTZtWExfQmN3UGtaeGlCTy1QZTQyQ1hTTDdlWlljVjVEQnB6aGVpNDVHTTdJaDNvUDJpLUEyWlZpNnZTVDd2RkxXaDFqaDFYVFJZWTVfVDF4UDFEUGp4bVUtSHlwVTlBclphUThlLUMySA?oc=5"
+          },
+          {
+            "label": "提示词误区与幻觉风险讨论",
+            "url": "https://news.google.com/rss/articles/CBMi5wVBVV95cUxPaTZLdTA5RjdJb1hHMTBvdlhPcDRwUWJ1LV9jaUI3T3NsWkh2bV8ySGgzWUNCSk1hQmxtQUNiVFhkcUZVZk9FVm9SUmZ1Nm9rSTg0MTlKV1E3VW1WaG42MXF5eFZ5WlFhS19wa3hNWGRoOGlvc0xiX3VDOHFWZmRHeXpWVDMzX1Y1Y0x5ZlZWRldCbERVQ3M5TUVSRGE0TkpITko2bXlzcXR4NXViY3ZIaFgtdTQ4VzRiRDBuUXVFRTYtQ09DRE5HSjJvT0RSa1I5WFpBQ2pPYWtvLUFwaldLd2otYmZNQ09JU0Z1MkNuSzFxVWJ2cXRBdFNuRGNnanIwUmlJLW9OeTRQdnJPbVBxYVhDdHp1d2wySnFETDZkcGtvczZjVjJaMEFSUERSb1BVU1JoWWxqQkEtQWFPM2xUS2RWc2E0VWQ3dVZiRDd0ZU1RRHJmSjl5RUdJZjRlbWFNbjltUlRMWU8yT0RiNnIzTlA2ekt4T0g0SnNwdHBlWHFKTnl3aTJ0bHhuM05ONmR2YzBNSDJYMGI3OHdpS3pHZnhGTkRNdlhUXzcwdlRiTkxYa21idGgtZnFJT2hTakhIRk5CSHo5TGxnQ3MxOWxiU0tGQUtUMUJrdEpqNTZBcm5qd2k0ZXNrQkh5OFJncGpkdGtXaDZVWFJwM2dVdkVEWXhwZkctTDBuN0I5ME1TNlFzTmx4bmhXYU5pZk1ZclAxbW9ha0Q1ektOX2NsRmJOcjBXbzQ5bjhISEJqM3JHMHEydTU5am04UDdLVG11bVVkVktGbE5Xd3VoejVLdlFzU1RpUTg4TFBVZl9BWjI1RFpHeUFudEFyd0xsV0lzR1RuMzYzWVZsemplUkQ2eW9CY0tpYzRBZ3JSZzZnblF5QkRKZkVfZEdyTy0zV3VBSFkxNE9oczNtbzJXdmVZWGk1cEFlcERfbmttbnJMbDJ0NUEzQmdwWngwVm5zUmV6Zl9TQUctd3cxOA?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSU5sYzQ0S0c4Qk1SWGMxNlVzS1NXc0h1Vk1ENFNORFpINXI4UFpXMjZ1U1FKRjR2aVI5bXRmOExVcVFkMlg4enFiRXZ2UjFXVmJlTXV1XzVpazdaV3pLdmJiOTVDMExFVTFrNnVySlVWWFpueFVfdjhsejFibHBoREgtZUdMOER1eEl5YXZySm0tVmtmVkFUTGhkdkZEYWk4eWIzdDlMeFYtT2RWamFBUFBMRHFWT1dTcjkzbDBEU2ItenU4Q3fSAcsBQVVfeXFMTzI2R0NwUFhMVFJLV2F2TUl2ZE1LcUsxMW4yV210WFJrdGtKMm1ZS09RVDBJOWlXcmstaFUzQlRZRU16S1VlQm5DTFgyb1JjRlRqZW01bkJOVWZhTVNQbFhFeDZVd1ZORkRuOHZvU29IclBCbGR0RzJDMmlZMUxoV0VBVmZuOE5rcS01eW8zRnk4Yk1pRUNGNWxnbTFDLUllSTlIOU1OZ2dPdVFUcFFTZU9FMUU4T3dTTW5janVOeXdCX1ZLS290ck1wVWs?oc=5"
+      },
+      {
         "slug": "ai-guide-20260428-auto-1-92fc9c",
         "title": "企业Copilot落地教程",
         "category": "AI使用教程",
@@ -4893,6 +5067,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260429-auto-1-ea5bca",
+        "title": "OpenAI开源隐私过滤器",
+        "category": "开源项目",
+        "date": "2026-04-29",
+        "summary": "1.5B参数PII脱敏模型发布，聚焦数据合规处理。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI开源隐私过滤器 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年4月29日，开源AI在数据合规方向继续推进。OpenAI被报道发布Privacy Filter开源模型，核心用途是对文本中的个人敏感信息进行自动识别与脱敏，面向企业日志、客服对话与训练语料清洗场景。",
+          "blocks": [
+            {
+              "heading": "更新要点与定位",
+              "paragraphs": [
+                "该模型被描述为1.5B参数规模，并强调在推理时仅激活部分参数，以平衡精度和吞吐。对使用者而言，重点不在参数数字本身，而在其是否能稳定覆盖姓名、电话、证件号、地址等常见PII类别。",
+                "从项目定位看，它属于“安全前置组件”，通常不会单独形成业务价值，而是嵌入RAG、客服机器人、文档处理流水线中，作为进入大模型前后的检查层。",
+                "在当前多地监管对数据最小化和可审计要求提高的背景下，开源隐私过滤模型为团队提供了可本地部署、可复核规则、可二次训练的技术路径。"
+              ]
+            },
+            {
+              "heading": "适用场景与接入方式",
+              "paragraphs": [
+                "典型场景包括：训练前语料脱敏、在线对话实时遮盖、数据库导出前审查。对于需要跨部门共享文本数据的组织，该类模型可降低原始敏感字段外泄概率。",
+                "工程接入通常有两种：一是在API网关层统一调用脱敏服务；二是在离线ETL任务中批量处理后再入库。前者适合实时业务，后者适合历史数据治理。",
+                "若团队已有自研正则与词典体系，可将模型识别结果与规则引擎做交叉校验，优先采用“高置信命中自动处理、低置信命中人工复核”的策略。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在数据标注与评测，不在模型下载本身。建议先准备小规模内部验证集，按业务真实文本分布统计误报与漏报，再决定是否全量上线。",
+                "对于中小团队，可先在离线场景试点，避免实时链路改造成本；当准确率满足阈值后，再扩展到在线流量并增加灰度发布与回滚机制。",
+                "发布语境下，企业采用此类开源组件时仍需关注许可证、更新频率与社区维护状态，并建立版本锁定和安全扫描流程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI开源PII过滤模型报道",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMTMtempQQmF6MXd2czcyN0xkOHlNM2Z6Y0Z5aklicEZJS0JMLWZNVzVGdEtrWnJiVU5QZ2I4QlU2S2VOV2FhS01RdHRDRS1ma3JOdTR6OUtrNE9qZk12Z1daOWZyTm1LQjRLLXZPdS03ZmFPYmZRNFBMcUFseHdScDBNWjVMYXJVcnJPSjlOZkxFck1tYUZVUHRPN05uay1vVmF1RTdQazBfVGZZV1RBOGp0YjJjSURkdXhVZ2Rmc2x5QUZ1aE9jLVVfNncxSXZ0NXVHWERGQmQ0VmVoY21zWdIB5gFBVV95cUxNdVFQeWtfT3BMb2IwNmFJQWx6VU1oY3ZQcDF4alhuREVjXzlIUnFQYmtSM0hOdldOZ3RieWlDNmhLa2VybkdDVEhFangtUHlMUTUxLXMtc1ZFd1BaT1pwQUJrakNSbmpyelFPbFVEY3Rnei0xb1ZjZHRtRTVaaGJFX1hWZ0xCLW1JN0YyTURzYmM3enZQeHdySUNRSUQ2RWhRUGQ3dVFEblVzVnIyYmZZcXdFdXJvdFlYSklLcldYblJ1Zl9jTWN6LWhYbzdOMkNXWmpyejlLMC12X3hnaVd5QnBMNDJIZw?oc=5"
+          },
+          {
+            "label": "Dataiku开源隐私层发布",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMGkxSzNKT2tya0RBa20wQlk5bWhEaS1yUkU1aXZoNUhRMFVKRmFzeFdsdzl5Zy1sU0FlVXlUNGpISmIyLW12N2dTTDVaRXE2a2dPTk56TWU1MUFwWWpLYnIxcGlrNzFOOUVmMDVEem5tSnNrRGM0S0xSdDhHZzRERTlxMHl5ZElTUWc2NkRRdmk0Ymo5MUZ2R25NWktteF9UeFgyZGJoeXoxN2NrNWNIVlg4VUpVbGl5Y2cxUnRpNzJRSC1DU2xWb1RjcXdnM1RxalRsejZtLVBYMWg4Tkktb2J3?oc=5"
+          },
+          {
+            "label": "AI漏洞发现风险背景",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOF83cVZzaDhYUGpTanQ1N0h4WkJyVTc0eXFPaFlyTkNUTFhfT1NxOFBGWlJudUJzajI5UUNsSHRiWXdlRURxVDdiX0hIcUNYRDJ2SDlKU2x0Um1STmV4R3VBSG9icG5NZXp0OXVWcm5WdGRmTHVjWXZ3?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMTMtempQQmF6MXd2czcyN0xkOHlNM2Z6Y0Z5aklicEZJS0JMLWZNVzVGdEtrWnJiVU5QZ2I4QlU2S2VOV2FhS01RdHRDRS1ma3JOdTR6OUtrNE9qZk12Z1daOWZyTm1LQjRLLXZPdS03ZmFPYmZRNFBMcUFseHdScDBNWjVMYXJVcnJPSjlOZkxFck1tYUZVUHRPN05uay1vVmF1RTdQazBfVGZZV1RBOGp0YjJjSURkdXhVZ2Rmc2x5QUZ1aE9jLVVfNncxSXZ0NXVHWERGQmQ0VmVoY21zWdIB5gFBVV95cUxNdVFQeWtfT3BMb2IwNmFJQWx6VU1oY3ZQcDF4alhuREVjXzlIUnFQYmtSM0hOdldOZ3RieWlDNmhLa2VybkdDVEhFangtUHlMUTUxLXMtc1ZFd1BaT1pwQUJrakNSbmpyelFPbFVEY3Rnei0xb1ZjZHRtRTVaaGJFX1hWZ0xCLW1JN0YyTURzYmM3enZQeHdySUNRSUQ2RWhRUGQ3dVFEblVzVnIyYmZZcXdFdXJvdFlYSklLcldYblJ1Zl9jTWN6LWhYbzdOMkNXWmpyejlLMC12X3hnaVd5QnBMNDJIZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260429-auto-2-56377c",
+        "title": "Poolside发布Laguna XS.",
+        "category": "开源项目",
+        "date": "2026-04-29",
+        "summary": "免费开源编码模型面向本地Agent开发与离线部署。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Poolside发布Laguna XS. 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月29日的开源项目动态中，Poolside被报道推出可免费使用的开源模型Laguna XS.2，主打本地Agentic Coding场景，强调在开发者终端或私有环境中完成代码生成与辅助任务。",
+          "blocks": [
+            {
+              "heading": "项目价值与目标用户",
+              "paragraphs": [
+                "Laguna XS.2的核心价值在于降低“本地代码智能体”门槛。对无法将代码仓库上传至公有云的团队，这类模型提供了数据不出域的替代方案。",
+                "目标用户主要包括安全要求较高的企业研发团队、独立开发者以及需要离线工作的工程岗位。相比通用对话模型，它更强调代码理解、补全和任务分解能力。",
+                "在生态层面，免费开源策略有助于吸引插件开发者与工具链集成者，形成围绕本地IDE、CLI与自动化脚本的应用扩展。"
+              ]
+            },
+            {
+              "heading": "典型用法与部署路径",
+              "paragraphs": [
+                "常见用法包括：仓库级问答、重构建议、测试样例生成、提交信息草拟，以及多文件修改计划输出。若配合本地检索，可提升对私有代码上下文的理解稳定性。",
+                "部署可从单机推理开始，再逐步扩展到团队共享推理节点。前期应优先打通模型调用、向量检索与权限控制三项基础能力。",
+                "对于希望快速试点的团队，可先限定在非核心仓库进行辅助编码，收集通过率、人工修改率与响应时延数据，再决定是否扩大覆盖面。"
+              ]
+            },
+            {
+              "heading": "上手门槛与风险控制",
+              "paragraphs": [
+                "上手门槛主要是硬件资源与工程集成，而不是提示词本身。团队需要评估本地GPU或推理服务成本，并为长上下文任务设计缓存与分片策略。",
+                "在质量控制上，建议将模型输出纳入CI流程，通过静态检查、单元测试和安全扫描进行自动拦截，避免“看似可运行但不符合规范”的代码直接入主干。",
+                "在2026年的发布语境下，本地开源编码模型正在从尝鲜走向可运营阶段，组织应同步建立版本管理、回归评测与责任边界机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Poolside发布Laguna XS.2",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3Nuak16elR1SVFiRWpPRHJ5S1g5ZGI3Z0d0Rk5uTV8wMzRtYjJNMk1SNDk3SElXS1dsS0hreDE2U1BUcUY0M2Uwd1hweWNvaElBckZQY3F5MTU4czA4WTdjS3hXVnA1SlpPZTc2WWNCYVY4ekYxdXpGQjJKQnBJLUdmS2hFOWM5T09SV2lUZW1FbjJLVFl3VW80UjNLN0I3dGUwQXFGU0QyUjQzWEpPOFEwNW9IbUFGbVpsVTJQSTRoZG1jcTN6eG5USjZucmcwTDVFaWhid3U?oc=5"
+          },
+          {
+            "label": "Poolside模型线扩展报道",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXFvNEFubEgtZEFJaG4yRkNxcV8wbW1iVjBKS2M1WmRsWklVWnN5UjBTcmdhMDZ6azZVZFZOVVhkS3BUVVpjRjg1UWx0RGtNUVdZbEdZNUZxZlpUempwMk1xU0piTGJwMTRhYXVWYUo4MjZTUW5WVExUbG9nS3BVTGdRZW9OajVlQmwwRDQydGotcE8wQzdMZjNjYXM3czhFdWFYT3ZzVlFYNlROQXEtTDJaUkMxS2RwVHlRdw?oc=5"
+          },
+          {
+            "label": "本地Agent成本压力背景",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblV1NTc5R1dNVUNZcFhwQzMxOHU0OGlRTFJPeHNkVmUtN2FMbDZtZVBEaUxXS2VwWTRDZGQzYTYxWlV6MmNVWEI1SlA2RTJBN0tyTXZFcnVnOElzczEtdnB6S2MxWmJnbGF2YjhwdW01cC14YUNZdzM3aThCdnkzWnYxNHgxVEM2dEk2RTBFX2lTMHFydS1fNnItT2t5LWhKVHBnbQ?oc=5"
+          }
+        ],
+        "source": "VentureBeat",
+        "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ3Nuak16elR1SVFiRWpPRHJ5S1g5ZGI3Z0d0Rk5uTV8wMzRtYjJNMk1SNDk3SElXS1dsS0hreDE2U1BUcUY0M2Uwd1hweWNvaElBckZQY3F5MTU4czA4WTdjS3hXVnA1SlpPZTc2WWNCYVY4ekYxdXpGQjJKQnBJLUdmS2hFOWM5T09SV2lUZW1FbjJLVFl3VW80UjNLN0I3dGUwQXFGU0QyUjQzWEpPOFEwNW9IbUFGbVpsVTJQSTRoZG1jcTN6eG5USjZucmcwTDVFaWhid3U?oc=5"
+      },
       {
         "slug": "open-source-20260428-auto-1-c2a906",
         "title": "Talkie-1930开源发布",
