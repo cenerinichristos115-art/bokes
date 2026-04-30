@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260430-auto-1-d93e3f",
+        "title": "微软2026年AI资本支出预期",
+        "category": "AI新闻",
+        "date": "2026-04-30",
+        "summary": "微软预计2026年资本支出达1900亿美元，聚焦AI基础设施建设。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微软2026年AI资本支出预期 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年4月30日，围绕AI算力与数据中心的资本投入再次成为科技产业焦点。微软被报道预计在2026年维持高强度资本开支，市场正在重新评估AI基础设施建设节奏与回报周期。",
+          "blocks": [
+            {
+              "heading": "支出规模与行业背景",
+              "paragraphs": [
+                "据报道，微软预计2026年资本支出达到1900亿美元，核心方向仍是AI相关基础设施，包括数据中心扩建、算力集群与配套网络系统。这一规模显示出头部云厂商对AI长期需求的判断。",
+                "在同一时间窗口内，行业也出现“四大巨头支出逼近7250亿美元”的讨论，说明资本开支竞争已从模型能力竞争延展到电力、机房、芯片与运维体系的全面竞争。",
+                "从产业视角看，持续高投入有助于巩固云服务与AI平台的供给能力，但也会带来折旧、现金流与利润率压力，投资者对短中期财务表现的关注明显上升。"
+              ]
+            },
+            {
+              "heading": "对产业链的传导效应",
+              "paragraphs": [
+                "大体量CapEx通常会率先传导至服务器、加速芯片、存储与光互连等环节，相关供应商的订单可见度和交付压力同步提升。上游设备与工程服务商也可能从中受益。",
+                "不过，市场近期也在关注“AI基建股回调”现象，这反映出资本市场对投入回收期和需求兑现速度仍有分歧。即便长期需求明确，短期估值波动仍可能加剧。",
+                "对企业用户而言，若云平台持续扩容并优化单位算力成本，AI应用部署门槛有望下降，这将推动更多行业从试点走向规模化上线。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "接下来可重点跟踪头部厂商季度资本开支执行进度，以及新增算力对应的商业化收入增速，判断投入与产出是否保持匹配。",
+                "政策与能源因素也将影响项目落地速度。数据中心选址、电力保障、绿色能耗标准与跨区域网络能力，都会决定AI基建扩张的实际效率。",
+                "整体来看，2026年AI资本开支仍处在高位区间，产业竞争将继续围绕“算力供给能力+应用变现能力”双主线展开。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "微软资本支出报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTNqM1UzM29GdXJlVUREWTd4U1VSd2QyVjhQZkY1Z2g0RjJlMnQxS1Q4UjlTT2VOM09wODFzWXdiYnVVUmxFckRMNUdZT19EUjVIXzZzdkZKNUg2OWlRQkFYRDJ1Q203bE5kYXJUTDFzajJ5d09DS0pTU2s3X2w2YkViNThEVVI2aXFBaWdjVUloc3hrN00zZ29pOWlxd05WeVMyN3VyTVFWWVFOczI3bDdn?oc=5"
+          },
+          {
+            "label": "四大巨头AI支出动态",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUZMSGVxR3M0Mk9pZTY4S0daQndKVHY1UDBWNXVfdW5KQk5ZbEU3ZlNJS1JUOHQ1eFpHTk5qR2VzSHRqWjVRLUhPTndkcGNNYjcwTHRIRC1qOTNhdVpQNnEzeFVROFd4Wm9GWl9ibTB0QllwMlFlekQ0a0VoNk1NcFpfVXFtTlFkQTZOb2Mwbk1WZ3VMYnRocUdHUHpZa21KN0dLV0hpbE5BVmpZQUtyRkVn?oc=5"
+          },
+          {
+            "label": "AI基建股回调讨论",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iUEtBVzlNamE3c3E4ZzYwR2lrWGpzMGZDUnY1M0tmSWI5XzRpcFNMMGpzalU0TXUyS21GSlZLRG1SX0dUUmpsaTE0aTJOUkxwMWpWSG9mWS1GLU8wM1V0aEpBRnVZXzJ6V0hIUjc0LWFuUGZfZjhmWFRiSQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTNqM1UzM29GdXJlVUREWTd4U1VSd2QyVjhQZkY1Z2g0RjJlMnQxS1Q4UjlTT2VOM09wODFzWXdiYnVVUmxFckRMNUdZT19EUjVIXzZzdkZKNUg2OWlRQkFYRDJ1Q203bE5kYXJUTDFzajJ5d09DS0pTU2s3X2w2YkViNThEVVI2aXFBaWdjVUloc3hrN00zZ29pOWlxd05WeVMyN3VyTVFWWVFOczI3bDdn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260430-auto-2-f1d46d",
+        "title": "广东AI进入高利害场景",
+        "category": "AI新闻",
+        "date": "2026-04-30",
+        "summary": "广东在司法、政务、医疗、电网等高利害领域推进AI应用与对接。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "广东AI进入高利害场景 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年4月30日，广东AI应用进展进入新阶段。相关报道显示，AI正加速落地司法审判、政府决策、重症医疗和电网控制等高利害场景，地方治理与产业协同同步推进。",
+          "blocks": [
+            {
+              "heading": "应用范围扩展至关键领域",
+              "paragraphs": [
+                "高利害场景通常具有结果敏感、责任边界清晰、容错空间有限等特点。AI在这些场景中的应用，意味着技术从效率工具逐步进入关键决策支持环节。",
+                "在司法与政务层面，AI可用于文书辅助、检索研判与流程优化，但最终决策仍需由专业人员负责，这体现了“人机协同”而非“完全替代”的推进路线。",
+                "在重症医疗与电网控制等领域，系统稳定性、实时性和可解释性成为核心要求，部署节奏通常与标准制定、测试验证和安全评估同步进行。"
+              ]
+            },
+            {
+              "heading": "区域协同与产业对接机制",
+              "paragraphs": [
+                "广东省人工智能应用对接大会在深圳举办，释放出区域层面推动供需对接、场景开放与技术转化的信号，有助于缩短技术到业务的落地周期。",
+                "数字中国AI CITY分论坛强调城市数智创新，反映出地方在城市治理、公共服务与产业升级中，将AI视为基础性能力进行系统布局。",
+                "这类会议与平台机制的作用，不仅是发布成果，更在于形成标准化需求、跨部门协作流程和可复制的项目模板，降低后续推广成本。"
+              ]
+            },
+            {
+              "heading": "治理要求与落地挑战",
+              "paragraphs": [
+                "高利害场景的AI应用需要更严格的合规治理，包括数据安全、算法审计、责任追溯和应急处置机制，相关制度建设将成为落地前提。",
+                "从实施层面看，行业知识沉淀、历史系统改造和跨机构数据协同是主要难点，项目往往需要分阶段推进，先验证后扩围。",
+                "总体而言，广东的实践显示地方AI发展正在从“单点试用”走向“体系化应用”，后续成效将取决于技术能力、制度供给与场景管理的协同程度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "广东高利害场景应用报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0ZSZERwcUktMk9GTkVfQzdWZnd2cV82UkVHVmVvN0huTm9ha0huVGFWTzl3Wm51MHZoSmwyOUQ4a2lqaUw2a005TlFhS3hyYmllN3BaUXVSMUVReUVIdjVYRy03LUR2TlpxdVBjaG5PcTk3d3VVMnlXeXVRY0tETWQ2YXJOdGpQVU1QMnJNa3Z2WnI2Uk8xY1dta3hWUUlKVGYtZk1aOA?oc=5"
+          },
+          {
+            "label": "广东省人工智能应用对接大会",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CZ3I5Vk56WGJzaV9kQ2lyZmJCaUp2bUllTGItWXdNaXZobW0yelUtYnl1T2VfOFQ3Y1l0Q0xZTzNnWm01TExselVwMDlMRm9WWFpyTGdHcFlZVDc2UzhtNHpyTQ?oc=5"
+          },
+          {
+            "label": "数字中国AI CITY分论坛",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekkySVNmX0p6QXhsRzJXQTF1X3RibG9vd3NWYUxpTWczNGp5UHVkSHQwQ3ZHQm95SE5lUHNBYWZkaVd6b3NBVTBJWWRidlYxR2hObjNaTnhmRnFVVDJFWlkxa3h4WXV2Wnp3amxUb2NDQUg4Nlc3WUZDX21NZVp6cWlFM1hZbkdKWEVDT3R1SzQzYkRqSTB5c1NuOVIxX2tid1ljOVFWZw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0ZSZERwcUktMk9GTkVfQzdWZnd2cV82UkVHVmVvN0huTm9ha0huVGFWTzl3Wm51MHZoSmwyOUQ4a2lqaUw2a005TlFhS3hyYmllN3BaUXVSMUVReUVIdjVYRy03LUR2TlpxdVBjaG5PcTk3d3VVMnlXeXVRY0tETWQ2YXJOdGpQVU1QMnJNa3Z2WnI2Uk8xY1dta3hWUUlKVGYtZk1aOA?oc=5"
+      },
+      {
         "slug": "ai-news-20260429-auto-1-15e2fd",
         "title": "网信办征求虚拟人新规意见",
         "category": "AI新闻",
@@ -3763,6 +3879,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260430-auto-1-f6056c",
+        "title": "GPT-Image-2出图实操",
+        "category": "AI使用教程",
+        "date": "2026-04-30",
+        "summary": "基于最新案例，给出AI生图的可执行流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-Image-2出图实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-04-30前后的公开案例，下面给出一套可直接执行的GPT-Image-2生图流程，重点解决“风格不稳定、细节失真、返工次数多”三个常见问题。",
+          "blocks": [
+            {
+              "heading": "步骤一：先写任务单，再写提示词",
+              "paragraphs": [
+                "先用三行任务单固定目标：用途（封面/海报/配图）、主体（人物/产品/场景）、限制（尺寸、文字区、禁用元素）。例如“公众号头图；未来城市跑鞋；16:9，左侧留标题区，不出现水印和品牌Logo”。",
+                "把任务单转换为结构化提示词：主体描述 + 构图 + 光线 + 材质 + 色彩 + 负面约束。建议一次只设1个主风格词，如“cinematic”或“editorial”，避免混用过多风格标签导致模型摇摆。",
+                "首轮只生成4张草图，不要直接追求最终图。草图阶段只评估三项：主体是否准确、构图是否可用、风格是否一致。满足2项即可进入第二轮精修。"
+              ]
+            },
+            {
+              "heading": "步骤二：两轮迭代把控稳定性",
+              "paragraphs": [
+                "第二轮只改一个变量：先改构图，再改细节。比如先用“close-up/medium shot/wide shot”切镜头，不同时改色彩和材质，这样更容易定位问题来源。",
+                "遇到手部、文字、边缘畸变时，加入明确约束句：如“hands anatomically correct”“clean edges”“no gibberish text”。若要保留排版空间，可加“empty area on the left 30% for title”。",
+                "每轮保存版本号与提示词差异，命名建议“项目名_v03_改构图”。当某一版达到80%可用，不再继续大改，而是进入后期微调，防止越改越偏。"
+              ]
+            },
+            {
+              "heading": "步骤三：交付前质检与落地建议",
+              "paragraphs": [
+                "发布前做四项质检：分辨率是否满足平台、主体是否有识别歧义、局部是否有AI伪影、是否存在潜在侵权元素。尤其商用场景要检查人物肖像和品牌标识。",
+                "建立团队复用模板：把高通过率提示词拆成“场景模板、人物模板、产品模板”，并附上失败案例备注。新成员可直接套模板，减少试错时间。",
+                "结合当日内容节奏（2026-04-30），建议采用“上午草图、下午精修、晚间发布”的单日流程。若为系列内容，可固定同一色板与镜头语言，提升账号视觉一致性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "爱范儿：等等，这些图是GPT-Image-2出的？！",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VWVNDR042Y0JYSE5EU21hNzdMTmFYS2lybFN3Mk5PeGswZ2JtWWtmSnVLd192aXdmY0JBOVJTSzdKUWc?oc=5"
+          },
+          {
+            "label": "games.gg：Cinematic海报提示词指南",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3TXFLMklLRUJ5ZkwtUnp4d3IyQzc3TW1mWVM0TE9LdEJOY1VWVWpWS0dOd0YzaXVkV0I2em5QWlA2djNpdUM0WGZHM0U5ZDZIN1hZa2JzVURDOFlXUnNEcG5nMG9IOTA?oc=5"
+          },
+          {
+            "label": "MSN：Gemini personal intelligence体验",
+            "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQbktYbTlZZDVGT2JGSHJHU1ZCSHUzd0ZhY1VqVjdfRC1QQkNGZ1duOEszVXZEc2h6V0tUdzJaRTFvNTJVZVhmWFZVa0laaVlrMlNibXlIbVRnQlB5aDZlLW1lOGhyeGs1WlBlOWxzSnBmWGd3TnFvUGN4b1YySjhuSGRZWXg2YTBiWmIwdFRDMFloVGc3X05pNDRWSjJ3QzA0Qm9CX09FYkhoOGlrc3VBaFpHV2FPeG1WSkpXSjNHaXJjTFdUQXdjdXFTOGYyTElMSVp5cUhTOVl2dlI1aDdsalRNM1UxUDNRZG1HZ2lfMWhIaHNPZlk3cWFRWmlXU0hnWTJjdWljWnQyWFB3bzNWeDZJZUNoTnExdDU1cTVHNHRqOFViTllEUWNNalFtTmREMnF1OGZtU2NwQlQtTnBiV2R1dzctbWtsd240VzJDc0RLMUVuRWJudkJXUTRJdVVsWVJWUDVwc2RWQkFTMWVQb0U4T1duejdVaS0wS2R0dlpkSVo2WG0yTzAtaGtQbHdTQkxlQk53R2F4OElybXhYX2pLX3JtV3JsNWl4UHVR?oc=5"
+          }
+        ],
+        "source": "爱范儿",
+        "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VWVNDR042Y0JYSE5EU21hNzdMTmFYS2lybFN3Mk5PeGswZ2JtWWtmSnVLd192aXdmY0JBOVJTSzdKUWc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260429-auto-1-1de836",
         "title": "用Promptflow搭建可追踪工作流",
         "category": "AI使用教程",
@@ -5067,6 +5241,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260430-auto-1-a5539c",
+        "title": "Warp终端转为开源",
+        "category": "开源项目",
+        "date": "2026-04-30",
+        "summary": "AI优先Warp终端宣布开源，便于自托管与二次开发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Warp终端转为开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年4月30日，AI优先终端Warp被报道已转向开源。对开发团队而言，这一变化意味着可审计代码、可定制工作流与更灵活的部署方式。",
+          "blocks": [
+            {
+              "heading": "事件要点",
+              "paragraphs": [
+                "候选信息显示，Warp Terminal从闭源产品形态转向开源发布，核心关注点在于“AI-first”交互体验与终端效率工具的结合。",
+                "开源后，团队可以按自身安全规范审查实现细节，并评估是否适合内网环境、受限网络或合规要求较高的研发流程。",
+                "从行业节奏看，开发工具链正在把AI能力前移到命令行入口，终端、编辑器与代理式执行逐步形成连续工作面。"
+              ]
+            },
+            {
+              "heading": "用途与适用场景",
+              "paragraphs": [
+                "Warp这类AI终端通常用于命令补全、脚本生成、错误解释与多步骤任务编排，适合日常开发、运维排障和数据处理场景。",
+                "对中小团队，开源版本可用于统一终端配置与插件策略，减少成员在本地环境上的重复配置时间。",
+                "对企业团队，价值更多体现在可控性：可结合内部模型网关、日志策略和权限体系，降低将敏感命令直接发送到外部服务的风险。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "基础门槛主要是终端使用习惯与CLI知识，不要求先掌握复杂机器学习内容；但若要深度改造插件，需要具备一定工程能力。",
+                "建议先在非生产项目试点：验证命令建议准确率、代理执行可回滚性、日志留存策略，再决定是否全员推广。",
+                "若团队计划接入私有模型，应优先评估推理延迟、配额成本与审计需求，并保留人工确认环节以避免误执行高风险命令。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "It's FOSS: Warp Terminal开源消息",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mUWlHanZwNFU2LW9lbmo2YVZadHluRGhydTJ2b24xZ2hoNDUxQmQxTDJBRU9INGRHcVFMcEo4SEJTTXZtTUZQR2RVWDNIRXc4TUo1bWNmQVhNMUU?oc=5"
+          },
+          {
+            "label": "Mistral AI: Remote agents in Vibe",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          },
+          {
+            "label": "51CTO: Pixelle-Video拆解",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4eXRqUlpxWFZqdzNadko5ZTdsWTJjSWJ1TkhmTmhzYi1xajc5LUhaYmtVY196M2lfdm5VTm4xZlVSNzhxYWRhRDJiSDRsbXJOYTZ3?oc=5"
+          }
+        ],
+        "source": "It's FOSS",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mUWlHanZwNFU2LW9lbmo2YVZadHluRGhydTJ2b24xZ2hoNDUxQmQxTDJBRU9INGRHcVFMcEo4SEJTTXZtTUZQR2RVWDNIRXc4TUo1bWNmQVhNMUU?oc=5"
+      },
+      {
+        "slug": "open-source-20260430-auto-2-dba23f",
+        "title": "IBM发布Granite 4.1",
+        "category": "开源项目",
+        "date": "2026-04-30",
+        "summary": "IBM推出Granite 4.1开源权重小模型，强调企业场景可用性。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IBM发布Granite 4.1 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年4月30日，IBM对外发布Granite 4.1系列小型开源权重模型。该更新延续了“较小参数规模+企业可落地”的路线，目标是降低部署与治理成本。",
+          "blocks": [
+            {
+              "heading": "更新内容与定位",
+              "paragraphs": [
+                "Granite 4.1被定义为新一代小模型家族，重点不是追求超大参数，而是兼顾推理效率、可控性与企业任务适配度。",
+                "从公开信息语境看，该系列强调开源权重可用性，便于用户在本地或私有云中进行评估、微调和安全审计。",
+                "这类更新适合对延迟敏感、预算受限或合规要求明确的组织，尤其是需要在数据边界内完成AI能力集成的团队。"
+              ]
+            },
+            {
+              "heading": "可用场景与实践价值",
+              "paragraphs": [
+                "典型场景包括企业知识问答、客服辅助、文档抽取、代码与运维助手等，对吞吐和稳定性要求通常高于极限生成质量。",
+                "小模型在CPU或中低端GPU上的部署弹性更高，能帮助团队以更低硬件门槛完成原型验证与灰度上线。",
+                "在多模型架构中，Granite 4.1可作为第一层路由模型处理常规请求，复杂任务再升级到更大模型，以优化整体成本。"
+              ]
+            },
+            {
+              "heading": "上手门槛与评估路径",
+              "paragraphs": [
+                "上手门槛主要在工程与数据治理：需要具备基础模型部署能力、提示词设计经验以及日志与权限控制策略。",
+                "建议先做三步评估：离线基准测试、业务小流量A/B、失败样本复盘，重点观察幻觉率、延迟和单位请求成本。",
+                "若计划长期使用，应同步规划版本升级节奏与回滚机制，确保模型更新不会对核心业务流程造成不可控波动。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBM Research: Granite 4.1家族发布",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5"
+          },
+          {
+            "label": "LinkedIn: IBM发布Granite 4.1",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeDE3UXdRTXh1TnBlSjMzdmNiQVNSS3VURExkM2c4b2taY05pcnNaOHFvVnpUNGRUM3ZZRHFLRDczdEx3bGlsSHo4WXdfSDNrTHNOSmR6WW5wbjRIa2lOVDhCeUVrTXV3Tkh6UTBNc1FwR3J3S0c5R0J3MjV4T1d5OWVxVmFjaWFNVERfRldyY2hDUVI4?oc=5"
+          },
+          {
+            "label": "Startup Fortune: 小型开源模型企业化讨论",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHh0dnp0eFZELUM0eGt0MUdnRjFnVy1NaTFiUzJJT2NnT0FRb0lLNkhsTmxSeWo0bDJ5TGJIYm15QV9EMkRLMHM5cjRfWHRmcnBFb1poX3NQTlo3T19QLVVOcDdiTnBucUZnYjFVZkJpSW5mYXNlemJmX3d1NTdoUUNkdDRpcktyemxrSU82b2JFM1ljTjV0cmxn?oc=5"
+          }
+        ],
+        "source": "IBM Research",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlAxQk5KX0s5eDRjci00ZU9CZXMyZ1k3UDRHeWdVQzhOOFQ5TzQxYWVGeGpLOFBuVHV5akg1MjZ4bDlIZXFzcjl1ejhROXZzdDlxYUxXLUE4cHdvbko1M01Ea0ZNLWV3MzN5ekFiSQ?oc=5"
+      },
       {
         "slug": "open-source-20260429-auto-1-ea5bca",
         "title": "OpenAI开源隐私过滤器",
