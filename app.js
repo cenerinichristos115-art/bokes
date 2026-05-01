@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260501-auto-1-eb83f9",
+        "title": "小红书加码AI与出海",
+        "category": "AI新闻",
+        "date": "2026-05-01",
+        "summary": "小红书被曝重仓AI并设海外部门，战略重心转向技术与全球化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "小红书加码AI与出海 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月1日，北京时间的公开报道显示，小红书正在同步推进AI投入与海外业务搭建，平台型公司在增长压力下进一步向“技术+全球化”双线靠拢。",
+          "blocks": [
+            {
+              "heading": "战略动作集中披露",
+              "paragraphs": [
+                "多家媒体在同一时段披露，小红书不再延续相对克制的投入节奏，而是将AI视为下一阶段核心投入方向之一。",
+                "报道信息显示，公司已设立海外业务部门，这意味着其组织架构开始为境外市场运营、合规与本地化能力预留空间。",
+                "从产业节奏看，这类组织层面的变化通常早于产品全面落地，反映的是中长期资源配置而非短期营销动作。"
+              ]
+            },
+            {
+              "heading": "行业竞争与成本压力",
+              "paragraphs": [
+                "AI相关投入普遍具有前置性特征，包括模型调用、算力采购、工程团队扩张与数据治理建设，短期内会抬升成本。",
+                "内容社区平台进入AI竞争后，焦点不仅是生成能力本身，还包括推荐效率、商业化转化和创作者工具链完善程度。",
+                "在国内平台普遍推进智能化升级的背景下，小红书此次“重仓”表态可被视作对行业竞争强度提升的直接回应。"
+              ]
+            },
+            {
+              "heading": "观察点与后续变量",
+              "paragraphs": [
+                "后续可重点关注三个维度：AI功能上线节奏、海外团队与区域布局进展、以及投入对经营指标的阶段性影响。",
+                "若AI能力优先落在广告投放、内容生产辅助和用户服务环节，通常更容易形成可量化的效率改进。",
+                "在2026年的市场环境中，平台企业的AI投入正从概念验证转向经营验证，组织执行力将成为差异化关键。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经同题报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWdVRHNEZFhzbTRiVktseUdOZjAzMUlQRGg4YU1hMGVPYnBwSkZQZ3FSSGZoQzlYVldXWmxFMEtHOEk2b0RBZWJaT2phOXRYOUdtYS1fMHByaDd1Nk8yc2NYRV8tanJBMWlrQnFOazFtZ3BHWk9IdTV1SElrX2RjZHI3R0l4b1pTRmVNcTN6UlUxWnJHOWFGdXFPcFBxazB1RDBFbndrWQ?oc=5"
+          },
+          {
+            "label": "每日经济新闻同题报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0cEVtT0p1eXNQNlNOTTRfbzJGQUtkMHpOaHR0cm94NUFTMFVFY1plOVNRVjA5UXhORWNtQkRrcWU1bXg4TlhndWRCNC1ZVG4tMG4taFdCc2ZNSEpjTjZXYi1TVzdSUQ?oc=5"
+          },
+          {
+            "label": "中关村AI落地举措",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LekthSFJLUmN2anZtOGJmSDRzNF9ZWXlMT1Z1Y2U5X0pGd3ZqTXQ0SDVvTkZjR05FUTMtaWdLVFp6NUdZNnU0UjduSlJYRzRuNV9TcXg3eVNTa1A0Nk8yM0hDRmEwWEY5SmlBdW9SSTVudmFaWEJoZw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWdVRHNEZFhzbTRiVktseUdOZjAzMUlQRGg4YU1hMGVPYnBwSkZQZ3FSSGZoQzlYVldXWmxFMEtHOEk2b0RBZWJaT2phOXRYOUdtYS1fMHByaDd1Nk8yc2NYRV8tanJBMWlrQnFOazFtZ3BHWk9IdTV1SElrX2RjZHI3R0l4b1pTRmVNcTN6UlUxWnJHOWFGdXFPcFBxazB1RDBFbndrWQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260501-auto-2-63fb63",
+        "title": "DeepSeek押注国产芯片",
+        "category": "AI新闻",
+        "date": "2026-05-01",
+        "summary": "DeepSeek新模型强调国产芯片适配，产业关注算力自主与生态协同。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek押注国产芯片 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年5月1日的公开信息显示，DeepSeek新模型将国产芯片适配作为重点方向。该动向与国内AI产业“模型—算力—应用”协同推进的主线高度相关。",
+          "blocks": [
+            {
+              "heading": "模型与芯片协同成为焦点",
+              "paragraphs": [
+                "相关报道指出，DeepSeek新模型在技术路线中突出对国产芯片的支持，目标是降低对单一外部算力体系的依赖。",
+                "在大模型进入规模化部署阶段后，训练与推理成本持续受到关注，软硬件协同优化已成为企业普遍选择。",
+                "对模型厂商而言，芯片适配不仅是性能问题，也关系到供给稳定性、交付周期与长期成本结构。"
+              ]
+            },
+            {
+              "heading": "产业链意义与现实约束",
+              "paragraphs": [
+                "若模型厂商与国产算力平台形成更稳定的适配机制，可能带动工具链、框架与应用生态的连锁完善。",
+                "但从产业实践看，生态成熟度仍取决于编译器、算子库、开发者社区和商业场景验证，难以在短期内一步到位。",
+                "因此，现阶段更可行的路径通常是“重点场景先落地、逐步扩大兼容范围”，以降低迁移风险。"
+              ]
+            },
+            {
+              "heading": "市场观察与政策语境",
+              "paragraphs": [
+                "在国内多地推进AI产业集群建设的背景下，国产芯片与本土模型协同被视作提升产业韧性的关键环节之一。",
+                "对企业用户而言，是否采用相关方案，核心仍是看综合性价比，包括性能、稳定性、服务能力与运维成本。",
+                "以2026年5月的行业节奏判断，算力自主与生态开放将并行推进，最终竞争点仍将回到可持续的应用价值。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTWp3SVVFWElGTExEdFNLRkpyUEd2dGJfaGN4emNGaWRtVWM4bTFUeWRJbEdWZk53OXA2RmZNcVh1d1ZLY19Xd3ZmR3VWclhxanYzSE5ramFCLV9pVE16QUdLaG0zRGR2UEJrS1NaVXZOZFJlelViaA?oc=5"
+          },
+          {
+            "label": "搜狐网同题报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNVktVmdoZTBrM2Nrck5PYUw3ZXU2QWRZcy1ZSGVheFdCVFlMUVY0elVWb1VTX2VjUmREbExOWHlvbnNienZ0VWxvclRhVHgxZU1iVnBoOHJQVHpGQXdiQkxxVnVyYmd0cnNEbFIwSWo5QkFXZGVzcmFzQmR5VmlPS21vbjRQVXA0N0Izbw?oc=5"
+          },
+          {
+            "label": "智能产业发展调查",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEVQWU80dU1QM240N0xYZ3k4bndFSjN0NU1KaFNWcTlSNjdqbkpYZWd5WFUtQUQtSkJOS0ZFb1FyQ2dVZ2Z6cTgzWkRtUnA4ajE5cXliSEtnazdQV1UyWUtwQ0VtclZzQ3o2X09kdzdoenJvNmQ5X2c4UFpUcC1udXVucE5TTnVL?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTWp3SVVFWElGTExEdFNLRkpyUEd2dGJfaGN4emNGaWRtVWM4bTFUeWRJbEdWZk53OXA2RmZNcVh1d1ZLY19Xd3ZmR3VWclhxanYzSE5ramFCLV9pVE16QUdLaG0zRGR2UEJrS1NaVXZOZFJlelViaA?oc=5"
+      },
+      {
         "slug": "ai-news-20260430-auto-1-d93e3f",
         "title": "微软2026年AI资本支出预期",
         "category": "AI新闻",
@@ -3879,6 +3995,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260501-auto-1-6e8a4a",
+        "title": "本地PII过滤实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-01",
+        "summary": "基于Privacy Filter搭建本地隐私检测流程与上线清单。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "本地PII过滤实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026-05-01的发布语境下，企业与团队对“本地化隐私保护+可控成本”需求持续提升。本文给出一套可直接执行的教程：用本地可跑的PII过滤模型建立输入、日志与输出三层防护，并与大模型推理流程衔接。",
+          "blocks": [
+            {
+              "heading": "一、先搭建最小可用环境",
+              "paragraphs": [
+                "第一步先定义目标与范围：列出你要识别的敏感信息类型，如手机号、身份证号、邮箱、住址、银行卡号、真实姓名；再按业务场景分级为“必须拦截、可脱敏后放行、仅审计记录”三类。这个清单决定后续规则和阈值，建议由产品、法务、安全三方共同确认。",
+                "第二步准备本地推理环境：将Privacy Filter与主模型部署在同一内网，避免原始文本外传。部署时先跑小样本压测，记录三项基线指标：单条延迟、每千字成本、召回率。若资源有限，可先将过滤模型放在CPU节点，主模型保留GPU，后续再按峰值流量扩容。",
+                "第三步建立数据流顺序：用户输入先过PII检测，再进入大模型；大模型输出再过一次PII复检；日志写入前做字段脱敏。务必在网关层加“开关位”，保证当过滤服务异常时可以降级为只读或人工审核，而不是直接裸奔放行。"
+              ]
+            },
+            {
+              "heading": "二、按场景配置检测与脱敏策略",
+              "paragraphs": [
+                "对话助手场景建议采用“高召回优先”：阈值先设偏低，宁可多拦截，再通过白名单减误报。常见白名单包括公开客服电话、企业邮箱后缀、示例证件号模板。每次规则变更都要保留版本号，便于回溯问题。",
+                "文档处理场景建议采用“分段扫描+结构化替换”：先按段落切块检测，再对命中字段执行占位符替换，如[PHONE]、[ID_NO]。替换后把映射表单独加密存储，设置最短保留周期，防止研发或运营在普通日志中看到原文。",
+                "智能体调用外部工具时，增加“工具前置过滤器”：在发起搜索、邮件、工单、数据库查询前，先对参数做PII清洗；返回结果再二次检查。这样可减少敏感信息被第三方API记录的概率，也便于满足审计要求。"
+              ]
+            },
+            {
+              "heading": "三、上线前后用清单化方式运维",
+              "paragraphs": [
+                "上线前做三类测试：功能测试（能否识别目标PII）、对抗测试（错别字、谐音、空格混写、分段拼接）、回归测试（新规则是否影响旧场景）。每类至少准备50条样本，并统计误报率、漏报率与平均处理时延，达不到阈值就不要上线。",
+                "上线后建立周度复盘机制：抽样检查被拦截与放行文本，关注新型表达方式导致的漏检；同时对比token消耗与响应延迟，评估是否出现“推理成本上升但收益有限”的情况。若成本偏高，可先在高风险业务线启用全量过滤，低风险场景改为抽检。",
+                "最后给团队一份可执行SOP：谁负责规则更新、谁审批阈值调整、谁处理误拦截申诉、谁导出合规报表。将流程写入值班文档并演练一次，确保在节假日或高峰期也能稳定运行。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Privacy Filter与DeepSeek-V4-Flash上线信息",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUEctc1lUNHptVUl5a05xU1NaU1pIZ1NIZ3pEZ0tyeEFpb05pbnNsUTRPU3VRQ2kyTFJJNEYyOVRJYklVanFpSg?oc=5"
+          },
+          {
+            "label": "DeepSeek-V4-Flash在线教程",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03R3I4dnpFaHYzbmVDME1xRXpnNmZjTnMyWGt4TUhxTWJ6RlNYbnp6SHVfRGxycFVraDU1bzcySU10dnRoQUc3Rw?oc=5"
+          },
+          {
+            "label": "职场AI使用现状参考",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GX3c1eWE5ZTNoWEFIUmJGYk1jYWRVbXgwbjV0djJUbVlUSE9TVGJqQkNWUXJHQmNNalVrV3c1bWkxdllmVElLZGZ0dXNXTndaVnE4TUlTNG44LTR3ZzBzbExhMVY2WExDZ2lfSllha0c0dw?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUEctc1lUNHptVUl5a05xU1NaU1pIZ1NIZ3pEZ0tyeEFpb05pbnNsUTRPU3VRQ2kyTFJJNEYyOVRJYklVanFpSg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260430-auto-1-f6056c",
         "title": "GPT-Image-2出图实操",
         "category": "AI使用教程",
@@ -5241,6 +5415,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260501-auto-1-d87b55",
+        "title": "Privacy Filter与V4升级",
+        "category": "开源项目",
+        "date": "2026-05-01",
+        "summary": "本地隐私过滤模型发布，并同步更新推理与智能体能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Privacy Filter与V4升级 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月1日（北京时间），围绕“可本地部署的隐私保护”与“轻量模型升级”的开源实践继续推进。此次信息显示，Privacy Filter强调以较低成本完成PII过滤，同时DeepSeek-V4-Flash在编码、推理和智能体场景给出新版本能力。",
+          "blocks": [
+            {
+              "heading": "更新要点与项目定位",
+              "paragraphs": [
+                "Privacy Filter的核心定位是本地可跑，目标是把个人敏感信息检测与过滤环节前置到企业或团队自己的环境中，减少外发数据带来的合规与泄露风险。",
+                "同一批更新信息中，DeepSeek-V4-Flash被描述为在编码、推理、智能体方向做了全面升级，说明其不仅面向通用对话，也在开发流程和代理执行链路上增强实用性。",
+                "从开源生态视角看，这类“隐私组件+模型能力升级”的组合，适合做成可插拔工具链：先过滤，再推理，再由智能体调用下游工具。"
+              ]
+            },
+            {
+              "heading": "用途场景与接入方式",
+              "paragraphs": [
+                "典型用途包括客服记录脱敏、代码与文档中的身份信息清洗、日志审计前处理，以及企业知识库入库前的自动筛查。",
+                "在工程上，团队可把Privacy Filter作为独立服务部署在内网，并在API网关、消息队列或RAG数据入口处调用，实现“进入模型前先过隐私层”。",
+                "若与V4-Flash类模型配合，可将过滤后的文本用于代码补全、问题分析或智能体任务分解，降低敏感字段被二次传播的概率。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在于规则配置与数据标准化，而非必须使用大型GPU。对中小团队而言，先从有限字段集（如手机号、邮箱、证件号）开始更易落地。",
+                "建议分两阶段实施：第一阶段只做检测与标记，不直接改写原文；第二阶段再引入替换或掩码策略，并通过抽样复核控制误报与漏报。",
+                "发布到生产前应准备基线评测集，分别覆盖中文口语文本、结构化字段和混合代码片段，以验证隐私过滤对后续AI任务准确率的影响。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区发布信息",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUEctc1lUNHptVUl5a05xU1NaU1pIZ1NIZ3pEZ0tyeEFpb05pbnNsUTRPU3VRQ2kyTFJJNEYyOVRJYklVanFpSg?oc=5"
+          },
+          {
+            "label": "MarkTechPost关于开源内核报道",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3YwZW5mdWsyOFpKUUNVNjJYVmhmdzJiWXZiX20yNFROTWRob0xmRWtUbXhuSzJ4R0dmcEJKcUZ6Z1I5VEk4MndIbGQ2YkFRVlJnOElOeWxfVkFQSXhhMGI1TG1jMVF3MHRhWjY1cjhibC05STM1c2U3dTRCWVBRTUtBSW81RWhfN2dHc1lUOGp3SHJCSFNxa3dSWmpRZUdRX09LaUE3dUFvUkxBckttVHc1OXpJZGtOc2tCaEpYZVBGTkdrU2VsR19OZlYtaC1vVzZ6MkdTTGJubGJ0elJJV0Jrd1Npc25zd0pHYUE4Rm15VmlNN0RF0gH8AUFVX3lxTE1jMW1ob3o1RHZiV0ExSkhDYXp0QzVRckJHV0Ftd1oxenA2REVlU0xQSGtlSmVDY2NwWDJFdjVYdEVpU3BmWTYtcW56TGROTlJBTkY3MThjejFPX0E2VGlQN1ZoOEpwZDJqdXoxWTFSNnpPWllacUNJWlVFdi1hTnR0R29STFdKY2hvaVdyRFNON1JaM0hRc0U3RkFnaDI1ajhabTdtVjZMX0FuZGtjNnZvc1FJTDFINE9XRFZ0UFJQajM5ZWVGcWp0bzlCRV9rSzFFbzRkOVFjV0hyakN3dm5uTl9tZkxoODR2Yll4Nkg1a05pSUJHWFNTQk1sTg?oc=5"
+          },
+          {
+            "label": "Cisco开源模型溯源工具",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByN0pLSDJtR3p2WEJ3VFhCX1MyNXpUdjF2NkVIR1JSWmVpWDlDYmk4RlpFNzVoTDFFanFZQkQxUHF1TDgxYUo0TWdrUmVhZVVKbFpDZU9NcmhoLWZxOUV2VDlMaDBFVzlYR2pZbVlBd2dabGthTXh5RHNRblp4QQ?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUEctc1lUNHptVUl5a05xU1NaU1pIZ1NIZ3pEZ0tyeEFpb05pbnNsUTRPU3VRQ2kyTFJJNEYyOVRJYklVanFpSg?oc=5"
+      },
+      {
+        "slug": "open-source-20260501-auto-2-9b6b92",
+        "title": "Moonshot开源FlashKDA",
+        "category": "开源项目",
+        "date": "2026-05-01",
+        "summary": "Moonshot公布FlashKDA内核，面向变长批处理与注意力加速。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Moonshot开源FlashKDA 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月1日（北京时间），Moonshot AI开源FlashKDA，重点是为Kimi Delta Attention提供CUTLASS内核实现，并支持变长批处理。该方向直接对应大模型推理吞吐与时延优化需求。",
+          "blocks": [
+            {
+              "heading": "这次开源了什么",
+              "paragraphs": [
+                "FlashKDA的关键点在于将注意力计算映射到更底层的CUDA/CUTLASS内核，以减少通用实现中的冗余开销，提升GPU利用率。",
+                "“变长批处理”是实际线上场景常见需求，输入长度不一致会导致显存和算力浪费，FlashKDA尝试在这类负载下维持更稳定的吞吐表现。",
+                "报道同时提到H20基准，这意味着项目团队给出了特定硬件上的性能参照，便于工程团队评估迁移价值。"
+              ]
+            },
+            {
+              "heading": "适用人群与业务价值",
+              "paragraphs": [
+                "这类项目主要服务于模型平台工程师、推理框架开发者和需要压缩单次推理成本的团队，而非纯应用层用户。",
+                "对提供长上下文问答、代码助手或智能体编排服务的业务而言，若请求长度波动大，变长批处理优化通常比单点算子优化更具整体收益。",
+                "开源内核还能帮助团队在自有栈中做可控迭代，例如针对常见序列长度分布定制调度策略，而不是完全依赖黑盒服务。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地步骤",
+              "paragraphs": [
+                "上手门槛主要在GPU开发与推理框架集成能力，需要熟悉CUDA版本、编译链、驱动兼容性，以及内核与上层算子接口的对接方式。",
+                "建议先在离线压测环境进行A/B测试：同模型、同请求集、同并发条件下比较P50/P95时延、tokens/s和显存占用，再决定是否上线。",
+                "若团队缺乏内核调优经验，可先把FlashKDA作为可选后端，通过配置开关灰度启用，逐步扩大流量，降低对线上稳定性的影响。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3YwZW5mdWsyOFpKUUNVNjJYVmhmdzJiWXZiX20yNFROTWRob0xmRWtUbXhuSzJ4R0dmcEJKcUZ6Z1I5VEk4MndIbGQ2YkFRVlJnOElOeWxfVkFQSXhhMGI1TG1jMVF3MHRhWjY1cjhibC05STM1c2U3dTRCWVBRTUtBSW81RWhfN2dHc1lUOGp3SHJCSFNxa3dSWmpRZUdRX09LaUE3dUFvUkxBckttVHc1OXpJZGtOc2tCaEpYZVBGTkdrU2VsR19OZlYtaC1vVzZ6MkdTTGJubGJ0elJJV0Jrd1Npc25zd0pHYUE4Rm15VmlNN0RF0gH8AUFVX3lxTE1jMW1ob3o1RHZiV0ExSkhDYXp0QzVRckJHV0Ftd1oxenA2REVlU0xQSGtlSmVDY2NwWDJFdjVYdEVpU3BmWTYtcW56TGROTlJBTkY3MThjejFPX0E2VGlQN1ZoOEpwZDJqdXoxWTFSNnpPWllacUNJWlVFdi1hTnR0R29STFdKY2hvaVdyRFNON1JaM0hRc0U3RkFnaDI1ajhabTdtVjZMX0FuZGtjNnZvc1FJTDFINE9XRFZ0UFJQajM5ZWVGcWp0bzlCRV9rSzFFbzRkOVFjV0hyakN3dm5uTl9tZkxoODR2Yll4Nkg1a05pSUJHWFNTQk1sTg?oc=5"
+          },
+          {
+            "label": "Runpod Flash开源工具动态",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdVJVV0IxQmc1TTJmV1VLY1BsYjdqa1ZzQUZ5ZmV4Q0lRa0JUUGNOY0dfOVQtZHR4Z3VURWdndS1Rc0NfdUlvZVNaeVRFa3NXZzJmaXljeFhlTWpNTVNqYnhPeFd6SXdRY1V2Q2s2VTJ1TEJsRnVQZ1MyNkFzRTF0dFptOVFLeGtaQ200VDU2cm4tZXlhcDFucjJ5TTRnbldHTmJ5eXJsV0tZVzQtOXZyY1RaMTBZbEpQTFp1cWRKYldjQjJFZUFuMjBEcnZEQjdNWFRPbGNySEVLWndaTDFneUhPY24?oc=5"
+          },
+          {
+            "label": "Warp开源化相关报道",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc0dYdTV0c1g5MXNGam5QLUs4OFpFODUzenlmX0lYaDZsLVQ2cDJGQ0lmS0FHcVdjcldpLXR2eDdnVXVJdi1JQmxWRzlCcUM2NF9jOXk4bTR4dkIzdEJGa2VXV0haSDd4ZTZOWDl3MXJMWjMzLUUxX2plRjlnSFdhUGxfU2xaeUZCQl8wLXJDaEppWlV6WDBmeDUyNlcyTTlJV2g5ekt2OTZXakxkYnNYRE5PMEVZSDZ5TV9oa1hkdnktcmMzRXVXc1JWUmdMQnIzN1g3aFptWklidHpFbGRPbEJTeGVBUQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3YwZW5mdWsyOFpKUUNVNjJYVmhmdzJiWXZiX20yNFROTWRob0xmRWtUbXhuSzJ4R0dmcEJKcUZ6Z1I5VEk4MndIbGQ2YkFRVlJnOElOeWxfVkFQSXhhMGI1TG1jMVF3MHRhWjY1cjhibC05STM1c2U3dTRCWVBRTUtBSW81RWhfN2dHc1lUOGp3SHJCSFNxa3dSWmpRZUdRX09LaUE3dUFvUkxBckttVHc1OXpJZGtOc2tCaEpYZVBGTkdrU2VsR19OZlYtaC1vVzZ6MkdTTGJubGJ0elJJV0Jrd1Npc25zd0pHYUE4Rm15VmlNN0RF0gH8AUFVX3lxTE1jMW1ob3o1RHZiV0ExSkhDYXp0QzVRckJHV0Ftd1oxenA2REVlU0xQSGtlSmVDY2NwWDJFdjVYdEVpU3BmWTYtcW56TGROTlJBTkY3MThjejFPX0E2VGlQN1ZoOEpwZDJqdXoxWTFSNnpPWllacUNJWlVFdi1hTnR0R29STFdKY2hvaVdyRFNON1JaM0hRc0U3RkFnaDI1ajhabTdtVjZMX0FuZGtjNnZvc1FJTDFINE9XRFZ0UFJQajM5ZWVGcWp0bzlCRV9rSzFFbzRkOVFjV0hyakN3dm5uTl9tZkxoODR2Yll4Nkg1a05pSUJHWFNTQk1sTg?oc=5"
+      },
       {
         "slug": "open-source-20260430-auto-1-a5539c",
         "title": "Warp终端转为开源",

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>本地PII过滤实操指南 | 寂川日报</title>
+<meta name="description" content="基于Privacy Filter搭建本地隐私检测流程与上线清单。" />
+<meta name="keywords" content="AI新闻,AI使用教程,智源社区" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260501-auto-1-6e8a4a.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="本地PII过滤实操指南" />
+<meta property="og:description" content="基于Privacy Filter搭建本地隐私检测流程与上线清单。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260501-auto-1-6e8a4a.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-01" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="本地PII过滤实操指南" />
+<meta name="twitter:description" content="基于Privacy Filter搭建本地隐私检测流程与上线清单。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"本地PII过滤实操指南","datePublished":"2026-05-01","dateModified":"2026-05-01","description":"基于Privacy Filter搭建本地隐私检测流程与上线清单。","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260501-auto-1-6e8a4a.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260501-auto-1-6e8a4a.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">本地PII过滤实操指南</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-01">2026-05-01</time> | 文章日期：<time datetime="2026-05-01">2026-05-01</time> | 来源：智源社区</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="本地PII过滤实操指南 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">一、先搭建最小可用环境</a></li>
+<li><a href="#section-2">二、按场景配置检测与脱敏策略</a></li>
+<li><a href="#section-3">三、上线前后用清单化方式运维</a></li>
+</ul>
+</nav>
+<p class="detail-intro">在2026-05-01的发布语境下，企业与团队对“本地化隐私保护+可控成本”需求持续提升。本文给出一套可直接执行的教程：用本地可跑的PII过滤模型建立输入、日志与输出三层防护，并与大模型推理流程衔接。</p>
+<section>
+<h2 id="section-1">一、先搭建最小可用环境</h2>
+<p>第一步先定义目标与范围：列出你要识别的敏感信息类型，如手机号、身份证号、邮箱、住址、银行卡号、真实姓名；再按业务场景分级为“必须拦截、可脱敏后放行、仅审计记录”三类。这个清单决定后续规则和阈值，建议由产品、法务、安全三方共同确认。</p>
+<p>第二步准备本地推理环境：将Privacy Filter与主模型部署在同一内网，避免原始文本外传。部署时先跑小样本压测，记录三项基线指标：单条延迟、每千字成本、召回率。若资源有限，可先将过滤模型放在CPU节点，主模型保留GPU，后续再按峰值流量扩容。</p>
+<p>第三步建立数据流顺序：用户输入先过PII检测，再进入大模型；大模型输出再过一次PII复检；日志写入前做字段脱敏。务必在网关层加“开关位”，保证当过滤服务异常时可以降级为只读或人工审核，而不是直接裸奔放行。</p>
+</section>
+<section>
+<h2 id="section-2">二、按场景配置检测与脱敏策略</h2>
+<p>对话助手场景建议采用“高召回优先”：阈值先设偏低，宁可多拦截，再通过白名单减误报。常见白名单包括公开客服电话、企业邮箱后缀、示例证件号模板。每次规则变更都要保留版本号，便于回溯问题。</p>
+<p>文档处理场景建议采用“分段扫描+结构化替换”：先按段落切块检测，再对命中字段执行占位符替换，如[PHONE]、[ID_NO]。替换后把映射表单独加密存储，设置最短保留周期，防止研发或运营在普通日志中看到原文。</p>
+<p>智能体调用外部工具时，增加“工具前置过滤器”：在发起搜索、邮件、工单、数据库查询前，先对参数做PII清洗；返回结果再二次检查。这样可减少敏感信息被第三方API记录的概率，也便于满足审计要求。</p>
+</section>
+<section>
+<h2 id="section-3">三、上线前后用清单化方式运维</h2>
+<p>上线前做三类测试：功能测试（能否识别目标PII）、对抗测试（错别字、谐音、空格混写、分段拼接）、回归测试（新规则是否影响旧场景）。每类至少准备50条样本，并统计误报率、漏报率与平均处理时延，达不到阈值就不要上线。</p>
+<p>上线后建立周度复盘机制：抽样检查被拦截与放行文本，关注新型表达方式导致的漏检；同时对比token消耗与响应延迟，评估是否出现“推理成本上升但收益有限”的情况。若成本偏高，可先在高风险业务线启用全量过滤，低风险场景改为抽检。</p>
+<p>最后给团队一份可执行SOP：谁负责规则更新、谁审批阈值调整、谁处理误拦截申诉、谁导出合规报表。将流程写入值班文档并演练一次，确保在节假日或高峰期也能稳定运行。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GUEctc1lUNHptVUl5a05xU1NaU1pIZ1NIZ3pEZ0tyeEFpb05pbnNsUTRPU3VRQ2kyTFJJNEYyOVRJYklVanFpSg?oc=5" target="_blank" rel="noopener noreferrer">智源社区（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE03R3I4dnpFaHYzbmVDME1xRXpnNmZjTnMyWGt4TUhxTWJ6RlNYbnp6SHVfRGxycFVraDU1bzcySU10dnRoQUc3Rw?oc=5" target="_blank" rel="noopener noreferrer">DeepSeek-V4-Flash在线教程</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5GX3c1eWE5ZTNoWEFIUmJGYk1jYWRVbXgwbjV0djJUbVlUSE9TVGJqQkNWUXJHQmNNalVrV3c1bWkxdllmVElLZGZ0dXNXTndaVnE4TUlTNG44LTR3ZzBzbExhMVY2WExDZ2lfSllha0c0dw?oc=5" target="_blank" rel="noopener noreferrer">职场AI使用现状参考</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
