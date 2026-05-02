@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260502-auto-1-7a78a7",
+        "title": "美军签署机密AI合作协议",
+        "category": "AI新闻",
+        "date": "2026-05-02",
+        "summary": "五角大楼与多家科技公司达成机密AI系统合作。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "美军签署机密AI合作协议 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月2日，多家媒体披露美国国防部已与多家头部科技企业达成机密人工智能合作安排，重点指向在涉密系统中的部署与应用。",
+          "blocks": [
+            {
+              "heading": "合作框架与参与方",
+              "paragraphs": [
+                "公开报道显示，本轮合作覆盖多家美国大型科技企业，涉及AI模型、云基础设施与系统集成等环节，合作对象集中在具备大规模算力和企业级交付能力的厂商。",
+                "从已披露信息看，协议重点并非单一模型采购，而是围绕国防场景构建可持续的AI能力体系，包括模型调用、数据治理、安全审计和运行维护等。",
+                "同时，报道也提到并非所有主流AI公司都在此次名单中，这意味着美国军方在供应商选择上采取了阶段性、场景化的推进策略。"
+              ]
+            },
+            {
+              "heading": "产业影响与商业机会",
+              "paragraphs": [
+                "对产业侧而言，国防级订单通常具备周期长、合规要求高、门槛高的特点，可能进一步强化头部企业在高安全等级AI市场中的先发优势。",
+                "对云服务与芯片生态来说，涉密系统部署将带动软硬件协同需求，相关机会可能延伸至网络安全、数据标注、模型评测和边缘计算等细分领域。",
+                "在资本市场层面，投资者更关注合同规模、执行节奏与利润结构，但由于涉密项目透明度有限，短期估值反应仍会受到信息披露节奏影响。"
+              ]
+            },
+            {
+              "heading": "争议点与后续观察",
+              "paragraphs": [
+                "军事AI合作长期伴随伦理与治理讨论，包括自动化决策边界、责任归属和误判风险控制，这些议题预计将继续影响项目推进与社会沟通。",
+                "企业内部层面，历史上曾出现员工对军工AI项目提出异议的情况，未来各公司在内部治理、项目透明和价值观沟通方面仍面临平衡挑战。",
+                "后续观察重点包括：合作是否扩大到更多供应商、是否形成跨部门标准化框架，以及相关项目在真实任务中的可验证成效。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "KSL News：五角大楼与头部AI公司达成协议",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0RfQUQ5d2c0NFBOYUFsNU9FTUptQTByTWw0UjI4VzN3b1Y3XzV1cnp2aHFfS1owYUJXRHkzM0hOUzhET0FMX3lXWXNVUnNJdUQ1TkpBODVXaUZ4Uk1NNTZnZUNiUkpVUGFGbjZRam41V2FuaV9ZbjkzQ2Q5R2JDRHI2RWRNdnhVSF9GQ2taaV9lelUtX2ZhamMzTzdKbXVNV09XOFlJbw?oc=5"
+          },
+          {
+            "label": "Pittsburgh Post-Gazette：美军与7家科技公司合作",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEJUOF9BLU8zY1o1QWtGY0tQUTdGQ015Vnk3ZVg0Y3Rvcm9ZVlNBQ2xnV3dTTi04RTRtUGhmbXkxRzROZWlNSS1ZdXJKdlFEaTFsMUxwaFJDYUdEeGo5aW1pcUxFcDVIX0p0emg4cUxIeUN0ckg0azExdjNSQlZ4bU1FbXB6clV6R3A0Ni1lazZjTUx6dHFWX2Z6dW13cGpaZ3ZidElHR0pBWGpnWVNZQ1ZqdXJVM2FmSjRJbXh6VnFVbHNJVGxQVExnLTl5SXVfWVljcmpTbE9kM1JUWXBRR1Q5QQ?oc=5"
+          },
+          {
+            "label": "凤凰网：五角大楼与英伟达微软亚马逊签约",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00MlBUdWJsSDF0cTZiUHFzSXd2UHFZVjFJWWtHVWRuaFo1Tkl3dmR6aks5Ym1JQmE1T1ByOUowYkRuU2dTMjk5b3F1VkE?oc=5"
+          }
+        ],
+        "source": "KSL News",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0RfQUQ5d2c0NFBOYUFsNU9FTUptQTByTWw0UjI4VzN3b1Y3XzV1cnp2aHFfS1owYUJXRHkzM0hOUzhET0FMX3lXWXNVUnNJdUQ1TkpBODVXaUZ4Uk1NNTZnZUNiUkpVUGFGbjZRam41V2FuaV9ZbjkzQ2Q5R2JDRHI2RWRNdnhVSF9GQ2taaV9lelUtX2ZhamMzTzdKbXVNV09XOFlJbw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260502-auto-2-d289c7",
+        "title": "英格兰议会试点谷歌规划AI",
+        "category": "AI新闻",
+        "date": "2026-05-02",
+        "summary": "英格兰多个地方议会测试AI工具以提速规划审批。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英格兰议会试点谷歌规划AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月2日，英格兰地方治理数字化再推进：多个地方议会将试点谷歌AI工具，用于提升规划审批流程效率与一致性。",
+          "blocks": [
+            {
+              "heading": "试点目标与应用场景",
+              "paragraphs": [
+                "报道显示，此次试点聚焦城市与建设规划审批环节，AI工具预计用于辅助文档梳理、要点提取与流程分发，减少人工处理中的重复性工作。",
+                "地方议会面临的共性问题是申请量大、材料复杂、审理周期长，AI作为流程工具的首要价值在于压缩前期处理时间，而非替代最终裁决。",
+                "从公共治理逻辑看，规划审批涉及法规解释与社区利益平衡，试点更可能定位为“辅助决策系统”，由工作人员进行复核与责任把关。"
+              ]
+            },
+            {
+              "heading": "政务AI落地的关键条件",
+              "paragraphs": [
+                "政务场景对数据质量和可追溯性要求较高，若要规模化复制，需建立统一的数据标准、版本管理机制以及审计留痕流程。",
+                "在合规层面，工具使用需要满足隐私保护、公平性评估与算法透明要求，尤其是涉及居民住房与建设许可等敏感公共事项时。",
+                "此外，基层部门的数字能力建设同样关键，包括人员培训、流程再造和跨部门协同，否则技术投入难以转化为稳定的服务质量提升。"
+              ]
+            },
+            {
+              "heading": "对产业与市场的启示",
+              "paragraphs": [
+                "这一试点释放出政务AI采购持续扩大的信号，潜在受益方不仅是模型与云服务提供商，也包括本地系统集成与行业软件企业。",
+                "相较消费级AI，政务项目更强调稳定性、可解释性和长期运维，供应商竞争将从模型能力延伸到交付能力与监管适配能力。",
+                "后续值得关注的指标包括：审批时长是否下降、申报退回率是否改善、公众满意度是否提升，以及是否形成可推广的制度化模板。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Financial Times：英格兰议会试点Google AI规划工具",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWjJVQnFQaTdWeXB0N29hOHJYbUIxY2NkSlA5ZkdxZ1d3SWVOWmU0REdQY2dPX0N1MnAxdUtubmlKYUd5alo0QjhQRFJSZzdxQVZKQllmWXg2VVJmc1l6SF91a240TWJ4dHhES3VRcGc?oc=5"
+          },
+          {
+            "label": "5 EYEWITNESS NEWS：地方政府AI筛查非紧急呼叫",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGFBRHdWVXVMLXBlQU1WYTZsbzNISmpxWGZmTUhSRlpvZ3BuRkk2c3ZUR3hwdlRiR3FyYTRRSzl6dmQ3d2VZb19QUVA5bDNJYUotX2U3R3hDZC1yNWZCX0MyTTExcTBWWFozaXF2ZlFOaTlhLUtRV2RWU00yazdURGJkbjQtUU9kU0dLM1V5MjFFbDlPREVNRS1mOXF1SEpHRnJHWTVoNmRRRFdtTWlkUXpnRHAzX2M?oc=5"
+          },
+          {
+            "label": "nda.gov.cn：数字中国峰会智能体应用观察",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nbTMxeEVLWFZETXU3WktiNW96T1JibG05bmJTdUgwWHVCS3Q2X0J0Tlc3ZTFldDFRUWlOdFh5d21VcEs1cXEtUE0xOVYwU3JGcTF0ajM3TVF6YlQxUFVEUzVQaUJ1Um5lS2JZLXFSNjNxYjB6ZzcwOXNKeW81Zw?oc=5"
+          }
+        ],
+        "source": "Financial Times",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWjJVQnFQaTdWeXB0N29hOHJYbUIxY2NkSlA5ZkdxZ1d3SWVOWmU0REdQY2dPX0N1MnAxdUtubmlKYUd5alo0QjhQRFJSZzdxQVZKQllmWXg2VVJmc1l6SF91a240TWJ4dHhES3VRcGc?oc=5"
+      },
+      {
         "slug": "ai-news-20260501-auto-1-eb83f9",
         "title": "小红书加码AI与出海",
         "category": "AI新闻",
@@ -3995,6 +4111,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260502-auto-1-11d4f4",
+        "title": "国内使用Claude Code指南",
+        "category": "AI使用教程",
+        "date": "2026-05-02",
+        "summary": "面向初学者的Claude Code落地流程与排障清单",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国内使用Claude Code指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年5月初公开信息，下面给出一套可直接执行的Claude Code上手方案，重点覆盖账号准备、开发环境配置、常见失败点与合规边界，适合在国内网络与团队协作场景中使用。",
+          "blocks": [
+            {
+              "heading": "第一步：先搭好可复用的基础环境",
+              "paragraphs": [
+                "先定义你的使用目标，再选环境。建议把目标写成三类：代码解释、小功能生成、项目内重构。每类先准备1个真实任务，避免一上来做大而全。时间上按“30分钟安装+30分钟验证+30分钟首个任务”推进，首日只追求跑通，不追求最优效果。",
+                "准备本地开发栈时，优先使用你团队已稳定的系统与编辑器版本，不要同时升级系统、Node/Python和IDE。建立单独工作目录，放置README、依赖清单、提示词模板、日志文件四类文件。这样后续失败时能快速回溯，不会把问题混在历史项目里。",
+                "账号与网络链路建议做双通道验证：先验证网页端可访问，再验证CLI或IDE插件可登录。每完成一步都记录结果截图和时间戳，出现异常时按“DNS/代理/令牌/版本”顺序排查。若团队多人共用方案，务必整理一页标准操作流程，减少口头传递误差。"
+              ]
+            },
+            {
+              "heading": "第二步：用工程化方法提升可用率",
+              "paragraphs": [
+                "把提示词从“单句提问”升级为“任务单”。推荐固定结构：目标、输入、约束、输出格式、验收标准。示例验收标准可写成“必须给出可运行命令、必须标注修改文件、必须列出回滚步骤”。这样能减少模型输出漂移，便于复审和二次执行。",
+                "把生成结果纳入最小闭环：生成代码后立即执行静态检查、单元测试、样例输入验证。若失败，不要直接重问“为什么错”，而是把报错日志、运行命令、期望结果一并贴回，让模型基于证据修复。每轮只改一类问题，避免同时改逻辑和依赖导致定位困难。",
+                "建立“可复用资产库”：把成功提示词、常用脚本、错误修复模板沉淀到仓库docs目录。建议每周整理一次，删除低命中模板，保留高复用模板并加适用场景标签。长期看，Claude Code效果更多取决于流程设计与上下文管理，而不是一次性提问技巧。"
+              ]
+            },
+            {
+              "heading": "第三步：上线前做合规与风险控制",
+              "paragraphs": [
+                "对输入内容做分级：公开数据、内部数据、敏感数据。涉及个人信息、客户合同、内部密钥的内容，默认不直接粘贴到外部模型。先做脱敏再调用，必要时以占位符替代真实字段。任何自动化脚本都要留审计日志，至少记录操作者、时间、输入类型和输出去向。",
+                "在团队层面设置三条硬规则：一是AI生成代码必须经人工评审；二是关键业务改动必须通过测试门禁；三是生产环境变更必须可回滚。对外发布文本或代码前，补做版权、事实和安全检查，避免把模型幻觉当成结论直接交付。",
+                "按2026-05-02的发布语境，建议将Claude Code定位为“提效工具”而非“决策主体”。先在低风险环节试点，如文档整理、测试样例、重复性脚本，再逐步扩展到核心开发。每两周复盘一次：统计节省工时、返工率、故障率，用数据决定是否扩大使用范围。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：从0开始在国内用Claude Code",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZGxyOWlOZDNvNk55aG9kUHhwTUJoN1Naa3drUUxBb0xwSkwyTzVOU2txd05adEt4YkRUUjhvaEo2WHE2WGRreVJobElMQQ?oc=5"
+          },
+          {
+            "label": "新浪财经：Claude Code工程化观察",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGZpeUJwQjRGMzRwNkJxSm1rVXZmbVMwWGZKSjI3bnN6c3JjTkRJLUd5bWVyaGllREhUeEhnMzd2eTZsNnpOVklBeTg0YVByMldVOEdhT1NGV2R6NWZuZE1RMl9JOHhCdWlVZnBhd2xqMUNaTW01OEszZzh3Wmk5ZE16ak1PTnNDMEJkUHdnTWQyU2c4bGpGUC0xZnRZbXFCbHozWWZ1RXQzemM4VEhlN3NkNm9IT3dMaHdFT1lUMFNLcURUWGJZanZ5YmRBcU1yVldPQWpiU0ZLcXZTdEJ3V09lTDlER3dmR1c5SHpwTWpqeGo4R2VvRXJKYnJiM29T?oc=5"
+          },
+          {
+            "label": "新浪财经：AI应用治理动态",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQjd2cUFTTHY0eDdYWDBkeVAzVnRqUi1FZ3BXOF8xNEE5cm5Sb0RZZS04YUFOVUltMDRnMy0wcXM0ZjJSSnEzRjg4VVF4Ri1QdU5VU0pJSDBBb0lGVksxTElsQWJSb1hteURyemlIX29jdUduVHc5NQ?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZGxyOWlOZDNvNk55aG9kUHhwTUJoN1Naa3drUUxBb0xwSkwyTzVOU2txd05adEt4YkRUUjhvaEo2WHE2WGRreVJobElMQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260501-auto-1-6e8a4a",
         "title": "本地PII过滤实操指南",
         "category": "AI使用教程",
@@ -5415,6 +5589,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260502-auto-1-c20075",
+        "title": "Mistral发布Vibe远程代理",
+        "category": "开源项目",
+        "date": "2026-05-02",
+        "summary": "Vibe接入远程代理，底座为Mistral Medium 3.5。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mistral发布Vibe远程代理 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月2日，Mistral AI披露Vibe新增远程代理能力，并明确由Mistral Medium 3.5提供模型支持。该更新将AI代理从单机流程扩展到可远程执行的工作流场景。",
+          "blocks": [
+            {
+              "heading": "更新要点与定位",
+              "paragraphs": [
+                "此次更新的核心是“Remote agents in Vibe”，即在Vibe产品中引入远程代理执行能力。与本地脚本或单实例助手相比，远程代理更强调任务编排、跨环境访问与持续执行。",
+                "从产品定位看，Vibe并非仅提供对话接口，而是向“可行动代理”方向推进。Medium 3.5作为底座模型，承担理解指令、拆解步骤与生成执行计划等职责。",
+                "在2026年初的代理化趋势下，这类能力适合需要自动化处理重复任务的团队，例如知识库巡检、工单分发、跨系统信息回填等。"
+              ]
+            },
+            {
+              "heading": "可用场景与价值边界",
+              "paragraphs": [
+                "远程代理的直接用途是把“提问-回答”扩展为“提问-执行-反馈”。用户可将多步操作交给代理，由其在远端环境中逐步完成并回传结果。",
+                "对研发团队而言，价值在于减少手工串联脚本的时间；对业务团队而言，价值在于降低跨工具切换频率。但这并不代表可完全替代人工审批与最终确认。",
+                "在安全与合规层面，远程执行涉及权限管理与审计日志。部署时应先定义最小权限、执行白名单和失败回滚策略，避免代理越权操作。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在三部分：第一是模型调用与配额配置，第二是远程环境连接，第三是任务模板设计。具备基础API接入能力的工程团队可较快完成首轮验证。",
+                "建议先从低风险任务试点，如文档整理、数据对齐、测试环境自动化操作。通过小范围A/B流程对比，评估代理在时延、准确率和人工复核成本上的表现。",
+                "若企业已有作业调度系统，可将Vibe远程代理作为上层编排入口，再接入内部监控与告警，逐步形成可观测、可审计的代理执行链路。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Mistral AI：Remote agents in Vibe",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          },
+          {
+            "label": "钛媒体：Edge AI Daily（5月2日）",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zcGNCOTE0UWVxekFYaHRIVExBTWtLeGFKQkJnODlYcDdBYjJwVTdCNTBNSC05eUNXWGU3SHJWaWdXMklhNlVYNGs1YnU?oc=5"
+          },
+          {
+            "label": "infoq：ClawRunr开源AI代理",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92RHhCMUxhV1JFMFAtY19helg4RzJSYXdfOGNnckVJSkdrN01PczltbFpJTDRNZzJhaDdJWWpJTndTYU92Tjk4VmpXRHNFa1RKRlZiOFZJbw?oc=5"
+          }
+        ],
+        "source": "Mistral AI",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+      },
+      {
+        "slug": "open-source-20260502-auto-2-487824",
+        "title": "Qwen-Scope开源发布",
+        "category": "开源项目",
+        "date": "2026-05-02",
+        "summary": "Qwen推出SAE工具套件，面向LLM特征解析与开发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen-Scope开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月2日，Qwen AI发布Qwen-Scope，定位为开源Sparse AutoEncoders（SAE）工具套件，目标是把大模型内部特征转化为可操作的开发能力。",
+          "blocks": [
+            {
+              "heading": "项目核心与技术方向",
+              "paragraphs": [
+                "Qwen-Scope强调“从可解释到可开发”的路径：不仅观察模型内部表示，还尝试将特征映射为可复用模块，用于调试、评测与能力定位。",
+                "SAE方法通常用于从高维激活中提取稀疏语义因子。对开发者而言，这有助于理解模型在特定任务中的行为差异，例如偏好、拒答模式或领域偏移。",
+                "在开源生态中，这类工具填补了“模型可用”与“模型可控”之间的空白，适合需要长期运营大模型系统的团队。"
+              ]
+            },
+            {
+              "heading": "应用场景与实际收益",
+              "paragraphs": [
+                "第一类场景是模型诊断：当输出质量波动时，可借助特征分析定位问题来源，区分是数据偏移、提示词结构问题，还是模型内部表示不稳定。",
+                "第二类场景是提示与链路优化：通过观测内部特征响应，开发者可更有依据地调整提示模板、检索策略与工具调用顺序。",
+                "第三类场景是风险治理：在内容安全、合规审查与越狱防护中，特征层监控可作为额外信号，与规则系统和分类器互补。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地路径",
+              "paragraphs": [
+                "上手门槛主要在机器学习基础与工程化能力。团队需理解激活、特征稀疏化、评测指标等概念，并具备一定的实验复现能力。",
+                "建议先选单一业务任务建立基线，如客服问答或代码补全，再引入Qwen-Scope做特征观测，比较优化前后的准确率、稳定性与成本变化。",
+                "对于中小团队，可采用“轻量试点”策略：先把Qwen-Scope用于离线分析，不直接放入在线主链路，待指标稳定后再逐步接入生产监控。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：Qwen-Scope发布",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTE5MdjIwYjdNY0lIZnJNLU8tVUl5ZzF6dkdSN2VWazU0WG9veHBvOURjNnRaX1BnN3poM29ob0hBRzU0N0RqMjVHRkNldjVOc3NsQXRXbnhyRXpnMkFuSE9kaGpQQ3c4YUtKeFZaMmZLTi1ydG9FVjRGOEhPNTdad3lscDhaOXRuN2Z4bnhZdzZqM3QwTmdEaUpDQjNaX0RCdUhuZjN4U212WW9iS0RvQVRrQ0NHMXNJc0VYc3JpSzQxQnY1NWh4Sk1yYnM3WDlkd2Q4bWVOVDdYS2pBdFBxbFhNQXZQQnRRN0JldVRCNGVvbVhveWllWDF3VThJVW5tZ19kTlRyVEVDVDDSAZACQVVfeXFMTU1KSWF6QmNRdWpYcVJkd0JTMkRwb2FuNF9OSm9RelVzdHQyb282NGxncmNoRjA0ejZaR2FCcFFnWDF6YW5OaVdGcm85dEJ0Um1vRDBoaTlBWGwzUVJoWF9LaEV5VmJvLTZrd2dsZGFEQTBWX0VDSXlNcHBybVMwRmlNb1NEeEVEaUZWQVpxY255dEliYlFWZ2lGRE5Qalc2bHBscnZJQmxZczE1NW5JUmdRT0VudXJIYXZmRDRhMFR6anY5SHQyOXNXTC1UUUV3NUk3MllpYTRMWGNweXpCY2FxTTRSQzFpMTBGLXBHcmVwYWc4MXYxdHZZamJYekNwZ1NOWHJDVDFNWThJVUZCdFk?oc=5"
+          },
+          {
+            "label": "StartupHub.ai：Compresr工具观察",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSU9wd0dqNGtfMzYwc0luZFZaTWhLMUhMT2Q2U0ZQSzhPVTRKdXNmQjF6YTRpY0FfUnNhei02RTNZV05QbVdBSXRKWjdDaDZWVENDRFFFR0dPQmlfbW1sbi1HUGpOaUdzdFc1bkFsekc0RWNIUEdUaTVQaHhnVXd6Ti02TUczQ3BjY2hGRElVbw?oc=5"
+          },
+          {
+            "label": "Startup Fortune：MiMo V2.5 Pro开源发布",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHhJOHUyMFFNTXhUSzBqdW45MXROWFV0T0o5N1MwQ01FWVJqUmpoWXhRNk96MU0tU0R3bV9VMEFTWWQtbDFHQ3ZWSFk4N3JWLVV2bFBlT0VxTGQ4NjdyZC1na2dyajJGWS1lbVN5bC0wS2ZqeU1nQWFlM1VYSGpFM04xVU92ajFVMVdrSElTZGlFbXVYNmJIQVRsUGt6dXJReDFGRk83WFFfTGp6VEE?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTE5MdjIwYjdNY0lIZnJNLU8tVUl5ZzF6dkdSN2VWazU0WG9veHBvOURjNnRaX1BnN3poM29ob0hBRzU0N0RqMjVHRkNldjVOc3NsQXRXbnhyRXpnMkFuSE9kaGpQQ3c4YUtKeFZaMmZLTi1ydG9FVjRGOEhPNTdad3lscDhaOXRuN2Z4bnhZdzZqM3QwTmdEaUpDQjNaX0RCdUhuZjN4U212WW9iS0RvQVRrQ0NHMXNJc0VYc3JpSzQxQnY1NWh4Sk1yYnM3WDlkd2Q4bWVOVDdYS2pBdFBxbFhNQXZQQnRRN0JldVRCNGVvbVhveWllWDF3VThJVW5tZ19kTlRyVEVDVDDSAZACQVVfeXFMTU1KSWF6QmNRdWpYcVJkd0JTMkRwb2FuNF9OSm9RelVzdHQyb282NGxncmNoRjA0ejZaR2FCcFFnWDF6YW5OaVdGcm85dEJ0Um1vRDBoaTlBWGwzUVJoWF9LaEV5VmJvLTZrd2dsZGFEQTBWX0VDSXlNcHBybVMwRmlNb1NEeEVEaUZWQVpxY255dEliYlFWZ2lGRE5Qalc2bHBscnZJQmxZczE1NW5JUmdRT0VudXJIYXZmRDRhMFR6anY5SHQyOXNXTC1UUUV3NUk3MllpYTRMWGNweXpCY2FxTTRSQzFpMTBGLXBHcmVwYWc4MXYxdHZZamJYekNwZ1NOWHJDVDFNWThJVUZCdFk?oc=5"
+      },
       {
         "slug": "open-source-20260501-auto-1-d87b55",
         "title": "Privacy Filter与V4升级",

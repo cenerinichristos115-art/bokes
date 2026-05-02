@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>国内使用Claude Code指南 | 寂川日报</title>
+<meta name="description" content="面向初学者的Claude Code落地流程与排障清单" />
+<meta name="keywords" content="AI新闻,AI使用教程,51CTO" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260502-auto-1-11d4f4.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="国内使用Claude Code指南" />
+<meta property="og:description" content="面向初学者的Claude Code落地流程与排障清单" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260502-auto-1-11d4f4.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-02" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="国内使用Claude Code指南" />
+<meta name="twitter:description" content="面向初学者的Claude Code落地流程与排障清单" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"国内使用Claude Code指南","datePublished":"2026-05-02","dateModified":"2026-05-02","description":"面向初学者的Claude Code落地流程与排障清单","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260502-auto-1-11d4f4.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260502-auto-1-11d4f4.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">国内使用Claude Code指南</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-02">2026-05-02</time> | 文章日期：<time datetime="2026-05-02">2026-05-02</time> | 来源：51CTO</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="国内使用Claude Code指南 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">第一步：先搭好可复用的基础环境</a></li>
+<li><a href="#section-2">第二步：用工程化方法提升可用率</a></li>
+<li><a href="#section-3">第三步：上线前做合规与风险控制</a></li>
+</ul>
+</nav>
+<p class="detail-intro">结合2026年5月初公开信息，下面给出一套可直接执行的Claude Code上手方案，重点覆盖账号准备、开发环境配置、常见失败点与合规边界，适合在国内网络与团队协作场景中使用。</p>
+<section>
+<h2 id="section-1">第一步：先搭好可复用的基础环境</h2>
+<p>先定义你的使用目标，再选环境。建议把目标写成三类：代码解释、小功能生成、项目内重构。每类先准备1个真实任务，避免一上来做大而全。时间上按“30分钟安装+30分钟验证+30分钟首个任务”推进，首日只追求跑通，不追求最优效果。</p>
+<p>准备本地开发栈时，优先使用你团队已稳定的系统与编辑器版本，不要同时升级系统、Node/Python和IDE。建立单独工作目录，放置README、依赖清单、提示词模板、日志文件四类文件。这样后续失败时能快速回溯，不会把问题混在历史项目里。</p>
+<p>账号与网络链路建议做双通道验证：先验证网页端可访问，再验证CLI或IDE插件可登录。每完成一步都记录结果截图和时间戳，出现异常时按“DNS/代理/令牌/版本”顺序排查。若团队多人共用方案，务必整理一页标准操作流程，减少口头传递误差。</p>
+</section>
+<section>
+<h2 id="section-2">第二步：用工程化方法提升可用率</h2>
+<p>把提示词从“单句提问”升级为“任务单”。推荐固定结构：目标、输入、约束、输出格式、验收标准。示例验收标准可写成“必须给出可运行命令、必须标注修改文件、必须列出回滚步骤”。这样能减少模型输出漂移，便于复审和二次执行。</p>
+<p>把生成结果纳入最小闭环：生成代码后立即执行静态检查、单元测试、样例输入验证。若失败，不要直接重问“为什么错”，而是把报错日志、运行命令、期望结果一并贴回，让模型基于证据修复。每轮只改一类问题，避免同时改逻辑和依赖导致定位困难。</p>
+<p>建立“可复用资产库”：把成功提示词、常用脚本、错误修复模板沉淀到仓库docs目录。建议每周整理一次，删除低命中模板，保留高复用模板并加适用场景标签。长期看，Claude Code效果更多取决于流程设计与上下文管理，而不是一次性提问技巧。</p>
+</section>
+<section>
+<h2 id="section-3">第三步：上线前做合规与风险控制</h2>
+<p>对输入内容做分级：公开数据、内部数据、敏感数据。涉及个人信息、客户合同、内部密钥的内容，默认不直接粘贴到外部模型。先做脱敏再调用，必要时以占位符替代真实字段。任何自动化脚本都要留审计日志，至少记录操作者、时间、输入类型和输出去向。</p>
+<p>在团队层面设置三条硬规则：一是AI生成代码必须经人工评审；二是关键业务改动必须通过测试门禁；三是生产环境变更必须可回滚。对外发布文本或代码前，补做版权、事实和安全检查，避免把模型幻觉当成结论直接交付。</p>
+<p>按2026-05-02的发布语境，建议将Claude Code定位为“提效工具”而非“决策主体”。先在低风险环节试点，如文档整理、测试样例、重复性脚本，再逐步扩展到核心开发。每两周复盘一次：统计节省工时、返工率、故障率，用数据决定是否扩大使用范围。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE03ZGxyOWlOZDNvNk55aG9kUHhwTUJoN1Naa3drUUxBb0xwSkwyTzVOU2txd05adEt4YkRUUjhvaEo2WHE2WGRreVJobElMQQ?oc=5" target="_blank" rel="noopener noreferrer">51CTO（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxNbGZpeUJwQjRGMzRwNkJxSm1rVXZmbVMwWGZKSjI3bnN6c3JjTkRJLUd5bWVyaGllREhUeEhnMzd2eTZsNnpOVklBeTg0YVByMldVOEdhT1NGV2R6NWZuZE1RMl9JOHhCdWlVZnBhd2xqMUNaTW01OEszZzh3Wmk5ZE16ak1PTnNDMEJkUHdnTWQyU2c4bGpGUC0xZnRZbXFCbHozWWZ1RXQzemM4VEhlN3NkNm9IT3dMaHdFT1lUMFNLcURUWGJZanZ5YmRBcU1yVldPQWpiU0ZLcXZTdEJ3V09lTDlER3dmR1c5SHpwTWpqeGo4R2VvRXJKYnJiM29T?oc=5" target="_blank" rel="noopener noreferrer">新浪财经：Claude Code工程化观察</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQjd2cUFTTHY0eDdYWDBkeVAzVnRqUi1FZ3BXOF8xNEE5cm5Sb0RZZS04YUFOVUltMDRnMy0wcXM0ZjJSSnEzRjg4VVF4Ri1QdU5VU0pJSDBBb0lGVksxTElsQWJSb1hteURyemlIX29jdUduVHc5NQ?oc=5" target="_blank" rel="noopener noreferrer">新浪财经：AI应用治理动态</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
