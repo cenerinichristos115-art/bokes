@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260503-auto-1-0480eb",
+        "title": "高校论文AI率争议升温",
+        "category": "AI新闻",
+        "date": "2026-05-03",
+        "summary": "多地高校引入AI率检测，评价标准与申诉机制成焦点。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "高校论文AI率争议升温 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月3日，北京时间，毕业季背景下高校论文“AI率”检测进入集中讨论期。围绕检测工具的准确性、阈值设置与学生权益保障，教育管理与技术治理问题同步浮现。",
+          "blocks": [
+            {
+              "heading": "事件概况",
+              "paragraphs": [
+                "多家媒体报道显示，部分高校在毕业论文审核环节新增“AI率”指标，将其作为学术规范管理的补充工具。相关举措本意在于识别机器生成内容，维护论文原创性与学术诚信。",
+                "争议主要集中在检测结果的可解释性。有案例提到，传统文本、古典文学语句或规范化表达也可能被系统判定为高AI生成概率，导致学生对结果公正性提出质疑。",
+                "从管理流程看，不同院校对“AI率”使用方式并不一致，既有将其作为硬性门槛的做法，也有仅作为教师复核参考的方案，执行口径差异扩大了舆论分歧。"
+              ]
+            },
+            {
+              "heading": "产业与治理影响",
+              "paragraphs": [
+                "对教育科技产业而言，论文检测正从查重扩展到“AI生成识别”，带动新一轮工具采购与服务评估需求。高校客户更关注误判率、样本覆盖范围和本地化部署能力。",
+                "从政策与合规角度，单一分数直接决定学术结论的做法面临挑战。业内普遍认为，应建立“算法检测+人工评议+学生申诉”的三段式流程，以降低技术误伤风险。",
+                "同时，检测供应商也面临透明度要求上升，包括模型训练语料来源、适用边界说明、版本更新记录等，可能成为未来高校招采中的关键条款。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "短期内，学校层面是否发布统一的解释规则与复核细则，将直接影响毕业季执行稳定性。特别是对边缘样本、跨学科写作和引用文本的处理标准值得关注。",
+                "中期看，教育主管部门或行业组织可能推动更明确的评估框架，区分“辅助写作使用”与“实质代写行为”，并对教学场景中的AI使用边界作出分层规范。",
+                "长期而言，论文评价体系可能从单点检测转向全过程管理，包括选题、开题、阶段稿、答辩记录等多维证据链，以减少对单一算法结果的依赖。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：高校毕业论文AI率争议",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdW1tbi1TSWVScWJpbW1DMVN3blBPSzlzTExrR0RrdUVHeWhpaW84TF9iYjZGVHZEZVZwMEFqSjc1a1cxVFVuRi1mVndQY0JEN0ZsNFZrQ0Y5ZEpmbkVQdHpSMkRsN1lscFY1aEdQdDlsSl9uMDhCYjZ6UnF4dkQyTkozN3R3Qnc5bi1WYzM1bkNRX0tQc0liT2REanhIcmlvRFRlLTV5cw?oc=5"
+          },
+          {
+            "label": "Sohu：高校毕业论文AI率争议",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZGV6QnJNMmJFbDhXNnMydm9SZFNnVlZaQUZENEhjQUVjSllMZS1wdjI2Mm82N2lNS0VRWXhKeDM1V09hNUd2aWhQQzAzZERVNzVYRTZPTnVzbmlBdk9TaVduU0RsUGpPS1FfX1FkbHZTQVpSZWF4ME9PQUlsMnZlWTZSZkVEWUthLVRYdg?oc=5"
+          },
+          {
+            "label": "新浪财经：引入AI后用工裁判案例",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZemJxMVRZdExuSlN3eUlwRnVvdWYzUFpKNE1sa2RjTXE1MEVINmFqYmdfU3pYWUtvRVJpLXZTY1ZyV2xpSTNMWjJjRC1rUGw3WmVNWE9JLWF2a0E2U0FsajhPTk8xMmNNWW5SOWNTODdmWFhRVU1kNg?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdW1tbi1TSWVScWJpbW1DMVN3blBPSzlzTExrR0RrdUVHeWhpaW84TF9iYjZGVHZEZVZwMEFqSjc1a1cxVFVuRi1mVndQY0JEN0ZsNFZrQ0Y5ZEpmbkVQdHpSMkRsN1lscFY1aEdQdDlsSl9uMDhCYjZ6UnF4dkQyTkozN3R3Qnc5bi1WYzM1bkNRX0tQc0liT2REanhIcmlvRFRlLTV5cw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260503-auto-2-650693",
+        "title": "清华精智达联研中心揭牌",
+        "category": "AI新闻",
+        "date": "2026-05-03",
+        "summary": "清华与精智达共建AI存储测试中心，指向半导体检测协同研发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "清华精智达联研中心揭牌 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年5月3日，北京时间，清华大学与精智达联合研究中心揭牌，聚焦“人工智能赋能先进存储测试系统”。该合作被视为高校科研与产业测试场景进一步对接的最新进展。",
+          "blocks": [
+            {
+              "heading": "项目定位与目标",
+              "paragraphs": [
+                "从公开信息看，联合研究中心将围绕先进存储测试环节，探索AI在测试流程优化、异常识别、数据分析和系统效率提升方面的应用路径。",
+                "与通用大模型应用不同，存储测试属于高专业门槛场景，核心价值在于将算法能力与设备工艺、测试规则及工程经验深度结合，形成可落地的工业方案。",
+                "该中心的设立也反映出“校企联合研发”模式持续深化：高校提供基础研究与人才支撑，企业提供真实业务数据与量产验证环境。"
+              ]
+            },
+            {
+              "heading": "产业链意义",
+              "paragraphs": [
+                "在半导体产业中，测试环节直接关系良率、成本与交付周期。若AI模型在测试阶段实现稳定增效，有望改善研发到量产的衔接效率。",
+                "从资本市场观察，AI算力与相关硬件链条景气度仍受关注，产业侧对“AI+制造”从概念验证转向效率指标验证，项目成效将更多体现在实际产线指标上。",
+                "对设备与解决方案供应商而言，未来竞争重点可能从单一硬件性能延伸至“硬件+算法+软件平台”的一体化能力，提升客户粘性和服务附加值。"
+              ]
+            },
+            {
+              "heading": "后续进展看点",
+              "paragraphs": [
+                "短期看点在于中心是否披露阶段性技术路线和示范项目，包括测试准确率提升幅度、误报漏报变化和运行成本优化数据。",
+                "中期看，联合研发成果能否在更多存储类型和更多客户场景中复制，是判断项目产业化价值的关键；这将决定其商业推广速度与合作广度。",
+                "长期看，若形成可复用的标准化方法，类似中心模式可能向更多半导体细分环节扩展，推动AI在高端制造中从辅助工具走向核心生产要素。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：联合研究中心揭牌",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SVmRqNEh3S043SjZCWVB1UW1sdFV2cHRmQ193ZFdZQVdXM3hoaWdOUTgyNXAtaDJKQUFvTVVldVNVUFBNbm4tS0RUNA?oc=5"
+          },
+          {
+            "label": "新浪视频：联合研究中心揭牌",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ0E0bkowQmNxZ0JFNVF2bmEyZjBRaENsZFRGN1Eta2NtblY0aVdTY1VidGFDM3JVUGtkdGVkNWhrZU9TNzV6MXA0eGUzZFkwZlU4UXlYSy1XWjFDb3NYM1QzekZXd00wakEzQ1Q5WUVKbHp1Ri1kNFZiSGxReERRT3dB?oc=5"
+          },
+          {
+            "label": "同花顺财经：AI算力板块一季报",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMk16MldWNy03U0hPZ1VkclV3M2t4MFhaN0c1LTliUmczejh2NjBtbjdOaDBJYWExV0lUcGJFckRLRzFteUloM1FkaVJGV0N3c2ZMR2hrY3NqZWZpcWc?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SVmRqNEh3S043SjZCWVB1UW1sdFV2cHRmQ193ZFdZQVdXM3hoaWdOUTgyNXAtaDJKQUFvTVVldVNVUFBNbm4tS0RUNA?oc=5"
+      },
+      {
         "slug": "ai-news-20260502-auto-1-7a78a7",
         "title": "美军签署机密AI合作协议",
         "category": "AI新闻",
@@ -4111,6 +4227,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260503-auto-1-ad0516",
+        "title": "零基础规划谷歌AI课程",
+        "category": "AI使用教程",
+        "date": "2026-05-03",
+        "summary": "基于免费课程新闻，给出7天可执行学习与练习方案。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "零基础规划谷歌AI课程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-05-03前后的公开信息，谷歌提供了面向LLM、图像生成与云工程的免费学习资源。下面给出一套可直接执行的入门教程，目标是在一周内完成“学-练-产出”闭环，而不是只停留在观看课程。",
+          "blocks": [
+            {
+              "heading": "先定目标：7天学习路线与交付物",
+              "paragraphs": [
+                "第1天只做准备：注册学习账号、建立笔记模板、创建一个名为“AI学习冲刺”的项目文件夹。模板建议固定四栏：概念、命令/提示词、失败记录、改进动作。每天学习结束前，至少写3条“今天可复用的方法”。",
+                "第2-3天主攻LLM基础：把课程中的提示词结构拆成“角色-任务-约束-输出格式”四段，并用同一任务做3次改写对比。可执行标准是：同一问题在三种提示词下，输出质量有可解释差异，而不是随机更换措辞。",
+                "第4-5天做图像生成与云基础串联：先完成1个图像生成小练习，再把结果说明文档上传到云端存储。第6-7天做综合作业：完成一个“文本生成+图像+云端归档”的微型项目，并产出一页复盘。"
+              ]
+            },
+            {
+              "heading": "实操方法：把课程内容变成可复用流程",
+              "paragraphs": [
+                "每节课都执行“15-30-15”节奏：15分钟看概念，30分钟照着做，15分钟改造案例。改造时必须替换真实场景，例如把示例主题换成你的工作问题，避免只会复现教学样例。",
+                "建立最小提示词库：至少沉淀10条常用模板，如摘要、改写、分类、结构化提取、会议纪要。每条模板保留版本号和适用边界，例如“适合2000字以内中文材料，不适合法规解读”。",
+                "把失败当作学习资产：每次输出不理想时，记录输入、输出、问题类型、修正动作。连续记录一周后，你会得到个人常见错误清单，如“约束不明确”“缺少输出格式”“上下文过长未分段”。"
+              ]
+            },
+            {
+              "heading": "评估与进阶：确保学完就能用",
+              "paragraphs": [
+                "用三项指标验收学习结果：时间指标（完成同类任务是否更快）、质量指标（是否减少人工返工）、稳定性指标（连续5次任务结果是否可控）。如果三项里有两项未达标，优先回到提示词与流程设计环节修正。",
+                "参考多智能体工作流思路做进阶：先不追求复杂系统，可从“检索-生成-校对”三步开始，把每一步当作一个独立角色。这样可以降低一次性提示词过长导致的失真问题，也更方便定位错误环节。",
+                "最后做发布级成果：整理1份项目说明（目标、步骤、输入输出样例、成本与耗时），并保留可重复执行的清单。到2026-05-03这一时间点，企业更看重“稳定可复现”的应用能力，这也是从学习者走向实用者的关键。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MSN：Google推出免费AI与云课程",
+            "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPanR5aGY3OFFBbWJZNjBSNC05eHR2Z1pNc204U04wTWhwUlB3VXhJYjN0MWVXNDdKWEpIOFJ1LWNGU1BNWEJqMUdhRGJmN3U0MjQ1TEFLU25lbDRhV0NTQUctNllmYUE0dlJhdnUwWk1XUWZLM25WQ2xMc3dJd3BfTnBtMTdOUVlTSkxZRjlpWHU5WEpveVZJWWN6UWhhZ2djeTJqczFwY0xUd3ZDRjBBNlNjRzU0U3dOTTh5aDkwR3ZSWlpiMzd0UjNVV3dGOEctRzBHWDBEUU9ZeUdQYmsyZzF6cDQtSXF4cURNOVM1WXlGbHhjdFdyOWI1ZWpJa1RPOXFXdENES2JrN2QzX1AyZnRTUFA0b0E5ZzV3WlVJSW90UzU3UU9URnFDcjJDUEQzMDZyQ0hzRXZSRnY5a0MtdDlUTDJzLVpRSEp5ODI2WU95MDNnWkgtY1lYaTQxWTdLZWFVYzJ5eF8wV0lSVWVibmlQUndJejVTektCOTd1NVRxdVNUS25BOWlBMA?oc=5"
+          },
+          {
+            "label": "MarkTechPost：多智能体科研工作流示例",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSmJzRHJBdzV3VHl2aTZyN3FWUEphdGlBLXdtS210VEVPalIwQ09MRXZuRG1CeW1fSjNxcmNGcmlXR042ZVd5Um1VNmszcU82bTdQeFRDenJxSnh0VXlSdXJfMG8tVUhlcGpGNUR3aWhrcWlCODA1OXl5RENvbFo0RUxIQ0IxZE9ieV96YTQ1Qjlzb0hNZkZHSkN2WUVyREpQdkF2d2EzWXJxN0xqMENieHNHWTVGSGIzV0xnT09NcDJpSVRUb0pmWUtYaHlqaWxySU1VazZaTEs2ZEl1TjhkWWpDcjdpVmJWNkdZNkJUY2EyRmJSbGV6ZHZn0gH_AUFVX3lxTE9YS2Fpc1UxUnJINjNQODN2ZkpXbnh5OWJiaWljbGdNYzlURFpDRjB6emtEZjJVaDZHOUVOTXU4cUdDNV9COWdZWFRidDVqM3NETWNIc3pIczJCYUp3WHRlMzVmVDcySlREWTNNUFlpem9UQm5ZenJuTlg4UHluTlhCV21hMG82N29oeU1uN1NGQjBBQkE0UjBIWHM2OEVwaG5oWkFLN2JMOWtyTXhIM2V5M25aSjJEN0h3TUMzbVNKd2xXRWk2TFN4a01Id3FMV042UGluemsxbnZLcm9pcmVaaUk5ZTBzTVp5elM5SlpnUEp4QlhWZWRxTG9lU1JaVQ?oc=5"
+          },
+          {
+            "label": "新浪财经：工程化决定AI工具可用性",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVA2dVh6dmplLXdZb3E2alhVaDR0U3hXMFo4QXVaR1NwZ0VkejRSb1RVZy1OUTR4bHc0aThZNld4OHZMWmlYc3V5ZWROX0FNVTEwU21rN0NDTUVNakthN1VJRmJlVC1EVkFOZ2NKRHFGTFRFakxiTHplWEZFYk81WENLekZJaGllZW1ZS1kzcXBHSzl4MmVka2pUemhTZTVZdjNyYWFNaWE4TEdKejNOdGtlZzFfRXY1ME53M19ibnowYnA4NklpUnY3MGRmYWVQaHBjUF9uTElqVGhRbWFDaWV3?oc=5"
+          }
+        ],
+        "source": "MSN",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPanR5aGY3OFFBbWJZNjBSNC05eHR2Z1pNc204U04wTWhwUlB3VXhJYjN0MWVXNDdKWEpIOFJ1LWNGU1BNWEJqMUdhRGJmN3U0MjQ1TEFLU25lbDRhV0NTQUctNllmYUE0dlJhdnUwWk1XUWZLM25WQ2xMc3dJd3BfTnBtMTdOUVlTSkxZRjlpWHU5WEpveVZJWWN6UWhhZ2djeTJqczFwY0xUd3ZDRjBBNlNjRzU0U3dOTTh5aDkwR3ZSWlpiMzd0UjNVV3dGOEctRzBHWDBEUU9ZeUdQYmsyZzF6cDQtSXF4cURNOVM1WXlGbHhjdFdyOWI1ZWpJa1RPOXFXdENES2JrN2QzX1AyZnRTUFA0b0E5ZzV3WlVJSW90UzU3UU9URnFDcjJDUEQzMDZyQ0hzRXZSRnY5a0MtdDlUTDJzLVpRSEp5ODI2WU95MDNnWkgtY1lYaTQxWTdLZWFVYzJ5eF8wV0lSVWVibmlQUndJejVTektCOTd1NVRxdVNUS25BOWlBMA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260502-auto-1-11d4f4",
         "title": "国内使用Claude Code指南",
         "category": "AI使用教程",
@@ -5589,6 +5763,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260503-auto-1-ec2de2",
+        "title": "Mistral发布Vibe远程代理",
+        "category": "开源项目",
+        "date": "2026-05-03",
+        "summary": "Mistral在Vibe引入远程代理并配套Medium 3.5模型。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mistral发布Vibe远程代理 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月3日，Mistral AI公布Vibe中的远程代理能力，并与Mistral Medium 3.5形成配套，面向代码与多步骤任务处理。",
+          "blocks": [
+            {
+              "heading": "更新内容与定位",
+              "paragraphs": [
+                "本次更新的核心是把代理执行从本地会话扩展到远程环境，使用户可在Vibe中发起持续任务、分步执行和结果回传。",
+                "配套模型Mistral Medium 3.5强调在聊天、推理和代码场景的一体化能力，减少在多模型之间切换的成本。",
+                "从产品定位看，这一更新更偏向开发与团队协作流程，重点不是单次问答，而是可追踪的任务执行链。"
+              ]
+            },
+            {
+              "heading": "开源生态关联与实际用途",
+              "paragraphs": [
+                "虽然报道重点在产品发布，但其面向的使用方式与开源代理框架常见工作流一致，例如代码修改、测试触发和结果汇总。",
+                "对开源项目维护者而言，远程代理可用于处理重复性Issue分流、初步PR检查和文档草稿生成，节省人工筛选时间。",
+                "在企业内部，团队可将其接入既有CI流程，但仍需保留人工审批节点，避免自动化操作直接触达高风险生产资源。"
+              ]
+            },
+            {
+              "heading": "上手门槛与部署建议",
+              "paragraphs": [
+                "上手门槛主要在三点：任务拆解能力、权限隔离设计以及日志审计。即使模型能力提升，流程治理仍决定可用性。",
+                "建议先从低风险仓库开始，采用只读权限与沙箱执行，验证代理在代码检索、测试建议和文档更新等环节的稳定性。",
+                "若计划在2026年二季度推进生产级使用，可先建立失败回滚机制和人工复核清单，再逐步扩大到跨仓库任务。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Mistral AI: Remote agents in Vibe",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          },
+          {
+            "label": "MarkTechPost: Vibe与Medium 3.5发布解读",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNFRxVHMxYUZsaWFoSUdybXNXRHZ1d0J5M2ZSc2xRd2NGcEhSRC11QmlPMmZ6NGlHMU9JT2dPOHVZeVBqcnc2ZWREUFpTRWY0VjV6NC1ZNl9WSkh4QWRjMVI5M0xjeHBmcTJ5V3pmVDh0UThHeTAzQWVoZjNqRU9KSlVnMUFJSVlkYm5pOTNqbTh4NkFaY2RyU25VQWtzWFhaaUplSmlYOG5YcklfTVdmM0tpWmpzR3QtRl9fNVhyVDZ4VWdrQnQ0N1F0VDRqWWhheF9acE9XSdIB3AFBVV95cUxOaGNzU05WSXNlWXlqOV8zSVc2QWRmQlJGajc0NjFRX0xUQndCcVFtSFdNa01BRUFrNHRXV1ZRQVlucHdpemMyNTdOTmxaNC1fV2lxdkQ5cmhHXzZVTmNGeUdyZ3pkUklIWWh3NGdtXzFBQXhpUnVwSW8wQzhvaDJyWjBMdjlyd3hkaE5kcV92blVqc2dBOEJacDFlOVJQOHA2OGlrdHlHb2VKS3NFSnRyaDVvbzJ1V2JfSV9BUTRSUjBGNUcxRWtxZXRkNUJZZFo0bnVvejJGam5mUFRW?oc=5"
+          },
+          {
+            "label": "WinBuzzer: Medium 3.5能力概览",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEl5b3poOWxzSzloUUZ6LU1RT1ppYTBHamg4U2VrUlo2cnk4YXpPQ3NWbWpjTjBodkFjYjRMclRHN2JEeldBYzNrYmJacm9sVl9sSjZseWFsajFvSnM2ZUFTTkdadUxSVTdYNHVIQ2JrUmVIX0gzeVNsV0hIa0VCVnZJY3VxR1pycmh2YlJ5eFdFTFpNRHJvQUVwRWE?oc=5"
+          }
+        ],
+        "source": "Mistral AI",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+      },
+      {
+        "slug": "open-source-20260503-auto-2-75ca99",
+        "title": "AMD GAIA本地AI再更新",
+        "category": "开源项目",
+        "date": "2026-05-03",
+        "summary": "AMD GAIA调整默认模型并持续改进本地AI体验。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AMD GAIA本地AI再更新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月3日，围绕AMD GAIA的最新进展显示，本地AI方案正从“能运行”转向“更易用”，更新重点包括默认模型调整与持续性能优化。",
+          "blocks": [
+            {
+              "heading": "本次更新看点",
+              "paragraphs": [
+                "GAIA此次变化首先体现在默认模型选择上，目标是让新用户在首次启动时获得更稳妥的效果与响应速度平衡。",
+                "持续改进还覆盖推理流程与本地体验细节，反映出桌面侧AI工具正在补齐安装、配置和调用上的工程摩擦。",
+                "这类更新虽不一定是全新架构发布，但对日常开发与个人使用的影响更直接，尤其是降低首次试用失败率。"
+              ]
+            },
+            {
+              "heading": "适用场景与开源价值",
+              "paragraphs": [
+                "GAIA这类本地方案适用于代码辅助、文档检索、离线摘要和私有数据问答等场景，特点是可在本机侧完成主要推理。",
+                "在开源生态中，本地可运行能力有助于社区复现与二次开发，开发者可围绕模型选择、量化策略和插件接口继续扩展。",
+                "相较纯云端调用，本地路线更强调硬件适配和稳定运行，适合对成本可控性、数据留存和离线可用性有明确要求的团队。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛主要来自硬件条件与驱动环境，用户需要确认GPU能力、内存空间及系统依赖是否满足目标模型需求。",
+                "建议先从中等规模模型开始，逐步测试上下文长度、并发请求和温度参数，避免一开始追求大模型导致体验不稳定。",
+                "对于准备在2026年落地本地AI的开发者，可先建立标准化安装脚本与基准测试清单，再扩展到团队统一镜像。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Phoronix: AMD GAIA默认模型更新",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IRVI5QmtYeG1heFlxckp4UU5nNGRZVXRtQk9pTkNqUDdLS1BiV2FBb0Z2Sm04SlVXYklGVDh1U1BDNEtjTWlXX05jMGs3TEZyTWpfQlNha3c?oc=5"
+          },
+          {
+            "label": "OpenTools: 本地AI编码代理实践",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0pZeDJkMm44cXl5RHBBb0pudEwzalk2QWs3M196bXI4VEhjRllOcEwtcHFOSC1CMEVEYlM0dG9LZ0lrSGRnbGk0RHJnTmZMVVcyeUJvNXRsZTNWYTlCeGJnTjRPWlVuekVyZVZoVDVvaURBQm1DN05kUGREenlBMWkwTGVBZmM?oc=5"
+          },
+          {
+            "label": "Startup Fortune: 本地AI工具链进展",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1RQYWEtOGExbU9wQ3g0MGNFT3FXV1AtUl9palZZdmw3dThUYXZfV25MSF93ZHlqRl9sRHdlcnBuZ2N5c3k1UHV0cnhqdFdaeWZnUGpvUk9tUTJqNFpZWFN2M09wdHFUWGdOS3VBRzdYaWNPT3FFOGxUNlB3bUtlam1LTURSdEs4c29Fc1cwa0NscHhVa1RRcjRKRmhwSXdjNGtNSnZndmZId0IzcHUzRXktRHpRUElvc0Rnc3pNSHR2QQ?oc=5"
+          }
+        ],
+        "source": "Phoronix",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IRVI5QmtYeG1heFlxckp4UU5nNGRZVXRtQk9pTkNqUDdLS1BiV2FBb0Z2Sm04SlVXYklGVDh1U1BDNEtjTWlXX05jMGs3TEZyTWpfQlNha3c?oc=5"
+      },
       {
         "slug": "open-source-20260502-auto-1-c20075",
         "title": "Mistral发布Vibe远程代理",
