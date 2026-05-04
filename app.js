@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260504-auto-1-e913c8",
+        "title": "谷歌车载Gemini升级",
+        "category": "AI新闻",
+        "date": "2026-05-04",
+        "summary": "Google内置车机引入更自然AI对话能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌车载Gemini升级 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月4日，Google车载生态出现新进展。根据汽车媒体披露，Gemini升级开始覆盖Google built-in车型，重点是提升语音交互的自然度与连续对话体验。",
+          "blocks": [
+            {
+              "heading": "产品更新要点",
+              "paragraphs": [
+                "此次升级的核心是对话能力而非单点指令。用户在车内可通过更接近日常语言的方式发起导航、娱乐和信息查询请求，降低了固定命令词的使用门槛。",
+                "从产品定位看，Gemini车载版本强调“多轮语境保持”。这意味着系统可在连续问题中理解上下文，减少重复输入，提高驾驶过程中的交互效率。",
+                "对车企而言，Google built-in能力迭代有助于缩短智能座舱功能升级周期。通过平台统一更新，部分车型可在不更换硬件前提下获取新交互能力。"
+              ]
+            },
+            {
+              "heading": "产业影响与竞争",
+              "paragraphs": [
+                "车载AI正在从语音助手阶段走向“座舱智能体”阶段，竞争维度由识别准确率扩展到任务编排、服务接入和生态协同。",
+                "Gemini进入更多内置车机后，主机厂在自研与生态合作之间的平衡将更加关键：一方面需要差异化品牌体验，另一方面也需借助平台能力控制研发成本。",
+                "从市场结构看，2026年车载AI竞争已不局限于地图和音乐入口，而是延伸到应用分发、车内支付、内容服务和后市场运营等更完整的商业链路。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "短期内，行业将重点观察升级覆盖的车型范围、区域可用性以及多语言支持进展，这些因素决定了真实渗透速度。",
+                "中期看，车规安全与隐私合规仍是车载大模型落地的关键约束，尤其是在语音数据处理、账号体系打通和第三方应用调用方面。",
+                "同时，Google相关AI应用在移动端曾出现“短暂上架后下架”的情况，也提示行业在新品测试、发布节奏和风控流程上需要更稳健的产品治理机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Driven Car Guide：Gemini升级进入Google内置汽车",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkFRWUw2a1pKenpCX3pnNE5KUXY3LWNsbEhyOFg2d3I4MWhBZkROYmcwRWZfc0cwc1V5Ni1RZER5UFpXSWVkX1lDdzBJVnU0aFIzbmNBa1U5amh4VGF2cDJRTjJ5SnZsLWdNSlhLMk5WczRDWlNrM3Yzd0ZzU1NTTG5xNjhXbWZWSnhXaDlJem1zVV91N09ZR3ZHYnhqeXdMSE5XbFVITWV0SUxiUEE?oc=5"
+          },
+          {
+            "label": "Storyboard18：Google COSMO应用短暂上架后下架",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1NqN3hEWFFTUmxsdXBCbm5teHE5aVhKdUptVXNrWDNzYnBVeU94RDhCZUI4X0lPTUJxYlJSaDduV3NIeGpGSmVJQ0hCcmNHemJ2VnV5cXJZanNJMndTb0YxWEdDSGQwRExyb3RhaWdhVE14Sk9DcFFvUFhOQ1ZmQU9xQ053QXJxUjd5OU9xOG5NVVV0bVMya012V3lWRjVYSGhBN0R2N19aOE1PTEsyMldKRDBuZmRSSkFfak9rUQ?oc=5"
+          },
+          {
+            "label": "Search Engine Journal：Google工程师谈搜索中的黑箱模型",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcTc4QTFCaWhJRUdMeG53RTh3b0lnOFlsbVZ6dnlOaUJyTHJRZmVweGFpTUxFaWNyLXlaQm5RS1VDOFdIVF9NU292UHkwYVIxODY4VnROaElPYjZLeVBrc3FzVjA5aDBHMzljZklwRVJ2VEgzZDJ1RW1qQkhUQWZXeVBjSndpV2ZURkUwYjlZNHdjRjR2Q0tDeXpORW42WjQ?oc=5"
+          }
+        ],
+        "source": "Driven Car Guide",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkFRWUw2a1pKenpCX3pnNE5KUXY3LWNsbEhyOFg2d3I4MWhBZkROYmcwRWZfc0cwc1V5Ni1RZER5UFpXSWVkX1lDdzBJVnU0aFIzbmNBa1U5amh4VGF2cDJRTjJ5SnZsLWdNSlhLMk5WczRDWlNrM3Yzd0ZzU1NTTG5xNjhXbWZWSnhXaDlJem1zVV91N09ZR3ZHYnhqeXdMSE5XbFVITWV0SUxiUEE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260504-auto-2-cea9e8",
+        "title": "软银筹划千亿机器人分拆",
+        "category": "AI新闻",
+        "date": "2026-05-04",
+        "summary": "软银据报规划百亿美元级机器人业务分拆路径。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "软银筹划千亿机器人分拆 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月4日，软银被报道正在规划机器人业务分拆方案，规模指向百亿美元级。该动态被市场视为AI与机器人资产独立定价、融资与资本运作的重要信号。",
+          "blocks": [
+            {
+              "heading": "分拆计划的资本逻辑",
+              "paragraphs": [
+                "机器人业务分拆通常意味着公司希望将高成长资产从综合集团估值中拆分出来，以更清晰的财务口径对接公开市场或战略投资者。",
+                "在AI基础设施需求持续上行背景下，机器人被视为“模型+硬件+场景”结合最紧密的赛道之一，具备长期研发投入与产业协同的双重特点。",
+                "若分拆推进，软银可在融资结构、风险隔离和治理机制上获得更大灵活性，同时也需要向投资人持续证明商业化节奏与订单可见性。"
+              ]
+            },
+            {
+              "heading": "供应链与硬件联动",
+              "paragraphs": [
+                "机器人产业扩张并不只依赖算法，还受制于散热、功耗、控制系统与制造能力。近期多条产业新闻显示，上游硬件环节正在同步加码。",
+                "例如AI散热合作项目的推进，反映出边缘计算与高密度运算终端对热管理提出更高要求，这将直接影响机器人系统稳定性与寿命。",
+                "同时，面向AI算力的高端PCB产能建设也在提速。相关工厂进度若兑现，将为机器人控制板、传感模块和通信链路提供更稳的供应保障。"
+              ]
+            },
+            {
+              "heading": "行业趋势与风险提示",
+              "paragraphs": [
+                "2026年机器人赛道的主线之一是从概念验证走向规模部署，资本更关注可复制场景、单位经济模型以及交付能力，而非单纯技术叙事。",
+                "分拆后的企业通常会面临更透明的业绩考核，包括研发费用率、毛利结构和现金流表现，这将倒逼企业优化产品组合与客户结构。",
+                "从政策与市场环境看，跨区域合规、核心零部件供给及地缘因素仍可能影响扩张节奏，投资者与产业方需评估中长期执行风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Daily Upside：软银勾勒机器人分拆计划",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTElOSjh6dTF1SUlBZVZjZFB4NnhkMmhKZ2hzVk96WFFfcnZJeGI2eUJtQUNRY2NySjlkNHpNM0N1Q2NlOHBFWjJ0MG1vMjkwT3l6TVRFV20zb0ZHN28tRU9jdnRRUXFNTmhMbkt6dHhWS3ZDaUF0dHFPZFFkZUVBV21kNVZRbkNld1pYLW5rRzNGX0txWExFR1Z3?oc=5"
+          },
+          {
+            "label": "电子工程专辑：亚光与Frore合作AI散热",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHNk8xZmhFT3ZxOTB6SjVxdU5Zc2RrSGNYM0tjeTJzanJ6V1AzdDI1RkpwRlYxTXJIQ3lzWWpwU2NVVURqbU5aNzhvUU9fOXFRaS00?oc=5"
+          },
+          {
+            "label": "珠海网：方科F8工厂封顶，聚焦AI算力PCB",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhNjE3QllsUEFNREw5N0RqZExnd0ZjYk9Zd05SOUsxTFhnUWNOV25nOUFHY05FWnQwMWJFS1o2T2F5V21RM0l6QUNFdEpLOGtZZDRaMkcyb0NCS0diTU96MDFIQWg5ZjZFSTlzMHRLY3RGcVE3dlo4?oc=5"
+          }
+        ],
+        "source": "The Daily Upside",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTElOSjh6dTF1SUlBZVZjZFB4NnhkMmhKZ2hzVk96WFFfcnZJeGI2eUJtQUNRY2NySjlkNHpNM0N1Q2NlOHBFWjJ0MG1vMjkwT3l6TVRFV20zb0ZHN28tRU9jdnRRUXFNTmhMbkt6dHhWS3ZDaUF0dHFPZFFkZUVBV21kNVZRbkNld1pYLW5rRzNGX0txWExFR1Z3?oc=5"
+      },
+      {
         "slug": "ai-news-20260503-auto-1-0480eb",
         "title": "高校论文AI率争议升温",
         "category": "AI新闻",
@@ -4227,6 +4343,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260504-auto-1-ae7905",
+        "title": "LLM安全防护实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-04",
+        "summary": "基于CNCF警示，给出LLM生产环境防护步骤。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "LLM安全防护实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-05-04，围绕大模型落地的安全问题持续升温。若你正在用Kubernetes承载LLM服务，建议把“集群可用性”和“模型安全性”分开治理：前者保障系统运行，后者保障数据、提示词、工具调用和输出可靠。本教程给出可直接执行的三阶段方案。",
+          "blocks": [
+            {
+              "heading": "第一步：先做LLM资产盘点与风险分级",
+              "paragraphs": [
+                "先建立一张LLM资产清单，至少包含6类对象：模型端点、向量库、提示词模板、工具/API密钥、训练与日志数据、外部插件。每项记录负责人、访问路径、数据敏感级别和变更频率。没有这张清单，后续权限与审计无法落地。",
+                "对业务场景做三级风险分级：低风险（通用问答）、中风险（内部文档检索）、高风险（代码执行、自动下单、写库操作）。分级后绑定不同控制强度，例如高风险场景必须启用人工复核和双重审批，中风险至少启用输出过滤与操作留痕。",
+                "补一份威胁建模表，重点检查4类攻击：提示注入、数据投毒、工具滥用、越权访问。每类威胁写清触发条件、影响范围、检测信号和应急动作。建议每两周复盘一次，并在版本发布前作为必经检查项。"
+              ]
+            },
+            {
+              "heading": "第二步：在Kubernetes之外补齐安全控制面",
+              "paragraphs": [
+                "网络层面执行最小连通：用NetworkPolicy限制推理服务只访问必要的向量库、网关与审计服务；默认拒绝跨命名空间访问。对外流量走统一Egress网关，便于做域名白名单和请求审计，减少模型被诱导访问恶意站点的风险。",
+                "身份与密钥层面执行短时凭证策略：服务账号按工作负载拆分，禁止共享；API密钥存入密钥管理系统并设置轮换周期，如7到30天。对工具调用增加细粒度授权，例如“可读工单但不可写工单”，避免模型代理获得过大权限。",
+                "应用层面增加三道闸：输入检测（拦截注入与越狱语句）、执行沙箱（限制代码与命令能力）、输出审查（识别敏感信息泄露与高风险建议）。三道闸都要产生日志，并关联请求ID，确保问题发生后可追踪到提示词、检索片段和工具调用链。"
+              ]
+            },
+            {
+              "heading": "第三步：建立持续验证与应急闭环",
+              "paragraphs": [
+                "上线前做红队用例库，至少覆盖20条攻击样例：角色劫持、系统提示泄露、RAG污染诱导、伪造权威来源等。把这些用例纳入CI流程，每次模型、提示词或检索策略变更都自动回归，回归失败则阻断发布。",
+                "上线后定义可观测指标并设阈值告警，例如异常工具调用率、拒答率突增、敏感词命中率、外部链接访问异常。建议按小时聚合，并在值班群推送高危告警。若出现连续异常，自动降级到只读模式或人工审核模式。",
+                "准备一份可执行应急SOP：1）立即冻结相关密钥与外连；2）切换到安全基线模型与提示词；3）导出最近24小时审计日志；4）完成影响评估并通知业务方；5）修复后进行复盘。把SOP做成值班手册，确保夜间也能按步骤处理。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CNCF警告：仅靠Kubernetes不足以保障LLM安全",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDeG15bG5SWmtxUE9RWGtIUExPbHAtaEFTMWl2dllTcnRaalZDRTVudVJ1bEJFaVAwUWJCSFgyU2NsYjJMejZpeXphaG9zUE13WGU1LUc1M1VfckVqV1E?oc=5"
+          },
+          {
+            "label": "低成本污染AI信息源事件",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PYUw3SmhOWUh2WVkxVDZpNzJ0dWp6TGlQMkpKaF9zOWtKanRjYTBYYW9ZV2F5TGdGSmcteEs5ek4xdXJteHdnQ1k5ZXNIUHZaZUduNm1LNV8?oc=5"
+          },
+          {
+            "label": "AI提示工程反复迭代最佳实践",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXd2SjVxaHE1ODBMREdyd2h1TlUwZ1VndVJEOFcxOERaNDUzT3E3M1AxbmhRVVJvVTk5LTRNSjB5N3VPOF9TeXAzYk9qeUdVMjc2UW1ELWU1bHN4Tk1ONUprOUZxNEpqX3pBYUpOMDM5SkxBdy00ZnlQRm9PNWlkbXNqcUhOS2JXa1d5UDNxZEIzMkI5N05qdm1ZYl9lZw?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDeG15bG5SWmtxUE9RWGtIUExPbHAtaEFTMWl2dllTcnRaalZDRTVudVJ1bEJFaVAwUWJCSFgyU2NsYjJMejZpeXphaG9zUE13WGU1LUc1M1VfckVqV1E?oc=5"
+      },
+      {
         "slug": "ai-guide-20260503-auto-1-ad0516",
         "title": "零基础规划谷歌AI课程",
         "category": "AI使用教程",
@@ -5763,6 +5937,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260504-auto-1-1832db",
+        "title": "Mistral推远程代理功能",
+        "category": "开源项目",
+        "date": "2026-05-04",
+        "summary": "Vibe引入远程代理，基于Mistral Medium 3.5。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mistral推远程代理功能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月4日，Mistral AI披露Vibe新增远程代理能力，并说明该能力由Mistral Medium 3.5提供模型支持。这一更新聚焦“让代理在远端环境执行任务”，属于开源AI应用链路中的重要工程化方向。",
+          "blocks": [
+            {
+              "heading": "更新内容与定位",
+              "paragraphs": [
+                "从已公开信息看，Vibe中的远程代理强调在本地会话之外执行操作，适合需要跨环境调度的任务场景，例如远程脚本执行、工具调用和流程编排。",
+                "该能力由Mistral Medium 3.5驱动，意味着核心改进不只在界面层，也包括代理决策与任务分解质量。对开发者而言，这类升级通常会带来更稳定的步骤规划与错误恢复。",
+                "在开源生态语境下，远程代理功能的意义在于把模型能力延伸到可执行系统，降低“只能对话、难以落地”的问题，进一步靠近可交付的自动化工作流。"
+              ]
+            },
+            {
+              "heading": "适用场景与潜在价值",
+              "paragraphs": [
+                "对于中小团队，远程代理可用于日常运维和数据处理任务，如定时抓取、批量转换、日志清洗等，减少手工重复操作。",
+                "对AI应用开发者，Vibe这次更新可作为“代理中台”尝试入口：先从单一任务开始，再扩展到多工具协作，逐步验证模型在生产流程中的可靠性。",
+                "对于企业技术管理者，远程代理的价值更多体现在效率与标准化，而不是单点功能。是否采用，取决于权限边界、审计机制和已有平台兼容性。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在工程侧而非模型侧。团队需要先具备基础的API调用能力、任务编排思路，以及远程环境访问控制经验。",
+                "建议第一阶段只开放低风险操作，建立最小权限策略，并保留完整执行日志。这样可以在验证收益的同时控制误操作风险。",
+                "若计划在2026年第二季度导入生产，可先做两周试点：选择单一业务流程、设定成功率指标，再根据稳定性决定是否扩展到跨系统自动化。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Mistral AI发布信息",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          },
+          {
+            "label": "Edge AI Daily相关汇总",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16ckR3M2dtRy1BcFFLVTNDQ1M1dDBTSkM4SDZOR3dzZ0YxQ3NNOVdqSm93TzF3TXFPeWhzN1EyLW9hNmN4dnI3T3VweXY?oc=5"
+          },
+          {
+            "label": "开源模型竞争背景",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KSmE3SXFHQ0VCNjU3SXYyQl9nV0JBZk4wWTBueFFJSEZJWm01VXh2REJoQS1SQ0pHajRBb0NnRng0ZnctcHlrVWdkX2RxUQ?oc=5"
+          }
+        ],
+        "source": "Mistral AI",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+      },
+      {
+        "slug": "open-source-20260504-auto-2-24ffb7",
+        "title": "NHS收紧开源仓库权限",
+        "category": "开源项目",
+        "date": "2026-05-04",
+        "summary": "NHS因AI安全顾虑调整公开代码库策略。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NHS收紧开源仓库权限 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月4日，围绕英国国家医疗服务体系（NHS）收紧公开代码库权限的消息持续发酵。事件核心并非单一项目发布，而是开源AI时代下公共机构对代码暴露面与安全风险的再平衡。",
+          "blocks": [
+            {
+              "heading": "事件要点与背景",
+              "paragraphs": [
+                "多家媒体提到，NHS正在调整部分公开仓库的可见性，关键原因与AI相关安全担忧有关，尤其是公开代码可能被自动化工具快速索引、复用或用于攻击路径分析。",
+                "这一变化反映出公共部门在“透明协作”与“安全合规”之间的现实压力。过去依赖开放仓库进行外部协同的模式，正在被更细粒度的访问策略替代。",
+                "从开源项目治理角度看，这不是简单的“关闭开源”，而是把开放范围从默认公开转向按需公开，强调资产分级、权限管理和风险审查。"
+              ]
+            },
+            {
+              "heading": "对开源AI项目的影响",
+              "paragraphs": [
+                "对依赖公共代码样本训练或评测工具链的团队而言，可获取数据源可能减少，进而影响复现实验与对比测试效率。",
+                "对维护方来说，未来需要把“可公开内容”和“敏感实现细节”拆分管理，例如只开放接口、文档与示例，将基础设施脚本和安全配置留在受控仓库。",
+                "对社区协作者而言，贡献路径可能从直接提PR转向受邀请协作、镜像同步或定期发布包，这会提高参与门槛，但也可降低系统暴露风险。"
+              ]
+            },
+            {
+              "heading": "上手门槛与应对建议",
+              "paragraphs": [
+                "如果团队计划继续参与此类公共机构相关开源项目，首要门槛是合规能力，包括身份管理、贡献审计、依赖清单和漏洞响应流程。",
+                "建议先建立最小可行治理框架：代码分级、仓库访问策略、自动化安全扫描和发布前审查。这样即使仓库策略变化，也能保持研发节奏。",
+                "在2026年当前环境下，开源AI项目要想长期稳定协作，技术能力之外还需要制度化运营能力。对新团队而言，先从文档、测试和非敏感模块切入更现实。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZlVlS3FQaHZRdUpaaDN5Tld6d09uSzliRXFhV1ZuYThyVk9mUTJReW1hY180QWtCSUI0QlFsdFZHWE1Nd0p2LU9HZENKRTVlUERkZUp3SUF4NHlyYkxRUg?oc=5"
+          },
+          {
+            "label": "Neowin英文报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUlUbFJCaGJGMlhnd2FHazMyenZqSzBOdjExbW1VOHBEZlFkcWxyODRoaXpOWTlwcHo0R1lSM2J4d2w3QTVndmtDTWxYdWZRdGRwenNvckdQMGRZVzh2N2JYWHJHbTY2ME4wYzZrbFlZenJtd0FGcl9wZU5VeUZsclFjaW13SzZtU2F4dEIxSHZJTnFPTFZyVFQ0OFBKS25DMW5DYjl2SFpCNEVkUXYyaVI0OE9adw?oc=5"
+          },
+          {
+            "label": "Linuxiac后续信息",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHJaRUpUenc3SDE4NF9YeVdoTVJnQzNJaXZ5VVhVeWFEVmdGYmw3ZUZQbzVOcWJsR2dwdTFoRDVPZEFIWF9yWGZoNDF5a0xtTjFGRnd1RVRZQl9mV1FyZl9PZ3hXc09RSDllVlJyRklCb25uOF9qS1FQVllUTzJtcDhvcw?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZlVlS3FQaHZRdUpaaDN5Tld6d09uSzliRXFhV1ZuYThyVk9mUTJReW1hY180QWtCSUI0QlFsdFZHWE1Nd0p2LU9HZENKRTVlUERkZUp3SUF4NHlyYkxRUg?oc=5"
+      },
       {
         "slug": "open-source-20260503-auto-1-ec2de2",
         "title": "Mistral发布Vibe远程代理",
