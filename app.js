@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260505-auto-1-915177",
+        "title": "IBM发布主权云核心",
+        "category": "AI新闻",
+        "date": "2026-05-05",
+        "summary": "IBM宣布Sovereign Core正式商用，推进数字主权落地。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IBM发布主权云核心 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月5日，IBM在Think 2026期间宣布IBM Sovereign Core正式进入通用可用阶段，重点面向受监管行业与跨境数据场景，强化企业在AI与云环境中的数据主权与合规能力。",
+          "blocks": [
+            {
+              "heading": "事件与产品定位",
+              "paragraphs": [
+                "IBM此次发布将“数字主权”从概念推进到可规模化部署阶段。Sovereign Core被定位为企业云与AI基础能力的一部分，用于支持数据驻留、访问控制和本地合规执行。",
+                "从发布节奏看，IBM把主权能力与其企业级AI路线绑定，反映出大型客户在生成式AI落地过程中，已将合规与治理视为前置条件而非后置补丁。",
+                "在金融、政务、医疗等行业，数据处理链条涉及多方协同与审计要求。主权云能力若能标准化交付，将有助于缩短项目评审周期并降低合规不确定性。"
+              ]
+            },
+            {
+              "heading": "产业影响与竞争格局",
+              "paragraphs": [
+                "主权与可信架构正在成为云厂商竞争重点。IBM此举可能推动更多企业在选型时，将“可验证治理能力”与“模型性能、成本”并列评估。",
+                "从行业角度看，欧洲和亚太部分市场对数据主权要求持续提高，企业需要在本地运行、跨境协作与统一运维之间平衡，Sovereign Core瞄准的正是这一矛盾点。",
+                "对生态伙伴而言，若底层主权框架稳定，ISV和系统集成商可围绕行业模板、审计工具和安全服务开展二次开发，形成更可复制的交付模式。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "短期内，市场将关注该产品在关键行业的首批商用案例，包括部署周期、合规审查效率和运维复杂度变化。",
+                "中期看，IBM是否能把主权能力与多云管理、模型治理和业务流程自动化打通，将影响其在企业AI平台层面的整体竞争力。",
+                "在政策与监管持续演进背景下，具备可审计、可配置、可迁移特征的主权能力，预计将成为大型企业AI采购中的常规指标。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBM Newsroom：Sovereign Core正式商用",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTllZWFAxN0tkSC1ZdjJNUzJzVy1CVGs4UVhXVEIyeHc4N1NyMjQ1WF9EOXJHUGxNRnNRMkZZcDdoOEF4NjktWVBnMGk0bmRmX3ZnTXlBME5WTF9SRmI1Q1dtcC1WM0VrcGxVUk10c1dTSWUtZHltUTBua2JFUTJFckRWQkNFYUlodUtSZTBabWVxQ2Z2SEw5R19Cd0pqMTN6bzF4a1BrQkdlQXRXMjZPN2Fmb2tCMEtlVXNUaVF6WVdLZ3pLWUxDWEprZjNhYU9XU08yUg?oc=5"
+          },
+          {
+            "label": "Network World：IBM企业级AI蓝图",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlRmSGJwU2dCVWFieWZzaHkxMXROT2ZKV2RKM1kyM0U5YVZUVllHWU45blR4dE92dG94dXQ4UWszYVNCOW82cml6T3lKQWwxMkc5bGhxdmViTWkxQy1fMXhSVmxVZFhFRFJOS1F5Z3JldDJyYjdCNlg0bExMU1ZwY1ktVno2THljeEVfTjh2d2tWbGdtMEh5ZjdaeHZnN0tqWDdRS081RWxMd19KOGF4ajBhNm1HNEE5ekJxVXZHdkdrWDAwb2NMTmwwSlg?oc=5"
+          },
+          {
+            "label": "WSJ：IBM CEO谈AI带来的运营模式变化",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1FvRkJrZW1kSG81ZTJmdkxxM2NUbTEyMFdJTmJ4a2NWdDBiaDRuaUJIMUw0Uk1MOVY5ZVVnU3l0YzBwMmx5WjJndDB1d3pJNXBHblZFbE5uQ08xM0JSZDBlVWljRUNBSmIwcll6Y1dWLTJCYUk5allsUldQMTV3a2JyR1dkUVJ2ZVV0MXk5TXI1VEl2WlVjZ0lVWQ?oc=5"
+          }
+        ],
+        "source": "IBM Newsroom",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTllZWFAxN0tkSC1ZdjJNUzJzVy1CVGs4UVhXVEIyeHc4N1NyMjQ1WF9EOXJHUGxNRnNRMkZZcDdoOEF4NjktWVBnMGk0bmRmX3ZnTXlBME5WTF9SRmI1Q1dtcC1WM0VrcGxVUk10c1dTSWUtZHltUTBua2JFUTJFckRWQkNFYUlodUtSZTBabWVxQ2Z2SEw5R19Cd0pqMTN6bzF4a1BrQkdlQXRXMjZPN2Fmb2tCMEtlVXNUaVF6WVdLZ3pLWUxDWEprZjNhYU9XU08yUg?oc=5"
+      },
+      {
+        "slug": "ai-news-20260505-auto-2-93467f",
+        "title": "OpenAI测试金融智能体",
+        "category": "AI新闻",
+        "date": "2026-05-05",
+        "summary": "OpenAI将与PwC在内部测试面向财务场景的智能体工具。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI测试金融智能体 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月5日，OpenAI被报道将与PwC合作，在内部测试面向财务场景的Agentic AI工具。该动作显示，通用模型厂商正把产品重心延伸至高流程密度、强合规要求的企业职能部门。",
+          "blocks": [
+            {
+              "heading": "项目进展与应用场景",
+              "paragraphs": [
+                "本次测试聚焦财务流程，可能覆盖票据处理、对账、报告草拟与审阅辅助等环节。相较通用助手，财务智能体更强调规则执行、过程留痕与结果可复核。",
+                "选择“先内部测试”意味着OpenAI希望在真实业务数据与工作流中验证工具边界，降低直接外部商用的风险，并积累可量化的效率与准确率指标。",
+                "PwC的参与表明咨询与审计服务商在AI落地链条中的角色上升，尤其是在流程重构、控制点设计和合规映射方面可提供方法论支持。"
+              ]
+            },
+            {
+              "heading": "企业级AI商业化信号",
+              "paragraphs": [
+                "从产业层面看，模型厂商与专业服务机构协作，正成为企业AI商业化的常见路径：前者提供模型与平台，后者负责行业化封装与治理实施。",
+                "财务场景具备明确ROI预期，若测试结果稳定，相关工具可能先在中后台职能推广，再向采购、供应链与法务等相邻流程扩展。",
+                "与市场上“概念先行”的AI叙事相比，这类以流程指标为核心的试点更接近企业采购逻辑，有助于推动预算从实验性投入转向长期投入。"
+              ]
+            },
+            {
+              "heading": "风险、监管与观察重点",
+              "paragraphs": [
+                "财务智能体应用需要重点管理数据权限、模型幻觉、责任归属与审计追踪问题，尤其在自动建议进入关键审批链路时，人工复核机制仍不可缺少。",
+                "在各地监管对AI透明度和可解释性要求提高的背景下，企业将更关注供应商是否提供可审计日志、版本管理与风险分级控制。",
+                "后续值得关注的指标包括：测试阶段错误率变化、人工工时节省比例、与现有ERP系统集成成本，以及是否形成可复制的行业模板。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Bloomberg Tax：OpenAI内部测试金融智能体",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXViVnNJSE5wbmNtYUx3ZWdPUUplRGNEM1JLOVM1MkJsTk9tTFdtVzZJVkQyV2pFbkVxZnVGQ2xXbWxIa2duQ0NJclVXUk94RnA4WFBYeXFicXZERFRNWVhMRjNFMW5wM3dCVlhnWGNITFcxX3pXM2t2RThMY1M5Q0pqVC13Y1VydFZ4M1ZybUszbFZaZWFlRUFoM0J6cWtHaW9KYnU3ZlZSbnhNVGlz?oc=5"
+          },
+          {
+            "label": "Fortune：Sam Altman谈AI包装与就业替代",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a0d6S0FFdG9BNmhRU0xXTGtOMmxTcGFad0FlODRZb1dUNVVMOUZ6RjNLUWpxYTBrTlFDaFlqLXBqb1A1UE1PNVVjeHVqMGo3VUh2YVNxZUpoMzNyS1hmNGtmdlh1NGE4bUVLYjN2eGI?oc=5"
+          },
+          {
+            "label": "The Daily Upside：AI公司与私募合作推进落地",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEMyblF1eXpIMlpuQTV0SXlRenIwTXpfaHRLTXBwNC1zQnFNY3BnZU5VM2psWDhRVmNGRWcxUUM1b2VDYmdOTU5mNURCbVRJeU9Sc3o1Y2s4ZGk0bnl0c3NRLW9seWVydXVMRFJ1ZVRFbUlEVUhUblNfSnc2UHYyNVhqSEpVM0R4dFdpTGRyTnVPZjh1Z2IzNHhuY1lscUpmbm5uNUpJek9rNmZOMWJMbDdzV3o5eEtLQU1zdXFCZzc?oc=5"
+          }
+        ],
+        "source": "news.bloombergtax.com",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXViVnNJSE5wbmNtYUx3ZWdPUUplRGNEM1JLOVM1MkJsTk9tTFdtVzZJVkQyV2pFbkVxZnVGQ2xXbWxIa2duQ0NJclVXUk94RnA4WFBYeXFicXZERFRNWVhMRjNFMW5wM3dCVlhnWGNITFcxX3pXM2t2RThMY1M5Q0pqVC13Y1VydFZ4M1ZybUszbFZaZWFlRUFoM0J6cWtHaW9KYnU3ZlZSbnhNVGlz?oc=5"
+      },
+      {
         "slug": "ai-news-20260504-auto-1-e913c8",
         "title": "谷歌车载Gemini升级",
         "category": "AI新闻",
@@ -4343,6 +4459,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260505-auto-1-72e7fc",
+        "title": "长上下文与RAG实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-05",
+        "summary": "面向团队的上下文工程落地步骤与评估清单",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "长上下文与RAG实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月5日，很多团队在构建AI问答与助手时，开始把“超长上下文”当作默认方案。但实际项目里，长上下文并没有替代RAG，而是要求更细致的上下文工程。下面给出一套可以直接执行的教程，用于在一周内完成从试验到初步上线的闭环。",
+          "blocks": [
+            {
+              "heading": "第一步：先做任务分层，再决定是否用RAG",
+              "paragraphs": [
+                "先把业务请求分成三类：短指令任务（如改写、摘要）、知识检索任务（依赖企业文档）、多轮推理任务（跨多个来源综合判断）。这一步建议拉出最近两周的真实提问日志，人工抽样100条，按三类标注，并记录每类占比。",
+                "给每类任务定义“最小可用上下文”。例如短指令类可只保留系统提示词与用户输入；知识检索类保留Top-K检索片段；多轮推理类增加历史轮次摘要。不要一开始就塞满窗口，先按最小集运行，后续再按错误类型扩容。",
+                "判定标准可直接执行：若问题答案需要外部事实且模型参数内不稳定复现，默认走RAG；若仅需语言生成或格式转换，优先不走RAG；若任务包含跨文档比对，采用“RAG召回+局部长上下文拼接”的混合路径。"
+              ]
+            },
+            {
+              "heading": "第二步：搭建可复用的上下文管道",
+              "paragraphs": [
+                "建立统一上下文模板，建议固定为四段：系统规则、任务目标、检索证据、输出格式。把可变信息限制在“检索证据”和“用户约束”里，这样便于A/B测试。模板版本要编号，例如CTX-v1、CTX-v2，并在日志中回写版本号。",
+                "RAG侧先做三项基础配置：文档切分长度、重叠比例、召回条数。可从“800字切分、15%重叠、Top-5召回”起步，再按评测结果调参。每次只改一个参数，避免无法定位收益来源。",
+                "对长上下文任务增加两道保护：第一是证据去重，避免重复片段占用窗口；第二是证据排序，优先放高相关与高可信来源。若窗口接近上限，先压缩历史对话为结构化摘要，再保留最新检索证据。"
+              ]
+            },
+            {
+              "heading": "第三步：上线前评估与日常运维清单",
+              "paragraphs": [
+                "建立小型离线评测集，建议首批60到120题，覆盖高频场景与高风险场景。指标至少包含正确率、可引用性、响应时延、单次成本。每次改动后跑全量评测，低于基线即回滚，不做主观放行。",
+                "上线采用灰度流程：先10%流量观察24小时，再到30%，最后全量。监控项建议包括检索命中率、空答案率、幻觉投诉率和平均token消耗。若发现成本异常上升，优先检查是否无效拼接了过长历史记录。",
+                "日常优化按周循环执行：周一复盘错误样本，周二调检索与模板，周三回归测试，周四灰度，周五结论归档。用固定节奏替代临时救火，能够持续提升“长上下文+RAG”协同效果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Long Context Is Not Replacing RAG",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXJ6alg5ZUx5SzVVMGJJdXI4d1V3WXR0akgxb0dRTDRTUmd6RF9CZU1LWGNGb1E1NVhwa2RlQ3JuTmRMa18yVzVKSjRtblZ2bjhFWFNIWWNMd3k4VkhJdlh2QmUzWFBiVG5sS01jNjJrUlBDczBES01zMUZnclRmWEpJUXZOczVqcHk5RE02RnM1WjgxS205SE9aR29hWDJIeXB2aFc0SQ?oc=5"
+          },
+          {
+            "label": "AI芯片设计，越来越难",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LM2k4SkU1QkRFaExWT0tiTlBKSHRTYU41NEpNVnBlX1hGZ29xbkpfWVA1TzJmZ1hzMU80RXN1d0g2a0pxcHcxbnVBYzR0Zw?oc=5"
+          },
+          {
+            "label": "Operant AI Endpoint Protector",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2EwTEhpaHkxTUtqVllJVnhROE13TG5OYkg4dVBVa3Z0WFFreWJEUE81N0pKeDhGWExtUlVjRm14NlRJTVdscVBGc3kzSmhZN2VtTV9tSllHcmV0bTVXckFnMVVwV1hkajlkRU9VUUZDeFJLQ1pRenJXMDF6SjZiVlJFWWlBejJxMHpEV1JJUjFBZnBGSDNpZE9TbHdvNWoweWtaN0FuNVg?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXJ6alg5ZUx5SzVVMGJJdXI4d1V3WXR0akgxb0dRTDRTUmd6RF9CZU1LWGNGb1E1NVhwa2RlQ3JuTmRMa18yVzVKSjRtblZ2bjhFWFNIWWNMd3k4VkhJdlh2QmUzWFBiVG5sS01jNjJrUlBDczBES01zMUZnclRmWEpJUXZOczVqcHk5RE02RnM1WjgxS205SE9aR29hWDJIeXB2aFc0SQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260504-auto-1-ae7905",
         "title": "LLM安全防护实操指南",
         "category": "AI使用教程",
@@ -5937,6 +6111,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260505-auto-1-7005b8",
+        "title": "OpenClaw桌面版v0.4.0发布",
+        "category": "开源项目",
+        "date": "2026-05-05",
+        "summary": "新版聚焦对话、文件与模型工具配置升级，降低本地智能体使用门槛。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw桌面版v0.4.0发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月5日，北京时间语境下，OpenClaw桌面版v0.4.0成为近期开源AI工具链中较受关注的一次迭代，更新重点集中在本地对话工作流与多模型配置体验。",
+          "blocks": [
+            {
+              "heading": "本次更新包含哪些实用变化",
+              "paragraphs": [
+                "公开信息显示，v0.4.0围绕对话、文件、模型与工具配置做了集中升级，方向是把“能跑”改进为“可持续使用”。对普通开发者而言，这意味着在同一客户端里处理提示词、知识文件和工具调用时，切换成本更低。",
+                "在功能层面，这类版本通常会补齐模型接入参数、会话管理和文件上下文组织能力。对于需要本地快速试验智能体流程的团队，桌面版更新能减少手工拼接脚本的工作量。",
+                "从项目演进看，OpenClaw相关社区活动和生态讨论在同步增加，说明该项目正从单点工具向更完整的开源代理工作台过渡。"
+              ]
+            },
+            {
+              "heading": "适用场景与潜在受众",
+              "paragraphs": [
+                "OpenClaw桌面版更适合需要“本地可控+多模型切换”的使用者，例如个人开发者、内部工具团队、需要离线测试流程的企业研发组。",
+                "如果使用目标是快速验证AI助手原型，桌面应用的可视化配置能减少前期工程负担；如果目标是长期生产部署，则仍需结合容器化、权限控制与日志审计方案。",
+                "从开源项目定位看，它并不直接替代云端全托管平台，而是为“先在本地把流程跑通”提供较低门槛入口。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "上手门槛主要在三部分：本地运行环境、模型API配置、工具调用权限。对有基础开发经验的用户，通常可在较短时间完成首次对话与文件检索流程。",
+                "建议初次使用者先建立最小可用链路：单模型对话、单目录文件读取、单工具调用，再逐步扩展到多模型路由与复杂任务编排，避免一次性引入过多变量。",
+                "对于团队采用，建议把桌面版作为原型验证层，再将稳定流程迁移到容器化或服务化环境，以便统一安全策略和版本管理。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenClaw桌面版v0.4.0消息",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVlh3UDJsTlJvU2w2SWwzUHRIN2QyeWhYREhWWVhmZWdWNzg1S3RIWWJsSHZ1ZVUtS3pLUVZpZXVSaV9QcGg4bmVzTDdVb2ZiZWVQV0MwdDFGRXdDLUpIREszRjJjT1hFOVE?oc=5"
+          },
+          {
+            "label": "OpenClaw GitHub HQ活动",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYkhRbldkLUYteVFIU2p2TENvNUxna0hWbndWdlF0OEdXdVhtVk83UmZYaDFhVUl4b0dTcVltNXg1WF9TOUgyLUh3WVhfcHp1RTc0X3RPR2laVV93ajNTamZtR2NSZ3FLdUh5V2tIRUphTWpJc1hGVE9PNW1Ba21MR0xFRQ?oc=5"
+          },
+          {
+            "label": "Tank OS封装OpenClaw运行环境",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TVExhblBFeXhpdUdXbkpZRFVrVk5qWFZ2RXFOSzJCd25mYkpsUG1JcmRQUE9hZXRYQ2xLNHd1RmVlTEtZWW1jeldDTE5lanJXcHR5Qjdfakc2a0tQNGg1VE9qYlVRZnNXcURwcV9MdXA5NVlB?oc=5"
+          }
+        ],
+        "source": "53AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVlh3UDJsTlJvU2w2SWwzUHRIN2QyeWhYREhWWVhmZWdWNzg1S3RIWWJsSHZ1ZVUtS3pLUVZpZXVSaV9QcGg4bmVzTDdVb2ZiZWVQV0MwdDFGRXdDLUpIREszRjJjT1hFOVE?oc=5"
+      },
+      {
+        "slug": "open-source-20260505-auto-2-5ec13e",
+        "title": "Kaltura开源AI代理技能套件",
+        "category": "开源项目",
+        "date": "2026-05-05",
+        "summary": "Kaltura发布面向开发者的开源AI代理技能，聚焦富媒体应用自动化构建。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Kaltura开源AI代理技能套件 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月5日，北京时间，Kaltura宣布开源一组AI代理技能组件，目标是让开发者可在通用代理框架中更快构建富媒体相关应用能力。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心用途",
+              "paragraphs": [
+                "该套件面向“AI代理+媒体应用”场景，强调把常见能力以可复用技能形式开放，便于在不同代理系统中调用，而不是绑定单一平台。",
+                "从用途看，开发者可将其用于视频内容处理、交互流程编排、媒体体验自动化等任务，适配教育、企业培训、内容平台等业务线。",
+                "开源发布的意义在于把关键能力前移到开发阶段，让团队能先完成业务验证，再决定是否接入商业化托管服务。"
+              ]
+            },
+            {
+              "heading": "对开发流程的影响",
+              "paragraphs": [
+                "相比从零编写代理工具链，技能化组件有助于缩短原型搭建周期，尤其适合需要快速迭代功能演示和内部试点的团队。",
+                "这类方案通常降低了接口整合复杂度：开发者可把精力放在业务逻辑和用户体验，而不是重复处理底层能力封装。",
+                "同时，开源形态也便于代码审阅与二次开发，团队可根据合规要求做定制化修改，避免黑盒依赖过重。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要取决于两点：是否熟悉代理框架的调用机制，以及是否具备基本媒体处理与API集成经验。对中级开发者来说门槛可控。",
+                "建议先从单一技能入手，例如先实现一个媒体内容检索或生成任务，再逐步叠加多技能协同，形成可观测的工作流。",
+                "在生产化阶段，应补充权限控制、数据留存策略和调用审计，确保代理在处理媒体与用户数据时满足安全与合规要求。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Kaltura开源AI代理技能公告",
+            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPT01XZm9xS0lFZGo1dFRhUHhrNjR6VDdRNXYtRkdxWTVnT0dQR2dDWHhCckx3WGFXTzctTTh2N0FydXZsaktGT2U2emZ6dWYzampqSUpSZ2ktdkVhc2pVTFE2dGQtTHJ5dGpsbGp3YTBWdkdHRmZYbGNWUTZ2eWh1NTdfQldiZ2NxTmZoX2dGUzVoRWRzeE9XMjliR3Y5bjBGNUh3Y2ZIeURDZThKQ1lOb3d2N2xuUU54dHk2TGxFc1BtMFFNdWFJNFFtdU91QjRXbTl3NHM4bGV4QmswVWZzRkVfTUVGeWVjTHh2NFcwOTdmclN0dE44T0pJMWp4bjFudWZYdVI3NXRVSUdPckhKcWxmYjRBcjgxcFlB?oc=5"
+          },
+          {
+            "label": "Investing.com相关报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUNGMjBwV0IxSXlhbXExV3ZtQXlIdzF1aDlWWF80YmhxN0Q5WGRSN096MjlDZHVSdWhoWTk1bUxValo2dTE4eVVwd3g0Mk50MUhKTnpINUt5UFdnaFRsMzRRX2FOQzNoQkhkR3dVZjNxSlo0alU0UzZHUGlzeVJOY1JIMXl3VExUay1HYllycGZVaFNudURoTkM4X25ERG1rOUVzZmxudXlldTJITk1hZ3VMRHlEQQ?oc=5"
+          },
+          {
+            "label": "Stock Titan相关报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHRPU1lPY29fclNCR3FVLVRlU1U0YUdmblFGVzNiWkFNM2F4Z29PSXFOcW94NmItaEIwQ1pBN0RpanFnWG8ya0JxZ1pndkdld0VwYm43RFV2ZGVnN3FoLVRrcFpFNGFraGRVWHQ1ZlZ4SmFwZmVha1lBUDlycTNXbHdaWlNSc2R5V2dpRzZPN29vVVA2OHQ5UHVHUkhVMVNvVjEwZzA3SHdZY29qUzIxRHFqTXBKa01DWlk3RnJsRQ?oc=5"
+          }
+        ],
+        "source": "GlobeNewswire",
+        "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPT01XZm9xS0lFZGo1dFRhUHhrNjR6VDdRNXYtRkdxWTVnT0dQR2dDWHhCckx3WGFXTzctTTh2N0FydXZsaktGT2U2emZ6dWYzampqSUpSZ2ktdkVhc2pVTFE2dGQtTHJ5dGpsbGp3YTBWdkdHRmZYbGNWUTZ2eWh1NTdfQldiZ2NxTmZoX2dGUzVoRWRzeE9XMjliR3Y5bjBGNUh3Y2ZIeURDZThKQ1lOb3d2N2xuUU54dHk2TGxFc1BtMFFNdWFJNFFtdU91QjRXbTl3NHM4bGV4QmswVWZzRkVfTUVGeWVjTHh2NFcwOTdmclN0dE44T0pJMWp4bjFudWZYdVI3NXRVSUdPckhKcWxmYjRBcjgxcFlB?oc=5"
+      },
       {
         "slug": "open-source-20260504-auto-1-1832db",
         "title": "Mistral推远程代理功能",
