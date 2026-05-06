@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260506-auto-1-89143f",
+        "title": "斯坦福HAI启动重组",
+        "category": "AI新闻",
+        "date": "2026-05-06",
+        "summary": "斯坦福HAI调整治理架构，李飞飞转任校长顾问。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "斯坦福HAI启动重组 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月6日，斯坦福大学以人为本人工智能研究院（HAI）传出组织重组消息，核心变化包括治理结构调整与李飞飞角色变更。",
+          "blocks": [
+            {
+              "heading": "组织架构进入新阶段",
+              "paragraphs": [
+                "根据公开报道，斯坦福HAI正在推进新一轮机构重组，以适应生成式AI之后更复杂的研究与产业协同需求。",
+                "此次调整被描述为面向“下一阶段”发展，重点可能在跨学科协作、政策研究与产业连接机制的再设计。",
+                "从高校研究机构的发展路径看，组织重组通常意味着资源配置、研究优先级和外部合作模式将出现新的平衡。"
+              ]
+            },
+            {
+              "heading": "李飞飞角色变化受关注",
+              "paragraphs": [
+                "多家报道提到，李飞飞将转任校长顾问，这一安排显示其影响力将从研究院内部管理延伸至更高层面的校级战略议题。",
+                "这一变化并不必然代表研究投入弱化，更多可能是将其在AI学术、伦理和公共治理方面的经验用于更广范围决策。",
+                "对外部合作方而言，关键观察点在于重组后HAI的项目连续性、合作窗口和新设议题方向是否保持稳定。"
+              ]
+            },
+            {
+              "heading": "对产业与政策研究的潜在影响",
+              "paragraphs": [
+                "HAI在学界与产业之间长期扮演接口角色，其组织调整可能影响企业合作、人才流动和政策咨询节奏。",
+                "在全球AI监管与标准讨论持续推进背景下，头部高校研究机构的治理结构变化，往往会间接影响行业议题设置。",
+                "短期内，市场更关注重组后的管理团队分工、项目发布计划，以及是否会形成新的国际合作与政策研究框架。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：斯坦福HAI大重组",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pUW1ZLUFibjVXSThQbk9WWHB3NnRxcDNEa0k3MnRmS1dGOFZaeE5tSGRkRXdvejBRU1BvWXQyc21mczQyR3JFdA?oc=5"
+          },
+          {
+            "label": "Sohu：斯坦福大学HAI机构重组",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2VRemE3U25rbkxLU2ZnNTF6S1pRbDJfSWh5ZUs2ZFJpRGFyRGVqMnp0TTlaelppclhZVTFjV1dEMGJobUUwLXRyd3hyNnQwdDFkdmplcHFfVzJEa3NtRGxoUWpEbTZXbW1ydGxzRFVHVGxtODhVa21wTE90ZVlONmVjZXQtVmFQ?oc=5"
+          },
+          {
+            "label": "FT：AI Labs相关讨论",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tTHUxTU9nSmhfcjd0Uy1Ub1gxelpDTF8tckhpa0JONzk3V3JNS3Q4dmtHa2RMUVN0X1FUb0VsTjBuMTd6V1BoRFpsbTFQNjZtYkM0NlBvODUteGtxSXI5VVkyb28tMlFiMmNXUHc5b1I?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pUW1ZLUFibjVXSThQbk9WWHB3NnRxcDNEa0k3MnRmS1dGOFZaeE5tSGRkRXdvejBRU1BvWXQyc21mczQyR3JFdA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260506-auto-2-49519f",
+        "title": "港科园启动AI孵化二期",
+        "category": "AI新闻",
+        "date": "2026-05-06",
+        "summary": "Google香港与科技园公司启动第二届AI孵化计划。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "港科园启动AI孵化二期 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月6日，Google香港与香港科技园公司宣布启动第二届人工智能孵化计划，延续本地AI创业支持机制。",
+          "blocks": [
+            {
+              "heading": "二期计划延续产创协同",
+              "paragraphs": [
+                "从公开信息看，第二届计划延续了平台企业与园区机构联合孵化的模式，目标是提升AI初创团队的产品化和商业化能力。",
+                "相较单一资金支持，联合孵化更强调技术辅导、场景接入、算力与生态伙伴对接等复合型支持。",
+                "在区域创新体系中，此类项目可作为中早期团队的过渡平台，帮助其从原型验证迈向可持续运营。"
+              ]
+            },
+            {
+              "heading": "对香港AI创业生态的现实意义",
+              "paragraphs": [
+                "香港近年持续推动科创产业升级，AI孵化项目的连续举办，有助于增强本地人才留存与跨境协作能力。",
+                "对创业公司而言，第二届计划的关键价值在于缩短从技术开发到行业落地的周期，并提升与企业客户对接效率。",
+                "对投资机构而言，标准化孵化机制也有助于形成更清晰的项目筛选路径，降低早期项目的信息不对称。"
+              ]
+            },
+            {
+              "heading": "观察重点与后续节奏",
+              "paragraphs": [
+                "后续可重点关注本届入选团队数量、覆盖行业分布及毕业项目的融资与营收表现。",
+                "若项目与本地产业政策、科研机构和企业场景形成稳定协同，其示范作用将不仅限于单期孵化成果。",
+                "在2026年竞争加剧的AI创业环境下，具备持续运营能力的孵化项目，将成为区域产业升级的重要基础设施之一。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AASTOCKS：Google香港启动二届孵化",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZHdva2lxdFk1bExvRjNRclVPajdTSTIwTnpZWDdHenpUeXB1OE5xWkVjSWtSRHdvdkpqb2FwdGdXUHdYWU43VVIyNmFZSTJQVGJMTmxGQ2dUTkhrQ05ZOUtrSFBBN2tXSjhIS01oZ1d5QQ?oc=5"
+          },
+          {
+            "label": "C114：人工智能应用创新赛事",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OYXFhWjFtV2VDZzlOS0h2dHM5dmN1N2xMRXpvdi0zVUc4TEtXaHE0R1FvSVVIOXk4Z2xNdlo4NmZabjJMYmJhclNvMVZ2RnFwQ2RGOVNibHV5Zw?oc=5"
+          },
+          {
+            "label": "ncsti：AI PARK专精特新服务站",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OVkh6YTFQWi1LMVNwRWZWb0MzMTBMdXdydVNmaTYzLXNzWnZqelpvc2tmS2JILWtmQ25LSVNxaHl2emlWV050cjAwUHRSMWpBeV9ENmtMUEo3bkh0TnJvTHNkeG9la25kYTBOUVFabG8tWkRvbWtJ?oc=5"
+          }
+        ],
+        "source": "AASTOCKS.com",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZHdva2lxdFk1bExvRjNRclVPajdTSTIwTnpZWDdHenpUeXB1OE5xWkVjSWtSRHdvdkpqb2FwdGdXUHdYWU43VVIyNmFZSTJQVGJMTmxGQ2dUTkhrQ05ZOUtrSFBBN2tXSjhIS01oZ1d5QQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260505-auto-1-915177",
         "title": "IBM发布主权云核心",
         "category": "AI新闻",
@@ -4459,6 +4575,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260506-auto-1-105060",
+        "title": "Claude Code落地实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-06",
+        "summary": "用工程化方法提升Claude Code稳定产出",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Claude Code落地实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "基于2026年5月的公开讨论，Claude Code的可用性更多取决于工程流程而非单次提示词质量。下面给出一套可直接执行的团队教程，目标是在两周内把“偶尔可用”提升为“可复现交付”。",
+          "blocks": [
+            {
+              "heading": "第一步：先搭可复用项目骨架",
+              "paragraphs": [
+                "先固定输入输出契约：为每个任务定义输入字段（需求、代码仓路径、约束）和输出字段（补丁、测试、变更说明、风险项）。把契约写成模板文件，放进仓库根目录，避免每次口头重述。",
+                "建立三层上下文包：公共规范层（编码规范、安全规则）、项目知识层（模块说明、依赖版本）、任务临时层（本次需求与验收点）。调用Claude Code时按三层顺序注入，减少上下文漂移。",
+                "把“可执行命令”前置：在模板中明确允许执行哪些命令（如测试、静态检查、格式化），并限制目录范围。这样可以降低错误修改面，也便于后续审计。"
+              ]
+            },
+            {
+              "heading": "第二步：用Harness做过程校验",
+              "paragraphs": [
+                "不要只看最终代码，先设计中间检查点。建议至少设置4个闸门：语法检查、单元测试、关键路径集成测试、基础安全扫描。Claude Code每次提交都必须通过闸门后再进入下一轮。",
+                "构建最小回归集：先选20个高频场景作为基线样本，每次模型改动或提示词变更都跑同一套样本，记录通过率、平均修复轮次、人工介入时长，形成可比较指标。",
+                "采用“失败分类表”持续优化：把失败分为需求理解偏差、上下文缺失、工具调用错误、代码质量不达标四类。每周统计占比，针对占比最高类别改模板或流程，而不是盲目加长提示词。"
+              ]
+            },
+            {
+              "heading": "第三步：上线节奏与团队分工",
+              "paragraphs": [
+                "按双周节奏推进：第1周完成骨架和样本库，第2周上线1个低风险业务模块试运行。试运行期间只允许白名单任务进入，避免一开始覆盖核心交易或高敏数据流程。",
+                "明确三类角色：需求负责人写验收标准，AI工程负责人维护上下文与Harness，代码负责人做最终合并审核。职责分离后，问题定位会更快，且便于形成标准化SOP。",
+                "设置退出与回滚条件：当连续两天基线通过率低于预设阈值，或人工介入时长超预算，自动降级为人工主导流程。保留每次AI提交的diff与日志，确保可追溯和可回退。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：Claude Code工程化观察",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rNFJSY0NtcHRxOFZOYlF2UVBMbVl4ckZNbTlVR05mWDBMVzhxX2p3eXhPZmw3dG1jU1VRb2w0S1BrWWM4ZENfNTk3RVVPR2hJeGdR?oc=5"
+          },
+          {
+            "label": "HackerNoon：从Prompt到Harness",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDBmcElsVlZsUjlDckdsQ3ZDdFZ6R1ktdGNLT3U1YTd2bmpiVGJIZ0UzdC1lTUc1UDVvYkZYNzlCbFZtVWFlU3ozbm1xdnV0UVgzbncxVjY2STBvQ0U2ajNhdEVwbE5HdlF6YzJIWU4tVU5vN1lhVUltNWdqUm5GZWNKdng5MU0?oc=5"
+          },
+          {
+            "label": "HackerNoon：长上下文与RAG协同",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXJ6alg5ZUx5SzVVMGJJdXI4d1V3WXR0akgxb0dRTDRTUmd6RF9CZU1LWGNGb1E1NVhwa2RlQ3JuTmRMa18yVzVKSjRtblZ2bjhFWFNIWWNMd3k4VkhJdlh2QmUzWFBiVG5sS01jNjJrUlBDczBES01zMUZnclRmWEpJUXZOczVqcHk5RE02RnM1WjgxS205SE9aR29hWDJIeXB2aFc0SQ?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rNFJSY0NtcHRxOFZOYlF2UVBMbVl4ckZNbTlVR05mWDBMVzhxX2p3eXhPZmw3dG1jU1VRb2w0S1BrWWM4ZENfNTk3RVVPR2hJeGdR?oc=5"
+      },
+      {
         "slug": "ai-guide-20260505-auto-1-72e7fc",
         "title": "长上下文与RAG实操指南",
         "category": "AI使用教程",
@@ -6111,6 +6285,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260506-auto-1-14239f",
+        "title": "AWS开源可信远程执行",
+        "category": "开源项目",
+        "date": "2026-05-06",
+        "summary": "AWS发布开源T R E，约束AI代理可访问范围。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AWS开源可信远程执行 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月6日，AWS被报道开源Trusted Remote Execution（TRE），核心目标是让AI代理在执行任务时只接触被授权的数据与系统接口。",
+          "blocks": [
+            {
+              "heading": "这次开源更新解决什么问题",
+              "paragraphs": [
+                "随着AI代理从“问答”走向“代操作”，它们会读取文件、调用内部API、触发外部工具，风险边界从模型输出扩展到执行链路。TRE面向的正是这类“能做事”的代理场景。",
+                "该方案强调对代理可触达资源进行约束与审计，重点不是提升模型能力，而是降低越权访问、误调用敏感系统、以及工具链被滥用的可能性。",
+                "从工程视角看，TRE属于AI代理安全基础设施，适合与权限系统、密钥管理、日志平台配合使用，用于补齐企业部署代理时的控制面。"
+              ]
+            },
+            {
+              "heading": "适用场景与落地价值",
+              "paragraphs": [
+                "在客服自动化、研发辅助、运维巡检等场景中，代理往往需要跨多个系统执行动作。TRE可以把“能访问什么、在哪个上下文访问”前置为策略，减少运行时临时放权。",
+                "对合规要求较高的组织，关键价值在可追溯性：当代理触发外部调用时，团队可以更清晰地复盘行为链，便于排查误操作和安全事件。",
+                "近期关于开源仓库可被构造成代理后门的讨论升温，也说明仅做传统依赖扫描并不充分。把执行权限和资源接触面收紧，是另一条必要防线。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛中等偏高。团队需要先梳理代理任务清单、工具调用路径和最小权限模型，再决定哪些能力进入可信执行域，哪些能力保持人工审批。",
+                "技术实施通常涉及三步：定义策略、接入执行环境、打通审计日志。若现有系统已经有IAM与集中日志平台，集成成本会显著下降。",
+                "建议先从单一高价值流程试点，例如“只读知识检索+有限写入工单”，在稳定后再扩展到跨系统自动化，避免一次性放开过多执行权限。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security 报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFFXbFFmSXd4LXRUdktUV1V4RnNxSUFUX0VxLUFJQ1loY19rYUU1NFoyb3NNQ1BoS2I1SWs0SjBEMm1YZ0tBSUl0SlJ6OEc2Tnp1eUNfa2RyZHRPUE5zMTdzdVpHME1RbDdUNTFNRVBCYlhKYndvZmN6eWtPajBCTl9R?oc=5"
+          },
+          {
+            "label": "OpenClaw供应链风险案例",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFU2WjRkbzM1WkRuMDNxdnNWNUlKUXBsQXl0WGtFZzZ1aTRlZjJWbGstWDB2TE56UERSakhzMngwdS1QLUlzd24xbzFtLUREb0g2elc2TU9tSjlDRjAzeC1oa2RuZHpOSW9Gd09Fdi1ONTluWFZHcnk0MWdwMHdNRGJGbXdxaHZBcGptYTdreW9pdHdJZDl0VHhRM0xEXzVBSHNIalphOXdoVjFuRkE?oc=5"
+          },
+          {
+            "label": "Mistral远程代理动态",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFFXbFFmSXd4LXRUdktUV1V4RnNxSUFUX0VxLUFJQ1loY19rYUU1NFoyb3NNQ1BoS2I1SWs0SjBEMm1YZ0tBSUl0SlJ6OEc2Tnp1eUNfa2RyZHRPUE5zMTdzdVpHME1RbDdUNTFNRVBCYlhKYndvZmN6eWtPajBCTl9R?oc=5"
+      },
+      {
+        "slug": "open-source-20260506-auto-2-86cead",
+        "title": "Molmo 2发布开源多模态",
+        "category": "开源项目",
+        "date": "2026-05-06",
+        "summary": "Ai2发布Molmo 2，面向视频与多图理解任务。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Molmo 2发布开源多模态 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月6日，Ai2发布Molmo 2开源多模态模型家族，重点覆盖视频理解与多图联合理解任务，面向研究与应用开发者。",
+          "blocks": [
+            {
+              "heading": "更新要点与能力定位",
+              "paragraphs": [
+                "Molmo 2强调“开放可用”的多模态基础能力，不仅处理单张图像，还针对视频片段和多图输入给出统一理解输出，适合复杂视觉问答与检索。",
+                "相较只做文本生成的模型，多模态模型需要处理时序信息、跨帧关系和多视角一致性，这使其在监控分析、教育内容解析、工业巡检中更具实用性。",
+                "该系列定位为可二次开发底座，开发者可以在现有任务上微调，或作为上层代理系统的视觉感知模块，与工具调用链路组合使用。"
+              ]
+            },
+            {
+              "heading": "典型用途与行业价值",
+              "paragraphs": [
+                "在视频场景中，常见需求是事件摘要、时间点定位、跨镜头问答。Molmo 2若提供稳定的时序理解，可减少人工标注与人工复核的工作量。",
+                "在多图场景中，可用于商品多角度比对、文档多页关联、医疗影像序列辅助解释等任务，尤其适合需要同时看多张图再回答的问题。",
+                "从生态角度看，Molmo 2与机器人方向的MolmoAct 2形成互补：前者偏视觉理解，后者偏行动执行，为“感知到行动”的开源链条提供参考。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛中等。开发者需要具备基础的模型推理与数据预处理能力，尤其是视频抽帧、分段采样和多图输入组织方式，这些会直接影响效果。",
+                "资源门槛取决于模型规模与任务长度。短视频问答可先从小规模配置验证流程，再按吞吐量逐步扩展到批处理与服务化部署。",
+                "建议先做三个最小实验：单图问答基线、视频摘要基线、多图对比基线。确认精度与延迟后，再接入业务系统与评测看板，降低一次性上线风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HPCwire：Molmo 2发布",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGpEdmlURHFPSVE2WG5SSENOSHJfYnJFQndvaEgyRlVJN1lNNjk3RzFRaHNxVmhVWWZmQk1JWlgxVzR6UEVaZ2p1TVNjYnJJbXI5OFY2Qk50YjlKNEtsUFhlT19Pc2JDVkFHLVhJLTRWblNSSElZSGhMcEw1NGFzZjFGQXNMZXdqcHA0S1hrTEJyclEzZ0ZnTE5jdFpUeEtvRTA3dEc1WktpWHNfYndYQ2tlaFR1dG8yMjBmYzVROVFrS0E1Mnp6em51TDczQQ?oc=5"
+          },
+          {
+            "label": "Allen AI：MolmoAct 2进展",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1YSFRfd2xqcHhSNE5nUmdWZkRQMFprQi1FdDFXUVh0ODY5dEpjQjZPQjJ3UUQyUlRUal9tWE9YOWp1X2d3OWlXdjVR?oc=5"
+          },
+          {
+            "label": "Google：Gemma 4推理优化",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSG5zc3M4UmUtb1I3SGtxMEVUYWVoZVE4VWgwYXVCejdFRW1WcmNwZUxiSzMzR2pETm9TY0tpUHlJbHBMVk5GYkNLcmhvOVhVUldnN3RBNW5SOWJ1ZFNtRHNfQ2ZZaGZtNEl6OFV3eWtBNWxJMzc0SWd5bC12YU1WYUh6U3BNa2FoMG1NVzBmU05xM0U2SnA4MTdTWDliUQ?oc=5"
+          }
+        ],
+        "source": "HPCwire",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZGpEdmlURHFPSVE2WG5SSENOSHJfYnJFQndvaEgyRlVJN1lNNjk3RzFRaHNxVmhVWWZmQk1JWlgxVzR6UEVaZ2p1TVNjYnJJbXI5OFY2Qk50YjlKNEtsUFhlT19Pc2JDVkFHLVhJLTRWblNSSElZSGhMcEw1NGFzZjFGQXNMZXdqcHA0S1hrTEJyclEzZ0ZnTE5jdFpUeEtvRTA3dEc1WktpWHNfYndYQ2tlaFR1dG8yMjBmYzVROVFrS0E1Mnp6em51TDczQQ?oc=5"
+      },
       {
         "slug": "open-source-20260505-auto-1-7005b8",
         "title": "OpenClaw桌面版v0.4.0发布",
