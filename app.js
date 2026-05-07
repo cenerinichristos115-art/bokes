@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260507-auto-1-f5c5ce",
+        "title": "FIS联手Anthropic推银行AI",
+        "category": "AI新闻",
+        "date": "2026-05-07",
+        "summary": "FIS与Anthropic合作开发银行代理式AI，聚焦合规流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FIS联手Anthropic推银行AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月7日，金融科技公司FIS宣布与Anthropic合作，计划为银行场景开发代理式AI能力，重点面向合规与风控流程的自动化支持。",
+          "blocks": [
+            {
+              "heading": "合作范围聚焦银行合规",
+              "paragraphs": [
+                "根据IBS Intelligence披露的信息，FIS本次合作重点是将代理式AI引入银行业务流程，优先覆盖与监管要求紧密相关的工作环节。",
+                "在银行数字化实践中，合规审核、交易监测、文档核验通常依赖大量人工操作，流程周期长且标准执行难度高，成为AI落地的高优先级场景。",
+                "此次合作释放的信号是，大型金融基础设施服务商正从通用生成式应用，转向更强调可审计、可追踪和规则约束的行业级AI系统。"
+              ]
+            },
+            {
+              "heading": "代理式AI的业务价值与约束",
+              "paragraphs": [
+                "代理式AI的核心价值在于把多步骤任务拆解并自动执行，例如信息提取、规则匹配、风险提示与流程流转，从而提升处理速度与一致性。",
+                "不过，银行业对模型输出稳定性、数据权限管理、责任归属和审计留痕有较高要求，任何自动化能力都需要嵌入现有控制框架。",
+                "因此，FIS与Anthropic合作若要形成规模化应用，关键不仅在模型性能，还在于与银行既有核心系统、合规流程和监管报送机制的深度对接。"
+              ]
+            },
+            {
+              "heading": "行业影响与后续观察点",
+              "paragraphs": [
+                "从产业层面看，该合作反映出金融机构对AI投入正在从试点演示转向业务改造，尤其是对合规成本和运营效率的双重优化需求。",
+                "后续值得关注的指标包括：具体产品上线节奏、可量化的效率提升幅度、误报与漏报表现，以及跨区域监管要求下的适配能力。",
+                "在2026年的监管环境下，银行AI项目通常需要在创新速度与合规稳健之间保持平衡，这将决定合作成果能否持续复制到更多机构。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBS Intelligence原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFJsYWxIMWwtdzNVMVhXenBnTm9NZFU0azBWbTZqRXp5TWxWZ2NkdUd6NlJFdng4ckZWUks4RHJZalNIMWMzNjVTajNZdjRHcENBaVh3ZFh2cmpVc0pkZ1dvd3pDM0tqVlVsX3EzSGN3UW9NNlFXdXB1SHBXUmF3TWlZbmhyc3RxTS1YYVpfb29BaHk3SFB4aGZMczlTUWZ2Q0J3ZUZHTGZnU0lk?oc=5"
+          },
+          {
+            "label": "AI治理相关背景：新泽西监管推进",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnBQek9hanZvWkx4R1A1NnZ6Zjh6Q2ZhWUExcDl0c1hSa3NsOG1hcnpWNXFzR0N3TEJWSkFOMjlGLS1rLWRpVnRoS2ROQngtemd5a0ZSc3EwcDJlaVRhYWRiRmNCc3VIMnItRnFoVmlDMHczd1FTa2h5S1VPWGwtVmliYUZObTN2U3FoN2JBNTBBN3pYZ0E?oc=5"
+          },
+          {
+            "label": "企业组织趋势参考：IBM调研",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FMlVEc01kaDZnTXA4OXBzanplWDNsMDhseWdiTnJrMXV3MUYzYWlkRTdybnJ5WjBOYmF6WEEwMEp0U1ZaTjZja19OMC1wQmRWVjNDelpIUG5VRnEwWmc?oc=5"
+          }
+        ],
+        "source": "IBS Intelligence",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFJsYWxIMWwtdzNVMVhXenBnTm9NZFU0azBWbTZqRXp5TWxWZ2NkdUd6NlJFdng4ckZWUks4RHJZalNIMWMzNjVTajNZdjRHcENBaVh3ZFh2cmpVc0pkZ1dvd3pDM0tqVlVsX3EzSGN3UW9NNlFXdXB1SHBXUmF3TWlZbmhyc3RxTS1YYVpfb29BaHk3SFB4aGZMczlTUWZ2Q0J3ZUZHTGZnU0lk?oc=5"
+      },
+      {
+        "slug": "ai-news-20260507-auto-2-8d21b1",
+        "title": "欧盟调整AI法案时间表",
+        "category": "AI新闻",
+        "date": "2026-05-07",
+        "summary": "欧盟与欧洲议会同意修改AI法案，高风险规则实施延期。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "欧盟调整AI法案时间表 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月7日，欧盟与欧洲议会就人工智能法案调整达成一致，其中高风险AI系统相关规则的实施时间被推迟至明年12月。",
+          "blocks": [
+            {
+              "heading": "法案节奏调整释放务实信号",
+              "paragraphs": [
+                "从政策层面看，此次时间表调整并不意味着监管放松，而更像是为成员国监管机构与企业执行层面预留缓冲期。",
+                "高风险AI系统通常涉及医疗、金融、公共服务等关键领域，合规要求复杂，涵盖数据治理、透明度、风控与问责机制。",
+                "延期实施有助于企业完善技术文档、模型评估和内部治理流程，降低匆忙上线带来的法律与运营风险。"
+              ]
+            },
+            {
+              "heading": "企业合规与产品路线将同步重排",
+              "paragraphs": [
+                "对于在欧盟开展业务的AI企业而言，时间表变化将直接影响产品发布计划、预算配置和合规资源投入节奏。",
+                "短期内，企业可能优先推进低风险场景商业化，同时将高风险场景项目转入更严格的测试与验证阶段。",
+                "中长期看，谁能更早建立标准化合规体系，谁就更有机会在法案正式落地后快速扩展跨国业务。"
+              ]
+            },
+            {
+              "heading": "全球监管协同趋势持续加强",
+              "paragraphs": [
+                "除欧盟外，其他地区也在推进针对AI风险的监管议程，体现出对安全边界、滥用防范和责任机制的共同关注。",
+                "不同法域虽然路径各异，但对高影响场景进行分级管理、强化可追责性，已成为政策设计中的共通方向。",
+                "在2026年的产业环境下，AI企业需要把合规能力视为核心竞争要素，与模型能力、算力和数据能力并行建设。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AASTOCKS.com报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbVRxN1luRnhxQ3lBNy1wNjQtMUJOU3JEZWswNGYyc2gxUm1mX3lMQjdYOXg0Wjd1Z2dubDVuWVdHV2I3NHZkS3hwUFoyVmxDS2Q4OU1ZM1VaRzhiWWx2NVBsR1lQQ09ENlNvZTBTMA?oc=5"
+          },
+          {
+            "label": "Yahoo相关报道：欧盟限制深度伪造工具",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aU3p6U3VFMS1WN3dzMFFUZzFFTEV3cEN6eXFRWUVtNElHZnl6UUdlTEFna0FZYkRNV0c2am9pTnFMamI2eDBvZnYyZFVtSTFfSFpjVlpYc09YZlRwbkpiYV9XUm90c3ZZcFhPaXFOREZzM2EtMnZLZms4V2VwZw?oc=5"
+          },
+          {
+            "label": "美国地方监管动态：新泽西推进立法",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnBQek9hanZvWkx4R1A1NnZ6Zjh6Q2ZhWUExcDl0c1hSa3NsOG1hcnpWNXFzR0N3TEJWSkFOMjlGLS1rLWRpVnRoS2ROQngtemd5a0ZSc3EwcDJlaVRhYWRiRmNCc3VIMnItRnFoVmlDMHczd1FTa2h5S1VPWGwtVmliYUZObTN2U3FoN2JBNTBBN3pYZ0E?oc=5"
+          }
+        ],
+        "source": "AASTOCKS.com",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XbVRxN1luRnhxQ3lBNy1wNjQtMUJOU3JEZWswNGYyc2gxUm1mX3lMQjdYOXg0Wjd1Z2dubDVuWVdHV2I3NHZkS3hwUFoyVmxDS2Q4OU1ZM1VaRzhiWWx2NVBsR1lQQ09ENlNvZTBTMA?oc=5"
+      },
+      {
         "slug": "ai-news-20260506-auto-1-89143f",
         "title": "斯坦福HAI启动重组",
         "category": "AI新闻",
@@ -4575,6 +4691,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260507-auto-1-6fe528",
+        "title": "AI内容版权实用指南",
+        "category": "AI使用教程",
+        "date": "2026-05-07",
+        "summary": "面向创作者的AI生成内容版权合规操作步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI内容版权实用指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月7日，AI生成内容已进入常态化创作阶段。对网站运营、营销、设计与自媒体团队而言，核心问题不是“能不能用AI”，而是“如何在可追溯、可证明、可下架的流程中使用AI”。以下给出一套可直接执行的版权与合规操作清单。",
+          "blocks": [
+            {
+              "heading": "第一步：先判断内容类型与权利归属",
+              "paragraphs": [
+                "先做内容分级：把产出分为“纯AI生成”“AI辅助+人工改写”“人工原创+AI润色”三类，并在项目管理工具中打标签。这个标签决定后续的署名方式、授权说明和风险等级。",
+                "建立“权利四问”检查表：素材来源是否可商用、提示词是否含受保护角色或品牌、输出是否高度近似现有作品、是否涉及个人信息。四问任一不通过，就转入人工复核，不直接发布。",
+                "对外发布时写清创作方式：例如“本文由编辑基于公开资料撰写，使用AI进行提纲整理与语句优化”。该做法有助于减少归属争议，并为后续平台申诉或下架沟通保留解释空间。"
+              ]
+            },
+            {
+              "heading": "第二步：搭建可留痕的生产与审核链路",
+              "paragraphs": [
+                "在创作环节保留三类记录：原始提示词、模型版本、人工修改记录。建议固定存档到同一文档库，命名采用“日期-项目-版本”，确保至少可追溯到具体责任人和发布时间。",
+                "在审核环节执行“双检机制”：先做相似度与敏感元素检测，再做人工语义审核。自动检测负责初筛，人工审核负责判断是否构成实质性近似、误导性表达或侵权风险。",
+                "对图片、视频、音频等高风险内容增加“发布前冷却期”6到24小时。冷却期内由非作者成员复审一次，重点看肖像、商标、字体、背景素材授权，降低误发后撤稿成本。"
+              ]
+            },
+            {
+              "heading": "第三步：发布后治理与团队执行建议",
+              "paragraphs": [
+                "上线后准备标准化应对包：包括版权声明模板、侵权投诉受理邮箱、下架SLA时限、证据提交清单。建议在网站页脚和投稿协议中同步展示，提升处理效率与透明度。",
+                "每周复盘一次风险样本：统计被投诉内容、审核拦截率、人工返工时长，形成“高风险提示词黑名单”和“可复用安全提示词模板”。用数据迭代流程，而不是只靠经验判断。",
+                "团队分工建议采用“创作-审核-法务/运营”三段式：创作负责产出与留痕，审核负责质量与近似性判断，法务或运营负责外部沟通。中小团队可由同一人兼任，但必须保留交叉复核节点。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "用AI生成内容，著作权算谁的？",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZFdJNkUtMGozcklGbUZSeGQ5cjNZR3A4bDN3RlJZS1ROODNKS2l1RVY2allTTjB4TUhGWFlzcWotQy1jVk8zcUNsQ05BMHJrZkd2TDRkRnItbjBieFJNdFBab0JwanB3?oc=5"
+          },
+          {
+            "label": "AI根本守不住秘密！不依靠大模型的输出过滤才是铜墙铁壁",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lUmhyVzFsRnR0ZHZ1aWh4M3dPMUp0TkJpSUJkSlJjd29Ha1F6V3ZHdTNtWVhITG5qSHZxQVpKdk9KbUMtV2VXanVZR1MzdXlCRmRj?oc=5"
+          },
+          {
+            "label": "司法判例为AI替代划红线，莫让劳动者独自承担“技术革命”风险",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDSzItSUo4S0lROUhXU2szaFNVWlgxakoxYWpiVG5xa0pzSGZkc3ZvcUdxMzlxUjYtcjNKQ251Mk5uWlItd09lWV9JTGdYM1QwZThDc3RoRXJkelQ1QlBlYlhDcTRxNG5sZmJMazFDYjdkdVJvZGtQNw?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZFdJNkUtMGozcklGbUZSeGQ5cjNZR3A4bDN3RlJZS1ROODNKS2l1RVY2allTTjB4TUhGWFlzcWotQy1jVk8zcUNsQ05BMHJrZkd2TDRkRnItbjBieFJNdFBab0JwanB3?oc=5"
+      },
+      {
         "slug": "ai-guide-20260506-auto-1-105060",
         "title": "Claude Code落地实操指南",
         "category": "AI使用教程",
@@ -6285,6 +6459,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260507-auto-1-47d039",
+        "title": "OpenChoreo 1.0发布",
+        "category": "开源项目",
+        "date": "2026-05-07",
+        "summary": "OpenChoreo 1.0将AI代理与GitOps整合进K8s开发流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenChoreo 1.0发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月7日（北京时间），OpenChoreo 1.0 的公开信息显示，该项目把 AI 代理能力与 GitOps 工作流结合，面向 Kubernetes 应用开发与交付场景。",
+          "blocks": [
+            {
+              "heading": "项目更新与定位",
+              "paragraphs": [
+                "本次 1.0 版本的关键信息是“AI 代理 + GitOps + Kubernetes 平台”三者合并，目标是减少团队在环境配置、发布编排和变更追踪上的重复劳动。",
+                "从开源项目语境看，这类平台化工具通常承担“开发到部署”的桥接角色，既服务应用开发者，也服务平台工程与运维协作团队。",
+                "在当前多模型、多代理的实践趋势下，OpenChoreo 的价值点主要体现在流程标准化，而不是替代业务代码开发。"
+              ]
+            },
+            {
+              "heading": "用途与适配场景",
+              "paragraphs": [
+                "对中小团队而言，OpenChoreo 1.0 适合用于统一服务交付流程，尤其是已有 Kubernetes 集群、希望把发布策略代码化管理的团队。",
+                "对平台团队而言，AI 代理能力可用于辅助流水线配置、模板生成与发布步骤建议，但最终审批和生产变更控制仍应保留人工检查。",
+                "如果组织已采用 GitOps 体系，该项目更容易融入现有仓库管理和审计流程；若尚未采用 GitOps，则需要先建立基础分支策略与环境隔离规范。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要集中在 Kubernetes 基础能力、GitOps 概念理解以及 CI/CD 实践经验。对纯应用开发者来说，前期需要平台同学提供模板与权限策略。",
+                "建议先在测试环境验证：从单服务试点开始，逐步接入配置管理、回滚策略和发布审批，避免一次性迁移全部工作负载。",
+                "在 AI 代理接入层面，应优先限定可执行范围与日志留存规则，明确哪些建议可自动执行、哪些必须人工确认，以降低错误变更风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ：OpenChoreo 1.0",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yV0JzalQ3dTYyRExhQTd0amVPY0VNNHZ4dkw2akZZNXhVbWdtMFdGSnFMeXQ3UkVzdF91ZFVyNkwxVHBSUEpPMUN0c2hlNkl3TE8wSEhKamc2RW1RckE?oc=5"
+          },
+          {
+            "label": "Mistral：Vibe远程代理更新",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hempOVFBrVDA2ejdUb3EyX18xQUFuVjZuTzZiUmMwa3ltQ2JpdXQ1eG9wTDFVX3NQQUVFNVZnWmtubDAtckgwbXdMTm85Y2pZX1ExcU1iZ1BhY1pTaHVyLXRjeERGREd3WjFZcVpR?oc=5"
+          },
+          {
+            "label": "36Kr：DeepSeek-V4 Agent案例",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9paUdGRGwzTmtuVmd0S0gxZEZYV2pGSEIxZlVSZkUwMVhiWDkxRVZtX29WaGM1UE5DbE5jSHZLelBIcElpM0d6aUFQcVJMaUNE?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yV0JzalQ3dTYyRExhQTd0amVPY0VNNHZ4dkw2akZZNXhVbWdtMFdGSnFMeXQ3UkVzdF91ZFVyNkwxVHBSUEpPMUN0c2hlNkl3TE8wSEhKamc2RW1RckE?oc=5"
+      },
+      {
+        "slug": "open-source-20260507-auto-2-27d57f",
+        "title": "MolmoAct 2开源发布",
+        "category": "开源项目",
+        "date": "2026-05-07",
+        "summary": "Ai2发布机器人基础模型MolmoAct 2，强调开源可复现与开发接入。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MolmoAct 2开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月7日，围绕机器人开源模型的讨论继续升温。公开报道显示，Ai2 已发布 MolmoAct 2，定位为面向机器人任务的开源基础模型。",
+          "blocks": [
+            {
+              "heading": "发布信息与项目价值",
+              "paragraphs": [
+                "MolmoAct 2 的核心意义在于将机器人相关感知与动作建模能力以开源形式提供，便于研究团队复现、对比与二次开发。",
+                "相较闭源接口方案，开源基础模型通常在可审查性、可定制性和长期可维护性方面更适合高校、实验室与创业团队。",
+                "在行业层面，这次更新与机器人应用生态扩展趋势一致，开发者可更快把模型能力接入仿真环境和真实硬件流程。"
+              ]
+            },
+            {
+              "heading": "可用场景与开发路径",
+              "paragraphs": [
+                "典型使用场景包括机器人操作任务原型验证、人机交互策略实验以及多模态感知到执行链路测试，尤其适合需要快速迭代策略的团队。",
+                "若配合现有机器人应用分发生态，开发者可以将模型推理能力封装为模块，再与上层任务逻辑或应用商店机制对接。",
+                "对企业用户而言，该模型更适合前期 PoC 阶段，用于评估任务成功率、延迟与硬件成本，再决定是否进入规模化部署。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "主要门槛来自三部分：机器学习工程能力、机器人中间件经验，以及数据采集与标注流程建设。缺少其中任一环节都可能影响效果。",
+                "建议先在仿真环境完成模型验证，再迁移到真实设备；同时建立离线评测集，固定评测指标，避免仅凭演示效果判断模型质量。",
+                "在部署阶段，应关注推理资源、动作安全边界和异常回退机制，确保模型输出可控，并为现场调试保留可追踪日志。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI Insider：MolmoAct 2发布",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcy1BeHNuRlc3QW9Jb2dzOVU4SVg1dHI5NzJZX05wZVJjYUx6cm1feW43YkhqSnRKWElZZWpSeHBUVVNBS090dTZPaDByNW5wdG1ESEdSRVpVb3dqOHA0eU1CdkVGNHBrQWpOdm5fT3VORzQ3M1M1MnR5ZXpkREsyV2xtaXYyOHRzbmdldU1pUlB1ektJeU1Pdzlvc1pxRjlHcG0w?oc=5"
+          },
+          {
+            "label": "VentureBeat：Reachy Mini应用商店",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOFdVLWNIcGVoQzlPQndTdXM4NEpUS0NYQ0g1bzl2czA4Um5UX0FULWVGdzdLRGpGa0t2bzdpNFBuTzI4WXNBUEhmM2hTMFZOdmRhbHpwRDl4emxSYVRxQ0UycmVMN2RvR0JZOGF2WW10QTVqU1dlWks5Rzdxb0hBX1pzdEN3X0VuLWVvSjZKV1l4UUVBVUZjbHJJNjAxLTRKMmtkcmwxQW80Ym1oeG9IcElpYjJSVk5CTGlsMWlmdmNaNDh2SW4yTzBqcGpSS3VGNWxrWlBlX1A?oc=5"
+          },
+          {
+            "label": "PR Newswire：ZAYA1-8B发布",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbGpRall5djZDQUJtY0RYWEU3ejJnaDFxaHJjRmRNdGJiX3BjNXc4WTgzWGpYa1NTTlNXWmpVU3VXY0hUa0haTGpvLW1YVG5ZMzBaaW5fWEV3WG81UlJPU1NZZUN6dUZocnBsbW1EeVBXNEtWS1RDX1d0TzNhTjR6bVphbGhvR0RPYl9hTEpUM0FtTUU2LUJuZjJUXzc5SXM1enZCam9kRjVjTXBlbHJ3VlJ2T2JuLWhndEczU05ZRHpmeGxIMFVqbWhNRGo1TVA1UW13aWVsVGdQNW1oZXNrX1k4MEh2VUw4UVhfd180aW84emNXeWJTekRaX2o4VmtsNjhBVQ?oc=5"
+          }
+        ],
+        "source": "AI Insider",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcy1BeHNuRlc3QW9Jb2dzOVU4SVg1dHI5NzJZX05wZVJjYUx6cm1feW43YkhqSnRKWElZZWpSeHBUVVNBS090dTZPaDByNW5wdG1ESEdSRVpVb3dqOHA0eU1CdkVGNHBrQWpOdm5fT3VORzQ3M1M1MnR5ZXpkREsyV2xtaXYyOHRzbmdldU1pUlB1ektJeU1Pdzlvc1pxRjlHcG0w?oc=5"
+      },
       {
         "slug": "open-source-20260506-auto-1-14239f",
         "title": "AWS开源可信远程执行",
