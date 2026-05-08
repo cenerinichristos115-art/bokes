@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260508-auto-1-9eedad",
+        "title": "三部门发布AI终端国标",
+        "category": "AI新闻",
+        "date": "2026-05-08",
+        "summary": "AI终端分级标准落地，覆盖手机电脑汽车等设备。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "三部门发布AI终端国标 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月8日，北京时间，国内人工智能终端标准化建设出现新进展。工信部等三部门联合发布人工智能终端智能化分级国家标准，围绕L1至L4四级体系，对多类终端的能力边界与评估口径进行统一。",
+          "blocks": [
+            {
+              "heading": "标准发布的核心信息",
+              "paragraphs": [
+                "本次标准强调终端智能化分级，覆盖手机、电脑、汽车等主要硬件形态，旨在形成跨行业可对照、可落地的评估框架。",
+                "L1至L4的分级思路有助于产业链在产品定义、功能宣传和技术验收环节建立共同语言，降低沟通成本与市场误解。",
+                "从政策信号看，分级国标不仅是技术文件，也为后续监管协同、产业统计与公共采购提供了更明确的基础。"
+              ]
+            },
+            {
+              "heading": "对产业与企业的直接影响",
+              "paragraphs": [
+                "终端厂商在新品研发中将更重视分级对应能力，如本地推理、场景协同与交互自主性，推动产品路线从参数竞争转向能力分层竞争。",
+                "上游芯片、模组与系统软件企业可据此优化接口标准和测试方案，减少定制化重复开发，提高供应链协作效率。",
+                "渠道和企业客户侧也将受益于统一标准，采购决策可基于等级指标进行横向比较，提升交付透明度与验收一致性。"
+              ]
+            },
+            {
+              "heading": "后续观察重点",
+              "paragraphs": [
+                "短期内需要关注标准配套细则与测试认证机制是否同步完善，尤其是跨品类终端在同一等级下的可比性问题。",
+                "中期看，行业将进入“标准驱动迭代”阶段，企业可能围绕L2向L3升级展开密集发布，带动软硬件一体化创新。",
+                "长期而言，国标落地效果将取决于执行深度与国际兼容程度，若能与全球主流框架形成映射，将增强中国AI终端的出海适配能力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "工信部等三部门联合发布人工智能终端智能化分级国家标准",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01YUpEZ2JVbkxSWVlGTHU1YWZZOGlSNHdTaUc3aWR2bkx4TndjZ1F2U2xnX1F1dWlZMDBqS3AyYWw1Ql9SV3JBeXl6cndVTHVYVEx2NDhGaWR6VDJ5UEcycEVR?oc=5"
+          },
+          {
+            "label": "人工智能终端国家标准发布：L1-L4四级划分",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04NWwyeURKUXJjTkQtYnpJbS1JNXNFNlBZS3RnMzhTXzZ3OEw3RjZNcEpscng0Q0Y5Y3BxbjVQaEJhQTJmSnBEbTFnZzNWNXZEUXF5OUJSdEY?oc=5"
+          },
+          {
+            "label": "工信部重磅发布AI终端定级L1-L4",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVnJyVTRmWUJ1SmZ2VEFWcHIyNEx3b3hOQVdaSGtuVmxrV1VxUWlCaXoyemdiMjNkX3hpNXlCb1hlTFRQZmwyTVY5SmJ6NlJZX0c0OXhmOXVwaXpiMG9kUFhRUWVRWmIycGZ6aGZMNUZPNnltbHl5dnNoem1jT0NXTl9ZRWlreTBPalBSMXA0bVZ4aXl3cFptdmJNRE5EdVd1d1VlSVlLS2xNSS12V3dVSlB6Yi04S3dZeFBuVG1qM29uOWxjay1Ec1ktdURQYld3MUdQWWdVdHpjMzN6a2c?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01YUpEZ2JVbkxSWVlGTHU1YWZZOGlSNHdTaUc3aWR2bkx4TndjZ1F2U2xnX1F1dWlZMDBqS3AyYWw1Ql9SV3JBeXl6cndVTHVYVEx2NDhGaWR6VDJ5UEcycEVR?oc=5"
+      },
+      {
+        "slug": "ai-news-20260508-auto-2-58fd68",
+        "title": "软银联手英伟达鸿海建链",
+        "category": "AI新闻",
+        "date": "2026-05-08",
+        "summary": "软银拟联合英伟达与鸿海在日本布局AI服务器制造。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "软银联手英伟达鸿海建链 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月8日，北京时间，AI算力基础设施再现供应链整合动向。财联社消息显示，软银计划与英伟达、鸿海合作，在日本构建AI服务器制造链，目标直指本地化制造与交付能力提升。",
+          "blocks": [
+            {
+              "heading": "合作框架与产业背景",
+              "paragraphs": [
+                "该合作由运营资本方、核心芯片方与制造方共同参与，覆盖从技术方案到硬件量产的关键环节，体现“算力供给链一体化”趋势。",
+                "在全球AI应用持续扩张背景下，服务器需求结构正从通用计算向高密度AI训练与推理迁移，促使各地区加快本土产能布局。",
+                "日本若形成稳定AI服务器制造链，可在区域市场中强化供应保障能力，并在企业级与政企级采购中获得更高响应速度。"
+              ]
+            },
+            {
+              "heading": "技术路线与成本变量",
+              "paragraphs": [
+                "英伟达管理层关于下一代AI基础设施需要更多光学连接的表态，反映出高带宽、低时延互连将成为新一轮服务器架构升级重点。",
+                "若产业链向光互连、先进封装和高功耗散热系统升级，制造端将面对新的工艺门槛与资本开支压力，项目执行节奏值得关注。",
+                "鸿海在规模化制造和供应协同方面具备经验，若与上游芯片平台深度耦合，有望缩短新品导入周期并改善单位交付成本。"
+              ]
+            },
+            {
+              "heading": "市场影响与观察点",
+              "paragraphs": [
+                "对云服务商和大型企业客户而言，区域化制造链有助于降低跨境物流与交付不确定性，提高扩容计划的可预测性。",
+                "对资本市场而言，该项目可被视为AI基础设施从单点技术竞争走向系统工程竞争的信号，重点不再仅是芯片性能，而是整链协同效率。",
+                "后续需重点跟踪合作各方的产线落地时间、客户签约进展及本地政策支持强度，这些因素将直接决定项目的商业化速度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "软银计划与英伟达及鸿海合作在日本打造AI服务器制造链",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hczR1VVdQNlRxVTR0VW4xNFRVNnJ1bWVFTFN3UG9xNmdmdGRsa1JJM0ZjdTlPR2gwWTgxR1RWVm9wZ2dQVmFmVg?oc=5"
+          },
+          {
+            "label": "英伟达CEO称下一代AI基础设施将更依赖光学连接",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZeDhGSFNNakV5T2djWlRPb043TUU2cEQyOWpJcnlkSF9Wem1UMlVfbHF1RFhWWVJBU2JKTTk3Rm91TV9penc5MHlBekdYcFBXQV9SZENCcjhlbGVjYVgtMVlfbl9ocUQwZFZEaGFn?oc=5"
+          },
+          {
+            "label": "OpenAI发布新一代实时语音模型",
+            "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQTBXWHBxSFdQcUFHWGVobmJBMDVScGcxNEFQRFg0dW1yNnR4UzRJUzAyVU9ZTkMzbUxZMWp1R1FEUlFmbGZUbjl6Y2xMQk0zdmRVdldhQU02M0VIRWxZNWlKWGF5M2w0OXJ0a2tPTGl3YmVfODNvTDZCLTR1dW96LWxyUmJpSGFRbTNOR3hpVnREZE0zOEhxd3NGTzYtVFVRcDhBaUdXamZQckRhQUVYbEkwVmprYjduQzZvcFZHYVRCNGJLem5mYm4xaXZLdndadEJTenI2MGtERzJuNlFIY0d6RUF3VE5jY2IwbzFoenJKT0hWZW8ydF83bVlJNUtKUEZ0WVpJRGNLOFBLTFBhSFB3bUVGRWt3QTFvV2cyYlRVMUs3eENKejdoRms5c2lhYnR2YWxEelA1ckJKRnVHc1YybVI3N2JlWTR6Nm1BTjRQcGlxeXdEdE5iZzlCQ1AzekhzMWhYbWk?oc=5"
+          }
+        ],
+        "source": "财联社",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hczR1VVdQNlRxVTR0VW4xNFRVNnJ1bWVFTFN3UG9xNmdmdGRsa1JJM0ZjdTlPR2gwWTgxR1RWVm9wZ2dQVmFmVg?oc=5"
+      },
+      {
         "slug": "ai-news-20260507-auto-1-f5c5ce",
         "title": "FIS联手Anthropic推银行AI",
         "category": "AI新闻",
@@ -4691,6 +4807,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260508-auto-1-714d6e",
+        "title": "AI代理防RCE实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-08",
+        "summary": "基于微软披露案例，给出AI代理防注入与隔离执行步骤。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI代理防RCE实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026-05-08（北京时间），微软披露了AI代理框架中“提示词可被拼接为shell命令”的风险。下面给出一套可直接落地的最小防护流程，适用于已接入工具调用、代码执行或系统命令能力的团队。",
+          "blocks": [
+            {
+              "heading": "先做资产盘点：找出高风险代理链路",
+              "paragraphs": [
+                "第一步是列清单：把所有AI代理按“是否可调用外部工具、是否可读写文件、是否可访问网络、是否可执行命令”四项打标签。任一项为“是”，就进入高风险池，优先加固。",
+                "第二步是画数据流：从用户输入到模型，再到工具参数、执行结果和回传输出，标出每个可被文本影响的节点。常见薄弱点是“模型直接拼接命令字符串”与“工具参数未做类型校验”。",
+                "第三步是建立基线用例：准备10到20条恶意提示词样本（如诱导执行系统命令、读取敏感路径、下载并执行脚本），在测试环境回放，记录是否触发越权行为，作为后续修复对照。"
+              ]
+            },
+            {
+              "heading": "落地三层防护：输入约束、执行隔离、输出审计",
+              "paragraphs": [
+                "输入约束层：禁止自由拼接命令，改为结构化参数调用。为每个工具定义白名单字段、字段类型、取值范围和默认值；遇到超出schema的参数直接拒绝，不让模型“猜测补全”。",
+                "执行隔离层：把代理执行放入最小权限沙箱。容器内关闭特权模式，限制CPU/内存/执行时长，文件系统只挂载必要目录，网络默认拒绝外连，仅放行明确域名与端口。",
+                "输出审计层：对工具调用与返回做全量日志，至少记录请求ID、提示词摘要、工具名、参数哈希、退出码和错误栈。再加规则告警：出现shell关键字、敏感路径、异常子进程时立即中断会话。"
+              ]
+            },
+            {
+              "heading": "7天实施计划：从修复到持续运营",
+              "paragraphs": [
+                "第1-2天：完成高风险代理盘点和数据流梳理；第3天：为核心工具补齐schema校验与白名单；第4天：将执行迁移到隔离环境并加资源配额；第5天：接入日志与告警；第6-7天：用恶意样本复测并出修复报告。",
+                "上线策略建议采用灰度：先让10%内部流量走新策略，观察误拦截率和失败率，再逐步扩大。对业务方公开“可用参数清单”和“拒绝原因码”，减少排障成本。",
+                "长期治理建议每月做一次红队演练，每季度更新恶意提示词样本库，并把代理能力登记进AI资产台账（可参考AI-BOM思路）。这样可在新增工具或改版时快速评估RCE暴露面。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "微软：提示词变成shell的RCE漏洞",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3p1SFVidnhmS2lIcGNTbUEwVmxRVlUwOHpsWlZySmhObzE4MlMyN3NWWjh5MzR2cVNvRGlERVhlS1o3ZVg4b1JnYTZXanA4YjZPZ3JwNlR3VFF6Y2VSaU9FTzVXVlNaczlqZWNYUlFFZXQ2SHdYcTZPOVFscEd6Q3diNlQtVnZCRlJnY2JreHRaUTctOVY0Wll0SlZLYy1zallsOVc3NVNNSjFvUGd2aHlfZjV2X1pvRXRJ?oc=5"
+          },
+          {
+            "label": "OpenAI WebSocket执行模式与低延迟工作流",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSTYtRHQ4cTloTWVJaEoyWG1XZGI3NDBRSnZ1OWxTbG5OcHRPWXdDN1djQk00X0xob1MwdjZQTlNNckxCZzJxejQ5N1h2czdMVGVxYTZ6cnExMFZTTjlFTndUWnhyckdBMzhNTEswMVFONjgy?oc=5"
+          },
+          {
+            "label": "AI-BOM与影子AI安全治理",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlRRVWNhREVpU2E0bkg0TzloRGJQNXo1U193MFllYk9MNllOM2VzYXR3eUZ5V0xidlRUVW5Nc3hWZG9oaUJfajI4OUJtc2VaWFg0TVpadWxYeWFFc3h4ZklRb1g0dnBYYVJGWWVLY2NzMV9zM3A3SktHbTl4bklCNEVYQ2ZTSjJk?oc=5"
+          }
+        ],
+        "source": "Microsoft",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3p1SFVidnhmS2lIcGNTbUEwVmxRVlUwOHpsWlZySmhObzE4MlMyN3NWWjh5MzR2cVNvRGlERVhlS1o3ZVg4b1JnYTZXanA4YjZPZ3JwNlR3VFF6Y2VSaU9FTzVXVlNaczlqZWNYUlFFZXQ2SHdYcTZPOVFscEd6Q3diNlQtVnZCRlJnY2JreHRaUTctOVY0Wll0SlZLYy1zallsOVc3NVNNSjFvUGd2aHlfZjV2X1pvRXRJ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260507-auto-1-6fe528",
         "title": "AI内容版权实用指南",
         "category": "AI使用教程",
@@ -6459,6 +6633,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260508-auto-1-357df6",
+        "title": "TokenSpeed发布推理引擎",
+        "category": "开源项目",
+        "date": "2026-05-08",
+        "summary": "LightSeek开源LLM推理引擎，面向Agent负载。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "TokenSpeed发布推理引擎 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月8日，LightSeek Foundation对外发布开源LLM推理引擎TokenSpeed，定位是为Agentic工作负载提供高吞吐、可落地的推理底座。",
+          "blocks": [
+            {
+              "heading": "项目更新与定位",
+              "paragraphs": [
+                "从公开信息看，TokenSpeed强调在TensorRT-LLM级别性能目标下，兼顾开源可用性与工程部署效率，适合作为企业或团队自建推理服务的候选组件。",
+                "该项目关注的核心场景是多轮工具调用、任务编排和并发请求等Agent负载，而不仅是单轮聊天推理，这意味着其优化方向更贴近生产流量特征。",
+                "对开发者而言，这次发布的价值在于提供一个可审计、可二次开发的推理引擎选择，便于根据模型、硬件和业务SLA做定制。"
+              ]
+            },
+            {
+              "heading": "用途与适配场景",
+              "paragraphs": [
+                "在用途上，TokenSpeed可用于搭建内部模型网关、在线推理API或批量任务推理服务，尤其适合对延迟与吞吐都有要求的团队。",
+                "如果业务包含Agent调用检索、执行脚本或连接外部系统，推理引擎的调度和内存管理能力会直接影响稳定性，TokenSpeed的发布正面向这类问题。",
+                "与当前行业趋势结合看，开源推理层正在从单纯追求峰值速度，转向强调可维护性、成本效率和可观测性，项目定位与这一方向一致。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要体现在三点：需要具备GPU推理环境、理解模型部署参数，以及有基础的服务化与监控能力；对仅有应用开发经验的团队，初期可能需要平台工程支持。",
+                "建议先用小规模流量做基准测试，重点比较首Token延迟、稳定吞吐和显存占用，再决定是否进入主链路；同时保留回滚方案以降低迁移风险。",
+                "在开源AI基础设施快速迭代背景下，团队可将TokenSpeed视为候选组件之一，与现有引擎并行评估，避免一次性重构带来的交付压力。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：TokenSpeed发布消息",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTm80OWR0MTJVM0JZS2pXTXJiSGt1amlIT19XYVhuNnNZNi1UZGY5Mjl5WUxaNXhWaVlvMmtROWF4c3ltbmVCMVJyU3RwdUpPNmd2V0M4UF9mNVhNQy03Y0pHbXQzTGRDZWZ1alN1NXNPTU5EOGdScndfYWdnVU5xOXllQWdGZjlIdkFkMWdBc2JDRkZrbk5hLU9BYzBMN0ExcnA4RkZraVNVMFNFRUw1OWN1WlN6TWtkVTF6cVVZNDBGUlVLaXp6ajVLVmFfSjF2VndIb3hBMGNvVTVaUE9CWTZlMU5NUWdxWk5BQ3RBRlE0WUY3OVBubHdSQmUwN2JiaUVSeHlSeU1VSEdj?oc=5"
+          },
+          {
+            "label": "NVIDIA开发者：量化实践背景",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPekZFZXgtUURpQkpnNGQ0QUxTUUN5NWtFRm9sYVhjV2x5TlVOQUdVd1JzdGRGYjZ5a1NpYWlCU0FxdjlPV0J2YzJ4Z2lMM1BNUHhaWnJMUkM4aGZiV1ZvTmJEUTJ0MHJlWVFRVmNfTnBUVHlpZTV4cVNIQ3J2NjZvMXROZWwzdUpjYkx6MWhHdTFYanAzaTBRWE9BSzZFWXdXbS1hSV9rQnRNYkc5THc?oc=5"
+          },
+          {
+            "label": "VentureBeat：高效开源模型趋势",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOTm80OWR0MTJVM0JZS2pXTXJiSGt1amlIT19XYVhuNnNZNi1UZGY5Mjl5WUxaNXhWaVlvMmtROWF4c3ltbmVCMVJyU3RwdUpPNmd2V0M4UF9mNVhNQy03Y0pHbXQzTGRDZWZ1alN1NXNPTU5EOGdScndfYWdnVU5xOXllQWdGZjlIdkFkMWdBc2JDRkZrbk5hLU9BYzBMN0ExcnA4RkZraVNVMFNFRUw1OWN1WlN6TWtkVTF6cVVZNDBGUlVLaXp6ajVLVmFfSjF2VndIb3hBMGNvVTVaUE9CWTZlMU5NUWdxWk5BQ3RBRlE0WUY3OVBubHdSQmUwN2JiaUVSeHlSeU1VSEdj?oc=5"
+      },
+      {
+        "slug": "open-source-20260508-auto-2-64f639",
+        "title": "Anthropic发布Glasswing",
+        "category": "开源项目",
+        "date": "2026-05-08",
+        "summary": "Project Glasswing聚焦AI时代关键软件供应链安全。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic发布Glasswing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年5月8日，Anthropic披露Project Glasswing，重点讨论AI时代关键软件的安全保障路径，话题集中在开源生态与供应链防护。",
+          "blocks": [
+            {
+              "heading": "发布背景与问题定义",
+              "paragraphs": [
+                "近期多起与AI开发工具相关的安全事件，显示模型与代理系统正把传统供应链风险放大到更快迭代周期中，安全治理需求明显上升。",
+                "Glasswing提出的核心问题并非单个漏洞修复，而是如何在依赖开源组件、自动化生成代码和持续部署并行发生时，维持可验证的安全边界。",
+                "对开源项目维护者和企业用户而言，这类框架化思路有助于把“事后补丁”前移为“开发期控制”，减少上线后暴露面。"
+              ]
+            },
+            {
+              "heading": "项目用途与实践价值",
+              "paragraphs": [
+                "从用途看，Glasswing可被理解为面向关键软件的安全实践集合，适用于AI应用链路中的依赖管理、代码审查、发布校验和运行期监测。",
+                "它的直接价值在于提供统一讨论框架，让安全团队、平台团队与模型应用团队在同一套风险语言下协作，而不是各自独立处置。",
+                "对于正在建设AI产品线的组织，这类项目可作为内部基线参考，帮助明确哪些环节必须自动化，哪些环节必须人工复核。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地路径",
+              "paragraphs": [
+                "上手门槛主要不是算法能力，而是工程治理成熟度，包括SBOM管理、CI/CD策略、权限分层和告警响应流程，这些前置条件决定落地效果。",
+                "建议团队先从高风险仓库和关键服务开始试点，逐步引入依赖锁定、签名验证与安全测试，再扩展到全组织范围，避免一次性改造带来阻塞。",
+                "在2026年的发布语境下，开源AI项目的竞争焦点正从功能数量转向可控性和可信度，Glasswing对应的是后者的系统化建设。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anthropic：Project Glasswing公告",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWN4NWYyb2xhTjFrMnZLazJXbzU2Z1YxRExlLUpaeTRfNTlLUUhXOGx6ZkZOVE5DRFdnS3BZU0pBNms2cFQ0Q3FEOExKaFNHQkJjTmpVZnVQaV80MWJpTG95NlNpQ3RSMWFRUXFLTnhaeXh1SlByTzA2R1hnSmJpN1VaX2s?oc=5"
+          },
+          {
+            "label": "51CTO：Gemini CLI漏洞事件",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HMUtlaEhsLVYtUWNDcW1IcDI1ZDYzeU1BRC1LMzE1VGNGajEtaWxITjlZWlJkUXFvbG9SYkdrZ29pTkRaUVY1UFBady1iTXlRa21V?oc=5"
+          },
+          {
+            "label": "Help Net Security：AI编码工具风险",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN28zN3VlM2N0OVRobmItUTZqMnQwTHkxM3VpRVZoZk5nSTRwX0tPWjFpUURmN2FGSy1uSXRuYkVjZ09wcXJNc2N3UTdMclhKLWU2MWJEdHBHQnBJRVg4Wkk5X2dBWmJCZ25sZ0xCTTc5dThtRTd5S21GYmpOd2hXOTBBODZLZlpnaXZnajQtck5EZ3Uw?oc=5"
+          }
+        ],
+        "source": "Anthropic",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWN4NWYyb2xhTjFrMnZLazJXbzU2Z1YxRExlLUpaeTRfNTlLUUhXOGx6ZkZOVE5DRFdnS3BZU0pBNms2cFQ0Q3FEOExKaFNHQkJjTmpVZnVQaV80MWJpTG95NlNpQ3RSMWFRUXFLTnhaeXh1SlByTzA2R1hnSmJpN1VaX2s?oc=5"
+      },
       {
         "slug": "open-source-20260507-auto-1-47d039",
         "title": "OpenChoreo 1.0发布",
