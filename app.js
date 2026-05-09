@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260509-auto-1-7a5c0d",
+        "title": "四川修订AI产业政策",
+        "category": "AI新闻",
+        "date": "2026-05-09",
+        "summary": "四川扩容算力券并启动Token券，强化产业链支持。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "四川修订AI产业政策 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年5月9日，四川发布人工智能产业链政策修订信息，提出扩容“算力券”并启动“词元（Token）券”，政策重心从单一算力补贴向“算力+模型调用”协同支持转变。",
+          "blocks": [
+            {
+              "heading": "政策更新的核心变化",
+              "paragraphs": [
+                "根据公开信息，四川此次修订围绕产业链发展若干政策展开，延续财政工具对企业创新活动的支持逻辑，同时提高政策覆盖范围和使用场景。",
+                "“算力券”扩容意味着更多企业有机会降低训练与推理成本，尤其是中小团队在模型迭代初期对计算资源敏感，补贴扩面可直接改善试错条件。",
+                "“词元券”是本次新增抓手，主要面向大模型调用和应用开发环节，反映地方政策正在关注应用层成本结构，而不仅限于底层算力投入。"
+              ]
+            },
+            {
+              "heading": "对产业链的实际影响",
+              "paragraphs": [
+                "从产业端看，双券并行有助于覆盖“模型开发—应用部署—商业运营”的连续环节，降低企业在不同阶段的现金流压力。",
+                "对平台型企业而言，政策可能提升本地API调用和模型服务需求；对垂直行业公司而言，词元成本下降将提高智能客服、内容处理、工业质检等场景的可行性。",
+                "在区域竞争层面，四川通过政策工具细化有望增强对项目和人才的吸引力，推动形成以应用落地为导向的AI产业集聚。"
+              ]
+            },
+            {
+              "heading": "与全国政策趋势的衔接",
+              "paragraphs": [
+                "近期多部门发布人工智能与能源双向赋能行动方案，显示国家层面正推进AI与实体行业深度结合，地方政策也在同步跟进。",
+                "同时，终端智能化分级相关国家标准发布，为产品能力评价和市场沟通提供了统一参照，能够降低产业协同中的认知成本。",
+                "在此背景下，四川新政可被视为地方执行层的具体落地动作。后续观察重点将是券类发放规模、适用门槛以及企业实际使用效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "四川修订AI产业链政策",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUxseV9vazZ1QzdXREo3U0IxOWhYSF80NVpGc0ItR1V0dHFRemxSNnY1R3dnem12RmxSbUtEcUFfZDdsUFozZkp2ejUtSmlHR3NWNGp3bEFLa2FEOHZCQzJIa3p5RnFTV1J0SWlkYnlheHBuNVU5SWFnanJFZHQtN0ItRGY5ZkhIS1pZbkpzcnpWX1NRYmR1WTBsTk5TMC02UUxXMWNMN2huQ2RVUkU4Y01yVms2VTBMY3pkYU01d2xfUEZnamxaOXNOYlJwUkhQa005cENhYw?oc=5"
+          },
+          {
+            "label": "国家发改委等印发AI与能源行动方案",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nTzhLWGZ4TTVVcHN5ek5jVXpDODNla3B2ZmdfRExZdlZzTWhtOG1SckVPcm9qcFBkYWRnb2hndDNyQVNHMVBzUTRzdG4xaWJ5YWpXZVVmd1o1bDhDcW5zS0Q2SEVzOTVNeW5MYkJaWURrU3c?oc=5"
+          },
+          {
+            "label": "人工智能终端智能化分级国标发布",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwblhXNmk5Y0tKMlpTOXBCVXMtLUkzZy1IOFFDX0p6S3ROM2d1UEtoTzZ0bVR3VUVaRmp0Y1Q3QzYtZ1BwTFBSS1Z4ZVIyUQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVUxseV9vazZ1QzdXREo3U0IxOWhYSF80NVpGc0ItR1V0dHFRemxSNnY1R3dnem12RmxSbUtEcUFfZDdsUFozZkp2ejUtSmlHR3NWNGp3bEFLa2FEOHZCQzJIa3p5RnFTV1J0SWlkYnlheHBuNVU5SWFnanJFZHQtN0ItRGY5ZkhIS1pZbkpzcnpWX1NRYmR1WTBsTk5TMC02UUxXMWNMN2huQ2RVUkU4Y01yVms2VTBMY3pkYU01d2xfUEZnamxaOXNOYlJwUkhQa005cENhYw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260509-auto-2-728d2c",
+        "title": "深圳具身智能港建设提速",
+        "category": "AI新闻",
+        "date": "2026-05-09",
+        "summary": "深圳发布AI产业新地标进展，聚焦具身智能生态集聚。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "深圳具身智能港建设提速 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年5月9日，深圳披露“具身智能港”建设进展。作为本地AI产业新地标，该项目面向具身智能相关企业、技术与场景资源，释放出持续推进产业基础设施建设的信号。",
+          "blocks": [
+            {
+              "heading": "项目定位与建设意义",
+              "paragraphs": [
+                "具身智能港被定位为深圳AI产业的重要载体，目标是承接机器人、感知控制、模型训练和系统集成等方向的协同发展需求。",
+                "与传统产业园相比，具身智能项目更依赖跨学科能力，包括算法、硬件、制造与场景运营，集中化平台有利于缩短技术到产品的转化路径。",
+                "对城市层面而言，该类地标项目不仅是空间建设，更是围绕新兴产业进行资源配置和治理创新的一部分。"
+              ]
+            },
+            {
+              "heading": "对企业与生态的带动",
+              "paragraphs": [
+                "在企业侧，园区化发展可提升上下游协作效率，帮助初创团队更快获取测试环境、供应链支持与产业客户资源。",
+                "在应用侧，具身智能通常需要真实场景反复迭代，若项目能同步导入制造、物流、城市服务等试点，将提升商业化验证速度。",
+                "在人才侧，集聚效应有望吸引算法工程、机电系统和产品运营等复合型人才，缓解企业在早期扩张中的关键岗位压力。"
+              ]
+            },
+            {
+              "heading": "与科研及工业落地的联动",
+              "paragraphs": [
+                "近期学术与产业动态显示，国内机构在AI前沿研究持续活跃，相关成果为具身智能底层模型和交互能力提供技术储备。",
+                "与此同时，工业AI规模化落地成为行业共识，具身智能若要形成稳定增长，需要在成本、可靠性和运维体系上达到工程化标准。",
+                "从2026年时间节点看，深圳此类基础平台建设有望成为连接“研究突破”与“产业部署”的中间层，后续可重点关注入驻企业结构与示范项目进展。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "深圳AI产业新地标具身智能港",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Cekl1cE1KelBWLXZFUnNZX09iUDV6UnY0RWx5Yy0tV3dmUnJpM0JrekdQay1hRU4wT21OcF9lNXFwZVNvelBFWV9ZOUZJbUFrX0NRN2JPcDA4cFF0cHFvVGtEUk9RV0pTSnk4eWhQMG5FYWxWc2Vr?oc=5"
+          },
+          {
+            "label": "浙大与阿里论文入选ACL 2026",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Bb0hNa0p2eUNycW9jTTdaTjJqMFU3eHhjWkxqYi1FVzA4cWwyUnpGOU51dFAtZG1LZmFIeFRRZ0gtTkRfZ3BQRg?oc=5"
+          },
+          {
+            "label": "工业AI规模化落地相关观点",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZjYtOXVYZTdJeFVfellOaGp4MmVLbl9WX1ZkMjJpeVpiMnVBNzA3N0VtNWh1SkNuSFNSUFpRVnZiazNaV1pHbks3NHhiQ2RBYXhDeGQ5Ti1oQ2JpVEpNWEJTajhiYVZVME1qTEUyc2xQd0xaUW5TMVdyVDJpOEJDWGo5TFJTLWlPM1hrR0ZyM09PSU9vd1EwdUtaZ2RoUmpoQ1NVa0laNEo1SEFJQm5zQl9KX3JleTVOcElGRUx4SnM2MnFmZTVUamV6WmFuejZnajNR?oc=5"
+          }
+        ],
+        "source": "sz.gov.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Cekl1cE1KelBWLXZFUnNZX09iUDV6UnY0RWx5Yy0tV3dmUnJpM0JrekdQay1hRU4wT21OcF9lNXFwZVNvelBFWV9ZOUZJbUFrX0NRN2JPcDA4cFF0cHFvVGtEUk9RV0pTSnk4eWhQMG5FYWxWc2Vr?oc=5"
+      },
+      {
         "slug": "ai-news-20260508-auto-1-9eedad",
         "title": "三部门发布AI终端国标",
         "category": "AI新闻",
@@ -4807,6 +4923,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260509-auto-1-be59dc",
+        "title": "DeepSeek知识库搭建实操",
+        "category": "AI使用教程",
+        "date": "2026-05-09",
+        "summary": "基于DeepSeek V4与Obsidian的个人知识库落地步骤。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek知识库搭建实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年5月9日，围绕“本地知识库+大模型辅助写作”的实践需求持续增加。本文基于公开教程信息，整理一套可直接执行的个人知识库搭建流程，核心组合为 DeepSeek V4、Claude Code 与 Obsidian，目标是实现“资料归档、问答检索、内容产出”三步闭环。",
+          "blocks": [
+            {
+              "heading": "第一步：完成环境与目录初始化",
+              "paragraphs": [
+                "先确定知识库边界，再建库。建议先列出3类内容：工作文档、学习笔记、项目资料。随后在 Obsidian 新建 Vault，并按“00_Inbox、10_Projects、20_Knowledge、30_Archive”建立一级目录，确保后续自动归档有固定位置。",
+                "在工具连接上，优先保证最小可用链路：Obsidian负责存储与双链，DeepSeek V4负责语义理解与总结，Claude Code负责批量脚本与格式化处理。不要一开始引入过多插件，先只保留标签、反向链接、全文搜索3项基础能力。",
+                "初始化命名规范时，统一采用“日期-主题-版本”格式，例如“2026-05-09-面试题库-v1”。并约定每条笔记必须有3个元数据字段：来源、时间、状态。这样在后续做筛选、复盘、自动化脚本处理时，检索成本会明显降低。"
+              ]
+            },
+            {
+              "heading": "第二步：设计可复用的AI处理流水线",
+              "paragraphs": [
+                "把信息处理拆成固定四环节：采集、清洗、摘要、入库。采集阶段仅做原文保存；清洗阶段删除广告语和重复段；摘要阶段让模型输出“结论、依据、待验证点”；入库阶段再写入 Obsidian 对应目录。每个环节单独保存结果，便于回溯。",
+                "提示词建议模板化。可设置一个通用提示：先要求模型提取事实，再标记不确定内容，最后生成可执行行动项。行动项应包含“动作+对象+截止时间”，例如“本周内补齐项目A接口文档并关联到10_Projects”。这样可直接转为待办。",
+                "为避免模型输出漂移，给每次处理设置约束：字数上限、输出字段固定、不得新增未提供事实。若同一材料需要多轮处理，保留首轮原摘要并只允许增量修改。该做法能减少版本混乱，适合长期维护知识库。"
+              ]
+            },
+            {
+              "heading": "第三步：建立周度维护与质量校验机制",
+              "paragraphs": [
+                "建议每周固定一次“库内巡检”，检查三项指标：未分类笔记数量、失效链接数量、重复主题数量。未分类超过20条时优先清理 Inbox；失效链接统一移入待修复清单；重复主题通过合并笔记并保留变更记录解决。",
+                "每周输出一页复盘卡片，结构可固定为“本周新增、最高频问题、下周优化”。其中“最高频问题”可由模型基于检索日志自动生成。通过连续4周复盘，通常能识别最常用知识路径，进而优化目录与标签体系。",
+                "实操中最常见问题是过度追求复杂流程。建议遵循“先可用、再自动化”的顺序：先保证能稳定写入与检索，再逐步加入脚本批处理和多模型协作。对于个人用户，能稳定坚持3个月的简化流程，价值通常高于一次性堆叠功能。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：DeepSeek V4 + Claude Code + Obsidian教程",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DOHJPM3ktd3FWSGJKQjJGclkzMUhPU3lyZkNEdFNQb3ozZmxPSEU4cExna0VlVmlnUERNY0RocWgtRnZlTGllTE91YUZvczZ4RVAw?oc=5"
+          },
+          {
+            "label": "HackerNoon：LangChain学习文章汇总",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNGJ5OEVzdnZnR1Jqa3ZQZWQ3UzJqYmlCeVV6SmFjeXNTYkdpblh6ZlRHZE5CVkp2LUZtNl9lVEtBSXg5UHJLUmRLcFBFZ2xJYTRKOGZlXzBWNDVwaExSZ3lRZ0djV2p4ZjFMNExB?oc=5"
+          },
+          {
+            "label": "eWeek：Vibe Coding工具与提示词清单",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zczBSb1lRWmNvcE9TUkZScXdYZVJNb2JsVk5uUzBsQjdiRXB1b3lZZW9TQ0lWdXVZM25uc241cFV2WGtfU1ZiaXZUNGgwNkE2QzVPMTUtci1QVkFkVDJvdw?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DOHJPM3ktd3FWSGJKQjJGclkzMUhPU3lyZkNEdFNQb3ozZmxPSEU4cExna0VlVmlnUERNY0RocWgtRnZlTGllTE91YUZvczZ4RVAw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260508-auto-1-714d6e",
         "title": "AI代理防RCE实操指南",
         "category": "AI使用教程",
@@ -6633,6 +6807,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260509-auto-1-d98415",
+        "title": "GitHub发布Spec-Kit",
+        "category": "开源项目",
+        "date": "2026-05-09",
+        "summary": "面向AI代理的规范驱动开发开源工具包发布",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub发布Spec-Kit 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月9日，GitHub Spec-Kit以开源工具包形式进入开发者视野，核心定位是把“先写规范、再让AI代理编码”的流程标准化，减少需求到代码之间的信息偏差。",
+          "blocks": [
+            {
+              "heading": "项目定位与解决的问题",
+              "paragraphs": [
+                "Spec-Kit强调规格驱动开发，即先明确需求边界、接口约束和验收条件，再由AI编码代理执行实现步骤。这一思路适合多人协作或需求频繁迭代的项目。",
+                "在传统AI辅助编码中，提示词常常替代了正式设计文档，导致上下文不一致。Spec-Kit尝试将规格文档结构化，让代理在可追踪约束下生成代码。",
+                "从团队管理角度看，该工具更像是“开发流程层”的开源补充，而非单一模型或IDE插件，重点在于过程可复用与交付可审计。"
+              ]
+            },
+            {
+              "heading": "关键更新价值与适用场景",
+              "paragraphs": [
+                "本次发布的关键价值在于把AI代理与工程规范连接起来，降低“生成快但返工多”的风险，尤其适用于API开发、内部平台和中大型业务系统。",
+                "对于需要合规记录的团队，规范驱动流程有助于保留决策依据，便于代码评审和后续维护，不依赖个人记忆或零散聊天记录。",
+                "对于个人开发者，Spec-Kit也可作为项目模板使用，在功能拆解、任务分配、测试对齐方面提供可执行骨架。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "上手门槛主要在方法而非环境：开发者需要先接受“先规格、后编码”的节奏，并把需求写成可被代理消费的结构化内容。",
+                "建议从小范围模块试点，例如先在一个服务接口或单个功能分支使用Spec-Kit，验证其对需求澄清和代码一致性的提升，再逐步扩展到主干流程。",
+                "若团队已有CI/CD与评审规范，可把Spec-Kit输出与现有检查环节结合，形成从规格、实现到测试的连续链路，减少发布前的沟通成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTI2U1YxcWE2OXhQUWxCNWlWR0ZOcHRqQlBtV1BmeUNodVFMZDZ3eHJqWG1tY3VhTDN4azhXby1aam1PWm8xd3pOY1BZU1Z1RTYwVEZuTDFVdERlTGlHNk8tNk5BQ2tPY1JvbkxjUTdxSU5GNDRVbG8wLTBDcFBUWEF4YTVJZnRKd1JqS1J1Tk1lQXliRllSeTlNVkNDQjNvM2tOSm5iMjNFN25lVEx6TUJPbVZlUUNTRVlpazN6RXpBU005MWZqUmZqaWViWTQ?oc=5"
+          },
+          {
+            "label": "51CTO：Google 开源了一个14900 Star 项目，让 AI Agent 碰数据库不再是定时炸弹 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HNDhjb3JsZmtpSzBaYk1BWnViY3JxOWhWS3ZPZzJuZ3JTM3c3Um1makxnTkVkUE5uVE14MFZfaVV1dmdqVTg0NTJZSTlKRVdrREE4?oc=5"
+          },
+          {
+            "label": "디지털투데이：Meta、Google加码个人AI代理，科技巨头竞争升温 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0xvRTBtTzhnMHNQdjB1Q3RlQ0dTcnliMnczcmo0UWhyNVRQdmdDVE01VXFFam5LVDNtTERBR3pFU29BUVVKVXFpa3N1R01iOEpxVGhrclFFQ3NtZGpiNlFJVFdtNDFzeTZ0M1lWdW9NV1ZNSGNnM3E1SkJYMFVMZjFobWRma0M1YlZWYllkUnZJNHFCRE1nVW5FUkdEaWhRVmJycWI5RmVKWkVkTHduVDhtS2pjZw?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTI2U1YxcWE2OXhQUWxCNWlWR0ZOcHRqQlBtV1BmeUNodVFMZDZ3eHJqWG1tY3VhTDN4azhXby1aam1PWm8xd3pOY1BZU1Z1RTYwVEZuTDFVdERlTGlHNk8tNk5BQ2tPY1JvbkxjUTdxSU5GNDRVbG8wLTBDcFBUWEF4YTVJZnRKd1JqS1J1Tk1lQXliRllSeTlNVkNDQjNvM2tOSm5iMjNFN25lVEx6TUJPbVZlUUNTRVlpazN6RXpBU005MWZqUmZqaWViWTQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260509-auto-2-0f107d",
+        "title": "Google开源AI数据库代理项目",
+        "category": "开源项目",
+        "date": "2026-05-09",
+        "summary": "聚焦AI Agent安全访问数据库的开源方案更新",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google开源AI数据库代理项目 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月9日，一项由Google开源、已获得较高社区关注度的AI Agent数据库交互项目受到讨论，核心目标是让智能体访问数据库时更可控、更安全。",
+          "blocks": [
+            {
+              "heading": "项目背景与核心能力",
+              "paragraphs": [
+                "AI代理直接操作数据库时，常见风险包括越权查询、误写入和高成本SQL执行。该开源项目聚焦在访问治理层，试图把自然语言请求转化为受限操作。",
+                "从报道信息看，项目已在社区积累较多关注，说明其问题定义具有普遍性，尤其对应“让Agent可用但不失控”的落地诉求。",
+                "其价值不在替代数据库本身，而在于补齐AI应用和数据系统之间的安全中间层，适合作为企业智能体系统的一部分。"
+              ]
+            },
+            {
+              "heading": "关键更新意义与应用方向",
+              "paragraphs": [
+                "这一类开源更新的关键意义是把数据库交互从“提示词驱动”提升到“策略驱动”，即让权限、语句范围和执行规则可配置、可审计。",
+                "实际应用上，可用于客服知识检索、运营分析问答、内部BI助手等场景，在提升交互效率的同时控制数据暴露面。",
+                "对于需要多租户或分级权限的组织，这类方案能与现有身份认证体系联动，减少AI代理绕过既有治理机制的可能性。"
+              ]
+            },
+            {
+              "heading": "上手门槛与部署建议",
+              "paragraphs": [
+                "上手门槛主要体现在数据库治理基础：团队需要先梳理角色权限、敏感字段和可执行操作边界，再接入Agent访问链路。",
+                "建议先从只读场景试运行，优先开放查询类能力，并记录SQL生成与执行日志，逐步评估误判率与风险敞口后再考虑写操作。",
+                "在工程实施上，应将该项目与审计、告警和回滚机制配套部署，形成最小权限与异常可追踪闭环，以降低生产环境试错成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HNDhjb3JsZmtpSzBaYk1BWnViY3JxOWhWS3ZPZzJuZ3JTM3c3Um1makxnTkVkUE5uVE14MFZfaVV1dmdqVTg0NTJZSTlKRVdrREE4?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Meet GitHub Spec-Kit: An Open Source Toolkit for Spec-Driven Developme",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTI2U1YxcWE2OXhQUWxCNWlWR0ZOcHRqQlBtV1BmeUNodVFMZDZ3eHJqWG1tY3VhTDN4azhXby1aam1PWm8xd3pOY1BZU1Z1RTYwVEZuTDFVdERlTGlHNk8tNk5BQ2tPY1JvbkxjUTdxSU5GNDRVbG8wLTBDcFBUWEF4YTVJZnRKd1JqS1J1Tk1lQXliRllSeTlNVkNDQjNvM2tOSm5iMjNFN25lVEx6TUJPbVZlUUNTRVlpazN6RXpBU005MWZqUmZqaWViWTQ?oc=5"
+          },
+          {
+            "label": "디지털투데이：Meta、Google加码个人AI代理，科技巨头竞争升温 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0xvRTBtTzhnMHNQdjB1Q3RlQ0dTcnliMnczcmo0UWhyNVRQdmdDVE01VXFFam5LVDNtTERBR3pFU29BUVVKVXFpa3N1R01iOEpxVGhrclFFQ3NtZGpiNlFJVFdtNDFzeTZ0M1lWdW9NV1ZNSGNnM3E1SkJYMFVMZjFobWRma0M1YlZWYllkUnZJNHFCRE1nVW5FUkdEaWhRVmJycWI5RmVKWkVkTHduVDhtS2pjZw?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HNDhjb3JsZmtpSzBaYk1BWnViY3JxOWhWS3ZPZzJuZ3JTM3c3Um1makxnTkVkUE5uVE14MFZfaVV1dmdqVTg0NTJZSTlKRVdrREE4?oc=5"
+      },
       {
         "slug": "open-source-20260508-auto-1-357df6",
         "title": "TokenSpeed发布推理引擎",

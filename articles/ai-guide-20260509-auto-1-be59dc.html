@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>DeepSeek知识库搭建实操 | 寂川日报</title>
+<meta name="description" content="基于DeepSeek V4与Obsidian的个人知识库落地步骤。" />
+<meta name="keywords" content="AI新闻,AI使用教程,51CTO" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260509-auto-1-be59dc.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DeepSeek知识库搭建实操" />
+<meta property="og:description" content="基于DeepSeek V4与Obsidian的个人知识库落地步骤。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260509-auto-1-be59dc.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-09" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="DeepSeek知识库搭建实操" />
+<meta name="twitter:description" content="基于DeepSeek V4与Obsidian的个人知识库落地步骤。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"DeepSeek知识库搭建实操","datePublished":"2026-05-09","dateModified":"2026-05-09","description":"基于DeepSeek V4与Obsidian的个人知识库落地步骤。","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260509-auto-1-be59dc.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260509-auto-1-be59dc.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">DeepSeek知识库搭建实操</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-09">2026-05-09</time> | 文章日期：<time datetime="2026-05-09">2026-05-09</time> | 来源：51CTO</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="DeepSeek知识库搭建实操 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">第一步：完成环境与目录初始化</a></li>
+<li><a href="#section-2">第二步：设计可复用的AI处理流水线</a></li>
+<li><a href="#section-3">第三步：建立周度维护与质量校验机制</a></li>
+</ul>
+</nav>
+<p class="detail-intro">截至北京时间2026年5月9日，围绕“本地知识库+大模型辅助写作”的实践需求持续增加。本文基于公开教程信息，整理一套可直接执行的个人知识库搭建流程，核心组合为 DeepSeek V4、Claude Code 与 Obsidian，目标是实现“资料归档、问答检索、内容产出”三步闭环。</p>
+<section>
+<h2 id="section-1">第一步：完成环境与目录初始化</h2>
+<p>先确定知识库边界，再建库。建议先列出3类内容：工作文档、学习笔记、项目资料。随后在 Obsidian 新建 Vault，并按“00_Inbox、10_Projects、20_Knowledge、30_Archive”建立一级目录，确保后续自动归档有固定位置。</p>
+<p>在工具连接上，优先保证最小可用链路：Obsidian负责存储与双链，DeepSeek V4负责语义理解与总结，Claude Code负责批量脚本与格式化处理。不要一开始引入过多插件，先只保留标签、反向链接、全文搜索3项基础能力。</p>
+<p>初始化命名规范时，统一采用“日期-主题-版本”格式，例如“2026-05-09-面试题库-v1”。并约定每条笔记必须有3个元数据字段：来源、时间、状态。这样在后续做筛选、复盘、自动化脚本处理时，检索成本会明显降低。</p>
+</section>
+<section>
+<h2 id="section-2">第二步：设计可复用的AI处理流水线</h2>
+<p>把信息处理拆成固定四环节：采集、清洗、摘要、入库。采集阶段仅做原文保存；清洗阶段删除广告语和重复段；摘要阶段让模型输出“结论、依据、待验证点”；入库阶段再写入 Obsidian 对应目录。每个环节单独保存结果，便于回溯。</p>
+<p>提示词建议模板化。可设置一个通用提示：先要求模型提取事实，再标记不确定内容，最后生成可执行行动项。行动项应包含“动作+对象+截止时间”，例如“本周内补齐项目A接口文档并关联到10_Projects”。这样可直接转为待办。</p>
+<p>为避免模型输出漂移，给每次处理设置约束：字数上限、输出字段固定、不得新增未提供事实。若同一材料需要多轮处理，保留首轮原摘要并只允许增量修改。该做法能减少版本混乱，适合长期维护知识库。</p>
+</section>
+<section>
+<h2 id="section-3">第三步：建立周度维护与质量校验机制</h2>
+<p>建议每周固定一次“库内巡检”，检查三项指标：未分类笔记数量、失效链接数量、重复主题数量。未分类超过20条时优先清理 Inbox；失效链接统一移入待修复清单；重复主题通过合并笔记并保留变更记录解决。</p>
+<p>每周输出一页复盘卡片，结构可固定为“本周新增、最高频问题、下周优化”。其中“最高频问题”可由模型基于检索日志自动生成。通过连续4周复盘，通常能识别最常用知识路径，进而优化目录与标签体系。</p>
+<p>实操中最常见问题是过度追求复杂流程。建议遵循“先可用、再自动化”的顺序：先保证能稳定写入与检索，再逐步加入脚本批处理和多模型协作。对于个人用户，能稳定坚持3个月的简化流程，价值通常高于一次性堆叠功能。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DOHJPM3ktd3FWSGJKQjJGclkzMUhPU3lyZkNEdFNQb3ozZmxPSEU4cExna0VlVmlnUERNY0RocWgtRnZlTGllTE91YUZvczZ4RVAw?oc=5" target="_blank" rel="noopener noreferrer">51CTO（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNGJ5OEVzdnZnR1Jqa3ZQZWQ3UzJqYmlCeVV6SmFjeXNTYkdpblh6ZlRHZE5CVkp2LUZtNl9lVEtBSXg5UHJLUmRLcFBFZ2xJYTRKOGZlXzBWNDVwaExSZ3lRZ0djV2p4ZjFMNExB?oc=5" target="_blank" rel="noopener noreferrer">HackerNoon：LangChain学习文章汇总</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zczBSb1lRWmNvcE9TUkZScXdYZVJNb2JsVk5uUzBsQjdiRXB1b3lZZW9TQ0lWdXVZM25uc241cFV2WGtfU1ZiaXZUNGgwNkE2QzVPMTUtci1QVkFkVDJvdw?oc=5" target="_blank" rel="noopener noreferrer">eWeek：Vibe Coding工具与提示词清单</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
