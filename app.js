@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260510-auto-1-47baa7",
+        "title": "阿里将通义接入淘宝",
+        "category": "AI新闻",
+        "date": "2026-05-10",
+        "summary": "阿里推进Qwen与淘宝融合，布局智能体购物。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "阿里将通义接入淘宝 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月10日，北京时间，电商平台与大模型结合正在进入更具体的产品化阶段。阿里巴巴被报道计划将通义千问能力整合进淘宝，并推出面向交易场景的智能体购物功能。",
+          "blocks": [
+            {
+              "heading": "事件要点",
+              "paragraphs": [
+                "据公开报道，阿里此次调整的核心是把Qwen模型能力直接嵌入淘宝前台交互流程，而不只停留在客服或搜索侧的局部功能增强。",
+                "“智能体购物”意味着系统可在用户授权前提下，理解需求、筛选商品、比较参数并辅助下单，交互方式从关键词检索向任务委托转变。",
+                "从产品节奏看，该动作属于平台级升级，重点在于提升决策效率和转化质量，同时尝试降低用户在多轮比较中的时间成本。"
+              ]
+            },
+            {
+              "heading": "产业影响",
+              "paragraphs": [
+                "对电商行业而言，智能体购物可能推动“人找货”向“代理找货”演进，平台竞争将从流量分发进一步转向模型能力与数据闭环能力。",
+                "对商家侧而言，商品结构化信息、库存实时性、价格与履约指标将更直接影响智能体推荐结果，运营方式可能向机器可读标准靠拢。",
+                "对生态合作方而言，支付、物流、营销与售后接口的标准化要求将同步提升，第三方服务商需要适配新的智能交互链路。"
+              ]
+            },
+            {
+              "heading": "后续关注点",
+              "paragraphs": [
+                "市场将重点观察该功能在真实交易场景中的渗透率，包括用户留存、客单价变化以及售后争议率等关键经营指标。",
+                "在治理层面，推荐透明度、广告标识、数据使用边界与消费者知情权将成为平台推进智能体购物时需要持续回应的问题。",
+                "若试点效果稳定，类似方案可能扩展至本地生活与跨境电商场景，并带动更多企业级应用从“聊天工具”走向“交易工具”。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "阿里将Qwen AI整合至淘宝并推出智能体购物",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWJPNGl0Qk92NTJJVWVac1VZTXZuYUpRS3BTS3VVQk9oZVRQSW5IblgyTnlJczVxTEhtaTNrVDl3eVFabDh0MVRxeXZaZ2VNM09aZUtZdm8xOTh5b1QzTUl3OXd1ZWVrS0Y3ZWlNTm9WMENSVkpSQU5JaFJERnFpRllFT2E4dFNIbG95RzJmS0M5bmRya2l5ZmRnQUtqTDJ2ZmlkVm1xYjYxN3B6WmMtY3BhUE55V19zUVhuWEdpb0xDME10aDdsMGpiNzlyekRRRUNkYkNhamNLTmPSAeIBQVVfeXFMTW5UWFhQazBxNTcwSmZHc2RqekFaSktTcVVtTm5OT2Qyd3ozek54U3RvalRXQ0FSblBNWTNsWXVCYUdWVkFDOGFpQS1xRXdXbVRnaldsa1ZNUE9MR0xtNHR4YW5HdzNQcml3WW94engybXJYbnpjMzN5VlJISE5DRkg5enpwc2NudDR5R2xQWXN2am5iNllOanlQVGdjWE83VTZGaVJ0MkFTQ1NNNFZZX0kzRjB5ZHJLRDhIUEhfQ3hQLU9CZ2dkSXNCZXQzak5nMmJwRm1aSmVQdTFmT2JWeFVPUQ?oc=5"
+          },
+          {
+            "label": "钉钉悟空亮相活动讨论AI重塑工作方式",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzNWQ2QtNzMzemdCN2t0TDltZXc5OXZ2MmJnM3hDc3ZDQ1BzM0dlV1ZidGVyWUVnZmg2UElZUi1VTjhNXzVkRkdzOFhRT0Z3Ymp3T1JGNE54ZnZJeWJZOUZMY3RuU3ppd2FxZmRyZWlTX3JtSVdOWFloanlCOTl4VjJiSU43SFhD?oc=5"
+          },
+          {
+            "label": "金融领域智能体标准与落地路径讨论",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUWxaMk1vMXBkcndOcWNFaFFydXZWWkF4Y1VOR2d3ZTNwRWVFSUxITUpQbk1LMGc5dzY3NmR4dWpXY2ZiQTNBcHgtWmUzNTBwTllFZ09JaGVnWW81WVQ3eE90ZV82YTQ2Sk45eXVreGVhTU1wUGpCTFR2emFocDJ1MERKUmtOYTFsLVZvSUJyZW5VUUMxZS1DRFRtLXNTN2lTVFNtaTBfdlNoRFdqSE1fb01hbF9BR2VmU2k5c3VtdUYweGdGbW04bHV0bVhQNjloMEFUS09WVVVfZnl1M25IX01CLXdYSTdMTzg5eVZ4Q2NCQ3pGMHpaVUdCNnoyUXd5YUkwRXQxbFhIaS03Z1E?oc=5"
+          }
+        ],
+        "source": "The Indian Express",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOWJPNGl0Qk92NTJJVWVac1VZTXZuYUpRS3BTS3VVQk9oZVRQSW5IblgyTnlJczVxTEhtaTNrVDl3eVFabDh0MVRxeXZaZ2VNM09aZUtZdm8xOTh5b1QzTUl3OXd1ZWVrS0Y3ZWlNTm9WMENSVkpSQU5JaFJERnFpRllFT2E4dFNIbG95RzJmS0M5bmRya2l5ZmRnQUtqTDJ2ZmlkVm1xYjYxN3B6WmMtY3BhUE55V19zUVhuWEdpb0xDME10aDdsMGpiNzlyekRRRUNkYkNhamNLTmPSAeIBQVVfeXFMTW5UWFhQazBxNTcwSmZHc2RqekFaSktTcVVtTm5OT2Qyd3ozek54U3RvalRXQ0FSblBNWTNsWXVCYUdWVkFDOGFpQS1xRXdXbVRnaldsa1ZNUE9MR0xtNHR4YW5HdzNQcml3WW94engybXJYbnpjMzN5VlJISE5DRkg5enpwc2NudDR5R2xQWXN2am5iNllOanlQVGdjWE83VTZGaVJ0MkFTQ1NNNFZZX0kzRjB5ZHJLRDhIUEhfQ3hQLU9CZ2dkSXNCZXQzak5nMmJwRm1aSmVQdTFmT2JWeFVPUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260510-auto-2-4f8156",
+        "title": "AI伦理审查先导计划启动",
+        "category": "AI新闻",
+        "date": "2026-05-10",
+        "summary": "我国AI科技伦理审查先导计划落地，覆盖十省。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI伦理审查先导计划启动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月10日，北京时间，我国人工智能治理进入更细化执行阶段。公开信息显示，人工智能科技伦理审查先导计划已落地，并覆盖十大重点省份。",
+          "blocks": [
+            {
+              "heading": "政策进展",
+              "paragraphs": [
+                "先导计划的关键词是“审查机制前置”，即在技术研发和应用部署早期就嵌入伦理评估流程，降低后期治理成本。",
+                "覆盖重点省份意味着治理试点将兼顾区域差异，既包括产业基础较强地区，也涉及应用场景扩张较快地区，以形成可复制经验。",
+                "从政策节奏看，该计划与产业发展并行推进，目标是在创新效率和风险控制之间建立相对稳定的制度接口。"
+              ]
+            },
+            {
+              "heading": "对产业的直接影响",
+              "paragraphs": [
+                "对AI企业而言，项目立项、数据合规、模型评测和上线审批等环节可能出现更明确的伦理要求，合规投入将成为常态化成本。",
+                "对金融、医疗、教育等高敏感行业而言，伦理审查将影响采购与招标标准，促使甲方更加重视可解释性和责任可追溯能力。",
+                "对地方政府与园区而言，先导计划有助于形成统一预期，降低跨区域合作中的规则摩擦，提升重点项目落地确定性。"
+              ]
+            },
+            {
+              "heading": "观察与展望",
+              "paragraphs": [
+                "下一阶段值得关注的是审查标准的公开程度、执行口径一致性以及企业申报流程的可操作性，这些将影响政策实际效果。",
+                "如果试点形成成熟模板，后续可能向更多省份扩展，并与数据要素流通、算法备案和行业监管框架进一步衔接。",
+                "在国际层面，伦理审查能力也将成为产业竞争的基础条件之一，合规能力较强的企业在出海与跨境合作中可能更具稳定性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "人工智能科技伦理审查先导计划落地",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1M25zYmVEZE9fakZCVzlNZ0pLZ0dwTXlVT1hwdDR0eGJuX2xFOXlrX0U3dlFXYTU3Ymg2N1ItUTlPQnRvYUFIWVZfSGhzNEFocWVOTjkxcTd4bnJsWmNEeElB?oc=5"
+          },
+          {
+            "label": "浙江提出加快AI等重点场景建设",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbGRHVjZ0b0NIdUtOakU0VDl0VDg5Y3ZNY0hoazdVSnhJZTA3SDFadFRwT2lYV2FaTW1GcUFneHJQUlpKbFdtUnVxZFAwdVlyZjB5Z0ZsOE5TamNVNF9HZjBoQVdGVm10R2Z3RDVqRGxZdEVkV1dhWHg1QzFsVGxQeXowTUlRWUQ0N3pRZ3BLZXpOVzh1YzJfcA?oc=5"
+          },
+          {
+            "label": "我国人工智能产业发展问题与挑战讨论",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iQmE3MGhzWU5fQUpSRC1jdW9wd0pYT3ZIclltcjlJVEFITnIzWnFqWWRPaW5NemdQY19FZ3RtWW1fdTltQW9Rd1hnc2daMWIyNVdjb3VWZ3gwbDNjUF9BbjBuMVBQMFU2a2tPZVEweFJNSXJ0UFE?oc=5"
+          }
+        ],
+        "source": "cb.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1M25zYmVEZE9fakZCVzlNZ0pLZ0dwTXlVT1hwdDR0eGJuX2xFOXlrX0U3dlFXYTU3Ymg2N1ItUTlPQnRvYUFIWVZfSGhzNEFocWVOTjkxcTd4bnJsWmNEeElB?oc=5"
+      },
+      {
         "slug": "ai-news-20260509-auto-1-7a5c0d",
         "title": "四川修订AI产业政策",
         "category": "AI新闻",
@@ -4923,6 +5039,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260510-auto-1-bf7911",
+        "title": "OmniVoice语音克隆实操",
+        "category": "AI使用教程",
+        "date": "2026-05-10",
+        "summary": "用3-10秒参考音频完成多语言语音克隆流程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OmniVoice语音克隆实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "面向2026-05-10的实际应用场景，这份教程以“短参考音频生成目标语音”为主线，帮助你从零完成一次可复现的AI语音克隆流程，并给出合规与质量控制要点。",
+          "blocks": [
+            {
+              "heading": "第一步：准备环境与素材",
+              "paragraphs": [
+                "先明确你的使用边界：仅处理你本人声音或已取得书面授权的声音样本。开始前建立项目文件夹，至少包含“参考音频”“文本脚本”“导出结果”“日志记录”四个子目录，方便后续追溯。",
+                "参考音频建议控制在3-10秒，环境尽量安静，采样率统一为16kHz或24kHz，单声道更利于稳定推理。录制内容应包含清晰元音与辅音，避免背景音乐、混响和过强压缩。",
+                "文本脚本按用途分成三类：测试句、正式句、多语言句。测试句用于检查音色相似度，正式句用于业务输出，多语言句用于验证跨语言发音。每次迭代只改一个变量，便于定位问题。"
+              ]
+            },
+            {
+              "heading": "第二步：执行克隆与参数调优",
+              "paragraphs": [
+                "首次推理使用默认参数，先跑短句做基线。记录每次生成的模型版本、温度或随机度、语速、停顿强度等关键设置，命名格式建议“日期_语言_参数版本”，避免后期文件混乱。",
+                "若出现咬字不清或音色漂移，优先从输入端修正：更换更干净的参考音频、缩短文本长度、减少生僻词。若仍不稳定，再微调合成参数，例如降低随机性并适当减慢语速。",
+                "多语言输出时，按“同一参考音频+不同语言同长度文本”做A/B对比。先验证普通话，再扩展到目标语种。每种语言至少生成3版，人工听审后选最自然版本进入正式发布。"
+              ]
+            },
+            {
+              "heading": "第三步：质检、发布与风险控制",
+              "paragraphs": [
+                "质检采用三项清单：可懂度（是否听清每个词）、一致性（前后句音色是否稳定）、自然度（停顿和重音是否合理）。建议两人交叉试听，分别打分并保留评语，减少单人主观偏差。",
+                "发布前增加“声明层”：在页面或音频描述中标注“AI合成语音”，并保存授权证明、原始录音、生成日志。这样在内容分发、平台审核或用户质疑时，可以快速给出证据链。",
+                "实操建议按周复盘：统计一次生成成功率、返工原因和平均耗时。若返工主要来自文本问题，就优化脚本模板；若主要来自音频质量，就优化录制流程。通过小步迭代稳定提升产出效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：小米开源OmniVoice在线教程",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mWUx4dHpXNVdvMXA3UERTN3VzV3pQUlRCWTBFV245eUd6UWZueEZSdHo4VEZMSlVfV0RicEV1VzhMcEx4MW0yaQ?oc=5"
+          },
+          {
+            "label": "OpenTools：Generative AI入门课程指南",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52SHhsZzcxMl93R0lQQUdoV3VIVHlEV3htV3JQS0luWjM3Z2JxUmtkTW9Kb2pzU0R3UWtFVVUwZUhzemRuRFF3YVVQdGhwZWJZdVIzcERJZTNhVC0zWnl6U3RRMXNpdG5xc0E?oc=5"
+          },
+          {
+            "label": "Tom's Guide：控制ChatGPT使用成本的方法",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXJsZ1hzQnhLQ3pPeE45SWVBRWRhYUFPcVNwT2p6cWZLR0RtRUluNlFLUnBtYXdWV1hyLS1mYktpNHZZbld4VkNFLVZpUEJsT1VqR0FMNnUtbVRmeWE3ZFlUeEFOUjJmUkpxRVBSZjZJaXR5NWtpdnJ1aGlGbE1jdWIzZFdSQUN3cFB0aWRiT0NTc01oQXNoTnFXZ2RpdGUzOW9RVE9VLWV4ek5LbTNSVw?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mWUx4dHpXNVdvMXA3UERTN3VzV3pQUlRCWTBFV245eUd6UWZueEZSdHo4VEZMSlVfV0RicEV1VzhMcEx4MW0yaQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260509-auto-1-be59dc",
         "title": "DeepSeek知识库搭建实操",
         "category": "AI使用教程",
@@ -6807,6 +6981,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260510-auto-1-651216",
+        "title": "Warp终端宣布开源",
+        "category": "开源项目",
+        "date": "2026-05-10",
+        "summary": "Agent终端Warp开源，开发者可自托管与二次开发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Warp终端宣布开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月10日，Agent终端Warp的开源进展成为开发者社区关注点。该事件与“AI原生开发工具”趋势相关，核心价值在于把终端、自动化命令与代理能力结合，并允许团队按自身场景定制工作流。",
+          "blocks": [
+            {
+              "heading": "这次开源更新了什么",
+              "paragraphs": [
+                "根据候选报道，Warp在短时间内获得了较高关注度，反映出开发者对“可扩展终端+AI代理”的需求持续上升。开源后，用户不仅是功能使用者，也能参与功能演进与问题修复。",
+                "对企业团队而言，开源意味着更可控的部署路径。团队可结合内网代码仓库、私有模型网关和审计系统，降低把关键命令链路完全交给闭源服务的顾虑。",
+                "从项目定位看，Warp更接近“开发者交互层”，它不直接替代IDE，而是把命令执行、脚本生成、环境诊断等高频任务做成可复用的AI工作流。"
+              ]
+            },
+            {
+              "heading": "适用场景与实际价值",
+              "paragraphs": [
+                "个人开发者可将其用于日常命令辅助，例如生成构建脚本、解释报错信息、批量执行仓库维护任务。对于不熟悉Shell细节的新手，这类能力能缩短试错时间。",
+                "中小团队可在CI/CD前后加入终端代理步骤，例如部署前检查配置一致性、发布后收集运行日志并自动归档，形成轻量自动化流程。",
+                "在多项目并行环境中，终端代理的统一入口价值更明显：不同语言项目都可通过同一命令层接入，减少工具碎片化带来的学习成本。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要在两点：一是终端与脚本基础，二是对AI生成命令的校验习惯。建议先在非生产环境启用，逐步沉淀“可直接执行”和“需人工确认”的命令类型。",
+                "团队落地时应优先配置权限边界，例如限制高危命令、隔离生产凭据、记录代理执行日志。这样既能使用自动化能力，也能满足审计要求。",
+                "若计划二次开发，建议从插件或命令模板层开始，而非直接改动核心执行链路。先解决一到两个高频问题，再扩展到更复杂的跨仓库任务。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36kr原文：Warp开源动态",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          },
+          {
+            "label": "AOL：NVIDIA与ServiceNow代理合作",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV1JMUjc1NGZFZFBERGJ3dGY4WmV0UHNyTzlkV3dCNllVSFBGQWhCRVhxSHk3UWh6QS01Tk5qc2hMTFZWanhBR1lLMzExY1ljWldPSmtwU2hWM0xXeGVxbkZvWGpEOEk1ZFUwLUdDbTE3cm10bmZHTUxJRVJXQ0gwb2FTYXVLRW8?oc=5"
+          },
+          {
+            "label": "51CTO：Agent与数据库开源实践",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HNDhjb3JsZmtpSzBaYk1BWnViY3JxOWhWS3ZPZzJuZ3JTM3c3Um1makxnTkVkUE5uVE14MFZfaVV1dmdqVTg0NTJZSTlKRVdrREE4?oc=5"
+          }
+        ],
+        "source": "36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+      },
+      {
+        "slug": "open-source-20260510-auto-2-bb4889",
+        "title": "GitHub Spec-Kit开源",
+        "category": "开源项目",
+        "date": "2026-05-10",
+        "summary": "Spec-Kit面向AI编码代理，推动规格驱动开发流程落地。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub Spec-Kit开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月10日，围绕AI编码代理的开源工具持续增加，其中Spec-Kit受到关注。它强调“先规格、后实现”的工程流程，目标是减少代理直接写代码时的偏差与返工。",
+          "blocks": [
+            {
+              "heading": "项目定位与关键思路",
+              "paragraphs": [
+                "Spec-Kit的核心是把需求规格转成可执行的开发约束，让AI代理在明确边界内生成代码、测试与文档。相比“直接提问生成代码”，这种方式更重视可追踪性。",
+                "在多人协作中，规格文档可作为统一事实来源，减少口头沟通造成的歧义。代理生成结果也能回溯到具体条款，便于评审与责任界定。",
+                "该思路并不排斥人工编程，而是把人从重复描述中解放出来，让工程师集中在架构、接口设计和风险控制等高价值环节。"
+              ]
+            },
+            {
+              "heading": "适合哪些团队使用",
+              "paragraphs": [
+                "对已有需求评审流程的团队，Spec-Kit更容易接入，因为其输出与现有文档治理相容。可先在新模块试点，再扩展到主干业务。",
+                "对创业团队而言，它可用于快速形成“需求-任务-验收”闭环，避免代理产出看似可运行但难维护的代码片段。",
+                "对教育与培训场景，Spec驱动方式有助于新人建立工程意识：先定义输入输出、异常处理和测试标准，再进入编码阶段。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "主要门槛在于规格书写能力。若需求表达模糊，代理依然会产生偏差。建议采用模板化字段，如目标、约束、验收标准、非功能要求。",
+                "技术实施上，可先把Spec-Kit接入一个独立仓库，验证从规格到PR的自动化链路，再与主仓库和CI规则联动，降低一次性改造风险。",
+                "治理层面建议建立最小审查机制：关键接口变更必须人工批准，自动生成测试需覆盖核心路径。这样能在效率与质量之间保持平衡。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：Spec-Kit发布",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTI2U1YxcWE2OXhQUWxCNWlWR0ZOcHRqQlBtV1BmeUNodVFMZDZ3eHJqWG1tY3VhTDN4azhXby1aam1PWm8xd3pOY1BZU1Z1RTYwVEZuTDFVdERlTGlHNk8tNk5BQ2tPY1JvbkxjUTdxSU5GNDRVbG8wLTBDcFBUWEF4YTVJZnRKd1JqS1J1Tk1lQXliRllSeTlNVkNDQjNvM2tOSm5iMjNFN25lVEx6TUJPbVZlUUNTRVlpazN6RXpBU005MWZqUmZqaWViWTQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Spec驱动工具对比",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHh2X21PR2l5ejRCTEppbkViV0tURzFPZmtvbEZXZEtxYUZPeHdHY2ZDb3FqWWIxR2gwbGlUOU9rV2FGVUhfVTJub0FRUnRuLW1Mc0QtMUsyLWdkMVFaS2tkRzZEVDJaaTI4SnZvcUJpLU5rWDV0MUFBVFpyc08zSUkxZ1h1U3l3UV9JYnpSREJ4WlNyUl9hNmZ1R1B6RkdXUHdVa3dIenJsbWhUTE5iSl9KTnBxdDNGZmlfTExpa3I?oc=5"
+          },
+          {
+            "label": "InfoQ：AI时代架构与工程实践",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4td3drRU5SSFliX2c4akVsa01aSmxiVDVtNVNrUTNiRHN2bjVEamdGTWhLWjl2ZGZfQlRtem90b2Rmc0xVbzVBUnFmUkIzZjk5VlF6NFVqMjl0RU1WZXc?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTI2U1YxcWE2OXhQUWxCNWlWR0ZOcHRqQlBtV1BmeUNodVFMZDZ3eHJqWG1tY3VhTDN4azhXby1aam1PWm8xd3pOY1BZU1Z1RTYwVEZuTDFVdERlTGlHNk8tNk5BQ2tPY1JvbkxjUTdxSU5GNDRVbG8wLTBDcFBUWEF4YTVJZnRKd1JqS1J1Tk1lQXliRllSeTlNVkNDQjNvM2tOSm5iMjNFN25lVEx6TUJPbVZlUUNTRVlpazN6RXpBU005MWZqUmZqaWViWTQ?oc=5"
+      },
       {
         "slug": "open-source-20260509-auto-1-d98415",
         "title": "GitHub发布Spec-Kit",
