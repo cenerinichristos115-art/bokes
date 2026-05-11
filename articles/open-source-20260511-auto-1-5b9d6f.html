@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AMD开源多路径训网协议 | 寂川日报</title>
+<meta name="description" content="AMD将多路径网络协议提交OCP，面向大规模AI训练。" />
+<meta name="keywords" content="AI新闻,开源项目,SMBtech" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260511-auto-1-5b9d6f.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="AMD开源多路径训网协议" />
+<meta property="og:description" content="AMD将多路径网络协议提交OCP，面向大规模AI训练。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260511-auto-1-5b9d6f.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-11" />
+<meta property="article:section" content="开源项目" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="AMD开源多路径训网协议" />
+<meta name="twitter:description" content="AMD将多路径网络协议提交OCP，面向大规模AI训练。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"AMD开源多路径训网协议","datePublished":"2026-05-11","dateModified":"2026-05-11","description":"AMD将多路径网络协议提交OCP，面向大规模AI训练。","inLanguage":"zh-CN","articleSection":"开源项目","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260511-auto-1-5b9d6f.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260511-auto-1-5b9d6f.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">AMD开源多路径训网协议</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-11">2026-05-11</time> | 文章日期：<time datetime="2026-05-11">2026-05-11</time> | 来源：SMBtech</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="AMD开源多路径训网协议 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">更新要点</a></li>
+<li><a href="#section-2">对开发者的实际意义</a></li>
+<li><a href="#section-3">上手门槛与落地建议</a></li>
+</ul>
+</nav>
+<p class="detail-intro">北京时间2026年5月11日，AMD向开放计算项目（OCP）提交多路径网络协议，目标是改善大规模AI训练中的网络吞吐与链路利用率。</p>
+<section>
+<h2 id="section-1">更新要点</h2>
+<p>这次更新的核心是把面向训练集群的多路径传输能力开放到社区治理框架中，而不是只作为单一厂商内部能力使用。</p>
+<p>在多机多卡训练中，网络往往是瓶颈之一。多路径协议通常用于在多条链路间分摊流量，减少局部拥塞对训练步进速度的影响。</p>
+<p>进入OCP后，协议相关实现与接口更可能走向跨厂商适配，对数据中心网络设备、训练框架和集群管理工具的协同提出更高要求。</p>
+</section>
+<section>
+<h2 id="section-2">对开发者的实际意义</h2>
+<p>对模型训练团队而言，这类协议更新的价值不在于改变模型结构，而在于提升分布式训练的稳定性和资源利用率。</p>
+<p>如果团队当前已使用以太网集群并有多路径能力，后续可关注是否出现开源参考实现、内核补丁或交换机侧配置规范。</p>
+<p>对中小团队来说，短期内可能先通过云厂商托管集群间接受益；对自建集群团队，则可评估网络拓扑、拥塞控制和监控体系是否具备接入条件。</p>
+</section>
+<section>
+<h2 id="section-3">上手门槛与落地建议</h2>
+<p>上手门槛主要在基础设施层，而非应用层。需要具备分布式训练经验、网络调优能力，以及可重复的压测流程。</p>
+<p>建议先在非生产环境进行A/B测试，比较单路径与多路径下的吞吐、丢包重传、训练迭代时间和作业失败率。</p>
+<p>在2026年5月这一时间点，项目仍处于生态扩展阶段，适合关注标准化进展和社区实现节奏，再决定大规模迁移。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU4tcnliOE5ZRWtJczVERzhQN2tLa3NMUEcxNWpkLUhMbE41WEE5QXJwWkVNeFlUWUFINC1LMVk2NTdFTV9NeHloRVdWWFd4ODI0TmRXc2tabHFMd0Zsc1dMclRZSllQcm1Hd2pCWDJYcU8zTlNDMjZJV1BYYjBib1NoalZya1dGQkdOUDFOMHhkdWlHWVlGcTJhUTc2YXBlNFBQRi0zSUROSFNLMEpFUHlQYy05UFpsS0NZ?oc=5" target="_blank" rel="noopener noreferrer">SMBtech（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHFCdWpEaDUzTkRBQ2x0ZFpTbThfTlo0cW8za3FLdjFXUGZkaWVySWxYanRnYTZrMVhPN3AtZm96N3luQURjeTRaUWxyTUZpdGJCeWo2NmNvTWFDMFpVZ1ZQSWdLQ1RoVXFnQ2NqdnFvN1ZCMmtpbjNzNlczQzQzWWdNSU53THFXb3ROSmJ3?oc=5" target="_blank" rel="noopener noreferrer">IT Brief Australia 报道</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXA4SkFEUkFWYjQ3UkdaXzhfMkFqa0ZMQ1VLN3h0S2VsZ09UNEdzS0wwRzlVa0d0SFlFc09WVkdfX0paUTNyZWpsRnhjdWRoWkx1dGtjSjltSy1BSjVUdlJFY3BaS2pucXY0Wm9ESGlEbE5UekxUWldFSXRKdGRia2xmUnNjODVGTkR6cXJtdE44TXBkcERpRG1RYW9oLWwtVFhNYnJOYktDeG9ubjc5N1U3dWI5RTRNYzlpbDlRRU9NM0Zt?oc=5" target="_blank" rel="noopener noreferrer">DataHub开源AI数据栈相关活动</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>

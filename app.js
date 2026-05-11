@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260511-auto-1-514be5",
+        "title": "广东新增6款生成式AI服务",
+        "category": "AI新闻",
+        "date": "2026-05-11",
+        "summary": "广东通报新增6款完成登记的生成式AI服务。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "广东新增6款生成式AI服务 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月11日，北京时间，广东省新增6款完成登记的生成式人工智能服务，显示地方层面的合规备案和产品供给仍在推进。",
+          "blocks": [
+            {
+              "heading": "登记进展与市场信号",
+              "paragraphs": [
+                "此次新增登记数量为6款，属于省级层面公开披露的最新批次。对企业而言，完成登记意味着其服务在合规流程上迈出关键一步，有助于后续商业化落地。",
+                "从行业节奏看，生成式AI服务正由模型能力竞争转向“能力+合规+场景”的综合竞争。登记机制在一定程度上提高了市场透明度，便于用户和合作方识别可用服务。",
+                "在需求侧，政企客户通常更关注服务连续性、数据治理与责任边界。新增登记产品的出现，可能为本地行业应用提供更多供应选择。"
+              ]
+            },
+            {
+              "heading": "政策与治理框架关联",
+              "paragraphs": [
+                "同日相关信息显示，国家层面已启动人工智能科技伦理审查与服务先导计划。该方向与地方登记实践形成呼应，体现“发展与治理并行”的政策路径。",
+                "伦理审查和服务登记并非替代关系，而是分工互补：前者强调风险识别与责任机制，后者强调服务准入与运营规范。两者结合有助于降低应用落地中的合规不确定性。",
+                "对企业管理层而言，合规成本将逐步前置到产品设计与上线流程中。中长期看，这有利于形成更可预期的行业环境。"
+              ]
+            },
+            {
+              "heading": "对产业链的实际影响",
+              "paragraphs": [
+                "上游模型厂商将更重视可审计能力，如数据来源管理、内容安全策略和日志追踪机制，这些能力可能成为客户采购时的标准条目。",
+                "中游解决方案商需要把登记信息与行业实施经验结合，形成可复制的交付模板，尤其是在教育、政务、制造等高合规场景中。",
+                "下游用户侧则可能更倾向选择已完成登记且具备本地服务能力的产品，以平衡功能效率与合规风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "广东省新增6款已完成登记生成式人工智能服务",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RQlRyUUIteHExVDhyOS1NbkVRdjlLY3BvLXZPZ1czRVlHUXNrV29NWFg3dW1lYXZJQTJlVmhvZmRsQUFqQ0tHQnhrbC1rWlZpbWtsOUNadVY4S0NMR2I5MTFZY3ZmQQ?oc=5"
+          },
+          {
+            "label": "广东省新增6款已完成登记的生成式人工智能服务",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhTkx3SnVTUE50TWtmOHN4YXRETXQyYmJpS3dVaHJRODBhZFBFWkVkYXlkNVdka2xxbGNFVlNySUpreWdHNUlmYmZ4NzJxVk1QU3E2cTBpMEVObEQ1N3ZCSnBDaC15dw?oc=5"
+          },
+          {
+            "label": "国家工信部启动人工智能科技伦理审查与服务先导计划",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0hhajNWdmItMlM5SURVWk0wUkEyYlRHUXFVeGpGRlBzVFVYb2NGbHM1UHd5dVUtQkN4TUVMOWJOTDJTb2YzNmxvQWtINGJ5bThHbkhOTUNfcnJ2cmtNSEwxdDE3NU9yeGdwbHEyV3pablQ2YWVjOS05VDc1ZFBROEdUWFQ4VFpaT000M1U2RDloMjkz?oc=5"
+          }
+        ],
+        "source": "东方财富",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RQlRyUUIteHExVDhyOS1NbkVRdjlLY3BvLXZPZ1czRVlHUXNrV29NWFg3dW1lYXZJQTJlVmhvZmRsQUFqQ0tHQnhrbC1rWlZpbWtsOUNadVY4S0NMR2I5MTFZY3ZmQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260511-auto-2-7a201e",
+        "title": "广州上线AI场景交易平台",
+        "category": "AI新闻",
+        "date": "2026-05-11",
+        "summary": "广州发布AI场景交易平台，首批49个订单。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "广州上线AI场景交易平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月11日，北京时间，广州推出人工智能场景交易平台，首批涉及49个场景订单，意向金额逾1300万元人民币。",
+          "blocks": [
+            {
+              "heading": "平台机制与首批数据",
+              "paragraphs": [
+                "从披露信息看，该平台以“场景订单”为组织方式，将需求方与技术供给方对接，重点在于缩短项目发现与撮合周期。",
+                "首批49个场景订单和逾1300万元意向金额，反映出地方产业对AI应用的真实采购需求正在形成，且已进入可量化阶段。",
+                "与单点试点相比，平台化交易更强调流程标准化，包括需求描述、能力评估、交付验收和后续运维等关键环节。"
+              ]
+            },
+            {
+              "heading": "对企业落地的意义",
+              "paragraphs": [
+                "对AI企业而言，场景交易平台可降低获客与商务沟通成本，尤其有利于中小创新企业进入政企和产业客户体系。",
+                "对需求方而言，集中化平台有助于横向比较方案与报价，减少信息不对称，提升采购效率和项目可执行性。",
+                "若平台后续引入统一的绩效指标与案例沉淀机制，企业可基于历史交付数据持续优化方案，形成更稳定的商业闭环。"
+              ]
+            },
+            {
+              "heading": "与行业趋势的衔接",
+              "paragraphs": [
+                "全国范围内词元调用量增长显示算力与模型使用规模持续扩大，但产业价值最终仍取决于可持续的业务转化能力。",
+                "在这一背景下，场景交易平台的价值在于把“模型能力”转化为“订单能力”，将技术指标进一步映射到成本、效率与收益指标。",
+                "同时，随着伦理审查和服务规范持续推进，地方平台若能同步嵌入合规要求，或将提升项目复制效率并降低后续治理成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "广州推人工智能场景交易平台 首批涉49个场景订单",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uS3MwVFNsam4za1FTQjNVRGhCWWYzUVZsWE5UZUpaU0dMcWloWUhnMV9RdUJzNi1FbGpjdW0tNWNRd1JDT3JQRU5oMUhKUEM5S1RjaGtUS3hmTHFqbkFjOEZMV3VpUm1Pb3haVTd5MA?oc=5"
+          },
+          {
+            "label": "全国数据资源调查报告：词元调用量增长",
+            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdWw3dG1rNFBQbDVSakRBdVBOQTRjMndOOTQ1YlhzWVdOUU1aWE56M0lLZUxIUVF0VW9KdWNUTEd1NmxrQ2xuWWRNQ3hrZ214SUx5MHNlWm5kUlc4aW1sdWNZeENBZkhPdTRiNXo1WGxzalJsNnBhMVVXcmJoVkNDSHNQVThRLU5DUFVocW9Ea3dNSTZiWW5PODduYldjYXBuMTVHRENVX0FkTlE4UEljQWM5M1FlU1NYZWRQQzc0THFRWHRtQnhqcGdvblhQZEttWFdmc2J2OEVoZU9sbVlVZVhCeTJvYzJTN3F1ZC1BYk9CNktRS3haS1NZNzBFZFJLbElMX3ZrOHRGRmNiOUVTX0IyVng5YmJtNUk3ZTNB?oc=5"
+          },
+          {
+            "label": "国家工信部启动人工智能科技伦理审查与服务先导计划",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0hhajNWdmItMlM5SURVWk0wUkEyYlRHUXFVeGpGRlBzVFVYb2NGbHM1UHd5dVUtQkN4TUVMOWJOTDJTb2YzNmxvQWtINGJ5bThHbkhOTUNfcnJ2cmtNSEwxdDE3NU9yeGdwbHEyV3pablQ2YWVjOS05VDc1ZFBROEdUWFQ4VFpaT000M1U2RDloMjkz?oc=5"
+          }
+        ],
+        "source": "AASTOCKS.com",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uS3MwVFNsam4za1FTQjNVRGhCWWYzUVZsWE5UZUpaU0dMcWloWUhnMV9RdUJzNi1FbGpjdW0tNWNRd1JDT3JQRU5oMUhKUEM5S1RjaGtUS3hmTHFqbkFjOEZMV3VpUm1Pb3haVTd5MA?oc=5"
+      },
+      {
         "slug": "ai-news-20260510-auto-1-47baa7",
         "title": "阿里将通义接入淘宝",
         "category": "AI新闻",
@@ -5039,6 +5155,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260511-auto-1-c5f79a",
+        "title": "16项技能约束AI写码",
+        "category": "AI使用教程",
+        "date": "2026-05-11",
+        "summary": "面向工程师的AI编程实操流程与质量控制清单",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "16项技能约束AI写码 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-05-11前后关于“用技能清单约束AI编程”的讨论，本文给出一套可直接落地的教程：先定义任务与验收，再用结构化提示驱动代码生成，最后用自动化检查闭环，目标是降低返工率并稳定交付质量。",
+          "blocks": [
+            {
+              "heading": "步骤一：先搭建可执行任务单",
+              "paragraphs": [
+                "先把需求改写成“任务单”再交给AI。任务单至少包含：业务目标、输入输出样例、技术栈、性能边界、不可做事项。示例：\"实现订单去重函数，输入为JSON数组，输出去重后数组，时延<50ms，不引入新三方库\"。",
+                "把任务拆成3层：功能层（做什么）、工程层（怎么组织代码）、验证层（如何证明正确）。每层给出1到3条可量化标准，例如覆盖率阈值、错误处理分支、日志字段完整性，避免AI只给“能跑但难维护”的答案。",
+                "在对话首轮就声明交付格式：\"先给设计，再给代码，再给测试\"。并要求AI输出文件树、函数签名、关键注释与测试用例名称。这样可以把生成过程从一次性“吐代码”改成可审阅流程。"
+              ]
+            },
+            {
+              "heading": "步骤二：用技能提示词约束生成",
+              "paragraphs": [
+                "把“16项技能”思路落成固定模板：角色、约束、步骤、检查点、输出格式。可直接用：\"你是资深软件工程师；遵循最小改动；先列风险；给3个方案并比较；选择方案后再编码；每段代码附测试\"。",
+                "对复杂任务启用“分阶段提交”：阶段A只做架构草案，阶段B实现核心逻辑，阶段C补测试和文档。每阶段结束都要求AI自检：是否满足性能、是否处理异常、是否与既有接口兼容；不满足则先修正再进入下一阶段。",
+                "为减少幻觉与无效token，增加证据约束：\"不确定处必须标注假设；涉及外部API需给可验证来源或提示人工确认\"。这能明显降低AI臆造库函数、错误参数和过度自信描述。"
+              ]
+            },
+            {
+              "heading": "步骤三：建立质量闭环与复用资产",
+              "paragraphs": [
+                "将AI输出接入本地或CI流水线：静态检查、单元测试、集成测试、基准测试四步必跑。设置硬门槛，如lint零错误、关键模块覆盖率>=80%、回归用例全绿；未达标则把失败日志回传AI要求定点修复。",
+                "建立“提示词版本库”：记录每次任务的提示词、模型版本、通过率、返工次数、耗时。每周筛选高通过模板沉淀为团队标准，例如“接口开发模板”“数据处理模板”“Bug修复模板”，持续提升稳定性。",
+                "上线前做人机共审：AI负责生成变更说明和风险清单，工程师重点核对安全、隐私、边界条件。到2026年的工程实践趋势是“允许用AI，但必须可追溯、可验证、可回滚”，这也是团队规模化使用AI编程的底线。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "候选报道：16个skill提升AI编程交付",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXJkaVgtakxxSS0wNm4yOTJRYk93bVY5TGJUcE04bEJId21aNEx6MHlkeUl5QVVSTFlETDE2UmlPWEJoUTVCei1oTXVqNFhBakZvU3k1OWhNa282RDI3cWotZHUzQ2MzMm03MENTVFF4Sy1JMy1hQ1VWYVhYZlZSbGt6eE4yZk1Fc1pSLQ?oc=5"
+          },
+          {
+            "label": "候选报道：Google试点可用AI的工程招聘考试",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBva19hV053MVlMUGhmM3NMS01qRjdvaXhkN3pNYWJMUW53am04ZzNjdS15bWFrY0RvVjNOZ203MnZOMkU3a1NmclFuRURtelBpQ1VNNmdJbzE5WWt1Ql9ZWDJpeFoxaDRmMm14ems5dXFMT0ZnWExKb25vWQ?oc=5"
+          },
+          {
+            "label": "候选报道：减少ChatGPT无效消耗的方法",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOXJsZ1hzQnhLQ3pPeE45SWVBRWRhYUFPcVNwT2p6cWZLR0RtRUluNlFLUnBtYXdWV1hyLS1mYktpNHZZbld4VkNFLVZpUEJsT1VqR0FMNnUtbVRmeWE3ZFlUeEFOUjJmUkpxRVBSZjZJaXR5NWtpdnJ1aGlGbE1jdWIzZFdSQUN3cFB0aWRiT0NTc01oQXNoTnFXZ2RpdGUzOW9RVE9VLWV4ek5LbTNSVw?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXJkaVgtakxxSS0wNm4yOTJRYk93bVY5TGJUcE04bEJId21aNEx6MHlkeUl5QVVSTFlETDE2UmlPWEJoUTVCei1oTXVqNFhBakZvU3k1OWhNa282RDI3cWotZHUzQ2MzMm03MENTVFF4Sy1JMy1hQ1VWYVhYZlZSbGt6eE4yZk1Fc1pSLQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260510-auto-1-bf7911",
         "title": "OmniVoice语音克隆实操",
         "category": "AI使用教程",
@@ -6981,6 +7155,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260511-auto-1-5b9d6f",
+        "title": "AMD开源多路径训网协议",
+        "category": "开源项目",
+        "date": "2026-05-11",
+        "summary": "AMD将多路径网络协议提交OCP，面向大规模AI训练。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AMD开源多路径训网协议 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月11日，AMD向开放计算项目（OCP）提交多路径网络协议，目标是改善大规模AI训练中的网络吞吐与链路利用率。",
+          "blocks": [
+            {
+              "heading": "更新要点",
+              "paragraphs": [
+                "这次更新的核心是把面向训练集群的多路径传输能力开放到社区治理框架中，而不是只作为单一厂商内部能力使用。",
+                "在多机多卡训练中，网络往往是瓶颈之一。多路径协议通常用于在多条链路间分摊流量，减少局部拥塞对训练步进速度的影响。",
+                "进入OCP后，协议相关实现与接口更可能走向跨厂商适配，对数据中心网络设备、训练框架和集群管理工具的协同提出更高要求。"
+              ]
+            },
+            {
+              "heading": "对开发者的实际意义",
+              "paragraphs": [
+                "对模型训练团队而言，这类协议更新的价值不在于改变模型结构，而在于提升分布式训练的稳定性和资源利用率。",
+                "如果团队当前已使用以太网集群并有多路径能力，后续可关注是否出现开源参考实现、内核补丁或交换机侧配置规范。",
+                "对中小团队来说，短期内可能先通过云厂商托管集群间接受益；对自建集群团队，则可评估网络拓扑、拥塞控制和监控体系是否具备接入条件。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要在基础设施层，而非应用层。需要具备分布式训练经验、网络调优能力，以及可重复的压测流程。",
+                "建议先在非生产环境进行A/B测试，比较单路径与多路径下的吞吐、丢包重传、训练迭代时间和作业失败率。",
+                "在2026年5月这一时间点，项目仍处于生态扩展阶段，适合关注标准化进展和社区实现节奏，再决定大规模迁移。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SMBtech 报道",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU4tcnliOE5ZRWtJczVERzhQN2tLa3NMUEcxNWpkLUhMbE41WEE5QXJwWkVNeFlUWUFINC1LMVk2NTdFTV9NeHloRVdWWFd4ODI0TmRXc2tabHFMd0Zsc1dMclRZSllQcm1Hd2pCWDJYcU8zTlNDMjZJV1BYYjBib1NoalZya1dGQkdOUDFOMHhkdWlHWVlGcTJhUTc2YXBlNFBQRi0zSUROSFNLMEpFUHlQYy05UFpsS0NZ?oc=5"
+          },
+          {
+            "label": "IT Brief Australia 报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHFCdWpEaDUzTkRBQ2x0ZFpTbThfTlo0cW8za3FLdjFXUGZkaWVySWxYanRnYTZrMVhPN3AtZm96N3luQURjeTRaUWxyTUZpdGJCeWo2NmNvTWFDMFpVZ1ZQSWdLQ1RoVXFnQ2NqdnFvN1ZCMmtpbjNzNlczQzQzWWdNSU53THFXb3ROSmJ3?oc=5"
+          },
+          {
+            "label": "DataHub开源AI数据栈相关活动",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXA4SkFEUkFWYjQ3UkdaXzhfMkFqa0ZMQ1VLN3h0S2VsZ09UNEdzS0wwRzlVa0d0SFlFc09WVkdfX0paUTNyZWpsRnhjdWRoWkx1dGtjSjltSy1BSjVUdlJFY3BaS2pucXY0Wm9ESGlEbE5UekxUWldFSXRKdGRia2xmUnNjODVGTkR6cXJtdE44TXBkcERpRG1RYW9oLWwtVFhNYnJOYktDeG9ubjc5N1U3dWI5RTRNYzlpbDlRRU9NM0Zt?oc=5"
+          }
+        ],
+        "source": "SMBtech",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU4tcnliOE5ZRWtJczVERzhQN2tLa3NMUEcxNWpkLUhMbE41WEE5QXJwWkVNeFlUWUFINC1LMVk2NTdFTV9NeHloRVdWWFd4ODI0TmRXc2tabHFMd0Zsc1dMclRZSllQcm1Hd2pCWDJYcU8zTlNDMjZJV1BYYjBib1NoalZya1dGQkdOUDFOMHhkdWlHWVlGcTJhUTc2YXBlNFBQRi0zSUROSFNLMEpFUHlQYy05UFpsS0NZ?oc=5"
+      },
+      {
+        "slug": "open-source-20260511-auto-2-c5c580",
+        "title": "Anthropic捐赠Petri工具",
+        "category": "开源项目",
+        "date": "2026-05-11",
+        "summary": "Petri对齐测试工具移交非营利机构并发布重要更新。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic捐赠Petri工具 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月11日，Anthropic将其对齐测试工具Petri捐赠给非营利机构Meridian Labs，并同步发布一次重要版本更新，焦点在可持续治理与评测能力扩展。",
+          "blocks": [
+            {
+              "heading": "事件与版本变化",
+              "paragraphs": [
+                "此次变化包含两层含义：一是资产归属从企业转向非营利机构，二是工具本身完成了较大更新，意味着后续路线可能更偏向公共研究需求。",
+                "对齐测试工具通常用于构造提示、场景和行为检查流程，以观测模型在边界条件下的响应稳定性与风险表现。",
+                "从开源生态角度看，治理主体变化有助于吸引更多学术与公益团队参与规则设计，减少单一商业目标对评测方向的影响。"
+              ]
+            },
+            {
+              "heading": "用途与目标用户",
+              "paragraphs": [
+                "Petri这类工具适合模型安全评测、红队演练、发布前审查以及策略回归测试，尤其适用于需要持续比较模型版本行为差异的团队。",
+                "目标用户包括模型平台团队、应用安全团队和研究机构。对教育与公共部门来说，也可用于建立标准化测试基线。",
+                "在产品迭代节奏加快的背景下，自动化对齐测试能降低人工抽检成本，但不能替代人工审查与合规流程。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "上手门槛主要体现在测试用例设计能力，而不是单纯部署工具。团队需要明确风险分类、评测指标和判定阈值。",
+                "建议先选取少量高风险场景建立最小测试集，再接入CI流程做版本回归，逐步扩展到多语言与多任务场景。",
+                "截至2026年5月，最稳妥的落地方式是把该工具作为现有安全流程的补充模块，结合人工复核形成闭环。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "EdTech Innovation Hub 报道",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXp3U1BsUG9XRklRQm5Sc2RSMEdhR0d5SVloSnl2WjhtR2d5QWhDQmk3c3VCak5XVEJqLUlXT3l5N2VkUjZTcmsxcjlQVUFfT1NGWGFjWXNfTC03bmgwbVlLSDM2R0dUVEJUNFNxVFNITXhkczJVUk9zZVBfNHE3TzZlQ1E0SEY3ZHNuZU9kM2ZFTEZBRTluODNZbHhxa1BtYVFTT1dlaWI4MnZ6TUllNnVia3RJN3l3NFJlUm9kMHI2MEI3aFV5YzVFbnFtbEMyc1Jhd0R0OE80Nzl0?oc=5"
+          },
+          {
+            "label": "MSN相关后续讨论",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2dYTHYwT2ZJRVp0UnFHNktfZk1GcXBIdnRLTlVwVHFsOUpFZS11WWVRMnRERVdvUlY1SjRqaHhVVG9iYTM2b0p0VEhQSUtvbnprcUNCZEszYWlFalNMWmd4aTF6akZ0Q3dHRGFfNGJwSTZCaE9mQk10Y29BYmZ5V1hkczZTYzI4Tm16Uk9Wa25qM3Q3ZXllb0VxbGhFUERpMEZZaGJ0d29KdGxTcVlxeElYMHk0TnhEYzlCc3BUeEhmOW9EbGltVXVBSDJIc0ZnbXlHRVlR?oc=5"
+          },
+          {
+            "label": "AI职场应用研究背景",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHluenp6NE4teVg3bTJiWG9VZk81dDQwcDBJcmVJWlBHdWhIYWRSYTNWX052aHVZdjhfdmxXNk9mTENURGRzdURmMExpTm5VazdfTWZpcUxTV21TcThJbHc2cFluMmRjMXdVeE80ZDhBR0JUWUhJcHJiX2Rva1lGT2tfMDNEOHZzRkJwSUpoM3FwZjh1RU56aXcxclFqNnRyVkRBVkJIbUkyaloxWGpscjJTZ2hYVkNxX0g2d2liUm41MlhaZDQwcl9JTlFtcWVGd3d0Vzg5V3Y?oc=5"
+          }
+        ],
+        "source": "EdTech Innovation Hub",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXp3U1BsUG9XRklRQm5Sc2RSMEdhR0d5SVloSnl2WjhtR2d5QWhDQmk3c3VCak5XVEJqLUlXT3l5N2VkUjZTcmsxcjlQVUFfT1NGWGFjWXNfTC03bmgwbVlLSDM2R0dUVEJUNFNxVFNITXhkczJVUk9zZVBfNHE3TzZlQ1E0SEY3ZHNuZU9kM2ZFTEZBRTluODNZbHhxa1BtYVFTT1dlaWI4MnZ6TUllNnVia3RJN3l3NFJlUm9kMHI2MEI3aFV5YzVFbnFtbEMyc1Jhd0R0OE80Nzl0?oc=5"
+      },
       {
         "slug": "open-source-20260510-auto-1-651216",
         "title": "Warp终端宣布开源",
