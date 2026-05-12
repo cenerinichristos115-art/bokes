@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260512-auto-1-a4ebf8",
+        "title": "首例AI种草案宣判",
+        "category": "AI新闻",
+        "date": "2026-05-12",
+        "summary": "国内首例AI代写种草案落槌，平台治理与责任边界受关注。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "首例AI种草案宣判 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月12日，北京时间，国内首例涉及AI代写“种草笔记”的案件已公开宣判。该案被视为平台内容治理与生成式AI合规应用的重要节点，释放出对虚假营销、误导消费与技术滥用的司法信号。",
+          "blocks": [
+            {
+              "heading": "案件进展与核心争点",
+              "paragraphs": [
+                "公开信息显示，本案围绕利用AI批量生成“种草笔记”并用于商业推广的行为展开。案件讨论的焦点之一，是相关内容是否构成对消费者的误导，以及是否突破了正常商业宣传的法律边界。",
+                "从裁判导向看，司法实践正在将AI工具使用纳入既有广告、反不正当竞争与平台治理框架，不再仅以“技术中立”作为免责理由。这意味着“由谁发布、为谁获利、谁应尽审查义务”成为关键判断链条。",
+                "业内普遍关注的是，该案并不只针对单一创作者或机构，而是对整条内容生产和分发链条提出了更明确的责任要求，包括委托方、代运营方、发布账号及平台侧审核机制。"
+              ]
+            },
+            {
+              "heading": "对平台与品牌运营的影响",
+              "paragraphs": [
+                "对内容平台而言，案件可能推动“AI生成标识”“营销内容溯源”“异常发布行为识别”等治理能力加速落地，以降低批量化虚假内容的传播风险。",
+                "对品牌与MCN机构而言，投放策略将更重视合规留痕，例如明确内容生产流程、保存提示词与版本记录、建立广告主授权与事实核验机制，减少事后举证成本。",
+                "对消费者保护层面，该案与“数字信息环境治理”形成呼应。未来在电商导购、测评推荐等高转化场景中，平台可能强化对“体验描述真实性”和“商业关系披露完整性”的审查。"
+              ]
+            },
+            {
+              "heading": "政策与产业后续观察",
+              "paragraphs": [
+                "从产业趋势看，生成式AI在营销场景的应用不会停止，但合规成本将成为运营基本盘。企业竞争力将更多体现在“内容效率+合规能力”的双重建设，而非单纯产能扩张。",
+                "从监管协同角度，司法判例通常会反向影响平台规则迭代和行业自律标准，后续或出现更细化的AI营销操作指引，覆盖标注、归责、审计和投诉处理流程。",
+                "截至发稿日，市场已将本案视作AI内容商业化进入“规则化阶段”的标志事件之一。对从业者而言，建立可验证、可解释、可追踪的内容生产体系，将成为长期要求。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：全国首例AI代写“种草笔记”案宣判",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnRGZXNjT0Y5Vk12OEpDN2R1RkMxZjRiUXpPRXd4RDItaGRiZmNpSks0ckhwUW5JVlpha0NTckJELWxQRVU2S3ZYcDVaU1hXOC1KM05Fa0cwZnktV2hnUm9qeDFEYVlPZUYtWjBMWmx6ZVc1S0dYUkRLeVNNWjV6dm41SWdsTXBLdTUtTjB6ajBWTE5jaG0xNWMtNGVjTDlVX0xJN0xLb1dldFNfd003dXV3?oc=5"
+          },
+          {
+            "label": "澎湃新闻：全国首例AI代写“种草笔记”案宣判，为“数字泔水”治理划红线",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VX19telN2b0htTkQ0ZHFyWHBkR2hpV2p0MjlqTTFrOERqMGhNNXRTV05DdGJBdUhuNjhxX1ZjWC1NRDBkYk5XalQyd0RVZzFvNG5wUlpKNEZKQXNnQW9udg?oc=5"
+          },
+          {
+            "label": "澎湃新闻：你剁手网购，AI同意不？",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VR2NZdmdpc25MYXU1Um1HU0paTzJTam1iaXFNWUhRbG16TlViUW4wSVI2b045cVZ1bks4WGNsQ1QwMzdGWDFmaW4xdXdVbHlqa21BM0xla1NKQmNHbUE?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnRGZXNjT0Y5Vk12OEpDN2R1RkMxZjRiUXpPRXd4RDItaGRiZmNpSks0ckhwUW5JVlpha0NTckJELWxQRVU2S3ZYcDVaU1hXOC1KM05Fa0cwZnktV2hnUm9qeDFEYVlPZUYtWjBMWmx6ZVc1S0dYUkRLeVNNWjV6dm41SWdsTXBLdTUtTjB6ajBWTE5jaG0xNWMtNGVjTDlVX0xJN0xLb1dldFNfd003dXV3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260512-auto-2-0e6546",
+        "title": "英矽瑞博达成AI合作",
+        "category": "AI新闻",
+        "date": "2026-05-12",
+        "summary": "英矽智能与瑞博生物签约，AI与自动化平台推进小核酸研发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英矽瑞博达成AI合作 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月12日，英矽智能与瑞博生物宣布签署战略合作协议，计划以人工智能软件与自动化实验室平台，端到端支持RNA干扰及小核酸药物研发。该合作聚焦产业化效率与研发流程重构。",
+          "blocks": [
+            {
+              "heading": "合作内容与技术路径",
+              "paragraphs": [
+                "根据已披露信息，双方合作重点在于把AI模型能力与实验自动化能力结合，贯穿靶点发现、候选分子设计、实验验证到迭代优化等关键环节。",
+                "在小核酸药物研发中，候选方案数量大、实验反馈周期长是普遍难点。通过算法筛选与自动化执行的联动，目标是在保证质量前提下缩短研发周期并提升筛选效率。",
+                "“端到端赋能”意味着合作并非单点工具采购，而是围绕研发流程进行系统化整合。这类模式对数据标准化、实验记录结构化和跨团队协作提出更高要求。"
+              ]
+            },
+            {
+              "heading": "对医药产业链的现实意义",
+              "paragraphs": [
+                "从产业视角看，AI制药已从概念验证逐步走向流程落地。此次合作体现出技术公司与生物医药企业之间的分工协同：前者提供算法与平台，后者提供疾病机制与管线推进能力。",
+                "在融资与合作环境趋于理性的背景下，行业更关注可验证的里程碑，例如命中率提升、失败率下降、临床前周期压缩等可量化指标，而非单一叙事驱动。",
+                "对于中国小核酸赛道而言，此类合作有助于加快形成“算法+实验+临床转化”的闭环能力，增强本土团队在全球技术竞争中的执行效率。"
+              ]
+            },
+            {
+              "heading": "后续看点与风险控制",
+              "paragraphs": [
+                "后续观察重点将包括：双方是否发布阶段性研发成果、是否形成可复用的平台化流程，以及相关管线在临床前与临床阶段的推进节奏。",
+                "同时，数据质量、模型可解释性和合规要求仍是关键约束。医药研发场景对可追溯和可审计要求较高，AI系统需满足严格的记录与验证标准。",
+                "总体而言，该合作符合2026年AI制药“强调落地、重视效率、注重证据”的行业方向。若后续里程碑兑现，或将为同类跨界合作提供可参考的实施路径。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "美通社：英矽智能与瑞博生物签署战略合作协议",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHaGxuNlVpWElXb3M2T2lxU3VTM1hTMW12OGh6QjllYUpnZXNTOVJQNVRhMkUxcVBIZ0Z1U2ZSZjVpSEZZREVJa05LT2lWNGtsQ1ZTeDNMNA?oc=5"
+          },
+          {
+            "label": "21财经：制药业换挡 AI引擎启动",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUpOYU16cl9aeURaNTRDRVFTU0NrV3VPT2lTOHgwUy16ankzYnR1X1E1Nnp1clV5ZV9GNmRXdGNwOW01VVRLQ2gyNmxQLV9Wa0RBYXYwTlpfeDRMdjBaMFFqaEZsRDFpSUFoNDY2S0tMMFRYcmRHYTZnYWI5LVVJakdFampxZmFQYlpRbjZYWQ?oc=5"
+          },
+          {
+            "label": "the-scientist.com：How AI is De-Risking Drug Development and Companion Diagnostics",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRk94V1dKXzhKaGk5NDJCbGJldC1IRDBjSGpQNVQ4RWQ4WjN5c2FZX1c0U1NmbVBWak9TUVhuQ1NTeGd5NUlMTEtIdTFzUGFRUjVsc3lUT01iQmE4Tk1zZWppdWJkcTlDVXhpYlNfR3VIeV9Na1N1TjBfXzZlUHR5SExOa0lnU0F3Z1lnYlFyNEpydy1ITzMyNW8zZW0yVTF1?oc=5"
+          }
+        ],
+        "source": "美通社",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHaGxuNlVpWElXb3M2T2lxU3VTM1hTMW12OGh6QjllYUpnZXNTOVJQNVRhMkUxcVBIZ0Z1U2ZSZjVpSEZZREVJa05LT2lWNGtsQ1ZTeDNMNA?oc=5"
+      },
+      {
         "slug": "ai-news-20260511-auto-1-514be5",
         "title": "广东新增6款生成式AI服务",
         "category": "AI新闻",
@@ -5155,6 +5271,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260512-auto-1-ef37a7",
+        "title": "xBubble短指令实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-12",
+        "summary": "基于xBubble平台，搭建可复用的AI代理工作流。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "xBubble短指令实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月12日，AI代理平台开始从“能对话”转向“能执行任务”。如果你想把短指令交互用于日常业务，关键不在模型参数，而在任务拆解、工具调用顺序和结果校验。下面给出一套可直接落地的xBubble实操流程。",
+          "blocks": [
+            {
+              "heading": "第一步：先定义可执行任务边界",
+              "paragraphs": [
+                "先选一个高频、低风险场景做试点，例如“每天抓取3个行业新闻并生成100字摘要”。不要一开始就做跨部门复杂流程，先把输入、处理、输出三个环节写成一句话，确保团队成员理解一致。",
+                "把短指令标准化为模板：目标+约束+输出格式。例如“收集A领域今日资讯，去重后输出3条，每条含标题、来源、链接，不超过100字”。这样可以减少指令歧义，便于后续复用和A/B对比。",
+                "设定验收规则并量化：完整率、错误率、人工修改时长。建议试运行3天，每天记录10次调用结果。若错误率持续高于20%，优先调整任务边界与提示词，而不是立即更换模型。"
+              ]
+            },
+            {
+              "heading": "第二步：配置工具链与调用顺序",
+              "paragraphs": [
+                "在xBubble中先连接最少必要工具，通常包括搜索、文档读取、表格写入或消息通知。初期遵循“一个任务最多3个工具”的限制，避免流程过长导致失败点增加。",
+                "为每个工具增加输入输出约束，例如搜索工具只接收关键词和时间范围，写表工具只接收结构化字段。把自由文本尽量转为固定字段，能显著降低代理执行偏差。",
+                "设置失败回退路径：当主流程失败时，自动触发“重试一次+降级输出”。例如搜索失败则返回“未找到符合条件信息”并通知人工复核。这样可以保证流程不中断，并把异常显式化。"
+              ]
+            },
+            {
+              "heading": "第三步：上线监控与持续优化",
+              "paragraphs": [
+                "上线后先以“半自动”运行1周：代理生成结果，人工审核后再发布。记录每次被修改的原因，按“事实错误、格式错误、遗漏信息”分类，便于定位是数据问题还是提示词问题。",
+                "每周固定做一次提示词回顾，保留版本号。推荐保留三套模板：稳定版、实验版、应急版。稳定版用于生产，实验版用于小流量测试，应急版用于平台波动或工具失效时快速切换。",
+                "当任务稳定后再扩展场景，例如从“资讯摘要”扩展到“周报汇总”或“竞品监测”。扩展时继续沿用同一套指标体系，确保每新增流程都能被量化评估，而不是只看主观体验。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DAPPOS推出AI代理平台xBubble",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkZIS0tkdVJ2YzZxUkRvT2FDQnVQOGw5OEtLcDE0UFl4TEhQT2FqR215SUMxN2dUYnhCYXpVYnZfd3YxcTZ4aVplVVJLZC1wUXdOVF9TSVp3Sk1sMzlPcURLNTAwOWZLTHJuWFVYb1Z0NTNpRVlheGhQWURhbDdhdlRhc2tFaTNmeXZuWENBR2k?oc=5"
+          },
+          {
+            "label": "Context Engineering方法讨论",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDJ2VVYwTzEzdnNjdTNINGIyRkw0Q3ByZDFpT0JERmRPNk92aUdJXzZUVG9tTjRNb0EwTHFTeGVQX2FLaUw4M1dQY0RwOVZUSFdfNFhLZzlPYzhhdjlrRnkxNXNWbzdfRUhsVjZJV1BEOXBXaWUtekNKTHBmN2MyQ1FCYnJMY3JPUEtmM2x4STdBU1UzdThUeV8tNWdrbEIyWTI4MDdiVXU?oc=5"
+          },
+          {
+            "label": "Claude API教程参考",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9najRRblk2QUJhX1l2Zm1ZRjhzOFJaT2JTc3FRQzVYek5wUkhlYWZvbTFwTmZQZUx1S2hvdDNMa0tpWmpNLTNObGtiaHV1SE14R0ZUcE85YWp2cndaWjBKcm0xX2ZKTnZnM2wtV1U4dnpJMzRz?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkZIS0tkdVJ2YzZxUkRvT2FDQnVQOGw5OEtLcDE0UFl4TEhQT2FqR215SUMxN2dUYnhCYXpVYnZfd3YxcTZ4aVplVVJLZC1wUXdOVF9TSVp3Sk1sMzlPcURLNTAwOWZLTHJuWFVYb1Z0NTNpRVlheGhQWURhbDdhdlRhc2tFaTNmeXZuWENBR2k?oc=5"
+      },
+      {
         "slug": "ai-guide-20260511-auto-1-c5f79a",
         "title": "16项技能约束AI写码",
         "category": "AI使用教程",
@@ -7155,6 +7329,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260512-auto-1-1dff59",
+        "title": "Soul开源AI数字人技术",
+        "category": "开源项目",
+        "date": "2026-05-12",
+        "summary": "Soul宣布AI数字人技术开源，聚焦互动应用与生态协作。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Soul开源AI数字人技术 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年5月12日，Soul相关报道显示其AI数字人技术进入全面开源阶段。该进展的核心价值在于把原本封闭的能力组件化，方便开发者和企业在社交互动、内容生产与服务场景中复用。",
+          "blocks": [
+            {
+              "heading": "这次开源覆盖什么",
+              "paragraphs": [
+                "从公开信息看，本次动作强调“全面开源”与“开放技术生态”两点，意味着不仅发布单点模型，而是更可能包含数字人链路中的关键能力模块。",
+                "数字人系统通常由语音、视觉驱动、对话与编排组成。若以开源方式提供，团队可以按需替换模型或中间件，降低单一厂商锁定风险。",
+                "对行业用户而言，这类开源发布的意义在于可审计、可二次开发、可私有化部署，尤其适合对数据合规和可控性要求较高的业务。"
+              ]
+            },
+            {
+              "heading": "应用价值与门槛评估",
+              "paragraphs": [
+                "在用途上，数字人可用于客服接待、直播助理、培训讲解和社区运营等，需要稳定的人机互动体验与多模态输出一致性。",
+                "上手门槛主要来自三方面：算力预算、工程集成能力、以及场景数据准备。即使模型开源，团队仍需完成部署、监控和安全治理。",
+                "中小团队可先从小规模试点切入，例如文本驱动的轻量数字人，再逐步扩展到实时语音视频交互，以控制迭代风险。"
+              ]
+            },
+            {
+              "heading": "对开发者生态的影响",
+              "paragraphs": [
+                "开源后，社区通常会围绕SDK、插件和示例工程形成二次创新，开发者可在统一底座上构建行业化应用，而不是从零开始。",
+                "对于准备接入的团队，建议优先验证许可证条款、依赖清单和更新节奏，确保后续商用与维护路径清晰。",
+                "从2026年市场节奏看，开源数字人项目的竞争点正从“能不能做”转向“是否稳定、可运营、可持续”，这将推动项目治理和文档质量同步提升。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "六安新闻网原文",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvc0tFTDZuVzBrZ0FLUUNBMlNQaTluTWVyU1NpdmZ3VlFudmp2anJVT0Eya3NXZzF5SFlLSE8zWHY3RGd1MzBIS20zaWlucmtKMlhJal9neko5YzNN?oc=5"
+          },
+          {
+            "label": "钛媒体Edge AI早报",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qMDYxazlDbFo0R3dWeGZ4dHNxNjBCdXdnaGpnR3pjVWJUWWEtWk50MHJIM29ZckF0Z2k2YWkwTGY2aGZGMjZDSGlXaGw?oc=5"
+          },
+          {
+            "label": "Legal IT Insider相关观察",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdS1lRVVmNk1kcGRlTGtqVHFsd2Y4NW14b0ZxSXQ1MlR1enhQQnJISG1mSWZ0Wm5CYVZuSmZWQWk4TlU2NkZzZlVCX3RjVkZ5UHZEek5VcDhWWExpUm5UTlAzZGZBd2tQNjhGcE5SdVczcGJNYlpmX0JzeU1jbWRFM29jNWRHR0JqQlVEMGprTm56anR4WXBOTWJjcmFYVDBTMWUzSmRSSWl4b3RNYXRjcnRPeDlzYWkwZmc?oc=5"
+          }
+        ],
+        "source": "六安新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvc0tFTDZuVzBrZ0FLUUNBMlNQaTluTWVyU1NpdmZ3VlFudmp2anJVT0Eya3NXZzF5SFlLSE8zWHY3RGd1MzBIS20zaWlucmtKMlhJal9neko5YzNN?oc=5"
+      },
+      {
+        "slug": "open-source-20260512-auto-2-c9747f",
+        "title": "RPCS3收紧AI投稿规范",
+        "category": "开源项目",
+        "date": "2026-05-12",
+        "summary": "RPCS3因AI生成PR引发回归，更新贡献指南并抬高准入要求。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "RPCS3收紧AI投稿规范 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月12日，多家媒体提到RPCS3更新贡献指南，直接原因是大量AI生成的低质量PR导致模拟器回归问题。事件焦点不是“是否使用AI”，而是如何在开源协作中保证代码质量。",
+          "blocks": [
+            {
+              "heading": "事件核心与治理变化",
+              "paragraphs": [
+                "RPCS3团队将问题指向“AI生成但缺乏验证”的提交，这类改动在复杂项目中容易引入隐蔽缺陷，增加维护者审查负担。",
+                "新版贡献规范预计会强化提交说明、测试证明与复现步骤要求，让维护者更快判断改动价值和风险边界。",
+                "这类治理动作属于开源项目常见的流程升级，目的是恢复贡献通道的有效性，而非完全排斥自动化工具。"
+              ]
+            },
+            {
+              "heading": "对贡献者的实际影响",
+              "paragraphs": [
+                "对于新贡献者，门槛将从“能发PR”转向“能证明正确性”，包括本地测试、日志截图、性能或兼容性对比等证据。",
+                "使用AI辅助编码仍可行，但提交前需要人工审读与回归验证，特别是涉及底层性能、内存与兼容性路径的改动。",
+                "若缺少PS3模拟器相关背景，建议先从文档、构建脚本或小型工具链问题入手，逐步熟悉代码结构再触及核心模块。"
+              ]
+            },
+            {
+              "heading": "给开源AI协作的启示",
+              "paragraphs": [
+                "事件反映出AI普及后开源社区面临的新平衡：提高提交效率与维持维护质量必须同步推进，单靠生成速度无法替代工程验证。",
+                "项目方可通过模板化PR、自动化测试门禁和更细颗粒度的代码所有权机制，提前拦截不合格改动。",
+                "对使用者和贡献者而言，最有效的实践是把AI当作草稿工具，而不是最终作者，并以可复现、可回滚、可审计作为提交标准。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TweakTown报道",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcTV0VjFpR2RIZEVFaHRLVG92bEZmWUEwSFlySWtzSnlXeVBSZ2ZMa3BvczBvVXFoQUo5V0kzZVo5V1VndnVrY3luWE5ua3NqQjg3b3pHd2tLOGM3S2FvRi1RWXdzVWl2Y3VxU0VzckluVWpjXzBONk9iamdxWERPRHJMakJDanZsYlRNRnZyd3M4aG83RjZoU21sY1VRNEM0c2VBb1I2SHA1azdVVDZ2Nks5MTN5enhzSnZZRkRMYlFSVXl1YnFUV1lYekdZQ053Rml1cXJfOGF6M0JjWXBrd2tCNV8zNlQ1MF9HcXVTZ19yMFBMeWwwRG5Kaw?oc=5"
+          },
+          {
+            "label": "HotHardware跟进",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUNzOVdMS1FETk5rV0psX0lpU0UzMk9tWXhMUlRHYVNlbk84NTVGTHdwanB1MHc5bXJHQnQ5ZHMzTFFnSHFrREhOZXlRbTFQMTYwcjAxMGZJVEtvNTZkOUtCcktLTW1PWTlRVDZ1UmY0TjJuT1ppRHgwc2wzVVlic0ZGQTE5dGpCbTZucjl1aGNzTk1JaTBQamhLUklGTllha2Q2eF9CTnR1OFg0d04zNA?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews相关风险",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejlPeTZ1N2VIVHFrdGxuSTBKdy1QaVdZSEJBb3JESlpoOElVMVM1WEVYRGlFaEVKaXFNcXR6T3hfMFhWSnBhQ0F0b3ZUUDlVMTAwRHBqWDZhTDVYX3RMVUJ1ZUl1MktoejVYMDVXb2REWElGRFl0SlpueXJqUUZjRU9qai1NRGfSAYwBQVVfeXFMUE9LN2JzR3I5S1ZWT1h1SnFSM2U2TkQ2N3UzSzZ4Qk9FUTQ0ZXBvMjVuLTUzWlhHMm0yUDhBRzFob09TYmpwa0haTmFiTzFDSmVtOGdwVUQ1R1N5aTBSa2hTeHZvRWM0SzJ4UjFjejJNYU5iS0N1RnozeUN0bTBSNDB2SHpBZEp6Sm1BVlc?oc=5"
+          }
+        ],
+        "source": "TweakTown",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcTV0VjFpR2RIZEVFaHRLVG92bEZmWUEwSFlySWtzSnlXeVBSZ2ZMa3BvczBvVXFoQUo5V0kzZVo5V1VndnVrY3luWE5ua3NqQjg3b3pHd2tLOGM3S2FvRi1RWXdzVWl2Y3VxU0VzckluVWpjXzBONk9iamdxWERPRHJMakJDanZsYlRNRnZyd3M4aG83RjZoU21sY1VRNEM0c2VBb1I2SHA1azdVVDZ2Nks5MTN5enhzSnZZRkRMYlFSVXl1YnFUV1lYekdZQ053Rml1cXJfOGF6M0JjWXBrd2tCNV8zNlQ1MF9HcXVTZ19yMFBMeWwwRG5Kaw?oc=5"
+      },
       {
         "slug": "open-source-20260511-auto-1-5b9d6f",
         "title": "AMD开源多路径训网协议",

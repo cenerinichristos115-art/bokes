@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>xBubble短指令实操指南 | 寂川日报</title>
+<meta name="description" content="基于xBubble平台，搭建可复用的AI代理工作流。" />
+<meta name="keywords" content="AI新闻,AI使用教程,디지털투데이" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260512-auto-1-ef37a7.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="xBubble短指令实操指南" />
+<meta property="og:description" content="基于xBubble平台，搭建可复用的AI代理工作流。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260512-auto-1-ef37a7.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-12" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="xBubble短指令实操指南" />
+<meta name="twitter:description" content="基于xBubble平台，搭建可复用的AI代理工作流。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"xBubble短指令实操指南","datePublished":"2026-05-12","dateModified":"2026-05-12","description":"基于xBubble平台，搭建可复用的AI代理工作流。","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260512-auto-1-ef37a7.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260512-auto-1-ef37a7.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">xBubble短指令实操指南</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-12">2026-05-12</time> | 文章日期：<time datetime="2026-05-12">2026-05-12</time> | 来源：디지털투데이</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="xBubble短指令实操指南 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">第一步：先定义可执行任务边界</a></li>
+<li><a href="#section-2">第二步：配置工具链与调用顺序</a></li>
+<li><a href="#section-3">第三步：上线监控与持续优化</a></li>
+</ul>
+</nav>
+<p class="detail-intro">截至2026年5月12日，AI代理平台开始从“能对话”转向“能执行任务”。如果你想把短指令交互用于日常业务，关键不在模型参数，而在任务拆解、工具调用顺序和结果校验。下面给出一套可直接落地的xBubble实操流程。</p>
+<section>
+<h2 id="section-1">第一步：先定义可执行任务边界</h2>
+<p>先选一个高频、低风险场景做试点，例如“每天抓取3个行业新闻并生成100字摘要”。不要一开始就做跨部门复杂流程，先把输入、处理、输出三个环节写成一句话，确保团队成员理解一致。</p>
+<p>把短指令标准化为模板：目标+约束+输出格式。例如“收集A领域今日资讯，去重后输出3条，每条含标题、来源、链接，不超过100字”。这样可以减少指令歧义，便于后续复用和A/B对比。</p>
+<p>设定验收规则并量化：完整率、错误率、人工修改时长。建议试运行3天，每天记录10次调用结果。若错误率持续高于20%，优先调整任务边界与提示词，而不是立即更换模型。</p>
+</section>
+<section>
+<h2 id="section-2">第二步：配置工具链与调用顺序</h2>
+<p>在xBubble中先连接最少必要工具，通常包括搜索、文档读取、表格写入或消息通知。初期遵循“一个任务最多3个工具”的限制，避免流程过长导致失败点增加。</p>
+<p>为每个工具增加输入输出约束，例如搜索工具只接收关键词和时间范围，写表工具只接收结构化字段。把自由文本尽量转为固定字段，能显著降低代理执行偏差。</p>
+<p>设置失败回退路径：当主流程失败时，自动触发“重试一次+降级输出”。例如搜索失败则返回“未找到符合条件信息”并通知人工复核。这样可以保证流程不中断，并把异常显式化。</p>
+</section>
+<section>
+<h2 id="section-3">第三步：上线监控与持续优化</h2>
+<p>上线后先以“半自动”运行1周：代理生成结果，人工审核后再发布。记录每次被修改的原因，按“事实错误、格式错误、遗漏信息”分类，便于定位是数据问题还是提示词问题。</p>
+<p>每周固定做一次提示词回顾，保留版本号。推荐保留三套模板：稳定版、实验版、应急版。稳定版用于生产，实验版用于小流量测试，应急版用于平台波动或工具失效时快速切换。</p>
+<p>当任务稳定后再扩展场景，例如从“资讯摘要”扩展到“周报汇总”或“竞品监测”。扩展时继续沿用同一套指标体系，确保每新增流程都能被量化评估，而不是只看主观体验。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkZIS0tkdVJ2YzZxUkRvT2FDQnVQOGw5OEtLcDE0UFl4TEhQT2FqR215SUMxN2dUYnhCYXpVYnZfd3YxcTZ4aVplVVJLZC1wUXdOVF9TSVp3Sk1sMzlPcURLNTAwOWZLTHJuWFVYb1Z0NTNpRVlheGhQWURhbDdhdlRhc2tFaTNmeXZuWENBR2k?oc=5" target="_blank" rel="noopener noreferrer">디지털투데이（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDJ2VVYwTzEzdnNjdTNINGIyRkw0Q3ByZDFpT0JERmRPNk92aUdJXzZUVG9tTjRNb0EwTHFTeGVQX2FLaUw4M1dQY0RwOVZUSFdfNFhLZzlPYzhhdjlrRnkxNXNWbzdfRUhsVjZJV1BEOXBXaWUtekNKTHBmN2MyQ1FCYnJMY3JPUEtmM2x4STdBU1UzdThUeV8tNWdrbEIyWTI4MDdiVXU?oc=5" target="_blank" rel="noopener noreferrer">Context Engineering方法讨论</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9najRRblk2QUJhX1l2Zm1ZRjhzOFJaT2JTc3FRQzVYek5wUkhlYWZvbTFwTmZQZUx1S2hvdDNMa0tpWmpNLTNObGtiaHV1SE14R0ZUcE85YWp2cndaWjBKcm0xX2ZKTnZnM2wtV1U4dnpJMzRz?oc=5" target="_blank" rel="noopener noreferrer">Claude API教程参考</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
