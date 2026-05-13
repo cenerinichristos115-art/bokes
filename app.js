@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260513-auto-1-dd002d",
+        "title": "谷歌发布安卓AI系统",
+        "category": "AI新闻",
+        "date": "2026-05-13",
+        "summary": "谷歌在安卓端推出AI系统，终端智能入口竞争升级。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌发布安卓AI系统 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月13日，谷歌发布安卓AI系统的消息引发终端产业链关注。市场普遍将其视为移动操作系统与生成式AI进一步融合的阶段性动作。",
+          "blocks": [
+            {
+              "heading": "事件进展",
+              "paragraphs": [
+                "据手机新浪网报道，谷歌面向安卓生态发布AI系统，核心看点在于将模型能力更深地嵌入系统层，而非停留在单一应用插件层面。",
+                "在移动端竞争中，系统级AI通常意味着更稳定的调用入口、更广泛的设备覆盖，以及与搜索、助手、内容生产工具的联动能力提升。",
+                "从发布时间看，此次动作处于全球手机厂商密集推进端侧AI的窗口期，具备较强的行业信号意义。"
+              ]
+            },
+            {
+              "heading": "产业影响",
+              "paragraphs": [
+                "安卓作为全球主要移动生态，其AI能力升级将影响芯片、终端、应用分发和开发工具等多环节，推动产业从“功能AI”走向“系统AI”。",
+                "对开发者而言，统一的系统级接口有助于降低AI功能集成成本，提升跨设备适配效率，进而缩短产品迭代周期。",
+                "对硬件厂商而言，AI系统能力可能倒逼算力、存储和功耗管理方案同步升级，强化中高端机型的技术门槛。"
+              ]
+            },
+            {
+              "heading": "市场与后续观察",
+              "paragraphs": [
+                "在资本市场层面，A股与港股相关AI应用链条近期活跃，部分ETF与个股表现反映出资金对“AI终端化”逻辑的持续跟踪。",
+                "后续可重点观察三项指标：系统级AI功能的实际装机渗透率、开发者生态活跃度，以及用户留存和付费转化数据。",
+                "若上述指标持续改善，移动AI商业化重心可能由概念验证转向规模运营，行业竞争也将更强调产品落地效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：谷歌发布安卓AI系统",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSnppcHFyTVM4cFBNYUdDQjVqRlZGSzY2S3ZwVmE5ZmxLOUM5R2lYd1RSM0lQeEd0TGVmTTFVRjNOZG5NbmtYenBaRGhyMW1xaTllaWZXVldWeTFmSEsxNTFtV01tSEJld2ZoRUl5aXRsbE1yM3lnLVVQR0FfNlN4aUFQa3dhZ3B6U2tocHI3WmxtR1p6c0RQUXdMbnZKRkM3dlFEaGxheV9TQ0NqUjFUZ3ViUkRDbElWclZ4QmVuajJ0YkdTSlEzc2FJeV9Ya2JoOTJKZWhYQk8xeE9zZ0M2aUFnbEpfSzRra1FXclhoelhpQmxDdkUyeDI2ZVhpX2xMNklydjNZUndNMDE0SzJrY29tQUo?oc=5"
+          },
+          {
+            "label": "搜狐网：AI应用加速落地与ETF表现",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVhJejZjMDRCUlg0VHlwaU9mT0hzVzRUczYzUmlfd0JxQUViYlVzdXFCM0FsaHZjd3BLYlNGVGM2ZmR5RVc1ZlE0UFExZHBwUU1ycVNlb3UtTnZ0dEhKdTR0RzEtVWVsbkdzSXlkUUF1TlhGSFFJQ0FPaWJ5WDFzVUJrX04zdDRYRC1lRg?oc=5"
+          },
+          {
+            "label": "每日经济新闻：智驾数据驱动趋势",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YY0s5aDVCQVdXMURLVFprVFZMdHl2NGx5V1RkSTZyUWRYSWZCSGpXR1BfZ3l2c3J0V2JKYjVQUjdoLVVpRnRFNDFUeUx5a0IxV283Zm5VYzZwNGNGaG0yM3FUTDA5dw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSnppcHFyTVM4cFBNYUdDQjVqRlZGSzY2S3ZwVmE5ZmxLOUM5R2lYd1RSM0lQeEd0TGVmTTFVRjNOZG5NbmtYenBaRGhyMW1xaTllaWZXVldWeTFmSEsxNTFtV01tSEJld2ZoRUl5aXRsbE1yM3lnLVVQR0FfNlN4aUFQa3dhZ3B6U2tocHI3WmxtR1p6c0RQUXdMbnZKRkM3dlFEaGxheV9TQ0NqUjFUZ3ViUkRDbElWclZ4QmVuajJ0YkdTSlEzc2FJeV9Ya2JoOTJKZWhYQk8xeE9zZ0M2aUFnbEpfSzRra1FXclhoelhpQmxDdkUyeDI2ZVhpX2xMNklydjNZUndNMDE0SzJrY29tQUo?oc=5"
+      },
+      {
+        "slug": "ai-news-20260513-auto-2-7721ba",
+        "title": "深演智能通过港交所聆讯",
+        "category": "AI新闻",
+        "date": "2026-05-13",
+        "summary": "深演智能冲刺港股上市，企业决策AI智能体赛道进入资本化阶段。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "深演智能通过港交所聆讯 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月13日，企业决策AI智能体公司深演智能通过港交所聆讯的消息受到产业和资本市场关注，标志着垂直AI应用公司进入新一轮资本化窗口。",
+          "blocks": [
+            {
+              "heading": "融资与上市节点",
+              "paragraphs": [
+                "根据每日经济新闻披露，深演智能通过港交所聆讯，被市场视作“企业决策AI智能体”赛道的重要里程碑事件。",
+                "对公司而言，聆讯通过意味着上市流程进入关键阶段，后续募资能力、市场定价和股东结构将成为外界关注焦点。",
+                "对行业而言，该进展提供了可参考的资本路径，说明垂直场景AI在商业化验证后，已具备进入公开市场的条件。"
+              ]
+            },
+            {
+              "heading": "商业模式与竞争要点",
+              "paragraphs": [
+                "企业决策类AI产品通常依赖行业数据沉淀、场景流程适配和持续迭代能力，其竞争壁垒更多来自长期数据资产与交付能力。",
+                "在B端客户侧，采购决策更看重ROI、合规性与可解释性，因此厂商需要在模型性能之外强化实施、运维和治理体系。",
+                "随着头部企业推进“从试点到规模部署”，AI智能体供应商将面临从项目制向平台化收入结构转型的经营考验。"
+              ]
+            },
+            {
+              "heading": "政策与市场环境",
+              "paragraphs": [
+                "地方产业政策持续加码，为企业级AI应用提供了算力、场景和资金支持，客观上提升了相关公司的扩张效率。",
+                "全球范围内，企业AI投入也在从实验导向向业务导向转变，资本市场更关注可持续收入与客户留存等核心经营指标。",
+                "后续需重点观察其募资用途分配、研发与销售投入强度，以及上市后在重点行业的签约和回款节奏。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "每日经济新闻：深演智能通过港交所聆讯",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTDFWOGJ2MWlPXzA0RVpjRUcwcnA0amNsd2JvYjFUNExKd1U5UmVtWEEtQWVnTjNmZzBIUnNwaG1TWEdkY2VKQTRORi1Qa21pSjFzZkpiNnk1a1J4Q1dEX0gyY0ZGQQ?oc=5"
+          },
+          {
+            "label": "Times Square Chronicles：OpenAI企业推进",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0l3T25iUWpjU1FOU0Y3a3RhUlMxWlhMOEtobU8zWWdEcUpBR2Q5cHFnakY0OHpaYWVJbTdfSlNVMkVhVjFRU2xVUUN0UnFRbDlyd0ZDdDZMZ3k4SWd6Q1BLRFlnbUFzS21UVDR1VDVnVUFsMF8tNDdyOXdZa280VXIwUXV3SllMcl9iVlNUN0l6cENxb0RxeWFR?oc=5"
+          },
+          {
+            "label": "搜狐网：广州政策加码AI产业",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGpXZkpIYW9ueXBRZjdLcW9QQzRERTdhRjdJOHZsX3R5YVVPNlJsOWFGQjY1YTU4MWRHVTN4cnFTR0pvQzlKaUFsZnpnMDYxS2ZmOG9mNmt1UThCdjhxdVgwbGlVTzJfTU15YmVNcF9GWktDTUx3T1dObm9tUGpwV0JicDRQRU4xTTQ0Mg?oc=5"
+          }
+        ],
+        "source": "每日经济新闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LTDFWOGJ2MWlPXzA0RVpjRUcwcnA0amNsd2JvYjFUNExKd1U5UmVtWEEtQWVnTjNmZzBIUnNwaG1TWEdkY2VKQTRORi1Qa21pSjFzZkpiNnk1a1J4Q1dEX0gyY0ZGQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260512-auto-1-a4ebf8",
         "title": "首例AI种草案宣判",
         "category": "AI新闻",
@@ -5271,6 +5387,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260513-auto-1-6340b8",
+        "title": "企业防影子AI实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-13",
+        "summary": "基于最新风险报道，给出企业防影子AI落地步骤。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "企业防影子AI实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026-05-13的企业AI应用语境下，影子AI已从“个人效率工具”演变为数据与合规风险入口。下面给出一套可在两周内启动、四到八周见效的执行方案，适用于中小到大型组织。",
+          "blocks": [
+            {
+              "heading": "第一步：先做资产盘点，再定使用边界",
+              "paragraphs": [
+                "先用7天完成“AI工具资产清单”。由IT、信息安全、法务、人力联合发起，收集员工正在使用的网页AI、插件、桌面客户端、API密钥和自动化脚本。重点记录工具名称、使用部门、输入数据类型、是否涉及客户信息与源代码。",
+                "把数据按敏感级别分四类：公开数据、内部数据、受限数据、严格受监管数据。形成一张“数据-工具映射表”，明确哪些数据可进入外部模型、哪些只能在企业私有环境处理。没有分级就无法执行后续管控。",
+                "发布一页式《AI使用红线》并要求签收：禁止粘贴生产数据库明文、未脱敏合同、个人身份信息和未发布财报信息；允许在脱敏后用于摘要、翻译、模板生成。规则要短、可查、可追责，避免原则化表述。"
+              ]
+            },
+            {
+              "heading": "第二步：建立技术控制，减少人为失误",
+              "paragraphs": [
+                "在网络出口与终端侧同时布控。出口侧通过安全网关识别常见AI域名与上传行为，终端侧通过浏览器策略限制高风险插件安装。对研发岗位额外启用代码仓库外发审计，拦截包含密钥、证书和内部接口地址的内容。",
+                "为业务部门提供“可用替代品”，例如企业批准的AI门户或统一API代理，默认开启日志留存、脱敏和配额管理。只做封禁会催生绕过行为，提供受控通道才能真正降低影子AI比例。",
+                "设置三类自动告警：高敏数据外发、异常高频调用、非工作时段批量请求。告警要绑定责任人和SLA，例如2小时内初判、24小时内闭环。每周回顾误报与漏报，逐步优化规则，而不是一次性上线后长期不调。"
+              ]
+            },
+            {
+              "heading": "第三步：把治理嵌入流程与考核",
+              "paragraphs": [
+                "把AI使用检查点写入现有流程：采购流程增加“是否含模型调用”，项目立项增加“数据来源与去向”，上线评审增加“提示词与输出审计策略”。这样治理不会成为额外动作，而是进入日常管理链路。",
+                "开展分层培训并用案例教学。管理层看责任边界与事故成本，一线员工看可直接套用的操作清单，研发看密钥管理与代码泄露防护。培训后安排10题测试与抽样复盘，确保规则被理解而非仅被通知。",
+                "用三项指标评估成效：未授权AI工具数量、敏感数据外发事件数、合规审计整改时长。按月公开趋势，在2026年Q2内先实现“工具可见、行为可管、事件可追”。达到这一阶段后，再推进更细粒度的模型安全与供应商评估。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "数据泄露重灾区！拒绝影子AI：企业如何守住AI时代的最后一道防线",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84T0hRdEU5d21PRTd1UHl4X1N1VHFZMlRiOUZBamI2bDA0UzhYTGdqNmhPVElDcXJCYmw3UENXQ0hTemVjaXV6dE5GMVE4cVBOaDc0?oc=5"
+          },
+          {
+            "label": "大模型软件工程落地复盘：从研发提效到质量治理的路线图与避坑清单",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWkhsRVdHd3BURHVaSXUyRFZTSWtTTjRIcWpZVDV4SWhaS2tYcURHUFo0cWhuZEUzb3JLaEg1b0U2NmJnaUktNEFmdzlvd2RJV2JN?oc=5"
+          },
+          {
+            "label": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONERNZF9SUXdWNm5EbEx0dFJ5N1E2UVlzbW95ZFFxSUNCRjNUSTFqLWlrelJmS204djF0Y181b1o4aXBFeTQ5X3R5dU5XLWlEQ29pNEJBQnh4ejJUS1A4LUNMS2toUV8xRnRRYjlsZTdQTkJPdTFnNlpHdWNLXy1SMEpmN0dGTmpJWWdEQl9YN1VCajlvbG1rQzRMTWdqUl82N09rYnVEUHVZMGgtN3J0WVRFM181MUMzQTRfNzNnSEkxQjM5N2YwWEs3UktCalJZX1I2SVplZTB5eXlpUEh1T01MODVPTWgtVTF2RVgySWlXRi0tVUxZT3IwZkZHNEUzRVpVelZIMUxPU0F2Z0E?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84T0hRdEU5d21PRTd1UHl4X1N1VHFZMlRiOUZBamI2bDA0UzhYTGdqNmhPVElDcXJCYmw3UENXQ0hTemVjaXV6dE5GMVE4cVBOaDc0?oc=5"
+      },
+      {
         "slug": "ai-guide-20260512-auto-1-ef37a7",
         "title": "xBubble短指令实操指南",
         "category": "AI使用教程",
@@ -7329,6 +7503,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260513-auto-1-71057e",
+        "title": "DreamLite开源上手机",
+        "category": "开源项目",
+        "date": "2026-05-13",
+        "summary": "字节新开源项目瞄准端侧绘图，强调本地运行与低云依赖。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DreamLite开源上手机 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年5月13日，北京时间，端侧AI继续升温。根据公开报道，DreamLite以“本地运行绘图能力”为核心卖点，面向手机等终端设备提供更轻量的生成式体验。",
+          "blocks": [
+            {
+              "heading": "这次更新关注什么",
+              "paragraphs": [
+                "DreamLite被描述为字节系的开源新作，定位在移动端AI绘图场景，目标是减少对云端推理的强依赖。",
+                "从产品方向看，它对应的是“随手生成、随地可用”的创作需求，适合内容草图、风格尝试和快速可视化表达。",
+                "在2026年端侧模型竞争背景下，这类项目的关键指标通常是模型体积、延迟、功耗以及可接受画质之间的平衡。"
+              ]
+            },
+            {
+              "heading": "用途与适用人群",
+              "paragraphs": [
+                "普通用户可把它当作手机上的轻量画板，用于灵感记录、社媒配图和概念草图，不必每次都连接云服务。",
+                "开发者可关注其推理框架兼容性与接口设计，若支持常见移动端部署栈，将更容易接入现有应用。",
+                "企业团队可用于离线或弱网场景的原型验证，尤其是在对数据外传敏感、需本地处理的工作流里。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "上手门槛主要在设备性能和部署经验两方面：中高端手机更容易获得可用速度，老设备可能需要降低分辨率或步数。",
+                "如果你是初学者，建议先从官方示例参数起步，优先验证可运行性，再逐步调整采样设置和风格提示词。",
+                "若用于生产环境，应补充模型版本管理、输出内容审核和隐私评估，以避免端侧能力上线后出现合规缺口。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：DreamLite 端侧画板报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42dGlsX2NOOVdMNE9YcS1WYm0xSjhzNHk0UUdCTjJ4bTlDcWZ1MmZ3NVMyckVKbUZwRnFTODE4ZDVEZEYwMkN2bkV5VTBRQVR2akRz?oc=5"
+          },
+          {
+            "label": "Startup Fortune：小模型上设备趋势",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnprVVJ3dURLcU5OcV81QkFRR0dzSzN3cnBYMldnc2JBaGFFUlJxTU9nMWlGTld5NkJuZ2RSMkp2SUhXVzc5S3ZrNWw4dTNKTEV4VUN3aW05OWpDWTE2dktSRHJSakNKV2RGdnFMaWNOVDlBcWxiTmVaTjcwb01NQWZ4czBqbERiSzhuOQ?oc=5"
+          },
+          {
+            "label": "VentureBeat：视频模型成本对比",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaXhoSW1DN3NyZEcteU1wcjg1b1kwYjVoVUROTkJGa2xxWE9SXzBYVDVlM25mTmkzcWFDa3BHMU5KWFZ3TFNCRnFoUThpNnRZQXVFUXZQODg0STNqTFFBenM3eTJFQm1DaHJDTWx5eGZXdTBsWlJieVRtS01XbW0tV3ViU2JpU3RaVGREZUY3TWRjR0NCczByZklKc1VKQXZMdUw5RGw5b1Z2dGNta3RGM3B6WXF0RmktWG4zRTBRRzd5ck53NWxaN1hTV2pBTE5mRnJ6REVfendZUDFwdWRjQ1lMZ1k?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42dGlsX2NOOVdMNE9YcS1WYm0xSjhzNHk0UUdCTjJ4bTlDcWZ1MmZ3NVMyckVKbUZwRnFTODE4ZDVEZEYwMkN2bkV5VTBRQVR2akRz?oc=5"
+      },
+      {
+        "slug": "open-source-20260513-auto-2-acebfc",
+        "title": "AntAngelMed发布观察",
+        "category": "开源项目",
+        "date": "2026-05-13",
+        "summary": "103B开源医疗模型公布架构细节，强调医学场景与MoE效率。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AntAngelMed发布观察 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年5月13日的开源AI动态中，AntAngelMed以103B参数规模和1/32激活比MoE架构受到关注，定位为医疗语言模型的开源方案之一。",
+          "blocks": [
+            {
+              "heading": "项目核心信息",
+              "paragraphs": [
+                "该模型强调医疗文本理解与生成能力，适配问答、摘要、病历整理等常见医学语言任务。",
+                "公开信息提到其采用MoE结构并控制激活比例，这通常有助于在大参数规模下优化推理效率。",
+                "对行业用户而言，关键不只在参数量，更在数据覆盖、评测方法、临床术语一致性和可复现性。"
+              ]
+            },
+            {
+              "heading": "可落地的使用场景",
+              "paragraphs": [
+                "在医院信息化场景，它可用于辅助病历结构化、出院小结草拟和医学文献初筛，但仍需人工复核。",
+                "在药研与学术场景，它可承担文献问答与知识归纳任务，帮助研究人员缩短资料整理周期。",
+                "在教育场景，医学生与培训机构可用于案例讨论和术语学习，前提是明确其非诊断工具属性。"
+              ]
+            },
+            {
+              "heading": "上手门槛与合规边界",
+              "paragraphs": [
+                "门槛首先是算力与工程能力：超大模型通常需要多卡环境、量化策略和成熟的推理编排经验。",
+                "其次是数据合规要求，医疗场景涉及敏感信息，部署前应建立脱敏流程、访问控制与审计机制。",
+                "建议团队先以离线评测和小范围试点验证效果，再决定是否面向真实业务开放，避免一步到位带来风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：AntAngelMed 103B介绍",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVdBa1d4eXlMTW92eFpieHZtWU0zQUtVWW03WjFPWTMzXzdTUHEwc3h6T3I1UEpTUlN3SjJRU2JWSHJSWDFyd1NOeTd3eXpVUTNMVklqeUJjRlpIcDF6amlMMF9zUm4wdWtuS01HUmNwS3lIOENPbGFuTk5tY1A4SEdjdEs2VjlWWm0yYkNRN0ZJVUt5YkJoRF9NQWdURjg4OV9zWS14VGp0S25iZFhHdUtsUU0wWWY3Sk5BUW5aY2dZMFpVX2E4ODJGX0hwSmZNY3EwaDZwWnBfM3MyVFozX3kzMm5QWjVHcERBcGFLYzg?oc=5"
+          },
+          {
+            "label": "YourStory：AI用于药物研发案例",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEFMdVdkWVhuU1VZR1RxNk9DeFhLTkdIQ1JpWGFjb2hpd3VvR1lpNWE4MG9LVHptd1JQMmZMODBCamRPakpnUzg4ZUQteVVnUEQtc3F6akR1Q1FGTktSWEstR2VWazJlalZldWNYZXMtSld4Zk52Y25uRUlBRHp5a1BCOS1ZRnhpQUNwMHNtY0xJS3c3UlRmWGRtUnJqYVpK?oc=5"
+          },
+          {
+            "label": "Lifespan Research Institute：AI4L 1.0发布",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdmZpUUpLQWwyNUp3SWRXVmNJeXVub0VWTldYZko1ZDBnWVBiWW1DZVdac0l2YUFiUDlJU3Azd1kwSzdHdG92TEF2TVZxVElKeWNGeXRISmlScno4LS12b24wQ2tiajNPTTFVczdmeVkxdFJ0OUIzQjNPeEVRREc3OWRFblQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVdBa1d4eXlMTW92eFpieHZtWU0zQUtVWW03WjFPWTMzXzdTUHEwc3h6T3I1UEpTUlN3SjJRU2JWSHJSWDFyd1NOeTd3eXpVUTNMVklqeUJjRlpIcDF6amlMMF9zUm4wdWtuS01HUmNwS3lIOENPbGFuTk5tY1A4SEdjdEs2VjlWWm0yYkNRN0ZJVUt5YkJoRF9NQWdURjg4OV9zWS14VGp0S25iZFhHdUtsUU0wWWY3Sk5BUW5aY2dZMFpVX2E4ODJGX0hwSmZNY3EwaDZwWnBfM3MyVFozX3kzMm5QWjVHcERBcGFLYzg?oc=5"
+      },
       {
         "slug": "open-source-20260512-auto-1-1dff59",
         "title": "Soul开源AI数字人技术",
