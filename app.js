@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260514-auto-1-82df1b",
+        "title": "TDK ready to step",
+        "category": "AI新闻",
+        "date": "2026-05-14",
+        "summary": "TDK ready to step up investment to ride AI wave Th",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "TDK ready to step 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "TDK ready to step up investment to ride AI wave Th",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "TDK ready to step up investment to ride AI wave Th",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Japan Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2g3eDRfYnNMcWJHMlVQNllGcXhxVlhmclVTcGpqS0lIRWR3dHFWLW9tMWszNDNldVlWMm5pX3hZMFJTMkE0aWlyUEJlR0NuRk1CZDR3M2hHT01OMWFqd052SmJEay1UOHZrRkhUT0dvYTBFN0x0a1p0WEJlczlfUElzTVpUcDBZUkJR?oc=5"
+          },
+          {
+            "label": "Sina finance：希腊首次出台学校人工智能工具使用规范 - Sina finance",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GbHpjamhRNElVX0FMTmhyYkxJNTFpdy15dExtSVZNTjVGUlo0dFJmQlJycEc5bmI0WmdjSVE1VzZsRGxFZ0dUNWkwMHppeXJsb3BibUZaRzd3NklqSjJoZmJqbzIxYWJZc2V4XzlzOWNqcnJaemFYMQ?oc=5"
+          },
+          {
+            "label": "Storyboard18：Anthropic targets small businesses with new Claude suite amid expandin",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWZXNGVfbmFwOUYtSEstajVuTmtVOVBudUdVUXdEWUFRdm5NdkYzc0ZOOUJjSUJuTTQ4MWlBSHVEMmpkcVBfdXhKMDQ0bHBqQk9aMGhzckRPUXNTNm9na3dZdEJueFJmYXd5M3g4MG8xZUNreFhsZ05oTjNZSUVfcHBGSkNmSEwxUldsdzFpVWZyeUtjcjZhQkI1QnJ0azB3cXdzcG1wM2V6b0xzU1JFMUxGUVNBTmRHTVJpbHVzTW1QS0Zoei1ZZElEdTJrSm9q0gHWAUFVX3lxTE9aR19zM05qVGpBU2VWQ0o1MThCVEticTQxT3hDaHBFdmhaU3ZvR0hyVkE0MFFZQzd2MHVmMnFIQXRnMzFwTnEyTXBfY3c3WUZuWERxZGUzNkZLa19xMVpMeGwtLUhHSzRRUzk1d3gwSGp3c0N3M0tCOFhGYlJQTG4zeE13MS13ZHdOS21zczN6ZmwtN0dyY1Q5QXdBdGczb2txT2t5bUZDT1pNNXJTMUtvdjBFZEo5WXRnenF0OWJoeTliMTMyRFRRNGZJb1Z5c1FQb2NyUGc?oc=5"
+          }
+        ],
+        "source": "The Japan Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2g3eDRfYnNMcWJHMlVQNllGcXhxVlhmclVTcGpqS0lIRWR3dHFWLW9tMWszNDNldVlWMm5pX3hZMFJTMkE0aWlyUEJlR0NuRk1CZDR3M2hHT01OMWFqd052SmJEay1UOHZrRkhUT0dvYTBFN0x0a1p0WEJlczlfUElzTVpUcDBZUkJR?oc=5"
+      },
+      {
+        "slug": "ai-news-20260514-auto-2-6d65bd",
+        "title": "希腊首次出台学校人工智能工具使用规范",
+        "category": "AI新闻",
+        "date": "2026-05-14",
+        "summary": "希腊首次出台学校人工智能工具使用规范 Sina finance",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "希腊首次出台学校人工智能工具使用规范 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "希腊首次出台学校人工智能工具使用规范 Sina finance",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "希腊首次出台学校人工智能工具使用规范 Sina finance",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sina finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GbHpjamhRNElVX0FMTmhyYkxJNTFpdy15dExtSVZNTjVGUlo0dFJmQlJycEc5bmI0WmdjSVE1VzZsRGxFZ0dUNWkwMHppeXJsb3BibUZaRzd3NklqSjJoZmJqbzIxYWJZc2V4XzlzOWNqcnJaemFYMQ?oc=5"
+          },
+          {
+            "label": "The Japan Times：TDK ready to step up investment to ride AI wave - The Japan Times",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN2g3eDRfYnNMcWJHMlVQNllGcXhxVlhmclVTcGpqS0lIRWR3dHFWLW9tMWszNDNldVlWMm5pX3hZMFJTMkE0aWlyUEJlR0NuRk1CZDR3M2hHT01OMWFqd052SmJEay1UOHZrRkhUT0dvYTBFN0x0a1p0WEJlczlfUElzTVpUcDBZUkJR?oc=5"
+          },
+          {
+            "label": "Storyboard18：Anthropic targets small businesses with new Claude suite amid expandin",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeWZXNGVfbmFwOUYtSEstajVuTmtVOVBudUdVUXdEWUFRdm5NdkYzc0ZOOUJjSUJuTTQ4MWlBSHVEMmpkcVBfdXhKMDQ0bHBqQk9aMGhzckRPUXNTNm9na3dZdEJueFJmYXd5M3g4MG8xZUNreFhsZ05oTjNZSUVfcHBGSkNmSEwxUldsdzFpVWZyeUtjcjZhQkI1QnJ0azB3cXdzcG1wM2V6b0xzU1JFMUxGUVNBTmRHTVJpbHVzTW1QS0Zoei1ZZElEdTJrSm9q0gHWAUFVX3lxTE9aR19zM05qVGpBU2VWQ0o1MThCVEticTQxT3hDaHBFdmhaU3ZvR0hyVkE0MFFZQzd2MHVmMnFIQXRnMzFwTnEyTXBfY3c3WUZuWERxZGUzNkZLa19xMVpMeGwtLUhHSzRRUzk1d3gwSGp3c0N3M0tCOFhGYlJQTG4zeE13MS13ZHdOS21zczN6ZmwtN0dyY1Q5QXdBdGczb2txT2t5bUZDT1pNNXJTMUtvdjBFZEo5WXRnenF0OWJoeTliMTMyRFRRNGZJb1Z5c1FQb2NyUGc?oc=5"
+          }
+        ],
+        "source": "Sina finance",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GbHpjamhRNElVX0FMTmhyYkxJNTFpdy15dExtSVZNTjVGUlo0dFJmQlJycEc5bmI0WmdjSVE1VzZsRGxFZ0dUNWkwMHppeXJsb3BibUZaRzd3NklqSjJoZmJqbzIxYWJZc2V4XzlzOWNqcnJaemFYMQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260513-auto-1-dd002d",
         "title": "谷歌发布安卓AI系统",
         "category": "AI新闻",
@@ -5387,6 +5503,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260514-auto-1-dbe519",
+        "title": "AI怎样重塑大学课堂？ - Sina",
+        "category": "AI使用教程",
+        "date": "2026-05-14",
+        "summary": "AI怎样重塑大学课堂？ Sina finance",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI怎样重塑大学课堂？ - Sina 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI怎样重塑大学课堂？ Sina finance",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI怎样重塑大学课堂？ Sina finance",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sina finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwNnBvTW1nWjdjRG95eTBOdnRoMmp6OG1NdWk4UnpBMk5RTFFiNVpTNk9QQWNLMjZxMGN3bE5jR05hVlRDSkNhXzQzU3YzNzREYnExZ0dQMWVCV25oN1hMUk42eU1qRjhsYktFSHJsVkhyLUt3Q0E?oc=5"
+          },
+          {
+            "label": "51CTO：红帽AI 3.4发布：重大升级打通开发运维协作链路，赋能智能体未来 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfeV85YnhZUnNENE45MG5Ybng0cXpHOFdoTHd2ODA4X1RmNTJnZHduc3VYbVJhclVzWldrRVg2NWxwVW1zZDRhdUxkNnI4UXZ6WWNN?oc=5"
+          },
+          {
+            "label": "51CTO：图文详细教程， Claude Code + cc-switch 接入 DeepSeek V4 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZ3M5OS1zdlJpOGxJUmF1dFpLS05FZTM0T3M4NEpwSmRsc2hmQk9CbHJLbGFGOW42R0FBYTRpaGRrdV9RR0EzLVk4d0tOQWViaTFr?oc=5"
+          }
+        ],
+        "source": "Sina finance",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwNnBvTW1nWjdjRG95eTBOdnRoMmp6OG1NdWk4UnpBMk5RTFFiNVpTNk9QQWNLMjZxMGN3bE5jR05hVlRDSkNhXzQzU3YzNzREYnExZ0dQMWVCV25oN1hMUk42eU1qRjhsYktFSHJsVkhyLUt3Q0E?oc=5"
+      },
+      {
         "slug": "ai-guide-20260513-auto-1-6340b8",
         "title": "企业防影子AI实操指南",
         "category": "AI使用教程",
@@ -7503,6 +7677,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260514-auto-1-6b015d",
+        "title": "GLiGuard开源发布",
+        "category": "开源项目",
+        "date": "2026-05-14",
+        "summary": "Fastino开源3亿参数安全审核模型，主打低成本部署。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GLiGuard开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年5月14日，Fastino Labs披露其开源安全审核模型GLiGuard。该项目以约3亿参数规模切入内容安全与合规检测场景，重点是降低推理成本与部署门槛。",
+          "blocks": [
+            {
+              "heading": "这次更新发布了什么",
+              "paragraphs": [
+                "公开信息显示，GLiGuard定位为安全审核模型，面向文本与多模态内容治理任务。项目强调在较小参数规模下提供可用精度，适合资源受限环境。",
+                "与常见大体量审核模型相比，这类小模型方案更容易在本地或私有云部署，便于企业在不扩大算力预算的前提下先行上线基础审核能力。",
+                "从发布时间看，这是一次明确的“开源发布”事件，意味着开发者可围绕模型进行复现、微调和工程适配，而不必完全依赖闭源API。"
+              ]
+            },
+            {
+              "heading": "适用场景与价值边界",
+              "paragraphs": [
+                "该项目主要适用于社区内容审核、客服质检、生成内容预过滤等场景，尤其适合需要高并发、低时延和成本可控的业务线。",
+                "在企业侧，GLiGuard可作为第一层筛查模型，将高风险样本再转交更大模型或人工复核，从而平衡成本、吞吐和误判风险。",
+                "需要注意的是，小参数模型通常在长尾语义、跨语种语境和复杂上下文推理上仍有局限，生产环境应配合规则系统与人工抽检。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "技术门槛方面，团队需要具备基本的模型推理与服务化能力，包括容器部署、批量推理接口和日志审计链路建设。",
+                "数据门槛方面，建议先整理内部标注样本，按业务风险等级建立评测集，再决定是否进行领域微调，以减少上线后的策略回滚。",
+                "流程上可采用三步：先离线评估准确率与召回率，再灰度接入低风险流量，最后补齐告警与复核机制后全量推广。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fastino Labs开源GLiGuard报道",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbjVoenVycTk4OElPUG9UTEp4bktWaVV5bWtwSkh0ZWQ1c1N5T25sMkVvODVCOW9WOEl0eGtmQ01EMmdSWW9nNzlIRUplcE9GZzFuUk41MHp3cDZpMzd6d1RyXzd5anE1VGI2X3RRNUxyMEFiN2daRXlSSUltdHY4aHk1SkhhREhnOEdEU1lnZ1FqZkExWDE0dGFvcGhxckw2RW1HWFRUaTk5RURvakYwOUZfSjBNWjdrV3hSMElncDk1aE5zWDZxQnFsZ3VtRGtPQzMwRXpHbUl3elVDWXNnSlktM09FSTQ0UG5iYy1JRlZvaXFfYjdZQUpOMjNlQUt2YktkRDRR?oc=5"
+          },
+          {
+            "label": "Linux Foundation 2026年5月通讯",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5X2I0b296czRIdkV4VzZpQm1NYTdzdkhUX1k1SFVuWEJMaWVSSmhVZ3RjNU9lQVozSFVwUEk0RHE2c3YtTWd2b0xTN2xKM29RMmxxWEdDZktoUnVvVGZYbVdnYTRTYmttWWl6ejZ1bC1aaUt0a3BIdEpQZHpyd9IBjgFBVV95cUxPS1FHMVJuSlhXUzUybUhLNXRPM0hQcDNIcXdkLXhlMUNodTJZTDRrS3FfTHNLNTRDNndTazdscFhRVlU3WjN3ZXdjYmhrbmNScnJBNzNuY0tMSXFFU0J3MTRfNTVQRjIzYVVXZl8xSlhHR0tnSDBHVXVvT18xbXJGZ19VR2I2Uzd0YlVpM0Rn?oc=5"
+          },
+          {
+            "label": "Hugging Face智能体训练新能力",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE95ODlITko1SnNOa1UwX05adlBHMTFlTnF6dlE3YkNjakIyUTc2UGV0cklxamo2ZEhScWp2bmN4bjJmdHdSd0JIYzlDdHVpVG43VmJKTGxPc2JwVWxyak5VYkpLWEI5eFl5T0hRWXpoSWJuamFsWldBSGd3N2R2a0E3WlRZNEY1UC1kdmg1UkI1Rmo1OW1TMlZCVTJJLWg0STVYX3hRZWlCeGJIN3ozRQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbjVoenVycTk4OElPUG9UTEp4bktWaVV5bWtwSkh0ZWQ1c1N5T25sMkVvODVCOW9WOEl0eGtmQ01EMmdSWW9nNzlIRUplcE9GZzFuUk41MHp3cDZpMzd6d1RyXzd5anE1VGI2X3RRNUxyMEFiN2daRXlSSUltdHY4aHk1SkhhREhnOEdEU1lnZ1FqZkExWDE0dGFvcGhxckw2RW1HWFRUaTk5RURvakYwOUZfSjBNWjdrV3hSMElncDk1aE5zWDZxQnFsZ3VtRGtPQzMwRXpHbUl3elVDWXNnSlktM09FSTQ0UG5iYy1JRlZvaXFfYjdZQUpOMjNlQUt2YktkRDRR?oc=5"
+      },
+      {
+        "slug": "open-source-20260514-auto-2-22966d",
+        "title": "思科开源AI安全规范",
+        "category": "开源项目",
+        "date": "2026-05-14",
+        "summary": "Cisco发布面向智能体系统的Foundry安全规范开源方案。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "思科开源AI安全规范 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年5月14日，Cisco宣布开源Foundry Security Spec，目标是为Agentic AI系统提供可复用的安全规范与实施参考，回应智能体快速落地中的治理需求。",
+          "blocks": [
+            {
+              "heading": "项目核心：从工具到规范",
+              "paragraphs": [
+                "此次更新不是单一模型发布，而是安全规范层面的开源动作，覆盖智能体身份、调用链、策略执行与审计等关键环节。",
+                "对企业而言，规范化资产的价值在于降低多团队协作成本。开发、平台和安全团队可以围绕同一套术语与流程推进落地。",
+                "与只提供产品能力不同，开源规范更利于跨厂商复用，尤其在MCP、A2A等协议并行演进阶段，有助于减少系统集成摩擦。"
+              ]
+            },
+            {
+              "heading": "实际用途与受益团队",
+              "paragraphs": [
+                "该规范适合正在建设AI智能体平台的组织，尤其是需要管理外部工具调用、权限边界和敏感数据访问控制的场景。",
+                "安全团队可据此建立基线检查清单，研发团队可将其映射到网关、密钥管理、日志追踪和策略引擎配置中，形成可审计闭环。",
+                "对于已有多代理编排系统的企业，这类规范还能作为存量系统改造参考，帮助统一风险分级和事件响应流程。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施路径",
+              "paragraphs": [
+                "上手门槛主要在工程治理而非算法本身。团队需要具备基础的身份鉴权、服务网关、密钥轮换和可观测性能力。",
+                "建议先选一个低风险业务域做试点，将规范映射为最小可执行控制项，例如调用白名单、审计字段和异常回滚策略。",
+                "在试点稳定后，再逐步扩展到高权限智能体任务，并通过定期演练验证策略有效性，避免规范停留在文档层面。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Cisco开源Foundry安全规范报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdIWnQ3c2QzdGNITkRJSHRsaVl1bkJTOHk2S3h1TmRDQ0M2M25KY05Qc1R6ZFllUHRDU1RZQVQ3eHo1Zng5NzZYUHctQjlpZm5QQ0F0WVlZZWVUVDJzcm1TWlBNamktQXdyZWFWSFBQb1cxN2RialdnOTRtdVF0bzZfX01uQVpzNkp4bXVRazZQZ25MdHdfeUM3TjhoUUZGVXZjUzVBaw?oc=5"
+          },
+          {
+            "label": "AWS与Cisco讨论智能体安全部署",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1pVbXdwNzlBbzRuR1daWUIxRkVHTWN6d05aOGxoR0JIQ2RzYlNYZ1FGMXo1YzR2N2dxc1V0YU14T1h0cXItdlF5Skp6TXlFRTlUQk8zb3FyNVBQQkZnUUhTUms2R25GRy1pR2hXcmN6Z0pjVHpoS0xHb1RkMmgyS1dpbGdTQ21kTE1tT0RiTE5fWmlSaUV2UUpuQ0tWR1JuVHItOUJFMzd6WXdiY3JlNHpUS1dPV3NsWnBjbG5ERFFsdw?oc=5"
+          },
+          {
+            "label": "规模化AI智能体安全部署综述",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjdWUVhKSTZCLWoxRW42UWFYUDY2a0pKTlhDOTFOZGZaYmdxUUN5RG1UNG9GanBKblRiWlJwc01UZjdodVd2NFR5aVlmTkdxdHVBcTRPcmhLeE9JYlEtWlhtYmNLMDVjdlFBdUpNcW9kOWNNLVl5ZENDVnRFZUxhNXRIUW9id1gyRDBPNmVuM3FrUERzVEJB?oc=5"
+          }
+        ],
+        "source": "Technobezz",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdIWnQ3c2QzdGNITkRJSHRsaVl1bkJTOHk2S3h1TmRDQ0M2M25KY05Qc1R6ZFllUHRDU1RZQVQ3eHo1Zng5NzZYUHctQjlpZm5QQ0F0WVlZZWVUVDJzcm1TWlBNamktQXdyZWFWSFBQb1cxN2RialdnOTRtdVF0bzZfX01uQVpzNkp4bXVRazZQZ25MdHdfeUM3TjhoUUZGVXZjUzVBaw?oc=5"
+      },
       {
         "slug": "open-source-20260513-auto-1-71057e",
         "title": "DreamLite开源上手机",
