@@ -2,51 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/sections/ai-news.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/sections/ai-guide.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/sections/open-source.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/about.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/editorial-policy.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/privacy.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/contact.html</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260515-auto-1-68e319.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260515-auto-2-774f7c.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260515-auto-1-832062.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260515-auto-1-4d5067.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260515-auto-2-f6aa2f.html</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-news-20260514-auto-1-82df1b.html</loc>
@@ -1261,13 +1291,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-73-rag-1eictv2.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260326-75-rag-nivm0g.html</loc>
     <lastmod>2026-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-37-ai-1ecg507.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260325-38-ai-1c5i3c.html</loc>
     <lastmod>2026-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1279,13 +1309,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-74-ai-1aa350a.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260324-76-ai-jalx5o.html</loc>
     <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-38-article-lzul0l.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260323-39-article-zksxty.html</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1297,13 +1327,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-39-article-14azlx7.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260321-40-article-69zrwc.html</loc>
     <lastmod>2026-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-75-article-l4g9yy.html</loc>
+    <loc>https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260320-77-article-1caczlo.html</loc>
     <lastmod>2026-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

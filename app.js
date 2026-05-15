@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260515-auto-1-68e319",
+        "title": "华宝基金ETF热点π | 赵晓光聊“",
+        "category": "AI新闻",
+        "date": "2026-05-15",
+        "summary": "华宝基金ETF热点π | 赵晓光聊“光”：AI算力基建的纵深远未结束，应用加速正在路上 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "华宝基金ETF热点π | 赵晓光聊“ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "华宝基金ETF热点π | 赵晓光聊“光”：AI算力基建的纵深远未结束，应用加速正在路上 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "华宝基金ETF热点π | 赵晓光聊“光”：AI算力基建的纵深远未结束，应用加速正在路上 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS25xRmo2RTMzc192dWV0U3hVckt2UUQ2WTJ0cFlMT1FtRllXQjkzbkhHandLdEZJX292WmtNWDFqZDBUdTJ1RWhxdTlKVk1UaEIzX3hsRGw2YkpqZzBxX1dIV2t0TFBBVzU0M3FpTkNPWExwSlc0LVNlU25tZmVBZXFoNUc5eW9kYURzcTd5Sk5BSWUydzZqS1UtVG9KSHAyb1pnMWpYd3VLN0M1ZGVJb1ZDcWdPLVBKSVMtZFE5SDNnV2FIX1VBa2NFU2ktN2doX1lFM3M5Vi1kWHhWaU1wMmNGbXpCQ0txZHZNbkRjWmdZZFQ3d3hEWkNJaUJSQ3ZDb1N4QmdkNWFNRHkx?oc=5"
+          },
+          {
+            "label": "Asia Research News |：SKKU Research Team Develops Experimentally Validated AI Model to Predi",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlkwOGV5cjhPcXIxb1BiM0lIbHVTcl9sdDh2Q1h3WXFCRWZDWVJ3WFdwZ2dwWGhndGxjd3FaOUhwOWFoYTBLN0Zjc0FpdkpPeV8tNG0tZV9iMWYxX1pBMHlid0d0U0ZBcW5Jbk5VM1FPZDVWbUptdTJJMl9BVGhVN0JIdlJ6NEFRSEpnWTZhRzhjZzd6ZEJkWlpNdXp6T3pvdzNHWXhkSk8wOTQ5VFIxWF9IMng2WC16UFlsdWhjTC16Tjlia1E?oc=5"
+          },
+          {
+            "label": "Sri Lanka Guardian：Anthropic Nears $900B Valuation, Overtaking OpenAI in AI Race - Sri La",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFZPeEV5N0dLNDVjM0R4M0hiWXdLcVBvb09FS1NHWHJIcER0RnV3Yzl4OTJLaU1uVEpyTTlKZXBwT0lRMThzTGNPTnJIVEs1TXhEWWZwRjZjYWJ0ZHRtMTg3d010Si1SSGdhMkp6Z00xM0RkRC1UOF9JRm1yRDZXU0E3VHR3YU9nY05r?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS25xRmo2RTMzc192dWV0U3hVckt2UUQ2WTJ0cFlMT1FtRllXQjkzbkhHandLdEZJX292WmtNWDFqZDBUdTJ1RWhxdTlKVk1UaEIzX3hsRGw2YkpqZzBxX1dIV2t0TFBBVzU0M3FpTkNPWExwSlc0LVNlU25tZmVBZXFoNUc5eW9kYURzcTd5Sk5BSWUydzZqS1UtVG9KSHAyb1pnMWpYd3VLN0M1ZGVJb1ZDcWdPLVBKSVMtZFE5SDNnV2FIX1VBa2NFU2ktN2doX1lFM3M5Vi1kWHhWaU1wMmNGbXpCQ0txZHZNbkRjWmdZZFQ3d3hEWkNJaUJSQ3ZDb1N4QmdkNWFNRHkx?oc=5"
+      },
+      {
+        "slug": "ai-news-20260515-auto-2-774f7c",
+        "title": "SKKU Research Team",
+        "category": "AI新闻",
+        "date": "2026-05-15",
+        "summary": "SKKU Research Team Develops Experimentally Validat",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SKKU Research Team 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "SKKU Research Team Develops Experimentally Validat",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SKKU Research Team Develops Experimentally Validat",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Asia Research News |：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlkwOGV5cjhPcXIxb1BiM0lIbHVTcl9sdDh2Q1h3WXFCRWZDWVJ3WFdwZ2dwWGhndGxjd3FaOUhwOWFoYTBLN0Zjc0FpdkpPeV8tNG0tZV9iMWYxX1pBMHlid0d0U0ZBcW5Jbk5VM1FPZDVWbUptdTJJMl9BVGhVN0JIdlJ6NEFRSEpnWTZhRzhjZzd6ZEJkWlpNdXp6T3pvdzNHWXhkSk8wOTQ5VFIxWF9IMng2WC16UFlsdWhjTC16Tjlia1E?oc=5"
+          },
+          {
+            "label": "新浪财经：华宝基金ETF热点π | 赵晓光聊“光”：AI算力基建的纵深远未结束，应用加速正在路上 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQS25xRmo2RTMzc192dWV0U3hVckt2UUQ2WTJ0cFlMT1FtRllXQjkzbkhHandLdEZJX292WmtNWDFqZDBUdTJ1RWhxdTlKVk1UaEIzX3hsRGw2YkpqZzBxX1dIV2t0TFBBVzU0M3FpTkNPWExwSlc0LVNlU25tZmVBZXFoNUc5eW9kYURzcTd5Sk5BSWUydzZqS1UtVG9KSHAyb1pnMWpYd3VLN0M1ZGVJb1ZDcWdPLVBKSVMtZFE5SDNnV2FIX1VBa2NFU2ktN2doX1lFM3M5Vi1kWHhWaU1wMmNGbXpCQ0txZHZNbkRjWmdZZFQ3d3hEWkNJaUJSQ3ZDb1N4QmdkNWFNRHkx?oc=5"
+          },
+          {
+            "label": "Sri Lanka Guardian：Anthropic Nears $900B Valuation, Overtaking OpenAI in AI Race - Sri La",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFZPeEV5N0dLNDVjM0R4M0hiWXdLcVBvb09FS1NHWHJIcER0RnV3Yzl4OTJLaU1uVEpyTTlKZXBwT0lRMThzTGNPTnJIVEs1TXhEWWZwRjZjYWJ0ZHRtMTg3d010Si1SSGdhMkp6Z00xM0RkRC1UOF9JRm1yRDZXU0E3VHR3YU9nY05r?oc=5"
+          }
+        ],
+        "source": "Asia Research News |",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlkwOGV5cjhPcXIxb1BiM0lIbHVTcl9sdDh2Q1h3WXFCRWZDWVJ3WFdwZ2dwWGhndGxjd3FaOUhwOWFoYTBLN0Zjc0FpdkpPeV8tNG0tZV9iMWYxX1pBMHlid0d0U0ZBcW5Jbk5VM1FPZDVWbUptdTJJMl9BVGhVN0JIdlJ6NEFRSEpnWTZhRzhjZzd6ZEJkWlpNdXp6T3pvdzNHWXhkSk8wOTQ5VFIxWF9IMng2WC16UFlsdWhjTC16Tjlia1E?oc=5"
+      },
+      {
         "slug": "ai-news-20260514-auto-1-82df1b",
         "title": "TDK ready to step",
         "category": "AI新闻",
@@ -5503,6 +5619,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260515-auto-1-832062",
+        "title": "快看数据｜六成受访应届毕业生期待有更",
+        "category": "AI使用教程",
+        "date": "2026-05-15",
+        "summary": "快看数据｜六成受访应届毕业生期待有更多AI岗位实习机会 中青在线",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "快看数据｜六成受访应届毕业生期待有更 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "快看数据｜六成受访应届毕业生期待有更多AI岗位实习机会 中青在线",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "快看数据｜六成受访应届毕业生期待有更多AI岗位实习机会 中青在线",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中青在线：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wc0x6N0lYeTd3TEtTenBqRnZrS1JXZ1ZDVWFBSlcxWGNYUVFuQnJMMGJaejh0dGdHTzVwZnNBTmI0UUpOVXdnZDNRY0IwV0FhVzBXS1hOcTJYejl0NEE0MzkzMjZzcWN0NE9PWGtacEY4QQ?oc=5"
+          },
+          {
+            "label": "51CTO：最近做项目总结的AI工程师必掌握的11个核心能力 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93Y21IczFlYzNGS041QlFrN2JMeHNCTktHRXFhc2hoeWlGaGNJS1hTX2hKQUNiSjdDNUhNbmhDVzFvX1JmZml3WmR0TF81bHRyZzBV?oc=5"
+          },
+          {
+            "label": "新浪财经网：Hassabis狂赞！谷歌爆改50年鼠标，指哪AI打哪，连提示词都省了 - 新浪财经网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpVDdoa3U2N1R0WHFKOWtxdndPMmJaX0xubjh2R09QTExpS3ZSM3owQVQ1VUpJWE9KYnAtSVQ1Q3RWM0ptanF0TUQ2VXZQc20teXFrNS1zdWxCbWpfMXlxYlAxenhkb2F3c1p2THBvakNzTS1qNUE?oc=5"
+          }
+        ],
+        "source": "中青在线",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wc0x6N0lYeTd3TEtTenBqRnZrS1JXZ1ZDVWFBSlcxWGNYUVFuQnJMMGJaejh0dGdHTzVwZnNBTmI0UUpOVXdnZDNRY0IwV0FhVzBXS1hOcTJYejl0NEE0MzkzMjZzcWN0NE9PWGtacEY4QQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260514-auto-1-dbe519",
         "title": "AI怎样重塑大学课堂？ - Sina",
         "category": "AI使用教程",
@@ -7677,6 +7851,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260515-auto-1-4d5067",
+        "title": "Anthropic开源AI读心术：C",
+        "category": "开源项目",
+        "date": "2026-05-15",
+        "summary": "Anthropic开源AI读心术：Claude内心独白被翻译，俄语Bug揭示模型偏见 itsolot",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic开源AI读心术：C 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic开源AI读心术：Claude内心独白被翻译，俄语Bug揭示模型偏见 itsolot",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic开源AI读心术：Claude内心独白被翻译，俄语Bug揭示模型偏见 itsolot",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "itsolotime.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16cjBoVnlxb2x4YkI3NWdaQzcxc3ZWX1AtTnRNeVhsdnVlSmdmZElQeWdoU29HbUtHcG9pbGlUTXFpZmdRSTNXaUsyS3FTRU1wTlFZ?oc=5"
+          },
+          {
+            "label": "itsolotime.com：飞书CLI Star破万！AI Agent时代，为什么命令行工具成了新战场？ - itsolotime.com",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ1R4anRKY24wdzV6Q05YZHJGS2pXLUtnRVdQeVZuVEt0aFJCRExtbEgtTklvNW9LMkMyemFLZGo4ZWQ1dVJQU1g3UVMzR213R2ZV?oc=5"
+          },
+          {
+            "label": "itsolotime.com：47天破万星！飞书CLI如何成为Agent工作平台新宠？ - itsolotime.com",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Ym13NHdGRllXSEpudlU2WDVMZENMbEg5aDFKSC1OaHNndWt1YnRkV0RwMFVHb0NxWS14YTVoRkxBVWtjSGNJX1phSE16bFRieURz?oc=5"
+          }
+        ],
+        "source": "itsolotime.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16cjBoVnlxb2x4YkI3NWdaQzcxc3ZWX1AtTnRNeVhsdnVlSmdmZElQeWdoU29HbUtHcG9pbGlUTXFpZmdRSTNXaUsyS3FTRU1wTlFZ?oc=5"
+      },
+      {
+        "slug": "open-source-20260515-auto-2-f6aa2f",
+        "title": "飞书CLI Star破万！AI Ag",
+        "category": "开源项目",
+        "date": "2026-05-15",
+        "summary": "飞书CLI Star破万！AI Agent时代，为什么命令行工具成了新战场？ itsolotime.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "飞书CLI Star破万！AI Ag 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "飞书CLI Star破万！AI Agent时代，为什么命令行工具成了新战场？ itsolotime.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "飞书CLI Star破万！AI Agent时代，为什么命令行工具成了新战场？ itsolotime.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "itsolotime.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ1R4anRKY24wdzV6Q05YZHJGS2pXLUtnRVdQeVZuVEt0aFJCRExtbEgtTklvNW9LMkMyemFLZGo4ZWQ1dVJQU1g3UVMzR213R2ZV?oc=5"
+          },
+          {
+            "label": "itsolotime.com：Anthropic开源AI读心术：Claude内心独白被翻译，俄语Bug揭示模型偏见 - itsolotime.com",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16cjBoVnlxb2x4YkI3NWdaQzcxc3ZWX1AtTnRNeVhsdnVlSmdmZElQeWdoU29HbUtHcG9pbGlUTXFpZmdRSTNXaUsyS3FTRU1wTlFZ?oc=5"
+          },
+          {
+            "label": "itsolotime.com：47天破万星！飞书CLI如何成为Agent工作平台新宠？ - itsolotime.com",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Ym13NHdGRllXSEpudlU2WDVMZENMbEg5aDFKSC1OaHNndWt1YnRkV0RwMFVHb0NxWS14YTVoRkxBVWtjSGNJX1phSE16bFRieURz?oc=5"
+          }
+        ],
+        "source": "itsolotime.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ1R4anRKY24wdzV6Q05YZHJGS2pXLUtnRVdQeVZuVEt0aFJCRExtbEgtTklvNW9LMkMyemFLZGo4ZWQ1dVJQU1g3UVMzR213R2ZV?oc=5"
+      },
       {
         "slug": "open-source-20260514-auto-1-6b015d",
         "title": "GLiGuard开源发布",
