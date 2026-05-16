@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260516-auto-1-84b191",
+        "title": "阿里云推万小智2.0",
+        "category": "AI新闻",
+        "date": "2026-05-16",
+        "summary": "阿里云发布企业级AI建站平台，面向商家与机构提效。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "阿里云推万小智2.0 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月16日，阿里云发布“万小智2.0”企业级AI建站平台，继续加码面向企业数字化经营的AI应用层产品。",
+          "blocks": [
+            {
+              "heading": "产品定位与升级方向",
+              "paragraphs": [
+                "从公开信息看，万小智2.0定位于企业级AI建站，核心目标是降低建站与内容运营门槛，帮助中小企业和机构更快完成线上触达。",
+                "与传统建站工具相比，企业级AI建站强调从模板搭建向智能生成与持续优化转变，覆盖页面生成、文案生产、运营配置等环节。",
+                "在当前企业AI应用从“试用”走向“落地”的阶段，此类平台型产品更强调可交付性与流程闭环，而不是单点功能展示。"
+              ]
+            },
+            {
+              "heading": "产业侧的现实需求",
+              "paragraphs": [
+                "大量中小企业在获客成本上升背景下，倾向于采用低代码和AI工具缩短上线周期，减少对外包开发与长期维护的依赖。",
+                "面向品牌官网、电商落地页、活动页等高频场景，AI建站若能提供统一的内容管理与数据反馈机制，将更有机会进入日常运营体系。",
+                "同日多地终端展会与产业社区活动也显示，2026年国内AI产业关注点正从模型能力本身，转向可量化ROI的应用产品。"
+              ]
+            },
+            {
+              "heading": "市场影响与后续观察",
+              "paragraphs": [
+                "对云厂商而言，企业级AI建站平台有望与算力、模型、数据库和营销服务形成联动，带动更长链路的企业服务收入。",
+                "短期内，市场将关注该平台在行业模板深度、生成质量稳定性、以及与现有企业系统对接效率上的表现。",
+                "中长期看，AI建站赛道竞争将集中在行业化能力和服务交付能力，具备生态整合能力的平台更可能获得持续增长。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：阿里云发布万小智2.0",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGJrUTQtWm1pY2otbVQyQ0lUUkJabE1xUmNUQi1CbXZWa09kcU1KTmxnQkVDNHVLVDN6WFpjOU84ZkE2UGtzcXMxYW15Y244Nm9KbHNDQWNwTkZnN3BvU3Y2WDZDUEtTM29Sb0luTF9yWS1hTjJ4NFBjc2RxQkY5Z0pVajZuRXdJTWVWNEl1Zw?oc=5"
+          },
+          {
+            "label": "央广网：2026全球人工智能终端展",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMTBlSVU0bmRSeU53cDNzSlFhbWhyZ3N4bG9HSENwZ21MdzVyU1VMTFNiVWNXR0xQMDlVSmJOUVBrUTRtQmtrRFh2UmFSX3NoajY0UEFjdk5wSjRtS1lqeEt4emQ4QQ?oc=5"
+          },
+          {
+            "label": "奥一网：模力福地AI产业社区亮相",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LREd1TXVrOGhoQTVlbWZhaWthZWI4dWxNc2RiNnNiZFdTUkVEQUxxUFJreEVKcHNBd2tsRm16T0FHUlNfaGhrcGFlZFN0T0FPTlFZMFpzQWhjTk51aV9IUEJoX1dvQQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGJrUTQtWm1pY2otbVQyQ0lUUkJabE1xUmNUQi1CbXZWa09kcU1KTmxnQkVDNHVLVDN6WFpjOU84ZkE2UGtzcXMxYW15Y244Nm9KbHNDQWNwTkZnN3BvU3Y2WDZDUEtTM29Sb0luTF9yWS1hTjJ4NFBjc2RxQkY5Z0pVajZuRXdJTWVWNEl1Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260516-auto-2-e07bc6",
+        "title": "信通院启动AI终端分测",
+        "category": "AI新闻",
+        "date": "2026-05-16",
+        "summary": "中国信通院启动AI终端智能化分级测试，推进标准化落地。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "信通院启动AI终端分测 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月16日，中国信通院启动人工智能终端智能化分级测试工作，释放出终端侧标准化建设提速的政策与产业信号。",
+          "blocks": [
+            {
+              "heading": "分级测试的意义",
+              "paragraphs": [
+                "AI终端正从单一硬件参数竞争，转向模型能力、端侧算力、隐私安全和场景体验的综合竞争，分级测试可提供统一评价框架。",
+                "对厂商而言，分级机制有助于明确产品研发目标，减少“概念化宣传”与实际体验不一致的问题，提升市场沟通效率。",
+                "对行业生态而言，测试体系能够形成可比较、可追踪的指标，为采购、招标和行业应用落地提供参考依据。"
+              ]
+            },
+            {
+              "heading": "与终端产业周期的关系",
+              "paragraphs": [
+                "2026年AI终端新品密集发布，手机、PC、可穿戴与行业设备都在导入本地模型能力，标准化需求显著上升。",
+                "在产品迭代加快背景下，分级测试可以帮助产业链上下游更快对齐能力边界，包括芯片、系统、模型和应用层协同。",
+                "这也意味着终端竞争将从“是否有AI功能”过渡到“AI能力达到何种等级”，并进一步影响渠道与企业采购决策。"
+              ]
+            },
+            {
+              "heading": "后续关注点",
+              "paragraphs": [
+                "市场后续将关注分级测试细则的公开程度，包括指标维度、测试流程、更新频率及适配的终端类型范围。",
+                "另一个重点是测试结果如何与行业应用场景对接，例如政企办公、教育、制造与医疗等对可靠性要求较高的领域。",
+                "从监管与产业协同角度看，若分级机制形成稳定执行，将有望推动AI终端从早期扩张阶段进入更规范的规模化发展阶段。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：信通院启动分级测试",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYm5uLVp6MGIwbHp6Xzl6NWM1YTZ5RHgyTWRfRlRENVFwM19ZbVFHRUhGUXRIVUFDYUNyM3hWX1hsV1p4cjdULTYwdUFma2pYUWNZd2NQMHpSeWd5Q1V3UmozY2UwdENHdXZCSDBvVUlHNVp5UE1LN19ZV2NoOElyZ3FLOVdELVIzVXFZaEJsRVp1LUo4NzJJckJqU1NDS1pMUmFfS0pNMjQwVmVmMFlXaThMczNHVXVqWmFMelkwakVtWmsxNWExNUg5ZHhlaUhOQlhBSS0xZnMtTjJUVjJnNkdTQ1VyUUR6Y0hV?oc=5"
+          },
+          {
+            "label": "央广网：全球人工智能终端展动态",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wMTBlSVU0bmRSeU53cDNzSlFhbWhyZ3N4bG9HSENwZ21MdzVyU1VMTFNiVWNXR0xQMDlVSmJOUVBrUTRtQmtrRFh2UmFSX3NoajY0UEFjdk5wSjRtS1lqeEt4emQ4QQ?oc=5"
+          },
+          {
+            "label": "中国科技网：朝阳区AI OPC生态沙龙",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vLWdMX3lDZW9MUm9ZaVFaYUwxaDNWRDMtR1NwYmEzWk4yeUxqbDN5WUlTMjFTN18xdFhPMUNqclRUem1uNlRBSWkwdXNNcGJGaV9ZYTg5SmJkOHVhOC1mUWJhZzNpa2x2MlVUeGtvWWo?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYm5uLVp6MGIwbHp6Xzl6NWM1YTZ5RHgyTWRfRlRENVFwM19ZbVFHRUhGUXRIVUFDYUNyM3hWX1hsV1p4cjdULTYwdUFma2pYUWNZd2NQMHpSeWd5Q1V3UmozY2UwdENHdXZCSDBvVUlHNVp5UE1LN19ZV2NoOElyZ3FLOVdELVIzVXFZaEJsRVp1LUo4NzJJckJqU1NDS1pMUmFfS0pNMjQwVmVmMFlXaThMczNHVXVqWmFMelkwakVtWmsxNWExNUg5ZHhlaUhOQlhBSS0xZnMtTjJUVjJnNkdTQ1VyUUR6Y0hV?oc=5"
+      },
+      {
         "slug": "ai-news-20260515-auto-1-68e319",
         "title": "华宝基金ETF热点π | 赵晓光聊“",
         "category": "AI新闻",
@@ -5619,6 +5735,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260516-auto-1-48a81b",
+        "title": "LLM写作七步实操法",
+        "category": "AI使用教程",
+        "date": "2026-05-16",
+        "summary": "基于最新方法，给出可落地的LLM内容写作流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "LLM写作七步实操法 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-05-16可获取的公开信息，下面给出一套面向运营、产品与个人创作者的LLM写作教程。目标是减少反复返工，提升内容可用性与可核验性。",
+          "blocks": [
+            {
+              "heading": "第一步：先定任务边界，再写提示词",
+              "paragraphs": [
+                "先写一页“任务卡”：包括目标读者、发布渠道、篇幅范围、必须回答的3个问题、禁用表达。把任务卡放在提示词最前面，可显著减少模型跑题。",
+                "将输入拆成三层：背景资料、写作目标、输出格式。示例顺序可为“背景-目标-约束-示例”。如果是教程稿，明确要求“步骤化、可执行、含检查点”。",
+                "执行时采用小步生成：先让模型输出提纲，再逐段扩写，最后统一润色。每一步都加入“是否满足任务卡”的自检问题，避免一次性长文本造成偏差。"
+              ]
+            },
+            {
+              "heading": "第二步：建立反馈循环，控制事实风险",
+              "paragraphs": [
+                "不要追求一次成稿。建议用“草稿1-校对-草稿2-事实复核-终稿”五段流程，每段都保留版本号，便于回退与对比。",
+                "针对幻觉问题，设置三类标记：可证实、待证实、无法证实。凡是数据、时间、机构名称、产品能力描述，都应先打标，再决定是否保留。",
+                "把复核动作写成清单：核对专有名词、核对链接是否可访问、核对结论是否被原文支持。若无法验证，改写为条件句或直接删除，以确保发布安全。"
+              ]
+            },
+            {
+              "heading": "第三步：落地到日常生产的模板化方案",
+              "paragraphs": [
+                "建立一个固定提示模板：角色定义、任务卡、素材区、输出结构、质量标准。每次仅替换素材区，可提高团队协作一致性。",
+                "为教程类内容设置统一结构：开场目标、步骤1到步骤N、常见错误、复盘指标。发布前至少检查三项指标：可操作性、可复现性、可验证性。",
+                "在团队中实行周复盘：统计一次生成通过率、平均修改轮次、事实修订次数。根据数据迭代提示词，而不是凭感觉改写，这样能稳定提升产出质量。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Moz Shares 7 Tips for LLM Content Writing",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTVZa0l3clp2clU2N2lIRmFhSEJCbTN1RWpzM0xRaHBfdHdqQS13X0xscU5paUdfM2ZIREFLa1BQN2hxbmtFb1gwZ2U5S2xoSlkwX2c5Tkc5VU8yV3hQdnp6UDJzWVZLMzRyRVF5UTBYRGhBSnVLc3dnZUlfWUhHaTZXSUhSbC1FcEVn?oc=5"
+          },
+          {
+            "label": "AI智能体需要反馈循环",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQ1BoY3VSMEI1LTZqQVZqX19pbF9OejV6Z2ZIclo1VU5NWXVURG1NaC1NNDJ4QWhKSWhPZl9SeDRqNGROc21QVC0xV3dwbFF6Q29ZOG9pOFhxSkthZElvTVRhcUsyWm1RT1E?oc=5"
+          },
+          {
+            "label": "The AI Hallucination Survival Guide",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tRTdYOGRPQXQ5dnZRQ1d4SExWd214SFhDUURXUy1RZEwtZ0FWVnhJVjZXQ09FWjFreFZrN2F5TWZqZzFWQTIweDdpSWZjanlSQnpxV05hcEQySjdZMTdxMzFaYVczMDh1Tnc?oc=5"
+          }
+        ],
+        "source": "Let's Data Science",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaTVZa0l3clp2clU2N2lIRmFhSEJCbTN1RWpzM0xRaHBfdHdqQS13X0xscU5paUdfM2ZIREFLa1BQN2hxbmtFb1gwZ2U5S2xoSlkwX2c5Tkc5VU8yV3hQdnp6UDJzWVZLMzRyRVF5UTBYRGhBSnVLc3dnZUlfWUhHaTZXSUhSbC1FcEVn?oc=5"
+      },
+      {
         "slug": "ai-guide-20260515-auto-1-832062",
         "title": "快看数据｜六成受访应届毕业生期待有更",
         "category": "AI使用教程",
@@ -7851,6 +8025,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260516-auto-1-4dec0a",
+        "title": "灵玑OS开源基础设施发布",
+        "category": "开源项目",
+        "date": "2026-05-16",
+        "summary": "北京发布开源AI智能体共性基础设施，面向多场景落地。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "灵玑OS开源基础设施发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月16日，北京时间语境下，国内首个开源开放AI智能体共性基础设施“灵玑OS”进入公开视野。该项目定位为智能体开发的底座能力集合，目标是降低多团队重复造轮子的成本。",
+          "blocks": [
+            {
+              "heading": "项目发布背景与定位",
+              "paragraphs": [
+                "从公开报道看，“灵玑OS”被定义为共性基础设施，而不是单一应用产品。这意味着其重点在于提供统一的运行框架、组件接口和协作机制，服务上层不同行业智能体应用。",
+                "相较直接发布一个完整商业智能体，基础设施型项目更强调可复用与可扩展。对开发者而言，价值在于可以围绕同一技术底座快速构建客服、政务、知识检索等不同场景能力。",
+                "在开源语境中，这类项目还承担生态连接作用：一方面吸引模型、工具链、数据平台对接，另一方面给本地化部署和行业定制留下空间。"
+              ]
+            },
+            {
+              "heading": "用途与可落地方向",
+              "paragraphs": [
+                "“灵玑OS”这类智能体基础设施通常可用于多智能体协同编排、任务路由、工具调用与状态管理。对企业技术团队来说，可减少从零搭建Agent Runtime的工程工作量。",
+                "在政企和大型组织环境中，共性底座有助于统一权限、审计和接口规范，便于把不同部门的智能体能力纳入同一治理框架，降低后期维护复杂度。",
+                "若项目持续开放组件与标准接口，第三方可在其上补充行业插件、工作流模板和评测模块，逐步形成“底座+插件”的交付模式。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "对个人开发者，上手门槛主要在工程能力而非算法研究，通常需要具备Python或Go后端基础、API集成经验，以及容器化部署常识。若仅做功能验证，可先从单节点环境开始。",
+                "对企业团队，建议先选一个低风险场景做PoC，例如内部知识问答或流程助手，再逐步接入权限系统、日志审计和监控告警，避免一次性大范围替换既有系统。",
+                "考虑到项目仍处于发布早期，实际采用时应重点评估文档完整度、版本迭代节奏和社区响应速度，并为接口变更预留适配成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新京报：北京发布“灵玑OS”",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWlRSUFTY0FuMjRHVzFRaWxFMGs1M2V4UjdGV3d0dmNyTHc4VjdINGF4QTFtOVF6NW9renVuN1dLdXlfVVFnSlJPbVNDbEJTS1BnWjd3cHczckN6S2huY2NnRko?oc=5"
+          },
+          {
+            "label": "新浪财经：国内首个开源开放AI智能体共性基础设施发布",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVExSdlJIQTItTWpPYXh4aEpiYjhDWUxFQ3lkOEtuSS1obzYwTnh1ZmRZOWYyX0M3SjlWemluMlZSZ2JTTGRFbzQ5eG5ZTUx4Q195S2JFQ2lNQVBpQnpSbjdETTN3UmlmdEdjNnJJUTNUejZzSVZNZg?oc=5"
+          },
+          {
+            "label": "新华网：开放原子园区行（北京站）举办",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWNJX203NzA3dlZPQ0lfTXpfQVpwcHo4eHFKazVJNDlmMndldWVCTF9iZ2ZQMlRXVXQzcERHbEhiTjRrX3k4c3dRTkxVbVBTZERUSV8wcEJsbTBlbGtBaUNFSUxaQjRaRjg2UUZ6VGFjUTkwbEUxbzV1M2dlV244Ukoycw?oc=5"
+          }
+        ],
+        "source": "新京报",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzSWlRSUFTY0FuMjRHVzFRaWxFMGs1M2V4UjdGV3d0dmNyTHc4VjdINGF4QTFtOVF6NW9renVuN1dLdXlfVVFnSlJPbVNDbEJTS1BnWjd3cHczckN6S2huY2NnRko?oc=5"
+      },
+      {
+        "slug": "open-source-20260516-auto-2-972c84",
+        "title": "Zerion开源Agent加密CLI",
+        "category": "开源项目",
+        "date": "2026-05-16",
+        "summary": "Zerion发布开源CLI，扩展AI智能体链上操作能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Zerion开源Agent加密CLI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月16日，开源AI智能体工具链继续向“可执行操作”延展。Zerion发布的开源CLI聚焦让AI代理具备加密资产相关操作能力，方向是把自然语言决策与链上执行连接起来。",
+          "blocks": [
+            {
+              "heading": "更新要点与功能边界",
+              "paragraphs": [
+                "该CLI定位为开发与自动化工具，而非直接面向普通终端用户的钱包应用。核心价值在于把账户查询、交易构造、策略执行等流程做成可编排命令，便于接入Agent框架。",
+                "对于AI智能体开发者，这种工具可作为“行动层”组件，让模型不止回答问题，还能在受控条件下触发链上操作，形成“理解—决策—执行—回执”的闭环。",
+                "同时需要注意功能边界：开源CLI解决的是接口与执行效率问题，不等于自动获得投资安全或合规保障，实际落地仍需风控与权限体系配套。"
+              ]
+            },
+            {
+              "heading": "典型应用场景",
+              "paragraphs": [
+                "在开发测试场景中，团队可用CLI快速验证AI代理是否能按预设规则完成资产查询、地址校验或批量交易模拟，减少手工操作步骤。",
+                "在运营自动化场景中，可将CLI接入定时任务或事件触发流程，例如监控阈值后执行预设动作，再把执行结果回写到审计日志和告警系统。",
+                "在教育与研究场景中，该项目也可作为学习样本，帮助开发者理解AI代理与Web3基础设施的集成方式，包括密钥管理、签名流程和失败重试机制。"
+              ]
+            },
+            {
+              "heading": "上手门槛与风险控制",
+              "paragraphs": [
+                "上手门槛主要在工程与安全两方面：需要命令行基础、API调用经验、智能合约与链上交易常识。对初学者建议先在测试网演练，避免直接在主网执行。",
+                "若用于生产，建议采用最小权限原则，把交易额度、可调用方法、目标地址白名单写入策略层，并建立人工复核环节，避免AI误触发高风险操作。",
+                "从项目选型角度，团队应关注许可证类型、依赖更新频率和社区维护活跃度，并提前设计可替换架构，降低单一开源组件带来的锁定风险。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Yahoo Finance：Zerion发布开源CLI",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU29Jb21rWG1jNnlNeVVkTWl2VkdYZ3VUc043OEhHM0dSMU9ra0xWTEE0NERhZ3ROcVdEa2FTS0h6NHVKeU9VWlJ1T0ZyOVMzOVJTYzdTZ3YyalUyTmhwWTZUU285OEVyYlNLQlBLVmk3MEdXVVpMTlNnb3hoSlQ0V002QjcyU21Qcng1TW5fZFd2aDhRUzBBUjJyWUE?oc=5"
+          },
+          {
+            "label": "Open Source For You：BrowserAct开源AI-Agent技能",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGJnQ0ozTW0wZWZNSGhGU3ZRbUlYdFh3QzlMR1JiVXVuT004MDFhVWh3SXl0TV9PUV9ubEx5dXo1RmREZmh2ZHVrLVYxM1NPdVd6NGhndzZjZnNuMk9lazVNeE1KVUlBQ1dyb0xUaGJTNFZjQnZ0S3hKbmwzT3c5MXFYb2JuZ05TbG1TdHZFcGdaeWtudDBsb1dUVUd4UkZRWkF3T21ZTnk1TGZKaktjTnB6RXZuTVVkRjlIMk5mTQ?oc=5"
+          },
+          {
+            "label": "Tech Times：Hermes Agent使用度变化",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSkRNTjcyb0t2S2hjM25mamVCZjg0bXpWaFRCbmEybWRpRUs3d2VWYkVmaEFaZmQwdG4teFZlM19FbmhoV2FMNUxZb2p5dUdwV1poMEo3dHpPSTF0UUp5ak1ncld0NU1PVkZxczRNOVR0TFg2aUwzcG9MQkZtRUhSVTEzTzQ0Y2pVcklvWFJIUkFVbTRXdDhDV2k0Nng4MktBR0djcjVpakVMWm13SHlqMTRNOVE5Z1p5S2FjVTBSV3N6WERldzhLMjFIcmQ2NkNCZzZUYWt3?oc=5"
+          }
+        ],
+        "source": "Yahoo Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU29Jb21rWG1jNnlNeVVkTWl2VkdYZ3VUc043OEhHM0dSMU9ra0xWTEE0NERhZ3ROcVdEa2FTS0h6NHVKeU9VWlJ1T0ZyOVMzOVJTYzdTZ3YyalUyTmhwWTZUU285OEVyYlNLQlBLVmk3MEdXVVpMTlNnb3hoSlQ0V002QjcyU21Qcng1TW5fZFd2aDhRUzBBUjJyWUE?oc=5"
+      },
       {
         "slug": "open-source-20260515-auto-1-4d5067",
         "title": "Anthropic开源AI读心术：C",
