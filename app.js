@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260517-auto-1-1e45f5",
+        "title": "联通发布FDE普智计划",
+        "category": "AI新闻",
+        "date": "2026-05-17",
+        "summary": "中国联通披露AI战略新成果并启动FDE普智计划。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "联通发布FDE普智计划 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月17日，北京时间，中国联通公布人工智能战略进展，并宣布启动FDE普智计划，释放出运营商在产业级AI落地上的持续投入信号。",
+          "blocks": [
+            {
+              "heading": "战略发布聚焦行业场景",
+              "paragraphs": [
+                "从已披露信息看，联通本次发布强调“战略新成果”与“普智计划”并行推进，核心方向是把大模型能力与通信网络、行业服务体系结合，形成更稳定的供给能力。",
+                "与通用展示型AI不同，运营商推进路径更偏向基础设施和公共服务场景，包括慢病管理、政企服务以及终端协同等，体现出重应用、重可持续运营的特征。",
+                "在市场层面，这类发布有助于明确运营商在AI产业链中的定位，即通过网络、算力、数据与行业连接能力，承担规模化部署和长期运维角色。"
+              ]
+            },
+            {
+              "heading": "FDE普智计划的业务意义",
+              "paragraphs": [
+                "FDE普智计划可被视为联通将AI能力产品化、平台化的一步，其意义不只在技术升级，更在于形成可复制的行业解决方案和交付流程。",
+                "从近期相关新闻可见，联通在地方分公司层面已推进面向市民“用得上”的智能服务，这说明总部战略与地方应用之间正在建立联动机制。",
+                "如果后续在医疗、城市治理与企业服务中形成标准化模板，FDE普智计划将可能降低客户接入门槛，提升项目从试点到规模化部署的效率。"
+              ]
+            },
+            {
+              "heading": "产业观察与后续关注点",
+              "paragraphs": [
+                "在2026年的产业环境下，运营商AI布局正从概念竞争转向交付竞争，衡量指标将更多落在实际服务覆盖、项目复用率与运营质量上。",
+                "对市场参与者而言，后续可重点观察联通是否披露更细化的计划框架，例如行业清单、技术基座、生态合作方式及阶段性业务指标。",
+                "整体来看，本次发布属于典型的产业级AI推进事件，反映出国内通信企业正加速把AI纳入主业增长与公共服务能力建设。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "联通发布AI战略新成果，启动FDE普智计划",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFVHbW5PZDlORXdIWGNDaTIwQzZiNC1icHN4bFlxVFhwTWEzUV94NzhhR21kb3VWb29VNER3V2FQWTlLR0tFaEpDOWMzOEs1QmdXcHpoUl9ZRzB2QVgxUXFkRkt2aDBOeGF3YVUxRDh5T2E2eTlfblk5b2cyekRheXNGT2FqaFczM2pXS2s3b3JpMjM5eGd4cGx5RzRpalN6aVN5Wm1iMjRpYTR2aUdlcHBR?oc=5"
+          },
+          {
+            "label": "联通上海公司推出市民可用智能服务",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVncxYUIzUV9scW9mZGsta1hBdkdrbkExZFdDVkhLaDZ0N0FVMDg3ZW9BM0xUVnozQUpFdWdyMjRQUGxoN2w4anNBdnpDWlU5TWZuUTJIWlV2ckZ0TTZGTGVlaVdhZ25aWjBqdU1Gb1F5MmtSOFduNGI1d3h0VDRQQmJ2SmJUSlVGczMtakxKLVZ5NnhpaDhwazhnYzkyZ0xMWHJQUlBtRkVJLXhlbThFeGhB?oc=5"
+          },
+          {
+            "label": "新知青年大会讨论AI时代创作能力",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XWXNBOEI2QTNWd1gzZFZqOHBHbk5UOHY0ZE5wd3NYYzFTeXpWeEp3VDJrdWFoV2lyWHowZVZXczB5WmVVQ00wb2VBcEkxRnU0aG00RVhWeEhZV29PN1VYV0JVRjlmVHE4ZUw1b1JGYURqdTlJTWgwMQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFVHbW5PZDlORXdIWGNDaTIwQzZiNC1icHN4bFlxVFhwTWEzUV94NzhhR21kb3VWb29VNER3V2FQWTlLR0tFaEpDOWMzOEs1QmdXcHpoUl9ZRzB2QVgxUXFkRkt2aDBOeGF3YVUxRDh5T2E2eTlfblk5b2cyekRheXNGT2FqaFczM2pXS2s3b3JpMjM5eGd4cGx5RzRpalN6aVN5Wm1iMjRpYTR2aUdlcHBR?oc=5"
+      },
+      {
+        "slug": "ai-news-20260517-auto-2-e5dba2",
+        "title": "杭州具身智能中试基地揭牌",
+        "category": "AI新闻",
+        "date": "2026-05-17",
+        "summary": "国家级具身智能应用中试基地在杭州揭牌并引入国产算力方案。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "杭州具身智能中试基地揭牌 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026年5月17日，北京时间，杭州宣布国家人工智能应用中试基地（具身智能）揭牌。该事件被视为具身智能进入工程化验证和产业转化阶段的重要节点。",
+          "blocks": [
+            {
+              "heading": "中试基地定位逐步清晰",
+              "paragraphs": [
+                "中试基地的核心价值在于连接实验室成果与产业落地，通过标准化测试、场景验证和系统集成，缩短技术从研发到商用的周期。",
+                "具身智能涉及感知、决策、控制与硬件协同，单一企业较难独立完成全链条验证，中试平台可为多方提供共享环境和联合调试能力。",
+                "对地方产业而言，国家级平台落地通常会带动上下游资源聚集，包括机器人本体、传感器、工业软件与系统集成服务。"
+              ]
+            },
+            {
+              "heading": "国产算力与生态协同",
+              "paragraphs": [
+                "相关报道显示，摩尔线程提出提供一站式国产算力方案，意味着基地建设不仅是应用测试平台，也在推动底层算力与工具链的本地化配套。",
+                "在具身智能场景中，训练与推理对算力稳定性、实时性和部署成本都有较高要求，国产化方案能否形成可持续供给将影响项目推进效率。",
+                "若基地能够组织算法企业、硬件厂商与行业客户共同参与，将有机会形成从算力到模型再到终端部署的协同路径。"
+              ]
+            },
+            {
+              "heading": "区域竞争与产业影响",
+              "paragraphs": [
+                "同日其他城市也在推进AI基础设施建设，例如万兆AI商圈等项目，反映出地方政府在网络、算力与应用场景上的并行布局。",
+                "与单点示范相比，中试基地更强调跨场景复用能力，其长期效果取决于是否建立公开透明的测试标准与项目遴选机制。",
+                "从政策与产业视角看，杭州此次揭牌有助于提升国内具身智能产业的工程化能力，后续可关注首批入驻项目和阶段性验证成果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "国家人工智能应用中试基地在杭州揭牌",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ndU56c3dsSVRkcGZEeGd3NnZ6dm9XdzRWZHNsRjZMVlNCNGx2X1hOMHVFT2pmeXQ1V0s5SWJQb3FpckZRamlkdnVJd1Z6c3ktYUdHYnM1QzlwanU4YnpBVHdOZ0tudnlzYTlHMXpuZDRoR3FDZVBOX25STmJHZw?oc=5"
+          },
+          {
+            "label": "摩尔线程称将提供一站式国产算力方案",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUklGMHlZLWtqS0t1UVdLTE1YS1lTSG80TlYxVHRyajRoVkFzVnZoUnRNb2lxclVYX1dLUlMtOURfMVdXR3IxQTdBeGlqQWhkZFNyWk43dnNRX3NYREg3VXBXQVdXMGktbl9LVDNnUy1PV2c4TTIxczV6UnVfVFdQUXZZTHJHZjdQQkJrTXBsUUtGVmZNMmdMckJTRENmWGZsYlVhYVJ2NzdiSjJwd1kxRk1iQVNQam5kTXVOREdacUVfUHRYZWlkcWwzZFN3UmVMXzBZVHBXSDc4Uk14em9XNzVSc1hxazF1NXdEM1haVHJKWjRoanBQX2EzNWxjUQ?oc=5"
+          },
+          {
+            "label": "广州天河落地万兆AI商圈",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjlrdlpOcDk4LXVmWElqblg4RUFZSGtQcXZweW51ck9oVThzaGltRjZzWjNVLWFVOTdpVzRIV2t5MU93YU02M2VLazZBakdYa2xvOWhTZjlIUEtoNGN6RmxuU1NFV2I2ZXZWWGFmdGpDaG9KaDdKZHBjRkhLNkQ4QmNPU25zU3VGNDNlZ2hlSQ?oc=5"
+          }
+        ],
+        "source": "ori.hangzhou.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ndU56c3dsSVRkcGZEeGd3NnZ6dm9XdzRWZHNsRjZMVlNCNGx2X1hOMHVFT2pmeXQ1V0s5SWJQb3FpckZRamlkdnVJd1Z6c3ktYUdHYnM1QzlwanU4YnpBVHdOZ0tudnlzYTlHMXpuZDRoR3FDZVBOX25STmJHZw?oc=5"
+      },
+      {
         "slug": "ai-news-20260516-auto-1-84b191",
         "title": "阿里云推万小智2.0",
         "category": "AI新闻",
@@ -5735,6 +5851,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260517-auto-1-812257",
+        "title": "LangGraph智能体实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-17",
+        "summary": "基于13步教程，给出可落地的智能体搭建与调试流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "LangGraph智能体实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-05-17，围绕LangGraph的“13步构建智能体”教程热度较高。下面给出一套可直接执行的中文实操流程，目标是让你在一个工作日内完成可演示的AI智能体原型，并具备基础评测与迭代能力。",
+          "blocks": [
+            {
+              "heading": "第1部分：先搭最小可用版本",
+              "paragraphs": [
+                "第一步先限定业务场景，不要上来做“通用助手”。建议从单一任务切入，例如“技术文档问答”“工单分类”“代码解释”三选一，并写成一句需求：输入是什么、输出是什么、成功标准是什么。把成功标准量化为3项指标，例如准确率、平均响应时长、人工修正率。",
+                "第二步准备运行环境与依赖。新建独立项目目录，分出config、prompts、graphs、tests四个子目录，避免后期混乱。把模型密钥、向量库地址、日志开关统一放到环境变量，不要硬编码在脚本里。完成后先执行一次健康检查脚本，确认模型调用和基础网络可用。",
+                "第三步在LangGraph中只画一条主链路：用户输入节点、检索或工具节点、生成节点、输出节点。先不做并行分支和复杂路由。每个节点都输出结构化字段，例如intent、context、answer、confidence。这样后面调试时能快速定位是检索问题还是生成问题。"
+              ]
+            },
+            {
+              "heading": "第2部分：把13步拆成可交付迭代",
+              "paragraphs": [
+                "建议将13步压缩为4个迭代里程碑。里程碑A是“能跑通”：完成主流程并返回稳定文本；里程碑B是“能解释”：增加中间状态记录与可观测日志；里程碑C是“能纠错”：加入重试、降级和人工接管；里程碑D是“能上线”：补齐评测集、权限控制和成本监控。",
+                "在工具接入阶段，优先接一个高价值工具，不要一次接太多。比如只接“内部知识库检索”或“代码仓库检索”之一。为每个工具定义输入参数白名单和超时阈值，超时后直接走备用回答模板。这样可以减少链路阻塞，避免用户长时间等待。",
+                "在记忆与上下文阶段，建议采用“短期会话记忆+长期知识检索”组合。短期记忆只保留最近3到5轮，长期知识通过检索补充，不把全部历史塞给模型。每轮生成前先做上下文裁剪，删除与当前意图无关的段落，可以明显降低幻觉和成本。"
+              ]
+            },
+            {
+              "heading": "第3部分：测试、上线与持续优化",
+              "paragraphs": [
+                "先做小样本离线评测，再开放给真实用户。离线阶段准备30到50条高频问题，按“正确、部分正确、错误、无法判断”四类标注。每次改动图结构或提示词都要回归测试，记录版本号与分数变化，避免“感觉变好了”但实际退化。",
+                "上线时必须配置三道保护：内容安全规则、失败兜底模板、人工转接入口。对于高风险请求，直接返回“需要人工确认”的流程提示，不强行生成。对于低置信度结果，自动附带引用来源或检索片段，帮助用户快速核验，减少误用风险。",
+                "最后建立每周优化节奏：周一看日志找失败样本，周三调整提示词和节点策略，周五做A/B对比并发布小版本。若你有代码仓库场景，可结合仓库级分析思路做上下文治理。目标不是一次做全，而是每周稳定提升关键指标。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "LangGraph Tutorial: Build AI Agents in 13 Steps [2026]",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWxIbEZRQkxTbll6SjhPdEFPdkl1cWsyQmItVVFObUdxaE45MGFTSkVQbVZtQVpvcHlpNWR1TWRSWEUtVXkxN1ZXbG81N1dxb0pmMzdncXZ2RWRvOVNJbEwzQ0llZ1c0MXhOX0RTX1hJZERVWThXOFBLZ0lOd2wzb2dkU0Y4Sm8?oc=5"
+          },
+          {
+            "label": "How to Build Repository-Level Code Intelligence with Repowise",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHdQT2FYcEN2bUd0NFBYcU91VlVjU0lPM29jWExEdF9Xb0RVMHFIeDN5MUwwT1JGUm1FZXlLOTZKRnVVVTBkenFyTnZxbEJUUk9ibXJ2VmxBMlFoalRvelBhSmNhX0RsZXRnblZDVkhydlVtTGJvTlhfTDBkWC0yTFpZOWFrNXZsX3QtTnQxT1U1LVpHZ2F4TDZHMlJlR1h2Z3FJRTFKc0VVR2VlSjJNNm1YT243NlpVMHd3eVQ2UGZ2TF83NEFFanVXUmc3NlpVYmo4UzFPbVFoOHBkR3V3QUlaeG8tcnVjS1hDeTBWaVlWMHJMRG5nSV9FSlE?oc=5"
+          },
+          {
+            "label": "The AI Hallucination Survival Guide",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tRTdYOGRPQXQ5dnZRQ1d4SExWd214SFhDUURXUy1RZEwtZ0FWVnhJVjZXQ09FWjFreFZrN2F5TWZqZzFWQTIweDdpSWZjanlSQnpxV05hcEQySjdZMTdxMzFaYVczMDh1Tnc?oc=5"
+          }
+        ],
+        "source": "tech-insider.org",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWxIbEZRQkxTbll6SjhPdEFPdkl1cWsyQmItVVFObUdxaE45MGFTSkVQbVZtQVpvcHlpNWR1TWRSWEUtVXkxN1ZXbG81N1dxb0pmMzdncXZ2RWRvOVNJbEwzQ0llZ1c0MXhOX0RTX1hJZERVWThXOFBLZ0lOd2wzb2dkU0Y4Sm8?oc=5"
+      },
+      {
         "slug": "ai-guide-20260516-auto-1-48a81b",
         "title": "LLM写作七步实操法",
         "category": "AI使用教程",
@@ -8025,6 +8199,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260517-auto-1-8cb51e",
+        "title": "北京发布开源智能体基座",
+        "category": "开源项目",
+        "date": "2026-05-17",
+        "summary": "北京推出开源开放AI智能体共性基础设施，面向政企与开发者。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北京发布开源智能体基座 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月17日，北京发布国内首个开源开放的AI智能体共性基础设施，重点指向可复用的底层能力与生态协同。",
+          "blocks": [
+            {
+              "heading": "更新内容与定位",
+              "paragraphs": [
+                "该基础设施强调“开源+开放”双属性，目标是为不同机构提供统一的智能体开发底座，减少重复建设。",
+                "从公开信息看，平台更偏向共性能力供给，包括智能体运行所需的基础组件、接口规范和协作机制。",
+                "这类基座型项目通常不直接替代具体业务系统，而是作为上层应用和行业方案的公共技术层。"
+              ]
+            },
+            {
+              "heading": "适用场景与价值",
+              "paragraphs": [
+                "对政务与产业用户而言，共性基础设施有助于把精力集中在业务流程改造，而不是从零搭建智能体框架。",
+                "对高校和科研团队而言，开源形态便于进行算法验证、插件扩展和多团队协作，降低试验组织成本。",
+                "对中小开发团队而言，若接口文档与样例完善，可更快完成原型开发并进入真实场景测试。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "上手门槛主要在工程化能力：需要具备基础的服务部署、API集成、日志监控与权限管理经验。",
+                "建议先从单一任务场景切入，例如问答助手或流程自动化，再逐步扩展到多智能体协作。",
+                "在生产环境接入前，应同步建立评测与安全流程，重点关注数据边界、工具调用审计和故障回退机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "人民网原文",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50Q3dfLVNIX0xXQlNrbEpGUEhCaWUxWHppcXMwRG1BSXZlYUJfbkhzMWZCekg0Q2JtcWk4UWVUdVRfQXduMjJTUmQxUWxNdllqVlQ0R1daY1ZRSFJ1QkFjU19xSWxpS05m?oc=5"
+          },
+          {
+            "label": "宁波工业AI行动方案",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUGhwYW14UWkxbndVZHJraUp1TWNBbHNwbGpzZXhVNEJpN295RnVkWjhpRDRxZzNScHlXSHV2ZmNQZDJ0TXd0YnpmM0tJZHpwWnVsRlM4eUhaeUs5bGNPSEthdE9PdlhiaHVkeUdXV1doMWpQUjRxMVhaSVV6Z1Zja1YzNExqSWFuckJpOENsZWdXUG1EQVF3aE1yZS1NUE8weGc1SWs1M3E?oc=5"
+          },
+          {
+            "label": "飞书开源CLI报道",
+            "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQUUNQZXpXT2g2ZjAtS2p3bi1vR0pxSTVpUF9ZVE1yMHFveXlBRGJHay1UbDNuQXd4Q1oxTkVkSVFDWjJoUXJyTWplcHJ2bTNpUF9RR3BVekFSQlBzX3pSd0xUa19uZThxbnZYeFRiRGR5T0VQT0IxWkNSWmxhTjJwbF9DSlViVVZyTlBCT1VJZ3dTUXFuTWlscDRtQXo1Uk9zUUxaTGJIOVRqLVktQzJnZ2dvenJxTW5TMjFYbFZrS2duVDU0bU1YMlUzR2cycF84MlZtUHJDYUpYekVwdzU3N3lza1BQOG9xTkxaLWZNdlZhR2tRSVVPeVVNSGYtNTZrUU5YRUl6S2EzWW92SW5fODZ1UUJBNnRleklUQWJIbXNMekdxZklXTGdKbHFrT3RCVXI3VXF1ckVHV0xodWV0QkhKNEhJLVc2RVN3NEYyaTUyWTgzald2bTQxbkRLb3FETjNKTFFGc0lfWnF0ZHZXT2tBQ1FWVDg5X0o2YldCS0pxUQ?oc=5"
+          }
+        ],
+        "source": "人民网",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50Q3dfLVNIX0xXQlNrbEpGUEhCaWUxWHppcXMwRG1BSXZlYUJfbkhzMWZCekg0Q2JtcWk4UWVUdVRfQXduMjJTUmQxUWxNdllqVlQ0R1daY1ZRSFJ1QkFjU19xSWxpS05m?oc=5"
+      },
+      {
+        "slug": "open-source-20260517-auto-2-152b34",
+        "title": "NVIDIA开源SANA-WM",
+        "category": "开源项目",
+        "date": "2026-05-17",
+        "summary": "NVIDIA发布开源世界模型SANA-WM，单卡可生成分钟级720p视频。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA开源SANA-WM 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月17日，NVIDIA推出2.6B参数开源世界模型SANA-WM，信息显示其可在单GPU上生成分钟级720p视频。",
+          "blocks": [
+            {
+              "heading": "项目能力与技术特征",
+              "paragraphs": [
+                "SANA-WM定位为世界模型，核心用途是让系统学习场景动态并生成连续视频内容，而不仅是单帧图像。",
+                "公开描述提到“分钟级时长”和“720p分辨率”，意味着该项目在时序稳定性与计算效率上给出了明确目标。",
+                "2.6B参数规模处于可研究、可复现实验的区间，适合学术与工程团队在现有资源上开展验证。"
+              ]
+            },
+            {
+              "heading": "应用方向与开源意义",
+              "paragraphs": [
+                "该类模型可用于仿真数据合成、机器人训练环境生成、视频内容预演等需要长时序一致性的任务。",
+                "开源发布有助于社区对训练策略、推理性能和失真问题进行对比测试，推动可复现研究。",
+                "对于企业团队，世界模型可作为上游能力接入现有生成式工作流，用于降低部分素材生产成本。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践路径",
+              "paragraphs": [
+                "主要门槛在算力与工程优化，包括显存管理、推理加速、长序列稳定性调参及视频后处理管线。",
+                "建议先复现官方基线，再逐步调整分辨率、时长和采样参数，建立可量化的质量评估指标。",
+                "落地阶段应补充安全与合规检查，尤其是生成内容标注、可追溯日志及高风险场景的人审机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost原文",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGpZMHdad2k5NUJmVDZMdDc5ZmhYcEYyRU53OTNWU25pNEktMzNjZVlzcXpIMzczdVVldndxRTJiMTFaajlQcHhhY3UyNXJxMF9yWVRyN1B0WVJNTkp0cmFRYnVOU3FUcnBpeHdYTlhDS3V3T1g4dXdoYXVkdmxPNEt1dllwc3NjZDlOa1prRlltRUtFN0cxMlNNTGtxQkgwdE1XVXJJM3RESHN3NVJfLVg4WldPbUFhcmlYZ0dDdXNnLU1HX3BWR1ExSkxMZlN6NURIN0p5OVZqVDNNbGI3MmRnNmpLRmdsSEV4YzNhZ1A4UF9z?oc=5"
+          },
+          {
+            "label": "ROCm 7.13发布信息",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lQWUteTUyM3c1WjM1Y0tfeFhXWHV1bmo1WVVmbko4T2ZHR21HVTVtRWYtZHk1d3hzMVcwdW5rOE5TaW5mQ0U4M2diYTlCOEpEY0tackFmUTBkMGJ3?oc=5"
+          },
+          {
+            "label": "iFixAI安全评测消息",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LQ2lhZl8zOTExLXFoalVXSWFHTFRYX2NjeUg0UHBVTmN4bENjb2lxYzBybUtKQzdrYUREYnZRMnptcFEwczUyYjJkR0dGZ0tSTHdXcHdrTnBQSVZHdTl3R043TXNYbnE1eW9CcmR6cXdnUWNrOGh5TXFaVzVOTzA?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGpZMHdad2k5NUJmVDZMdDc5ZmhYcEYyRU53OTNWU25pNEktMzNjZVlzcXpIMzczdVVldndxRTJiMTFaajlQcHhhY3UyNXJxMF9yWVRyN1B0WVJNTkp0cmFRYnVOU3FUcnBpeHdYTlhDS3V3T1g4dXdoYXVkdmxPNEt1dllwc3NjZDlOa1prRlltRUtFN0cxMlNNTGtxQkgwdE1XVXJJM3RESHN3NVJfLVg4WldPbUFhcmlYZ0dDdXNnLU1HX3BWR1ExSkxMZlN6NURIN0p5OVZqVDNNbGI3MmRnNmpLRmdsSEV4YzNhZ1A4UF9z?oc=5"
+      },
       {
         "slug": "open-source-20260516-auto-1-4dec0a",
         "title": "灵玑OS开源基础设施发布",

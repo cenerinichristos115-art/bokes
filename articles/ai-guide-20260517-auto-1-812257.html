@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>LangGraph智能体实操指南 | 寂川日报</title>
+<meta name="description" content="基于13步教程，给出可落地的智能体搭建与调试流程。" />
+<meta name="keywords" content="AI新闻,AI使用教程,tech-insider.org" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260517-auto-1-812257.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="LangGraph智能体实操指南" />
+<meta property="og:description" content="基于13步教程，给出可落地的智能体搭建与调试流程。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260517-auto-1-812257.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-17" />
+<meta property="article:section" content="AI使用教程" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="LangGraph智能体实操指南" />
+<meta name="twitter:description" content="基于13步教程，给出可落地的智能体搭建与调试流程。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"LangGraph智能体实操指南","datePublished":"2026-05-17","dateModified":"2026-05-17","description":"基于13步教程，给出可落地的智能体搭建与调试流程。","inLanguage":"zh-CN","articleSection":"AI使用教程","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260517-auto-1-812257.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/ai-guide-20260517-auto-1-812257.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">LangGraph智能体实操指南</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-17">2026-05-17</time> | 文章日期：<time datetime="2026-05-17">2026-05-17</time> | 来源：tech-insider.org</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="LangGraph智能体实操指南 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">第1部分：先搭最小可用版本</a></li>
+<li><a href="#section-2">第2部分：把13步拆成可交付迭代</a></li>
+<li><a href="#section-3">第3部分：测试、上线与持续优化</a></li>
+</ul>
+</nav>
+<p class="detail-intro">截至北京时间2026-05-17，围绕LangGraph的“13步构建智能体”教程热度较高。下面给出一套可直接执行的中文实操流程，目标是让你在一个工作日内完成可演示的AI智能体原型，并具备基础评测与迭代能力。</p>
+<section>
+<h2 id="section-1">第1部分：先搭最小可用版本</h2>
+<p>第一步先限定业务场景，不要上来做“通用助手”。建议从单一任务切入，例如“技术文档问答”“工单分类”“代码解释”三选一，并写成一句需求：输入是什么、输出是什么、成功标准是什么。把成功标准量化为3项指标，例如准确率、平均响应时长、人工修正率。</p>
+<p>第二步准备运行环境与依赖。新建独立项目目录，分出config、prompts、graphs、tests四个子目录，避免后期混乱。把模型密钥、向量库地址、日志开关统一放到环境变量，不要硬编码在脚本里。完成后先执行一次健康检查脚本，确认模型调用和基础网络可用。</p>
+<p>第三步在LangGraph中只画一条主链路：用户输入节点、检索或工具节点、生成节点、输出节点。先不做并行分支和复杂路由。每个节点都输出结构化字段，例如intent、context、answer、confidence。这样后面调试时能快速定位是检索问题还是生成问题。</p>
+</section>
+<section>
+<h2 id="section-2">第2部分：把13步拆成可交付迭代</h2>
+<p>建议将13步压缩为4个迭代里程碑。里程碑A是“能跑通”：完成主流程并返回稳定文本；里程碑B是“能解释”：增加中间状态记录与可观测日志；里程碑C是“能纠错”：加入重试、降级和人工接管；里程碑D是“能上线”：补齐评测集、权限控制和成本监控。</p>
+<p>在工具接入阶段，优先接一个高价值工具，不要一次接太多。比如只接“内部知识库检索”或“代码仓库检索”之一。为每个工具定义输入参数白名单和超时阈值，超时后直接走备用回答模板。这样可以减少链路阻塞，避免用户长时间等待。</p>
+<p>在记忆与上下文阶段，建议采用“短期会话记忆+长期知识检索”组合。短期记忆只保留最近3到5轮，长期知识通过检索补充，不把全部历史塞给模型。每轮生成前先做上下文裁剪，删除与当前意图无关的段落，可以明显降低幻觉和成本。</p>
+</section>
+<section>
+<h2 id="section-3">第3部分：测试、上线与持续优化</h2>
+<p>先做小样本离线评测，再开放给真实用户。离线阶段准备30到50条高频问题，按“正确、部分正确、错误、无法判断”四类标注。每次改动图结构或提示词都要回归测试，记录版本号与分数变化，避免“感觉变好了”但实际退化。</p>
+<p>上线时必须配置三道保护：内容安全规则、失败兜底模板、人工转接入口。对于高风险请求，直接返回“需要人工确认”的流程提示，不强行生成。对于低置信度结果，自动附带引用来源或检索片段，帮助用户快速核验，减少误用风险。</p>
+<p>最后建立每周优化节奏：周一看日志找失败样本，周三调整提示词和节点策略，周五做A/B对比并发布小版本。若你有代码仓库场景，可结合仓库级分析思路做上下文治理。目标不是一次做全，而是每周稳定提升关键指标。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWxIbEZRQkxTbll6SjhPdEFPdkl1cWsyQmItVVFObUdxaE45MGFTSkVQbVZtQVpvcHlpNWR1TWRSWEUtVXkxN1ZXbG81N1dxb0pmMzdncXZ2RWRvOVNJbEwzQ0llZ1c0MXhOX0RTX1hJZERVWThXOFBLZ0lOd2wzb2dkU0Y4Sm8?oc=5" target="_blank" rel="noopener noreferrer">tech-insider.org（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWHdQT2FYcEN2bUd0NFBYcU91VlVjU0lPM29jWExEdF9Xb0RVMHFIeDN5MUwwT1JGUm1FZXlLOTZKRnVVVTBkenFyTnZxbEJUUk9ibXJ2VmxBMlFoalRvelBhSmNhX0RsZXRnblZDVkhydlVtTGJvTlhfTDBkWC0yTFpZOWFrNXZsX3QtTnQxT1U1LVpHZ2F4TDZHMlJlR1h2Z3FJRTFKc0VVR2VlSjJNNm1YT243NlpVMHd3eVQ2UGZ2TF83NEFFanVXUmc3NlpVYmo4UzFPbVFoOHBkR3V3QUlaeG8tcnVjS1hDeTBWaVlWMHJMRG5nSV9FSlE?oc=5" target="_blank" rel="noopener noreferrer">How to Build Repository-Level Code Intelligence with Repowise</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE0tRTdYOGRPQXQ5dnZRQ1d4SExWd214SFhDUURXUy1RZEwtZ0FWVnhJVjZXQ09FWjFreFZrN2F5TWZqZzFWQTIweDdpSWZjanlSQnpxV05hcEQySjdZMTdxMzFaYVczMDh1Tnc?oc=5" target="_blank" rel="noopener noreferrer">The AI Hallucination Survival Guide</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>

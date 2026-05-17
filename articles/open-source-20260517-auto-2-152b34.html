@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NVIDIA开源SANA-WM | 寂川日报</title>
+<meta name="description" content="NVIDIA发布开源世界模型SANA-WM，单卡可生成分钟级720p视频。" />
+<meta name="keywords" content="AI新闻,开源项目,MarkTechPost" />
+<meta name="robots" content="index,follow,max-image-preview:large" />
+<link rel="canonical" href="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260517-auto-2-152b34.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="NVIDIA开源SANA-WM" />
+<meta property="og:description" content="NVIDIA发布开源世界模型SANA-WM，单卡可生成分钟级720p视频。" />
+<meta property="og:url" content="https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260517-auto-2-152b34.html" />
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<meta property="og:site_name" content="寂川日报" />
+<meta property="article:published_time" content="2026-05-17" />
+<meta property="article:section" content="开源项目" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="NVIDIA开源SANA-WM" />
+<meta name="twitter:description" content="NVIDIA发布开源世界模型SANA-WM，单卡可生成分钟级720p视频。" />
+<meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<link rel="alternate" type="application/rss+xml" title="寂川日报 RSS" href="/bokes/rss.xml" />
+
+<link rel="stylesheet" href="../styles.css" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"NVIDIA开源SANA-WM","datePublished":"2026-05-17","dateModified":"2026-05-17","description":"NVIDIA发布开源世界模型SANA-WM，单卡可生成分钟级720p视频。","inLanguage":"zh-CN","articleSection":"开源项目","mainEntityOfPage":{"@type":"WebPage","@id":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260517-auto-2-152b34.html"},"author":{"@type":"Organization","name":"寂川日报 编辑部"},"publisher":{"@type":"Organization","name":"寂川日报"},"url":"https://cenerinichristos115-art.github.io/bokes/articles/open-source-20260517-auto-2-152b34.html","image":["https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"]}</script>
+</head>
+<body>
+<main class="detail-main">
+<article class="detail-article">
+<h1 class="detail-title">NVIDIA开源SANA-WM</h1>
+<p class="meta">寂川日报 | 发布日期：<time datetime="2026-05-17">2026-05-17</time> | 文章日期：<time datetime="2026-05-17">2026-05-17</time> | 来源：MarkTechPost</p>
+<figure class="detail-hero">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="NVIDIA开源SANA-WM 配图" loading="eager" decoding="async" fetchpriority="high" width="1200" height="675" />
+<figcaption>图片来源：Wikimedia Commons</figcaption>
+</figure>
+<nav aria-label="目录">
+<h2>目录</h2>
+<ul>
+<li><a href="#section-1">项目能力与技术特征</a></li>
+<li><a href="#section-2">应用方向与开源意义</a></li>
+<li><a href="#section-3">上手门槛与实践路径</a></li>
+</ul>
+</nav>
+<p class="detail-intro">截至2026年5月17日，NVIDIA推出2.6B参数开源世界模型SANA-WM，信息显示其可在单GPU上生成分钟级720p视频。</p>
+<section>
+<h2 id="section-1">项目能力与技术特征</h2>
+<p>SANA-WM定位为世界模型，核心用途是让系统学习场景动态并生成连续视频内容，而不仅是单帧图像。</p>
+<p>公开描述提到“分钟级时长”和“720p分辨率”，意味着该项目在时序稳定性与计算效率上给出了明确目标。</p>
+<p>2.6B参数规模处于可研究、可复现实验的区间，适合学术与工程团队在现有资源上开展验证。</p>
+</section>
+<section>
+<h2 id="section-2">应用方向与开源意义</h2>
+<p>该类模型可用于仿真数据合成、机器人训练环境生成、视频内容预演等需要长时序一致性的任务。</p>
+<p>开源发布有助于社区对训练策略、推理性能和失真问题进行对比测试，推动可复现研究。</p>
+<p>对于企业团队，世界模型可作为上游能力接入现有生成式工作流，用于降低部分素材生产成本。</p>
+</section>
+<section>
+<h2 id="section-3">上手门槛与实践路径</h2>
+<p>主要门槛在算力与工程优化，包括显存管理、推理加速、长序列稳定性调参及视频后处理管线。</p>
+<p>建议先复现官方基线，再逐步调整分辨率、时长和采样参数，建立可量化的质量评估指标。</p>
+<p>落地阶段应补充安全与合规检查，尤其是生成内容标注、可追溯日志及高风险场景的人审机制。</p>
+</section>
+<section>
+<h2 id="sources">信息来源</h2>
+<ul>
+<li><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGpZMHdad2k5NUJmVDZMdDc5ZmhYcEYyRU53OTNWU25pNEktMzNjZVlzcXpIMzczdVVldndxRTJiMTFaajlQcHhhY3UyNXJxMF9yWVRyN1B0WVJNTkp0cmFRYnVOU3FUcnBpeHdYTlhDS3V3T1g4dXdoYXVkdmxPNEt1dllwc3NjZDlOa1prRlltRUtFN0cxMlNNTGtxQkgwdE1XVXJJM3RESHN3NVJfLVg4WldPbUFhcmlYZ0dDdXNnLU1HX3BWR1ExSkxMZlN6NURIN0p5OVZqVDNNbGI3MmRnNmpLRmdsSEV4YzNhZ1A4UF9z?oc=5" target="_blank" rel="noopener noreferrer">MarkTechPost（原始来源）</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lQWUteTUyM3c1WjM1Y0tfeFhXWHV1bmo1WVVmbko4T2ZHR21HVTVtRWYtZHk1d3hzMVcwdW5rOE5TaW5mQ0U4M2diYTlCOEpEY0tackFmUTBkMGJ3?oc=5" target="_blank" rel="noopener noreferrer">ROCm 7.13发布信息</a></li>
+<li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9LQ2lhZl8zOTExLXFoalVXSWFHTFRYX2NjeUg0UHBVTmN4bENjb2lxYzBybUtKQzdrYUREYnZRMnptcFEwczUyYjJkR0dGZ0tSTHdXcHdrTnBQSVZHdTl3R043TXNYbnE1eW9CcmR6cXdnUWNrOGh5TXFaVzVOTzA?oc=5" target="_blank" rel="noopener noreferrer">iFixAI安全评测消息</a></li>
+</ul>
+</section>
+<section class="subscribe-cta subscribe-cta-detail" aria-label="订阅入口">
+<p class="subscribe-kicker">SUBSCRIBE</p>
+<h2 class="subscribe-title">免费订阅寂川日报</h2>
+<p class="subscribe-desc">每天更新 AI新闻、AI使用教程、开源项目，支持 RSS 订阅。</p>
+<p class="subscribe-actions">
+<a class="subscribe-btn" href="/bokes/rss.xml" target="_blank" rel="noopener noreferrer">订阅 RSS</a>
+<a class="subscribe-link" href="/bokes/">返回首页</a>
+</p>
+</section>
+<nav class="site-links" aria-label="站点信息"><ul><li><a href="/bokes/about.html">关于我们</a></li><li><a href="/bokes/editorial-policy.html">编辑规范</a></li><li><a href="/bokes/privacy.html">隐私政策</a></li><li><a href="/bokes/contact.html">联系方式</a></li></ul></nav>
+</article>
+</main>
+</body>
+</html>
