@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260518-auto-1-58e4c6",
+        "title": "Anthropic向FSB通报模型风险",
+        "category": "AI新闻",
+        "date": "2026-05-18",
+        "summary": "Anthropic将向FSB说明模型网络安全缺陷与治理进展。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic向FSB通报模型风险 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月18日，围绕大模型安全治理的国际沟通再有新进展。Anthropic被报道将就模型暴露出的网络安全缺陷，向金融稳定委员会（FSB）进行通报。",
+          "blocks": [
+            {
+              "heading": "事件概况",
+              "paragraphs": [
+                "据路透社援引相关报道，Anthropic计划向FSB介绍其模型在安全测试中暴露的潜在网络漏洞，以及企业层面的应对措施。这一动作显示出AI公司与国际金融监管框架之间的沟通正在加深。",
+                "FSB关注的重点通常包括跨境系统性风险、机构风险传导和市场稳定性。大模型若被用于金融分析、客服、投研或风控环节，其安全缺陷可能产生连锁影响，因此提前披露与协同治理成为关键。",
+                "从时间点看，该沟通发生在全球主要市场持续推进生成式AI落地的阶段。监管与产业同时前进，意味着企业需要在产品迭代之外，建立可审计、可复盘的安全流程。"
+              ]
+            },
+            {
+              "heading": "对产业与产品的影响",
+              "paragraphs": [
+                "对AI厂商而言，与国际监管机构沟通不只是公关动作，更会影响企业后续进入金融等高合规行业的节奏。安全事件处置能力、模型更新机制与第三方评估，将成为商业合作的重要前置条件。",
+                "对金融机构而言，采购或接入外部模型时，可能会进一步提高合同中的安全条款要求，包括漏洞响应时效、版本变更通知、数据隔离标准以及责任边界界定。",
+                "从产品层面看，企业或将加快部署红队测试、权限分层、输出监测和异常熔断机制，以降低模型在复杂业务环境中的操作性风险。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "短期内，市场将关注Anthropic向FSB披露的具体范围，包括缺陷类型、修复周期与复现条件。这些信息将影响外部对其安全治理成熟度的评估。",
+                "中期看，若更多头部模型公司采取类似通报机制，跨国监管与企业之间可能形成更标准化的信息共享流程，为AI在金融场景的大规模应用提供基础设施。",
+                "长期而言，AI安全治理将逐步从企业自律走向行业协同，政策、标准与商业实践之间的互动将决定技术扩散速度与风险可控边界。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Reuters相关报道",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5"
+          },
+          {
+            "label": "GuruFocus跟进",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1kwNDU0SlpuSGc0TGtFbFNxUksxSW5CdTVOM3AxUUw2WDEyUlF1ZVVOMHctMjBxcW56clU3elNSQjJuYjIxRkN0WDFsd3hsVnFreXNfZmdpYlJLbEVtaHUyRUV1ZHlLRFRVcXBONnZ1aVZ0ZENGLXdoSmtFT1B3UUhOeklTa2ktMjB1cjFlYVEwWWtRWDV3OXp2T1dYVzZNYWNWbU04Tml5X0tT?oc=5"
+          },
+          {
+            "label": "AI风险与回报讨论",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10N3pCRWcwVHpRdXY0c2hsSDVxeHBnU0FKbW1BcDBsY1JjR2szOEs1WkhJREh0SHRJNDh3X210TWpxS2M0S2tkZVlmX3Q4LUI4cVZSbU9YYk5GbC1RdzlBYV9DYw?oc=5"
+          }
+        ],
+        "source": "Reuters",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260518-auto-2-27c5b6",
+        "title": "上海发布人工智能+新规划",
+        "category": "AI新闻",
+        "date": "2026-05-18",
+        "summary": "上海提出“十五五”阶段推进AI+与人形机器人入厂目标。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "上海发布人工智能+新规划 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月18日，上海围绕“十五五”阶段披露人工智能相关部署，提出全面实施“人工智能+”行动，并推动人形机器人进入工厂场景。",
+          "blocks": [
+            {
+              "heading": "政策要点梳理",
+              "paragraphs": [
+                "根据公开信息，上海在新阶段规划中明确“人工智能+”为系统性方向，覆盖产业升级、场景开放与生态建设等多个维度，体现出地方层面对AI与实体经济融合的持续加码。",
+                "其中，推动10万台人形机器人进工厂的表述受到关注。这一目标强调的是工业场景的规模化应用，意味着相关政策重心不仅是技术展示，更是可复制的生产实践。",
+                "同步发布的“人工智能+消费”集聚区与场景建设信号，显示政策正在从制造端向消费端扩展，形成供给与需求两侧联动。"
+              ]
+            },
+            {
+              "heading": "产业链影响评估",
+              "paragraphs": [
+                "在制造环节，机器人本体、减速器、传感器、控制器和工业软件等环节可能迎来更明确的订单预期。对本地供应链企业而言，交付能力和稳定性将成为竞争核心。",
+                "在应用环节，工厂导入人形机器人通常需要与MES、ERP、视觉系统和安全管理流程协同，实施周期和系统集成能力将直接影响项目落地效率。",
+                "在资本与生态层面，政策目标有助于吸引设备商、算法公司和系统集成商形成集群效应，推动从单点试验向平台化、标准化推进。"
+              ]
+            },
+            {
+              "heading": "落地挑战与观察",
+              "paragraphs": [
+                "实际推进中，企业最关注的仍是投资回报周期，包括替代率、故障率、维护成本和产线适配成本。政策推动之后，示范项目的经营数据将成为关键参考。",
+                "此外，人形机器人在复杂工序中的稳定性与安全合规要求较高，涉及软硬件协同迭代、现场运维体系和岗位培训机制，落地节奏可能呈现分行业分层推进。",
+                "后续可重点观察地方配套细则、财政与采购机制、标准体系建设进度，以及头部制造企业的首批规模化部署结果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "上海AI+行动报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xSGZNODlaMUpVdW9xVlhQRG1lMFdSalpVMzJhZ3I5VmtNeThfTG4wY2RzM3QxYmZZOXpyWFl1VnVZVWlVYmcwNEtWVVpQdXMzVm05OGNpSVNFRnZKalNxbFpfY2ZURTFrSFdsa3dTVFhRV0l4bVQtdQ?oc=5"
+          },
+          {
+            "label": "上海AI+消费布局",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XUlU0bEY1cFRQYXQ1RGl6YmFMMXZOaEZMWjZCbllrQUhiMXh5YUc0UjkzOENFc1VWQ2xBdnlQUVVpRVBFaTNoNG95STNhVVFaZjAwS3BVTkFPd1FEcDZweGJHVjRveWZPZEpRN2Z0OTFuWG5Hd1VNWQ?oc=5"
+          },
+          {
+            "label": "AI终端展产业信号",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KY01tYjJKRTRYSmVhQ0ItZ3owbEc1bXJVMlI1b1VBMDBiQlctSXBrT21EdWtTMVUxYXJGcy1vQ2lCaUd5bHhnRVRxaXgxV2xsSVYzMWRLM2Y?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xSGZNODlaMUpVdW9xVlhQRG1lMFdSalpVMzJhZ3I5VmtNeThfTG4wY2RzM3QxYmZZOXpyWFl1VnVZVWlVYmcwNEtWVVpQdXMzVm05OGNpSVNFRnZKalNxbFpfY2ZURTFrSFdsa3dTVFhRV0l4bVQtdQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260517-auto-1-1e45f5",
         "title": "联通发布FDE普智计划",
         "category": "AI新闻",
@@ -5851,6 +5967,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260518-auto-1-dba030",
+        "title": "GPT-Image-2实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-18",
+        "summary": "基于国内教程整理的生图到API落地步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-Image-2实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年5月18日可见的中文教程信息，本文给出一套可直接执行的 GPT-Image-2 使用流程，覆盖账号准备、提示词编排、批量生图与API接入。目标是让内容运营、设计协作和开发同学在一天内完成从试用到可复用流程的搭建。",
+          "blocks": [
+            {
+              "heading": "第一步：先搭建可重复的生图工作流",
+              "paragraphs": [
+                "先明确输出场景，再开始生图。建议先选一个具体任务，例如“电商主图”“文章配图”或“短视频封面”，并固定画幅、风格、文案长度三项参数。这样可以减少反复试错，提高首轮结果可用率。",
+                "提示词建议采用四段结构：主体、场景、风格、约束。示例：主体写“蓝牙耳机产品近景”，场景写“简洁白底工作台”，风格写“真实商业摄影”，约束写“无水印、中文可读标题区域留白”。每次只改一段，便于定位效果变化原因。",
+                "在2026年常见的团队协作中，建议建立“提示词版本表”，至少记录版本号、提示词全文、种子或批次编号、输出文件路径。这样当你需要复刻上周的同款风格时，可以直接回放，不必从零重新描述。"
+              ]
+            },
+            {
+              "heading": "第二步：用质量检查清单提升成片率",
+              "paragraphs": [
+                "首轮生成后不要立即发布，先按清单筛图：构图是否完整、主体是否变形、文字区域是否可后期编辑、品牌元素是否准确。每张图用30秒做快速审查，先淘汰明显不合格结果，再做精修选择。",
+                "建议采用“3轮迭代法”：第1轮找方向，第2轮修主体细节，第3轮控风格一致性。每轮最多保留3个候选，避免素材堆积。对于需要系列化发布的内容，可固定同一风格模板，让多张图在视觉上保持统一。",
+                "如果要与文案或多语言内容联动，可在生图前先确认标题长度与排版位置，再决定留白比例。结合候选信息中提到的小模型与翻译能力趋势，实际工作中可先做中文主稿，再扩展多语版本，减少跨语义偏差。"
+              ]
+            },
+            {
+              "heading": "第三步：落地API到业务流程",
+              "paragraphs": [
+                "开发接入时，先完成最小可用链路：输入提示词、调用接口、返回图片URL或文件、写入素材库。不要一开始就做复杂编排，先保证单次调用稳定，再逐步加入重试、超时和日志记录。",
+                "生产环境建议增加三类控制：配额控制（防止批量任务超预算）、内容审核（过滤不合规请求）、回滚机制（当新提示词模板效果下降时可快速切回旧版本）。这三项比追求一次性高复杂度功能更关键。",
+                "上线后每周复盘三个指标：单图平均耗时、可用率、人工返工率。若返工率连续两周偏高，优先优化提示词模板与输入约束，而不是盲目增加后处理。按此方式迭代，通常能在2到4周内形成稳定的图像生产流程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GPT-Image-2国内使用全教程",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fQk5PTE4zRng1VnppZkpxT1N5WjdVbEwzdWlaTjV0ZWxXc3M1YjdJdlhwWHNGTlE4djFYNjBkVFpzMjVCV0E4SUlscmdzUU9BUlhJ?oc=5"
+          },
+          {
+            "label": "Hy-MT1.5与MathNet动态",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92a0tKc0pneUdWZ1hvQUVpdVRYbEQ0TlNsNV9Ta0w2dDU2SVBSeDlWczl3X09OV25pTHZ4N1ZHbFFCSzdmSi1waQ?oc=5"
+          },
+          {
+            "label": "AI片场创制边界讨论",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2ZXeUxzaWE1V051eXVkQ25xV3MwTWh4cXV5cHo1aUNxVEp6YjEzNzRxT25yQjNvZWtzX1l4cjhIMElyU2JNdi1qUnBOR010OEVfNENZeHh4UUQwczQ3QTRkQUtGcHBhaF9MRTV1VE5mby1QUnBBN1A4dEJwd2EtUTQzb1ZWQzB4dVVscnJ0d3dVUFM2b0xnMFAwcHhZXzE5Z18wS0pOT2h0TUZYVFJQWnJ6TERzdUk1NzEyTVNFamhrUWVlMWVTcU9UT3gtLUN2cEpiaEtCTExqeEhPRm9YOWMxVldhY2s?oc=5"
+          }
+        ],
+        "source": "51cto.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fQk5PTE4zRng1VnppZkpxT1N5WjdVbEwzdWlaTjV0ZWxXc3M1YjdJdlhwWHNGTlE4djFYNjBkVFpzMjVCV0E4SUlscmdzUU9BUlhJ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260517-auto-1-812257",
         "title": "LangGraph智能体实操指南",
         "category": "AI使用教程",
@@ -8199,6 +8373,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260518-auto-1-1da9cc",
+        "title": "OpenAI开源Symphony",
+        "category": "开源项目",
+        "date": "2026-05-18",
+        "summary": "OpenAI发布自主编程代理编排器，面向多代理协作开发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI开源Symphony 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月18日，OpenTools披露OpenAI开源Symphony。该项目定位为自主编程代理的编排层，核心价值在于把多个AI代理组织成可分工、可回溯、可重试的开发流程。",
+          "blocks": [
+            {
+              "heading": "这次发布解决什么问题",
+              "paragraphs": [
+                "在多代理编程场景中，常见痛点是任务拆分不稳定、上下文传递丢失、结果难复现。Symphony面向这些流程问题，强调“编排”而非单一模型能力。",
+                "从公开信息看，它更像一个代理工作流控制器：负责调度不同角色代理，如需求分析、代码生成、测试修复与审查代理，并管理它们之间的依赖关系。",
+                "对团队而言，这类框架的意义是把个人实验变为团队流程，减少“同一任务每次跑出不同结果”的不确定性。"
+              ]
+            },
+            {
+              "heading": "适用场景与使用门槛",
+              "paragraphs": [
+                "适用场景包括中小型功能开发、自动化重构、批量单测生成与缺陷修复回归。对于已有CI流程的团队，编排器可作为补充层接入。",
+                "上手门槛主要在工程化能力，而非模型训练能力。通常需要具备Python/Node脚本基础、Git协作习惯，以及对任务队列和日志系统的基本理解。",
+                "如果是个人开发者，建议先从单仓库、单语言项目试运行，优先验证任务分解、失败重试和产物追踪三项能力，再扩展到多仓库。"
+              ]
+            },
+            {
+              "heading": "落地建议与风险边界",
+              "paragraphs": [
+                "第一步可先定义有限任务模板，例如“生成接口+补单测+静态检查”，避免一开始覆盖全链路开发，便于控制质量。",
+                "第二步应建立人工审核关口，尤其是安全相关模块。代理编排能提高速度，但并不替代代码责任主体与合规审计流程。",
+                "第三步建议记录关键指标，如任务成功率、平均修复轮次和回归失败率，用数据判断是否继续扩大Symphony在团队内的使用范围。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenTools报道：OpenAI开源Symphony",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeC1Udy1XN3duajhuUjVlMUJuaV9UQnFvM1NvdEJkV3lUYVlDcF9UOHV3SWlhczVlQlhmRlp5X2ppc3U1Wk5qcWNTVm1SYTdLNGZfazNBUHh5cml4QlJOenhBZFo4WTgtMVFlRk5OMzc5bF9MRWZzclNWSi1BalFhc2paXzhvckdzVTJFaEJ0ckxDbEdScnc?oc=5"
+          },
+          {
+            "label": "OpenClaw相关生态观察",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU5vem4wM0gwY0FlaW5mckZnZ1VmMVJGZFJvdTFHZHhIYmg3QVlnYXNtLTFtTmRzSHdNRVhjY0RKeXllY3N1WlpWenNYQk9yWThOWk4wMTZVUmdfNXBRZWxtb2QtSldJTkxPNFBzNmREUHZ1ejc4ekVubTJIcVBiYzlDTW92S1FFekJjTjA2Z0U2azNDQmtQWWlKZWdGZ2xOaXFMV3UwSXhsN2hQQm4zZjM1Y3NkVW5RaWRnYnR3ek5WS3pY?oc=5"
+          },
+          {
+            "label": "Agent工具年度横向信息",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1Q25yVm5CcWtKNXR0S0tRbzFNYzMzWFNwbzBHbTlvYkF6VHczTF9YZV9ucndEX3MyeUJJRXNVeHBxZE14YUoyQ2k0Z3k?oc=5"
+          }
+        ],
+        "source": "OpenTools",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeC1Udy1XN3duajhuUjVlMUJuaV9UQnFvM1NvdEJkV3lUYVlDcF9UOHV3SWlhczVlQlhmRlp5X2ppc3U1Wk5qcWNTVm1SYTdLNGZfazNBUHh5cml4QlJOenhBZFo4WTgtMVFlRk5OMzc5bF9MRWZzclNWSi1BalFhc2paXzhvckdzVTJFaEJ0ckxDbEdScnc?oc=5"
+      },
+      {
+        "slug": "open-source-20260518-auto-2-42ebe6",
+        "title": "腾讯开源Hy-MT1.5",
+        "category": "开源项目",
+        "date": "2026-05-18",
+        "summary": "440MB翻译模型发布，面向轻量部署与多语翻译任务。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "腾讯开源Hy-MT1.5 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月18日，智源社区消息显示，腾讯开源Hy-MT1.5翻译模型，体量约440MB，强调在较小部署规模下提供可用的多语翻译能力，适合边缘和资源受限环境。",
+          "blocks": [
+            {
+              "heading": "项目定位与实际价值",
+              "paragraphs": [
+                "Hy-MT1.5的突出点在于模型体积与效果平衡。相较超大参数翻译模型，440MB体量更利于本地化、私有化和低成本部署。",
+                "它面向的并非研究竞赛单点成绩，而是企业与开发者常见的实用需求，例如文档翻译、客服知识库多语同步和跨境内容处理。",
+                "对中小团队而言，轻量模型可降低推理资源门槛，缩短从“验证可行”到“上线可用”的周期。"
+              ]
+            },
+            {
+              "heading": "上手路径与部署门槛",
+              "paragraphs": [
+                "基础上手通常包括模型下载、推理环境准备与输入输出适配。若已有NLP服务框架，可将其封装成HTTP或消息队列服务供业务系统调用。",
+                "门槛主要体现在工程集成与质量评估：需要处理术语一致性、领域词表、批处理吞吐，以及人工抽检流程，而不只是看单次翻译样例。",
+                "对于资源有限团队，建议先在CPU或入门GPU环境进行小流量压测，确认延迟与成本后再扩容，并设置回退策略以保障稳定性。"
+              ]
+            },
+            {
+              "heading": "与评测基准信息的配合",
+              "paragraphs": [
+                "同一消息中还提及MathNet等基准信息，反映出当前开源生态在“模型+评测”双线推进。翻译模型落地同样需要稳定评测体系支撑。",
+                "在生产场景可建立三层评估：自动指标、术语命中率、人工可读性评分。这样能避免仅凭单一分数判断模型可用性。",
+                "整体看，Hy-MT1.5更适合作为可控成本下的翻译基础能力组件，适配逐步迭代而非一次性替换全部翻译链路。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：Hy-MT1.5与MathNet消息",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92a0tKc0pneUdWZ1hvQUVpdVRYbEQ0TlNsNV9Ta0w2dDU2SVBSeDlWczl3X09OV25pTHZ4N1ZHbFFCSzdmSi1waQ?oc=5"
+          },
+          {
+            "label": "开源AI在全球南方讨论",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2Q3YzBnbFF0TUZSNUswZzh2VThfSUxPUmF6eWJiLWdic21BbXlkOHVPNXRVRWNXcmxSTGFNWjRZbVJFNUJpVlZjaFA2eUx0SmNOb2F1eEk2TllXQUlLZ21jR0xHQ1BMSzREWkdwV1gwdTJjWGpSck5Tam5wR0Qzbk84SlBmYXd2SXY1VHRXR1QzSlVGZXRLUVpzQlFfZVBsNElkcW9oYV96NXFUZkMw0gG0AUFVX3lxTE54bXo2aFU4RlR0amMwZU5BTU1mOGo4OVc2V0RNZFBQcl9JNDZwVklsanIyREpRSWs3eGYzN1p4TkZKV0J3T2RWLUd6MGJsLUNsY29BakxZMDdpSHNSa2ZWZTN4eDNMNmhGNktSV3BvNlpBNmdXY3dROFBNazdRWDRHZVFMTnJ6VTZJLXdPZDVmazRidXRWYWswaHlpRW91NGZSTUNmYVZmVkxIejhhVlBPREJObw?oc=5"
+          },
+          {
+            "label": "AI代理治理风险背景",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2ptZVdfQlVqYWNjbXhxUHdBME56bVhidnRaZ0pPLWJQZVZORUFmMndDYzVsSUpFV09wTVhsWFZiUW56el9vQ3MxVmxWNWc0X0cyc0JjaDU4M2FOUHpNeVF0eTFSWVQycXBLYlNSNUdkREYyVVZET21yNEpid1lCS0gwWDVQSlhFZFpGb0pmR0t2T1Zqa00wYjRvLUtjUy0zZUlQQVhlUVMxUTlH?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92a0tKc0pneUdWZ1hvQUVpdVRYbEQ0TlNsNV9Ta0w2dDU2SVBSeDlWczl3X09OV25pTHZ4N1ZHbFFCSzdmSi1waQ?oc=5"
+      },
       {
         "slug": "open-source-20260517-auto-1-8cb51e",
         "title": "北京发布开源智能体基座",
