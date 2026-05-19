@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260519-auto-1-c4d5e5",
+        "title": "AI: OpenAI wins El",
+        "category": "AI新闻",
+        "date": "2026-05-19",
+        "summary": "AI: OpenAI wins Elon Musk lawsuit. AI-RTZ #1091 AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: OpenAI wins El 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI: OpenAI wins Elon Musk lawsuit. AI-RTZ #1091 AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: OpenAI wins Elon Musk lawsuit. AI-RTZ #1091 AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAya0dZcFZtazQtOVcta0p5dlMyOEtYNkctT19GblNaQVZnWjFGN19PX3lFakRIb0t5ZkFhODhQTXhyclRTb0hwbW9HRE5lQ0RZcTEzYlNHNS1zMnFYb3BuOTZHdG1mZV9sbXlKYVhYaTdrQ0lLcmg5cA?oc=5"
+          },
+          {
+            "label": "The Africa Report：Why Cassava Technologies is ‘more expensive and less competitive’ in t",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzZsa3NkMzg4X0VlWFp6Rks1eFJ6VmJ4QUxwYWFvNXdSQzVULXFyMzc0eEl4T2IyOVJuSXcxRmRHNlRpTFJ6UHlDTGVEWDd6eE9IeGRPQW0wN3A0dHN1WmNEV1RIWFhSdlpkQ1JhdnRNNFNadFFXZ0FGTk9wOWpuYTRtSFgzLU55VHF4dWFZTXVMWnpJZUtaYkY3ZVh1dUthM1AyTDNxNEZBLW5sMTdMZkYwR1RMMnAzVDBNOTk1RU1jWUk?oc=5"
+          },
+          {
+            "label": "新浪财经：不仅要把人工智能送上天，长三角还要建太空算力工厂 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZiLVlwcTdRYlVhdDJfR3JGRS1rNWhfN2xMelRmdWtPYmNqZ1JqRGhRQkpIWTR3MDN3empqSjJfV05HLVhYSXRxdk1CaWNhV1NidFptNXEwUi1wYkxKSkktS3hrYko2M19ScjFVVU9DcC1qc1Zqb2ZPbG9henAyY2hGVm1od1JiVzRFWXpCOVdMYjRya1UxU1VtZEJpdm9ZcnJMbWQ0LXpkOXYzRHRiZmdn?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAya0dZcFZtazQtOVcta0p5dlMyOEtYNkctT19GblNaQVZnWjFGN19PX3lFakRIb0t5ZkFhODhQTXhyclRTb0hwbW9HRE5lQ0RZcTEzYlNHNS1zMnFYb3BuOTZHdG1mZV9sbXlKYVhYaTdrQ0lLcmg5cA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260519-auto-2-590096",
+        "title": "Why Cassava Techno",
+        "category": "AI新闻",
+        "date": "2026-05-19",
+        "summary": "Why Cassava Technologies is ‘more expensive and le",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why Cassava Techno 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Why Cassava Technologies is ‘more expensive and le",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why Cassava Technologies is ‘more expensive and le",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Africa Report：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzZsa3NkMzg4X0VlWFp6Rks1eFJ6VmJ4QUxwYWFvNXdSQzVULXFyMzc0eEl4T2IyOVJuSXcxRmRHNlRpTFJ6UHlDTGVEWDd6eE9IeGRPQW0wN3A0dHN1WmNEV1RIWFhSdlpkQ1JhdnRNNFNadFFXZ0FGTk9wOWpuYTRtSFgzLU55VHF4dWFZTXVMWnpJZUtaYkY3ZVh1dUthM1AyTDNxNEZBLW5sMTdMZkYwR1RMMnAzVDBNOTk1RU1jWUk?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: OpenAI wins Elon Musk lawsuit. AI-RTZ #1091 - AI: Reset to Zero",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAya0dZcFZtazQtOVcta0p5dlMyOEtYNkctT19GblNaQVZnWjFGN19PX3lFakRIb0t5ZkFhODhQTXhyclRTb0hwbW9HRE5lQ0RZcTEzYlNHNS1zMnFYb3BuOTZHdG1mZV9sbXlKYVhYaTdrQ0lLcmg5cA?oc=5"
+          },
+          {
+            "label": "新浪财经：不仅要把人工智能送上天，长三角还要建太空算力工厂 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS1ZiLVlwcTdRYlVhdDJfR3JGRS1rNWhfN2xMelRmdWtPYmNqZ1JqRGhRQkpIWTR3MDN3empqSjJfV05HLVhYSXRxdk1CaWNhV1NidFptNXEwUi1wYkxKSkktS3hrYko2M19ScjFVVU9DcC1qc1Zqb2ZPbG9henAyY2hGVm1od1JiVzRFWXpCOVdMYjRya1UxU1VtZEJpdm9ZcnJMbWQ0LXpkOXYzRHRiZmdn?oc=5"
+          }
+        ],
+        "source": "The Africa Report",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYzZsa3NkMzg4X0VlWFp6Rks1eFJ6VmJ4QUxwYWFvNXdSQzVULXFyMzc0eEl4T2IyOVJuSXcxRmRHNlRpTFJ6UHlDTGVEWDd6eE9IeGRPQW0wN3A0dHN1WmNEV1RIWFhSdlpkQ1JhdnRNNFNadFFXZ0FGTk9wOWpuYTRtSFgzLU55VHF4dWFZTXVMWnpJZUtaYkY3ZVh1dUthM1AyTDNxNEZBLW5sMTdMZkYwR1RMMnAzVDBNOTk1RU1jWUk?oc=5"
+      },
+      {
         "slug": "ai-news-20260518-auto-1-58e4c6",
         "title": "Anthropic向FSB通报模型风险",
         "category": "AI新闻",
@@ -5967,6 +6083,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260519-auto-1-f4f859",
+        "title": "微信读书AI技能上线：6大功能+安装",
+        "category": "AI使用教程",
+        "date": "2026-05-19",
+        "summary": "微信读书AI技能上线：6大功能+安装教程，解锁个性化阅读新体验 itsolotime.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微信读书AI技能上线：6大功能+安装 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "微信读书AI技能上线：6大功能+安装教程，解锁个性化阅读新体验 itsolotime.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "微信读书AI技能上线：6大功能+安装教程，解锁个性化阅读新体验 itsolotime.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "itsolotime.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUE5Qb1duenJ1dEhaTmV5U3dOV1ZNUER3Q2pVbDZvc2RsWV9TbUZTWEZiQ2FiLWZfQ1VONm5xUk9XZjItUEdPcXVTeGoza3oteDdV?oc=5"
+          },
+          {
+            "label": "blockchain.news：DeepLearningAI Unveils spec-driven coding agents Guide - blockchain.ne",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTdkYThPRWw0ZUFlWmtRRFhwOFhzNFBhbWpSYVRGTEZzSWQyT000YjlZc19BbW5YRDNqYUstbzAwUTVvT0xFUC1MaEliclZUamNOM3NxWnNLSjhsR0tEbVoxZUg0bVplOEgzQTBmQk5xNmlNN3VwZnBFdGtwQUJ1SHF5SWdZN0J3WW5mQlpR?oc=5"
+          },
+          {
+            "label": "hkong.cn：尹书威英国开发AI教程 助跨过应用门槛 - hkong.cn",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRbm8wOFFKYXZUbWxEYlZmYXNBSWxfQWtFaXFHVGUxYkdPMWFtMHV2ZGYzSzRkYkxmenUzbGVRdEhadHoyYnFCV1FYTVpVQzZ6cy0xdQ?oc=5"
+          }
+        ],
+        "source": "itsolotime.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUE5Qb1duenJ1dEhaTmV5U3dOV1ZNUER3Q2pVbDZvc2RsWV9TbUZTWEZiQ2FiLWZfQ1VONm5xUk9XZjItUEdPcXVTeGoza3oteDdV?oc=5"
+      },
+      {
         "slug": "ai-guide-20260518-auto-1-dba030",
         "title": "GPT-Image-2实操指南",
         "category": "AI使用教程",
@@ -8373,6 +8547,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260519-auto-1-69f23d",
+        "title": "How AI is mining w",
+        "category": "开源项目",
+        "date": "2026-05-19",
+        "summary": "How AI is mining worker data to reshape the labour",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How AI is mining w 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How AI is mining worker data to reshape the labour",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How AI is mining worker data to reshape the labour",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ThinkChina：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWFHejhabkx5Znk1bEhKRDBPMFptYU04N0NTMmwzTmhEM0ZUYXkwdGJDWV90ZkJ0aXpCY054ZTVPZmcxRnBHdEF3YmlJSzVBZkxnbVdZT05XeUZfNm9LNXJRSzJhYmJISi1mVHN2bDFpcnhNaHg2OHhPUGxfc0dBNUpWQm9OSU9zX2lMcndBaFRXRTY0bjJOb2dfRk4?oc=5"
+          },
+          {
+            "label": "Storyboard18：Anthropic eases restrictions on cybersecurity AI model sharing under P",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0ttenBHNXhpbG1MNl85Sm1iTHNxdWV4RjJDdGNYdldnWWZURWtxSjRZNlJpanRVbDk1UTJ0ekFRZTBINFZpRHZYU3pGczZHRmtiVmVjcmNLYVcyZjRrR3l4S1RFTG5lMTFVbk5rRXhCVk9xM1JSYzNIMmZpZzRjcHozUUoyeDFLOXgyUG5SZ1JRVTkwR2tPZW50ank1bnhFUUg3Z2g1X2E0OG5ISnFhM3lRS3RfVktYa2QtN0plYUtJYVJLSzhqanloeXk2Z9IB0wFBVV95cUxOS05lX2RFMlhURWJtTU1Hb1FPSGxsSDNnbUl5cHd5c0MyZS1wQWhwMHY5ekNfM2hWVm9odkhDRGtjTkQzOXY5bVRFQkNRbDhVeFNUNFJwcXhWajJCRjA5V2wxcEtwWlE4OEZEeEFmN1pVQlR2QzlNNERNMVk5REgtY2NNSGFmWkRaZXBvOTZROG5tREF3RlY4d1Njd0VxYXR2MXI5Ni1OZHFJVDhVT0FfZ2EwUklzQjk4LWJlY041bUNvdDJXekZ1V1RHZ2N4MUk2ZjhF?oc=5"
+          },
+          {
+            "label": "Forbes：Dell Becomes OpenAI's On-Prem Channel For Frontier Models - Forbes",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVoxWGVXZHVTUEV1QVpIN014c0UtRWRDWWh4ZE9YOUI0U1gtNk1HREYwOGc5TXFteTZOUmZJUTlGU1VvVW5FTF9uWk80cWxQdV9CVkN5Y2sycC1qcTRURlVraHJSX0Vwbl9SZ1NGZC1MV1V2dnZkZGNSM09hcFJtaXFxM29iV2I5LVJOM09IdW1kS215RG15djF4RzQ5ekJfdU5teWlrcXZoSllWOUlj?oc=5"
+          }
+        ],
+        "source": "ThinkChina",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWFHejhabkx5Znk1bEhKRDBPMFptYU04N0NTMmwzTmhEM0ZUYXkwdGJDWV90ZkJ0aXpCY054ZTVPZmcxRnBHdEF3YmlJSzVBZkxnbVdZT05XeUZfNm9LNXJRSzJhYmJISi1mVHN2bDFpcnhNaHg2OHhPUGxfc0dBNUpWQm9OSU9zX2lMcndBaFRXRTY0bjJOb2dfRk4?oc=5"
+      },
+      {
+        "slug": "open-source-20260519-auto-2-602eaf",
+        "title": "Anthropic eases re",
+        "category": "开源项目",
+        "date": "2026-05-19",
+        "summary": "Anthropic eases restrictions on cybersecurity AI m",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic eases re 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic eases restrictions on cybersecurity AI m",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic eases restrictions on cybersecurity AI m",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Storyboard18：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0ttenBHNXhpbG1MNl85Sm1iTHNxdWV4RjJDdGNYdldnWWZURWtxSjRZNlJpanRVbDk1UTJ0ekFRZTBINFZpRHZYU3pGczZHRmtiVmVjcmNLYVcyZjRrR3l4S1RFTG5lMTFVbk5rRXhCVk9xM1JSYzNIMmZpZzRjcHozUUoyeDFLOXgyUG5SZ1JRVTkwR2tPZW50ank1bnhFUUg3Z2g1X2E0OG5ISnFhM3lRS3RfVktYa2QtN0plYUtJYVJLSzhqanloeXk2Z9IB0wFBVV95cUxOS05lX2RFMlhURWJtTU1Hb1FPSGxsSDNnbUl5cHd5c0MyZS1wQWhwMHY5ekNfM2hWVm9odkhDRGtjTkQzOXY5bVRFQkNRbDhVeFNUNFJwcXhWajJCRjA5V2wxcEtwWlE4OEZEeEFmN1pVQlR2QzlNNERNMVk5REgtY2NNSGFmWkRaZXBvOTZROG5tREF3RlY4d1Njd0VxYXR2MXI5Ni1OZHFJVDhVT0FfZ2EwUklzQjk4LWJlY041bUNvdDJXekZ1V1RHZ2N4MUk2ZjhF?oc=5"
+          },
+          {
+            "label": "ThinkChina：How AI is mining worker data to reshape the labour market - ThinkChina",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWFHejhabkx5Znk1bEhKRDBPMFptYU04N0NTMmwzTmhEM0ZUYXkwdGJDWV90ZkJ0aXpCY054ZTVPZmcxRnBHdEF3YmlJSzVBZkxnbVdZT05XeUZfNm9LNXJRSzJhYmJISi1mVHN2bDFpcnhNaHg2OHhPUGxfc0dBNUpWQm9OSU9zX2lMcndBaFRXRTY0bjJOb2dfRk4?oc=5"
+          },
+          {
+            "label": "Forbes：Dell Becomes OpenAI's On-Prem Channel For Frontier Models - Forbes",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVoxWGVXZHVTUEV1QVpIN014c0UtRWRDWWh4ZE9YOUI0U1gtNk1HREYwOGc5TXFteTZOUmZJUTlGU1VvVW5FTF9uWk80cWxQdV9CVkN5Y2sycC1qcTRURlVraHJSX0Vwbl9SZ1NGZC1MV1V2dnZkZGNSM09hcFJtaXFxM29iV2I5LVJOM09IdW1kS215RG15djF4RzQ5ekJfdU5teWlrcXZoSllWOUlj?oc=5"
+          }
+        ],
+        "source": "Storyboard18",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0ttenBHNXhpbG1MNl85Sm1iTHNxdWV4RjJDdGNYdldnWWZURWtxSjRZNlJpanRVbDk1UTJ0ekFRZTBINFZpRHZYU3pGczZHRmtiVmVjcmNLYVcyZjRrR3l4S1RFTG5lMTFVbk5rRXhCVk9xM1JSYzNIMmZpZzRjcHozUUoyeDFLOXgyUG5SZ1JRVTkwR2tPZW50ank1bnhFUUg3Z2g1X2E0OG5ISnFhM3lRS3RfVktYa2QtN0plYUtJYVJLSzhqanloeXk2Z9IB0wFBVV95cUxOS05lX2RFMlhURWJtTU1Hb1FPSGxsSDNnbUl5cHd5c0MyZS1wQWhwMHY5ekNfM2hWVm9odkhDRGtjTkQzOXY5bVRFQkNRbDhVeFNUNFJwcXhWajJCRjA5V2wxcEtwWlE4OEZEeEFmN1pVQlR2QzlNNERNMVk5REgtY2NNSGFmWkRaZXBvOTZROG5tREF3RlY4d1Njd0VxYXR2MXI5Ni1OZHFJVDhVT0FfZ2EwUklzQjk4LWJlY041bUNvdDJXekZ1V1RHZ2N4MUk2ZjhF?oc=5"
+      },
       {
         "slug": "open-source-20260518-auto-1-1da9cc",
         "title": "OpenAI开源Symphony",
