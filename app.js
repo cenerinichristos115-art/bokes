@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260520-auto-1-365256",
+        "title": "Google is the Cons",
+        "category": "AI新闻",
+        "date": "2026-05-20",
+        "summary": "Google is the Consumer AI Company Everyone is Wait",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google is the Cons 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google is the Consumer AI Company Everyone is Wait",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google is the Consumer AI Company Everyone is Wait",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16RDFEbEpPN29YVEd4bFI4M3ZfX3dweUJ2MnBfNlhEcnhMNEdlcGhjZVE0alE3YlNHbVBpZ3Z3OTA4WGc5SGxVLVdxcWw5bjgwRFZWQXlfUUl1Y2hjMkVtVEhVdkNpQXNyYWVGVXhaT09hTHM1RlVUS2Nn?oc=5"
+          },
+          {
+            "label": "Decatur Daily：Google announces slew of AI advances, including a personal AI assistan",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaG1mTHJuQU1iV204eUxwOXlJc3lxR0ZlT2tZdkpVUTRqTWFnem02MEh0NkczczBpdXNvOGpTeTltWjBvNkF3VkpwcldfU09xQUZvTFZUb2xDc3pwZHFNb3lhZUdEMG85N0d3RHBWLUdZYkE1a0NzTXRDY0FleHljdWJWdFB2UUhjd1lrUnJtX215VEg2WkdLUzZMczJRMmhvOXlMMGdMWG9nWllCemhyd3N1ZnU2Tms2SzBpNTJyM2tfQ2t5MXlfUXQ2Z0h5MnJ3Wm1PRW9ja1hZa2JYOHgxSWhUYUEyekxTWWdWUS1wQWRqczB2bU9FaTN4RjlsTXc?oc=5"
+          },
+          {
+            "label": "The Astana Times：Kazakhstan Plans Aerotaxis, Biometric Boarding and AI Cargo Systems in",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekMyVElSd3d4clcxeWJnYVpGRzlWaWhzb09pZDAya2FSVU5fSFp0UXpBZEJCRThHMGhWUFA0amFHNlM1SmlnOHdYOVRyOWd5bUk3NTUyd1VNclk5Zm1NSVlrUWhWMG0xd01ISHRVMEVnSlpfMEF5OXJZcXRNdEpvNmp3U09mYjJHcTgwYTk2UWViOFNFOGhUcEVIMlFHS0FPbU8tUEdXOGQ2WHkwVGFmUXhESTlPM0U?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16RDFEbEpPN29YVEd4bFI4M3ZfX3dweUJ2MnBfNlhEcnhMNEdlcGhjZVE0alE3YlNHbVBpZ3Z3OTA4WGc5SGxVLVdxcWw5bjgwRFZWQXlfUUl1Y2hjMkVtVEhVdkNpQXNyYWVGVXhaT09hTHM1RlVUS2Nn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260520-auto-2-8a9fff",
+        "title": "Google announces s",
+        "category": "AI新闻",
+        "date": "2026-05-20",
+        "summary": "Google announces slew of AI advances, including a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google announces s 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google announces slew of AI advances, including a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google announces slew of AI advances, including a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Decatur Daily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaG1mTHJuQU1iV204eUxwOXlJc3lxR0ZlT2tZdkpVUTRqTWFnem02MEh0NkczczBpdXNvOGpTeTltWjBvNkF3VkpwcldfU09xQUZvTFZUb2xDc3pwZHFNb3lhZUdEMG85N0d3RHBWLUdZYkE1a0NzTXRDY0FleHljdWJWdFB2UUhjd1lrUnJtX215VEg2WkdLUzZMczJRMmhvOXlMMGdMWG9nWllCemhyd3N1ZnU2Tms2SzBpNTJyM2tfQ2t5MXlfUXQ2Z0h5MnJ3Wm1PRW9ja1hZa2JYOHgxSWhUYUEyekxTWWdWUS1wQWRqczB2bU9FaTN4RjlsTXc?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：Google is the Consumer AI Company Everyone is Waitig for. ARD #80 - AI",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16RDFEbEpPN29YVEd4bFI4M3ZfX3dweUJ2MnBfNlhEcnhMNEdlcGhjZVE0alE3YlNHbVBpZ3Z3OTA4WGc5SGxVLVdxcWw5bjgwRFZWQXlfUUl1Y2hjMkVtVEhVdkNpQXNyYWVGVXhaT09hTHM1RlVUS2Nn?oc=5"
+          },
+          {
+            "label": "The Astana Times：Kazakhstan Plans Aerotaxis, Biometric Boarding and AI Cargo Systems in",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekMyVElSd3d4clcxeWJnYVpGRzlWaWhzb09pZDAya2FSVU5fSFp0UXpBZEJCRThHMGhWUFA0amFHNlM1SmlnOHdYOVRyOWd5bUk3NTUyd1VNclk5Zm1NSVlrUWhWMG0xd01ISHRVMEVnSlpfMEF5OXJZcXRNdEpvNmp3U09mYjJHcTgwYTk2UWViOFNFOGhUcEVIMlFHS0FPbU8tUEdXOGQ2WHkwVGFmUXhESTlPM0U?oc=5"
+          }
+        ],
+        "source": "Decatur Daily",
+        "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaG1mTHJuQU1iV204eUxwOXlJc3lxR0ZlT2tZdkpVUTRqTWFnem02MEh0NkczczBpdXNvOGpTeTltWjBvNkF3VkpwcldfU09xQUZvTFZUb2xDc3pwZHFNb3lhZUdEMG85N0d3RHBWLUdZYkE1a0NzTXRDY0FleHljdWJWdFB2UUhjd1lrUnJtX215VEg2WkdLUzZMczJRMmhvOXlMMGdMWG9nWllCemhyd3N1ZnU2Tms2SzBpNTJyM2tfQ2t5MXlfUXQ2Z0h5MnJ3Wm1PRW9ja1hZa2JYOHgxSWhUYUEyekxTWWdWUS1wQWRqczB2bU9FaTN4RjlsTXc?oc=5"
+      },
+      {
         "slug": "ai-news-20260519-auto-1-c4d5e5",
         "title": "AI: OpenAI wins El",
         "category": "AI新闻",
@@ -6083,6 +6199,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260520-auto-1-ab10b3",
+        "title": "Pics设计工具使用教程",
+        "category": "AI使用教程",
+        "date": "2026-05-20",
+        "summary": "教你用谷歌Pics完成交互式AI设计",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Pics设计工具使用教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "谷歌推出原生交互式AI设计工具Pics后，用户可用更少提示词完成基础设计。以下按实际操作流程，整理一份上手教程。",
+          "blocks": [
+            {
+              "heading": "一、先准备输入",
+              "paragraphs": [
+                "打开Pics后，先明确你要做的内容类型，例如海报、封面或社媒配图。",
+                "把需求拆成三项：主题、用途、风格，先写短句即可，不必一次写满。",
+                "如果已有参考图或品牌元素，先整理成可上传的素材，方便后续统一风格。"
+              ]
+            },
+            {
+              "heading": "二、用交互方式生成",
+              "paragraphs": [
+                "在工具中先输入基础指令，再通过界面里的交互选项逐步调整结果。",
+                "优先修改布局、主视觉、文字位置这类大项，避免一开始就微调细节。",
+                "每轮只改一个变量，便于判断哪一项调整真正影响了成图。"
+              ]
+            },
+            {
+              "heading": "三、导出前做检查",
+              "paragraphs": [
+                "先检查文字是否正确、元素是否遮挡、比例是否适配发布平台。",
+                "若用于正式发布，建议生成两个版本：一个稳妥版，一个备选版。",
+                "保存最终提示词和参数，便于下次复用，减少重复试错。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "候选#3：谷歌推出Pics",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEp4STdlclA5X3V4aHZzR09VQ1lQa2U2amFwZVdrNUxiZ1JzNU1TS0gxU3hXdTJ2dFIxek13a1J6czcwREs1dTRoN1NkSTRsTDdTdlJyTnhaX0ltd0oyaXpPSVd4VF9lZ194V3JHMG00cWJQYnI0WjkxTjZMRERCeERFejhvU1ZPZ0QzVQ?oc=5"
+          },
+          {
+            "label": "候选#4：Pics工具说明",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aRlJGRmM0NDVPYWhTVFM4ak1ubkVJRnlaZEVKNEloWldES21PZWVpNzEySElzZUR0OXluZlZtNTdXQ083aVU4SmlZT00wOW8?oc=5"
+          },
+          {
+            "label": "候选#1：Prompting Guide",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLUUxU085VVZIcEo4LUVfWjhORWpaX1U5RlBLd1VlWFpobzJNSHY1YzRpMEVmc1J6M2M5aEVfM0M5R3pNZWFZZ2E2ekMyNjNGZ3RwRzJTYVUxWXAyeW1fNXZYZlVLM0ZJQWVNUVhOTmRFN3AtTS04LXZZVGU4Rk80dHhQSDVKclNHQUE?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEp4STdlclA5X3V4aHZzR09VQ1lQa2U2amFwZVdrNUxiZ1JzNU1TS0gxU3hXdTJ2dFIxek13a1J6czcwREs1dTRoN1NkSTRsTDdTdlJyTnhaX0ltd0oyaXpPSVd4VF9lZ194V3JHMG00cWJQYnI0WjkxTjZMRERCeERFejhvU1ZPZ0QzVQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260519-auto-1-f4f859",
         "title": "微信读书AI技能上线：6大功能+安装",
         "category": "AI使用教程",
@@ -8547,6 +8721,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260520-auto-1-548db5",
+        "title": "OpenSpecter开源发布",
+        "category": "开源项目",
+        "date": "2026-05-20",
+        "summary": "免费自托管法律AI平台上线，面向律所与法务团队。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenSpecter开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年5月20日，OpenSpecter以免费、自托管、开源为定位进入法律AI工具市场，重点服务合同审阅、检索和办案辅助场景。",
+          "blocks": [
+            {
+              "heading": "项目发布与定位",
+              "paragraphs": [
+                "OpenSpecter本次发布强调“可本地部署”，这意味着律所、企业法务或合规团队可将系统放在自有服务器中运行，减少敏感案件材料外流风险。",
+                "从公开信息看，项目提供法律场景下的AI工作台思路，核心价值在于把文档管理、问答和任务流程放在同一平台，降低多工具切换成本。",
+                "相比仅提供云端API的方案，自托管路线更适合有审计、留痕和数据主权要求的机构，但也需要团队具备基本运维能力。"
+              ]
+            },
+            {
+              "heading": "用途与典型场景",
+              "paragraphs": [
+                "在合同审阅场景，系统可用于条款提取、风险点初筛和版本差异比对，帮助法务先完成机械性检查，再由律师做最终判断。",
+                "在诉讼或仲裁准备阶段，平台可支持案件材料归档后按主题检索，辅助生成要点清单，缩短资料整理时间。",
+                "在合规治理中，团队可将内部规范与外部法规文档接入知识库，形成可追溯的问答入口，便于跨部门日常咨询。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实施建议",
+              "paragraphs": [
+                "最低门槛通常包括：一台可持续运行的Linux服务器、容器化部署基础能力，以及对模型调用和权限管理的基本理解。",
+                "建议从小范围试点开始，先选一个文档类型单一的流程，如标准采购合同审阅，通过准确率、人工复核时长和误报率做阶段评估。",
+                "对法律AI项目，落地关键不是一次性替代人工，而是建立“AI初筛+人工复核”的可控流程，并持续维护提示词与知识库版本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenSpecter发布报道",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMWpzd0NYZ3owUldwUUNUZzRWbVVjMUNRdzF0Z2UtbUhpNjNKUmJ4RWZXNVFPeExveVl0Ukgwa0RpUDRWdEYxUTdUSWNVbktfUnFPRHQwbGtTU3JCZWR4Q3JHcVNZWmZxbm84WWpRVXpMUmN1YnhVOW1GOHVTSFptRWlTdnRvMUNwZ295aW1ld1FiUm5jZ0x1dTQzRk1Kc1E4d0ltenNyOWIwWkVXaWhVT080T0N2RlBMbENLYkdkcUpka1h6Q2lMSWJiRThYX3VvX1Rjb3RjVUlyazhNSzZQNmZR?oc=5"
+          },
+          {
+            "label": "Harvey开源法律Agent基准LAB",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX0p3UTl6SlBMVjc0Skt4LS1kX0s1d21pRWhOUVpraWRjNGhSQ3o3RTRPSzJ5ZFQwR1NLX1oxNFRfaTNTa0p4RHlGSzlzaW1wM1ZleUdDQlFkeHJ3QlZ0Z0p2SmhIUVZqNzdCZHRaLU9IeVZ6ODc2Ul9Od0JTeVpOb0tGczA4VDRYUDVkc0pSMWVwUFF4alFudDlDb05tUVVGWG03QThZaHI0dGl3SWFtUWQ4YmhxVEY5YkZOb1c4SWVxcXBEZDFFdVJzXzgtQQ?oc=5"
+          },
+          {
+            "label": "Linux Foundation代理式AI工作组",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFNXRVc5V3lhdU5uRHdFT3V3MGtQRTZZZ0Z2T19EZ0M4MTlENjZHOHBWWW1uYUozQTJhYVBHWTVmbXZrSzlWd3hRMUlGb1pxMnFkSWxPUnJCYWlGeWRRWF9FRC1NMmk5aEZPakdMWmI1NzVGdmllWVhFQ1BYWUxfNnEzSlVPcGFtaUJsckVPUFk2M1ZwYjBIdkRrVm5JTVJZN2x0Z2FZM0RiX2NJYVhFeXdKemVMN0R4dEtRYlB2SU8wQ1U3OGfSAdYBQVVfeXFMTl85TzZIZ2FLZEQzcTNoZXgyY1FnaENKaTdBTWZEYXMzUm0yTUYyVE04OTk4cDFKOHVzTHdfeFBwUzFnaVNPbWtkNGJwa0Q4WW5ZN0QwaGJtbDlVR2FNdUtDeVRDTUVLdHhrTlcyWElKaWViMmxpXzgzVkJQQUxXWUtXUkhja0FsVmNJenJKb0pkaHRreHlVcnlLOWtSOTFSWXduSTY1SFdlZDFQVlRRMXE1T1Ffa09PX0VNcEJxWjRobU5PVnhVWHNxTWo3cGZ2V1NKcUpnZw?oc=5"
+          }
+        ],
+        "source": "FinancialContent",
+        "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMWpzd0NYZ3owUldwUUNUZzRWbVVjMUNRdzF0Z2UtbUhpNjNKUmJ4RWZXNVFPeExveVl0Ukgwa0RpUDRWdEYxUTdUSWNVbktfUnFPRHQwbGtTU3JCZWR4Q3JHcVNZWmZxbm84WWpRVXpMUmN1YnhVOW1GOHVTSFptRWlTdnRvMUNwZ295aW1ld1FiUm5jZ0x1dTQzRk1Kc1E4d0ltenNyOWIwWkVXaWhVT080T0N2RlBMbENLYkdkcUpka1h6Q2lMSWJiRThYX3VvX1Rjb3RjVUlyazhNSzZQNmZR?oc=5"
+      },
+      {
+        "slug": "open-source-20260520-auto-2-1dc613",
+        "title": "Dinothesia开源AKB平台",
+        "category": "开源项目",
+        "date": "2026-05-20",
+        "summary": "面向AI Agent的开源知识平台发布，已提供GitHub版本。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Dinothesia开源AKB平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年5月20日，Dinothesia宣布开源AI Agent知识平台AKB，并已公开到GitHub，方向聚焦智能体可复用知识的组织与调用。",
+          "blocks": [
+            {
+              "heading": "更新要点与项目价值",
+              "paragraphs": [
+                "AKB的核心目标是为AI Agent提供结构化知识底座，使不同任务Agent可以在统一知识框架内检索、引用和更新信息。",
+                "这一类平台通常把文档切分、索引构建、权限隔离和上下文编排放在一套流水线里，减少开发者重复搭建RAG基础组件的工作量。",
+                "对团队而言，开源发布带来两点直接价值：一是可审查实现细节，二是可按业务数据结构进行二次定制。"
+              ]
+            },
+            {
+              "heading": "适用场景与落地方式",
+              "paragraphs": [
+                "在企业内部助手场景，AKB可作为知识中台支撑客服、IT支持、采购等多角色Agent，避免各自维护独立知识库造成信息不一致。",
+                "在研发协作场景，团队可将技术文档、接口说明和故障记录接入平台，由Agent完成问题定位建议与变更影响提示。",
+                "在多语言或跨区域组织中，知识平台还可承担统一术语和版本管理职责，降低Agent输出中的歧义与过期信息。"
+              ]
+            },
+            {
+              "heading": "上手门槛与实践建议",
+              "paragraphs": [
+                "上手门槛主要在数据工程与运维层面，包括数据清洗规范、向量索引维护、访问控制策略和监控告警配置。",
+                "建议先从单部门知识域试运行，明确文档准入标准与更新周期，再逐步扩展到跨部门问答与任务编排。",
+                "评估指标可优先关注检索命中率、回答可追溯性和人工纠错成本，确保平台在规模扩大后仍具备稳定可维护性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Dinothesia AKB中文标题报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFRIR2ZYcGR6NVVXajVSeUpyTzNSN3FuZ04tbUVVNk9ma3lJdE1GbllpakhWdHJuNzBLOUlzdUs3OHhrMHVkRXNteUJQNEticEtpc2c2TUwwbEU1dDBNeWhpRWoyUzU1enp0RERGZ2xhTEpNMUVhWVdBZ0MtaTZLTkZiNlpUZmZWT010NXl2WFhKZkFTalVpLTRPVkhaVF9odUp2ZnoyQTFEV0VG?oc=5"
+          },
+          {
+            "label": "Dinotisia英文标题报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUw0dDFCUFc1VG5lWkc5TWxjcTZ4Z1JUN3dpVGw0OTNzd2x1ek1fV09JZ2hxbWUtUnUyU2tCYjNGTXNKTlRQRkY5dVRZeXBBa0NxRXFseGUwS0V1MTJ6MURpTFlMUUZIS1dhdGNOMTB5SVZqRnpMY3VKTTVyR2FsUkxJRjNFS28xSmx6Ymg2a3VFaWpSM25aZGY3VmRUNEVGSWg1eEpESENjUU1N?oc=5"
+          },
+          {
+            "label": "微软开源AI Agent基础设施观察",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzdCWk92NG1LbVFPSnU4RjNhTFFKdGduc0k0ajBfbWZfZ3dnRVFPUXloY0ZETXRFM0tpemZXWHo0MTFRTnEzM2xkdFpoRm8tOUs2Q2hrNlJYbkhVeEtwYkpUdmtGVEluV3RsUGZMMXl3SkRyVXZXUEJxbHNwaDVkRmFGSnRyZmk3cDZtR0RWNUVSNUpydkNoVHZZVVVSQkNWb0ZtcDN5RTRmbTQ?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFRIR2ZYcGR6NVVXajVSeUpyTzNSN3FuZ04tbUVVNk9ma3lJdE1GbllpakhWdHJuNzBLOUlzdUs3OHhrMHVkRXNteUJQNEticEtpc2c2TUwwbEU1dDBNeWhpRWoyUzU1enp0RERGZ2xhTEpNMUVhWVdBZ0MtaTZLTkZiNlpUZmZWT010NXl2WFhKZkFTalVpLTRPVkhaVF9odUp2ZnoyQTFEV0VG?oc=5"
+      },
       {
         "slug": "open-source-20260519-auto-1-69f23d",
         "title": "How AI is mining w",
