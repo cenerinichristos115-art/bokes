@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260521-auto-1-f6f5f6",
+        "title": "FANUC与谷歌合作物理AI",
+        "category": "AI新闻",
+        "date": "2026-05-21",
+        "summary": "双方推进制造业物理AI协作，聚焦产线智能化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FANUC与谷歌合作物理AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月21日，北京时间，FANUC与谷歌围绕制造场景的物理AI合作引发产业关注，核心方向是将AI能力与工业设备控制、流程优化和现场运维结合。",
+          "blocks": [
+            {
+              "heading": "合作重点与产业背景",
+              "paragraphs": [
+                "公开信息显示，此次合作聚焦“Physical AI for Manufacturing”，即把模型能力嵌入真实产线环境，服务机器人控制、工艺执行与异常识别等环节。",
+                "与通用聊天式AI不同，制造业物理AI更强调确定性、实时性和安全边界，需要与PLC、工业相机、传感器及MES系统协同运行。",
+                "在全球制造企业推进数字化改造的阶段，头部自动化厂商与AI平台企业协作，已成为产业链上下游加速落地的常见路径。"
+              ]
+            },
+            {
+              "heading": "对产品与客户侧的影响",
+              "paragraphs": [
+                "对设备厂商而言，合作有望推动新一代“AI增强型”控制与运维功能，从单点算法升级为可持续迭代的产品能力。",
+                "对制造客户而言，价值主要体现在缩短调试周期、降低停机损失和提升质量一致性，但前提是完成数据治理与现场标准化。",
+                "在部署层面，边缘推理与本地代理工具受到关注，原因是工业场景对时延、网络稳定性和数据合规有更高要求。"
+              ]
+            },
+            {
+              "heading": "落地挑战与后续观察",
+              "paragraphs": [
+                "业内普遍认为，物理AI的大规模应用仍需跨越数据标注成本高、异构设备接口复杂和责任边界划分不清等问题。",
+                "此外，企业在采购此类方案时将更关注可解释性、可审计性和运维体系，而不仅是模型演示效果。",
+                "后续可重点观察双方是否发布标准化行业方案、联合实验线成果及可量化的客户项目指标，以判断合作的商业化进度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Assembly Magazine原文",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmZyQmJmUXVENHkxY2JLdFZUNXVpbnBrdlRsRlRzSHdINlRlZEtfMzBMUUZabzg1NFp2R01mMUFXcHV5NTBoREJmQ25xdU1ObXZiVV9sanZtdk9hQm9UbFBpdjlRRDdwc01jcjc3bWVacko5c2wzYndaZzk5a0wxZU53eEViZU5INUVyREZIaV83RnVSMVItNE5tQjZTQ0VJWXgw?oc=5"
+          },
+          {
+            "label": "Google AI Edge Gallery相关报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXYwZlNtbS1LSFdIZkx4YkRsVG9CejdWTDRaeklnMGRlemg1ZEdFRDNIWHY0UFVXaDYxell3UHdQZExtOFJCclNVMzZGNkp6cW5MbkxZWkk4T3AycEVDby1Mc2hwTmhnMUlCdXZTWVJmU3d1LWNyTVlsQ1pPNkVWOHdNOXhCdw?oc=5"
+          },
+          {
+            "label": "制造业AI岗位趋势参考",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV1dKbFloTUo1SUY2bktQR1lCRWNFWDR1emJaMFN0bEtTM0FaYzJOSDIwMTFiRjhLRE5QLXVhRnlqamRHYkpoSkw5MXVXalY5bm4xUnFwRS0xZXpJUmw5Q0lGTURxci1SY0VlMTZiYW9Yd05PcTdJZjRNYjU2dDhsekdXajIyMzdpSWxjanZMSzljZ0gzUkl1ME5nSGpKdVFNVXJXTGNOWlhJRXFMemZwM2JYTkFKNi04MzhNbDJCQk5QemJYN21oMXRCOE9WMkJh?oc=5"
+          }
+        ],
+        "source": "Assembly Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmZyQmJmUXVENHkxY2JLdFZUNXVpbnBrdlRsRlRzSHdINlRlZEtfMzBMUUZabzg1NFp2R01mMUFXcHV5NTBoREJmQ25xdU1ObXZiVV9sanZtdk9hQm9UbFBpdjlRRDdwc01jcjc3bWVacko5c2wzYndaZzk5a0wxZU53eEViZU5INUVyREZIaV83RnVSMVItNE5tQjZTQ0VJWXgw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260521-auto-2-6889cc",
+        "title": "山东发布AI六大专项行动",
+        "category": "AI新闻",
+        "date": "2026-05-21",
+        "summary": "山东提出六项举措，推动人工智能进入产业主战场。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "山东发布AI六大专项行动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "在2026年5月21日的报道语境下，山东围绕人工智能提出六大专项行动，释放出地方层面以政策组合推动产业化和规模化应用的明确信号。",
+          "blocks": [
+            {
+              "heading": "政策导向与目标定位",
+              "paragraphs": [
+                "相关信息显示，政策重点是让人工智能更快进入产业“主战场”，强调从技术供给转向场景牵引和应用成效。",
+                "从地方治理角度看，这类专项行动通常覆盖技术攻关、示范应用、平台建设、要素保障和生态协同等多个维度。",
+                "在当前区域竞争中，地方AI政策正从原则性倡议转向可执行任务清单，以提升项目落地效率和资源配置精度。"
+              ]
+            },
+            {
+              "heading": "对企业与行业的现实影响",
+              "paragraphs": [
+                "对本地企业而言，专项行动可能带来更多试点机会，包括制造、政务、医疗、能源等高频场景的示范工程。",
+                "中小企业关注点通常在算力、数据、人才和资金门槛，政策若能提供公共平台与联合创新机制，将降低早期投入压力。",
+                "对产业链服务商而言，咨询实施、行业模型开发、数据治理与安全合规服务需求预计同步增加。"
+              ]
+            },
+            {
+              "heading": "实施难点与评估维度",
+              "paragraphs": [
+                "政策执行阶段的关键难点在于跨部门协同与标准统一，尤其是数据共享机制、项目验收口径和持续运营能力建设。",
+                "在法治与治理层面，AI应用推进需同步考虑责任划分、风险评估和透明度要求，避免“先上车后补票”。",
+                "后续可通过项目转化率、企业参与度、示范场景复制能力及产值贡献等指标，评估六大专项行动的实际效果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "山东六大专项行动报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWRDZXN3Y2xocldqeTRaNEFWMW9NcjNGS213b0M2ZGJnZ3ZBVG8yc0hWVHlvZGp5UmU5aHNCUEpLV2RZOVJSVGJSSFBRcDFTUFp0UjA3bThvWDlyekN4bEtDcDdTdW1mLUluckhQSmItcU9aV0VidWtEVmZTLVZLMFFSekJ5dzBBRGp1UQ?oc=5"
+          },
+          {
+            "label": "AI法治讨论参考",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjNFYl9XRXVVeEIzZU1UOXlrY3RUY0ZkRWlUODZLd2ZVVWhHVTc2RWFVYzcxV0pyQWZnT2lmVlRQcVlzSjUwVUdCT2Nmdk1Ba0M2OTg1WGh5RkhwMVhMRkg1T1l1LXh0enRCc1c4UzN0SlQyYTcwM2dVczBPT0kxSENKN0ZkdnNj?oc=5"
+          },
+          {
+            "label": "企业落地案例参考",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mcGtvRzdPVVJxRE1oSlpYM3hfcGFuZkg4eVV5UGlnbTAxSG80enlGbDF4dHdUM0E5Tnd0MGctSGhxUVdlbENTUkszVC12VUh4ektQOFRmcWRnUQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWRDZXN3Y2xocldqeTRaNEFWMW9NcjNGS213b0M2ZGJnZ3ZBVG8yc0hWVHlvZGp5UmU5aHNCUEpLV2RZOVJSVGJSSFBRcDFTUFp0UjA3bThvWDlyekN4bEtDcDdTdW1mLUluckhQSmItcU9aV0VidWtEVmZTLVZLMFFSekJ5dzBBRGp1UQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260520-auto-1-365256",
         "title": "Google is the Cons",
         "category": "AI新闻",
@@ -6199,6 +6315,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260521-auto-1-649012",
+        "title": "Agent安全开发实操教程",
+        "category": "AI使用教程",
+        "date": "2026-05-21",
+        "summary": "基于微软开源工具，搭建可审计的Agent安全流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Agent安全开发实操教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026-05-21前后的公开信息，本文给出一套可直接执行的Agent安全开发流程，目标是在功能迭代不减速的前提下，补齐提示注入、越权调用、输出失真和审计留痕四类关键控制点。",
+          "blocks": [
+            {
+              "heading": "第一步：先定义安全边界与风险清单",
+              "paragraphs": [
+                "从业务目标反推Agent边界：明确它能访问哪些数据、可调用哪些工具、允许执行到什么动作级别。建议先写一页“能力白名单”，例如仅允许读取知识库、禁止直接执行财务转账或删除生产数据。",
+                "建立最小化风险清单并量化优先级。将风险分为输入侧（提示注入）、推理侧（越权链路）、输出侧（虚构结论）、执行侧（工具误调用）四类，每类定义影响等级与触发条件，便于后续测试覆盖。",
+                "在项目立项阶段就确定审计字段：请求ID、用户ID、系统提示词版本、工具调用参数、模型输出与拦截结果。没有统一日志结构，后续很难复盘问题，也无法形成合规证据链。"
+              ]
+            },
+            {
+              "heading": "第二步：接入RAMPART与Clarity做防护和观测",
+              "paragraphs": [
+                "将安全检查放在Agent编排链路的前后两端：前置检查负责输入净化与策略匹配，后置检查负责输出风险判定与敏感信息过滤。技术实现上可先做“阻断模式”，稳定后再加入“告警但放行”以减少误杀。",
+                "对工具调用启用参数级校验。实操建议是为每个工具定义JSON Schema和阈值规则，例如SQL工具禁止DDL语句、邮件工具限制外发域名、文件工具限制路径范围；一旦不匹配立即拒绝执行并记录原因。",
+                "用Clarity类观测能力做持续评估：按日统计拦截率、误报率、人工复核通过率，并按场景拆分（客服、检索、代码生成）。当某类场景误报持续偏高时，先调整规则粒度，再微调提示模板。"
+              ]
+            },
+            {
+              "heading": "第三步：上线前压测与上线后治理闭环",
+              "paragraphs": [
+                "构建红队测试集，至少覆盖20条提示注入样例、20条越权调用样例、20条事实混淆样例。每次模型或提示词升级都要回归跑全量用例，确保关键拦截规则没有被新版本绕过。",
+                "采用灰度发布策略：先放量到5%真实流量，观察48小时核心指标，包括高风险请求拦截率、业务成功率、平均响应时延。若安全指标达标但时延上升，可优先优化规则执行顺序和缓存策略。",
+                "建立周度治理例会机制，固定输出三项结果：新增风险模式、规则更新记录、下周验证计划。到2026年的企业实践看，安全不是一次性配置，而是与业务变更同步迭代的工程流程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Microsoft发布RAMPART与Clarity",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG9yUkdOdC1WV1diUnJZeHhOSjB3YTRaYS1pV195R2otUWk4cnI0Z0ZubkVjUnRpc19WSG1wOG55Wmk1Y0t3cktJVWNoMk5yNXZ5VVBmS0FMZzNCaXlKZUpxUjE1cEIyX0o2RXRRVkI3OEphZHdiRlVnNmRXRFhFeDhPN29HZldKSnYyWGpEWUtKbW52OTNoUFU3Q1FBRzhnT3V4U2dyUXVFSXB2ZjFwc0UyWHc5c2VrWGZCcFBnZElWdkI5NlgzNmdBcHNSQzM5OUVWZGF2R0FhaEVNOFlCemdaRGZpakJqWmlj?oc=5"
+          },
+          {
+            "label": "Campus Technology二次报道",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUUJjbXJ6R1pBTVNjT1pRc3BwMk1tLXZINGdLanhtYXJsd1pOaklTTU00SFBsT3Q0ZVhBeVJxUTU4VmZjV0ZHdFJ6Z1J1QThxc1piYlQ4cEdac21OWXVZWTh1anU4ckpNYkVEWVJsNFNtcHJXYWVoX1MxZVN5UEx4MGdSVnlaU2ZHVnd6X19PT0N0aHd5cmF1WkxnckZTd0VGZjlDVklhUmh2THg3cWVFa2oyUEV6UXVaWEhtcFlnbnlXUnJGZEctbEsxVm1Eb3lpOEE?oc=5"
+          },
+          {
+            "label": "企业AI落地常见误区参考",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGM5VnlMclRrRXV4OHpSNXpBcFRlMlBMOFFlYVY0aS1sQmhWc2FsX2xJdEQzUEV6YlloU0cxcUJIQ2hYemF4SWVaSy1HeXZZMXM5c19iOERVQkE0RGt4eHRFWGQtTzROeS1CTVFYbDVKeU8tdXNFNHZjS2k2N1JoRjJJc2VudGtJelZ0WUZYMklnRGF0ek92N29ERkkydFhkck81Y1FHT0E5cElXMjdkb3d5a2I5QQ?oc=5"
+          }
+        ],
+        "source": "Microsoft",
+        "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbG9yUkdOdC1WV1diUnJZeHhOSjB3YTRaYS1pV195R2otUWk4cnI0Z0ZubkVjUnRpc19WSG1wOG55Wmk1Y0t3cktJVWNoMk5yNXZ5VVBmS0FMZzNCaXlKZUpxUjE1cEIyX0o2RXRRVkI3OEphZHdiRlVnNmRXRFhFeDhPN29HZldKSnYyWGpEWUtKbW52OTNoUFU3Q1FBRzhnT3V4U2dyUXVFSXB2ZjFwc0UyWHc5c2VrWGZCcFBnZElWdkI5NlgzNmdBcHNSQzM5OUVWZGF2R0FhaEVNOFlCemdaRGZpakJqWmlj?oc=5"
+      },
+      {
         "slug": "ai-guide-20260520-auto-1-ab10b3",
         "title": "Pics设计工具使用教程",
         "category": "AI使用教程",
@@ -8721,6 +8895,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260521-auto-1-3a6f2f",
+        "title": "GitHub confirms ha",
+        "category": "开源项目",
+        "date": "2026-05-21",
+        "summary": "GitHub confirms hackers stole data from 3,800 inte",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub confirms ha 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GitHub confirms hackers stole data from 3,800 inte",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub confirms hackers stole data from 3,800 inte",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Indian Express：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5wSDVvQ09ZYjZyakx0dnRSY0thaUZjU0FFLUI1dTNzUHVnTDdFLWhCZnlqYi0zV2N6QkZERFlmSnU2WjdtcVVYZHQyY2V6VGRwSWVEOS1uRjdiQUdOQUljME93RFg4NVlYQnNmMktkSFlmR3F5Tkc5Z2tLbzN2MldkM2xSblFCTnlZc1RSbGtRYUJ2dnI3U1BWZjkxSG1LSmV3S2Q5S1hTa0dnVXpyZ3Q2U0p4djlZTy1hR2dKY2w5TFRK0gHLAUFVX3lxTE1fSnRsMHhGQ2tVZGxqSTZVN3gxSVRWanJBWjg3a3VnVUdrdTdUQUp3RDJPUG9WVmlnZWpvWEgxY0pEZ2RPT3p3bW9wcWFobW5JVG1MaDlUR0RDdWJGSjEyR1FhNUlSNHF3Zm1FWmthY0tjTWV0ekF0RWgzUnJZanEzTGhldWZ0SlZBa3hGN1ZCZFYxNURrVUNuM1RpdUJsUThnblh0UThzdHI2bW1BMm9wNUFyd1NpSFNpQnVLc1Z3M2tHLTRLMGt1UkZV?oc=5"
+          },
+          {
+            "label": "Stability AI：Stable Audio 3.0, the model family built with open-weight models - Sta",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbE91c2d5NW9ibEJZdHotLThSOXB0M255RWY4Y29OT3MxNzNqUV9UM2hLYkJ6WUliMnpLbUVtZzd2ekx5Y2FKb0xzTkUyQ3hISHVvb3U1OENjbGlzNUdtOHpCY3pGN3JidFpGR3NrR3Vub2xTWGE5N05MeUZXRnJfd0JYRWFUUEE2d1EyRmhnM094dzNqOHE2NlZZdTNEdHpsaEhfaFdSa2xuOTBMUmN1N2VaZjg1Ty1DTS1scTU5Wm5rbHZxTkpDOQ?oc=5"
+          },
+          {
+            "label": "markets.businessinsider.com：‘AI City Hall Project’ Unveiled as Viable Hybrid AI Fix for CLJA Claim",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXRlVFEwX1ZxSEk0SDBvRENteDhucF9oSDg5V1lfWGxsc08tXy0wT053eFJwUGxLbVU4b2JxemVkSlJJemIwNjdBRW1ZU21uNDNpY3RnZllXUWNjaXBjMVpXcHpLZm8wYkw0MmVWbERIMG5NZWJfM0ZENEZVMHEyMzl1SU9mOHY5TEw4MlBpTjdNa2xJVFpsME85ZWRKYTA0YlgyQUhHb3IyeVMyQTZ3SF9HeDVxVlZyeHBhajNZeHhISWthenc5QmNMcF9GMUxERk4xTTJLWnN1TUJFVG9najZmZ1V1dVhuQXRJLUIxelZDUzRE?oc=5"
+          }
+        ],
+        "source": "The Indian Express",
+        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5wSDVvQ09ZYjZyakx0dnRSY0thaUZjU0FFLUI1dTNzUHVnTDdFLWhCZnlqYi0zV2N6QkZERFlmSnU2WjdtcVVYZHQyY2V6VGRwSWVEOS1uRjdiQUdOQUljME93RFg4NVlYQnNmMktkSFlmR3F5Tkc5Z2tLbzN2MldkM2xSblFCTnlZc1RSbGtRYUJ2dnI3U1BWZjkxSG1LSmV3S2Q5S1hTa0dnVXpyZ3Q2U0p4djlZTy1hR2dKY2w5TFRK0gHLAUFVX3lxTE1fSnRsMHhGQ2tVZGxqSTZVN3gxSVRWanJBWjg3a3VnVUdrdTdUQUp3RDJPUG9WVmlnZWpvWEgxY0pEZ2RPT3p3bW9wcWFobW5JVG1MaDlUR0RDdWJGSjEyR1FhNUlSNHF3Zm1FWmthY0tjTWV0ekF0RWgzUnJZanEzTGhldWZ0SlZBa3hGN1ZCZFYxNURrVUNuM1RpdUJsUThnblh0UThzdHI2bW1BMm9wNUFyd1NpSFNpQnVLc1Z3M2tHLTRLMGt1UkZV?oc=5"
+      },
+      {
+        "slug": "open-source-20260521-auto-2-e18fd1",
+        "title": "Stable Audio 3.0,",
+        "category": "开源项目",
+        "date": "2026-05-21",
+        "summary": "Stable Audio 3.0, the model family built with open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Stable Audio 3.0, 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Stable Audio 3.0, the model family built with open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Stable Audio 3.0, the model family built with open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Stability AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbE91c2d5NW9ibEJZdHotLThSOXB0M255RWY4Y29OT3MxNzNqUV9UM2hLYkJ6WUliMnpLbUVtZzd2ekx5Y2FKb0xzTkUyQ3hISHVvb3U1OENjbGlzNUdtOHpCY3pGN3JidFpGR3NrR3Vub2xTWGE5N05MeUZXRnJfd0JYRWFUUEE2d1EyRmhnM094dzNqOHE2NlZZdTNEdHpsaEhfaFdSa2xuOTBMUmN1N2VaZjg1Ty1DTS1scTU5Wm5rbHZxTkpDOQ?oc=5"
+          },
+          {
+            "label": "The Indian Express：GitHub confirms hackers stole data from 3,800 internal repositories: W",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5wSDVvQ09ZYjZyakx0dnRSY0thaUZjU0FFLUI1dTNzUHVnTDdFLWhCZnlqYi0zV2N6QkZERFlmSnU2WjdtcVVYZHQyY2V6VGRwSWVEOS1uRjdiQUdOQUljME93RFg4NVlYQnNmMktkSFlmR3F5Tkc5Z2tLbzN2MldkM2xSblFCTnlZc1RSbGtRYUJ2dnI3U1BWZjkxSG1LSmV3S2Q5S1hTa0dnVXpyZ3Q2U0p4djlZTy1hR2dKY2w5TFRK0gHLAUFVX3lxTE1fSnRsMHhGQ2tVZGxqSTZVN3gxSVRWanJBWjg3a3VnVUdrdTdUQUp3RDJPUG9WVmlnZWpvWEgxY0pEZ2RPT3p3bW9wcWFobW5JVG1MaDlUR0RDdWJGSjEyR1FhNUlSNHF3Zm1FWmthY0tjTWV0ekF0RWgzUnJZanEzTGhldWZ0SlZBa3hGN1ZCZFYxNURrVUNuM1RpdUJsUThnblh0UThzdHI2bW1BMm9wNUFyd1NpSFNpQnVLc1Z3M2tHLTRLMGt1UkZV?oc=5"
+          },
+          {
+            "label": "markets.businessinsider.com：‘AI City Hall Project’ Unveiled as Viable Hybrid AI Fix for CLJA Claim",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNXRlVFEwX1ZxSEk0SDBvRENteDhucF9oSDg5V1lfWGxsc08tXy0wT053eFJwUGxLbVU4b2JxemVkSlJJemIwNjdBRW1ZU21uNDNpY3RnZllXUWNjaXBjMVpXcHpLZm8wYkw0MmVWbERIMG5NZWJfM0ZENEZVMHEyMzl1SU9mOHY5TEw4MlBpTjdNa2xJVFpsME85ZWRKYTA0YlgyQUhHb3IyeVMyQTZ3SF9HeDVxVlZyeHBhajNZeHhISWthenc5QmNMcF9GMUxERk4xTTJLWnN1TUJFVG9najZmZ1V1dVhuQXRJLUIxelZDUzRE?oc=5"
+          }
+        ],
+        "source": "Stability AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbE91c2d5NW9ibEJZdHotLThSOXB0M255RWY4Y29OT3MxNzNqUV9UM2hLYkJ6WUliMnpLbUVtZzd2ekx5Y2FKb0xzTkUyQ3hISHVvb3U1OENjbGlzNUdtOHpCY3pGN3JidFpGR3NrR3Vub2xTWGE5N05MeUZXRnJfd0JYRWFUUEE2d1EyRmhnM094dzNqOHE2NlZZdTNEdHpsaEhfaFdSa2xuOTBMUmN1N2VaZjg1Ty1DTS1scTU5Wm5rbHZxTkpDOQ?oc=5"
+      },
       {
         "slug": "open-source-20260520-auto-1-548db5",
         "title": "OpenSpecter开源发布",
