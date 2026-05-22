@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260522-auto-1-7f7897",
+        "title": "Introducing Gemini",
+        "category": "AI新闻",
+        "date": "2026-05-22",
+        "summary": "Introducing Gemini Omni blog.google",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Introducing Gemini 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Introducing Gemini Omni blog.google",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Introducing Gemini Omni blog.google",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.google：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+          },
+          {
+            "label": "Fast Company Middle East：Google redesigns Gemini AI to do away with the ‘giant wall of text’ - ",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXhCdWxvRjQ2RUwtdElUZlNWbm8xclQxYnNyeWhhLTNHMHFUUVhCVWJYRUZYZGlSVGFwTzIzNC1NbHlKQlUyaTZpTmxzQ3l3YkZZblA3RFFibU9LTVdIdHhZT0k1RlFzMHU0Y184MTJic3VQVzlVZGRoQlZwNUxpREJIS3hQT2JWMzNDOF9vcmhvUFFkR3NrdW5ieFloMnYxN2FNUQ?oc=5"
+          },
+          {
+            "label": "Fast Company Middle East：Warby Parker and Google take on Meta with new AI smart glasses - Fast ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnc1RlJjc2J4Zzh2SGFlYWtBT180RTdmZVZiOXNVTFNCMTRUUUFfMm9hMlMxSWtib3IxQlFjWDdDZmFiNGhrYWltbFJ6WVh3c3phSFlJSHlENTdhMHFCT2FpRkxEeTBLdDRmX0RVa04zQ18xdENkTUZKT3BpZTRwS1ptakF1UnJLTGJJa0g1ckFKcm1vOU9TcjAwZ2tsYnZ4?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260522-auto-2-8e7ea5",
+        "title": "Google redesigns G",
+        "category": "AI新闻",
+        "date": "2026-05-22",
+        "summary": "Google redesigns Gemini AI to do away with the ‘gi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google redesigns G 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google redesigns Gemini AI to do away with the ‘gi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google redesigns Gemini AI to do away with the ‘gi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fast Company Middle East：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXhCdWxvRjQ2RUwtdElUZlNWbm8xclQxYnNyeWhhLTNHMHFUUVhCVWJYRUZYZGlSVGFwTzIzNC1NbHlKQlUyaTZpTmxzQ3l3YkZZblA3RFFibU9LTVdIdHhZT0k1RlFzMHU0Y184MTJic3VQVzlVZGRoQlZwNUxpREJIS3hQT2JWMzNDOF9vcmhvUFFkR3NrdW5ieFloMnYxN2FNUQ?oc=5"
+          },
+          {
+            "label": "blog.google：Introducing Gemini Omni - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+          },
+          {
+            "label": "Fast Company Middle East：Warby Parker and Google take on Meta with new AI smart glasses - Fast ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORnc1RlJjc2J4Zzh2SGFlYWtBT180RTdmZVZiOXNVTFNCMTRUUUFfMm9hMlMxSWtib3IxQlFjWDdDZmFiNGhrYWltbFJ6WVh3c3phSFlJSHlENTdhMHFCT2FpRkxEeTBLdDRmX0RVa04zQ18xdENkTUZKT3BpZTRwS1ptakF1UnJLTGJJa0g1ckFKcm1vOU9TcjAwZ2tsYnZ4?oc=5"
+          }
+        ],
+        "source": "Fast Company Middle East",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXhCdWxvRjQ2RUwtdElUZlNWbm8xclQxYnNyeWhhLTNHMHFUUVhCVWJYRUZYZGlSVGFwTzIzNC1NbHlKQlUyaTZpTmxzQ3l3YkZZblA3RFFibU9LTVdIdHhZT0k1RlFzMHU0Y184MTJic3VQVzlVZGRoQlZwNUxpREJIS3hQT2JWMzNDOF9vcmhvUFFkR3NrdW5ieFloMnYxN2FNUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260521-auto-1-f6f5f6",
         "title": "FANUC与谷歌合作物理AI",
         "category": "AI新闻",
@@ -6315,6 +6431,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260522-auto-1-ac7369",
+        "title": "熱門交互合集 | Catena La",
+        "category": "AI使用教程",
+        "date": "2026-05-22",
+        "summary": "熱門交互合集 | Catena Labs候補名單申請；DogeOS上線積分系統（5月22日） Bin",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "熱門交互合集 | Catena La 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "熱門交互合集 | Catena Labs候補名單申請；DogeOS上線積分系統（5月22日） Bin",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "熱門交互合集 | Catena Labs候補名單申請；DogeOS上線積分系統（5月22日） Bin",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Binance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaFh1ZUpTTXZIa1kwYkdSOGY3Ny1zZlE3VGpjdERTWFY0U3FtSzFTNTNJRkJ0ZkNrYmdyMDkzTk14V1hQMGNMZ1Z4SkFKNlR5dzFpMEMzWF9BR01ZUmJEandaT3YtLTUz?oc=5"
+          },
+          {
+            "label": "caiwennews.com：从对话Bot到社交Agent：AI应用进入“多人模式”，UniClaw率先落地 - caiwennews.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EaG92cXY0bi1raEttREpxS0xidlhjblFNV1daaUExNzhScTFybUJhR05lcXBiWkhEcEJtM29sOTRCb01NajhaajJzVTJiY3V6aDNVYUpoSkZBWXZU?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Cohere Releases Command A+: A 218B Sparse MoE Model for Agentic Workfl",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVUxGbWF5UGtIUWg0dDhBT0xobjhXNWxyQzZJMUFjVmZfWFhTUl9wbVNlcDRKYl9hZVRJUXhPM3R5T2hIY19qV3RxZ2ZDRDNiUk10YThFQTVmSVVEX3JYZF9lSnNMSE1ybTlSWE9EM0V1eEhuSldGWDZjaEkzZElTTEZaemh6T1VQVk5wYVhMeVVoZU92SVB6WHAwcXBVbWJhOVhZcGtwMWxJbjk2RmxKc0JwTTR5NGRjbTFzVUhYRVZscXlfelhnVnBYM3BNeFl2b3Z5a2NCd2c2TWdWaThKTUNhYw?oc=5"
+          }
+        ],
+        "source": "Binance",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaFh1ZUpTTXZIa1kwYkdSOGY3Ny1zZlE3VGpjdERTWFY0U3FtSzFTNTNJRkJ0ZkNrYmdyMDkzTk14V1hQMGNMZ1Z4SkFKNlR5dzFpMEMzWF9BR01ZUmJEandaT3YtLTUz?oc=5"
+      },
+      {
         "slug": "ai-guide-20260521-auto-1-649012",
         "title": "Agent安全开发实操教程",
         "category": "AI使用教程",
@@ -8895,6 +9069,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260522-auto-1-d176b8",
+        "title": "SpecDD Launches th",
+        "category": "开源项目",
+        "date": "2026-05-22",
+        "summary": "SpecDD Launches the Missing Context Layer for AI C",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SpecDD Launches th 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "SpecDD Launches the Missing Context Layer for AI C",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SpecDD Launches the Missing Context Layer for AI C",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TechBullion：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzdiamdBNkhLcEdQbHp5cFowbEVTWHdzR1c1X1JlamlzanNtbVgybl9UX2J0ZnBqaXIzWTItN2h3elQzMnUySmVNNUxBYVluSXhUM21xUHlxUmZMUXFHUFpSdFhwTzdWNGo2VGNBSEprOGdaVW9TalprTmpHRzltQlNXU0ZlaFU?oc=5"
+          },
+          {
+            "label": "The Guardian Nigeria News：FG, firm launch GovGuideNigeria AI platform to boost governance - The ",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWIySDI3UTlRVkpUMHBBRWxOSzNZRHBPNTBOYUFycDgxMTlsSmhsTnQ5ZE9pYUdHUFVJUlNFcElpeG0ya1BSb3JkSEJqckNIQUYxTUoxNExYLTRsNEJDZHcwdXZ3YU5LU0dwOXBXcGJVcGU1MWJBSFVjZkU5dGNTalBOX085dmtxb0pfbHJHN3Q2UQ?oc=5"
+          },
+          {
+            "label": "GIGAZINE：Music generation AI 'Stable Audio 3.0' unveiled, with a large model ca",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ODNGVVpLUThocDBSYzVuMkNrcS1QUVhJcm5BTEkyOG0zY0JqUFprdjhyZmtSSGhPaElYQkVIMkREdnYwTWNWNUoyeDJhelV1R1FyUXoyWDgxZklRcFkyenpiUm5tMFE?oc=5"
+          }
+        ],
+        "source": "TechBullion",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzdiamdBNkhLcEdQbHp5cFowbEVTWHdzR1c1X1JlamlzanNtbVgybl9UX2J0ZnBqaXIzWTItN2h3elQzMnUySmVNNUxBYVluSXhUM21xUHlxUmZMUXFHUFpSdFhwTzdWNGo2VGNBSEprOGdaVW9TalprTmpHRzltQlNXU0ZlaFU?oc=5"
+      },
+      {
+        "slug": "open-source-20260522-auto-2-938cb3",
+        "title": "FG, firm launch Go",
+        "category": "开源项目",
+        "date": "2026-05-22",
+        "summary": "FG, firm launch GovGuideNigeria AI platform to boo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FG, firm launch Go 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "FG, firm launch GovGuideNigeria AI platform to boo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "FG, firm launch GovGuideNigeria AI platform to boo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Guardian Nigeria News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWIySDI3UTlRVkpUMHBBRWxOSzNZRHBPNTBOYUFycDgxMTlsSmhsTnQ5ZE9pYUdHUFVJUlNFcElpeG0ya1BSb3JkSEJqckNIQUYxTUoxNExYLTRsNEJDZHcwdXZ3YU5LU0dwOXBXcGJVcGU1MWJBSFVjZkU5dGNTalBOX085dmtxb0pfbHJHN3Q2UQ?oc=5"
+          },
+          {
+            "label": "TechBullion：SpecDD Launches the Missing Context Layer for AI Coding - TechBullion",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzdiamdBNkhLcEdQbHp5cFowbEVTWHdzR1c1X1JlamlzanNtbVgybl9UX2J0ZnBqaXIzWTItN2h3elQzMnUySmVNNUxBYVluSXhUM21xUHlxUmZMUXFHUFpSdFhwTzdWNGo2VGNBSEprOGdaVW9TalprTmpHRzltQlNXU0ZlaFU?oc=5"
+          },
+          {
+            "label": "GIGAZINE：Music generation AI 'Stable Audio 3.0' unveiled, with a large model ca",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41ODNGVVpLUThocDBSYzVuMkNrcS1QUVhJcm5BTEkyOG0zY0JqUFprdjhyZmtSSGhPaElYQkVIMkREdnYwTWNWNUoyeDJhelV1R1FyUXoyWDgxZklRcFkyenpiUm5tMFE?oc=5"
+          }
+        ],
+        "source": "The Guardian Nigeria News",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWIySDI3UTlRVkpUMHBBRWxOSzNZRHBPNTBOYUFycDgxMTlsSmhsTnQ5ZE9pYUdHUFVJUlNFcElpeG0ya1BSb3JkSEJqckNIQUYxTUoxNExYLTRsNEJDZHcwdXZ3YU5LU0dwOXBXcGJVcGU1MWJBSFVjZkU5dGNTalBOX085dmtxb0pfbHJHN3Q2UQ?oc=5"
+      },
       {
         "slug": "open-source-20260521-auto-1-3a6f2f",
         "title": "GitHub confirms ha",
