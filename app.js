@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260523-auto-1-7e1b44",
+        "title": "国际顶尖数学家张寿武在厦大谈人工智能",
+        "category": "AI新闻",
+        "date": "2026-05-23",
+        "summary": "国际顶尖数学家张寿武在厦大谈人工智能与数学 东南网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国际顶尖数学家张寿武在厦大谈人工智能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "国际顶尖数学家张寿武在厦大谈人工智能与数学 东南网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "国际顶尖数学家张寿武在厦大谈人工智能与数学 东南网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "东南网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aS3JaVTZwY0dnUW5YcUgzck5uTlotQkp5eUtCTDJqRFliYktVaXAxeTI4RzJmNzI3VDU3Ri1HWUV6aUpVSVRRY1RMZVdSV3VYYUc0R0o1ZjBoRnpESW1uMw?oc=5"
+          },
+          {
+            "label": "blog.google：Introducing Gemini Omni - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+          },
+          {
+            "label": "搜狐网：龙祖根： 筑牢基础突破瓶颈，以AI之智锻造贵州能源新质生产力 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1p6UUl3bXBQc1c3b2hTN01ZZmxsQWdfWnJ3LUxuc1BaczRRWXZWaTJCaU9iTWdHQlNqNktuRDhvYUtJSE9HTkFaQ2hKQWIwZzV6SmVuRVhkLTdqcGtGTG5KU0E5SnRWR3JfRGsyTTh2aWc5QjMtUDBIQVEta0VsTzRPUzdWanJ6SXdkRg?oc=5"
+          }
+        ],
+        "source": "东南网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aS3JaVTZwY0dnUW5YcUgzck5uTlotQkp5eUtCTDJqRFliYktVaXAxeTI4RzJmNzI3VDU3Ri1HWUV6aUpVSVRRY1RMZVdSV3VYYUc0R0o1ZjBoRnpESW1uMw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260523-auto-2-dee297",
+        "title": "Introducing Gemini",
+        "category": "AI新闻",
+        "date": "2026-05-23",
+        "summary": "Introducing Gemini Omni blog.google",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Introducing Gemini 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Introducing Gemini Omni blog.google",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Introducing Gemini Omni blog.google",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.google：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+          },
+          {
+            "label": "东南网：国际顶尖数学家张寿武在厦大谈人工智能与数学 - 东南网",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aS3JaVTZwY0dnUW5YcUgzck5uTlotQkp5eUtCTDJqRFliYktVaXAxeTI4RzJmNzI3VDU3Ri1HWUV6aUpVSVRRY1RMZVdSV3VYYUc0R0o1ZjBoRnpESW1uMw?oc=5"
+          },
+          {
+            "label": "搜狐网：龙祖根： 筑牢基础突破瓶颈，以AI之智锻造贵州能源新质生产力 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1p6UUl3bXBQc1c3b2hTN01ZZmxsQWdfWnJ3LUxuc1BaczRRWXZWaTJCaU9iTWdHQlNqNktuRDhvYUtJSE9HTkFaQ2hKQWIwZzV6SmVuRVhkLTdqcGtGTG5KU0E5SnRWR3JfRGsyTTh2aWc5QjMtUDBIQVEta0VsTzRPUzdWanJ6SXdkRg?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWlaMUVtdkx6SklzdmNOYnZibDJSak96Mi0zZXhoUVdsamQ2M1VIeEUtcTdWVVJrV09PcTRPWVFCQzlzSW5RUzM1Ui1FRmJtR1N2aVNkeWtEM192TDcxUFhxNGN5MGhpYjk0aEJJdWJrcDlUNG1mQ2xodS1YNXEtVUxPSnpWNGVjZlpwXw?oc=5"
+      },
+      {
         "slug": "ai-news-20260522-auto-1-7f7897",
         "title": "Introducing Gemini",
         "category": "AI新闻",
@@ -6431,6 +6547,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260523-auto-1-66d1d9",
+        "title": "专注动漫风格，全新生图模型Anima",
+        "category": "AI使用教程",
+        "date": "2026-05-23",
+        "summary": "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "专注动漫风格，全新生图模型Anima 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TR0tuVFFnR0UtME5yM0xUZ3ZSQ05WZHVLcGNPY05najdJOWNvb2V6cHlzUC1ZRENCbXQ5MFloUkh0VDFUYnR4eg?oc=5"
+          },
+          {
+            "label": "搜狐网：AI社区登陆文博会，科技力量激活文化产业新动能 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRng1Zmw2S0J1LUNTYXhtQURDV2ZYTUJlcVB5R3NHWGxGZ0FjYlMwUnpUMXQteHlGb2R1cmJnRW50YVN1MGswd0g4SDR1Q0ZVN3U5RDRwSzF3bW03SURwSTFBeUZoVG9iOXI2LVNoMUw2YVAtdXlTVU1pd2NRTjU2ZWZNeDRKbGxPbVFzdXln?oc=5"
+          },
+          {
+            "label": "HackerNoon：63 Blog Posts To Learn About Copywriting - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcU9rSTExNjMtcDZhdndxN0doOTVPU0NnNU1fR0FjNW1GbG9zZ0Vab1I0NEJTZWhKUXA4QU8wRWhpRGZOT1NpY1BFLVpkaG9zdWEyNU42d1pocVVXZ3VCaDNmMFdQOVlzendhQUxsX1Y?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TR0tuVFFnR0UtME5yM0xUZ3ZSQ05WZHVLcGNPY05najdJOWNvb2V6cHlzUC1ZRENCbXQ5MFloUkh0VDFUYnR4eg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260522-auto-1-ac7369",
         "title": "熱門交互合集 | Catena La",
         "category": "AI使用教程",
@@ -9069,6 +9243,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260523-auto-1-66d1d9",
+        "title": "专注动漫风格，全新生图模型Anima",
+        "category": "开源项目",
+        "date": "2026-05-23",
+        "summary": "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "专注动漫风格，全新生图模型Anima 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TR0tuVFFnR0UtME5yM0xUZ3ZSQ05WZHVLcGNPY05najdJOWNvb2V6cHlzUC1ZRENCbXQ5MFloUkh0VDFUYnR4eg?oc=5"
+          },
+          {
+            "label": "搜狐网：AI社区登陆文博会，科技力量激活文化产业新动能 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRng1Zmw2S0J1LUNTYXhtQURDV2ZYTUJlcVB5R3NHWGxGZ0FjYlMwUnpUMXQteHlGb2R1cmJnRW50YVN1MGswd0g4SDR1Q0ZVN3U5RDRwSzF3bW03SURwSTFBeUZoVG9iOXI2LVNoMUw2YVAtdXlTVU1pd2NRTjU2ZWZNeDRKbGxPbVFzdXln?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Tencent's L2P makes pixel-space image generation practical again - Sta",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR21KVFVXWmlYWnd2Qkk3WUJRY0Y4UEZNempBM2pmQXRGX0pKNHAzMlRucmtmWlNyeWs4aGtSLTVUWkNNMk4wMFgxM0FjNVV4R1d0TWJTNUx3NldyeUIwVFp1cUl4bWNOVFM2Q0UxV3NnNU9JQk1vaXFtM3o5anlsOGo2ZnhXQW1UT3oxc1RIQ0FVUWRjRmc?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TR0tuVFFnR0UtME5yM0xUZ3ZSQ05WZHVLcGNPY05najdJOWNvb2V6cHlzUC1ZRENCbXQ5MFloUkh0VDFUYnR4eg?oc=5"
+      },
+      {
+        "slug": "open-source-20260523-auto-2-a90848",
+        "title": "AI社区登陆文博会，科技力量激活文化",
+        "category": "开源项目",
+        "date": "2026-05-23",
+        "summary": "AI社区登陆文博会，科技力量激活文化产业新动能 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI社区登陆文博会，科技力量激活文化 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI社区登陆文博会，科技力量激活文化产业新动能 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI社区登陆文博会，科技力量激活文化产业新动能 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRng1Zmw2S0J1LUNTYXhtQURDV2ZYTUJlcVB5R3NHWGxGZ0FjYlMwUnpUMXQteHlGb2R1cmJnRW50YVN1MGswd0g4SDR1Q0ZVN3U5RDRwSzF3bW03SURwSTFBeUZoVG9iOXI2LVNoMUw2YVAtdXlTVU1pd2NRTjU2ZWZNeDRKbGxPbVFzdXln?oc=5"
+          },
+          {
+            "label": "智源社区：专注动漫风格，全新生图模型Anima V1已开源；哈佛大学发布机器学习系统教学平台MLSysBook，含33个可交互实验 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TR0tuVFFnR0UtME5yM0xUZ3ZSQ05WZHVLcGNPY05najdJOWNvb2V6cHlzUC1ZRENCbXQ5MFloUkh0VDFUYnR4eg?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Tencent's L2P makes pixel-space image generation practical again - Sta",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR21KVFVXWmlYWnd2Qkk3WUJRY0Y4UEZNempBM2pmQXRGX0pKNHAzMlRucmtmWlNyeWs4aGtSLTVUWkNNMk4wMFgxM0FjNVV4R1d0TWJTNUx3NldyeUIwVFp1cUl4bWNOVFM2Q0UxV3NnNU9JQk1vaXFtM3o5anlsOGo2ZnhXQW1UT3oxc1RIQ0FVUWRjRmc?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRng1Zmw2S0J1LUNTYXhtQURDV2ZYTUJlcVB5R3NHWGxGZ0FjYlMwUnpUMXQteHlGb2R1cmJnRW50YVN1MGswd0g4SDR1Q0ZVN3U5RDRwSzF3bW03SURwSTFBeUZoVG9iOXI2LVNoMUw2YVAtdXlTVU1pd2NRTjU2ZWZNeDRKbGxPbVFzdXln?oc=5"
+      },
       {
         "slug": "open-source-20260522-auto-1-d176b8",
         "title": "SpecDD Launches th",
