@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260524-auto-1-876841",
+        "title": "Who’s afraid of AI",
+        "category": "AI新闻",
+        "date": "2026-05-24",
+        "summary": "Who’s afraid of AI? The Week",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Who’s afraid of AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Who’s afraid of AI? The Week",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Who’s afraid of AI? The Week",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Week：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ieGhaYWR6N0VpY2RJR2dyeUhjQVNkM2tWNkNBWjViQXMwYXZLQlVOQURWRVFGVkhucmVrSmhrVmlhank1S3hBRnBVeE5mUE1TNEtxSEYxX1VFSjQyWm9qMDU3YUQtMEpT?oc=5"
+          },
+          {
+            "label": "Fast Company：AI may be eating jobs, but it poses an even bigger threat - Fast Compa",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTdhdUtjNk9fSWVlblJETmtuQVlwWnlac0RrQ3o4cFduNUtSVmtFcnhaSlR5enNwRTVva3J6ejZlRXdscmhQUVlmaFlqYTZpdUhNVmRJd3p5UU1sdmRyZnRfYjR0cTBuM2VyUEJGNjdmT2JxUXVqLTdQcFFBS1dBcTJEMU1QbTBG?oc=5"
+          },
+          {
+            "label": "The Guardian：‘We’re expanding the cinematic toolbox’: AI fault lines on show at Can",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX28zSkEtRjRfWl9jeFNkRDNmTzcyVzR4RHJKV3Z5bzBXRWUwUVptWXlyS2NRSy1jRVY4cDI1dXp4OGpQQ1d1R2NRMk9ZaEd3d2hxc3FVck4tRC1UcUtWUEtqaGRoZEtUZ2VtZjBJbkVaUFlQMEtQeGZmYkdBal90cUY2NUNuekE1NFl5ZlJxQkZYWDZf?oc=5"
+          }
+        ],
+        "source": "The Week",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ieGhaYWR6N0VpY2RJR2dyeUhjQVNkM2tWNkNBWjViQXMwYXZLQlVOQURWRVFGVkhucmVrSmhrVmlhank1S3hBRnBVeE5mUE1TNEtxSEYxX1VFSjQyWm9qMDU3YUQtMEpT?oc=5"
+      },
+      {
+        "slug": "ai-news-20260524-auto-2-487a94",
+        "title": "AI may be eating j",
+        "category": "AI新闻",
+        "date": "2026-05-24",
+        "summary": "AI may be eating jobs, but it poses an even bigger",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI may be eating j 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI may be eating jobs, but it poses an even bigger",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI may be eating jobs, but it poses an even bigger",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fast Company：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTdhdUtjNk9fSWVlblJETmtuQVlwWnlac0RrQ3o4cFduNUtSVmtFcnhaSlR5enNwRTVva3J6ejZlRXdscmhQUVlmaFlqYTZpdUhNVmRJd3p5UU1sdmRyZnRfYjR0cTBuM2VyUEJGNjdmT2JxUXVqLTdQcFFBS1dBcTJEMU1QbTBG?oc=5"
+          },
+          {
+            "label": "The Week：Who’s afraid of AI? - The Week",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ieGhaYWR6N0VpY2RJR2dyeUhjQVNkM2tWNkNBWjViQXMwYXZLQlVOQURWRVFGVkhucmVrSmhrVmlhank1S3hBRnBVeE5mUE1TNEtxSEYxX1VFSjQyWm9qMDU3YUQtMEpT?oc=5"
+          },
+          {
+            "label": "The Guardian：‘We’re expanding the cinematic toolbox’: AI fault lines on show at Can",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX28zSkEtRjRfWl9jeFNkRDNmTzcyVzR4RHJKV3Z5bzBXRWUwUVptWXlyS2NRSy1jRVY4cDI1dXp4OGpQQ1d1R2NRMk9ZaEd3d2hxc3FVck4tRC1UcUtWUEtqaGRoZEtUZ2VtZjBJbkVaUFlQMEtQeGZmYkdBal90cUY2NUNuekE1NFl5ZlJxQkZYWDZf?oc=5"
+          }
+        ],
+        "source": "Fast Company",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTdhdUtjNk9fSWVlblJETmtuQVlwWnlac0RrQ3o4cFduNUtSVmtFcnhaSlR5enNwRTVva3J6ejZlRXdscmhQUVlmaFlqYTZpdUhNVmRJd3p5UU1sdmRyZnRfYjR0cTBuM2VyUEJGNjdmT2JxUXVqLTdQcFFBS1dBcTJEMU1QbTBG?oc=5"
+      },
+      {
         "slug": "ai-news-20260523-auto-1-7e1b44",
         "title": "国际顶尖数学家张寿武在厦大谈人工智能",
         "category": "AI新闻",
@@ -6547,6 +6663,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260524-auto-1-2edda0",
+        "title": "西安翻译学院：把AI“请”进辅导员队",
+        "category": "AI使用教程",
+        "date": "2026-05-24",
+        "summary": "西安翻译学院：把AI“请”进辅导员队伍 edu.hsw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "西安翻译学院：把AI“请”进辅导员队 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "西安翻译学院：把AI“请”进辅导员队伍 edu.hsw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "西安翻译学院：把AI“请”进辅导员队伍 edu.hsw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "edu.hsw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBma1RxMU5RdUpacTMwa3VHcGFPaHg2WEdVLTc2TFZxQnY1NGJucmQ5RGcxTkJwWGlYSkZaMzdiOE1mdEFJS2htNzN2bnVRQWMtNjU0RnhyR19OSFhP?oc=5"
+          },
+          {
+            "label": "雷科技：实测GPT For PPT：5分钟出稿质量堪忧，打工人“最后一公里”还得自己走 - 雷科技",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fd3dFdGdiMFd4Z3JCcjY0TGEta1RqTG5BbFpsZDNQQTJJeDdOSExycVJqY0NtaEVWcUFZM2pDRGU0QnFLTFB6N3VFY1JXZw?oc=5"
+          },
+          {
+            "label": "新浪财经：别人用我的AI提示词算侵权吗 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tN0lLVUVvNE5KcUJZQmJPYXFRYWRINXh0LXJzRE9iZ2FSNGxxNjRxRGxJNVRrRTY2d2xSYkllNmd1NXlQb0hBdDRWemJOU0doM3dqVllrdHYwRTVqamdqTEVoRkRhbk9GbDcxdGNUZ3hvOUNmODJhLQ?oc=5"
+          }
+        ],
+        "source": "edu.hsw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBma1RxMU5RdUpacTMwa3VHcGFPaHg2WEdVLTc2TFZxQnY1NGJucmQ5RGcxTkJwWGlYSkZaMzdiOE1mdEFJS2htNzN2bnVRQWMtNjU0RnhyR19OSFhP?oc=5"
+      },
+      {
         "slug": "ai-guide-20260523-auto-1-66d1d9",
         "title": "专注动漫风格，全新生图模型Anima",
         "category": "AI使用教程",
@@ -9243,6 +9417,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260524-auto-1-f662c2",
+        "title": "离谱！辅导班教学员刷开源项目PR给简",
+        "category": "开源项目",
+        "date": "2026-05-24",
+        "summary": "离谱！辅导班教学员刷开源项目PR给简历「镀金」，vLLM险些中招 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "离谱！辅导班教学员刷开源项目PR给简 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "离谱！辅导班教学员刷开源项目PR给简历「镀金」，vLLM险些中招 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "离谱！辅导班教学员刷开源项目PR给简历「镀金」，vLLM险些中招 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1dUOXBsTE9SNEVXQ2lrYnpCVkQ0dnRXLVphTTEwMjhJYnlPc3J4WVVUZm1SMGJUOHBTaVdmYllHZWd2dXFqb0JTRF9xOEFLd2kxY25zQ2RNNXJqSFhWd1ZFUFZ5YmdCbkQ4Q0QyRlE1WW9kOW16ejRRTG9Xa29DTmRWcVpmaFBDNkE0YUctNFM5UENQV052TmcwS1NFZWpscWdkdTdNTjVQdU1sQU1abWc2R09qMTJXQTZJN1BtOC1wRXpKbUVlOWZxQXBqZGNUNE9xU3NtY0cyZ1BEejVGenVZUjJQVFZOdTRZLWJPaGhFREFW?oc=5"
+          },
+          {
+            "label": "Substack：AI Week in Review 26.05.23 - Substack",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUzd1Z0p2V0Y2dGUxVmdsUVQ5VFpFNnhlcUZJSzVZVFlNSjRCOUtUMG9jT2EtYXppRnYtNFkzOEJpNFRPVEZVUHRZaU1qZHRYT2xob1djTmYtQ3UxdDM0RGFHczJIQ1FjQ2ZCYkp3?oc=5"
+          },
+          {
+            "label": "TestingCatalog AI News：Anthropic prepares Mythos 1 for Claude Code and Claude Security - Test",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUVXeTM4c1FFdXpsQTVlNXhEN29LYlA1cUg5Ul9TWXE0T1Bnd2E2Vm5scHEtRlFiazFqYWNXY2trMktQMDVoeGdOQTRQaExndWdaQ2dhN0tqS00ya1pFS3NtTEJxdFNtZG9ISDE3R3d6LUl3UV9rbUVNN0g2QThPYmFrV3hpM04zMTEtUXZQcXE0RS14ZExqd0J6SQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1dUOXBsTE9SNEVXQ2lrYnpCVkQ0dnRXLVphTTEwMjhJYnlPc3J4WVVUZm1SMGJUOHBTaVdmYllHZWd2dXFqb0JTRF9xOEFLd2kxY25zQ2RNNXJqSFhWd1ZFUFZ5YmdCbkQ4Q0QyRlE1WW9kOW16ejRRTG9Xa29DTmRWcVpmaFBDNkE0YUctNFM5UENQV052TmcwS1NFZWpscWdkdTdNTjVQdU1sQU1abWc2R09qMTJXQTZJN1BtOC1wRXpKbUVlOWZxQXBqZGNUNE9xU3NtY0cyZ1BEejVGenVZUjJQVFZOdTRZLWJPaGhFREFW?oc=5"
+      },
+      {
+        "slug": "open-source-20260524-auto-2-816017",
+        "title": "AI Week in Review",
+        "category": "开源项目",
+        "date": "2026-05-24",
+        "summary": "AI Week in Review 26.05.23 Substack",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Week in Review 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Week in Review 26.05.23 Substack",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Week in Review 26.05.23 Substack",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Substack：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUzd1Z0p2V0Y2dGUxVmdsUVQ5VFpFNnhlcUZJSzVZVFlNSjRCOUtUMG9jT2EtYXppRnYtNFkzOEJpNFRPVEZVUHRZaU1qZHRYT2xob1djTmYtQ3UxdDM0RGFHczJIQ1FjQ2ZCYkp3?oc=5"
+          },
+          {
+            "label": "新浪网：离谱！辅导班教学员刷开源项目PR给简历「镀金」，vLLM险些中招 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1dUOXBsTE9SNEVXQ2lrYnpCVkQ0dnRXLVphTTEwMjhJYnlPc3J4WVVUZm1SMGJUOHBTaVdmYllHZWd2dXFqb0JTRF9xOEFLd2kxY25zQ2RNNXJqSFhWd1ZFUFZ5YmdCbkQ4Q0QyRlE1WW9kOW16ejRRTG9Xa29DTmRWcVpmaFBDNkE0YUctNFM5UENQV052TmcwS1NFZWpscWdkdTdNTjVQdU1sQU1abWc2R09qMTJXQTZJN1BtOC1wRXpKbUVlOWZxQXBqZGNUNE9xU3NtY0cyZ1BEejVGenVZUjJQVFZOdTRZLWJPaGhFREFW?oc=5"
+          },
+          {
+            "label": "TestingCatalog AI News：Anthropic prepares Mythos 1 for Claude Code and Claude Security - Test",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUVXeTM4c1FFdXpsQTVlNXhEN29LYlA1cUg5Ul9TWXE0T1Bnd2E2Vm5scHEtRlFiazFqYWNXY2trMktQMDVoeGdOQTRQaExndWdaQ2dhN0tqS00ya1pFS3NtTEJxdFNtZG9ISDE3R3d6LUl3UV9rbUVNN0g2QThPYmFrV3hpM04zMTEtUXZQcXE0RS14ZExqd0J6SQ?oc=5"
+          }
+        ],
+        "source": "Substack",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mUzd1Z0p2V0Y2dGUxVmdsUVQ5VFpFNnhlcUZJSzVZVFlNSjRCOUtUMG9jT2EtYXppRnYtNFkzOEJpNFRPVEZVUHRZaU1qZHRYT2xob1djTmYtQ3UxdDM0RGFHczJIQ1FjQ2ZCYkp3?oc=5"
+      },
       {
         "slug": "open-source-20260523-auto-1-66d1d9",
         "title": "专注动漫风格，全新生图模型Anima",
