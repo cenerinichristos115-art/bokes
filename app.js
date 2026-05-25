@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260525-auto-1-bda66f",
+        "title": "I Paid for Google'",
+        "category": "AI新闻",
+        "date": "2026-05-25",
+        "summary": "I Paid for Google's Gemini AI Plan. These 5 Featur",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "I Paid for Google' 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "I Paid for Google's Gemini AI Plan. These 5 Featur",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "I Paid for Google's Gemini AI Plan. These 5 Featur",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PCMag：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFKNjViTU54dkFVU2RyU1VXdU42cGxjazNaRWV5QU1nSlEtNGs2Ulkxc185ZEtjTW1sRmN3Z1NzOTUxTU1vUFNsb1RQdURCSkdNMy0wYTAtd3B0U1ZWdmxPbTAxSk15NTNrTFI3QjAwYzR1T1VJc3AzeVA4VHY2VU5kbk90MTY2MmdqRjNlLXAxUQ?oc=5"
+          },
+          {
+            "label": "新浪财经：图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI|智能体|阶跃星辰|Minimax|论坛|产业_手机新浪网 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkxfOGhDY0J0MGs3dHI4U2czZHQ5LWIwNTlCMmR0d0l0dm9lbmVJbWRkdXFQdlFHTWgzVVdWQzhHX3N0aFJXZi1DTXd1Ylh1RTFyMEJneWlRZndWbEZHX3JQcEVuZHBuSEZJQnlJa2Zlb21WOS1tTDZNZXlLT290czNVaDhvd3pEMXRiTmZlVG83WDA5V3pid29McDVDaVRDOURZWmdvYw?oc=5"
+          },
+          {
+            "label": "AZoM：AI Enters the Quantum Materials Lab and Builds a Graphene Transistor -",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSTV4cXdRRWlsQ19adXdrUEdZOG82NWlHTjhNVGZudm5fdUJEaTUzV2RIYVFaUVdTaUkzWk1RQks4bnNfR3JsVmpIZ21pYjBjb0pQeU5R?oc=5"
+          }
+        ],
+        "source": "PCMag",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFKNjViTU54dkFVU2RyU1VXdU42cGxjazNaRWV5QU1nSlEtNGs2Ulkxc185ZEtjTW1sRmN3Z1NzOTUxTU1vUFNsb1RQdURCSkdNMy0wYTAtd3B0U1ZWdmxPbTAxSk15NTNrTFI3QjAwYzR1T1VJc3AzeVA4VHY2VU5kbk90MTY2MmdqRjNlLXAxUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260525-auto-2-17b318",
+        "title": "图灵奖得主领衔，中国大模型第一梯队集",
+        "category": "AI新闻",
+        "date": "2026-05-25",
+        "summary": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI|智能体|阶跃星辰|Minimax",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "图灵奖得主领衔，中国大模型第一梯队集 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI|智能体|阶跃星辰|Minimax",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI|智能体|阶跃星辰|Minimax",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkxfOGhDY0J0MGs3dHI4U2czZHQ5LWIwNTlCMmR0d0l0dm9lbmVJbWRkdXFQdlFHTWgzVVdWQzhHX3N0aFJXZi1DTXd1Ylh1RTFyMEJneWlRZndWbEZHX3JQcEVuZHBuSEZJQnlJa2Zlb21WOS1tTDZNZXlLT290czNVaDhvd3pEMXRiTmZlVG83WDA5V3pid29McDVDaVRDOURZWmdvYw?oc=5"
+          },
+          {
+            "label": "PCMag：I Paid for Google's Gemini AI Plan. These 5 Features Justify the Price",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFKNjViTU54dkFVU2RyU1VXdU42cGxjazNaRWV5QU1nSlEtNGs2Ulkxc185ZEtjTW1sRmN3Z1NzOTUxTU1vUFNsb1RQdURCSkdNMy0wYTAtd3B0U1ZWdmxPbTAxSk15NTNrTFI3QjAwYzR1T1VJc3AzeVA4VHY2VU5kbk90MTY2MmdqRjNlLXAxUQ?oc=5"
+          },
+          {
+            "label": "AZoM：AI Enters the Quantum Materials Lab and Builds a Graphene Transistor -",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hSTV4cXdRRWlsQ19adXdrUEdZOG82NWlHTjhNVGZudm5fdUJEaTUzV2RIYVFaUVdTaUkzWk1RQks4bnNfR3JsVmpIZ21pYjBjb0pQeU5R?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkxfOGhDY0J0MGs3dHI4U2czZHQ5LWIwNTlCMmR0d0l0dm9lbmVJbWRkdXFQdlFHTWgzVVdWQzhHX3N0aFJXZi1DTXd1Ylh1RTFyMEJneWlRZndWbEZHX3JQcEVuZHBuSEZJQnlJa2Zlb21WOS1tTDZNZXlLT290czNVaDhvd3pEMXRiTmZlVG83WDA5V3pid29McDVDaVRDOURZWmdvYw?oc=5"
+      },
+      {
         "slug": "ai-news-20260524-auto-1-876841",
         "title": "Who’s afraid of AI",
         "category": "AI新闻",
@@ -6663,6 +6779,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260525-auto-1-aab992",
+        "title": "Codex「自我蒸馏」提示词进化版！",
+        "category": "AI使用教程",
+        "date": "2026-05-25",
+        "summary": "Codex「自我蒸馏」提示词进化版！官方团队给出更强方案，一键打包你的专属工作流 51CTO",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Codex「自我蒸馏」提示词进化版！ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Codex「自我蒸馏」提示词进化版！官方团队给出更强方案，一键打包你的专属工作流 51CTO",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Codex「自我蒸馏」提示词进化版！官方团队给出更强方案，一键打包你的专属工作流 51CTO",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLUlaZzkzTHNfbHdXT0pMQk9laGFnWnQ4LUZpWjI0VlplSlhZbDg0TW9rOUxTRHRORnNTMGZNLUZwM1lvTXJyQ0RWemNLbG5uTmww?oc=5"
+          },
+          {
+            "label": "51CTO：两小时烧掉九亿token后，我发现了OpenAI和Anthropic在/goal上的本质区别 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VEJVaFhrcElzS1FObW9zMnVZU1lfVFFUMzVqUWVuQloxd2dNdllqYVJDQWNRNzgxRk92c3JyZXJtNkc2TWhmMVFfWmdRaWFoVkJF?oc=5"
+          },
+          {
+            "label": "凤凰网科技：杀死 ChatGPT 聊天框的，是鼠标 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43RWxfSEpnbFJGTU02dFBtSWRlTHZrYTU1Z08zTXRJWklHN2ZSQ3Z2YkhSY0lNRG1LNDlCSzRQakp5VWo2OXdlVGNUZXI?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tLUlaZzkzTHNfbHdXT0pMQk9laGFnWnQ4LUZpWjI0VlplSlhZbDg0TW9rOUxTRHRORnNTMGZNLUZwM1lvTXJyQ0RWemNLbG5uTmww?oc=5"
+      },
+      {
         "slug": "ai-guide-20260524-auto-1-2edda0",
         "title": "西安翻译学院：把AI“请”进辅导员队",
         "category": "AI使用教程",
@@ -9417,6 +9591,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260525-auto-1-4b8455",
+        "title": "OpenHack: Open-sou",
+        "category": "开源项目",
+        "date": "2026-05-25",
+        "summary": "OpenHack: Open-source AI-powered vulnerability res",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenHack: Open-sou 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenHack: Open-source AI-powered vulnerability res",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenHack: Open-source AI-powered vulnerability res",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3JUZzkzUFRZRTdCY0c5bjdhSkdDejBNTmdTcHR2bUtYdnVxX09mS2NEd1Z0b01PWTE4a25pSVA2bjRGbmlHMURiTVhIcG9YVzhMRGZJMW5TU0dUNDdJVW11RFpucjlXSl9vREUtMk1OZ3M5ekJwVjBKWHZUN2dVb21KR3NhUHlTejRRdDkxVzlINjQ4R0xwX1RQU09Va1U?oc=5"
+          },
+          {
+            "label": "digitimes：China launches OpenHarmony robot OS for humanoids and AI robotics - di",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFd0WjNaRVJNa1lrQ3NOQ01LVzlkYlYxTkVmTVNTSnM4X2gyUmp0ckZEbFlWbVdBdkFpNmYxQmJpQ2x6TkdULWJIZFBCTjdNSDdNbzY3MmNjOFBMSjJNazZfTjZpcUVjdXlaWmM0SkhBRzRHaTd6V3VYTVY1STE5WlA2YnV2Y0lzY0JVWFd6c2FCMXlQR19ZQ2JPVTZTRm1Nd21fSkh6aFRUTnR3TGtQNA?oc=5"
+          },
+          {
+            "label": "Pandaily：ByteDance Open-Sources Lance: A Native Multimodal Model That Runs Loca",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iMU0xcU53a1RfUUFKMHRoYVZQNC12OWpBQUYwVmRiNWV1YVd4REpGM1Zrb1dBQVJaMC0xTzlhRExoUXJjaEg0SWN1NnlCUzlodnlVZUhFM0tFMkxKaW40MFNSQ240SW1wcWRSc3FjeDU1amNlLXU4?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3JUZzkzUFRZRTdCY0c5bjdhSkdDejBNTmdTcHR2bUtYdnVxX09mS2NEd1Z0b01PWTE4a25pSVA2bjRGbmlHMURiTVhIcG9YVzhMRGZJMW5TU0dUNDdJVW11RFpucjlXSl9vREUtMk1OZ3M5ekJwVjBKWHZUN2dVb21KR3NhUHlTejRRdDkxVzlINjQ4R0xwX1RQU09Va1U?oc=5"
+      },
+      {
+        "slug": "open-source-20260525-auto-2-ab1604",
+        "title": "China launches Ope",
+        "category": "开源项目",
+        "date": "2026-05-25",
+        "summary": "China launches OpenHarmony robot OS for humanoids",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China launches Ope 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "China launches OpenHarmony robot OS for humanoids",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China launches OpenHarmony robot OS for humanoids",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "digitimes：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFd0WjNaRVJNa1lrQ3NOQ01LVzlkYlYxTkVmTVNTSnM4X2gyUmp0ckZEbFlWbVdBdkFpNmYxQmJpQ2x6TkdULWJIZFBCTjdNSDdNbzY3MmNjOFBMSjJNazZfTjZpcUVjdXlaWmM0SkhBRzRHaTd6V3VYTVY1STE5WlA2YnV2Y0lzY0JVWFd6c2FCMXlQR19ZQ2JPVTZTRm1Nd21fSkh6aFRUTnR3TGtQNA?oc=5"
+          },
+          {
+            "label": "Help Net Security：OpenHack: Open-source AI-powered vulnerability research - Help Net Sec",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3JUZzkzUFRZRTdCY0c5bjdhSkdDejBNTmdTcHR2bUtYdnVxX09mS2NEd1Z0b01PWTE4a25pSVA2bjRGbmlHMURiTVhIcG9YVzhMRGZJMW5TU0dUNDdJVW11RFpucjlXSl9vREUtMk1OZ3M5ekJwVjBKWHZUN2dVb21KR3NhUHlTejRRdDkxVzlINjQ4R0xwX1RQU09Va1U?oc=5"
+          },
+          {
+            "label": "Pandaily：ByteDance Open-Sources Lance: A Native Multimodal Model That Runs Loca",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iMU0xcU53a1RfUUFKMHRoYVZQNC12OWpBQUYwVmRiNWV1YVd4REpGM1Zrb1dBQVJaMC0xTzlhRExoUXJjaEg0SWN1NnlCUzlodnlVZUhFM0tFMkxKaW40MFNSQ240SW1wcWRSc3FjeDU1amNlLXU4?oc=5"
+          }
+        ],
+        "source": "digitimes",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaFd0WjNaRVJNa1lrQ3NOQ01LVzlkYlYxTkVmTVNTSnM4X2gyUmp0ckZEbFlWbVdBdkFpNmYxQmJpQ2x6TkdULWJIZFBCTjdNSDdNbzY3MmNjOFBMSjJNazZfTjZpcUVjdXlaWmM0SkhBRzRHaTd6V3VYTVY1STE5WlA2YnV2Y0lzY0JVWFd6c2FCMXlQR19ZQ2JPVTZTRm1Nd21fSkh6aFRUTnR3TGtQNA?oc=5"
+      },
       {
         "slug": "open-source-20260524-auto-1-f662c2",
         "title": "离谱！辅导班教学员刷开源项目PR给简",
