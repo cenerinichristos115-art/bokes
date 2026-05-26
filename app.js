@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260526-auto-1-e8f7dd",
+        "title": "别上了营销短视频的当！排队人群、门店",
+        "category": "AI新闻",
+        "date": "2026-05-26",
+        "summary": "别上了营销短视频的当！排队人群、门店热销画面全是AI生成...... 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "别上了营销短视频的当！排队人群、门店 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "别上了营销短视频的当！排队人群、门店热销画面全是AI生成...... 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "别上了营销短视频的当！排队人群、门店热销画面全是AI生成...... 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhKTU9YZ1pnZnFhYXpReTB2WFdWZWhrNEdGN0czVXFkUEVLVVRCLVV6Q0dxcXJ6QlgxOWdpRndocFotZ1NXUDA1Wk1NdlhqMXhxZmptXzhWRzFRWFgzZHpSZ1B6WDEyckxvX255R2xqSlNDMkFFb09nRUFZeDJuNDZzOUFjOFVKXzB4anNkZ25IcG0zUWRxOA?oc=5"
+          },
+          {
+            "label": "ycnews.cn：盐城在田野上“算”出好收成！ - ycnews.cn",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xbk9DTmZxcERLUkVOelFOR0ZWNEp1bmZuZDJIeGVNX2pKdHhTcERlbHNfUWRGNTlVc2FfVlB6allNdjcwRGpERjlocVE3Rzg0RmNsTV90M3BfeXBSUHplbQ?oc=5"
+          },
+          {
+            "label": "LinkedIn：AI might be the biggest tech revolution of our time. But what if the b",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JBR01lZkgzekg0Q1RlOEtISGcwYkVUb3kwVFF6Q3ZzZERnNHdYU0xwOXEwaUhnRFdvYlYwSFgxMmMtdUN1UksxYjhaU2k2UnJxU3lsQlNOSkNBVXdIQXMyTm94SE5VbnljaTlDNUhlcFFDQzlHWjZKSVNhd01XdUhMeGJmd1F5T3dJUUxKTWFTQi1hYmlVX0tCTDVudVpZZVlQZFZrMGlGc3FBT2gyeU5JYVdDS2JMSktUNWI4TGtBeFA3cVpBcw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhKTU9YZ1pnZnFhYXpReTB2WFdWZWhrNEdGN0czVXFkUEVLVVRCLVV6Q0dxcXJ6QlgxOWdpRndocFotZ1NXUDA1Wk1NdlhqMXhxZmptXzhWRzFRWFgzZHpSZ1B6WDEyckxvX255R2xqSlNDMkFFb09nRUFZeDJuNDZzOUFjOFVKXzB4anNkZ25IcG0zUWRxOA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260526-auto-2-35631d",
+        "title": "盐城在田野上“算”出好收成！ - y",
+        "category": "AI新闻",
+        "date": "2026-05-26",
+        "summary": "盐城在田野上“算”出好收成！ ycnews.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "盐城在田野上“算”出好收成！ - y 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "盐城在田野上“算”出好收成！ ycnews.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "盐城在田野上“算”出好收成！ ycnews.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ycnews.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xbk9DTmZxcERLUkVOelFOR0ZWNEp1bmZuZDJIeGVNX2pKdHhTcERlbHNfUWRGNTlVc2FfVlB6allNdjcwRGpERjlocVE3Rzg0RmNsTV90M3BfeXBSUHplbQ?oc=5"
+          },
+          {
+            "label": "新浪财经：别上了营销短视频的当！排队人群、门店热销画面全是AI生成...... - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjhKTU9YZ1pnZnFhYXpReTB2WFdWZWhrNEdGN0czVXFkUEVLVVRCLVV6Q0dxcXJ6QlgxOWdpRndocFotZ1NXUDA1Wk1NdlhqMXhxZmptXzhWRzFRWFgzZHpSZ1B6WDEyckxvX255R2xqSlNDMkFFb09nRUFZeDJuNDZzOUFjOFVKXzB4anNkZ25IcG0zUWRxOA?oc=5"
+          },
+          {
+            "label": "LinkedIn：AI might be the biggest tech revolution of our time. But what if the b",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU3JBR01lZkgzekg0Q1RlOEtISGcwYkVUb3kwVFF6Q3ZzZERnNHdYU0xwOXEwaUhnRFdvYlYwSFgxMmMtdUN1UksxYjhaU2k2UnJxU3lsQlNOSkNBVXdIQXMyTm94SE5VbnljaTlDNUhlcFFDQzlHWjZKSVNhd01XdUhMeGJmd1F5T3dJUUxKTWFTQi1hYmlVX0tCTDVudVpZZVlQZFZrMGlGc3FBT2gyeU5JYVdDS2JMSktUNWI4TGtBeFA3cVpBcw?oc=5"
+          }
+        ],
+        "source": "ycnews.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xbk9DTmZxcERLUkVOelFOR0ZWNEp1bmZuZDJIeGVNX2pKdHhTcERlbHNfUWRGNTlVc2FfVlB6allNdjcwRGpERjlocVE3Rzg0RmNsTV90M3BfeXBSUHplbQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260525-auto-1-bda66f",
         "title": "I Paid for Google'",
         "category": "AI新闻",
@@ -6779,6 +6895,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260526-auto-1-801eae",
+        "title": "五款国产AI App横评：DeepS",
+        "category": "AI使用教程",
+        "date": "2026-05-26",
+        "summary": "五款国产AI App横评：DeepSeek综合表现最佳，豆包修图优势明显 虎嗅",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "五款国产AI App横评：DeepS 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "五款国产AI App横评：DeepSeek综合表现最佳，豆包修图优势明显 虎嗅",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "五款国产AI App横评：DeepSeek综合表现最佳，豆包修图优势明显 虎嗅",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "虎嗅：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NXFmUzZDcmM4QkhEdnphWFlrcGg2b1VGNHpwZDVoNXV0X3BtOFJ5UXQ4eUhQQ3dyQ01kQW9ZNWthUzlILVdJMWZaellMWTFxZzdNcA?oc=5"
+          },
+          {
+            "label": "华尔街日报中文网：第一届“AI原住民”毕业了，企业准备如何对接？ - 华尔街日报中文网",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQcmNyN2oyQUd6UkpUZ0JMVWp4bXF6LU43NWxHRmJWLW11TTJ4aDBxV1k2cUgwVjdDZi0yOVlTQVJEREpfd0FwX3JNdXg4YlZXNmt6SnRmVDBJdVNnajRVakUyR3FfY28tOHd1Q2luMGsya19zOFFpRFhjZEEwWVlHdUhwN1BhUGRwUlhRRTV2bzQ4b1I1SHFfakY0VllmaE85RzVzQkg4c3Q0Uk9qMnJXU1NLVDVBd256UVUwaGU3QS1hbVVITjBtdngyNHV3ZGpIdzgzakVWa1lyMG8zZG10SFZtaVR0c3h2SnQtUkl2Nm1FTG1ORENxRHpqaS1NbXNheW5USHRIZml2elZ2akliT2U3ZHRvX0JwYWpaeEtMSzQ?oc=5"
+          },
+          {
+            "label": "智东西：年薪200万！Anthropic高薪招文科生 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMaWhRekNYT1ZMVVNlWUJEbEQwNjVlT1NFM3FYd1o3SXZRdm4wakdjLWVsVGxpU3l6QXlzM0lRTlJiSFdzOVE?oc=5"
+          }
+        ],
+        "source": "虎嗅",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54NXFmUzZDcmM4QkhEdnphWFlrcGg2b1VGNHpwZDVoNXV0X3BtOFJ5UXQ4eUhQQ3dyQ01kQW9ZNWthUzlILVdJMWZaellMWTFxZzdNcA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260525-auto-1-aab992",
         "title": "Codex「自我蒸馏」提示词进化版！",
         "category": "AI使用教程",
@@ -9591,6 +9765,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260526-auto-1-cb9f0a",
+        "title": "Perplexity Open-So",
+        "category": "开源项目",
+        "date": "2026-05-26",
+        "summary": "Perplexity Open-Sources Bumblebee to Scan Develope",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Perplexity Open-So 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Perplexity Open-Sources Bumblebee to Scan Develope",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Perplexity Open-Sources Bumblebee to Scan Develope",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenTools：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3pUeVNhV0dFUkFfY2Y1YS1DTFhHb1dUV215YUlKZ1kteUFKWlN2RjhQRllsM1VwMnZ4dW9SeURqeEQtUTB3N0R2UjluWGdTaHBXSHVBUndIM3pvektxa3c4UmVFTTc5ZEtaeVI5T2FfU2paS1VXWVdPNmpuTU1MZlFn?oc=5"
+          },
+          {
+            "label": "手机鳳凰網：OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 - 手机鳳凰網",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yQVZKY3htZlVVRFVmaUpmZG5yQkpob1FVaFE2S3pjWFp1aFg4b2xpbFhvblNVaE44UkdFYzBKano3STZ6TFRZWQ?oc=5"
+          },
+          {
+            "label": "Asia Times：Frontier isn’t the finish line in US-China AI rivalry - Asia Times",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeU0zNXU2X1JsWkxNZHdWbS1ZVy0tREpfd05ld1ZpWXBGcEZDN2FQbGtfZFZQQ09aTVlpWUFkekdsT2xQemwyX3BvMFQtUGNQZ2hNRUJKazdLc2xNZldkS1EwSWg0ZF9FTkI3SU9VbF9VWklUMGlrVUZyVldSZngxd1VQcElTZ0FHWENJ?oc=5"
+          }
+        ],
+        "source": "OpenTools",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3pUeVNhV0dFUkFfY2Y1YS1DTFhHb1dUV215YUlKZ1kteUFKWlN2RjhQRllsM1VwMnZ4dW9SeURqeEQtUTB3N0R2UjluWGdTaHBXSHVBUndIM3pvektxa3c4UmVFTTc5ZEtaeVI5T2FfU2paS1VXWVdPNmpuTU1MZlFn?oc=5"
+      },
+      {
+        "slug": "open-source-20260526-auto-2-abb4f0",
+        "title": "OpenHuman刷屏硅谷，开源、免",
+        "category": "开源项目",
+        "date": "2026-05-26",
+        "summary": "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 手机鳳凰網",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenHuman刷屏硅谷，开源、免 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 手机鳳凰網",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 手机鳳凰網",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机鳳凰網：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yQVZKY3htZlVVRFVmaUpmZG5yQkpob1FVaFE2S3pjWFp1aFg4b2xpbFhvblNVaE44UkdFYzBKano3STZ6TFRZWQ?oc=5"
+          },
+          {
+            "label": "OpenTools：Perplexity Open-Sources Bumblebee to Scan Developer Machines for Suppl",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3pUeVNhV0dFUkFfY2Y1YS1DTFhHb1dUV215YUlKZ1kteUFKWlN2RjhQRllsM1VwMnZ4dW9SeURqeEQtUTB3N0R2UjluWGdTaHBXSHVBUndIM3pvektxa3c4UmVFTTc5ZEtaeVI5T2FfU2paS1VXWVdPNmpuTU1MZlFn?oc=5"
+          },
+          {
+            "label": "Asia Times：Frontier isn’t the finish line in US-China AI rivalry - Asia Times",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeU0zNXU2X1JsWkxNZHdWbS1ZVy0tREpfd05ld1ZpWXBGcEZDN2FQbGtfZFZQQ09aTVlpWUFkekdsT2xQemwyX3BvMFQtUGNQZ2hNRUJKazdLc2xNZldkS1EwSWg0ZF9FTkI3SU9VbF9VWklUMGlrVUZyVldSZngxd1VQcElTZ0FHWENJ?oc=5"
+          }
+        ],
+        "source": "手机鳳凰網",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yQVZKY3htZlVVRFVmaUpmZG5yQkpob1FVaFE2S3pjWFp1aFg4b2xpbFhvblNVaE44UkdFYzBKano3STZ6TFRZWQ?oc=5"
+      },
       {
         "slug": "open-source-20260525-auto-1-4b8455",
         "title": "OpenHack: Open-sou",
