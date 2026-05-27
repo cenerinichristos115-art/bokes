@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260527-auto-1-252d35",
+        "title": "最高法拟完善AI司法规则",
+        "category": "AI新闻",
+        "date": "2026-05-27",
+        "summary": "最高法称将研究涉AI与数据产权司法保护文件。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "最高法拟完善AI司法规则 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月27日，围绕人工智能与数据产权的司法治理出现新进展，最高法释放出研究制定规范性文件的信号。",
+          "blocks": [
+            {
+              "heading": "政策信号与时间背景",
+              "paragraphs": [
+                "据公开报道，最高法表示将研究制定涉人工智能、数据产权司法保护的规范性文件。这一表态发生在AI应用快速扩张阶段，司法规则需求持续上升。",
+                "从时间点看，相关消息在5月27日集中发布，显示政策讨论与产业实践正在同步推进。对于企业和平台而言，合规边界有望进一步清晰。",
+                "规范性文件一旦落地，可能在责任认定、证据标准、数据权益分配等方面提供更明确指引，减少跨区域、跨场景案件中的适用分歧。"
+              ]
+            },
+            {
+              "heading": "对产业与企业的现实影响",
+              "paragraphs": [
+                "AI企业在模型训练、内容生成和数据调用环节，普遍面临知识产权与数据权属问题。司法口径的细化将直接影响产品设计与风控流程。",
+                "对金融、医疗、政务等高合规行业来说，明确的司法预期有助于推进AI项目落地，尤其是在外部审计、合同责任和争议解决方面。",
+                "中小企业则更关注合规成本。若形成统一的裁判思路和参考标准，企业可在项目早期进行风险前置，降低后续纠纷处理成本。"
+              ]
+            },
+            {
+              "heading": "与综合立法进程的衔接",
+              "paragraphs": [
+                "同日另有信息显示，相关部门提出加快推进人工智能健康发展综合性立法。司法规范与立法进程并行，体现出“规则供给”正在系统化。",
+                "从治理路径看，立法更多提供上位原则，司法规范则强化可操作性。两者结合，有助于形成从原则到执行的完整框架。",
+                "整体而言，2026年中国AI治理正从倡议阶段进入制度细化阶段。对市场主体来说，下一步重点将是把合规要求转化为可执行的内部制度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：最高法相关表态",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTdxa3AyUHdiOHI4R3FBWjl1OERsaHljblhzenQ4eDc3NlVUQm1NN1l4SlZHclBTOTZhZ1lJYjhpUkkzZlVORFFLSjJJMmRPTXM4aVNXRFpBWmJMLV9lNjFIVEdDeTJEcUZBcG5iMlBKMUoxUG9oOFZBYWpRaUh3SkFTcExhbWhzVERERA?oc=5"
+          },
+          {
+            "label": "大众网：同题报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5Q0RMUHU2bDNYMk5UelhaNHdrRXo2dEd6ZjNwUDZSakNqbk9yb2xBREVramp2b2ZOZGZaT2tuc1QyWDlTRWNLWVhFbVEzd296VDd3blVhODBFV1EtX0tTbEFhaERERTdFVXc?oc=5"
+          },
+          {
+            "label": "中国科技网：司法部立法进展",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NdDU0Qkp3SVowdlprODBuZmhsVDhBb1Y5RkNWV3lQMTJwUjdJQ2JsZ2JZRnppVDRlWVNJRGxCN0ZRSDN2aFhUWEdsUTVERXdJR0ZGN2lrTU5rQ3ZsdDhGNkxtUzJ4REQ4SDdEQzdhWDY?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTdxa3AyUHdiOHI4R3FBWjl1OERsaHljblhzenQ4eDc3NlVUQm1NN1l4SlZHclBTOTZhZ1lJYjhpUkkzZlVORFFLSjJJMmRPTXM4aVNXRFpBWmJMLV9lNjFIVEdDeTJEcUZBcG5iMlBKMUoxUG9oOFZBYWpRaUh3SkFTcExhbWhzVERERA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260527-auto-2-e186fc",
+        "title": "英伟达拟加码台湾投资",
+        "category": "AI新闻",
+        "date": "2026-05-27",
+        "summary": "报道称英伟达拟将对台年支出提高至1500亿美元。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达拟加码台湾投资 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月27日，市场关注英伟达被报道将显著提升在台湾地区的年度支出规模，相关动向被视为AI硬件供应链投资信号。",
+          "blocks": [
+            {
+              "heading": "消息核心与产业含义",
+              "paragraphs": [
+                "根据France 24题为“Nvidia to boost spending in Taiwan to $150 bn a year”的报道，英伟达被指将把在台湾的年支出提高至1500亿美元量级。",
+                "若该支出规划持续推进，意味着AI芯片、先进封装、服务器整机与上下游零部件协同可能进一步加强，区域制造能力将受益。",
+                "对全球AI算力市场而言，头部厂商的资本开支变化通常会传导至供需预期，并影响云服务、企业IT采购和模型训练成本结构。"
+              ]
+            },
+            {
+              "heading": "供应链与区域竞争格局",
+              "paragraphs": [
+                "台湾在半导体代工与封测体系中占据关键位置。更高的采购与合作投入，可能提升关键环节的产能利用率与交付稳定性。",
+                "同时，北美、东亚多地都在推动本地化算力与制造布局。头部公司对单一区域加码，也会促使其他地区加快产业配套与政策响应。",
+                "从企业层面看，服务器厂商、ODM、散热与电源企业可能在订单与技术路线方面获得更明确的中短期预期。"
+              ]
+            },
+            {
+              "heading": "对中国市场的观察点",
+              "paragraphs": [
+                "中国多地正推进“人工智能+”与实体产业结合，算力基础设施与行业应用并重。国际供应链变化将影响本地采购与合作策略。",
+                "产业界后续需要关注三类指标：上游芯片交期、整机系统成本、以及行业模型在金融制造等场景的部署节奏。",
+                "总体来看，资本开支信号与政策落地速度共同决定AI产业景气度。2026年下半年，硬件供给与应用需求的匹配度将是关键变量。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "France 24：英伟达对台支出消息",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGJ3TXFNcmRiNkpKaDdSTHMtV28yOGNDeWJPZnp1NGVXQWlFTzhFV3FCb2hmUnZjUnE4MjExNlpKNDFoY096QkRWTEJ6dVd1M2xQY3VRbzVSTTdoNXNyMWZsb042U2t6bk1Vd3JxdGRFLXlNQmFjTGFORm5wNlN5czZNVXo4d054eEJDTDNGMF9YLWZ5OGppd2gwdU92TWc?oc=5"
+          },
+          {
+            "label": "21财经：广东AI产业观察",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUDY3d3VfNTY4azhRSkpEZ1Naa0dYM01DWTJYNHE0YWFhVHdIcEJLLXpwd0tIb0JyU29xdThya0tWWHN0RkNTeklSYk5COFp4dWcta3UwVG5VMWZULWdJQTRlQXRkQlZoSW9xLTItYmNJb003cFNwc2ZTb21rcm5qaG4wNW9kRzZDbHhjNXZ3VQ?oc=5"
+          },
+          {
+            "label": "深圳发布：AI+能源布局",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iTVJ0dTRHZ0hrMmdaRmxxd0NpRXhVNFpzdDJNaE51cmpUMWowLVliVHIzNmppZi01YW9DVDFBeW9EVG5JUUx0VHk4RjJhdGdmS2RfQ2tvQlhGbVVSc0k2VzR0U1oxWXNhdEJxUEdOQVFWNGhILVRv?oc=5"
+          }
+        ],
+        "source": "France 24",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGJ3TXFNcmRiNkpKaDdSTHMtV28yOGNDeWJPZnp1NGVXQWlFTzhFV3FCb2hmUnZjUnE4MjExNlpKNDFoY096QkRWTEJ6dVd1M2xQY3VRbzVSTTdoNXNyMWZsb042U2t6bk1Vd3JxdGRFLXlNQmFjTGFORm5wNlN5czZNVXo4d054eEJDTDNGMF9YLWZ5OGppd2gwdU92TWc?oc=5"
+      },
+      {
         "slug": "ai-news-20260526-auto-1-e8f7dd",
         "title": "别上了营销短视频的当！排队人群、门店",
         "category": "AI新闻",
@@ -6895,6 +7011,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260527-auto-1-0995c5",
+        "title": "Copilot防泄露实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-27",
+        "summary": "围绕Copilot风险，给出企业可落地的防护步骤。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Copilot防泄露实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年5月27日前后的公开信息，Copilot类智能体已暴露出“间接提示词注入”和“敏感文件误外发”两类典型风险。下面给出一套可直接落地的企业使用教程，目标是在不暂停业务的前提下，先控风险、再保效率。",
+          "blocks": [
+            {
+              "heading": "第一步：先做资产与权限盘点",
+              "paragraphs": [
+                "先列出Copilot可访问的数据面：邮件、文档库、知识库、聊天记录、第三方连接器。将每类数据标记为公开、内部、敏感、严格限制四级，并明确“可被AI读取”与“可被AI生成引用”是两件事，需要分别配置。",
+                "按最小权限原则重建访问组。重点检查“历史继承权限”和“临时项目群权限”，这两类最容易让智能体读到本不该读取的文件。建议先从高风险部门开始，如法务、财务、人事和研发。",
+                "建立一份“AI可见性清单”并每周更新：新增知识库、离职账号移交、外包账号到期都要触发复核。没有清单就无法追踪风险边界，后续告警和审计也会失去参照。"
+              ]
+            },
+            {
+              "heading": "第二步：部署提示注入与外发防线",
+              "paragraphs": [
+                "对输入侧做规则过滤：拦截包含“忽略上文规则”“输出全部原文”“导出机密附件”等高风险指令模式，并对外部来源文档启用隔离解析。对“周报、会议纪要、网页复制文本”等常见载体要重点扫描隐藏指令。",
+                "对输出侧做敏感检测：在Copilot返回结果前，执行DLP检查，匹配客户信息、合同编号、源代码片段、密钥格式等规则。命中后不直接拒绝，可先返回脱敏版本并提示用户申请人工复核。",
+                "配置分级处置流程：低风险事件自动记录，中风险要求二次确认，高风险直接阻断并通知安全团队。这样可以避免“一刀切”影响正常办公，同时保留完整审计链路。"
+              ]
+            },
+            {
+              "heading": "第三步：建立可执行的日常操作规范",
+              "paragraphs": [
+                "给员工一套简明提问模板：先写任务目标、再写可用数据范围、最后写禁止输出项。例如“仅基于A项目公开资料总结，不引用合同正文，不输出客户姓名”。模板化可显著减少误泄露概率。",
+                "每周运行一次红队演练：安全团队模拟恶意提示、嵌入式注入和越权查询，记录是否被拦截、响应耗时、误报率。把演练结果映射到具体配置项，形成“问题-修复-复测”闭环。",
+                "设定三项运营指标持续跟踪：高风险阻断率、误拦截率、平均复核时长。若误拦截连续两周升高，优先优化规则精度；若复核时长过长，则增加分级授权人员，避免业务积压。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "微软Copilot风险报道（新浪财经）",
+            "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOdEFuN3VwQVBJVnpqMkNHUlQ5M0dfSEVmSFVvbWg2ODRYSlE0QXNsamJMeG5xY3N0Q1laLTVVd2JaVVdTWUFhLXBpa1VQM01WTXRPSGEwUzFVbGxfQW93NnFrckIzTXhIRERqLWRQdmh1NERZYV9iR3pxWS14aTdTV3VGUnNIZUhvU2ZVVmM5VG90bWdUeFRJSGFUMnhjZnJ3SnNnOTVsemNXRTJDQXhPYmR4VWdyY3NPTkg4RF9RVlQwSGNJcWFTMktOUkUwVXM5WURxS2VIS3A1V0NBeWdaemxTbHpUenY0X3c4Y3M0R0xHb09sRWt0YXFldTV6ang3LUVJQjdOb2tBVE9zdWxoOHkwU2FCcHRUMlRkenlUTFRPWm8wa2Nyc25FWWE3ZVpQU053ZE84eHZYSTBDVTJBZWdvRDBiQmpVMmNOUTJ2NWYyWmpEbUdVQXRYRVZjNExCd1F4SDBKakd2bW04elJVT01yempFTWpfbXlJMVlGZFV6Qk1tNUJsOVp5b05XWjExdm1nLU4xd28wVUxYcnFzX1Z0aDFVMjBpTWoxRkxobWl3MFJxNlJZOHd6RENyVVJvWndFMmRIMUx2WkxTbjhFS0NibXdFWjY5SzYzTmp0UzZXZ1V1c25aTV9Sa3A4SFlGWTZ3THpqb29VeU9qUy1oVjZHM1daZjA4RFJ1TllnR3dZUTJNcUhoNlZMSjVIdlpjS2F6YXY5Rjk?oc=5"
+          },
+          {
+            "label": "Copilot间接提示词注入风险",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIaHdqNXo1UjRqNzBUZ2lrVUhmZ3JLN3ZSMFFScnFoMEhWbTJib1lQRVVla2hxMnR3bE4yRjVsbFZnU1I3bGdMNE4xWlZRNGc?oc=5"
+          },
+          {
+            "label": "LLM风险管理框架（TechTarget）",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFF4UzZRamVhZkhtUV9jV1dUc2tVNE43T0tDckNGTUVHY1lpLWFJUDY4djNUckRBRE9LUjBoN1diTEoyWTNpdW1UeGtoMVB6dHJ2R2RFMGpaV3ZkalNJWkh4SmJOUHNmX0g2NU8yUlRrY1h5Ykw4M3JlenU5TWgtNjh0bzd5eGlWSHpzRGNoN0ttdTYx?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxOdEFuN3VwQVBJVnpqMkNHUlQ5M0dfSEVmSFVvbWg2ODRYSlE0QXNsamJMeG5xY3N0Q1laLTVVd2JaVVdTWUFhLXBpa1VQM01WTXRPSGEwUzFVbGxfQW93NnFrckIzTXhIRERqLWRQdmh1NERZYV9iR3pxWS14aTdTV3VGUnNIZUhvU2ZVVmM5VG90bWdUeFRJSGFUMnhjZnJ3SnNnOTVsemNXRTJDQXhPYmR4VWdyY3NPTkg4RF9RVlQwSGNJcWFTMktOUkUwVXM5WURxS2VIS3A1V0NBeWdaemxTbHpUenY0X3c4Y3M0R0xHb09sRWt0YXFldTV6ang3LUVJQjdOb2tBVE9zdWxoOHkwU2FCcHRUMlRkenlUTFRPWm8wa2Nyc25FWWE3ZVpQU053ZE84eHZYSTBDVTJBZWdvRDBiQmpVMmNOUTJ2NWYyWmpEbUdVQXRYRVZjNExCd1F4SDBKakd2bW04elJVT01yempFTWpfbXlJMVlGZFV6Qk1tNUJsOVp5b05XWjExdm1nLU4xd28wVUxYcnFzX1Z0aDFVMjBpTWoxRkxobWl3MFJxNlJZOHd6RENyVVJvWndFMmRIMUx2WkxTbjhFS0NibXdFWjY5SzYzTmp0UzZXZ1V1c25aTV9Sa3A4SFlGWTZ3THpqb29VeU9qUy1oVjZHM1daZjA4RFJ1TllnR3dZUTJNcUhoNlZMSjVIdlpjS2F6YXY5Rjk?oc=5"
+      },
+      {
         "slug": "ai-guide-20260526-auto-1-801eae",
         "title": "五款国产AI App横评：DeepS",
         "category": "AI使用教程",
@@ -9765,6 +9939,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260527-auto-1-fbf5da",
+        "title": "Vigolium开源漏洞扫描器发布",
+        "category": "开源项目",
+        "date": "2026-05-27",
+        "summary": "新开源漏洞扫描器面向安全巡检与持续评估。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Vigolium开源漏洞扫描器发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月27日，Vigolium作为开源漏洞扫描器进入公开视野。该项目聚焦资产安全巡检，面向需要持续发现风险的开发与运维团队。",
+          "blocks": [
+            {
+              "heading": "项目定位与主要用途",
+              "paragraphs": [
+                "从披露信息看，Vigolium定位于通用型漏洞扫描工具，目标是在开发、测试和生产前后提供统一的风险发现能力。",
+                "对团队而言，它可用于基础设施与应用层的例行扫描，帮助形成可重复的安全检查流程，而不是依赖一次性人工排查。",
+                "在开源生态中，这类工具的价值在于可自托管与可审计，适合对数据边界、扫描策略和执行环境有明确要求的组织。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地路径",
+              "paragraphs": [
+                "上手门槛预计主要在两方面：一是对漏洞管理流程的理解，二是将扫描结果接入现有CI/CD与告警系统。",
+                "对小团队，建议先从单项目或单服务开始，建立基线扫描与定期复扫，再逐步扩展到多仓库与多环境。",
+                "如果团队缺乏专职安全工程师，可先采用保守策略，优先处理高危与可复现问题，避免一次性引入过多低优先级告警。"
+              ]
+            },
+            {
+              "heading": "与当前安全AI趋势的关系",
+              "paragraphs": [
+                "近期多家机构公布了AI参与漏洞发现的进展，说明自动化安全检测正在从“可选项”走向“常规能力”。",
+                "Vigolium这类开源扫描器可与AI辅助分析形成互补：扫描器负责稳定、批量发现，AI负责解释与修复建议。",
+                "对企业实践而言，关键不是工具数量，而是形成闭环：发现、分级、修复、复验和审计留痕。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security 报道：Vigolium",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFBxNG5VdURzSVlyM0NHZUVkTG5NQ1VMT3JXVHlNYnNpWXVLUVdKbGpsNHhYVU9yWEF6Wi1LV0hiUUJNems3aVhvZVBYdUZnR28wOXpsampiajA5SFFLaVQxZ2UxZlFycjU1akZjUW5WbFZ5Sk5aSVJrS3lzdnFLODFOTlh5N0ZtU2Znc3ZHdw?oc=5"
+          },
+          {
+            "label": "Anthropic Mythos漏洞发现背景",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHFpejc2bG9QRlgwRERHVjM1YlR1M2xtV3JVS3BLQlhZOUgxY3A4RU1fVEVnSk9SeWhyMk1LRHBjVXlwVWFVSHN3c0VUS1lueVlJYlFuQ1pIUjE1Z08tYUJUM2JFWHZoMVFKcFIwTDZmZ2N0OVJqcG5CN2k0V2dUSmJXdlA?oc=5"
+          },
+          {
+            "label": "eWeek 关于开源安全缺陷统计",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaS1uMURZNXUtcUxUVWd3ci1wb01TeXN1MGZZSFdad1ZPQnFSYzVleHR1aGpnZkQ0SjctX1hzc2RHSEQwU21qVzZZU2N5OG1Eb0QyWFl0NThObVlvbkYyM2Z0NTBPZTdVVWNiZng4M2J6NzJ4?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFBxNG5VdURzSVlyM0NHZUVkTG5NQ1VMT3JXVHlNYnNpWXVLUVdKbGpsNHhYVU9yWEF6Wi1LV0hiUUJNems3aVhvZVBYdUZnR28wOXpsampiajA5SFFLaVQxZ2UxZlFycjU1akZjUW5WbFZ5Sk5aSVJrS3lzdnFLODFOTlh5N0ZtU2Znc3ZHdw?oc=5"
+      },
+      {
+        "slug": "open-source-20260527-auto-2-890b84",
+        "title": "ForgeTrain训练框架开源",
+        "category": "开源项目",
+        "date": "2026-05-27",
+        "summary": "面向生产训练流程，强调AI参与框架开发实践。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ForgeTrain训练框架开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月27日，ForgeTrain作为生产级训练框架开源信息受到关注。项目话题点在于“由AI编写”的开发方式，以及其在实际训练流程中的可用性。",
+          "blocks": [
+            {
+              "heading": "项目特征与应用场景",
+              "paragraphs": [
+                "ForgeTrain被描述为面向生产环境的训练框架，意味着其目标不仅是研究复现，还包括稳定调度、训练管理和工程化部署。",
+                "典型应用场景包括企业内部模型微调、行业模型持续迭代，以及跨团队协作下的训练任务标准化。",
+                "如果框架具备完善的日志、监控与任务编排能力，它在中大型团队中的价值会高于单机实验型工具。"
+              ]
+            },
+            {
+              "heading": "上手门槛与团队准备",
+              "paragraphs": [
+                "该类训练框架的门槛主要来自工程基础：需要具备容器化、资源调度、数据管线和模型版本管理经验。",
+                "对初次采用的团队，建议先以单模型、单数据域试点，验证训练吞吐、失败恢复和结果可追溯性。",
+                "若团队已有Kubernetes与MLOps基础，接入成本通常更可控；若基础较弱，应先补齐监控与数据治理环节。"
+              ]
+            },
+            {
+              "heading": "对开源AI工程生态的意义",
+              "paragraphs": [
+                "ForgeTrain的讨论点不仅是功能本身，也包括AI参与软件开发流程后，开源项目迭代方式可能发生变化。",
+                "从生态角度看，训练框架、集群调度和行业模型正在形成更紧密的分层协作，降低重复造轮子的概率。",
+                "对开发者而言，实际收益取决于文档质量、社区响应速度和与现有工具链的兼容程度。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：ForgeTrain开源消息",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3dCdFVNd0ZPYmxqQXBtT3ZSVkNHVnpLd2ZkZU1paGM0YkFOeFJnbjVWT09Qb0ZlUEF6a3hmUFM3eThxOVRpZWJtVUFLMjdoblV0eERKVS1KdWpaVkd1Q0FpdDZfM2dUMnNYOXNISnpGWkczX2FEMzdfZ1JIVW9iXzlRLVVEVHZx?oc=5"
+          },
+          {
+            "label": "OSCHINA：Koordinator v1.8发布",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Wkkybjl3MS13UUhVa2djTi1BT0djZ0JLVmkwb3dPc2dKSTV2MEhtTHRkZEhTdWpobVBPeHpzUm16S2luaWIwYTNXNTdvOHJYV3J0N1IySHI3SGUtbGhvR3ZDM24xZ1J6MlNuWg?oc=5"
+          },
+          {
+            "label": "China Daily：开源农业AI模型",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yamR4Q3VIbmpRMXpGUTFwOXBORnRZU1J5UzA0Nk13U1VYc0Y4UHh5T1JMMktNX3Vacmh5ZWEybkpQT1BqVkpPbU9HMzRjWFJrUHpzQjNvZG81VE5PeFBPTjJEUDRRSzN5Y1FqQ0tQVElXUjFfdEp4THNXSk9jUQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3dCdFVNd0ZPYmxqQXBtT3ZSVkNHVnpLd2ZkZU1paGM0YkFOeFJnbjVWT09Qb0ZlUEF6a3hmUFM3eThxOVRpZWJtVUFLMjdoblV0eERKVS1KdWpaVkd1Q0FpdDZfM2dUMnNYOXNISnpGWkczX2FEMzdfZ1JIVW9iXzlRLVVEVHZx?oc=5"
+      },
       {
         "slug": "open-source-20260526-auto-1-cb9f0a",
         "title": "Perplexity Open-So",
