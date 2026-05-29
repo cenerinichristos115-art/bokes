@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260529-auto-1-8433df",
+        "title": "人工智能板块早盘回调，关注人工智能E",
+        "category": "AI新闻",
+        "date": "2026-05-29",
+        "summary": "人工智能板块早盘回调，关注人工智能ETF易方达(159819)配置价值 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能板块早盘回调，关注人工智能E 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "人工智能板块早盘回调，关注人工智能ETF易方达(159819)配置价值 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能板块早盘回调，关注人工智能ETF易方达(159819)配置价值 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWllOVgzNnVHUkdQT1hxaFVpY19IWVRnTUVUendkV2NoaWZGcTNHOGYxUGxBT3Myb0pDRy1TY21nR2JkaGVvNk4yUW51OHRUb1ZHWGU3eTdqYXkyUUJtcXlTR2ZTUTJNYm4xaTY5clY1c1ZJYVUxaVVwS2k2YlU2NWE0aEZ2ZWk2?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Sam & Dario counter-stir the 'AI Fears' Pot. AI-RTZ #1101 - AI: Re",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oRlFxOWx5QVN0TjA3a3hIR2RRRmtoak1aQVpQT2xpN1RjVXRNVG04aGV4OGNZdkJINHlEMWxZM21lTkstRVljd2ktSTJvQ2xza09XdlR5T21RcmFtck5JZ0h4UWM3cF96dlNHaFctR24xU0JtSFN5aWJB?oc=5"
+          },
+          {
+            "label": "搜狐网：杨元庆：联想将在天津投建新一代AI算力产品研发制造中心 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXpISTQ1T0pBY2NGSGZfOU5veWpKd2lvend0dWFBSjRTQzNwYXZfMTQwYnZBSXZGblVoc1pWeGFOUFJrNzF1TzlUME5ZeHVSWnFsZVk0ajRuR2RFN0cwbW54OU5WaDY4b19MVFNpSjhOaWFjNnhHRFFQSE9nRjl0ZFVZX2tZeHV3?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWllOVgzNnVHUkdQT1hxaFVpY19IWVRnTUVUendkV2NoaWZGcTNHOGYxUGxBT3Myb0pDRy1TY21nR2JkaGVvNk4yUW51OHRUb1ZHWGU3eTdqYXkyUUJtcXlTR2ZTUTJNYm4xaTY5clY1c1ZJYVUxaVVwS2k2YlU2NWE0aEZ2ZWk2?oc=5"
+      },
+      {
+        "slug": "ai-news-20260529-auto-2-fe2f58",
+        "title": "AI: Sam & Dario co",
+        "category": "AI新闻",
+        "date": "2026-05-29",
+        "summary": "AI: Sam & Dario counter-stir the 'AI Fears' Pot. A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Sam & Dario co 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI: Sam & Dario counter-stir the 'AI Fears' Pot. A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Sam & Dario counter-stir the 'AI Fears' Pot. A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oRlFxOWx5QVN0TjA3a3hIR2RRRmtoak1aQVpQT2xpN1RjVXRNVG04aGV4OGNZdkJINHlEMWxZM21lTkstRVljd2ktSTJvQ2xza09XdlR5T21RcmFtck5JZ0h4UWM3cF96dlNHaFctR24xU0JtSFN5aWJB?oc=5"
+          },
+          {
+            "label": "搜狐网：人工智能板块早盘回调，关注人工智能ETF易方达(159819)配置价值 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWllOVgzNnVHUkdQT1hxaFVpY19IWVRnTUVUendkV2NoaWZGcTNHOGYxUGxBT3Myb0pDRy1TY21nR2JkaGVvNk4yUW51OHRUb1ZHWGU3eTdqYXkyUUJtcXlTR2ZTUTJNYm4xaTY5clY1c1ZJYVUxaVVwS2k2YlU2NWE0aEZ2ZWk2?oc=5"
+          },
+          {
+            "label": "搜狐网：杨元庆：联想将在天津投建新一代AI算力产品研发制造中心 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXpISTQ1T0pBY2NGSGZfOU5veWpKd2lvend0dWFBSjRTQzNwYXZfMTQwYnZBSXZGblVoc1pWeGFOUFJrNzF1TzlUME5ZeHVSWnFsZVk0ajRuR2RFN0cwbW54OU5WaDY4b19MVFNpSjhOaWFjNnhHRFFQSE9nRjl0ZFVZX2tZeHV3?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oRlFxOWx5QVN0TjA3a3hIR2RRRmtoak1aQVpQT2xpN1RjVXRNVG04aGV4OGNZdkJINHlEMWxZM21lTkstRVljd2ktSTJvQ2xza09XdlR5T21RcmFtck5JZ0h4UWM3cF96dlNHaFctR24xU0JtSFN5aWJB?oc=5"
+      },
+      {
         "slug": "ai-news-20260528-auto-1-b0aa96",
         "title": "25家能源企业共推AI场景",
         "category": "AI新闻",
@@ -7127,6 +7243,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260529-auto-1-d59539",
+        "title": "AI卷向电商治理！拼多多上半年出台",
+        "category": "AI使用教程",
+        "date": "2026-05-29",
+        "summary": "AI卷向电商治理！拼多多上半年出台 40 余项举措，高科技作弊成打击重点 article.9466.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI卷向电商治理！拼多多上半年出台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI卷向电商治理！拼多多上半年出台 40 余项举措，高科技作弊成打击重点 article.9466.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI卷向电商治理！拼多多上半年出台 40 余项举措，高科技作弊成打击重点 article.9466.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BalRtbVMwY2VKT0ZCU0JMdWdKOFlyVHRjSXJGT2NGalpxM00ydklQa2RhVW9DV1FVSzdIRWVPLVhsdFJKakdYOXJ4dUlUdDQ?oc=5"
+          },
+          {
+            "label": "article.9466.com：苹果用户稳了！腾讯上线Mac版电脑管家，首创AI安全沙箱专治Prompt攻击 - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PQjRqek54Mk1nREEwUk96eWFlNnBoMWRXMmhQSlNxc3VUemlybTVORTVKUTR0VFRqZHlyUUVJVWpsbWJKNmx4bFBkczFaalE?oc=5"
+          },
+          {
+            "label": "HackerNoon：How AI Coding Tools Can 10x Developer Productivity — Without Losing En",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVhOYlFsRzVqNXNfX0NaVE43QlowSUNUdjNHbElHb0NkNW0wbTFkbGJZRm0wTHc3QmlLNTVJVXdPTzZhbk1vU1B4d0NPS1RVS0JmVHI0U2tqTDBtLW1nZV9zTzRrNWxZcmpOLXZkYjIzUnU1WVZkMEc3bEQ4dlV3SjUxS3ZRXzBVWnF1NzhNZjRYZFlIWnJTRG9iRUZXTTBpZGtkYjFaeFU2a0xZMGc?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BalRtbVMwY2VKT0ZCU0JMdWdKOFlyVHRjSXJGT2NGalpxM00ydklQa2RhVW9DV1FVSzdIRWVPLVhsdFJKakdYOXJ4dUlUdDQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260528-auto-1-a915aa",
         "title": "用Superpowers做可靠AI编程",
         "category": "AI使用教程",
@@ -10113,6 +10287,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260529-auto-1-ed9332",
+        "title": "企业怎么让AI真正落地？私有化AI应",
+        "category": "开源项目",
+        "date": "2026-05-29",
+        "summary": "企业怎么让AI真正落地？私有化AI应用场景和平台选型 51CTO",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "企业怎么让AI真正落地？私有化AI应 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "企业怎么让AI真正落地？私有化AI应用场景和平台选型 51CTO",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "企业怎么让AI真正落地？私有化AI应用场景和平台选型 51CTO",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Q3FCQ283R3RuQW5xV0pXNnB5dWVQR1FabFNlUm5JbUFBLU5DbXlDLTdHc2UybDVQYXV2dHdtaXBLT2VnU0tlYlhzZG51clFib3hj?oc=5"
+          },
+          {
+            "label": "The Times of India：IBM invests $5 billion to protect open-source software from AI threats",
+            "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdVgwQ0hhb19xekpwMnNRS0tTS1dUNGxqR2NaenFzTnlROUxmeDcwbTFQdDVYRU9icHZxSVBjdGhNNnhOVU5CVmpMeG9iVm8wX2FSZjVyLXItRXdvd0xyRk1OazNtbmNHdzlfemVUTnd4Tm9IQUY3b19WUHI4YUNTaDRuMl9FdXRreVRfVThHUkViY1dFRmlEUzBtaEJUblo0cHpqSmpJMF95NWhfS2J4Z3Rnb0h1SjZuOG85ZkxOVlFfVVJpaDNpb3J2bmh6QXNHMEFHcmdEMC1LQW5iNHlZVU1SNl9fUHZneHcyemZhRlJXd0dmU1hsRXNhOXE0cnNPaHBtWWZSYXM0Zi1Rbmw0OGFGc1FwYjVVOG1uSWV2UzhsLTI1TFBhMWNaaHlkMmPSAbQCQVVfeXFMT1Z2SkZDWWhaaFNkeTl2SnR0TERWcWo3WjhPaVNXSWVFTDRfTGRKbVNyLTgyNlFBZDBpOFZFdFRLX0s5SzhwNk1BMkt0ZlVjNWtCWV9WUGNUX2VHbE5RVndFeUpFTzFkelQ5UE9YUUgzYWRTSzc2U2hTWFRxZmFkUnBUTFZjaW9NalpqQV9QYjZOQWV2REJNbS1LWGd3V1BBVEVHOEVmbFZyZWhGMWEwSHRjai1aNjZMX0YtOFhFaERtdmI3TXJ2QUd3cFRGemhvRGVOWElTb3VGcFNnRGlQTlkzNUJmSlhMLVdtTjZFRGc4NGZKeEtWWTFZZ1JBSUlPNXlSNVNaWVpBN2pUQ3Nsc2d1RFhSLXBBS2FLR2h1MEluZk5rUV9oX2FHWHlsOEl4dGhVNXQ?oc=5"
+          },
+          {
+            "label": "Let's Data Science：Powergentic Introduces Repeatable AI Developer Workflows - Let's Data ",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGl4QVRRcTJDa2dGaHgxdVB3VXQ4M2NUVGM0NDhhQjVxaDdkdUVtOVpNQ0x4S3Awc0w0MHdPNTBjdkRDR0lqODY0SWtsdGtiR3FPU1lxWjdleGV2TVhWNHhyNndSWEtsTzdZTXdwSEpfdFg5d2Q5cW5TZlh6YnV4NGpjd2tJeU1zcC1OTzJGRnROWWg1WjVqcGdkUlIxLTQ?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Q3FCQ283R3RuQW5xV0pXNnB5dWVQR1FabFNlUm5JbUFBLU5DbXlDLTdHc2UybDVQYXV2dHdtaXBLT2VnU0tlYlhzZG51clFib3hj?oc=5"
+      },
+      {
+        "slug": "open-source-20260529-auto-2-1bca5a",
+        "title": "IBM invests $5 bil",
+        "category": "开源项目",
+        "date": "2026-05-29",
+        "summary": "IBM invests $5 billion to protect open-source soft",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IBM invests $5 bil 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "IBM invests $5 billion to protect open-source soft",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "IBM invests $5 billion to protect open-source soft",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Times of India：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdVgwQ0hhb19xekpwMnNRS0tTS1dUNGxqR2NaenFzTnlROUxmeDcwbTFQdDVYRU9icHZxSVBjdGhNNnhOVU5CVmpMeG9iVm8wX2FSZjVyLXItRXdvd0xyRk1OazNtbmNHdzlfemVUTnd4Tm9IQUY3b19WUHI4YUNTaDRuMl9FdXRreVRfVThHUkViY1dFRmlEUzBtaEJUblo0cHpqSmpJMF95NWhfS2J4Z3Rnb0h1SjZuOG85ZkxOVlFfVVJpaDNpb3J2bmh6QXNHMEFHcmdEMC1LQW5iNHlZVU1SNl9fUHZneHcyemZhRlJXd0dmU1hsRXNhOXE0cnNPaHBtWWZSYXM0Zi1Rbmw0OGFGc1FwYjVVOG1uSWV2UzhsLTI1TFBhMWNaaHlkMmPSAbQCQVVfeXFMT1Z2SkZDWWhaaFNkeTl2SnR0TERWcWo3WjhPaVNXSWVFTDRfTGRKbVNyLTgyNlFBZDBpOFZFdFRLX0s5SzhwNk1BMkt0ZlVjNWtCWV9WUGNUX2VHbE5RVndFeUpFTzFkelQ5UE9YUUgzYWRTSzc2U2hTWFRxZmFkUnBUTFZjaW9NalpqQV9QYjZOQWV2REJNbS1LWGd3V1BBVEVHOEVmbFZyZWhGMWEwSHRjai1aNjZMX0YtOFhFaERtdmI3TXJ2QUd3cFRGemhvRGVOWElTb3VGcFNnRGlQTlkzNUJmSlhMLVdtTjZFRGc4NGZKeEtWWTFZZ1JBSUlPNXlSNVNaWVpBN2pUQ3Nsc2d1RFhSLXBBS2FLR2h1MEluZk5rUV9oX2FHWHlsOEl4dGhVNXQ?oc=5"
+          },
+          {
+            "label": "51CTO：企业怎么让AI真正落地？私有化AI应用场景和平台选型 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Q3FCQ283R3RuQW5xV0pXNnB5dWVQR1FabFNlUm5JbUFBLU5DbXlDLTdHc2UybDVQYXV2dHdtaXBLT2VnU0tlYlhzZG51clFib3hj?oc=5"
+          },
+          {
+            "label": "Let's Data Science：Powergentic Introduces Repeatable AI Developer Workflows - Let's Data ",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGl4QVRRcTJDa2dGaHgxdVB3VXQ4M2NUVGM0NDhhQjVxaDdkdUVtOVpNQ0x4S3Awc0w0MHdPNTBjdkRDR0lqODY0SWtsdGtiR3FPU1lxWjdleGV2TVhWNHhyNndSWEtsTzdZTXdwSEpfdFg5d2Q5cW5TZlh6YnV4NGpjd2tJeU1zcC1OTzJGRnROWWg1WjVqcGdkUlIxLTQ?oc=5"
+          }
+        ],
+        "source": "The Times of India",
+        "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQdVgwQ0hhb19xekpwMnNRS0tTS1dUNGxqR2NaenFzTnlROUxmeDcwbTFQdDVYRU9icHZxSVBjdGhNNnhOVU5CVmpMeG9iVm8wX2FSZjVyLXItRXdvd0xyRk1OazNtbmNHdzlfemVUTnd4Tm9IQUY3b19WUHI4YUNTaDRuMl9FdXRreVRfVThHUkViY1dFRmlEUzBtaEJUblo0cHpqSmpJMF95NWhfS2J4Z3Rnb0h1SjZuOG85ZkxOVlFfVVJpaDNpb3J2bmh6QXNHMEFHcmdEMC1LQW5iNHlZVU1SNl9fUHZneHcyemZhRlJXd0dmU1hsRXNhOXE0cnNPaHBtWWZSYXM0Zi1Rbmw0OGFGc1FwYjVVOG1uSWV2UzhsLTI1TFBhMWNaaHlkMmPSAbQCQVVfeXFMT1Z2SkZDWWhaaFNkeTl2SnR0TERWcWo3WjhPaVNXSWVFTDRfTGRKbVNyLTgyNlFBZDBpOFZFdFRLX0s5SzhwNk1BMkt0ZlVjNWtCWV9WUGNUX2VHbE5RVndFeUpFTzFkelQ5UE9YUUgzYWRTSzc2U2hTWFRxZmFkUnBUTFZjaW9NalpqQV9QYjZOQWV2REJNbS1LWGd3V1BBVEVHOEVmbFZyZWhGMWEwSHRjai1aNjZMX0YtOFhFaERtdmI3TXJ2QUd3cFRGemhvRGVOWElTb3VGcFNnRGlQTlkzNUJmSlhMLVdtTjZFRGc4NGZKeEtWWTFZZ1JBSUlPNXlSNVNaWVpBN2pUQ3Nsc2d1RFhSLXBBS2FLR2h1MEluZk5rUV9oX2FHWHlsOEl4dGhVNXQ?oc=5"
+      },
       {
         "slug": "open-source-20260528-auto-1-eb18ab",
         "title": "Linux基金会发布DNS-AID",
