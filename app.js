@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260530-auto-1-da7841",
+        "title": "EAEU通过AI与贸易倡议",
+        "category": "AI新闻",
+        "date": "2026-05-30",
+        "summary": "欧亚经济联盟领导人支持AI发展并推进新贸易合作。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "EAEU通过AI与贸易倡议 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年5月30日，欧亚经济联盟相关会议释放出“AI发展与贸易协同推进”的政策信号，显示区域经济治理正在把数字能力纳入新一轮合作框架。",
+          "blocks": [
+            {
+              "heading": "会议信号与政策定位",
+              "paragraphs": [
+                "据The Astana Times报道，EAEU领导人已就AI发展与新的贸易倡议表达支持。这一表态意味着AI不再仅被视为技术议题，而是被纳入区域产业升级与跨境协作的政策工具箱。",
+                "从区域合作逻辑看，AI议题与贸易议题同步推进，有助于在标准、数据流通和产业配套上形成联动。对成员经济体而言，这种联动安排可能降低新技术落地的制度摩擦。",
+                "在全球主要经济体普遍加快AI政策布局的背景下，EAEU的动作体现出“以区域机制回应技术竞争”的思路，重点是通过合作框架提升成员国在数字经济中的协同效率。"
+              ]
+            },
+            {
+              "heading": "对产业与企业的现实影响",
+              "paragraphs": [
+                "对跨境制造、物流与贸易服务企业来说，区域层面的AI共识可能带来更明确的预期，包括数字通关、供应链可视化与智能风控等场景的推进空间。",
+                "如果后续配套细则明确，企业在部署AI应用时可能更容易进行多市场复制，尤其是在合规接口、数据治理和技术认证等环节减少重复投入。",
+                "与此同时，政策落地节奏仍取决于成员国之间的执行协调。企业短期内更应关注试点项目、行业标准和监管口径变化，以便将投资重心与政策窗口保持一致。"
+              ]
+            },
+            {
+              "heading": "与全球政策趋势的对照",
+              "paragraphs": [
+                "同日其他地区也在推进AI治理议程，例如围绕AI对就业与经济结构影响的行政措施，以及学术与产业界共同提出的治理倡议，反映政策层面正在从原则讨论走向执行安排。",
+                "与单一国家政策不同，EAEU此类区域性倡议的特点是强调跨境协调，重点在贸易便利化与技术合作并进，这可能形成不同于国内政策工具的治理路径。",
+                "对市场参与者而言，2026年的一个重要观察点是：区域组织能否把政治层面的共识转化为可操作的标准、项目和投资机制，从而真正影响产业链布局。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Astana Times 原文",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3BWamxpX2I4d0xRYkFYd0ZjdkoxaFlaM0xTaXRrSjhOakI0QWZ1aHpMekx2YWZhcncybzFsX1NyOTZqNjl4bHJVN3l2X2F3ajNUOXFYMkRCTG1EaFFzYmtCRW5EanVwbExBczktTkZKUTdqSEhSR091eXRvMHgxX2N5TGNjbFpMSFA2OTlsMWUwWTd2WmJvM0N3?oc=5"
+          },
+          {
+            "label": "加州AI经济影响行政令",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0RfcGNSVDZoV01yQVBKYVFodEhwcWNQTk14WExsSW9FV0hMaXFGZEJ1TV91MWZFUXdxdWUtS2JmLWhZOUV3RWxWZXkxT2k4Um1WRzJXeWotV09uNFh4VWlIdE51LTgyX1FYZTY4elR3RzhBcVFGcElRbFdTUlB1UzNrQVdPTU0?oc=5"
+          },
+          {
+            "label": "IDAIS伦敦宣言消息",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jY093NlI0QjNONnlSZW5FSmR5a09pMmN1Wmc0Z19fbXA3RDZ0MHU5emIwckR3WjM3S3pGVlZwc21KZGw2Rk5WVA?oc=5"
+          }
+        ],
+        "source": "The Astana Times",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd3BWamxpX2I4d0xRYkFYd0ZjdkoxaFlaM0xTaXRrSjhOakI0QWZ1aHpMekx2YWZhcncybzFsX1NyOTZqNjl4bHJVN3l2X2F3ajNUOXFYMkRCTG1EaFFzYmtCRW5EanVwbExBczktTkZKUTdqSEhSR091eXRvMHgxX2N5TGNjbFpMSFA2OTlsMWUwWTd2WmJvM0N3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260530-auto-2-91938f",
+        "title": "内蒙古上线绿色算力AI平台",
+        "category": "AI新闻",
+        "date": "2026-05-30",
+        "summary": "呼和浩特上线绿色算力全栈AI平台，配套词元交易机制。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "内蒙古上线绿色算力AI平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年5月30日，呼和浩特宣布上线“绿色算力全栈AI平台”及词元交易平台，事件聚焦算力供给、交易机制与地方产业集聚的结合。",
+          "blocks": [
+            {
+              "heading": "项目上线的核心信息",
+              "paragraphs": [
+                "根据候选报道，该项目被定位为“绿色算力全栈AI平台”，并同步推出词元交易平台。这类组合显示地方在建设AI基础设施时，开始把资源供给与市场化配置同时纳入设计。",
+                "“全栈”定位通常覆盖算力、模型工具链和应用接口，若后续配套完善，有助于缩短企业从算力采购到应用部署的路径，提高中小团队的接入效率。",
+                "在当前行业阶段，算力平台不仅是技术设施，也承担产业组织功能。通过交易化机制引导资源流动，地方可尝试提升算力利用率并优化供需匹配。"
+              ]
+            },
+            {
+              "heading": "对产业链与商业模式的意义",
+              "paragraphs": [
+                "绿色算力强调能效与可持续成本，这与AI大规模训练和推理需求形成直接关联。对于使用方而言，稳定且可预测的算力成本是评估项目可行性的关键变量之一。",
+                "词元交易平台若形成透明定价和标准化服务，可能推动“按需购买、弹性使用”的新模式，降低企业前期重资产投入，提高产业链协同弹性。",
+                "从生态角度看，平台化能力通常会吸引模型服务商、应用开发者和行业集成商聚集，带动本地形成从基础设施到行业应用的多层次市场。"
+              ]
+            },
+            {
+              "heading": "地方竞速与后续观察点",
+              "paragraphs": [
+                "近期多地密集发布AI应用场景和产业对接活动，显示地方政策已从概念倡导转向项目化推进。内蒙古此次上线项目，处于这一全国性节奏之中。",
+                "后续观察重点包括：平台实际入驻企业数量、交易活跃度、单位算力能耗表现，以及对制造、政务、能源等本地重点行业的渗透深度。",
+                "若平台能够持续输出可量化成果，其价值将不仅体现在技术展示层面，更体现在形成可复制的产业组织方式，为区域AI基础设施建设提供参考。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：平台上线消息",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3JBTktrTDdRLXNoTDFoYkdSOE5Pck12T0tCRkdXUjlCeEdTYi1WekFBLXVIWDA4eHFnalNfV3dFVWNDMjNNOE12WUFwVkVodS1sc2t1Zm9sTU83c1FWNkphMFJSTmgyTFl4REI5cDZ6WG15TGNIMnFoZEVRMlEzZzFpVE9oZnNXYjUzWQ?oc=5"
+          },
+          {
+            "label": "天津发布AI应用标杆场景",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR1NDZ0N3TUI2MGM2N1M1aURoNmZ5S2cyTzhXMHRjYUpDMC11cmt1eHRQZjhFTHQ5M004NEpHX2RHZUtqQm9qOVJIYThwU1dYSWRSWGZYNHNSTnZmMnZNZG9CeVlxMGVsRjEtdTYwRU1BSndSMzRrTHVMMEdscnhGTGdB?oc=5"
+          },
+          {
+            "label": "青岛AI产业对接大会",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Rc0h5TTlJOVg3QWxXZUZlZkU4aFFyLVA2NGhFYV9uXzNGYU0tYVlyaV9Xdml0TmNJQ1Q3SEFPSV8xc2gxWTJ1amlGaFpUSkt1V01QdWI2aTFpak9uN2NjRnEzaUFQcVRBb29WT0RlYnA?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd3JBTktrTDdRLXNoTDFoYkdSOE5Pck12T0tCRkdXUjlCeEdTYi1WekFBLXVIWDA4eHFnalNfV3dFVWNDMjNNOE12WUFwVkVodS1sc2t1Zm9sTU83c1FWNkphMFJSTmgyTFl4REI5cDZ6WG15TGNIMnFoZEVRMlEzZzFpVE9oZnNXYjUzWQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260529-auto-1-8433df",
         "title": "人工智能板块早盘回调，关注人工智能E",
         "category": "AI新闻",
@@ -7243,6 +7359,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260530-auto-1-15fa62",
+        "title": "提示词进阶实操指南",
+        "category": "AI使用教程",
+        "date": "2026-05-30",
+        "summary": "基于10条提示词技巧，给出可直接执行的提效流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "提示词进阶实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-05-30，通用大模型在写作、分析与办公场景的可用性持续提升，但结果稳定性仍取决于提示词设计。下面提供一套可落地的教程，围绕“目标定义—结构约束—迭代复盘”三步，帮助你在ChatGPT、Claude、Gemini等工具上获得更一致输出。",
+          "blocks": [
+            {
+              "heading": "第一步：先写任务卡，再发第一轮提示",
+              "paragraphs": [
+                "先用1分钟写一张任务卡，至少包含4项：目标读者、输出形式、长度上限、完成时限。例如“面向市场团队，输出600字周报草稿，15分钟内可改完”。没有任务卡时，模型容易给出泛化内容。",
+                "把任务卡转成首条提示词，建议使用固定句式：你是谁、要做什么、按什么格式、不要什么。示例：你是B2B内容编辑，请生成一份三段式周报，含数据位占位符，不要使用夸张措辞，不确定信息标注“待核实”。",
+                "首轮不要追求一次到位，而是先拿到“可评审草稿”。评审标准建议只有3条：是否对题、是否可执行、是否可直接复制到文档。先筛方向，再做细化，整体效率高于反复重写首条提示。"
+              ]
+            },
+            {
+              "heading": "第二步：用结构化约束提升稳定性",
+              "paragraphs": [
+                "给出明确输出模板，比只说“写得专业一点”更有效。可直接要求：输出为JSON或分级标题，每段不超过80字，必须包含“结论、步骤、风险”。格式约束会显著降低跑题和冗余。",
+                "补充边界条件来控制质量：信息不足时先提3个澄清问题；引用数据必须标注来源位置；无法确认的结论禁止断言。这样可以减少“看起来完整但不可用”的内容，尤其适合报告与方案类任务。",
+                "采用少样本提示：提供1个你认可的短样例，让模型对齐语气和结构。样例不需要长，但应覆盖关键特征，如客观语气、行动动词、编号步骤。对跨模型迁移时，少样本比抽象描述更稳定。"
+              ]
+            },
+            {
+              "heading": "第三步：三轮迭代与复盘清单",
+              "paragraphs": [
+                "建议固定三轮：第1轮产出框架，第2轮补证据与细节，第3轮做压缩与校对。每轮只改一个维度，避免同时要求“更短、更全面、更口语”，否则模型会出现目标冲突。",
+                "建立复盘清单并量化：准确性（1-5分）、结构完整度（1-5分）、可执行性（1-5分）、修改成本（分钟）。连续记录一周后，你会发现高分提示词的共性，可沉淀为团队模板库。",
+                "最后做部署建议：把高频任务拆成“模板+变量”。模板保存固定指令，变量只填主题、受众、时长、字数。这样新人也能快速上手，且便于在2026年的多模型环境中统一交付质量。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TechRepublic: 10 AI Prompting Tips",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHBKWEFGWHVmOFEwXzRJVlY2M05JMzU1Z1kyU2hEUURwejMyeDVWMWttcXc5RkI4cko1NEpDNzFwd0JvbUtseUJoWXBhZHJuaEpvSmtGczJob2Zoc3BLX2dQdnRFaDFIUGt2WlZNQTFHUmlZYVpvcTAxM2pPZ2JwcEZaWk5uWC13X2MyTXM1TGU?oc=5"
+          },
+          {
+            "label": "Analytics Insight: 10 AI Prompting Tips",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0ZqTkNFUWVxS3NXQVM0bnFmb0JWcXhXcnItRHJFOW5sY0o0VFRlM1FjcjV1U0loS1lTVk84ZDNrODdtb2dZRG5ta1JlOWRUWkJ3OFFoc3c4UmRBR0drV0toa3hXTmJxQXNkRDJ4Z3NLcWt1VFR1SVhNNXB3WktNbW14MlJnSndUM1JOcEV0aUZMWklGZS1rZ1BuQ1pwZlYwR1FKWlNTN3Y0ZENMSmh5UzdPU1BwZDFkalRoeFdyNNIBzAFBVV95cUxObl80ZnBaZHBEWEJfNjgtSkx0bHRpVkYxZUxuMnZyYm5OdDVHYlJEOVVRU1BPQlc0eHRnaXpQb2J5NWNQcS1CcmNKYzdCVmQ3VWppYnpZNU1EbVphQThUMmFMOFVlcmx3RF8zTWdYcFFMbDBvN0dnUG5FdUV0VUJLVG5WVjlqYW5uWHdFWll5NkFKYzYzV2ZEaGliUFFndXc4X0FTeUd5R3I2Yk9laUNYU2JlXy1wRnpkMnl6UGhGRm1LY2lVOFh5OC16U3I?oc=5"
+          },
+          {
+            "label": "中华网科技: 新手作者更需流程引导",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83SGJEUG5nTkRZZG5ySDF6ZW9JQnJmSFZ4UnlzQnhVNmxwR3BNWW1PUVV1YktQZVowSkZoZTRWSTRuQm9DUFRTWHJKTkJjN0VzYlhMSFNmSDliX2RrWE43dEk3aW9yc0l1MUxhVWFn?oc=5"
+          }
+        ],
+        "source": "TechRepublic",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHBKWEFGWHVmOFEwXzRJVlY2M05JMzU1Z1kyU2hEUURwejMyeDVWMWttcXc5RkI4cko1NEpDNzFwd0JvbUtseUJoWXBhZHJuaEpvSmtGczJob2Zoc3BLX2dQdnRFaDFIUGt2WlZNQTFHUmlZYVpvcTAxM2pPZ2JwcEZaWk5uWC13X2MyTXM1TGU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260529-auto-1-d59539",
         "title": "AI卷向电商治理！拼多多上半年出台",
         "category": "AI使用教程",
@@ -10287,6 +10461,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260530-auto-1-5d175d",
+        "title": "ControlFoley开源发布",
+        "category": "开源项目",
+        "date": "2026-05-30",
+        "summary": "小米开源可控视频音效生成模型，面向内容创作流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ControlFoley开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月30日，小米开源了可控视频音效生成模型ControlFoley，信息显示其定位是把视频画面与可编辑控制信号结合，用于自动生成或替换音效素材。",
+          "blocks": [
+            {
+              "heading": "项目更新与定位",
+              "paragraphs": [
+                "从已披露信息看，ControlFoley是一项面向“视频到音效”场景的开源模型更新，重点在“可控生成”，而不仅是一次性自动配音。",
+                "这类模型主要服务短视频、动画、游戏预演与后期制作团队，目标是减少手工检索素材、逐轨剪辑和反复试音的时间。",
+                "与传统音效库流程相比，开源发布意味着开发者可以在本地或私有环境做二次开发，更容易接入现有内容生产工具链。"
+              ]
+            },
+            {
+              "heading": "用途与上手门槛",
+              "paragraphs": [
+                "对内容创作者而言，最直接用途是为无声片段补充脚步、环境、碰撞等拟音，或在版本迭代时快速替换音色和风格。",
+                "上手门槛主要在三方面：需要基础Python与推理框架经验、需要可用GPU资源、需要理解视频时间轴与音频后期的对齐流程。",
+                "如果团队已有AIGC工程基础，通常可先从单段视频离线生成做验证，再逐步扩展到批量处理和编辑器插件集成。"
+              ]
+            },
+            {
+              "heading": "落地建议与注意事项",
+              "paragraphs": [
+                "落地时建议先设定可量化指标，例如音画同步误差、人工返工率和单条视频制作时长，以判断模型是否真正降低制作成本。",
+                "在数据与版权环节，应明确训练与生成素材的授权边界，尤其是商用场景中的背景音、拟音包和人物相关音频元素。",
+                "对于准备长期使用的团队，可优先建立“人工审核+自动生成”双轨流程，避免在关键发布内容中完全依赖自动结果。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA原文",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1raXZyQnhDTktwRXhmdmR4cG55OWhQVWVIVWJzdnp3RGhnejJobmdLX1dhQkhYLTM3MnJxdGRvUDM0WHJjRDRIb1FtMA?oc=5"
+          },
+          {
+            "label": "Transformers.js浏览器NLP实践",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1c5TkRVUmZ4LVJwdlFIcGE1aEMzekJPMlVrVWU4RTJoN0NNVV9iTXBaeXNiNW82QjBVT280YnBxOEc4YTdBZkR2ekxzNjB4WVE5V2lUdXF6cHoyY1FUbW90TlF6MkxrQWlRS3BjeFB5cG8xbHY3RWhyUWFRVHV0MQ?oc=5"
+          },
+          {
+            "label": "OpenHuman相关报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0yQVZKY3htZlVVRFVmaUpmZG5yQkpob1FVaFE2S3pjWFp1aFg4b2xpbFhvblNVaE44UkdFYzBKano3STZ6TFRZWQ?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1raXZyQnhDTktwRXhmdmR4cG55OWhQVWVIVWJzdnp3RGhnejJobmdLX1dhQkhYLTM3MnJxdGRvUDM0WHJjRDRIb1FtMA?oc=5"
+      },
+      {
+        "slug": "open-source-20260530-auto-2-8c95b6",
+        "title": "Step 3.7 Flash发布",
+        "category": "开源项目",
+        "date": "2026-05-30",
+        "summary": "StepFun推出198B MoE视觉语言模型，聚焦编码代理与搜索流程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Step 3.7 Flash发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年5月30日，StepFun发布Step 3.7 Flash，定位为198B参数规模的MoE视觉语言模型，重点覆盖编码代理与搜索工作流两类应用。",
+          "blocks": [
+            {
+              "heading": "此次发布的核心信息",
+              "paragraphs": [
+                "公开信息强调该版本面向“Coding Agents and Search Workflows”，说明其目标并非通用聊天，而是更偏向工具链执行与任务分解。",
+                "MoE架构通常通过稀疏激活控制推理成本，在保持大模型能力的同时，争取更高吞吐与更低单位任务延迟。",
+                "视觉语言能力的加入，意味着模型可处理截图、界面片段或图文混合输入，适合开发和运维中的跨模态排错场景。"
+              ]
+            },
+            {
+              "heading": "适用场景与门槛评估",
+              "paragraphs": [
+                "在编码代理场景中，可用于代码阅读、重构建议、报错定位和文档补全，尤其适配需要多轮上下文保持的工程任务。",
+                "在搜索工作流中，可作为检索增强模块，对结果做重排、摘要和行动建议，减少人工在多来源信息间切换的成本。",
+                "上手门槛集中在算力预算、API或部署接口适配、以及评测体系建设，团队需要准备离线基准和线上灰度策略。"
+              ]
+            },
+            {
+              "heading": "企业接入建议",
+              "paragraphs": [
+                "建议先从单一流程试点，例如代码审查助手或内部知识检索，再根据准确率与响应时延决定扩展范围。",
+                "对于高风险环节，应保留人工确认节点，特别是自动改代码、执行命令和生成外部可见内容的步骤。",
+                "从长期看，若要稳定落地，需同时建设提示词规范、观测指标和回滚机制，避免模型升级影响既有业务流程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost原文",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzRyUFd1ci14MzFobmprMy1FUTN4Yk1OTVVtbXBjTGRuaU9WeHhrbHFKTkd5Zzg3Z0ViYmE3SUJtVEFjOHpmdWlQNG5SZ21vN1B2ZC1CWlRVamdEVFlKSEVWdDczTHVBU0gwT1RDZVliVDF6dndZNERTV2JORnd3R21kQVlNVVhQVG0yVUYzcnhFN1VnWkdsSFJQZFdHWVNncUZ1MGxLQWJMNG5uSHdlQlhhRjdPYmZ1MmlJS1RGdEx6Q1B3TGlqZjhRQVZlWkdXeFRJSHNoYVE0YkFR?oc=5"
+          },
+          {
+            "label": "AI编程全局视野项目报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYzljdEl0aUs1dFYwQTI5NXhOWmppcEZ3eVpUR0dkZ0IwN0VFWGVQZm5jQmZnemdreDRWbXJ4RDZwenhXOFltdUVwQ1FwclBscjZ0N3lWbkxsU1VBd3NNeGRYdlZSUnlTdGd5SU5sUHRZRGg4OExHOTJ4ZHV1MzYxd19kZ25KQXA3?oc=5"
+          },
+          {
+            "label": "腾讯Hy3推理模型使用排行",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3VNOHJ3MjZKU3p3WEsySTN5Vl94dWIxd0U3bjBOZ2xzZC1MOENnNnJHVUo3ZFpUX1phanU0aTBCOWNGTVlYWi1hOGNjdmFmb3FYYllJSEZfZkhUc2s3Q3F6SGdmSkNSQmtpUXIzTVJkcFBKb3hJM1QxRkpsR3RBc2hnaUQ2cTQ?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVzRyUFd1ci14MzFobmprMy1FUTN4Yk1OTVVtbXBjTGRuaU9WeHhrbHFKTkd5Zzg3Z0ViYmE3SUJtVEFjOHpmdWlQNG5SZ21vN1B2ZC1CWlRVamdEVFlKSEVWdDczTHVBU0gwT1RDZVliVDF6dndZNERTV2JORnd3R21kQVlNVVhQVG0yVUYzcnhFN1VnWkdsSFJQZFdHWVNncUZ1MGxLQWJMNG5uSHdlQlhhRjdPYmZ1MmlJS1RGdEx6Q1B3TGlqZjhRQVZlWkdXeFRJSHNoYVE0YkFR?oc=5"
+      },
       {
         "slug": "open-source-20260529-auto-1-ed9332",
         "title": "企业怎么让AI真正落地？私有化AI应",
