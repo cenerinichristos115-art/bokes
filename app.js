@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260531-auto-1-8eb49b",
+        "title": "软银拟投法国AI中心",
+        "category": "AI新闻",
+        "date": "2026-05-31",
+        "summary": "软银计划加码法国AI基础设施，或延续其全球算力布局。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "软银拟投法国AI中心 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年5月31日，北京时间，软银被报道计划投资法国AI中心，显示国际资本仍在围绕算力与基础设施加速布局。",
+          "blocks": [
+            {
+              "heading": "投资动向与时间背景",
+              "paragraphs": [
+                "The Times of India消息称，软银在与OpenAI相关动作之后，正计划将投资延伸至法国AI中心。这一时间点与欧洲推动本地AI能力建设的政策窗口基本重合。",
+                "从产业节奏看，2026年上半年全球AI投资重点正由模型发布转向算力、数据中心与应用落地，资本更关注可持续供给能力与区域合规环境。",
+                "在北京时间2026年5月31日的发布语境下，该动向可被视为跨区域AI基础设施竞赛的一部分，核心是提前锁定未来训练与推理资源。"
+              ]
+            },
+            {
+              "heading": "对产业链的潜在影响",
+              "paragraphs": [
+                "若投资最终落地，最直接受益环节可能包括数据中心建设、服务器与网络设备采购、能源管理以及本地运维服务，形成较长的建设与采购周期。",
+                "对法国及周边市场而言，新增AI中心有助于提升本地企业获取算力的稳定性，并降低跨境调用带来的时延与合规成本，尤其在金融、制造和公共服务领域更为明显。",
+                "对全球资本市场而言，这类项目通常被视为中长期投入，回报节奏与上座率、客户结构和电力成本密切相关，短期估值叙事将逐步回归运营指标。"
+              ]
+            },
+            {
+              "heading": "政策与风险观察",
+              "paragraphs": [
+                "AI基础设施扩张正在同步面临更严格监管。候选信息中提到犹他州收紧AI数据中心规则，反映地方政府对能源、用地与社区影响的审查趋严。",
+                "欧洲市场同样重视数据主权、隐私与能耗约束，投资方需要在选址、电力采购、碳排管理和合规认证方面提前完成方案设计。",
+                "综合来看，软银若推进法国项目，关键不只在资金规模，更在于其能否在监管要求与商业效率之间建立可复制的运营模型。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "软银拟投资法国AI中心报道",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWNrelhLV1VmdWExQXQ2aUp1enRHdTY5Wmw4LV9VTGU3MlQ3WDIzSXRCTnM1OEZfVVZaNVp0OVNKcHlQdFBwVVhHdU5nd0JuY25BYVUwU0doU3dzUk9PY3pXc3hnVlhhOWpDeXFJaUJwcTBuOU1iVHZhWnVsSXVoUTN0M216RktDUzBkcTNJblpMYzVjVU40RW0tVlBkOVZwSERxMnh3ZzRVN2g3cGUzVmhtd3dvRS10U0lNNndRYkRZOHB1YTdGa2xrQkJtVkhKSGhzYnhYdjMzd9IB3wFBVV95cUxObW5vZVludmctVnZXaC1OZzI1OFZ3UTRfcDNCNUNPLW94YkNDSTk4RFZINGpOVG5GQjZ6RHlrblhkUTAyeXpCODVzWXpoSUZ3cnE0ckNpVm1XUzVubk5VQUxuRWlCdXJ6ajBYWHJKS3N0MUJNblB2UHR2WEFwQ2c1NVMwNXFSb1RpQXdiLXlCVlpOTDBMYzJERkg1WTZJQVNIbW5WZ1FVb0g0c0UtM1VfRk1yVWxBN3EtS29oUVpZZXMzck1nMEtZRkJfaEJwbHpQeDloN1Z0QjdrMHgweGQw?oc=5"
+          },
+          {
+            "label": "犹他州收紧AI数据中心规则",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGwtZ09aa3RlYXBsUVZtdTdLTGd3bkZneG5pWDZ1MDhaeUpQdmhMVkY0dEtYZFUyWFVjQ2w3MG14UmVMUlhEWkp5dXdXWGNsWE1LNFY5TUpKU1BTeFhoejU4WUJSQmhkX2JoY0YxUnJoNXIzQ24ydDExVHZiSW41REN3?oc=5"
+          },
+          {
+            "label": "上海推进AI赋能高端装备",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzZiR1U4SXNHRW1PQllybG5LZ0xxalFDd2VLRk53ZTdiMHJGTUFIdDNjNEQzOHBCZGZuaWQxMHpNMy1WeUxWTF9pRDVyUi1FdkNjX3I3eUhXczNHd3pjWjV2NjBGVzUtdUpkY3dqVl8wWWdqNmdCR0ZhdUVwT19xWmxR?oc=5"
+          }
+        ],
+        "source": "The Times of India",
+        "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWNrelhLV1VmdWExQXQ2aUp1enRHdTY5Wmw4LV9VTGU3MlQ3WDIzSXRCTnM1OEZfVVZaNVp0OVNKcHlQdFBwVVhHdU5nd0JuY25BYVUwU0doU3dzUk9PY3pXc3hnVlhhOWpDeXFJaUJwcTBuOU1iVHZhWnVsSXVoUTN0M216RktDUzBkcTNJblpMYzVjVU40RW0tVlBkOVZwSERxMnh3ZzRVN2g3cGUzVmhtd3dvRS10U0lNNndRYkRZOHB1YTdGa2xrQkJtVkhKSGhzYnhYdjMzd9IB3wFBVV95cUxObW5vZVludmctVnZXaC1OZzI1OFZ3UTRfcDNCNUNPLW94YkNDSTk4RFZINGpOVG5GQjZ6RHlrblhkUTAyeXpCODVzWXpoSUZ3cnE0ckNpVm1XUzVubk5VQUxuRWlCdXJ6ajBYWHJKS3N0MUJNblB2UHR2WEFwQ2c1NVMwNXFSb1RpQXdiLXlCVlpOTDBMYzJERkg1WTZJQVNIbW5WZ1FVb0g0c0UtM1VfRk1yVWxBN3EtS29oUVpZZXMzck1nMEtZRkJfaEJwbHpQeDloN1Z0QjdrMHgweGQw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260531-auto-2-621cd3",
+        "title": "重庆智博会聚焦AI产业",
+        "category": "AI新闻",
+        "date": "2026-05-31",
+        "summary": "重庆在智博会释放AI产业路线，强调终端、机器人与产业协同。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "重庆智博会聚焦AI产业 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "在2026年5月31日的报道中，重庆围绕智博会释放人工智能产业信号，重点涉及AI眼镜、机器人和城市级产业组织方式。",
+          "blocks": [
+            {
+              "heading": "会议信号与产业定位",
+              "paragraphs": [
+                "相关报道提出重庆竞逐AI赛道的“三重逻辑”，显示地方产业政策已从概念引导转向具体场景与硬件产品的协同推进。",
+                "从公开信息看，AI眼镜与机器人被频繁提及，意味着城市希望通过终端产品带动算法、传感器、供应链和应用生态的联动发展。",
+                "在当前时间节点，地方政府更强调“可落地”与“可量化”，包括示范项目数量、企业投资规模以及产业链配套能力等指标。"
+              ]
+            },
+            {
+              "heading": "区域竞争与协同路径",
+              "paragraphs": [
+                "与重庆类似，上海也在强调攻关AI前沿技术并赋能高端装备，反映长三角与西部核心城市均把AI作为制造升级的重要抓手。",
+                "这种竞争并不完全是零和关系。不同城市可依托产业基础形成分工，例如一地聚焦核心部件与制造，另一地聚焦场景开放与应用集成。",
+                "从企业视角看，跨区域布局将成为常态，企业会根据人才、成本、政策和市场接近度配置研发与生产资源。"
+              ]
+            },
+            {
+              "heading": "场景落地与后续观察",
+              "paragraphs": [
+                "AI产业推进的关键仍在场景。新京报提及AI进入极端天气预报，说明公共服务场景正在成为技术验证和规模化应用的重要入口。",
+                "对重庆而言，后续可观察指标包括示范项目转化率、终端产品出货、重点企业融资与订单，以及产业园区的入驻活跃度。",
+                "整体来看，地方AI竞逐已进入“产业化执行期”，政策与市场将共同检验各地路线的效率与可持续性。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "重庆智博会解码AI赛道逻辑",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTm42dC1XYWJxcW9WOEY0Tzl4bWxsYmdDX3E3MGU2bk45ZFo0MXRGYldPM0tDa0FpNmRZaGhWb1p3SHIzOXlFdVkzYmZnTlRrNHUwMEVndkphb0JoY1pxWWFnb0pSNW5kdnAwMk5EWS1NZkxSbjM1VW1saWRwVmg5by1BZzY3RGlUb1NpbjdtOEEzeUhrdFFMclFSb05lYXNGSEE0Nkw1MA?oc=5"
+          },
+          {
+            "label": "上海攻关AI赋能高端装备",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzZiR1U4SXNHRW1PQllybG5LZ0xxalFDd2VLRk53ZTdiMHJGTUFIdDNjNEQzOHBCZGZuaWQxMHpNMy1WeUxWTF9pRDVyUi1FdkNjX3I3eUhXczNHd3pjWjV2NjBGVzUtdUpkY3dqVl8wWWdqNmdCR0ZhdUVwT19xWmxR?oc=5"
+          },
+          {
+            "label": "AI融入极端天气预报成果发布",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0V19CVml4eVd6NGUwczV3VkFveEVaakYtWE5LRGVwdWo0RWFIN2lWc1lnMGVsRHgzMW9KbEQ4dGZSa0N2MVhaVTUybXVmTEJzeTJ1d1o3c0FGYXBGcXFnbkZyVWI?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTm42dC1XYWJxcW9WOEY0Tzl4bWxsYmdDX3E3MGU2bk45ZFo0MXRGYldPM0tDa0FpNmRZaGhWb1p3SHIzOXlFdVkzYmZnTlRrNHUwMEVndkphb0JoY1pxWWFnb0pSNW5kdnAwMk5EWS1NZkxSbjM1VW1saWRwVmg5by1BZzY3RGlUb1NpbjdtOEEzeUhrdFFMclFSb05lYXNGSEE0Nkw1MA?oc=5"
+      },
+      {
         "slug": "ai-news-20260530-auto-1-da7841",
         "title": "EAEU通过AI与贸易倡议",
         "category": "AI新闻",
@@ -7359,6 +7475,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260531-auto-1-90999a",
+        "title": "营销人员AI提示词实操",
+        "category": "AI使用教程",
+        "date": "2026-05-31",
+        "summary": "基于提示词案例，给出可直接执行的营销工作流。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "营销人员AI提示词实操 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026-05-31，营销岗位对AI提示词的需求已从“会用”转向“可复用、可评估”。下面给出一套可直接落地的教程，帮助你把提示词从灵感工具变成日常流程。",
+          "blocks": [
+            {
+              "heading": "先搭建提示词资产库",
+              "paragraphs": [
+                "第一步先按营销场景建文件夹，至少包含“内容策划、广告文案、用户调研、复盘报告”四类。每类建立统一模板：目标、受众、渠道、语气、长度、禁用词、输出格式，避免每次从零输入。",
+                "第二步把高频任务拆成固定变量。示例变量可设为{产品名}、{目标人群}、{转化目标}、{投放平台}、{活动周期}。先写一版母提示词，再通过替换变量批量生成不同版本，减少手工改写时间。",
+                "第三步建立命名和版本规则，例如“渠道_任务_日期_v01”。每次优化只改一项参数，如语气或结构，并记录效果变化。这样一周后就能看出哪些提示词在点击率或完读率上更稳定。"
+              ]
+            },
+            {
+              "heading": "执行三轮生成与筛选",
+              "paragraphs": [
+                "第一轮做发散生成：同一任务一次生成5到8个候选，重点看角度是否覆盖“痛点、利益点、行动指令”。不要在这一轮追求完美，而是追求多样性，防止文案同质化。",
+                "第二轮做约束重写：给模型补充硬条件，如“标题不超过18字、包含一个数字、避免绝对化表述、输出表格对比”。通过明确约束把可用草稿比例提高到可编辑范围。",
+                "第三轮做人审打分：建议使用三项评分表，分别是“品牌一致性、信息准确性、转化导向”，每项1到5分。总分低于10分直接淘汰，10到12分进入修改池，13分以上进入投放测试池。"
+              ]
+            },
+            {
+              "heading": "把提示词接入日常增长流程",
+              "paragraphs": [
+                "在周计划中固定两个时段：周一生成素材，周四复盘结果。周一按渠道输出短视频脚本、图文标题、邮件主题；周四回收曝光、点击、转化数据，反向更新提示词模板中的约束条件。",
+                "为避免合规风险，增加发布前检查清单：事实来源是否可追溯、是否含夸大承诺、是否触及敏感行业表述。AI生成内容必须经过人工终审，特别是价格、疗效、金融收益等高风险信息。",
+                "最后设定30天迭代目标：例如“素材生产时长下降20%、A/B测试覆盖率提升至80%”。只保留带来指标改善的提示词，淘汰低效模板，让团队形成可持续复用的AI营销操作手册。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "60+ AI prompt examples for marketers - AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1dHb1Z4NUxPc1E2MGlxbmt4ZnJGYmZOcVZkUGtZRzc5dWFBZFJVaGRFMHBSYU9tLXdkZkhlTmh4Z2pwc3M2cnoyY1Zic0hsYzliejA1bHdmdzQ0VUtaZ1ZTYXJ0and0c3FaWTBPYzJremRrdXBVdHVKZUVDSVhXdg?oc=5"
+          },
+          {
+            "label": "10 AI Prompting Tips That Improve ChatGPT, Claude, and Gemini Results - TechRepublic",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeHBKWEFGWHVmOFEwXzRJVlY2M05JMzU1Z1kyU2hEUURwejMyeDVWMWttcXc5RkI4cko1NEpDNzFwd0JvbUtseUJoWXBhZHJuaEpvSmtGczJob2Zoc3BLX2dQdnRFaDFIUGt2WlZNQTFHUmlZYVpvcTAxM2pPZ2JwcEZaWk5uWC13X2MyTXM1TGU?oc=5"
+          },
+          {
+            "label": "每日互动智能营销产品AITA全新版本重磅上线，打造实用级AI营销解决方案 - 36kr.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFLUM3cWlXajE2NzhqdktFQ2pxNENMeHo5WVlhOVFGWWZHV3BweksweTh5cWpDN2VpSXMwTDVHSzVKZFU2ZEJHT1lVY2ZVZw?oc=5"
+          }
+        ],
+        "source": "AOL.com",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1dHb1Z4NUxPc1E2MGlxbmt4ZnJGYmZOcVZkUGtZRzc5dWFBZFJVaGRFMHBSYU9tLXdkZkhlTmh4Z2pwc3M2cnoyY1Zic0hsYzliejA1bHdmdzQ0VUtaZ1ZTYXJ0and0c3FaWTBPYzJremRrdXBVdHVKZUVDSVhXdg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260530-auto-1-15fa62",
         "title": "提示词进阶实操指南",
         "category": "AI使用教程",
@@ -10461,6 +10635,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260531-auto-1-361b9b",
+        "title": "Trajectory发布并行LoRA栈",
+        "category": "开源项目",
+        "date": "2026-05-31",
+        "summary": "面向持续学习的多LoRA并行训练方案发布。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Trajectory发布并行LoRA栈 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至北京时间2026年5月31日，Trajectory公布了面向持续学习的并行Multi-LoRA训练栈，核心信息是通过并发管理多个LoRA实验来提升迭代效率，并给出2.81倍实验吞吐增益的数据。",
+          "blocks": [
+            {
+              "heading": "这次更新解决什么问题",
+              "paragraphs": [
+                "在持续学习任务中，团队通常需要频繁切换数据分布、快速验证多个适配器配置，单任务串行训练会带来明显排队时间。",
+                "Multi-LoRA思路本身并不新，但工程难点在于资源调度、实验隔离和结果可追踪性，这些部分往往决定了真实产研效率。",
+                "Trajectory这次强调“并行训练栈”，意味着它把训练编排能力放在与模型效果同等重要的位置，目标是缩短实验闭环周期。"
+              ]
+            },
+            {
+              "heading": "用途与适配场景",
+              "paragraphs": [
+                "该栈更适合需要高频微调的团队，例如多行业客服、代码助手或内部知识问答等需要快速适配新数据的应用。",
+                "对于研究团队，它可用于同一基座模型下的参数组合对比，减少人工管理脚本和重复提交作业的成本。",
+                "对于平台团队，它可以作为LoRA实验层的基础设施，与现有训练集群结合，优先改善“单位时间可完成实验数”。"
+              ]
+            },
+            {
+              "heading": "上手门槛与落地建议",
+              "paragraphs": [
+                "上手门槛主要在工程侧而非算法侧：需要有可用GPU资源、基础训练流水线，以及对LoRA参数与数据版本的规范管理。",
+                "中小团队可先从单模型多任务并行验证开始，优先观察吞吐、失败重试和日志一致性，再逐步扩大并发规模。",
+                "如果目标是生产落地，建议把评估指标前置，避免只看训练速度而忽略最终质量、延迟和部署成本。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Trajectory并行Multi-LoRA发布报道",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOXcxWlNFOXdaZTBiMllqeEZ2WmkwMl9qWjVmYkllWXVVLXVqZEZXTG9QdElxOXBLejhLektMLXJJLW54ZkpFR3JzaUQtbTFWa2I3ZWlpajBsN3JuQ2FyZDVvQVUyZ2MxNE0tbVZ6Y3dHRFdHTnFEZVlIU3FiSFpyeUtnNEQ5Vl90NTB1X3U2b3ZjQlZYYTFGeF82NzNKVzNha2xqQUtTY0IzMTFJZEFGMDJXV3RKUVZQTnJyckliNjFGalNJN3R1Wkp2cUhMUW1aZEx5WTgxWkl4UjIyQTdSeU5zSGd6el9icWxrUmZ6VC1GRHc5cldrc3Q2WQ?oc=5"
+          },
+          {
+            "label": "开源模型追赶速度相关数据",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTZkNE9DSFFVdDVHeGh3SFczSk9WdVdzWUtESEVrRjNEN1hhaElBM2M4M0RoMjl6NFdYbWZRc3p0WUdDWE9YZkU1d3FZMUVXOGFqZHdSTlR2dm1pSHI4eVgzNllOU3E5NG1rdGFJb3FrRHVDejl2OVZXcWZHWGxId1JWeDVqMjFIemFIX2c2d3Q2bTF6dm9mUW9GNVU1Z1BLRTlQZUEzdw?oc=5"
+          },
+          {
+            "label": "持续学习与实验效率背景",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmdUSDJRZ3VZRzdQMkZ2R25rN0xOcV8yczdwSUxfY3AwYi1HWDQ5WDJjS2d3VjdLZHViSzN1SVExaXJTWW9CcDNvRTVDeEpzeHZzdWh2TVhxbmhDQ3pYRnFKMTFtT0JCSHljV18zbXkwcWZ6VTBlYlpfVDZHNmY5SWQzT3pvTTFqcGFNZ3pmU2lwenRGcFM4ME00VjlKaDNFem1qMzVUQ1lWYnlk?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOXcxWlNFOXdaZTBiMllqeEZ2WmkwMl9qWjVmYkllWXVVLXVqZEZXTG9QdElxOXBLejhLektMLXJJLW54ZkpFR3JzaUQtbTFWa2I3ZWlpajBsN3JuQ2FyZDVvQVUyZ2MxNE0tbVZ6Y3dHRFdHTnFEZVlIU3FiSFpyeUtnNEQ5Vl90NTB1X3U2b3ZjQlZYYTFGeF82NzNKVzNha2xqQUtTY0IzMTFJZEFGMDJXV3RKUVZQTnJyckliNjFGalNJN3R1Wkp2cUhMUW1aZEx5WTgxWkl4UjIyQTdSeU5zSGd6el9icWxrUmZ6VC1GRHc5cldrc3Q2WQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260531-auto-2-219a11",
+        "title": "Linux基金会发布DNS-AID",
+        "category": "开源项目",
+        "date": "2026-05-31",
+        "summary": "新开源项目瞄准AI代理发现与通信标准化。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Linux基金会发布DNS-AID 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至北京时间2026年5月31日，Linux基金会相关报道显示其发布开源项目DNS-AID，定位是为AI代理建立更统一的发现与通信机制，降低跨系统协作时的接入复杂度。",
+          "blocks": [
+            {
+              "heading": "项目定位与核心价值",
+              "paragraphs": [
+                "AI代理数量增加后，代理之间如何被发现、如何声明能力、如何建立通信成为基础问题，现有方案往往碎片化。",
+                "DNS-AID将这些流程向标准化方向推进，思路类似把“代理可寻址与可协作”做成通用基础层。",
+                "对开发者而言，这类基础项目的价值不在单点功能，而在减少重复造轮子，提升不同框架之间的互通概率。"
+              ]
+            },
+            {
+              "heading": "可落地的应用场景",
+              "paragraphs": [
+                "在企业内部，多代理工作流可用DNS-AID统一注册与发现，减少人工维护服务地址和能力清单的负担。",
+                "在跨组织协作中，标准化通信描述有助于第三方系统快速接入，缩短联调时间并降低协议不一致风险。",
+                "在开发测试阶段，它也可用于构建代理沙盒网络，便于对路由、权限和失败回退进行可重复验证。"
+              ]
+            },
+            {
+              "heading": "上手门槛与采用建议",
+              "paragraphs": [
+                "技术门槛主要集中在网络与治理层，需要团队具备基础DNS、服务编排和安全策略配置能力。",
+                "建议先从非关键路径试点，例如把一个内部问答代理和一个任务执行代理接入，验证发现和通信链路稳定性。",
+                "若计划规模化部署，应同步定义命名规范、权限边界与审计日志，以避免代理规模扩大后出现治理失控。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DNS-AID中文标题报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm9WbU1aa3ZBZWp4TzBxeXNqak5IUmJ2Zkh3R285bnBOUUg1b1B0R0plVUtScDlQVExlTGxmUDFuUU5ZQTdnM2R3UkVJWlhLRnVtZ1BEVWpfRklJNllmRnRJYWdpTXIzX21UVjQxMTloM2xCZHNpVHgybEJUQVFXTDZlYVJGb0toZGIzV05nNW5wMnNTRS01SVI5T050Mm81RktWNGR2UQ?oc=5"
+          },
+          {
+            "label": "DNS-AID英文标题报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGdkZGc3SU44Q3FjYkF2MEN4TnpWTmtSLVlmeHlnNjBqeXVKVThnaThMY18zQ0ZHNDZIM0hBY0czVG1LNVBSZk81TXpIbTFJUlFhcHRzWTFmR2I0MWtlUlUxU2ZaUUxYZ0xjRUh6eDlfUzBVejNHc19JaHVHZllwQnNOTW5mWXhLV2RMS3dxcGg2blc1VExVam5qV3luZlJOcFBsblktTQ?oc=5"
+          },
+          {
+            "label": "代理防火墙开源动态参考",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWllYUdJeDByU0NnYmJ3MWM4VTNzQkg1S0VpZ2pSa0hMb01XWFNQTUZPS2dTOFVGRTZxRm1BU3B0REVyVG5Mck8teG1zTExmdVlFSUNnZG9TSU9CLWVEejNzZTNhdXdQcGVpd0ZqSGlzaDVaQmpveW1iR1BEU3NIQ2NjRE5nUFVmTHZtaGQwNA?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm9WbU1aa3ZBZWp4TzBxeXNqak5IUmJ2Zkh3R285bnBOUUg1b1B0R0plVUtScDlQVExlTGxmUDFuUU5ZQTdnM2R3UkVJWlhLRnVtZ1BEVWpfRklJNllmRnRJYWdpTXIzX21UVjQxMTloM2xCZHNpVHgybEJUQVFXTDZlYVJGb0toZGIzV05nNW5wMnNTRS01SVI5T050Mm81RktWNGR2UQ?oc=5"
+      },
       {
         "slug": "open-source-20260530-auto-1-5d175d",
         "title": "ControlFoley开源发布",
