@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260601-auto-1-c8d946",
+        "title": "英伟达发布代理AI超算系统",
+        "category": "AI新闻",
+        "date": "2026-06-01",
+        "summary": "英伟达公布面向代理AI的大规模超算系统，强化企业级部署能力。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达发布代理AI超算系统 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年6月1日，英伟达围绕代理式AI计算发布新一代超算系统。市场关注点从单一模型训练，逐步转向多代理协作、推理调度与企业级落地能力。",
+          "blocks": [
+            {
+              "heading": "发布信息与定位",
+              "paragraphs": [
+                "根据多家媒体同日披露，英伟达推出其“迄今规模最大”的代理AI超级计算系统，核心目标是支持更复杂的AI代理任务编排与持续推理。",
+                "与此前以训练吞吐为主的产品叙事不同，本次发布强调推理阶段的系统化能力，包括任务拆解、上下文管理和跨工具调用等代理场景需求。",
+                "从发布时间看，该系统与GTC及台北电脑展相关议程形成联动，反映英伟达正将数据中心能力与终端侧生态同步推进。"
+              ]
+            },
+            {
+              "heading": "产业影响与竞争焦点",
+              "paragraphs": [
+                "代理AI被视为企业应用升级的重要方向，超算平台能力将直接影响软件厂商构建自动化工作流的速度与成本结构。",
+                "硬件竞争也从通用GPU性能扩展到系统层能力竞争，包括网络互联、存储调度与软件栈协同，这将抬高行业进入门槛。",
+                "对云厂商和大型企业而言，是否采用此类平台将取决于总体拥有成本、生态兼容性以及合规与安全审计能力。"
+              ]
+            },
+            {
+              "heading": "后续观察点",
+              "paragraphs": [
+                "短期内，市场将观察首批合作伙伴名单与实际部署案例，尤其是金融、制造和客服自动化等高频代理场景。",
+                "中期看，PC端AI芯片与数据中心超算若形成统一开发框架，可能加速“端到云”代理应用的商业化节奏。",
+                "在资本市场层面，相关供应链公司估值或继续围绕订单可见度、交付节奏和软件订阅收入弹性进行重新定价。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Nikkei Asia：英伟达押注代理AI超算",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0NhRWhmNHpuTkZpN1RBQ21VRzZPNC1yeHBtXzhDbVNiVDUwTTlUN2JITUZrUzlaQTFqRTJLTlZYY1hDZUlZTlBRZ3FtOTk1MGFqNm8zQm8wZ0Q4Yl9Sb01XZ0NZY1BEcGdyYUliOGN3UElpd1JfcnlrTG5hUDFlQ0pqYXNDT0F2d0xudHd0UWtNSWN5YlgtRm85bzJqUEZuTm03NmltMWFvaXNxcGhIOWJMczZVa084N2lmUGhPQ3pVS3lFaGh0UzVCc0JoZTdMT2lj?oc=5"
+          },
+          {
+            "label": "新浪视频：英伟达发布代理AI超级计算系统",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUdGX3hhUFBIdGlCR2tVNzNXbDV6SWZsR0NzalVWUkVsWTJpTUxQNFhIWlViSTk5ZG44WmdhdEw1TzBhNGxkUF9aTktXdjNMOFdha01hY3BqS0M3aE5PS05VSmhUX0tVaDB6TXF4XzNoQ1E0Z2tyUFVJOE5pOVpxMHpn?oc=5"
+          },
+          {
+            "label": "BBC：英伟达发布PC端AI芯片",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUR1ZWt4cjBrc2hua05UUThBNFkzRVFyYUZ5NU9uRzFjQjlJWmZBX2ZESk43eUNzSURoN041QUhSWGM4ZXBLRVhKVmV6UXlWcUkyTE9UVUVzdw?oc=5"
+          }
+        ],
+        "source": "Nikkei Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM0NhRWhmNHpuTkZpN1RBQ21VRzZPNC1yeHBtXzhDbVNiVDUwTTlUN2JITUZrUzlaQTFqRTJLTlZYY1hDZUlZTlBRZ3FtOTk1MGFqNm8zQm8wZ0Q4Yl9Sb01XZ0NZY1BEcGdyYUliOGN3UElpd1JfcnlrTG5hUDFlQ0pqYXNDT0F2d0xudHd0UWtNSWN5YlgtRm85bzJqUEZuTm03NmltMWFvaXNxcGhIOWJMczZVa084N2lmUGhPQ3pVS3lFaGh0UzVCc0JoZTdMT2lj?oc=5"
+      },
+      {
+        "slug": "ai-news-20260601-auto-2-a3d3fa",
+        "title": "OpenAI投2.5亿研就业影响",
+        "category": "AI新闻",
+        "date": "2026-06-01",
+        "summary": "OpenAI投入2.5亿研究AI对就业冲击，政策与劳动力议题升温。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI投2.5亿研就业影响 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年6月1日，围绕AI对就业结构的影响，OpenAI新增2.5亿美元研究投入。该动向将企业研发议题与公共政策议题进一步连接。",
+          "blocks": [
+            {
+              "heading": "资金投向与议题边界",
+              "paragraphs": [
+                "公开信息显示，这笔资金主要用于追踪AI对岗位替代、岗位重构和技能迁移的长期影响，而非仅讨论短期效率提升。",
+                "从研究框架看，就业影响将涉及行业差异、地区差异和收入层级差异，重点在于识别高风险职业群体与过渡路径。",
+                "在产业沟通层面，此类研究投入有助于形成更可量化的政策讨论基础，降低企业与监管之间的信息不对称。"
+              ]
+            },
+            {
+              "heading": "对企业与资本市场的意义",
+              "paragraphs": [
+                "对用工密集型企业而言，AI部署将越来越依赖“技术改造+组织改造”双线推进，单纯采购模型服务难以形成稳定收益。",
+                "资本市场将更关注具备培训体系、流程再设计能力与合规机制的公司，因为其更可能在自动化周期中保持人效与稳定性。",
+                "从估值逻辑看，AI主题投资正从算力和模型扩展到劳动生产率改善的可验证指标，财务披露要求可能随之提高。"
+              ]
+            },
+            {
+              "heading": "政策与国际比较",
+              "paragraphs": [
+                "各地政府在推进AI产业政策时，正在将就业缓冲机制纳入配套工具，包括再培训补贴、职业转换服务与校企协同课程。",
+                "国际上，关于AI与就业的讨论已从“是否替代”转向“如何分配收益”，税收、社保和教育体系将成为关键制度变量。",
+                "后续应重点观察研究结果是否转化为可执行标准，例如行业岗位影响评估模板与企业年度AI就业影响披露机制。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：OpenAI投入2.5亿研究就业冲击",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaE42VlRnV0NSWHFhSF82UFV6dEJ3MmV2RXlCTzJUeXFSM01Ic2pEUUdWeXNKU1VUYjFaa0dET2lzTEhxbmZmUUFVM0JhaWwzY0pvRXNhQkRMMnlnQ0NxRm1UOUNRSk5qaTN4VUVHQWloYi1oNW9CcnR2SWVtWlBzeVNoMGpGWVVzMXJzNTluY3Z5VW8tNXlmUFp4Sl8zalZqN2w0VElvOA?oc=5"
+          },
+          {
+            "label": "Morningstar：欧洲AI股票上涨持续性讨论",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONUc5Qjk2MTQwZUZnSHdjRUFZQTY3cUV4c0ZvanRuSnJmTlpfUU9QTzFuQlFZRl81Ql9aM2hjb3BILWZqQ2ZUcHJlRWNUWEM0YjlBZHpfc1JTTERyOXBIdnZKRnl1eVhmTXRSUHdiMkRjNUtXamlMM21VUzVxSkdNYW9BckRoX1l4V2NJUmhsYjZILTJmdkE?oc=5"
+          },
+          {
+            "label": "第一财经：中东AI产业转型观察",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GNFZVN2s3V2ItN3RTSEE3dm5mWFNBUnNabzNHRzgtVWdNV19yb3EtLXR6MWFBemEtTGpWVXJYaU5UZUdlNFhkWmtxN2hQX2JFRnNn?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaE42VlRnV0NSWHFhSF82UFV6dEJ3MmV2RXlCTzJUeXFSM01Ic2pEUUdWeXNKU1VUYjFaa0dET2lzTEhxbmZmUUFVM0JhaWwzY0pvRXNhQkRMMnlnQ0NxRm1UOUNRSk5qaTN4VUVHQWloYi1oNW9CcnR2SWVtWlBzeVNoMGpGWVVzMXJzNTluY3Z5VW8tNXlmUFp4Sl8zalZqN2w0VElvOA?oc=5"
+      },
+      {
         "slug": "ai-news-20260531-auto-1-8eb49b",
         "title": "软银拟投法国AI中心",
         "category": "AI新闻",
@@ -7475,6 +7591,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260601-auto-1-07e27f",
+        "title": "瑞数信息跻身Gartner 2026",
+        "category": "AI使用教程",
+        "date": "2026-06-01",
+        "summary": "瑞数信息跻身Gartner 2026年技术成熟度曲线，获评AI网关代表厂商 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "瑞数信息跻身Gartner 2026 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "瑞数信息跻身Gartner 2026年技术成熟度曲线，获评AI网关代表厂商 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "瑞数信息跻身Gartner 2026年技术成熟度曲线，获评AI网关代表厂商 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRE1BRU9TTlp2YkNlaWE1Ml9ydmNmdUxqZUU1QURrVkNtYW1IU1VLT0hkR0Q1Q01GQnF2RGwtaERBMVlqa2gzS1hzRXFwVmZMck02X0FRMnFXTmFCdkJJLTBFTFQ1Z2lqTVFObTFiQVluWVh2RERHZldSY2E5bkdoSGpWVThfVHVB?oc=5"
+          },
+          {
+            "label": "nerdbot：Vibe Coding Development Services: The Complete Buyer’s Guide for 2026 ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQnZyNUtVRXd5Wk5TeWJGU0ZaN0g5VXdaRkZvRWxTdmlPaDJLRkZfUTU4eUY4X2puaEJxSVhvekhmZEJuYnlPSEw4MTJLWDlWWTFBZjdLS19LVVpkajBncjl5b3hMY1NOLW1FV001S1RVUXBzSWh0RE9abDFzVTdYcUFQWWZnNm5tb29ISWpDeDI5UjhiSENhOXdVU0huMDdF?oc=5"
+          },
+          {
+            "label": "C114通信网：从 AI 五层堆栈到 Sovereign SASE：Fortinet Accelerate 2026 上海站定义网络安全下一程 - C114",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PR3FxbXVMN0lyTGJMZzgtTFVFS3gwSHBYNndiWi04UXN6OTNURi1tQlhDMkpKNTNRajltVlVUbzVGVTZqUFB5c2oxWDg1VUROM3c?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRE1BRU9TTlp2YkNlaWE1Ml9ydmNmdUxqZUU1QURrVkNtYW1IU1VLT0hkR0Q1Q01GQnF2RGwtaERBMVlqa2gzS1hzRXFwVmZMck02X0FRMnFXTmFCdkJJLTBFTFQ1Z2lqTVFObTFiQVluWVh2RERHZldSY2E5bkdoSGpWVThfVHVB?oc=5"
+      },
+      {
         "slug": "ai-guide-20260531-auto-1-90999a",
         "title": "营销人员AI提示词实操",
         "category": "AI使用教程",
@@ -10635,6 +10809,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260601-auto-1-684c0c",
+        "title": "从商汤、MiniMax出来创业三年，",
+        "category": "开源项目",
+        "date": "2026-06-01",
+        "summary": "从商汤、MiniMax出来创业三年，宋亚宸带着VAST融了近2亿美元 智东西",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从商汤、MiniMax出来创业三年， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从商汤、MiniMax出来创业三年，宋亚宸带着VAST融了近2亿美元 智东西",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从商汤、MiniMax出来创业三年，宋亚宸带着VAST融了近2亿美元 智东西",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智东西：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05SWpBUGNFSTlMdDVLOVlSYkZIQmRsZnVJRk4zcUpWa3BrQl84NE8tLWJxcWR3Ny04RzM1MXVibFRmUVNuTmc?oc=5"
+          },
+          {
+            "label": "H2S Media：GitHub Copilot Switches to Token-Based Billing Today: Some Developers ",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmx2ajRjY2djb011bndRODZlMm5rUmFnVHpuLXlVLS1OUG42dGJXTTJlQjRJd19LV1dkM0tjSFBEck16OEVwWkZ1SFhSMXdsYWc4aExBY2x0cjlTWHFoQXp4S1dzOVlKZ0xSYmFXT05sYW1PTW1ISnRYbVNTRVB5MnJMSmpYV08xRWZQV3oxUW56UHp0WHl4a2ZPYlNmYXFsOFlncA?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews：Pentest Swarm AI Tool With Live Access to nmap, sqlmap, Burp, Metasplo",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HTHM1alVuUllEMkZTNXpLNW9hU3dQOUVYdjRpTmxFYld2d1FVZ2xKNjN0MXIxeXJNaTFWOUt5RjU4djNXNmw1SjNlNk9hOVVwVV9fenFqOW5od05seVlkLXZR0gFnQVVfeXFMTVZBa3VpOUktbnNfUENrNHpYSlZESUFZRUNyVy1iUnRjUnpPVVg2Qm9aWmlEOEh6Z3U5dVliN1pnSmhOaFNTRnEtYkZMZXpMU3NjenhYZk1mTFJlRzUxVU1VVklsYzlvNA?oc=5"
+          }
+        ],
+        "source": "智东西",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05SWpBUGNFSTlMdDVLOVlSYkZIQmRsZnVJRk4zcUpWa3BrQl84NE8tLWJxcWR3Ny04RzM1MXVibFRmUVNuTmc?oc=5"
+      },
+      {
+        "slug": "open-source-20260601-auto-2-7d280d",
+        "title": "GitHub Copilot Swi",
+        "category": "开源项目",
+        "date": "2026-06-01",
+        "summary": "GitHub Copilot Switches to Token-Based Billing Tod",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub Copilot Swi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GitHub Copilot Switches to Token-Based Billing Tod",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub Copilot Switches to Token-Based Billing Tod",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "H2S Media：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmx2ajRjY2djb011bndRODZlMm5rUmFnVHpuLXlVLS1OUG42dGJXTTJlQjRJd19LV1dkM0tjSFBEck16OEVwWkZ1SFhSMXdsYWc4aExBY2x0cjlTWHFoQXp4S1dzOVlKZ0xSYmFXT05sYW1PTW1ISnRYbVNTRVB5MnJMSmpYV08xRWZQV3oxUW56UHp0WHl4a2ZPYlNmYXFsOFlncA?oc=5"
+          },
+          {
+            "label": "智东西：从商汤、MiniMax出来创业三年，宋亚宸带着VAST融了近2亿美元 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05SWpBUGNFSTlMdDVLOVlSYkZIQmRsZnVJRk4zcUpWa3BrQl84NE8tLWJxcWR3Ny04RzM1MXVibFRmUVNuTmc?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews：Pentest Swarm AI Tool With Live Access to nmap, sqlmap, Burp, Metasplo",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HTHM1alVuUllEMkZTNXpLNW9hU3dQOUVYdjRpTmxFYld2d1FVZ2xKNjN0MXIxeXJNaTFWOUt5RjU4djNXNmw1SjNlNk9hOVVwVV9fenFqOW5od05seVlkLXZR0gFnQVVfeXFMTVZBa3VpOUktbnNfUENrNHpYSlZESUFZRUNyVy1iUnRjUnpPVVg2Qm9aWmlEOEh6Z3U5dVliN1pnSmhOaFNTRnEtYkZMZXpMU3NjenhYZk1mTFJlRzUxVU1VVklsYzlvNA?oc=5"
+          }
+        ],
+        "source": "H2S Media",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmx2ajRjY2djb011bndRODZlMm5rUmFnVHpuLXlVLS1OUG42dGJXTTJlQjRJd19LV1dkM0tjSFBEck16OEVwWkZ1SFhSMXdsYWc4aExBY2x0cjlTWHFoQXp4S1dzOVlKZ0xSYmFXT05sYW1PTW1ISnRYbVNTRVB5MnJMSmpYV08xRWZQV3oxUW56UHp0WHl4a2ZPYlNmYXFsOFlncA?oc=5"
+      },
       {
         "slug": "open-source-20260531-auto-1-361b9b",
         "title": "Trajectory发布并行LoRA栈",
