@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260602-auto-1-42d3c6",
+        "title": "Anthropic edges ah",
+        "category": "AI新闻",
+        "date": "2026-06-02",
+        "summary": "Anthropic edges ahead of OpenAI with confidential",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic edges ah 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic edges ahead of OpenAI with confidential",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic edges ahead of OpenAI with confidential",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Gulf Business：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzkwYjdEVWdFTFJaVGt1Wnc1d0llZGEzNzB4ckVZNXdZTjh4Q3NGNTVpa3RRajdCZ0J2c3R6Z0FvVkZqbmh0eXJ0UDlyR2tLWE9IMVJZRFJ6ejYtRVdWdmRKeDAyN0diOTVQUUxOTm13SEl0ZHNITElwVkllUmx6aGlSV05xVEpFOGdjNlJpVEc5VWpsWHlBdEZQdW4yNXBEaVBLbGtSU3pMNXlfSWZ4bmRmcWo1djB6c3c?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Bernie Sanders wants the government to own half of OpenAI and Anthropi",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDJ0V0V1alVfMG81S2ZhM29vLWpHYTY2ZmtnVUJBQ3gwOC1ETV9Rakh0bnAydU1QZUdOVXNVdFh4UkZTSEw3Q2JXUkJvTUZJWE40NVFldXZ4TkZBaDRvZmFWMzRQOUh2UWJ5NlMxdzFqYzdWa2dVdmM5b2dfbzd2S1Mzb01vQm02Z1FZQzZDSnBUU05IcHdOVERKR3h4VHFTSXBSckdJRV9jRXZuc2NpeWg3dm5nekI2VVFzOWtuSExiX3FGOTIydElwaXlNaDZkUVhqakxlUFZsZTM1cmNwYWZOSDg?oc=5"
+          },
+          {
+            "label": "Sina finance：中国中证人工智能指数涨幅超3% - Sina finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE80c0w3cHkxaTZhRkVLX0FuZjZLd1V5eDZJdTl3QzNHT1EyRWpqYkhkR1F5cHQ3Nkw3Rm1EQ3BTUG9WNkE0emp5b1dJODNfUnR0cF9aYmlmQ0pZQjdvYjVubHZ3TXRqdlRhVmhTOC1KOXJ5YlB1QWFQRmdsZkh0VVM5MFBmQzVkdlQydTdEMA?oc=5"
+          }
+        ],
+        "source": "Gulf Business",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzkwYjdEVWdFTFJaVGt1Wnc1d0llZGEzNzB4ckVZNXdZTjh4Q3NGNTVpa3RRajdCZ0J2c3R6Z0FvVkZqbmh0eXJ0UDlyR2tLWE9IMVJZRFJ6ejYtRVdWdmRKeDAyN0diOTVQUUxOTm13SEl0ZHNITElwVkllUmx6aGlSV05xVEpFOGdjNlJpVEc5VWpsWHlBdEZQdW4yNXBEaVBLbGtSU3pMNXlfSWZ4bmRmcWo1djB6c3c?oc=5"
+      },
+      {
+        "slug": "ai-news-20260602-auto-2-e6581f",
+        "title": "Bernie Sanders wan",
+        "category": "AI新闻",
+        "date": "2026-06-02",
+        "summary": "Bernie Sanders wants the government to own half of",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Bernie Sanders wan 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Bernie Sanders wants the government to own half of",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Bernie Sanders wants the government to own half of",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Startup Fortune：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDJ0V0V1alVfMG81S2ZhM29vLWpHYTY2ZmtnVUJBQ3gwOC1ETV9Rakh0bnAydU1QZUdOVXNVdFh4UkZTSEw3Q2JXUkJvTUZJWE40NVFldXZ4TkZBaDRvZmFWMzRQOUh2UWJ5NlMxdzFqYzdWa2dVdmM5b2dfbzd2S1Mzb01vQm02Z1FZQzZDSnBUU05IcHdOVERKR3h4VHFTSXBSckdJRV9jRXZuc2NpeWg3dm5nekI2VVFzOWtuSExiX3FGOTIydElwaXlNaDZkUVhqakxlUFZsZTM1cmNwYWZOSDg?oc=5"
+          },
+          {
+            "label": "Gulf Business：Anthropic edges ahead of OpenAI with confidential IPO filing - Gulf Bu",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzkwYjdEVWdFTFJaVGt1Wnc1d0llZGEzNzB4ckVZNXdZTjh4Q3NGNTVpa3RRajdCZ0J2c3R6Z0FvVkZqbmh0eXJ0UDlyR2tLWE9IMVJZRFJ6ejYtRVdWdmRKeDAyN0diOTVQUUxOTm13SEl0ZHNITElwVkllUmx6aGlSV05xVEpFOGdjNlJpVEc5VWpsWHlBdEZQdW4yNXBEaVBLbGtSU3pMNXlfSWZ4bmRmcWo1djB6c3c?oc=5"
+          },
+          {
+            "label": "Sina finance：中国中证人工智能指数涨幅超3% - Sina finance",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE80c0w3cHkxaTZhRkVLX0FuZjZLd1V5eDZJdTl3QzNHT1EyRWpqYkhkR1F5cHQ3Nkw3Rm1EQ3BTUG9WNkE0emp5b1dJODNfUnR0cF9aYmlmQ0pZQjdvYjVubHZ3TXRqdlRhVmhTOC1KOXJ5YlB1QWFQRmdsZkh0VVM5MFBmQzVkdlQydTdEMA?oc=5"
+          }
+        ],
+        "source": "Startup Fortune",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDJ0V0V1alVfMG81S2ZhM29vLWpHYTY2ZmtnVUJBQ3gwOC1ETV9Rakh0bnAydU1QZUdOVXNVdFh4UkZTSEw3Q2JXUkJvTUZJWE40NVFldXZ4TkZBaDRvZmFWMzRQOUh2UWJ5NlMxdzFqYzdWa2dVdmM5b2dfbzd2S1Mzb01vQm02Z1FZQzZDSnBUU05IcHdOVERKR3h4VHFTSXBSckdJRV9jRXZuc2NpeWg3dm5nekI2VVFzOWtuSExiX3FGOTIydElwaXlNaDZkUVhqakxlUFZsZTM1cmNwYWZOSDg?oc=5"
+      },
+      {
         "slug": "ai-news-20260601-auto-1-c8d946",
         "title": "英伟达发布代理AI超算系统",
         "category": "AI新闻",
@@ -7591,6 +7707,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260602-auto-1-282a95",
+        "title": "AI修图火了！GPT Image 2",
+        "category": "AI使用教程",
+        "date": "2026-06-02",
+        "summary": "AI修图火了！GPT Image 2被网友玩烂，“照骗”要升级了？ 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI修图火了！GPT Image 2 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI修图火了！GPT Image 2被网友玩烂，“照骗”要升级了？ 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI修图火了！GPT Image 2被网友玩烂，“照骗”要升级了？ 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzQ0bEFPd0k3cUx5OEF2T3NyNWE0YVNrc0tVRWlyM2dXWllNMmR1TzkxbHd2RHR5QlRIdHBOUVVjbmZ4ZF9LbkZyMlhIY19tbkUwUWwwbEs2NGFvUWNhbHFTazYzMjdqQloxSHUzQ1FTVnotOGhuMHVyZzZPeHZMRldjeGY3dXd0aGFTVmVndXlCT3dhQlF3R09hOW43WE5EVnVaQUFoUQ?oc=5"
+          },
+          {
+            "label": "Sina finance：OpenAI调整手机端ChatGPT，提示词可提前选AI响应档位 - Sina finance",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GclRuWnBrQ0pQWG1CdVNPZEttLTZ6eUYzWlBmeHoyVmE4QUxPNC1wLWpiT3BtZ0xkWEZ4SUFFR2wya29ibVNuYnozV2w3aVZiMm10RzZqOVEyRGktSWZYSUNMVThoZlpjRmRWeGlGOEZIMUxjSkFUOGVVUWhGaG8?oc=5"
+          },
+          {
+            "label": "虎嗅：AI本质并非原创，三种思维层级决定红利分配 - 虎嗅",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tdVNXdVRyMG5aVmxnWm5WQUV4RTloUEFldWI0eWFhXzhteHYyMXAxeGoxaVhRX2EwblQxbkdfYXRUdHkteEtQQ0pMQkFkZ1dhU01UbQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzQ0bEFPd0k3cUx5OEF2T3NyNWE0YVNrc0tVRWlyM2dXWllNMmR1TzkxbHd2RHR5QlRIdHBOUVVjbmZ4ZF9LbkZyMlhIY19tbkUwUWwwbEs2NGFvUWNhbHFTazYzMjdqQloxSHUzQ1FTVnotOGhuMHVyZzZPeHZMRldjeGY3dXd0aGFTVmVndXlCT3dhQlF3R09hOW43WE5EVnVaQUFoUQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260601-auto-1-07e27f",
         "title": "瑞数信息跻身Gartner 2026",
         "category": "AI使用教程",
@@ -10809,6 +10983,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260602-auto-1-83aa6f",
+        "title": "JetBrains 开源 120 亿",
+        "category": "开源项目",
+        "date": "2026-06-02",
+        "summary": "JetBrains 开源 120 亿参数 Mellum2 模型 cnBeta.COM",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "JetBrains 开源 120 亿 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "JetBrains 开源 120 亿参数 Mellum2 模型 cnBeta.COM",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "JetBrains 开源 120 亿参数 Mellum2 模型 cnBeta.COM",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDX1ZqcWc2ckxUX29OTTJWZnlTNmhqSDAzTEFzTUtYTG4wYnJUZ2ZKLVVfZXk1QWdMeGlCdnlSOF9TSEFtMjhva0tYcTNPWlBMdnJCT0M0N2JTajA0cVFOZw?oc=5"
+          },
+          {
+            "label": "福布斯中国：37岁登上Midas榜单：一个华人女VC的“反共识”赌局 - 福布斯中国",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZTVBORkVyN2FxaUd4UFdSV2ExeEQ4T2dHWE5HNkdldkpPX2FkUzhWc082c1lVTF9zMzZJeU5BUTJ5cnJYUEREd2pWVk9zN2Ni?oc=5"
+          },
+          {
+            "label": "qz.com：IBM Red Hat Project Lightwell $5 billion open-source security - qz.com",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUm9lbWxrMXAybzI4LXFpYzMzbHI2UldVd0JUNkZBVWxpRW9VQ3pIT3NhX2lmbUNzTG91NjVIMmhjRGdwcjVPbzVwSlZUWUZMZVdCWHFsbmxWcUdFQzVZRnV4NGxCR1RQQ0cwV0dRLXdLcVMtWmo3Wjg4T2U?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDX1ZqcWc2ckxUX29OTTJWZnlTNmhqSDAzTEFzTUtYTG4wYnJUZ2ZKLVVfZXk1QWdMeGlCdnlSOF9TSEFtMjhva0tYcTNPWlBMdnJCT0M0N2JTajA0cVFOZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260602-auto-2-0c2509",
+        "title": "37岁登上Midas榜单：一个华人女",
+        "category": "开源项目",
+        "date": "2026-06-02",
+        "summary": "37岁登上Midas榜单：一个华人女VC的“反共识”赌局 福布斯中国",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "37岁登上Midas榜单：一个华人女 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "37岁登上Midas榜单：一个华人女VC的“反共识”赌局 福布斯中国",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "37岁登上Midas榜单：一个华人女VC的“反共识”赌局 福布斯中国",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "福布斯中国：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZTVBORkVyN2FxaUd4UFdSV2ExeEQ4T2dHWE5HNkdldkpPX2FkUzhWc082c1lVTF9zMzZJeU5BUTJ5cnJYUEREd2pWVk9zN2Ni?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：JetBrains 开源 120 亿参数 Mellum2 模型 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDX1ZqcWc2ckxUX29OTTJWZnlTNmhqSDAzTEFzTUtYTG4wYnJUZ2ZKLVVfZXk1QWdMeGlCdnlSOF9TSEFtMjhva0tYcTNPWlBMdnJCT0M0N2JTajA0cVFOZw?oc=5"
+          },
+          {
+            "label": "qz.com：IBM Red Hat Project Lightwell $5 billion open-source security - qz.com",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqUm9lbWxrMXAybzI4LXFpYzMzbHI2UldVd0JUNkZBVWxpRW9VQ3pIT3NhX2lmbUNzTG91NjVIMmhjRGdwcjVPbzVwSlZUWUZMZVdCWHFsbmxWcUdFQzVZRnV4NGxCR1RQQ0cwV0dRLXdLcVMtWmo3Wjg4T2U?oc=5"
+          }
+        ],
+        "source": "福布斯中国",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZTVBORkVyN2FxaUd4UFdSV2ExeEQ4T2dHWE5HNkdldkpPX2FkUzhWc082c1lVTF9zMzZJeU5BUTJ5cnJYUEREd2pWVk9zN2Ni?oc=5"
+      },
       {
         "slug": "open-source-20260601-auto-1-684c0c",
         "title": "从商汤、MiniMax出来创业三年，",
