@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260603-auto-1-1a19c7",
+        "title": "AI In Aviation Mar",
+        "category": "AI新闻",
+        "date": "2026-06-03",
+        "summary": "AI In Aviation Market Size, Share & Trends Report",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI In Aviation Mar 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI In Aviation Market Size, Share & Trends Report",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI In Aviation Market Size, Share & Trends Report",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Grand View Research：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEthdUdXNkstaEhkbWRDc0hOaDhkQ3l6ZEZaS0o4cEl4VzAxXzZ1S1hHZHhpQk1sSlBPQnFNVEg5eE5uV0JiQVd5SVRHUW15QjYwc2h3eVJXendDYlgyX3ZnTGIxTm13NWxzcEY5VU5HNnkxWXlHTk9WRDdnekVjNWdLMA?oc=5"
+          },
+          {
+            "label": "Stock Titan：OpenAI powers Wolters Kluwer tools for 2,000 hospitals and tax firms -",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHJDVmtzb1VhSFJsQlpTUm5MUl9qbWhPcEk2RHF6UUUtdEVWbmd0VGRnR0FhZ2FFSGQwQ2hZdloxSm85QkZia0JBYVFaOHE4RVZSZ0pQdnhNSUNRR3FnT2RGQi1oTlk1QWJJb1U2ZGRpUnRaNjZFVy1CUE9pbmtndWhMTGd3THVjTTFlOVFxU05JLUxLQWJvbXBsZkFKSHVTWDlzRGp6WG1xV1hQY20yb3R0VWMwdVU2RVF4Sg?oc=5"
+          },
+          {
+            "label": "markets.businessinsider.com：From Lab to Life Announces New Book on China’s AI Systems and Market S",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1Z4bmNDejlnRzh5T0p1dGNNWmw5TlA1cFBsai13Q3hEVzRCUTlXUWo2dkx6OHZVZmNFbDQ0UFR4TW5QVmJkNHJ2aUhoN2pfVW9VUWNxVDZlUF9DdlJIWXVXclVYdnJkdFJlV1dUM0ZoWk9wbkMwT2YzZWdfOF82TldZYWhYTHNFMWstLXBBN0JOc0hRZXJsTTBSb2tfaGxxV1RPLWNFemZWVFBPQ3FfSDJlbk9QOFFhZXVCMFdpN1JabE42dVBrZHM4QU9jenhjNVdJ?oc=5"
+          }
+        ],
+        "source": "Grand View Research",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEthdUdXNkstaEhkbWRDc0hOaDhkQ3l6ZEZaS0o4cEl4VzAxXzZ1S1hHZHhpQk1sSlBPQnFNVEg5eE5uV0JiQVd5SVRHUW15QjYwc2h3eVJXendDYlgyX3ZnTGIxTm13NWxzcEY5VU5HNnkxWXlHTk9WRDdnekVjNWdLMA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260603-auto-2-c59a25",
+        "title": "OpenAI powers Wolt",
+        "category": "AI新闻",
+        "date": "2026-06-03",
+        "summary": "OpenAI powers Wolters Kluwer tools for 2,000 hospi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI powers Wolt 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenAI powers Wolters Kluwer tools for 2,000 hospi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI powers Wolters Kluwer tools for 2,000 hospi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Stock Titan：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHJDVmtzb1VhSFJsQlpTUm5MUl9qbWhPcEk2RHF6UUUtdEVWbmd0VGRnR0FhZ2FFSGQwQ2hZdloxSm85QkZia0JBYVFaOHE4RVZSZ0pQdnhNSUNRR3FnT2RGQi1oTlk1QWJJb1U2ZGRpUnRaNjZFVy1CUE9pbmtndWhMTGd3THVjTTFlOVFxU05JLUxLQWJvbXBsZkFKSHVTWDlzRGp6WG1xV1hQY20yb3R0VWMwdVU2RVF4Sg?oc=5"
+          },
+          {
+            "label": "Grand View Research：AI In Aviation Market Size, Share & Trends Report 2026-2033 - Grand Vi",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEthdUdXNkstaEhkbWRDc0hOaDhkQ3l6ZEZaS0o4cEl4VzAxXzZ1S1hHZHhpQk1sSlBPQnFNVEg5eE5uV0JiQVd5SVRHUW15QjYwc2h3eVJXendDYlgyX3ZnTGIxTm13NWxzcEY5VU5HNnkxWXlHTk9WRDdnekVjNWdLMA?oc=5"
+          },
+          {
+            "label": "markets.businessinsider.com：From Lab to Life Announces New Book on China’s AI Systems and Market S",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1Z4bmNDejlnRzh5T0p1dGNNWmw5TlA1cFBsai13Q3hEVzRCUTlXUWo2dkx6OHZVZmNFbDQ0UFR4TW5QVmJkNHJ2aUhoN2pfVW9VUWNxVDZlUF9DdlJIWXVXclVYdnJkdFJlV1dUM0ZoWk9wbkMwT2YzZWdfOF82TldZYWhYTHNFMWstLXBBN0JOc0hRZXJsTTBSb2tfaGxxV1RPLWNFemZWVFBPQ3FfSDJlbk9QOFFhZXVCMFdpN1JabE42dVBrZHM4QU9jenhjNVdJ?oc=5"
+          }
+        ],
+        "source": "Stock Titan",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHJDVmtzb1VhSFJsQlpTUm5MUl9qbWhPcEk2RHF6UUUtdEVWbmd0VGRnR0FhZ2FFSGQwQ2hZdloxSm85QkZia0JBYVFaOHE4RVZSZ0pQdnhNSUNRR3FnT2RGQi1oTlk1QWJJb1U2ZGRpUnRaNjZFVy1CUE9pbmtndWhMTGd3THVjTTFlOVFxU05JLUxLQWJvbXBsZkFKSHVTWDlzRGp6WG1xV1hQY20yb3R0VWMwdVU2RVF4Sg?oc=5"
+      },
+      {
         "slug": "ai-news-20260602-auto-1-42d3c6",
         "title": "Anthropic edges ah",
         "category": "AI新闻",
@@ -7707,6 +7823,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260603-auto-1-1d5a5d",
+        "title": "Infosys, TCS and W",
+        "category": "AI使用教程",
+        "date": "2026-06-03",
+        "summary": "Infosys, TCS and Wipro scale Microsoft 365 Copilot",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Infosys, TCS and W 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Infosys, TCS and Wipro scale Microsoft 365 Copilot",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Infosys, TCS and Wipro scale Microsoft 365 Copilot",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Microsoft Source：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG4zc2VVWGtUTllEdVFnd1BLVm9aRFlkM3EtU2dWQ2hMcTdqYUtIREFvdnZ1b2tTdEQxbkI0NmVfNmptNmEtanZqUmRkYTd3bGxRMkYyVHZmMjdkMzBRRGRqX2RGVUwxbmw2cGd1Q0NFMks3cWFqM0hiZXNiWTVlQXN5bW9YcXcwN2pBeUlLeG5uTFNiR19KUjVjWGVPanNDZlpvNnNSNWVwdGJMeHgyTWJVSGlucUlsUHZvdXQyRXQtRVE?oc=5"
+          },
+          {
+            "label": "MarkTechPost：How to Fine-Tune LFM2 Using QLoRA and DPO: A Complete Step-by-Step Cod",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2p1X1dFWFJLcUVFbkxDUXpWU2tfY3JOclNiYUFQWHQyekNYbTFWRlpCQjg0UGNicWFNOVZKdkZmV09fbkt0THFIWWRVOFBaWnZYTEVNd2tRc3R6aEhibTJWcVQxOWNhd2g2UmJlSGJHN1JqMTY3dWdzb3VjWDFkWm9lSGJGWVE0UGYwNWh4SjRnaDNPa3hmVWdCNVFmNVF5dERjTGJWUGcyZXpOSHYzckY5OWQ4eEV4VFJqS1NqNTVZZVQ4enBFVmRyV2x6TU4zTE96ag?oc=5"
+          },
+          {
+            "label": "51CTO：深入解析 Chromium 的 AI Coding 开发体系 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yM3puVVRSRlRGMlZQYXNYWG5QQUZ3bDBwX1VGY2RWQ3lsZ0VGRzFxSnlEUTJwajVPZUk1cEh2S3VJamoxRXV4a05lNUdqZEVUWDR3?oc=5"
+          }
+        ],
+        "source": "Microsoft Source",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOG4zc2VVWGtUTllEdVFnd1BLVm9aRFlkM3EtU2dWQ2hMcTdqYUtIREFvdnZ1b2tTdEQxbkI0NmVfNmptNmEtanZqUmRkYTd3bGxRMkYyVHZmMjdkMzBRRGRqX2RGVUwxbmw2cGd1Q0NFMks3cWFqM0hiZXNiWTVlQXN5bW9YcXcwN2pBeUlLeG5uTFNiR19KUjVjWGVPanNDZlpvNnNSNWVwdGJMeHgyTWJVSGlucUlsUHZvdXQyRXQtRVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260602-auto-1-282a95",
         "title": "AI修图火了！GPT Image 2",
         "category": "AI使用教程",
@@ -10983,6 +11157,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260603-auto-1-fb3dec",
+        "title": "NVIDIA Nemotron 3",
+        "category": "开源项目",
+        "date": "2026-06-03",
+        "summary": "NVIDIA Nemotron 3 Ultra: America's Best Open AI Mo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA Nemotron 3 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NVIDIA Nemotron 3 Ultra: America's Best Open AI Mo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA Nemotron 3 Ultra: America's Best Open AI Mo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Memeburn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTklobWhPUFRob3VJNzBqV0oyMkR4cFZIckl1b1V6dktQTlc2TXdlYlpwSmQ2V203aV9rMEJJU2JIbmY4aV81TnJWc0g5NVVYQUxjenU0TVVqV1c2TldMeVA1ZzMzbF9mRDNDMWtJLU5ScFlJeFdjOHdoUVJES2k4VlpPTno?oc=5"
+          },
+          {
+            "label": "Help Net Security：Agent Threat Rules: Open detection rule format for AI agent security t",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmxBempYdlZrUlJrZzQ3NVd4b2VEVm93SXo3TG9vS2VISHRndFV1YmVoMmlUbmtqd0oyS21TMTFlMG1OZGdTUUI5M0FzR0NZNzBOOWNvSGVSN2Y1bUYtN3lXT2FLYjJlX0xIMHhYVHg0WlBtUHcwUUQxU2E3enBNUw?oc=5"
+          },
+          {
+            "label": "湖北日报传媒集团：全国首个OPC AI开源生态孵化中心在汉成立 - 湖北日报传媒集团",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12STJpMmV2NVN4bWh6VHZKWXBaVEt3bl9hLWtXeU90QnBoYlNTemJsdmV1cURxZElBenFJM21VVktlVkRPX0VfTGZhR2V1WEhxMFBKajVBNmw?oc=5"
+          }
+        ],
+        "source": "Memeburn",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTklobWhPUFRob3VJNzBqV0oyMkR4cFZIckl1b1V6dktQTlc2TXdlYlpwSmQ2V203aV9rMEJJU2JIbmY4aV81TnJWc0g5NVVYQUxjenU0TVVqV1c2TldMeVA1ZzMzbF9mRDNDMWtJLU5ScFlJeFdjOHdoUVJES2k4VlpPTno?oc=5"
+      },
+      {
+        "slug": "open-source-20260603-auto-2-981c60",
+        "title": "Agent Threat Rules",
+        "category": "开源项目",
+        "date": "2026-06-03",
+        "summary": "Agent Threat Rules: Open detection rule format for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Agent Threat Rules 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Agent Threat Rules: Open detection rule format for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Agent Threat Rules: Open detection rule format for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmxBempYdlZrUlJrZzQ3NVd4b2VEVm93SXo3TG9vS2VISHRndFV1YmVoMmlUbmtqd0oyS21TMTFlMG1OZGdTUUI5M0FzR0NZNzBOOWNvSGVSN2Y1bUYtN3lXT2FLYjJlX0xIMHhYVHg0WlBtUHcwUUQxU2E3enBNUw?oc=5"
+          },
+          {
+            "label": "Memeburn：NVIDIA Nemotron 3 Ultra: America's Best Open AI Model 2026 - Memeburn",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTklobWhPUFRob3VJNzBqV0oyMkR4cFZIckl1b1V6dktQTlc2TXdlYlpwSmQ2V203aV9rMEJJU2JIbmY4aV81TnJWc0g5NVVYQUxjenU0TVVqV1c2TldMeVA1ZzMzbF9mRDNDMWtJLU5ScFlJeFdjOHdoUVJES2k4VlpPTno?oc=5"
+          },
+          {
+            "label": "湖北日报传媒集团：全国首个OPC AI开源生态孵化中心在汉成立 - 湖北日报传媒集团",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12STJpMmV2NVN4bWh6VHZKWXBaVEt3bl9hLWtXeU90QnBoYlNTemJsdmV1cURxZElBenFJM21VVktlVkRPX0VfTGZhR2V1WEhxMFBKajVBNmw?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmxBempYdlZrUlJrZzQ3NVd4b2VEVm93SXo3TG9vS2VISHRndFV1YmVoMmlUbmtqd0oyS21TMTFlMG1OZGdTUUI5M0FzR0NZNzBOOWNvSGVSN2Y1bUYtN3lXT2FLYjJlX0xIMHhYVHg0WlBtUHcwUUQxU2E3enBNUw?oc=5"
+      },
       {
         "slug": "open-source-20260602-auto-1-83aa6f",
         "title": "JetBrains 开源 120 亿",
