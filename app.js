@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260604-auto-1-025835",
+        "title": "Artificial intelli",
+        "category": "AI新闻",
+        "date": "2026-06-04",
+        "summary": "Artificial intelligence: A modern Tower of Babel?",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Artificial intelligence: A modern Tower of Babel?",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial intelligence: A modern Tower of Babel?",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Findlay News | The Courier：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHM5d2h2RmRxY2Z1b3lyNWNOLW54bjVzbFRDNXpWVlBlV0RYYjh4WDRMbGlJRDE3Y19xaEo1ZzdJZUVKVXgzSVJTeTIwbzF0eVF0TFhyZ2thTkpsSmFUcVpXc0phSkFhaHFSN1FMOGZTN3VqUFNDa1pSRk0yWTdMMnlFZE5UUGQzT3YxZA?oc=5"
+          },
+          {
+            "label": "中国知识产权律师网：《人工智能示范法4.0》全文发布 - 中国知识产权律师网",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LekxiVmQzZzNnc2syWmE1SVBmVzRsWVotSldCX25Ya3VKa1hEWEpzM2RjUHN2NUR2VGNfNzJ5d3ZlMTh1c0hvOXQyem01OE80ZUMxSDVJWmg?oc=5"
+          },
+          {
+            "label": "The Globe and Mail：3 Top Bargain Artificial Intelligence (AI) Stocks to Buy Right Now - T",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM2lud0M2Z0pSUWFrVUNZNTRKSnQzeERwdjdqbEFDaEMzV3lpbk5JTG1JRVVuOGs4TGZMTkJmRU1oSU1rWDZKS2R3UWZUZUcwYXUtV1VyajFGOTM4NmJQc2hXZmVuQUNaYVptZVZlVm0tdzFGd2ZkYi1qdkI3ZUJXMjJ1RWtlWUNweF9zSFZWcEJid29zdkljZDdvRWFWbUJlZnNwb0pKLXBwZUpaQWZka1BhaUpWWnVzejQ3SVlSSnhIaWxpaFJjX3VYQ1k1dmozVUJHVXRKTjNXVnZWbmRrNDdhdw?oc=5"
+          }
+        ],
+        "source": "Findlay News | The Courier",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHM5d2h2RmRxY2Z1b3lyNWNOLW54bjVzbFRDNXpWVlBlV0RYYjh4WDRMbGlJRDE3Y19xaEo1ZzdJZUVKVXgzSVJTeTIwbzF0eVF0TFhyZ2thTkpsSmFUcVpXc0phSkFhaHFSN1FMOGZTN3VqUFNDa1pSRk0yWTdMMnlFZE5UUGQzT3YxZA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260604-auto-2-73c4a9",
+        "title": "《人工智能示范法4.0》全文发布 -",
+        "category": "AI新闻",
+        "date": "2026-06-04",
+        "summary": "《人工智能示范法4.0》全文发布 中国知识产权律师网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《人工智能示范法4.0》全文发布 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "《人工智能示范法4.0》全文发布 中国知识产权律师网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《人工智能示范法4.0》全文发布 中国知识产权律师网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国知识产权律师网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LekxiVmQzZzNnc2syWmE1SVBmVzRsWVotSldCX25Ya3VKa1hEWEpzM2RjUHN2NUR2VGNfNzJ5d3ZlMTh1c0hvOXQyem01OE80ZUMxSDVJWmg?oc=5"
+          },
+          {
+            "label": "Findlay News | The Courier：Artificial intelligence: A modern Tower of Babel? - Findlay News | The",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHM5d2h2RmRxY2Z1b3lyNWNOLW54bjVzbFRDNXpWVlBlV0RYYjh4WDRMbGlJRDE3Y19xaEo1ZzdJZUVKVXgzSVJTeTIwbzF0eVF0TFhyZ2thTkpsSmFUcVpXc0phSkFhaHFSN1FMOGZTN3VqUFNDa1pSRk0yWTdMMnlFZE5UUGQzT3YxZA?oc=5"
+          },
+          {
+            "label": "The Globe and Mail：3 Top Bargain Artificial Intelligence (AI) Stocks to Buy Right Now - T",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM2lud0M2Z0pSUWFrVUNZNTRKSnQzeERwdjdqbEFDaEMzV3lpbk5JTG1JRVVuOGs4TGZMTkJmRU1oSU1rWDZKS2R3UWZUZUcwYXUtV1VyajFGOTM4NmJQc2hXZmVuQUNaYVptZVZlVm0tdzFGd2ZkYi1qdkI3ZUJXMjJ1RWtlWUNweF9zSFZWcEJid29zdkljZDdvRWFWbUJlZnNwb0pKLXBwZUpaQWZka1BhaUpWWnVzejQ3SVlSSnhIaWxpaFJjX3VYQ1k1dmozVUJHVXRKTjNXVnZWbmRrNDdhdw?oc=5"
+          }
+        ],
+        "source": "中国知识产权律师网",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LekxiVmQzZzNnc2syWmE1SVBmVzRsWVotSldCX25Ya3VKa1hEWEpzM2RjUHN2NUR2VGNfNzJ5d3ZlMTh1c0hvOXQyem01OE80ZUMxSDVJWmg?oc=5"
+      },
+      {
         "slug": "ai-news-20260603-auto-1-1a19c7",
         "title": "AI In Aviation Mar",
         "category": "AI新闻",
@@ -7823,6 +7939,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260604-auto-1-1cbc13",
+        "title": "Orion, Amrita Univ",
+        "category": "AI使用教程",
+        "date": "2026-06-04",
+        "summary": "Orion, Amrita University Launch Applied GenAI Elec",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Orion, Amrita Univ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Orion, Amrita University Launch Applied GenAI Elec",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Orion, Amrita University Launch Applied GenAI Elec",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Punjab Kesari English：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJ3RXRGZWVzY0RDZHZOeFFuMlRDS0JhR2ZUT3UzU2pERVMtQjlyVEhNS19uTmRXLVNLeC1Pc09HTHBUN3lLQTVkNHhlaE81RUVUSml4dlV2MlE4dzNlcllFblV4dUNyakM1RS1BX2kxYkVPYTNuVnFQZW5QbTN0X3NkQk9vWElfN3dybi1ocUM5cGNhczFEeF9mSktOTnlzMndSRl9ia9IBrAFBVV95cUxQYVNDMWFzeWZqNm9qTElUUmxhQkdXUnlDMHhPcm5UOWR5anRoTmtJMld6ZzNzbkNFOW1RLTJjendpazBDMFhFcUZwcXkyRXlOV1IyU0pzTW45SHBteUUyaXVTN2FDNFB3MzdOTXpOOHJON0habTZBYlB4bGxNdGZRRkc1anFLdUVEelRGT2ZTS3A3eDFNdWpaYW1XdjRoREpOSGozZW03S1FpM0Fx?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：现代版掩耳盗铃：Instagram AI漏洞并未被修复只是从前端隐藏界面且被黑客继续利用- 安全 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ub2VwS1dvZnkxLU5rZnJaRkhEeEFoVVltM2ZmZkU1SjM3VU1XTnVwZVZyZkR3YnhwMEtMLWhrVVBkSlZMa0t0WnNNVUNOZjNkWVBGeFNmV3UtWk9COUQ2Rw?oc=5"
+          },
+          {
+            "label": "搜狐网：短视频催生189个新职业，其中AI相关的达15个 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDJPdUdxZ09QYm5PN1BPRW1HN05NV1JZX2Z6clBCcmc1a2Vpd0FNV0I1QWhRdXFzT3F3WFpSemllazlobTA5dkczXzNkRzZlQTVNMGwwcTZhZms5ODZlN1hvZ0stQnAwWUtyd05qSWpBeHE3MjRBVjY0b0psTHV0VGUyb085Nmhw?oc=5"
+          }
+        ],
+        "source": "Punjab Kesari English",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMGJ3RXRGZWVzY0RDZHZOeFFuMlRDS0JhR2ZUT3UzU2pERVMtQjlyVEhNS19uTmRXLVNLeC1Pc09HTHBUN3lLQTVkNHhlaE81RUVUSml4dlV2MlE4dzNlcllFblV4dUNyakM1RS1BX2kxYkVPYTNuVnFQZW5QbTN0X3NkQk9vWElfN3dybi1ocUM5cGNhczFEeF9mSktOTnlzMndSRl9ia9IBrAFBVV95cUxQYVNDMWFzeWZqNm9qTElUUmxhQkdXUnlDMHhPcm5UOWR5anRoTmtJMld6ZzNzbkNFOW1RLTJjendpazBDMFhFcUZwcXkyRXlOV1IyU0pzTW45SHBteUUyaXVTN2FDNFB3MzdOTXpOOHJON0habTZBYlB4bGxNdGZRRkc1anFLdUVEelRGT2ZTS3A3eDFNdWpaYW1XdjRoREpOSGozZW03S1FpM0Fx?oc=5"
+      },
+      {
         "slug": "ai-guide-20260603-auto-1-1d5a5d",
         "title": "Infosys, TCS and W",
         "category": "AI使用教程",
@@ -11157,6 +11331,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260604-auto-1-081909",
+        "title": "Google unveils Gem",
+        "category": "开源项目",
+        "date": "2026-06-04",
+        "summary": "Google unveils Gemma 4 12B for local AI agents, co",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google unveils Gem 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google unveils Gemma 4 12B for local AI agents, co",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google unveils Gemma 4 12B for local AI agents, co",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "FoneArena.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z3J4ODRuWXQyMWQ3LUhSYlpJSGdlZXBmRGRic3UyOTVBN1ViOWtCZVBWX1pjU0Q0N3BSRWotWEQ0ZWpsaDR4X1BoYjdNM3BBcnJLVnJreHR3SWhpUGhpbEdkNUY0VXIxNnBxMFpEei1TYXJBamViSjhR0gF_QVVfeXFMTWZqTlUxSEw3cDNCUDFXV04tVTNhSHF6TFI2TFpVdVdoWFUybEpGMmlHNlJNd3Q1TXhQZGlxVWc1VzRGQ0l2WkVLUUVrdHh3dmYzeUh1NVpKbk5udUlZOVlrVFQ0SzU4LUJ1VU1HU0xDSXVmbW1pY1NmM0U3SnhCaw?oc=5"
+          },
+          {
+            "label": "Analytics India Magazine：Google’s New Gemma Model Brings Multimodal AI to 16GB Laptops - Analyt",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVldydWEwMDlYU2VDODRYNnczODM0b3h2Q25hclhhS21LUTJ0alp2b0o0QWNzV3dIY1Bnc3R1WUstdWlrT2gzRFpscVd2SjFYWEI2ZVotWVhiZkpfTWZGVmpvTnZvc2NQdU9MdVFMSURDSVI0R0JFOTBmZC1BLU9uejRWMGhrOGpLTV9pdEhldEtRZm5HeV8zNmRRWk02Vm8?oc=5"
+          },
+          {
+            "label": "Let's Data Science：AI Accelerates Vulnerability Exploitation, Shortens Remediation Window",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkcwMTdaVENJSWoybVJvNjVZT2hqRTlUVkFxMXZwdXRoRW0wSTl5RXJBUDNKdC03dXNFY1RrcWV2a2JUOHBmeE9HcG1zNGpMS0Rlci14ck1sN25kQXRvb1Z5ZTlRWUVkM3c2aEJ3WkRCNnNjeHZpR3VzZ1I4c0xkYjFSVG9VSWhzeEhHU0tzNkcxcVUwNFhqdzhsdGFOTDlKbUdFZA?oc=5"
+          }
+        ],
+        "source": "FoneArena.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z3J4ODRuWXQyMWQ3LUhSYlpJSGdlZXBmRGRic3UyOTVBN1ViOWtCZVBWX1pjU0Q0N3BSRWotWEQ0ZWpsaDR4X1BoYjdNM3BBcnJLVnJreHR3SWhpUGhpbEdkNUY0VXIxNnBxMFpEei1TYXJBamViSjhR0gF_QVVfeXFMTWZqTlUxSEw3cDNCUDFXV04tVTNhSHF6TFI2TFpVdVdoWFUybEpGMmlHNlJNd3Q1TXhQZGlxVWc1VzRGQ0l2WkVLUUVrdHh3dmYzeUh1NVpKbk5udUlZOVlrVFQ0SzU4LUJ1VU1HU0xDSXVmbW1pY1NmM0U3SnhCaw?oc=5"
+      },
+      {
+        "slug": "open-source-20260604-auto-2-9107b9",
+        "title": "Google’s New Gemma",
+        "category": "开源项目",
+        "date": "2026-06-04",
+        "summary": "Google’s New Gemma Model Brings Multimodal AI to 1",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google’s New Gemma 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google’s New Gemma Model Brings Multimodal AI to 1",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google’s New Gemma Model Brings Multimodal AI to 1",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Analytics India Magazine：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVldydWEwMDlYU2VDODRYNnczODM0b3h2Q25hclhhS21LUTJ0alp2b0o0QWNzV3dIY1Bnc3R1WUstdWlrT2gzRFpscVd2SjFYWEI2ZVotWVhiZkpfTWZGVmpvTnZvc2NQdU9MdVFMSURDSVI0R0JFOTBmZC1BLU9uejRWMGhrOGpLTV9pdEhldEtRZm5HeV8zNmRRWk02Vm8?oc=5"
+          },
+          {
+            "label": "FoneArena.com：Google unveils Gemma 4 12B for local AI agents, coding, and multimodal",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Z3J4ODRuWXQyMWQ3LUhSYlpJSGdlZXBmRGRic3UyOTVBN1ViOWtCZVBWX1pjU0Q0N3BSRWotWEQ0ZWpsaDR4X1BoYjdNM3BBcnJLVnJreHR3SWhpUGhpbEdkNUY0VXIxNnBxMFpEei1TYXJBamViSjhR0gF_QVVfeXFMTWZqTlUxSEw3cDNCUDFXV04tVTNhSHF6TFI2TFpVdVdoWFUybEpGMmlHNlJNd3Q1TXhQZGlxVWc1VzRGQ0l2WkVLUUVrdHh3dmYzeUh1NVpKbk5udUlZOVlrVFQ0SzU4LUJ1VU1HU0xDSXVmbW1pY1NmM0U3SnhCaw?oc=5"
+          },
+          {
+            "label": "Let's Data Science：AI Accelerates Vulnerability Exploitation, Shortens Remediation Window",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQkcwMTdaVENJSWoybVJvNjVZT2hqRTlUVkFxMXZwdXRoRW0wSTl5RXJBUDNKdC03dXNFY1RrcWV2a2JUOHBmeE9HcG1zNGpMS0Rlci14ck1sN25kQXRvb1Z5ZTlRWUVkM3c2aEJ3WkRCNnNjeHZpR3VzZ1I4c0xkYjFSVG9VSWhzeEhHU0tzNkcxcVUwNFhqdzhsdGFOTDlKbUdFZA?oc=5"
+          }
+        ],
+        "source": "Analytics India Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVldydWEwMDlYU2VDODRYNnczODM0b3h2Q25hclhhS21LUTJ0alp2b0o0QWNzV3dIY1Bnc3R1WUstdWlrT2gzRFpscVd2SjFYWEI2ZVotWVhiZkpfTWZGVmpvTnZvc2NQdU9MdVFMSURDSVI0R0JFOTBmZC1BLU9uejRWMGhrOGpLTV9pdEhldEtRZm5HeV8zNmRRWk02Vm8?oc=5"
+      },
       {
         "slug": "open-source-20260603-auto-1-fb3dec",
         "title": "NVIDIA Nemotron 3",
