@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260605-auto-1-7bb8fc",
+        "title": "Anthropic呼吁全球放缓AI研",
+        "category": "AI新闻",
+        "date": "2026-06-05",
+        "summary": "Anthropic呼吁全球放缓AI研发：或形成自我迭代能力闭环，人类失去控制 thepaper.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic呼吁全球放缓AI研 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic呼吁全球放缓AI研发：或形成自我迭代能力闭环，人类失去控制 thepaper.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic呼吁全球放缓AI研发：或形成自我迭代能力闭环，人类失去控制 thepaper.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thepaper.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aVWZMU0puajNBVndwZlhmdS1sTllHcDBiQXNUQl9XMU5fX0otV19SOTZjdjJEbjFOeUtYNWh0bndtUzZTMW9kaTU4OU1oY1JESnVuZHZGamYtaWlRLWc?oc=5"
+          },
+          {
+            "label": "金融界：人工智能板块震荡回调，人工智能ETF易方达（159819）热度攀升-ETF火线 - 金融界",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dExwVnlsdEMyWFA1NVRYcndvcDM2OWcwalpTMnFIdUE5N0pGX0t6Z25peGE0NWVXM0JEUGlELUNoLVhVVlBBMEsxWjBjYXB6LU9vVjNURkFvOVdFZXY3TFF3?oc=5"
+          },
+          {
+            "label": "PhocusWire：Expedia Group chairman Barry Diller cautions AI is no human replacemen",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3ZNSFFaUktyQnMxNzZGbXdnaEFOVnF6VC1xcVlqeWJnRFN2LVY4bG85U0JPSVhCbV9CSldCRE84TEFud2ZKOVhMN2RhakZXdTV6aUtJZjlUVktsTUtJVU5MXzNzNEg1QUdhUGlNaVVaU2FESnNidXRVSDQ5QklXd0M4NHBvUXV0MWtTRjgtREtMNTIwdHEyZzZ6ZTI5Q0lWZ0E?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aVWZMU0puajNBVndwZlhmdS1sTllHcDBiQXNUQl9XMU5fX0otV19SOTZjdjJEbjFOeUtYNWh0bndtUzZTMW9kaTU4OU1oY1JESnVuZHZGamYtaWlRLWc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260605-auto-2-db4337",
+        "title": "人工智能板块震荡回调，人工智能ETF",
+        "category": "AI新闻",
+        "date": "2026-06-05",
+        "summary": "人工智能板块震荡回调，人工智能ETF易方达（159819）热度攀升-ETF火线 金融界",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能板块震荡回调，人工智能ETF 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人工智能板块震荡回调，人工智能ETF易方达（159819）热度攀升-ETF火线 金融界",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能板块震荡回调，人工智能ETF易方达（159819）热度攀升-ETF火线 金融界",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "金融界：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dExwVnlsdEMyWFA1NVRYcndvcDM2OWcwalpTMnFIdUE5N0pGX0t6Z25peGE0NWVXM0JEUGlELUNoLVhVVlBBMEsxWjBjYXB6LU9vVjNURkFvOVdFZXY3TFF3?oc=5"
+          },
+          {
+            "label": "thepaper.cn：Anthropic呼吁全球放缓AI研发：或形成自我迭代能力闭环，人类失去控制 - thepaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aVWZMU0puajNBVndwZlhmdS1sTllHcDBiQXNUQl9XMU5fX0otV19SOTZjdjJEbjFOeUtYNWh0bndtUzZTMW9kaTU4OU1oY1JESnVuZHZGamYtaWlRLWc?oc=5"
+          },
+          {
+            "label": "PhocusWire：Expedia Group chairman Barry Diller cautions AI is no human replacemen",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3ZNSFFaUktyQnMxNzZGbXdnaEFOVnF6VC1xcVlqeWJnRFN2LVY4bG85U0JPSVhCbV9CSldCRE84TEFud2ZKOVhMN2RhakZXdTV6aUtJZjlUVktsTUtJVU5MXzNzNEg1QUdhUGlNaVVaU2FESnNidXRVSDQ5QklXd0M4NHBvUXV0MWtTRjgtREtMNTIwdHEyZzZ6ZTI5Q0lWZ0E?oc=5"
+          }
+        ],
+        "source": "金融界",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41dExwVnlsdEMyWFA1NVRYcndvcDM2OWcwalpTMnFIdUE5N0pGX0t6Z25peGE0NWVXM0JEUGlELUNoLVhVVlBBMEsxWjBjYXB6LU9vVjNURkFvOVdFZXY3TFF3?oc=5"
+      },
+      {
         "slug": "ai-news-20260604-auto-1-025835",
         "title": "Artificial intelli",
         "category": "AI新闻",
@@ -7939,6 +8055,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260605-auto-1-7e27c8",
+        "title": "香蕉搞复仇、榴莲当霸总，披上“水果”",
+        "category": "AI使用教程",
+        "date": "2026-06-05",
+        "summary": "香蕉搞复仇、榴莲当霸总，披上“水果”外衣的雷人短剧，够乱 青岛日报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "香蕉搞复仇、榴莲当霸总，披上“水果” 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "香蕉搞复仇、榴莲当霸总，披上“水果”外衣的雷人短剧，够乱 青岛日报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "香蕉搞复仇、榴莲当霸总，披上“水果”外衣的雷人短剧，够乱 青岛日报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "青岛日报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLUENZbW1YN1h1NGxFRUhBXy1FMWhPQjlfcmt4Tk1Za2RZNXJxeHJHbnZmejhrdmVTM3ZZdklDRUhyMWM1U2xXdjQzbHk1ZHFDakRkU0RTSUY?oc=5"
+          },
+          {
+            "label": "AOL.com：AI Know‑How Is in Demand: 5 Basic Tips To Thrive in the 2026 Economy -",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6bjNkRUlUWFNvOURZQ3NLdEhYWVE3Z3JWUk05dnlNbnJCbzIzbDlLLVZBejhXdURKM2d3ZzBmdXFJTXMzQ25qUTQ1NTRERnNTc0xfelh2QmJzX1J1WXloTF9ldTMzSTI0UXIxcGhYcDczQlk?oc=5"
+          },
+          {
+            "label": "新浪财经：AI会感到绝望？Anthropic最新研究给出了一个更吓人的说法 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQOVo3QkFMbFZTUGNlblVSTFY0VWRydkVhN3VGYmJVODNJS0Vna0JPcmo2TzQ3aERodjBINmFXendQVm9BU1VDeHZKSHlrNm5aWjY5a054NWhBMlh1aDVRQWFDQjMwZURra3RDellka09vNzRCb2RFamcyNlB0elF2M0ZXVVJoM2ZJZklzaHlPSThKXzc4aUk0MWY0Um5LSE54QXBOX2pWdGZ1a1huc2JsNkNTZlhWZnozVUltNERZaGo2RlRmM1NFS0huN0R2UFFHYVVQTTVaYUdQNHU5ZnF2TFBqblhTVzJ3bzFrMnN4WmtoaHZURDlXNVBfcFptRzdwSG1HWFR1UGtNVEc1YnV1YklyM1hfbk9Vc0lzaFdNa1hYbnB4ZUx4dmNZcjM2WHM3elpXMm5oUzdNSDBxUU9OVVV3YnB4QlZGOXFYeGFaX0Y?oc=5"
+          }
+        ],
+        "source": "青岛日报",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLUENZbW1YN1h1NGxFRUhBXy1FMWhPQjlfcmt4Tk1Za2RZNXJxeHJHbnZmejhrdmVTM3ZZdklDRUhyMWM1U2xXdjQzbHk1ZHFDakRkU0RTSUY?oc=5"
+      },
+      {
         "slug": "ai-guide-20260604-auto-1-1cbc13",
         "title": "Orion, Amrita Univ",
         "category": "AI使用教程",
@@ -11331,6 +11505,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260605-auto-1-83c3b3",
+        "title": "MiniMax M3 Ranks H",
+        "category": "开源项目",
+        "date": "2026-06-05",
+        "summary": "MiniMax M3 Ranks Highest Among Open-Source Models,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MiniMax M3 Ranks H 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "MiniMax M3 Ranks Highest Among Open-Source Models,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MiniMax M3 Ranks Highest Among Open-Source Models,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "KuCoin：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEtac3BYbTUwbE1YSjh1YWdyRTNDektsNnNscGNJSVlXNThLeXhtQW1Ldno0d3p2bVBqc3BOZXZ6NzlEajFtM2JLZDdnc2JhMnE3NVlFZnQ2OHpLVG40amdaNVphRHpwc1I2VXJ1QU9uUGtmMFEwajZncmNXb09xcTF5RWd6Rl9XMzhRQk9vYTRfeHVyczBSSU9peHU0cWFHSDMyM093UjJsSE9hR0NkcQ?oc=5"
+          },
+          {
+            "label": "Tech Times：What Is PewDiePie’s Free Odysseus AI Agent? Features, Uses, and How to",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2x5M0d1R2xUX3BiM3k2SlZtR0k0eVJXeWl5dW5Pb3FtZzctRS1SdXYyV3dDQVRqTElLb2RLU3hKUG1YSEtFV0lQLWc5X19hcGZNYjIzN2taelprUG9SSjV6aU9xU3o1UkU5SENPNGNGM2RaMzE2ellGYzQ5YkZTUzdTLWt1QVhNbXh0a1YyUEMxcWJyUm9DMTNrV1YtcHZJNGlsbmtsVWJtYVFlYkZ5Tm1NbDRQYlhfNkdV?oc=5"
+          },
+          {
+            "label": "51CTO：机器打机器的时代来了：AI Agent重塑欺诈格局，金融风控如何接招 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRlQwZi1VVkZtb1pDOXZFenZnajdQVk1fX1NIRkNlZDNuT3d2YXpucnVNTDJ2YjZZek9CcE9nZ1NBbmo1eGJfd0JqX3BqMmxIYUJz?oc=5"
+          }
+        ],
+        "source": "KuCoin",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEtac3BYbTUwbE1YSjh1YWdyRTNDektsNnNscGNJSVlXNThLeXhtQW1Ldno0d3p2bVBqc3BOZXZ6NzlEajFtM2JLZDdnc2JhMnE3NVlFZnQ2OHpLVG40amdaNVphRHpwc1I2VXJ1QU9uUGtmMFEwajZncmNXb09xcTF5RWd6Rl9XMzhRQk9vYTRfeHVyczBSSU9peHU0cWFHSDMyM093UjJsSE9hR0NkcQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260605-auto-2-d44d71",
+        "title": "What Is PewDiePie’",
+        "category": "开源项目",
+        "date": "2026-06-05",
+        "summary": "What Is PewDiePie’s Free Odysseus AI Agent? Featur",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What Is PewDiePie’ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "What Is PewDiePie’s Free Odysseus AI Agent? Featur",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What Is PewDiePie’s Free Odysseus AI Agent? Featur",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2x5M0d1R2xUX3BiM3k2SlZtR0k0eVJXeWl5dW5Pb3FtZzctRS1SdXYyV3dDQVRqTElLb2RLU3hKUG1YSEtFV0lQLWc5X19hcGZNYjIzN2taelprUG9SSjV6aU9xU3o1UkU5SENPNGNGM2RaMzE2ellGYzQ5YkZTUzdTLWt1QVhNbXh0a1YyUEMxcWJyUm9DMTNrV1YtcHZJNGlsbmtsVWJtYVFlYkZ5Tm1NbDRQYlhfNkdV?oc=5"
+          },
+          {
+            "label": "KuCoin：MiniMax M3 Ranks Highest Among Open-Source Models, Igniting Debate in ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEtac3BYbTUwbE1YSjh1YWdyRTNDektsNnNscGNJSVlXNThLeXhtQW1Ldno0d3p2bVBqc3BOZXZ6NzlEajFtM2JLZDdnc2JhMnE3NVlFZnQ2OHpLVG40amdaNVphRHpwc1I2VXJ1QU9uUGtmMFEwajZncmNXb09xcTF5RWd6Rl9XMzhRQk9vYTRfeHVyczBSSU9peHU0cWFHSDMyM093UjJsSE9hR0NkcQ?oc=5"
+          },
+          {
+            "label": "51CTO：机器打机器的时代来了：AI Agent重塑欺诈格局，金融风控如何接招 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRlQwZi1VVkZtb1pDOXZFenZnajdQVk1fX1NIRkNlZDNuT3d2YXpucnVNTDJ2YjZZek9CcE9nZ1NBbmo1eGJfd0JqX3BqMmxIYUJz?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2x5M0d1R2xUX3BiM3k2SlZtR0k0eVJXeWl5dW5Pb3FtZzctRS1SdXYyV3dDQVRqTElLb2RLU3hKUG1YSEtFV0lQLWc5X19hcGZNYjIzN2taelprUG9SSjV6aU9xU3o1UkU5SENPNGNGM2RaMzE2ellGYzQ5YkZTUzdTLWt1QVhNbXh0a1YyUEMxcWJyUm9DMTNrV1YtcHZJNGlsbmtsVWJtYVFlYkZ5Tm1NbDRQYlhfNkdV?oc=5"
+      },
       {
         "slug": "open-source-20260604-auto-1-081909",
         "title": "Google unveils Gem",
