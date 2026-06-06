@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260606-auto-1-26b598",
+        "title": "“新华语典”智能体内蒙古首批部门单位",
+        "category": "AI新闻",
+        "date": "2026-06-06",
+        "summary": "“新华语典”智能体内蒙古首批部门单位试用交流座谈会举行 新华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“新华语典”智能体内蒙古首批部门单位 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“新华语典”智能体内蒙古首批部门单位试用交流座谈会举行 新华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“新华语典”智能体内蒙古首批部门单位试用交流座谈会举行 新华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVBfZWFnRno3THFoQ0F5bjlSd1IxRno4WGpzQ0VJYUdFbWh5QTZmazh5dVcyRHpzZFlHcVg4NzU1TGU2NlpIV0RqTG40UzZXZ05kaWVrWVhBYy0xQmJlWkdIbDJISW9BYk96RzZTSGdVRUEtNFIyS3NWalhmTFU0cE9kRQ?oc=5"
+          },
+          {
+            "label": "Colorado Springs Gazette：Fort Carson Gen. Ellis honored for integrating AI into national defens",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFBtX3F5WGFRQ201akZSNUtDMlZTOUQ0bFEyM2pKYjZXOG1XOUxIQVVGYnZHdnlxdk9fb0FSZ2I3bk02WHFQX1BGS1RDZy1qRWVZd05nN2xteW1OWGlTakZyNXhMSEpfZ3NVcDktbXFqX2loVnQzS041ZjFnSGdNSWhWZ3ZrVXI3eUEwVzdLOE5kZ3p3ZHF2U0w4ZVFMRkh3MTFnSw?oc=5"
+          },
+          {
+            "label": "36 Kr：36氪出海·AI | 迪拜宣布智能体AI倡议，中国AI企业迎来出海新风口 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NOVJ1Q3pXekJRcmE2RGN6QXVRenhOdVNCaDdhTWpHREpjUzlOWlZlRmVLcXA0NVFJMHc1V29HOWpScHhfUDNhdkRlcHNqdw?oc=5"
+          }
+        ],
+        "source": "新华网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVBfZWFnRno3THFoQ0F5bjlSd1IxRno4WGpzQ0VJYUdFbWh5QTZmazh5dVcyRHpzZFlHcVg4NzU1TGU2NlpIV0RqTG40UzZXZ05kaWVrWVhBYy0xQmJlWkdIbDJISW9BYk96RzZTSGdVRUEtNFIyS3NWalhmTFU0cE9kRQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260606-auto-2-ed4787",
+        "title": "Fort Carson Gen. E",
+        "category": "AI新闻",
+        "date": "2026-06-06",
+        "summary": "Fort Carson Gen. Ellis honored for integrating AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Fort Carson Gen. E 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Fort Carson Gen. Ellis honored for integrating AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Fort Carson Gen. Ellis honored for integrating AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Colorado Springs Gazette：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFBtX3F5WGFRQ201akZSNUtDMlZTOUQ0bFEyM2pKYjZXOG1XOUxIQVVGYnZHdnlxdk9fb0FSZ2I3bk02WHFQX1BGS1RDZy1qRWVZd05nN2xteW1OWGlTakZyNXhMSEpfZ3NVcDktbXFqX2loVnQzS041ZjFnSGdNSWhWZ3ZrVXI3eUEwVzdLOE5kZ3p3ZHF2U0w4ZVFMRkh3MTFnSw?oc=5"
+          },
+          {
+            "label": "新华网：“新华语典”智能体内蒙古首批部门单位试用交流座谈会举行 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVBfZWFnRno3THFoQ0F5bjlSd1IxRno4WGpzQ0VJYUdFbWh5QTZmazh5dVcyRHpzZFlHcVg4NzU1TGU2NlpIV0RqTG40UzZXZ05kaWVrWVhBYy0xQmJlWkdIbDJISW9BYk96RzZTSGdVRUEtNFIyS3NWalhmTFU0cE9kRQ?oc=5"
+          },
+          {
+            "label": "36 Kr：36氪出海·AI | 迪拜宣布智能体AI倡议，中国AI企业迎来出海新风口 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NOVJ1Q3pXekJRcmE2RGN6QXVRenhOdVNCaDdhTWpHREpjUzlOWlZlRmVLcXA0NVFJMHc1V29HOWpScHhfUDNhdkRlcHNqdw?oc=5"
+          }
+        ],
+        "source": "Colorado Springs Gazette",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFBtX3F5WGFRQ201akZSNUtDMlZTOUQ0bFEyM2pKYjZXOG1XOUxIQVVGYnZHdnlxdk9fb0FSZ2I3bk02WHFQX1BGS1RDZy1qRWVZd05nN2xteW1OWGlTakZyNXhMSEpfZ3NVcDktbXFqX2loVnQzS041ZjFnSGdNSWhWZ3ZrVXI3eUEwVzdLOE5kZ3p3ZHF2U0w4ZVFMRkh3MTFnSw?oc=5"
+      },
+      {
         "slug": "ai-news-20260605-auto-1-7bb8fc",
         "title": "Anthropic呼吁全球放缓AI研",
         "category": "AI新闻",
@@ -8055,6 +8171,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260606-auto-1-94a1a6",
+        "title": "The smartest ChatG",
+        "category": "AI使用教程",
+        "date": "2026-06-06",
+        "summary": "The smartest ChatGPT users are putting local AI in",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The smartest ChatG 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The smartest ChatGPT users are putting local AI in",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The smartest ChatGPT users are putting local AI in",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tom's Guide：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVVBV21vSEY4TFVaZU5wVGdoLTg2SmgtVENOZmU4N0JWVEM0UUFkS08zUTJDa1FyNVlPLV8tNU5nbjRsSWtYbHBjaXk0VXIyZzh0UnlOMG9ObGhDLWxNN2NHR1N3d1hpa0c0OW9HX2ZhdmhLSGdRNjBWeGhGalhkcEZNRnFsa3RqbnBodDhOQkpkeWNoYWZRajlIQWNwcmI3N2k4?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "中华网：码界领航怎么样?靠谱吗? - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UzhJMC1TUlA1dV95cTdUMHYwc3FwVm5ycUo2NC1rRGQ2NkcwZ0RRbTBwd2JEV1hUVmRWWXAxZ0E5QzhHc0xOZTRlLS1CZUt6SFVTb3ZqbUozME9NNEFrUmVidnNxMkFGNEpwSUl3?oc=5"
+          }
+        ],
+        "source": "Tom's Guide",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVVBV21vSEY4TFVaZU5wVGdoLTg2SmgtVENOZmU4N0JWVEM0UUFkS08zUTJDa1FyNVlPLV8tNU5nbjRsSWtYbHBjaXk0VXIyZzh0UnlOMG9ObGhDLWxNN2NHR1N3d1hpa0c0OW9HX2ZhdmhLSGdRNjBWeGhGalhkcEZNRnFsa3RqbnBodDhOQkpkeWNoYWZRajlIQWNwcmI3N2k4?oc=5"
+      },
+      {
         "slug": "ai-guide-20260605-auto-1-7e27c8",
         "title": "香蕉搞复仇、榴莲当霸总，披上“水果”",
         "category": "AI使用教程",
@@ -11505,6 +11679,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260606-auto-1-7cb311",
+        "title": "HexStrike AI RED-T",
+        "category": "开源项目",
+        "date": "2026-06-06",
+        "summary": "HexStrike AI RED-TEAM With 127 Security Tools and",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "HexStrike AI RED-T 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "HexStrike AI RED-TEAM With 127 Security Tools and",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "HexStrike AI RED-TEAM With 127 Security Tools and",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CyberSecurityNews：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40cFVhTGxFRmdNT3QxanNiU1IzaHlncmdHWEM5TXh6bkEza0xQWUpTa251aWNUOGI1Yjg2V1hRQmNTNnNucVFuMy1lM0dRUzY1WENodnNIVlZLSEJfN3JEblIybGhndEZP0gFuQVVfeXFMTm1ha3hsLVRIUDBDY09HLU95QUZoVGtHTi1IYmVEcktnVXRETGJIYXJ3SjctTGp0V1NEbFI0MFpXalpteGFrNVR5cmZNbUc3bjJLNm1sdjU3bU9BUFVyUC1zRDJZQ253a2ZTSk44bGc?oc=5"
+          },
+          {
+            "label": "凤凰网科技：OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pMkZ3QjM1S2Q1RmdON2tpR0Y5UGlRaUxwaFJQY3lEU09Vb3lzNXAyWFJvWFVWSFdyTzZTa1B6bEpWclJpYTdlcmt0STc?oc=5"
+          },
+          {
+            "label": "VOI.ID：中国人工智能进入工厂和电力项目，不仅可以智能地回答 - VOI.ID",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KRFU3LWNiaU8xVWdZM2hzNkhwbkc3eDV5UE81eUo5VUZ0Nlp6SzlEVWlGQXBBb2RmNWtkZGxid29rbmfSAUJBVV95cUxNRTJyalVOU2ZNZEE2STBmT3dkTnQwdFg4UDdPOGIwV3dNNlpmMlFzcm1UajQzdzFBMmpTUXVXbzh6TUE?oc=5"
+          }
+        ],
+        "source": "CyberSecurityNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40cFVhTGxFRmdNT3QxanNiU1IzaHlncmdHWEM5TXh6bkEza0xQWUpTa251aWNUOGI1Yjg2V1hRQmNTNnNucVFuMy1lM0dRUzY1WENodnNIVlZLSEJfN3JEblIybGhndEZP0gFuQVVfeXFMTm1ha3hsLVRIUDBDY09HLU95QUZoVGtHTi1IYmVEcktnVXRETGJIYXJ3SjctTGp0V1NEbFI0MFpXalpteGFrNVR5cmZNbUc3bjJLNm1sdjU3bU9BUFVyUC1zRDJZQ253a2ZTSk44bGc?oc=5"
+      },
+      {
+        "slug": "open-source-20260606-auto-2-0bf60a",
+        "title": "OpenHuman刷屏硅谷，开源、免",
+        "category": "开源项目",
+        "date": "2026-06-06",
+        "summary": "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 凤凰网科技",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenHuman刷屏硅谷，开源、免 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 凤凰网科技",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenHuman刷屏硅谷，开源、免费、能接100多个应用，但我越用越后怕 凤凰网科技",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网科技：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pMkZ3QjM1S2Q1RmdON2tpR0Y5UGlRaUxwaFJQY3lEU09Vb3lzNXAyWFJvWFVWSFdyTzZTa1B6bEpWclJpYTdlcmt0STc?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews：HexStrike AI RED-TEAM With 127 Security Tools and BOAZ Red Team Integr",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40cFVhTGxFRmdNT3QxanNiU1IzaHlncmdHWEM5TXh6bkEza0xQWUpTa251aWNUOGI1Yjg2V1hRQmNTNnNucVFuMy1lM0dRUzY1WENodnNIVlZLSEJfN3JEblIybGhndEZP0gFuQVVfeXFMTm1ha3hsLVRIUDBDY09HLU95QUZoVGtHTi1IYmVEcktnVXRETGJIYXJ3SjctTGp0V1NEbFI0MFpXalpteGFrNVR5cmZNbUc3bjJLNm1sdjU3bU9BUFVyUC1zRDJZQ253a2ZTSk44bGc?oc=5"
+          },
+          {
+            "label": "VOI.ID：中国人工智能进入工厂和电力项目，不仅可以智能地回答 - VOI.ID",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KRFU3LWNiaU8xVWdZM2hzNkhwbkc3eDV5UE81eUo5VUZ0Nlp6SzlEVWlGQXBBb2RmNWtkZGxid29rbmfSAUJBVV95cUxNRTJyalVOU2ZNZEE2STBmT3dkTnQwdFg4UDdPOGIwV3dNNlpmMlFzcm1UajQzdzFBMmpTUXVXbzh6TUE?oc=5"
+          }
+        ],
+        "source": "凤凰网科技",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pMkZ3QjM1S2Q1RmdON2tpR0Y5UGlRaUxwaFJQY3lEU09Vb3lzNXAyWFJvWFVWSFdyTzZTa1B6bEpWclJpYTdlcmt0STc?oc=5"
+      },
       {
         "slug": "open-source-20260605-auto-1-83c3b3",
         "title": "MiniMax M3 Ranks H",
