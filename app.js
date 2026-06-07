@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260607-auto-1-af3ad9",
+        "title": "Tencent Mocked for",
+        "category": "AI新闻",
+        "date": "2026-06-07",
+        "summary": "Tencent Mocked for Being Slow in AI, the Answer is",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Tencent Mocked for 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Tencent Mocked for Being Slow in AI, the Answer is",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Tencent Mocked for Being Slow in AI, the Answer is",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "VOI.ID：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IcjR3dkk4QjZ1STdFWlM5V0RxSWtSOVFGQVhmVF81UEZrWlBtRzdQZVFfYWZQVnAtSjBSUlBKYVdiTFZqQXhiNTdhQdIBQkFVX3lxTFAwSExKbTBxbkxtRkZIUm9KY3Q5UmpBUmFlckNWOGFKZGF6VTdPdjRJazE5dGd1dTNsUGo3ekJON1NPZw?oc=5"
+          },
+          {
+            "label": "京报网：最新报告：近九成创作者使用生成式人工智能，同质化成为普遍担忧 - 京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMm5ZN2tBaDRyTl9TVWtnLWdVaHhFZDRGV0thZ3VEdVBoWV82ZWc1V1Y1dk1pOFdWU3hGcnNHNHdMaGxET09FalY1Uzg5M1BGVEh4djFLWWI4OWZEdVE?oc=5"
+          },
+          {
+            "label": "1News：Major AI firm urges 'pause' in development as risks grow - 1News",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY01qSHRrSU5MeDR4ZU9lOExJd0ZOaVV0S0xyMXVjOFd3NVlOdWxNYk9ySDdQTU5DSjl1aklVbnUwWjM3RFZjSGMwN0xrOEduSHhDTjdQYmVIanNTSkJhOTV3TW9QNTlpT1Q5TUU5UEU3alFiY2NCWW4wdXNmUjM0SUJWTWZmOVFSNk1NUWRpNXZOWDUt?oc=5"
+          }
+        ],
+        "source": "VOI.ID",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IcjR3dkk4QjZ1STdFWlM5V0RxSWtSOVFGQVhmVF81UEZrWlBtRzdQZVFfYWZQVnAtSjBSUlBKYVdiTFZqQXhiNTdhQdIBQkFVX3lxTFAwSExKbTBxbkxtRkZIUm9KY3Q5UmpBUmFlckNWOGFKZGF6VTdPdjRJazE5dGd1dTNsUGo3ekJON1NPZw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260607-auto-2-612528",
+        "title": "最新报告：近九成创作者使用生成式人工",
+        "category": "AI新闻",
+        "date": "2026-06-07",
+        "summary": "最新报告：近九成创作者使用生成式人工智能，同质化成为普遍担忧 京报网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "最新报告：近九成创作者使用生成式人工 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "最新报告：近九成创作者使用生成式人工智能，同质化成为普遍担忧 京报网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "最新报告：近九成创作者使用生成式人工智能，同质化成为普遍担忧 京报网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "京报网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMm5ZN2tBaDRyTl9TVWtnLWdVaHhFZDRGV0thZ3VEdVBoWV82ZWc1V1Y1dk1pOFdWU3hGcnNHNHdMaGxET09FalY1Uzg5M1BGVEh4djFLWWI4OWZEdVE?oc=5"
+          },
+          {
+            "label": "VOI.ID：Tencent Mocked for Being Slow in AI, the Answer is Disgusting - VOI.ID",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IcjR3dkk4QjZ1STdFWlM5V0RxSWtSOVFGQVhmVF81UEZrWlBtRzdQZVFfYWZQVnAtSjBSUlBKYVdiTFZqQXhiNTdhQdIBQkFVX3lxTFAwSExKbTBxbkxtRkZIUm9KY3Q5UmpBUmFlckNWOGFKZGF6VTdPdjRJazE5dGd1dTNsUGo3ekJON1NPZw?oc=5"
+          },
+          {
+            "label": "1News：Major AI firm urges 'pause' in development as risks grow - 1News",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY01qSHRrSU5MeDR4ZU9lOExJd0ZOaVV0S0xyMXVjOFd3NVlOdWxNYk9ySDdQTU5DSjl1aklVbnUwWjM3RFZjSGMwN0xrOEduSHhDTjdQYmVIanNTSkJhOTV3TW9QNTlpT1Q5TUU5UEU3alFiY2NCWW4wdXNmUjM0SUJWTWZmOVFSNk1NUWRpNXZOWDUt?oc=5"
+          }
+        ],
+        "source": "京报网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GMm5ZN2tBaDRyTl9TVWtnLWdVaHhFZDRGV0thZ3VEdVBoWV82ZWc1V1Y1dk1pOFdWU3hGcnNHNHdMaGxET09FalY1Uzg5M1BGVEh4djFLWWI4OWZEdVE?oc=5"
+      },
+      {
         "slug": "ai-news-20260606-auto-1-26b598",
         "title": "“新华语典”智能体内蒙古首批部门单位",
         "category": "AI新闻",
@@ -8171,6 +8287,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260607-auto-1-db5ccc",
+        "title": "NVIDIA garak Tutor",
+        "category": "AI使用教程",
+        "date": "2026-06-07",
+        "summary": "NVIDIA garak Tutorial: Build a Complete Defensive",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA garak Tutor 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NVIDIA garak Tutorial: Build a Complete Defensive",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA garak Tutorial: Build a Complete Defensive",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnB0WkJYcGEtVERGTndVSFF4WHhmOTAtRWFmb29TaDZpd3lGdWRZNmpLZnlIYXhFZGRDdGI1cmRPVXI4aTZudDVpSFdUYVdVSDlfbTMxN0VIWDhmTE1FRm5Tb3R0TXRqOXVQZFlOY0F5cjlBUUNRZW1ydU9ZRFlFZFJTakVEbmo0Z2lmNnYxWUNxNVhQVGFPb09lZXY5OHduN1VYbk1ieFRuU1NVUDI3VzU1dWRidnpHM1B6YkR4c2N6RFBQNkhBb3pPYlN0MWk1Y0dkbmxfYXhKcXZBUHBVdg?oc=5"
+          },
+          {
+            "label": "搜狐网：本周 AI 项目推荐：Seele、喵吉托、SodaGame......AI游戏产品不再迷恋“一句话生成” - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWhDSWxMQmdEVkhmS1c2cXgtcHpaQXFyUXFieEhnQUVzQlBfNEVnNUN5aDk4X1J3bzd0VDRDTExhSUhjT3Y1aHpwMXY3U0FWdDVLUUxtc0tVdFg0RHJhNS1QanJtM05yS0pVS0dpcGZ3akVScmpGdE1LWjBFV3M5MnJSbVZyYWhS?oc=5"
+          },
+          {
+            "label": "thepaper.cn：戛纳炸了锅：用AI“拍”出一部95分钟院线电影，成本只要50万美元 - thepaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zd2ZHNGNsOHExMFQtd0pEb3cxNUt2MjRjR3JiblU2eHUwY0JXSDd2aGVwMkRTQ3VlRkJFNC01UldINU9CRTNkT2cwYmY1aEJkWnRnbURIUUo3MnVOWWc?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnB0WkJYcGEtVERGTndVSFF4WHhmOTAtRWFmb29TaDZpd3lGdWRZNmpLZnlIYXhFZGRDdGI1cmRPVXI4aTZudDVpSFdUYVdVSDlfbTMxN0VIWDhmTE1FRm5Tb3R0TXRqOXVQZFlOY0F5cjlBUUNRZW1ydU9ZRFlFZFJTakVEbmo0Z2lmNnYxWUNxNVhQVGFPb09lZXY5OHduN1VYbk1ieFRuU1NVUDI3VzU1dWRidnpHM1B6YkR4c2N6RFBQNkhBb3pPYlN0MWk1Y0dkbmxfYXhKcXZBUHBVdg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260606-auto-1-94a1a6",
         "title": "The smartest ChatG",
         "category": "AI使用教程",
@@ -11679,6 +11853,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260607-auto-1-7e0cf5",
+        "title": "大家都忙着Vibe Coding，这",
+        "category": "开源项目",
+        "date": "2026-06-07",
+        "summary": "大家都忙着Vibe Coding，这家负责兜底的开源公司估值已达百亿美元 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "大家都忙着Vibe Coding，这 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "大家都忙着Vibe Coding，这家负责兜底的开源公司估值已达百亿美元 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "大家都忙着Vibe Coding，这家负责兜底的开源公司估值已达百亿美元 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOME52WlVoMDJ3OXBvTGwwQ0hfUFdQNFNzN1h0TnBuWmNLbEhlQXVfY0Q5bHlVWG1MZTRlUG1rak4tMGNPeG5SUVpmLUVTNWNwaDlFc1F5ZFVkaklyaFdmY0Z1RFpRdVhRQllpa2NqaXVTQVJMUkMyUkVMSVBOT0pwVzB4V0xpTk93?oc=5"
+          },
+          {
+            "label": "XDA：An open-source project bans public pulls, citing AI-generated code sec",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82YjlNZVFmMmlwR2xiTGk2LTUxczVNVDIxckx3V005RTI5Y29PMkhNQm05bVB4NDZMbEsxcUxyUjQ3VDNUUXIxQmhqeHhNWnRwUGNTRWkyS2ZBbkhfRU9xVGZyVld2RFVvYXVsOHFpczJVZU9T?oc=5"
+          },
+          {
+            "label": "Fathom Journal：Setting Up Agentic Inbox For Cloudflare Email Service (bBvto10IuP) - F",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9saG5PUDVOSTd6cmdMZS16TGNORHBLWm9zUXdmVU80VDRLUGZkSzlEVldtTFZ1TXViejdJTFBNanozSDBpT09JSnF1TncxMTdtNzdHT2piM2hwbUMtVnozWWZDWlJPYjBkb29mZFNnUXh4dk9xV0E?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOME52WlVoMDJ3OXBvTGwwQ0hfUFdQNFNzN1h0TnBuWmNLbEhlQXVfY0Q5bHlVWG1MZTRlUG1rak4tMGNPeG5SUVpmLUVTNWNwaDlFc1F5ZFVkaklyaFdmY0Z1RFpRdVhRQllpa2NqaXVTQVJMUkMyUkVMSVBOT0pwVzB4V0xpTk93?oc=5"
+      },
+      {
+        "slug": "open-source-20260607-auto-2-3e9d08",
+        "title": "An open-source pro",
+        "category": "开源项目",
+        "date": "2026-06-07",
+        "summary": "An open-source project bans public pulls, citing A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "An open-source pro 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "An open-source project bans public pulls, citing A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "An open-source project bans public pulls, citing A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "XDA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82YjlNZVFmMmlwR2xiTGk2LTUxczVNVDIxckx3V005RTI5Y29PMkhNQm05bVB4NDZMbEsxcUxyUjQ3VDNUUXIxQmhqeHhNWnRwUGNTRWkyS2ZBbkhfRU9xVGZyVld2RFVvYXVsOHFpczJVZU9T?oc=5"
+          },
+          {
+            "label": "搜狐网：大家都忙着Vibe Coding，这家负责兜底的开源公司估值已达百亿美元 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOME52WlVoMDJ3OXBvTGwwQ0hfUFdQNFNzN1h0TnBuWmNLbEhlQXVfY0Q5bHlVWG1MZTRlUG1rak4tMGNPeG5SUVpmLUVTNWNwaDlFc1F5ZFVkaklyaFdmY0Z1RFpRdVhRQllpa2NqaXVTQVJMUkMyUkVMSVBOT0pwVzB4V0xpTk93?oc=5"
+          },
+          {
+            "label": "Fathom Journal：Setting Up Agentic Inbox For Cloudflare Email Service (bBvto10IuP) - F",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9saG5PUDVOSTd6cmdMZS16TGNORHBLWm9zUXdmVU80VDRLUGZkSzlEVldtTFZ1TXViejdJTFBNanozSDBpT09JSnF1TncxMTdtNzdHT2piM2hwbUMtVnozWWZDWlJPYjBkb29mZFNnUXh4dk9xV0E?oc=5"
+          }
+        ],
+        "source": "XDA",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82YjlNZVFmMmlwR2xiTGk2LTUxczVNVDIxckx3V005RTI5Y29PMkhNQm05bVB4NDZMbEsxcUxyUjQ3VDNUUXIxQmhqeHhNWnRwUGNTRWkyS2ZBbkhfRU9xVGZyVld2RFVvYXVsOHFpczJVZU9T?oc=5"
+      },
       {
         "slug": "open-source-20260606-auto-1-7cb311",
         "title": "HexStrike AI RED-T",
