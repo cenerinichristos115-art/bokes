@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260608-auto-1-55ffd1",
+        "title": "Google Clarifies T",
+        "category": "AI新闻",
+        "date": "2026-06-08",
+        "summary": "Google Clarifies That Chrome Search Redirection to",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Clarifies T 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google Clarifies That Chrome Search Redirection to",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Clarifies That Chrome Search Redirection to",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AIBase：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ZTFpMjVMWEtpT0Z3bjR1NFZHOU8tNmRfMkpCcHpyVnJuSTJlSXFPaEhDYlZvSVNENFZFRXQ2X3V6YjFCYWczWEh3?oc=5"
+          },
+          {
+            "label": "东方财富：并行科技等成立粤云智算科技公司 - 东方财富",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdFRrWEtMTFJadWl3Qm9JZE5KWkVyRGNlSnZXZ09vSFhOeWNsQ1lhWDJKTm1PeDN5bjM1SzdGd0hnX0ZXN1FaZ1k2X1AyZFBaLWMxY2pZd3FFVTA1eTc1Ug?oc=5"
+          },
+          {
+            "label": "同花顺财经：凯瑞德等成立科技新公司，含AI及卫星相关业务 - 同花顺财经",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rdlNWR3N4RDZCLXhjU1Z6STdNaXo5ZTJXbm5IeTdoMEtBWUlkY1UxSEhuV1o0N1RBVnNvWS1obTZkNFFjM0x1LS1HVnp1NHE4dlQxQy1QRzEyTzItbEE?oc=5"
+          }
+        ],
+        "source": "AIBase",
+        "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ZTFpMjVMWEtpT0Z3bjR1NFZHOU8tNmRfMkpCcHpyVnJuSTJlSXFPaEhDYlZvSVNENFZFRXQ2X3V6YjFCYWczWEh3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260608-auto-2-cbee92",
+        "title": "并行科技等成立粤云智算科技公司 -",
+        "category": "AI新闻",
+        "date": "2026-06-08",
+        "summary": "并行科技等成立粤云智算科技公司 东方财富",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "并行科技等成立粤云智算科技公司 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "并行科技等成立粤云智算科技公司 东方财富",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "并行科技等成立粤云智算科技公司 东方财富",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "东方财富：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdFRrWEtMTFJadWl3Qm9JZE5KWkVyRGNlSnZXZ09vSFhOeWNsQ1lhWDJKTm1PeDN5bjM1SzdGd0hnX0ZXN1FaZ1k2X1AyZFBaLWMxY2pZd3FFVTA1eTc1Ug?oc=5"
+          },
+          {
+            "label": "AIBase：Google Clarifies That Chrome Search Redirection to AI Mode Is Not a Ne",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE02ZTFpMjVMWEtpT0Z3bjR1NFZHOU8tNmRfMkpCcHpyVnJuSTJlSXFPaEhDYlZvSVNENFZFRXQ2X3V6YjFCYWczWEh3?oc=5"
+          },
+          {
+            "label": "同花顺财经：凯瑞德等成立科技新公司，含AI及卫星相关业务 - 同花顺财经",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rdlNWR3N4RDZCLXhjU1Z6STdNaXo5ZTJXbm5IeTdoMEtBWUlkY1UxSEhuV1o0N1RBVnNvWS1obTZkNFFjM0x1LS1HVnp1NHE4dlQxQy1QRzEyTzItbEE?oc=5"
+          }
+        ],
+        "source": "东方财富",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdFRrWEtMTFJadWl3Qm9JZE5KWkVyRGNlSnZXZ09vSFhOeWNsQ1lhWDJKTm1PeDN5bjM1SzdGd0hnX0ZXN1FaZ1k2X1AyZFBaLWMxY2pZd3FFVTA1eTc1Ug?oc=5"
+      },
+      {
         "slug": "ai-news-20260607-auto-1-af3ad9",
         "title": "Tencent Mocked for",
         "category": "AI新闻",
@@ -8287,6 +8403,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260608-auto-1-ddc197",
+        "title": "米哈游创始人放弃的AI表演，Seed",
+        "category": "AI使用教程",
+        "date": "2026-06-08",
+        "summary": "米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评 thepaper.c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "米哈游创始人放弃的AI表演，Seed 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评 thepaper.c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评 thepaper.c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thepaper.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOZlltdEdYeUlnak1faVJ4VHB3OUVfXzFyQm9pVWJCM1ZjOGtNeGd2eE5UaGdISmdWWjVIS3NlYkFuMlZHeVk5UjQydUtaeUs2R3M3QTh3c0NHbndVNWc?oc=5"
+          },
+          {
+            "label": "新浪财经：聊天已死：OpenAI亲手终结ChatGPT - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2lXSVV0WjN2MlZfOUZwMGVpWlFYdXl3WTRNWXNZaEozNVJBOGJaNHl3SVdRVl9GWHVQRWxwZ012eTZHVnAtZlZsMExpejFQVVBtYmQwa2tra3E5V25IUVNBZmltRVNoU2h4cG93a2tKOXkzdFBKTjdDUmtHdHdieVpoYTZ6MF9jcHVVelc4alVnVVNYSl9DZzB3NkgwaHZobndkMDZJZw?oc=5"
+          },
+          {
+            "label": "53AI：比Codex快4倍！终于有开源模型卷本地Agent执行效率了～_tag2 - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UmIza2x3bmtndTEtdzROODdIZWgtb3lZYWlWQnk3Nk0yZFJQYThyVmpaTnVXZlB2LUlCX1JjUUVROHZUZUNoeGNtTzlaUFpPamlWWTYxY0tmMElOSHFqM1p6b25nQmhkeWc?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOZlltdEdYeUlnak1faVJ4VHB3OUVfXzFyQm9pVWJCM1ZjOGtNeGd2eE5UaGdISmdWWjVIS3NlYkFuMlZHeVk5UjQydUtaeUs2R3M3QTh3c0NHbndVNWc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260607-auto-1-db5ccc",
         "title": "NVIDIA garak Tutor",
         "category": "AI使用教程",
@@ -11853,6 +12027,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260608-auto-1-3cc8fa",
+        "title": "Lunit to join Nvid",
+        "category": "开源项目",
+        "date": "2026-06-08",
+        "summary": "Lunit to join Nvidia AI ecosystem meeting during J",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Lunit to join Nvid 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Lunit to join Nvidia AI ecosystem meeting during J",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Lunit to join Nvidia AI ecosystem meeting during J",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "koreabiomed.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qME9qTlpkNmdIRG44ajAxcHhDWkRxOThrQnFBNFhibEs3UjJ3M1hLeUQzV05PeHV3ZXhNQXJfNDJwVXY3ak9xWUtsUnlfM2xBZlpMRnZlN1RId1RYTVJZQ0FUMzlYS0lKaHV2ZVFn0gFyQVVfeXFMTmJGd3dDTncxdUc2WU1EQmREVjIwVlQyaWtibmtfbTF3WmtnU3NkUnNmN0xxQUpwNms0aWwxb2d0d3BnQ2JSSEtJX2UyRHc2cEplUHkwblNlb09xX3I5ejRObUthMHRFVWpjTTl4Y0hieDdB?oc=5"
+          },
+          {
+            "label": "Augment Code：How AI Changes the SDLC: A Six-Stage Guide - Augment Code",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydGdRLXloQXJVTlkxa1BtVUVkbGdpMHRVVnBRZWxjVXlXOTNEVTJvRmtrM0xsTTlpdkd1N3ZsZWlxSFZzSzZmZmtDbFljMUNtam4yTmM2TkdNai1kNUVWR2tYM3U5bEZXeGc?oc=5"
+          },
+          {
+            "label": "手机新浪网：AI机器请求首超人类_新浪新闻 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KZ0g1T2U3eDg4VG5FZXVONFNQM2IyQzJaenJ5anpINC1vcGs2WlR2WmJsNXFKbXp6ZVo5dzZGSTctTUU5ODhOejJtbmRiUTR6ckRWc1c3U29kN0NrWVB2OUdsMA?oc=5"
+          }
+        ],
+        "source": "koreabiomed.com",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qME9qTlpkNmdIRG44ajAxcHhDWkRxOThrQnFBNFhibEs3UjJ3M1hLeUQzV05PeHV3ZXhNQXJfNDJwVXY3ak9xWUtsUnlfM2xBZlpMRnZlN1RId1RYTVJZQ0FUMzlYS0lKaHV2ZVFn0gFyQVVfeXFMTmJGd3dDTncxdUc2WU1EQmREVjIwVlQyaWtibmtfbTF3WmtnU3NkUnNmN0xxQUpwNms0aWwxb2d0d3BnQ2JSSEtJX2UyRHc2cEplUHkwblNlb09xX3I5ejRObUthMHRFVWpjTTl4Y0hieDdB?oc=5"
+      },
+      {
+        "slug": "open-source-20260608-auto-2-e46612",
+        "title": "How AI Changes the",
+        "category": "开源项目",
+        "date": "2026-06-08",
+        "summary": "How AI Changes the SDLC: A Six-Stage Guide Augment",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How AI Changes the 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "How AI Changes the SDLC: A Six-Stage Guide Augment",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How AI Changes the SDLC: A Six-Stage Guide Augment",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Augment Code：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydGdRLXloQXJVTlkxa1BtVUVkbGdpMHRVVnBRZWxjVXlXOTNEVTJvRmtrM0xsTTlpdkd1N3ZsZWlxSFZzSzZmZmtDbFljMUNtam4yTmM2TkdNai1kNUVWR2tYM3U5bEZXeGc?oc=5"
+          },
+          {
+            "label": "koreabiomed.com：Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea ",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qME9qTlpkNmdIRG44ajAxcHhDWkRxOThrQnFBNFhibEs3UjJ3M1hLeUQzV05PeHV3ZXhNQXJfNDJwVXY3ak9xWUtsUnlfM2xBZlpMRnZlN1RId1RYTVJZQ0FUMzlYS0lKaHV2ZVFn0gFyQVVfeXFMTmJGd3dDTncxdUc2WU1EQmREVjIwVlQyaWtibmtfbTF3WmtnU3NkUnNmN0xxQUpwNms0aWwxb2d0d3BnQ2JSSEtJX2UyRHc2cEplUHkwblNlb09xX3I5ejRObUthMHRFVWpjTTl4Y0hieDdB?oc=5"
+          },
+          {
+            "label": "手机新浪网：AI机器请求首超人类_新浪新闻 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KZ0g1T2U3eDg4VG5FZXVONFNQM2IyQzJaenJ5anpINC1vcGs2WlR2WmJsNXFKbXp6ZVo5dzZGSTctTUU5ODhOejJtbmRiUTR6ckRWc1c3U29kN0NrWVB2OUdsMA?oc=5"
+          }
+        ],
+        "source": "Augment Code",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydGdRLXloQXJVTlkxa1BtVUVkbGdpMHRVVnBRZWxjVXlXOTNEVTJvRmtrM0xsTTlpdkd1N3ZsZWlxSFZzSzZmZmtDbFljMUNtam4yTmM2TkdNai1kNUVWR2tYM3U5bEZXeGc?oc=5"
+      },
       {
         "slug": "open-source-20260607-auto-1-7e0cf5",
         "title": "大家都忙着Vibe Coding，这",
