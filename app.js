@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260609-auto-1-715b6d",
+        "title": "ChatGPT-maker Open",
+        "category": "AI新闻",
+        "date": "2026-06-09",
+        "summary": "ChatGPT-maker OpenAI files to go public The Washin",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ChatGPT-maker Open 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "ChatGPT-maker OpenAI files to go public The Washin",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ChatGPT-maker OpenAI files to go public The Washin",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERzSEEwSm1CS25idFUxYXpEY2FPZU1BanNEOHRjbXd2NUpJYnpYeW9RNDNxR0ppckFIQ1RzVGhndXpaSFhnNkNaaGI2ejAxMk9ScDNmOHNJa0thZ3NsemlYWEgtcGZQSjFMay1EWmFuXy1DWmdIenFlWEhpMkZ3RlJndVZpVElzY1h4R0g5cjh4enZiTXEtcmlZVkN2Vm9HNEk1WF93LVpiSnBEVUlPSWFPdHI3UQ?oc=5"
+          },
+          {
+            "label": "vocal.media：From Data to Decisions: Zeeshan Hayat on AI-Powered Business Excellenc",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0wySXIzYkRJRU1Na1BOUWRiUG9xaFhrQ1dXRVA0Rnh6aDJ6cVl0UnkxTFpwUGJIZUt3NFk1SC1QRW1Cdnh2V0hBWjdtUnZ0TFplT0FHNVFGWWV1ZjJUMjdPTE9GMWlFeHZTd1NvYXNrYkhQT0pnRkF1bmdTcDUyY3FoZWpBOVlScHJzMGdLVGs3SW5Nd1pxWGx6VmFaS1U?oc=5"
+          },
+          {
+            "label": "Governing：The Protection That Tribal Nations’ Data Needs - Governing",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0VhdF96c2ctMXl0Ry1EbEhwWmd3TWoxOGZTbmxSbjBmV0ZVTEFucjEyMHN6NVNvY21CMUJYeU96c3I1OUtHcDBjcjFPVHhKbXdfRkw2X01XT2t4YnpyX2t1VkRxMHFPMC04TGp3b1ZPT04zeElEendON1ZURm11YVlkSW9qeU5HZVppUzY1UFVJOGJOTXdZeDhSNzU5SUFiN3Zr?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERzSEEwSm1CS25idFUxYXpEY2FPZU1BanNEOHRjbXd2NUpJYnpYeW9RNDNxR0ppckFIQ1RzVGhndXpaSFhnNkNaaGI2ejAxMk9ScDNmOHNJa0thZ3NsemlYWEgtcGZQSjFMay1EWmFuXy1DWmdIenFlWEhpMkZ3RlJndVZpVElzY1h4R0g5cjh4enZiTXEtcmlZVkN2Vm9HNEk1WF93LVpiSnBEVUlPSWFPdHI3UQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260609-auto-2-5d88cb",
+        "title": "From Data to Decis",
+        "category": "AI新闻",
+        "date": "2026-06-09",
+        "summary": "From Data to Decisions: Zeeshan Hayat on AI-Powere",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "From Data to Decis 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "From Data to Decisions: Zeeshan Hayat on AI-Powere",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "From Data to Decisions: Zeeshan Hayat on AI-Powere",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "vocal.media：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0wySXIzYkRJRU1Na1BOUWRiUG9xaFhrQ1dXRVA0Rnh6aDJ6cVl0UnkxTFpwUGJIZUt3NFk1SC1QRW1Cdnh2V0hBWjdtUnZ0TFplT0FHNVFGWWV1ZjJUMjdPTE9GMWlFeHZTd1NvYXNrYkhQT0pnRkF1bmdTcDUyY3FoZWpBOVlScHJzMGdLVGs3SW5Nd1pxWGx6VmFaS1U?oc=5"
+          },
+          {
+            "label": "The Washington Post：ChatGPT-maker OpenAI files to go public - The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERzSEEwSm1CS25idFUxYXpEY2FPZU1BanNEOHRjbXd2NUpJYnpYeW9RNDNxR0ppckFIQ1RzVGhndXpaSFhnNkNaaGI2ejAxMk9ScDNmOHNJa0thZ3NsemlYWEgtcGZQSjFMay1EWmFuXy1DWmdIenFlWEhpMkZ3RlJndVZpVElzY1h4R0g5cjh4enZiTXEtcmlZVkN2Vm9HNEk1WF93LVpiSnBEVUlPSWFPdHI3UQ?oc=5"
+          },
+          {
+            "label": "Governing：The Protection That Tribal Nations’ Data Needs - Governing",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0VhdF96c2ctMXl0Ry1EbEhwWmd3TWoxOGZTbmxSbjBmV0ZVTEFucjEyMHN6NVNvY21CMUJYeU96c3I1OUtHcDBjcjFPVHhKbXdfRkw2X01XT2t4YnpyX2t1VkRxMHFPMC04TGp3b1ZPT04zeElEendON1ZURm11YVlkSW9qeU5HZVppUzY1UFVJOGJOTXdZeDhSNzU5SUFiN3Zr?oc=5"
+          }
+        ],
+        "source": "vocal.media",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0wySXIzYkRJRU1Na1BOUWRiUG9xaFhrQ1dXRVA0Rnh6aDJ6cVl0UnkxTFpwUGJIZUt3NFk1SC1QRW1Cdnh2V0hBWjdtUnZ0TFplT0FHNVFGWWV1ZjJUMjdPTE9GMWlFeHZTd1NvYXNrYkhQT0pnRkF1bmdTcDUyY3FoZWpBOVlScHJzMGdLVGs3SW5Nd1pxWGx6VmFaS1U?oc=5"
+      },
+      {
         "slug": "ai-news-20260608-auto-1-55ffd1",
         "title": "Google Clarifies T",
         "category": "AI新闻",
@@ -8403,6 +8519,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260609-auto-1-eb3ca7",
+        "title": "How to Conduct Dee",
+        "category": "AI使用教程",
+        "date": "2026-06-09",
+        "summary": "How to Conduct Deep Research Using Claude's Dynami",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How to Conduct Dee 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How to Conduct Deep Research Using Claude's Dynami",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How to Conduct Deep Research Using Claude's Dynami",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Binance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQUJJaDVLdFB6UHJDeV83NU9UbklMa0F6T2xuazVjaFNEV045d1N3STdjSzlLNWZaRHRxdE4xcWhZekFyZG1QZnE4dVZOS1U2V19ZYUpmR1BXRnAzU2ZEZnZWb0g?oc=5"
+          },
+          {
+            "label": "积墨 AI：AI营销热潮退却：品牌开始集体“去AI化” - 积墨 AI",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWg2MWpwWk5lT3pBZHUzbHhhODF4eG9HOFZycHF1QmtNb29Ub0FrU0Z2b1RPSHBxVXVVQlRzZi1WSFBKMG9fbjlIeUtpQ2tfNGhYeC1KWmo0Sk9tQjBFZm5RNEdIUzd0cjRGdWZ2UE1tZko0T3RqS3RydTVmTkpEbzhxVk5ZaHhFbDNHQ21B?oc=5"
+          },
+          {
+            "label": "积墨 AI：开源多模态模型突破：本地Agent执行效率提升4倍 - 积墨 AI",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmlsc0lvaTBZTHNDcjVlS2xfMVA4VUItdDNUNlcydFhWcDBRazM0aUlmcnhoMGlNX1RORHJWWjFIMjBoWC1uYk15Zmd3NGxUNmdYcm9pc2ZTdE5yaTZfNldqdXNERnZ2c2VZLUYxUlUyeDRVUU1MUnY3SFNNMk52YWY1TnBlMWszUmg0X1djWDV5OHBfT3hBRGdtTDgzanhi?oc=5"
+          }
+        ],
+        "source": "Binance",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQUJJaDVLdFB6UHJDeV83NU9UbklMa0F6T2xuazVjaFNEV045d1N3STdjSzlLNWZaRHRxdE4xcWhZekFyZG1QZnE4dVZOS1U2V19ZYUpmR1BXRnAzU2ZEZnZWb0g?oc=5"
+      },
+      {
         "slug": "ai-guide-20260608-auto-1-ddc197",
         "title": "米哈游创始人放弃的AI表演，Seed",
         "category": "AI使用教程",
@@ -12027,6 +12201,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260609-auto-1-c8584a",
+        "title": "Microsoft (MSFT):",
+        "category": "开源项目",
+        "date": "2026-06-09",
+        "summary": "Microsoft (MSFT): Azure Dev Tools Compromised as H",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Microsoft (MSFT): 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Microsoft (MSFT): Azure Dev Tools Compromised as H",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Microsoft (MSFT): Azure Dev Tools Compromised as H",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "parameter.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkZvNXRsbGRUNjlSR2NZNFhfS19ZSWJMeDFHeGlsbnFMMDAyN3p5Vl9waG9Bd2kzVnZkRENBeG8wMjYzN3A2RjJpd0o1eVFVS05qTDg5MURFTERFSWVIWjZqZlAySXZqZDY0ZmMwZEVVWXljbjZma3hQTVpmcV9kT3lUdGktNXlESXNIb01tYWluR181TFdHMkNWY3Z4MU91enZvdHpyNEpSODlLUkViRWtuR3NETm1aQkE?oc=5"
+          },
+          {
+            "label": "OSCHINA：因遭到黑客攻击，微软关闭数十个开源仓库访问权限 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wWjhvZXhXcjloQ0dVeVBfazljZjQwUGFOU3BwS2hDQkJXTFd6ZklRV3FrSld0ZHo4SWNqWmVSQTBaLXVJclJfM0pvTQ?oc=5"
+          },
+          {
+            "label": "ised-isde.canada.ca：Canada’s National Artificial Intelligence Strategy: AI for All - ised-",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFlUSWFWQ1d1aDJUODg0YjlBZDFtZXA4U3V1TkZqNkVhOE5ZcW8zbV9qNDRpalk2LUxCNFpsclVObXZuNzc2Y3I1VzZ4WEFZVmpLV0xtLVpIVVkxeU1lWFhSS2VyZnZIQkVTVmNZdmFnX0FTamhoalBOY2t1TWF0V01Kd0xOUUx1bFprN1BBVnhvR0ZrcXZjVkdod2NEUQ?oc=5"
+          }
+        ],
+        "source": "parameter.io",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkZvNXRsbGRUNjlSR2NZNFhfS19ZSWJMeDFHeGlsbnFMMDAyN3p5Vl9waG9Bd2kzVnZkRENBeG8wMjYzN3A2RjJpd0o1eVFVS05qTDg5MURFTERFSWVIWjZqZlAySXZqZDY0ZmMwZEVVWXljbjZma3hQTVpmcV9kT3lUdGktNXlESXNIb01tYWluR181TFdHMkNWY3Z4MU91enZvdHpyNEpSODlLUkViRWtuR3NETm1aQkE?oc=5"
+      },
+      {
+        "slug": "open-source-20260609-auto-2-fa07c8",
+        "title": "因遭到黑客攻击，微软关闭数十个开源仓",
+        "category": "开源项目",
+        "date": "2026-06-09",
+        "summary": "因遭到黑客攻击，微软关闭数十个开源仓库访问权限 - OSCHINA - 开源 × AI · 开发者生",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "因遭到黑客攻击，微软关闭数十个开源仓 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "因遭到黑客攻击，微软关闭数十个开源仓库访问权限 - OSCHINA - 开源 × AI · 开发者生",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "因遭到黑客攻击，微软关闭数十个开源仓库访问权限 - OSCHINA - 开源 × AI · 开发者生",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wWjhvZXhXcjloQ0dVeVBfazljZjQwUGFOU3BwS2hDQkJXTFd6ZklRV3FrSld0ZHo4SWNqWmVSQTBaLXVJclJfM0pvTQ?oc=5"
+          },
+          {
+            "label": "parameter.io：Microsoft (MSFT): Azure Dev Tools Compromised as Hackers Target AI Dev",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYkZvNXRsbGRUNjlSR2NZNFhfS19ZSWJMeDFHeGlsbnFMMDAyN3p5Vl9waG9Bd2kzVnZkRENBeG8wMjYzN3A2RjJpd0o1eVFVS05qTDg5MURFTERFSWVIWjZqZlAySXZqZDY0ZmMwZEVVWXljbjZma3hQTVpmcV9kT3lUdGktNXlESXNIb01tYWluR181TFdHMkNWY3Z4MU91enZvdHpyNEpSODlLUkViRWtuR3NETm1aQkE?oc=5"
+          },
+          {
+            "label": "ised-isde.canada.ca：Canada’s National Artificial Intelligence Strategy: AI for All - ised-",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNFlUSWFWQ1d1aDJUODg0YjlBZDFtZXA4U3V1TkZqNkVhOE5ZcW8zbV9qNDRpalk2LUxCNFpsclVObXZuNzc2Y3I1VzZ4WEFZVmpLV0xtLVpIVVkxeU1lWFhSS2VyZnZIQkVTVmNZdmFnX0FTamhoalBOY2t1TWF0V01Kd0xOUUx1bFprN1BBVnhvR0ZrcXZjVkdod2NEUQ?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wWjhvZXhXcjloQ0dVeVBfazljZjQwUGFOU3BwS2hDQkJXTFd6ZklRV3FrSld0ZHo4SWNqWmVSQTBaLXVJclJfM0pvTQ?oc=5"
+      },
       {
         "slug": "open-source-20260608-auto-1-3cc8fa",
         "title": "Lunit to join Nvid",
