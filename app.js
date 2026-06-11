@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260611-auto-1-7eba34",
+        "title": "Florida Supreme Co",
+        "category": "AI新闻",
+        "date": "2026-06-11",
+        "summary": "Florida Supreme Court creates new rules after AI '",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Florida Supreme Co 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Florida Supreme Court creates new rules after AI '",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Florida Supreme Court creates new rules after AI '",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WINK News - Southwest Florida：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWxtNU5obFg5U0ZON1RjLUE0dTRGN1I3S2x3bkRoVTYySEdYQUpPbnV2S0JwRWNRNXNDaEV3WTBnN2R6UGpaM0tKcEh1RXFhMFA4SnVHSW1scW1jSlMtY0h1bWNrTjVWZXFyQmlUYTQzZExROEJjdmt3eVh6RDFhVEsxUW9oc0QtcDB4bDVWYmhtRDBUQzhTZ0tWb21La3ZxVUFuSmJVT2xLbWpZTkJQZHpnSUZKZTNSQVpVNnpDZEp3Q3V6NlViSmhPdkx5cjE3WFdkeGMxUjNnNXRsbF9ZWjJXUQ?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：AI工作“搭子”来了，劳动保护规则如何更新？ - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSmJQNkZSNVl5czFhWkliUGFTZW5oVWQ2OFl2MWhHU3FnLTVBS2I0RFdqY2tzb3JrWmRsS0JpaXIxOHZxSlpWbVJzbkh3amJSZWlPY21EX2IyWjFkRl9SQ1FqbTA0T0Zu?oc=5"
+          },
+          {
+            "label": "Yahoo：AI gold rush upends San Francisco housing market - Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWVlpZnNXSG5rSV9MclNwd25FeDBwdXlBX2t1OXVsYzNzVnlVZFY4b0R0MHBad1N1QjRudVFjeUh6b0JKMWlTRUdhOURsVGM2ZjJNb3ZRMnZFdk0tU05FWFlSYW5Odk1CMlp0ME1kRzlIeXJuTDR5c1VnVk9VaVZZOVR3bw?oc=5"
+          }
+        ],
+        "source": "WINK News - Southwest Florida",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWxtNU5obFg5U0ZON1RjLUE0dTRGN1I3S2x3bkRoVTYySEdYQUpPbnV2S0JwRWNRNXNDaEV3WTBnN2R6UGpaM0tKcEh1RXFhMFA4SnVHSW1scW1jSlMtY0h1bWNrTjVWZXFyQmlUYTQzZExROEJjdmt3eVh6RDFhVEsxUW9oc0QtcDB4bDVWYmhtRDBUQzhTZ0tWb21La3ZxVUFuSmJVT2xLbWpZTkJQZHpnSUZKZTNSQVpVNnpDZEp3Q3V6NlViSmhPdkx5cjE3WFdkeGMxUjNnNXRsbF9ZWjJXUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260611-auto-2-a8b4ad",
+        "title": "AI工作“搭子”来了，劳动保护规则如",
+        "category": "AI新闻",
+        "date": "2026-06-11",
+        "summary": "AI工作“搭子”来了，劳动保护规则如何更新？ chinanews.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI工作“搭子”来了，劳动保护规则如 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI工作“搭子”来了，劳动保护规则如何更新？ chinanews.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI工作“搭子”来了，劳动保护规则如何更新？ chinanews.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "chinanews.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSmJQNkZSNVl5czFhWkliUGFTZW5oVWQ2OFl2MWhHU3FnLTVBS2I0RFdqY2tzb3JrWmRsS0JpaXIxOHZxSlpWbVJzbkh3amJSZWlPY21EX2IyWjFkRl9SQ1FqbTA0T0Zu?oc=5"
+          },
+          {
+            "label": "WINK News - Southwest Florida：Florida Supreme Court creates new rules after AI 'hallucinations' - WI",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYWxtNU5obFg5U0ZON1RjLUE0dTRGN1I3S2x3bkRoVTYySEdYQUpPbnV2S0JwRWNRNXNDaEV3WTBnN2R6UGpaM0tKcEh1RXFhMFA4SnVHSW1scW1jSlMtY0h1bWNrTjVWZXFyQmlUYTQzZExROEJjdmt3eVh6RDFhVEsxUW9oc0QtcDB4bDVWYmhtRDBUQzhTZ0tWb21La3ZxVUFuSmJVT2xLbWpZTkJQZHpnSUZKZTNSQVpVNnpDZEp3Q3V6NlViSmhPdkx5cjE3WFdkeGMxUjNnNXRsbF9ZWjJXUQ?oc=5"
+          },
+          {
+            "label": "Yahoo：AI gold rush upends San Francisco housing market - Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWVlpZnNXSG5rSV9MclNwd25FeDBwdXlBX2t1OXVsYzNzVnlVZFY4b0R0MHBad1N1QjRudVFjeUh6b0JKMWlTRUdhOURsVGM2ZjJNb3ZRMnZFdk0tU05FWFlSYW5Odk1CMlp0ME1kRzlIeXJuTDR5c1VnVk9VaVZZOVR3bw?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSmJQNkZSNVl5czFhWkliUGFTZW5oVWQ2OFl2MWhHU3FnLTVBS2I0RFdqY2tzb3JrWmRsS0JpaXIxOHZxSlpWbVJzbkh3amJSZWlPY21EX2IyWjFkRl9SQ1FqbTA0T0Zu?oc=5"
+      },
+      {
         "slug": "ai-news-20260610-auto-1-3bee5c",
         "title": "AI智能体需求走向刚需，关注人工智能",
         "category": "AI新闻",
@@ -8635,6 +8751,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260611-auto-1-667b3c",
+        "title": "This Is Not Prompt",
+        "category": "AI使用教程",
+        "date": "2026-06-11",
+        "summary": "This Is Not Prompt Engineering HackerNoon",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "This Is Not Prompt 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "This Is Not Prompt Engineering HackerNoon",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "This Is Not Prompt Engineering HackerNoon",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FWVNCZkd5MVQtRE95TjBEeWZBb3RFdFdjRmVVWFQ2TFMxdXdTWGh0R2xBSnhNUGFzZFhtcnRuMUpXRXlyUFJmV3l0U0pYaklBXzJKWW82ZVUyWGxxQkg5YkMzRQ?oc=5"
+          },
+          {
+            "label": "蓝点网：真是个小机灵鬼！有黑客在恶意代码顶部增加核武器设计提示词 用来对抗AI分析 - 蓝点网",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GMFRhMXA4eFZ3MFhWMGpzN1JWckFwT1BLek5McmJHZXJkZ1B0cG5tTUdjQ0lVcVptR3VYZGZSZWlMWGwtSEdKTndtb19HcUdsZENKUTYtcnU?oc=5"
+          },
+          {
+            "label": "36 Kr：马斯克和黄仁勋的“AI工厂”背后，一场看不见硝烟的“淡水掠夺战”已经打响 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43em5WaUxNS3ZMa1R6VU40cDQ3Yk5RMzR1RGdod2xOREFnT1FUdUI3X3JXR2NNc096Z3RsVDROankxLW0yOTQ5enQzTUJlakFt?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FWVNCZkd5MVQtRE95TjBEeWZBb3RFdFdjRmVVWFQ2TFMxdXdTWGh0R2xBSnhNUGFzZFhtcnRuMUpXRXlyUFJmV3l0U0pYaklBXzJKWW82ZVUyWGxxQkg5YkMzRQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260610-auto-1-207e35",
         "title": "告别抽卡焦虑，OiiOii2.0升级",
         "category": "AI使用教程",
@@ -12375,6 +12549,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260611-auto-1-5045ef",
+        "title": "Balaji Srinivasan",
+        "category": "开源项目",
+        "date": "2026-06-11",
+        "summary": "Balaji Srinivasan at SuperAI: The Case for Persona",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Balaji Srinivasan 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Balaji Srinivasan at SuperAI: The Case for Persona",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Balaji Srinivasan at SuperAI: The Case for Persona",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MediaNama：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTM3X3IyTFptR21QejhCWGhHMEQwVElWdFp6VGR5M2lRejBueWNZTU12UWNBcnEyMXJhTndDV1hSaG5zOEVEQWJJV2l1b2FOd1NQY2JPRTFpV2tycV9lWkdEdVo1blNTS01FTl9UVlZreFlMY3ZjZG9NeUVxdHRHZVd3SUxSbVM3eGJsdDlBMmxGV3c?oc=5"
+          },
+          {
+            "label": "FoneArena.com：Google unveils DiffusionGemma open AI model with up to 4x faster text ",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NTU1Ja3VyeTZyS1IzTGF0SGhEODY4ek9MZktjc0VNbTVwb0lzTWxJb1FQckdsSzhKVFlObkNXazlBSEpZU1lPMHBPMmNBU0VmOWRMR3c0ZEtyNnZmRGszQkh6Wm9qMTdWaG1vMFItMWptZXlEYWNDNTcxRDlQUdIBgwFBVV95cUxOdlk4MGtTd0paZ3djRjdxTFA0c1Q0YU1ra0V5MjY3UUxUeEo5NUlZbWE5ZjlFRnoyV05sakZFSmFCc1F2b2o3dnJMSXlkOXNoRnNPMTlCcGZqV1JrSTFjRnNaOUZpTnpwR1AybXlDTTI3MHlOODJpamJ0anRaNjVkRDRXZw?oc=5"
+          },
+          {
+            "label": "新浪财经：360再次披露13个AI基础设施漏洞，政企AI业务亟需体检 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWndKNERub0hvTEJYZ0ZxR1diMDVIWVZsNVBDd01WVERYLUxRQzdpdVdPRTI2LUs5TXQ5a2pmQ3FFaUNjYlJ3SmF1NHIyQVBmeGV6VjM2WWNoRzk5a2g0dGFRSFlFRDV3amRnVld3RFRXSDFLdXNFWFFaS1dobUxmMTJHWkZNS1BTcnE5TE15d1lvRTd2VzVmRVR4TVY5NnNSYndJc2JCTlo0QWJ6VFdwX09pbnpZNldJdDg4X0h3YklteDhhbjBRTVpmd3NpeU5sRmJqbjV1OFRQbTYtUkVKUE8wdzVJUVdwQWM5UlVMdU9xZUloOENPbmM5UzdRc1hFYmdEdXhzdXo2Ulpnemc?oc=5"
+          }
+        ],
+        "source": "MediaNama",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTM3X3IyTFptR21QejhCWGhHMEQwVElWdFp6VGR5M2lRejBueWNZTU12UWNBcnEyMXJhTndDV1hSaG5zOEVEQWJJV2l1b2FOd1NQY2JPRTFpV2tycV9lWkdEdVo1blNTS01FTl9UVlZreFlMY3ZjZG9NeUVxdHRHZVd3SUxSbVM3eGJsdDlBMmxGV3c?oc=5"
+      },
+      {
+        "slug": "open-source-20260611-auto-2-68321c",
+        "title": "Google unveils Dif",
+        "category": "开源项目",
+        "date": "2026-06-11",
+        "summary": "Google unveils DiffusionGemma open AI model with u",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google unveils Dif 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google unveils DiffusionGemma open AI model with u",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google unveils DiffusionGemma open AI model with u",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "FoneArena.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NTU1Ja3VyeTZyS1IzTGF0SGhEODY4ek9MZktjc0VNbTVwb0lzTWxJb1FQckdsSzhKVFlObkNXazlBSEpZU1lPMHBPMmNBU0VmOWRMR3c0ZEtyNnZmRGszQkh6Wm9qMTdWaG1vMFItMWptZXlEYWNDNTcxRDlQUdIBgwFBVV95cUxOdlk4MGtTd0paZ3djRjdxTFA0c1Q0YU1ra0V5MjY3UUxUeEo5NUlZbWE5ZjlFRnoyV05sakZFSmFCc1F2b2o3dnJMSXlkOXNoRnNPMTlCcGZqV1JrSTFjRnNaOUZpTnpwR1AybXlDTTI3MHlOODJpamJ0anRaNjVkRDRXZw?oc=5"
+          },
+          {
+            "label": "MediaNama：Balaji Srinivasan at SuperAI: The Case for Personal, Private, Programm",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObTM3X3IyTFptR21QejhCWGhHMEQwVElWdFp6VGR5M2lRejBueWNZTU12UWNBcnEyMXJhTndDV1hSaG5zOEVEQWJJV2l1b2FOd1NQY2JPRTFpV2tycV9lWkdEdVo1blNTS01FTl9UVlZreFlMY3ZjZG9NeUVxdHRHZVd3SUxSbVM3eGJsdDlBMmxGV3c?oc=5"
+          },
+          {
+            "label": "新浪财经：360再次披露13个AI基础设施漏洞，政企AI业务亟需体检 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWndKNERub0hvTEJYZ0ZxR1diMDVIWVZsNVBDd01WVERYLUxRQzdpdVdPRTI2LUs5TXQ5a2pmQ3FFaUNjYlJ3SmF1NHIyQVBmeGV6VjM2WWNoRzk5a2g0dGFRSFlFRDV3amRnVld3RFRXSDFLdXNFWFFaS1dobUxmMTJHWkZNS1BTcnE5TE15d1lvRTd2VzVmRVR4TVY5NnNSYndJc2JCTlo0QWJ6VFdwX09pbnpZNldJdDg4X0h3YklteDhhbjBRTVpmd3NpeU5sRmJqbjV1OFRQbTYtUkVKUE8wdzVJUVdwQWM5UlVMdU9xZUloOENPbmM5UzdRc1hFYmdEdXhzdXo2Ulpnemc?oc=5"
+          }
+        ],
+        "source": "FoneArena.com",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NTU1Ja3VyeTZyS1IzTGF0SGhEODY4ek9MZktjc0VNbTVwb0lzTWxJb1FQckdsSzhKVFlObkNXazlBSEpZU1lPMHBPMmNBU0VmOWRMR3c0ZEtyNnZmRGszQkh6Wm9qMTdWaG1vMFItMWptZXlEYWNDNTcxRDlQUdIBgwFBVV95cUxOdlk4MGtTd0paZ3djRjdxTFA0c1Q0YU1ra0V5MjY3UUxUeEo5NUlZbWE5ZjlFRnoyV05sakZFSmFCc1F2b2o3dnJMSXlkOXNoRnNPMTlCcGZqV1JrSTFjRnNaOUZpTnpwR1AybXlDTTI3MHlOODJpamJ0anRaNjVkRDRXZw?oc=5"
+      },
       {
         "slug": "open-source-20260610-auto-1-e4b3c8",
         "title": "AI本地模型部署AI固态硬盘推荐：三",
