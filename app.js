@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260612-auto-1-2110c8",
+        "title": "国家市场监管总局、国家发展改革委联合",
+        "category": "AI新闻",
+        "date": "2026-06-12",
+        "summary": "国家市场监管总局、国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》（以下简称《",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国家市场监管总局、国家发展改革委联合 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "国家市场监管总局、国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》（以下简称《",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "国家市场监管总局、国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》（以下简称《",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRldkV0xpcDhaTWg5WV9kbXRyY3VmdkZ6ampaSXk3eEtkU2dPenpPX0luYjlsMUdXQkZwLWYxaXJqQkFIQWhZVnRjUXJUOUpubDhIcTd4Vy1mNEVVWi1iUEZvTUMyT0NVd2c3MjR2NlhkVk5PWFhTc1hiaWkwVzB5NTdyTlRqVWdW?oc=5"
+          },
+          {
+            "label": "ERP Today：German Court Raises Legal Stakes for Google’s AI-Generated Search Answ",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iWWNfTkNKRmFXOEF6QXNrMkVoakEyYUgwSXU2eENZTlJYSW9nVFpEcGlReVBNcGg0RDVSQ2g3UDJvMjZ4V0UtZFdOdExDWkxTcUhhdXMxQWpUNHlTUXNVVWxMTWliZWFQbjVkTzBn?oc=5"
+          },
+          {
+            "label": "新华网：AI加速走向物理世界——互联世界大会热议AI产业 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yYnl3WmJCUTZaQXpzV09ONjE2TU9yZlBQYnhDWXJqTVNiUFhzQ0VyZ0Q2SHJXMXp0VnE1Zmo1ZDN3T285RFVoUGdoY0dWYzhHaDctV2dWMHcwRkpkSXV5QTk1cUNvcnJISVR1azhndFV1YWJOcFFoc3lTRWVjSzg?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRldkV0xpcDhaTWg5WV9kbXRyY3VmdkZ6ampaSXk3eEtkU2dPenpPX0luYjlsMUdXQkZwLWYxaXJqQkFIQWhZVnRjUXJUOUpubDhIcTd4Vy1mNEVVWi1iUEZvTUMyT0NVd2c3MjR2NlhkVk5PWFhTc1hiaWkwVzB5NTdyTlRqVWdW?oc=5"
+      },
+      {
+        "slug": "ai-news-20260612-auto-2-68c677",
+        "title": "German Court Raise",
+        "category": "AI新闻",
+        "date": "2026-06-12",
+        "summary": "German Court Raises Legal Stakes for Google’s AI-G",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "German Court Raise 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "German Court Raises Legal Stakes for Google’s AI-G",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "German Court Raises Legal Stakes for Google’s AI-G",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ERP Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iWWNfTkNKRmFXOEF6QXNrMkVoakEyYUgwSXU2eENZTlJYSW9nVFpEcGlReVBNcGg0RDVSQ2g3UDJvMjZ4V0UtZFdOdExDWkxTcUhhdXMxQWpUNHlTUXNVVWxMTWliZWFQbjVkTzBn?oc=5"
+          },
+          {
+            "label": "搜狐网：国家市场监管总局、国家发展改革委联合印发《人工智能计量体系和能力建设指引（2026版）》（以下简称《指引》），系统布局人工智能计量能力建设，",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRldkV0xpcDhaTWg5WV9kbXRyY3VmdkZ6ampaSXk3eEtkU2dPenpPX0luYjlsMUdXQkZwLWYxaXJqQkFIQWhZVnRjUXJUOUpubDhIcTd4Vy1mNEVVWi1iUEZvTUMyT0NVd2c3MjR2NlhkVk5PWFhTc1hiaWkwVzB5NTdyTlRqVWdW?oc=5"
+          },
+          {
+            "label": "新华网：AI加速走向物理世界——互联世界大会热议AI产业 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yYnl3WmJCUTZaQXpzV09ONjE2TU9yZlBQYnhDWXJqTVNiUFhzQ0VyZ0Q2SHJXMXp0VnE1Zmo1ZDN3T285RFVoUGdoY0dWYzhHaDctV2dWMHcwRkpkSXV5QTk1cUNvcnJISVR1azhndFV1YWJOcFFoc3lTRWVjSzg?oc=5"
+          }
+        ],
+        "source": "ERP Today",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iWWNfTkNKRmFXOEF6QXNrMkVoakEyYUgwSXU2eENZTlJYSW9nVFpEcGlReVBNcGg0RDVSQ2g3UDJvMjZ4V0UtZFdOdExDWkxTcUhhdXMxQWpUNHlTUXNVVWxMTWliZWFQbjVkTzBn?oc=5"
+      },
+      {
         "slug": "ai-news-20260611-auto-1-7eba34",
         "title": "Florida Supreme Co",
         "category": "AI新闻",
@@ -8751,6 +8867,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260612-auto-1-f1f467",
+        "title": "The ultimate ChatG",
+        "category": "AI使用教程",
+        "date": "2026-06-12",
+        "summary": "The ultimate ChatGPT AI image guide: Pro-level pro",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The ultimate ChatG 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The ultimate ChatGPT AI image guide: Pro-level pro",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The ultimate ChatGPT AI image guide: Pro-level pro",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "financialexpress.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVk2V0trNTFSSUNnM1RRalplbUVNVWpoVjIweUo5RHpnQ3Z5SVNLR2FTdjVNcVNTbkdVOG14aEF2WkNzcVV2Nmg2Ni1wU0hNaE04ZHVfNm5UN051clp4OXZsVFI0QTBNcktZTmdnRWdYMmtZRWR6YmNLYU1EMlI5ejNEQjVBTE9GWTBPMVctdzd0U2pvdWVPSWxnOVMzR1M3T21GS0dhbERrbFMwTl9GLUpTTHJkRnlXRk9JeEpkSVZfNlNqTVk1bkZsUEJHSnNBcnoyZG1R0gHcAUFVX3lxTE5vOGIxN3hWMWJNcVBUU2RTaGxTY01qTFVKeHZ0TVJLY0M0VEhaaHVWTDZ3U2FmR2tIQkI4X0U5RW9NNXVpaEM3Q3djRkVzSEhoeW1ubkdGOGx6amJrWXloNWxGcmdZaktxM1ZSOFg1ekdGNDJUNkpvWXd6eFhtV3VWVHNFdF8tdWZXYkV2TjVHUW1SWFdxYUsxZXFaSFpWMTctV3BfbWtfMHF0QXN3YlljSUZOU04xNWZQaDd5Zl9Pbjl4ZEZ6elRNNEpnVjNFVlFkeTF3VGFsVTVYYTE?oc=5"
+          },
+          {
+            "label": "51CTO：陶哲轩First Proof二期结果出炉！最低八美元一题，AI烧出七道论文级解法 - 51CTO",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kMTJWbUZ4a3ZfRlItc3ZYV0VWOHJaM09Xc0ZvT1NaWTVUS3E3dUlLQ1NYUnd1RGNra29QLTFZQXpUZDhQWnI3UFZ2RU9fSTlEUS04?oc=5"
+          },
+          {
+            "label": "Gearbrain：How SaaS Teams Are Building Internal AI Knowledge Systems - Gearbrain",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qcHgyVG4tam51ekhwUFh4cW1ZRUdtRFZJM0dHclBISFZWWUd3VUx2c01yMS1WNHlwT091aEhCd29rUmZhMGF2T2c1UFA0b0pfMXdKNFlBTzdNX1JTWG84MEpKRng1emZTRVJxLWc4UHh0cEVaV0JrR3l3?oc=5"
+          }
+        ],
+        "source": "financialexpress.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVk2V0trNTFSSUNnM1RRalplbUVNVWpoVjIweUo5RHpnQ3Z5SVNLR2FTdjVNcVNTbkdVOG14aEF2WkNzcVV2Nmg2Ni1wU0hNaE04ZHVfNm5UN051clp4OXZsVFI0QTBNcktZTmdnRWdYMmtZRWR6YmNLYU1EMlI5ejNEQjVBTE9GWTBPMVctdzd0U2pvdWVPSWxnOVMzR1M3T21GS0dhbERrbFMwTl9GLUpTTHJkRnlXRk9JeEpkSVZfNlNqTVk1bkZsUEJHSnNBcnoyZG1R0gHcAUFVX3lxTE5vOGIxN3hWMWJNcVBUU2RTaGxTY01qTFVKeHZ0TVJLY0M0VEhaaHVWTDZ3U2FmR2tIQkI4X0U5RW9NNXVpaEM3Q3djRkVzSEhoeW1ubkdGOGx6amJrWXloNWxGcmdZaktxM1ZSOFg1ekdGNDJUNkpvWXd6eFhtV3VWVHNFdF8tdWZXYkV2TjVHUW1SWFdxYUsxZXFaSFpWMTctV3BfbWtfMHF0QXN3YlljSUZOU04xNWZQaDd5Zl9Pbjl4ZEZ6elRNNEpnVjNFVlFkeTF3VGFsVTVYYTE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260611-auto-1-667b3c",
         "title": "This Is Not Prompt",
         "category": "AI使用教程",
@@ -12549,6 +12723,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260612-auto-1-d87a07",
+        "title": "vLLM vs Ollama 202",
+        "category": "开源项目",
+        "date": "2026-06-12",
+        "summary": "vLLM vs Ollama 2026: 793 vs 41 TPS, 19x Gap [Teste",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "vLLM vs Ollama 202 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "vLLM vs Ollama 2026: 793 vs 41 TPS, 19x Gap [Teste",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "vLLM vs Ollama 2026: 793 vs 41 TPS, 19x Gap [Teste",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech-insider.org：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wYzByR1d2V2xHV3FnQlUzdVQtT29iTVVFWnpUdVRtTDBHNkQ1QUtsRDBIMjJmRmtxTUwxUU1SZzJwTGR4djJYS0xWM1lweWxBWFJSOG0tVVBXQkk?oc=5"
+          },
+          {
+            "label": "Let's Data Science：Xiaomi Details AI Models and Feature Portfolio - Let's Data Science",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeXRGMWtUZElyTXhVSmRoX2c3VlBNeTNYRU5lSEFMMFZzVjIxTVZNX3FSdktWcHNIQUpIT1M4R1JiNGtabm8zbXpmclE0a2x4Tm1tNWJmMVFWYkt1alFmY04ybF9GUUFCOFBPY0djVUUtVDdSb0x5LTJWaWQxQnRNb2V2VGVIVmwwNklmMDR0RXFvdw?oc=5"
+          },
+          {
+            "label": "디지털투데이：Xiaomi开源MiMo Code V0.1.0，称在核心编程基准上超越Claude Code - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEFxS3hjVzZvM3NIdFhYa0YtMXU2RjdYM3BQUm5Tby0zZUtJanZ1dGRGTkdpQ1BqUlBDckxzaEVyNndPVFQ4V3VNNVlCbVl0WXRVLUt3aE5ua0tDNE8xeTRlNmVCeDZuZno5MDRGUFJYOEtTeEhvcmlpUjhQLVVhVkJjREVFSFUxNUlrWnhHQXhqSko1REFHQ3RkeEVwNmY0WTZRNG9YSQ?oc=5"
+          }
+        ],
+        "source": "tech-insider.org",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wYzByR1d2V2xHV3FnQlUzdVQtT29iTVVFWnpUdVRtTDBHNkQ1QUtsRDBIMjJmRmtxTUwxUU1SZzJwTGR4djJYS0xWM1lweWxBWFJSOG0tVVBXQkk?oc=5"
+      },
+      {
+        "slug": "open-source-20260612-auto-2-f169de",
+        "title": "Xiaomi Details AI",
+        "category": "开源项目",
+        "date": "2026-06-12",
+        "summary": "Xiaomi Details AI Models and Feature Portfolio Let",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Xiaomi Details AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Xiaomi Details AI Models and Feature Portfolio Let",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Xiaomi Details AI Models and Feature Portfolio Let",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Let's Data Science：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeXRGMWtUZElyTXhVSmRoX2c3VlBNeTNYRU5lSEFMMFZzVjIxTVZNX3FSdktWcHNIQUpIT1M4R1JiNGtabm8zbXpmclE0a2x4Tm1tNWJmMVFWYkt1alFmY04ybF9GUUFCOFBPY0djVUUtVDdSb0x5LTJWaWQxQnRNb2V2VGVIVmwwNklmMDR0RXFvdw?oc=5"
+          },
+          {
+            "label": "tech-insider.org：vLLM vs Ollama 2026: 793 vs 41 TPS, 19x Gap [Tested] - tech-insider.or",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wYzByR1d2V2xHV3FnQlUzdVQtT29iTVVFWnpUdVRtTDBHNkQ1QUtsRDBIMjJmRmtxTUwxUU1SZzJwTGR4djJYS0xWM1lweWxBWFJSOG0tVVBXQkk?oc=5"
+          },
+          {
+            "label": "디지털투데이：Xiaomi开源MiMo Code V0.1.0，称在核心编程基准上超越Claude Code - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEFxS3hjVzZvM3NIdFhYa0YtMXU2RjdYM3BQUm5Tby0zZUtJanZ1dGRGTkdpQ1BqUlBDckxzaEVyNndPVFQ4V3VNNVlCbVl0WXRVLUt3aE5ua0tDNE8xeTRlNmVCeDZuZno5MDRGUFJYOEtTeEhvcmlpUjhQLVVhVkJjREVFSFUxNUlrWnhHQXhqSko1REFHQ3RkeEVwNmY0WTZRNG9YSQ?oc=5"
+          }
+        ],
+        "source": "Let's Data Science",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeXRGMWtUZElyTXhVSmRoX2c3VlBNeTNYRU5lSEFMMFZzVjIxTVZNX3FSdktWcHNIQUpIT1M4R1JiNGtabm8zbXpmclE0a2x4Tm1tNWJmMVFWYkt1alFmY04ybF9GUUFCOFBPY0djVUUtVDdSb0x5LTJWaWQxQnRNb2V2VGVIVmwwNklmMDR0RXFvdw?oc=5"
+      },
       {
         "slug": "open-source-20260611-auto-1-5045ef",
         "title": "Balaji Srinivasan",
