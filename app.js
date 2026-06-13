@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260613-auto-1-1f94cc",
+        "title": "格尔软件领衔发起“密码+AI”融合创",
+        "category": "AI新闻",
+        "date": "2026-06-13",
+        "summary": "格尔软件领衔发起“密码+AI”融合创新发展产业联盟，推动密码与AI双向赋能 凤凰网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "格尔软件领衔发起“密码+AI”融合创 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "格尔软件领衔发起“密码+AI”融合创新发展产业联盟，推动密码与AI双向赋能 凤凰网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "格尔软件领衔发起“密码+AI”融合创新发展产业联盟，推动密码与AI双向赋能 凤凰网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WODZRNHZrME5qanRtUGVRX0ZtYjJHVHNLbXRGbXFlRGFzWFZyTzdacGxWendiQ1lnZ3RteHZNYUxQTEdCZmlvcUlLZXNRT3pD?oc=5"
+          },
+          {
+            "label": "The Washington Post：Anthropic shuts down newest AI model after U.S. bans foreign use - The",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHppUEhwc2RnTHNOTjU3TFlPVVBWQm40Z1FCV0w5dkdmOWVaZ0g4a2xUamVGSVhGZV9TMTM4X2lTa2g1Z0ZtV1AzS05DLUI5MlRFUzAtUUp5N3ZpdVdLX3BZNkxiSHJZX2pUM0NNcG54WGplam1wTVlZSFdSeHFyYnhoVUdxR1g1Zm9pM1NoVGtYOVNhZVkzak5OUVM4VnljN3hacWhualFpRXRpTWFBVHBOdFBCVlk?oc=5"
+          },
+          {
+            "label": "新浪财经：两倍做多中际旭创，突然火了！“易中天”含量高的创业板人工智能ETF华宝（159363），获资金关注！ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS1lUUzNFb2NaQUZPYnRMY2Z6MGNYSlk4V09vSllHMVFRaEllYllaZjctWXExaDBDQzdmM2RXNzZnaEV1NzVPMXhlY2gtcTZCamx3QW5DaC1KNlNkWkRwY284Zi1lYXZFRGFVT2pfZmdzUm1MRGNPY1hNTWpabmpCNXItOWFXWXpPbHdJOGhnMzVnQ09JNVJLUTFBVTVnTkJHRlJmQ0FsX0Q2TnhLUk9oRXBpMEtHZUlJUjUxY0RuS3h1RU0wVF9Zdzk5eEdGRER3ek4yLTI2VVNraDExbzlnSTV2VDJIREVsMUxHY2szSHVrc0ZoQ2tBRTROVGNyTk1NNXNkVF94VUNNVnZFMGNvOHJ0dzhIRU5aUENlTWJZZzM3Rk5y?oc=5"
+          }
+        ],
+        "source": "凤凰网",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WODZRNHZrME5qanRtUGVRX0ZtYjJHVHNLbXRGbXFlRGFzWFZyTzdacGxWendiQ1lnZ3RteHZNYUxQTEdCZmlvcUlLZXNRT3pD?oc=5"
+      },
+      {
+        "slug": "ai-news-20260613-auto-2-1e8b09",
+        "title": "Anthropic shuts do",
+        "category": "AI新闻",
+        "date": "2026-06-13",
+        "summary": "Anthropic shuts down newest AI model after U.S. ba",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic shuts do 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic shuts down newest AI model after U.S. ba",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic shuts down newest AI model after U.S. ba",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHppUEhwc2RnTHNOTjU3TFlPVVBWQm40Z1FCV0w5dkdmOWVaZ0g4a2xUamVGSVhGZV9TMTM4X2lTa2g1Z0ZtV1AzS05DLUI5MlRFUzAtUUp5N3ZpdVdLX3BZNkxiSHJZX2pUM0NNcG54WGplam1wTVlZSFdSeHFyYnhoVUdxR1g1Zm9pM1NoVGtYOVNhZVkzak5OUVM4VnljN3hacWhualFpRXRpTWFBVHBOdFBCVlk?oc=5"
+          },
+          {
+            "label": "凤凰网：格尔软件领衔发起“密码+AI”融合创新发展产业联盟，推动密码与AI双向赋能 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WODZRNHZrME5qanRtUGVRX0ZtYjJHVHNLbXRGbXFlRGFzWFZyTzdacGxWendiQ1lnZ3RteHZNYUxQTEdCZmlvcUlLZXNRT3pD?oc=5"
+          },
+          {
+            "label": "新浪财经：两倍做多中际旭创，突然火了！“易中天”含量高的创业板人工智能ETF华宝（159363），获资金关注！ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS1lUUzNFb2NaQUZPYnRMY2Z6MGNYSlk4V09vSllHMVFRaEllYllaZjctWXExaDBDQzdmM2RXNzZnaEV1NzVPMXhlY2gtcTZCamx3QW5DaC1KNlNkWkRwY284Zi1lYXZFRGFVT2pfZmdzUm1MRGNPY1hNTWpabmpCNXItOWFXWXpPbHdJOGhnMzVnQ09JNVJLUTFBVTVnTkJHRlJmQ0FsX0Q2TnhLUk9oRXBpMEtHZUlJUjUxY0RuS3h1RU0wVF9Zdzk5eEdGRER3ek4yLTI2VVNraDExbzlnSTV2VDJIREVsMUxHY2szSHVrc0ZoQ2tBRTROVGNyTk1NNXNkVF94VUNNVnZFMGNvOHJ0dzhIRU5aUENlTWJZZzM3Rk5y?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHppUEhwc2RnTHNOTjU3TFlPVVBWQm40Z1FCV0w5dkdmOWVaZ0g4a2xUamVGSVhGZV9TMTM4X2lTa2g1Z0ZtV1AzS05DLUI5MlRFUzAtUUp5N3ZpdVdLX3BZNkxiSHJZX2pUM0NNcG54WGplam1wTVlZSFdSeHFyYnhoVUdxR1g1Zm9pM1NoVGtYOVNhZVkzak5OUVM4VnljN3hacWhualFpRXRpTWFBVHBOdFBCVlk?oc=5"
+      },
+      {
         "slug": "ai-news-20260612-auto-1-2110c8",
         "title": "国家市场监管总局、国家发展改革委联合",
         "category": "AI新闻",
@@ -8867,6 +8983,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260613-auto-1-978a30",
+        "title": "金爵论坛追问电影“人味”：工具越发达",
+        "category": "AI使用教程",
+        "date": "2026-06-13",
+        "summary": "金爵论坛追问电影“人味”：工具越发达，驾驭工具的人越关键 thepaper.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "金爵论坛追问电影“人味”：工具越发达 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "金爵论坛追问电影“人味”：工具越发达，驾驭工具的人越关键 thepaper.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "金爵论坛追问电影“人味”：工具越发达，驾驭工具的人越关键 thepaper.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thepaper.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDRE1XcUR5aDJPUlhOR0o2T3kxVlJpcDZpeEtqZG5hV1A2MkUzY3Z1bXBtUGpfVUxoTThRLUFvcGJfR2dMUGZZSW55cU1rRV92UE5uZm53STYwMTNydnNCbA?oc=5"
+          },
+          {
+            "label": "HackerNoon：500 Blog Posts To Learn About Productivity - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82MVkwTGUxZlJMcEpuUU1OUWNVNG13RXNuZVdCcE0wa3FzZmI5NUhuWmtPZG5rbmhkV0RwX3VQUDVLMUdXNUdJaEFKd2hwQWp4T0ZPOGo4bFVXYmJtX2Z0TERXTkFhM3J3OGRjdnlMWTRhdjA?oc=5"
+          },
+          {
+            "label": "eWeek：Claude Code Explained: What to Know About Anthropic’s AI Coding Tool -",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81MG9QUnlpTXZscnRJVlJzREJ6cVl5X0NTWmpGYk9Lb2NjU1I2SjVhS2pQVFg1bi1MdkZPZXc0eDNIZEp3cGxvTzMxUEpuZzVtd2JBS29ZMnNtQk1ZSFU1MWNUQ0ZPdHdqTkdF?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDRE1XcUR5aDJPUlhOR0o2T3kxVlJpcDZpeEtqZG5hV1A2MkUzY3Z1bXBtUGpfVUxoTThRLUFvcGJfR2dMUGZZSW55cU1rRV92UE5uZm53STYwMTNydnNCbA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260612-auto-1-f1f467",
         "title": "The ultimate ChatG",
         "category": "AI使用教程",
@@ -12723,6 +12897,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260613-auto-1-c11f4a",
+        "title": "Moonshot AI Releas",
+        "category": "开源项目",
+        "date": "2026-06-13",
+        "summary": "Moonshot AI Releases Kimi K2.7-Code: a Coding Mode",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Moonshot AI Releas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Moonshot AI Releases Kimi K2.7-Code: a Coding Mode",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Moonshot AI Releases Kimi K2.7-Code: a Coding Mode",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEVPaVQ2TFY4Ym9pbFdhSFRjd08yRVlsNUhPMmxTLWJsRmdlSE9XekJsdjBCaTZzZk1yMENQTXoxSkkyM1NIbnF5S1huWVI5UzBqR3prSk5IMU9xbi0xVlhadWpVRHFHNnJpY3hRMFFUenBWZ193MWNoT1NVZFcyN2JOQkdwZHdiLUxJU3JHdTFqVWJwbE5RTUdkYkh3ODg0YjVuZ1ZlYXRvRWFNeE5IdTdGY21vbF9GZi1yeTBhYXc4Qk9UbWVvekh5Y2xlQk1zT0szUw?oc=5"
+          },
+          {
+            "label": "RS Web Solutions：Linux Developers Use GitHub Copilot to Support AMD Radeon GPUs - RS We",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVHBhTXdKeGhDMTVpSXBRUmVhM0FwNGRaVE9TdUlVc1g5ZEZUVEJfX1hoVWNLWWFfcGhrcmpzS0NneW5lbjVuX0M3TmRWZGR5b1lFSndmV1czSlZ0ejVKdGFvS0ZYVk5VT3FGcU0zeHNTZlVNbnVOTmNlRjdJNkUtYWx1d09sQXBVc3hlalVSOFFnQzdxbUM2dWo3d25WRGlpcVNLWDVZNHE2c1NuWVZDaGNpLVpLUWxpMXhBVkZWSHY4RV9Vdkg4dG9GTVVOcmQ5MHBTT3J5QlZxWTdvX1hTUzRybXRUR3dQMW13RGd5cw?oc=5"
+          },
+          {
+            "label": "The Register：NanoClaw now armed with JFrog for safer packages - The Register",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEdWSHVKSG9EcEw0Ym1ibXNuMWN1M01zeWlNQWZOY0NCbjBIOTgwaDVsN1Z5UHo3ZnEwdGk4ZlQ2Y0tJMHdVOVdUbFF2UzN6aWh6M3pJb0JrYmZzWkZwSTZlZjVObVNIRjRzUld1ZEwxM29YdE9nRW04NEI0YkFGMkNVM2pzaks5ZDc3RHZIdEFkNFIwMWJWLUM0ejZCbFRiTm1vN2t4RmdTdl9oN0VkMWRLaVpxeXlrWWlOSDVRZw?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEVPaVQ2TFY4Ym9pbFdhSFRjd08yRVlsNUhPMmxTLWJsRmdlSE9XekJsdjBCaTZzZk1yMENQTXoxSkkyM1NIbnF5S1huWVI5UzBqR3prSk5IMU9xbi0xVlhadWpVRHFHNnJpY3hRMFFUenBWZ193MWNoT1NVZFcyN2JOQkdwZHdiLUxJU3JHdTFqVWJwbE5RTUdkYkh3ODg0YjVuZ1ZlYXRvRWFNeE5IdTdGY21vbF9GZi1yeTBhYXc4Qk9UbWVvekh5Y2xlQk1zT0szUw?oc=5"
+      },
+      {
+        "slug": "open-source-20260613-auto-2-34c2fe",
+        "title": "Linux Developers U",
+        "category": "开源项目",
+        "date": "2026-06-13",
+        "summary": "Linux Developers Use GitHub Copilot to Support AMD",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Linux Developers U 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Linux Developers Use GitHub Copilot to Support AMD",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Linux Developers Use GitHub Copilot to Support AMD",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "RS Web Solutions：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVHBhTXdKeGhDMTVpSXBRUmVhM0FwNGRaVE9TdUlVc1g5ZEZUVEJfX1hoVWNLWWFfcGhrcmpzS0NneW5lbjVuX0M3TmRWZGR5b1lFSndmV1czSlZ0ejVKdGFvS0ZYVk5VT3FGcU0zeHNTZlVNbnVOTmNlRjdJNkUtYWx1d09sQXBVc3hlalVSOFFnQzdxbUM2dWo3d25WRGlpcVNLWDVZNHE2c1NuWVZDaGNpLVpLUWxpMXhBVkZWSHY4RV9Vdkg4dG9GTVVOcmQ5MHBTT3J5QlZxWTdvX1hTUzRybXRUR3dQMW13RGd5cw?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Moonshot AI Releases Kimi K2.7-Code: a Coding Model Reporting +21.8% o",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOEVPaVQ2TFY4Ym9pbFdhSFRjd08yRVlsNUhPMmxTLWJsRmdlSE9XekJsdjBCaTZzZk1yMENQTXoxSkkyM1NIbnF5S1huWVI5UzBqR3prSk5IMU9xbi0xVlhadWpVRHFHNnJpY3hRMFFUenBWZ193MWNoT1NVZFcyN2JOQkdwZHdiLUxJU3JHdTFqVWJwbE5RTUdkYkh3ODg0YjVuZ1ZlYXRvRWFNeE5IdTdGY21vbF9GZi1yeTBhYXc4Qk9UbWVvekh5Y2xlQk1zT0szUw?oc=5"
+          },
+          {
+            "label": "The Register：NanoClaw now armed with JFrog for safer packages - The Register",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEdWSHVKSG9EcEw0Ym1ibXNuMWN1M01zeWlNQWZOY0NCbjBIOTgwaDVsN1Z5UHo3ZnEwdGk4ZlQ2Y0tJMHdVOVdUbFF2UzN6aWh6M3pJb0JrYmZzWkZwSTZlZjVObVNIRjRzUld1ZEwxM29YdE9nRW04NEI0YkFGMkNVM2pzaks5ZDc3RHZIdEFkNFIwMWJWLUM0ejZCbFRiTm1vN2t4RmdTdl9oN0VkMWRLaVpxeXlrWWlOSDVRZw?oc=5"
+          }
+        ],
+        "source": "RS Web Solutions",
+        "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVHBhTXdKeGhDMTVpSXBRUmVhM0FwNGRaVE9TdUlVc1g5ZEZUVEJfX1hoVWNLWWFfcGhrcmpzS0NneW5lbjVuX0M3TmRWZGR5b1lFSndmV1czSlZ0ejVKdGFvS0ZYVk5VT3FGcU0zeHNTZlVNbnVOTmNlRjdJNkUtYWx1d09sQXBVc3hlalVSOFFnQzdxbUM2dWo3d25WRGlpcVNLWDVZNHE2c1NuWVZDaGNpLVpLUWxpMXhBVkZWSHY4RV9Vdkg4dG9GTVVOcmQ5MHBTT3J5QlZxWTdvX1hTUzRybXRUR3dQMW13RGd5cw?oc=5"
+      },
       {
         "slug": "open-source-20260612-auto-1-d87a07",
         "title": "vLLM vs Ollama 202",
