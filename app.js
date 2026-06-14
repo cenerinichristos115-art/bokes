@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260614-auto-1-8a7684",
+        "title": "（经济观察）中国汽车的AI进行时：技",
+        "category": "AI新闻",
+        "date": "2026-06-14",
+        "summary": "（经济观察）中国汽车的AI进行时：技术渗透全链，产业格局渐变 chinanews.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "（经济观察）中国汽车的AI进行时：技 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "（经济观察）中国汽车的AI进行时：技术渗透全链，产业格局渐变 chinanews.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "（经济观察）中国汽车的AI进行时：技术渗透全链，产业格局渐变 chinanews.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "chinanews.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zYmxKa1l0czRkb01SOVVQMmRkcmZzNzgxRTRlOXpobEhVV2FNb2htQ3Vlc2s3VlBmb2I4ekFqVkxTU0pheFF2LVFvUEVscTVKYmEyRG5QXzRTVmk4TmFFYnVnNlhpVGxH?oc=5"
+          },
+          {
+            "label": "新浪财经：人类首次！乌克兰使用“终结者”AI无人机自主猎杀俄士兵_手机新浪网 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdm9iOXhONWh1NzE0Q2IwVTQ0M1FWemlNRGF2YzJiZzU0bGxTU0ZUemZ0U1VvRWtHMUZROE5ORm9PYng0OGgzWHQzOFRuU0M3azlTYlI4alcxMXVYQ0VESDlLX19PTC1tX0pNWHJ1QkRnZmJhLURjdUZkNXM1YTluNGVSOGdBV1VmMlRjd2hTYkxHZndBZHJPeU9iUXhtMl9pcU9VR1J5cGp4OUFzSWJIX2w3VGg3YnQtc1hwVHl5TWRHeXRIdU4xLTNWMEE5NHY3Nl8tU21WTmFoNGk0ejhwdEVDbGhNaThLd1VidzFQclM4QWVJNkt5SFJwZTZ5dlh1c3F6S2JyWUFMbUxHb2Job1duWjRVTjNTbm0za29tZTU1a0k2ajVjWTdjZWhhYWhIMDhF?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：海南“十五五”高新技术产业发展规划出炉，构建“345X”高新技术产业体系 目标2030年营收破万亿元 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSFRNU3I2MlpOa0c3MlAzd1dWc3NscnlVNzlvLS04RDB6Q0V6dDhkX3AwanlhWDVMT2hyWTFMSEdRa3dDeFRJTGVLNkEzc2JQcVNSUEJ5WVVJZGhENTNCVGNucFJIclA4cXJRTjQ0MXpOdnVId0E?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zYmxKa1l0czRkb01SOVVQMmRkcmZzNzgxRTRlOXpobEhVV2FNb2htQ3Vlc2s3VlBmb2I4ekFqVkxTU0pheFF2LVFvUEVscTVKYmEyRG5QXzRTVmk4TmFFYnVnNlhpVGxH?oc=5"
+      },
+      {
+        "slug": "ai-news-20260614-auto-2-d2d189",
+        "title": "人类首次！乌克兰使用“终结者”AI无",
+        "category": "AI新闻",
+        "date": "2026-06-14",
+        "summary": "人类首次！乌克兰使用“终结者”AI无人机自主猎杀俄士兵_手机新浪网 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人类首次！乌克兰使用“终结者”AI无 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人类首次！乌克兰使用“终结者”AI无人机自主猎杀俄士兵_手机新浪网 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人类首次！乌克兰使用“终结者”AI无人机自主猎杀俄士兵_手机新浪网 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdm9iOXhONWh1NzE0Q2IwVTQ0M1FWemlNRGF2YzJiZzU0bGxTU0ZUemZ0U1VvRWtHMUZROE5ORm9PYng0OGgzWHQzOFRuU0M3azlTYlI4alcxMXVYQ0VESDlLX19PTC1tX0pNWHJ1QkRnZmJhLURjdUZkNXM1YTluNGVSOGdBV1VmMlRjd2hTYkxHZndBZHJPeU9iUXhtMl9pcU9VR1J5cGp4OUFzSWJIX2w3VGg3YnQtc1hwVHl5TWRHeXRIdU4xLTNWMEE5NHY3Nl8tU21WTmFoNGk0ejhwdEVDbGhNaThLd1VidzFQclM4QWVJNkt5SFJwZTZ5dlh1c3F6S2JyWUFMbUxHb2Job1duWjRVTjNTbm0za29tZTU1a0k2ajVjWTdjZWhhYWhIMDhF?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：（经济观察）中国汽车的AI进行时：技术渗透全链，产业格局渐变 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zYmxKa1l0czRkb01SOVVQMmRkcmZzNzgxRTRlOXpobEhVV2FNb2htQ3Vlc2s3VlBmb2I4ekFqVkxTU0pheFF2LVFvUEVscTVKYmEyRG5QXzRTVmk4TmFFYnVnNlhpVGxH?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：海南“十五五”高新技术产业发展规划出炉，构建“345X”高新技术产业体系 目标2030年营收破万亿元 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSFRNU3I2MlpOa0c3MlAzd1dWc3NscnlVNzlvLS04RDB6Q0V6dDhkX3AwanlhWDVMT2hyWTFMSEdRa3dDeFRJTGVLNkEzc2JQcVNSUEJ5WVVJZGhENTNCVGNucFJIclA4cXJRTjQ0MXpOdnVId0E?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOdm9iOXhONWh1NzE0Q2IwVTQ0M1FWemlNRGF2YzJiZzU0bGxTU0ZUemZ0U1VvRWtHMUZROE5ORm9PYng0OGgzWHQzOFRuU0M3azlTYlI4alcxMXVYQ0VESDlLX19PTC1tX0pNWHJ1QkRnZmJhLURjdUZkNXM1YTluNGVSOGdBV1VmMlRjd2hTYkxHZndBZHJPeU9iUXhtMl9pcU9VR1J5cGp4OUFzSWJIX2w3VGg3YnQtc1hwVHl5TWRHeXRIdU4xLTNWMEE5NHY3Nl8tU21WTmFoNGk0ejhwdEVDbGhNaThLd1VidzFQclM4QWVJNkt5SFJwZTZ5dlh1c3F6S2JyWUFMbUxHb2Job1duWjRVTjNTbm0za29tZTU1a0k2ajVjWTdjZWhhYWhIMDhF?oc=5"
+      },
+      {
         "slug": "ai-news-20260613-auto-1-1f94cc",
         "title": "格尔软件领衔发起“密码+AI”融合创",
         "category": "AI新闻",
@@ -8983,6 +9099,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260614-auto-1-9dcf62",
+        "title": "Codex和Claude Code负",
+        "category": "AI使用教程",
+        "date": "2026-06-14",
+        "summary": "Codex和Claude Code负责人都不写提示词了，AI圈爆火的Loop到底是什么- 产业链 光",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Codex和Claude Code负 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Codex和Claude Code负责人都不写提示词了，AI圈爆火的Loop到底是什么- 产业链 光",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Codex和Claude Code负责人都不写提示词了，AI圈爆火的Loop到底是什么- 产业链 光",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "光通信Pro：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03aTA3TEFSTmxJTjhubjF0TVRBMHVYb01NbHM5aUNBZmFnOUZRRDdsM3RYemtCTHRfdnoxV2g0TDdpU1hCekFSX3poV2QtTDJkWTFFUEdB?oc=5"
+          },
+          {
+            "label": "新浪财经：国外开始代购中国AI服务 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGSWVCYkVZa3RvenZXYVRtSFBoUW1hNTFPa2RiT051cHlmbkd2dGRndmdxUFN5ZlFpYUlYZUNJM2IwOEZNcUpGNzUyYjgwWWduZ09MSk5kdTRnaHV0VkQ5b1pwbFdJaVdmcmtmN3ZMM25LdTJqTll4cQ?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          }
+        ],
+        "source": "光通信Pro",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03aTA3TEFSTmxJTjhubjF0TVRBMHVYb01NbHM5aUNBZmFnOUZRRDdsM3RYemtCTHRfdnoxV2g0TDdpU1hCekFSX3poV2QtTDJkWTFFUEdB?oc=5"
+      },
+      {
         "slug": "ai-guide-20260613-auto-1-978a30",
         "title": "金爵论坛追问电影“人味”：工具越发达",
         "category": "AI使用教程",
@@ -12897,6 +13071,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260614-auto-1-543334",
+        "title": "CoinFund founder a",
+        "category": "开源项目",
+        "date": "2026-06-14",
+        "summary": "CoinFund founder advocates decentralized AI as cou",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "CoinFund founder a 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "CoinFund founder advocates decentralized AI as cou",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "CoinFund founder advocates decentralized AI as cou",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Crypto Briefing：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWVRiNUV0bFZHckhrajNoVkxsU0hzV3ItT0RHOUFwN2tKcVNqT1AybXo0VHB2Z3BfdUJUcmxYWnc5NFhfblZxejNBX0hzbVN0MkNjR0dCSTZHaGxPOHhfeU9GVV9wdFVoeFhLMEN0T0dkYmFyRlE?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Databricks Open-Sources Omnigent: A Meta-Harness That Composes, Govern",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0FIXzYza1liZV9wSXNhTVduVFdsMXhxNzhxejd2YVZTdGdvUzlCQ21jVkh4MDZUb3NBeFQzQTJDS0d2c3VRV2puMGVVNE9nZnpoeUJSYU1NVXQzM2RkTXNwV3RnRUU5NU13OW11SUM5SzhCNk5wbVctZEVXeWRsb2phN0RqV2xUTGN5RExkdGF6TVg1VXdnQVB3S1RkVGgwRGhqVDZKSDNBRHZsend4eWdyVUkyeDdBQkNmNEJMeGZGT2FEXzdCbzhranJDUVBVX3F0aFlLaE44MXA0X2hGU3NwXzVPVVM3aThYNHR0UDdfUmlSUkE?oc=5"
+          },
+          {
+            "label": "The Times of India：Meta's highest paid employee Alexandr Wang 'admits' the company's prev",
+            "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbGppelBtWERZVDZRTHFFUVhaTEp5YU5WQ1VsdzlGM1hscmZaRU1LdjlSaWNNLWNDcXZCSDQ0WG5GWDFSejE3aEVCa01zZktIM00tY1Ftbi0zYTgwQ1RvSzB4MVhjanhkWm1QMUdueWhOZ2ZXLTZEZnBBNVVGOTFhck9jTFJFYTgxSmVVVkRZZkZXVUwzZ1hRYldneWlTU2JHMXV2bUtfN09LVjJIQUFub2wwdW9DTHMxRzc0aTY5T3NHUmN0Mnc0WEcySElLSHBuNk8weGpqNjlrSks3Sk84ZXl3eUZxWENLWWFqN1VNakV4dHlEYXd2SHdQSU0zTnBKNERHbllZNjdiX015a203Yk04LXN4UGwwNUNsU1ZYQ2FFdVN4YWdlYzdfaUVwd9IBswJBVV95cUxNdTc0YktRS0VpWHpoRmR4MXllUmNncW1DSkplb0Jra3RBZmtxc0tXbEJNYi02eWJBdlRVNERSQVJ3a28zOWxiRTgxN04xSG1yYmRaRFBTbnJ1dnFlYjhfUmltQnBoa05Cay1rZ0p2U0FVTTVjRGhYLTMzX0ZER2V6d1J4RFctd3ZXdjNrNFVRTTJDUzRhNERVZ2lfM2ZqYXdqN21EQ2FTS2RlazJuUlptQUJNX2M5eTJiLVdfelg5OUt3dzJrOHN0TUpjX3BJeDE2MFFLVTU3UW1ZV3o4UHdVNU5SY2pBTVZHM25VZGpfZnhZeTI4ZDhGVmVkS1ZUR1RBbThHejJIX3hCb1JVQlhsMVBuVDRldDhyV2xOMDJfckhOZFhDbzFZR2stVlVrS3NLNktn?oc=5"
+          }
+        ],
+        "source": "Crypto Briefing",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWVRiNUV0bFZHckhrajNoVkxsU0hzV3ItT0RHOUFwN2tKcVNqT1AybXo0VHB2Z3BfdUJUcmxYWnc5NFhfblZxejNBX0hzbVN0MkNjR0dCSTZHaGxPOHhfeU9GVV9wdFVoeFhLMEN0T0dkYmFyRlE?oc=5"
+      },
+      {
+        "slug": "open-source-20260614-auto-2-dec86b",
+        "title": "Databricks Open-So",
+        "category": "开源项目",
+        "date": "2026-06-14",
+        "summary": "Databricks Open-Sources Omnigent: A Meta-Harness T",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Databricks Open-So 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Databricks Open-Sources Omnigent: A Meta-Harness T",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Databricks Open-Sources Omnigent: A Meta-Harness T",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0FIXzYza1liZV9wSXNhTVduVFdsMXhxNzhxejd2YVZTdGdvUzlCQ21jVkh4MDZUb3NBeFQzQTJDS0d2c3VRV2puMGVVNE9nZnpoeUJSYU1NVXQzM2RkTXNwV3RnRUU5NU13OW11SUM5SzhCNk5wbVctZEVXeWRsb2phN0RqV2xUTGN5RExkdGF6TVg1VXdnQVB3S1RkVGgwRGhqVDZKSDNBRHZsend4eWdyVUkyeDdBQkNmNEJMeGZGT2FEXzdCbzhranJDUVBVX3F0aFlLaE44MXA0X2hGU3NwXzVPVVM3aThYNHR0UDdfUmlSUkE?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：CoinFund founder advocates decentralized AI as counterweight to centra",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CWVRiNUV0bFZHckhrajNoVkxsU0hzV3ItT0RHOUFwN2tKcVNqT1AybXo0VHB2Z3BfdUJUcmxYWnc5NFhfblZxejNBX0hzbVN0MkNjR0dCSTZHaGxPOHhfeU9GVV9wdFVoeFhLMEN0T0dkYmFyRlE?oc=5"
+          },
+          {
+            "label": "The Times of India：Meta's highest paid employee Alexandr Wang 'admits' the company's prev",
+            "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbGppelBtWERZVDZRTHFFUVhaTEp5YU5WQ1VsdzlGM1hscmZaRU1LdjlSaWNNLWNDcXZCSDQ0WG5GWDFSejE3aEVCa01zZktIM00tY1Ftbi0zYTgwQ1RvSzB4MVhjanhkWm1QMUdueWhOZ2ZXLTZEZnBBNVVGOTFhck9jTFJFYTgxSmVVVkRZZkZXVUwzZ1hRYldneWlTU2JHMXV2bUtfN09LVjJIQUFub2wwdW9DTHMxRzc0aTY5T3NHUmN0Mnc0WEcySElLSHBuNk8weGpqNjlrSks3Sk84ZXl3eUZxWENLWWFqN1VNakV4dHlEYXd2SHdQSU0zTnBKNERHbllZNjdiX015a203Yk04LXN4UGwwNUNsU1ZYQ2FFdVN4YWdlYzdfaUVwd9IBswJBVV95cUxNdTc0YktRS0VpWHpoRmR4MXllUmNncW1DSkplb0Jra3RBZmtxc0tXbEJNYi02eWJBdlRVNERSQVJ3a28zOWxiRTgxN04xSG1yYmRaRFBTbnJ1dnFlYjhfUmltQnBoa05Cay1rZ0p2U0FVTTVjRGhYLTMzX0ZER2V6d1J4RFctd3ZXdjNrNFVRTTJDUzRhNERVZ2lfM2ZqYXdqN21EQ2FTS2RlazJuUlptQUJNX2M5eTJiLVdfelg5OUt3dzJrOHN0TUpjX3BJeDE2MFFLVTU3UW1ZV3o4UHdVNU5SY2pBTVZHM25VZGpfZnhZeTI4ZDhGVmVkS1ZUR1RBbThHejJIX3hCb1JVQlhsMVBuVDRldDhyV2xOMDJfckhOZFhDbzFZR2stVlVrS3NLNktn?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0FIXzYza1liZV9wSXNhTVduVFdsMXhxNzhxejd2YVZTdGdvUzlCQ21jVkh4MDZUb3NBeFQzQTJDS0d2c3VRV2puMGVVNE9nZnpoeUJSYU1NVXQzM2RkTXNwV3RnRUU5NU13OW11SUM5SzhCNk5wbVctZEVXeWRsb2phN0RqV2xUTGN5RExkdGF6TVg1VXdnQVB3S1RkVGgwRGhqVDZKSDNBRHZsend4eWdyVUkyeDdBQkNmNEJMeGZGT2FEXzdCbzhranJDUVBVX3F0aFlLaE44MXA0X2hGU3NwXzVPVVM3aThYNHR0UDdfUmlSUkE?oc=5"
+      },
       {
         "slug": "open-source-20260613-auto-1-c11f4a",
         "title": "Moonshot AI Releas",
