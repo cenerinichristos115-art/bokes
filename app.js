@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260615-auto-1-0f8281",
+        "title": "Putin’s paranoia:",
+        "category": "AI新闻",
+        "date": "2026-06-15",
+        "summary": "Putin’s paranoia: AI espionage pushes Kremlin to r",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Putin’s paranoia: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Putin’s paranoia: AI espionage pushes Kremlin to r",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Putin’s paranoia: AI espionage pushes Kremlin to r",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "France 24：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFdVVHZNd3JLLW9xM1ZXZHNYZ2ZXM1BwWU9YSXU4b2VnQmxHYkxiLUlFZXhyckoyalY2clBXdFFaWkZFbHlxc05kRnRnNm50QU1DTUFPWVhfc3AxWEJBMThUNHhudFVGTjZZYXRWaW5QNFVtZ2lLVU9ueHk5bGZiaVo1c2k4azBGYUtoblpIOVo2d3ZLcTV1WXpzMUJ4QkdIdDV5R013UnZfaXc1MWk2aDktNEM3S2JYTFE0?oc=5"
+          },
+          {
+            "label": "中华网：天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbTN2Y0JhVF9xV0pUUEM5RnpvZ3J2S1AzZjkyWTBmZzl0X2VhTDI5VXlUUDJoR0R3YS1rcEREQ1MtU2k2Q1RNdDJMM0o4VjlEWEYtV2JKWEk5YXEtRDJ1WUM1OE8tQXQ4SG9pR1JR?oc=5"
+          },
+          {
+            "label": "中国日报网：阿福率先跑通\"AI+医生\"协作模式！AI回答后，用户可选择医生把关 - 中国日报网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aY2U2OEM4Tk5sY1dZSjRmVU1sNlA4Sl9fTGRtRlJxRW4yTmZtNG5UWGlvSHFURDRVdmxLQXRCZVp6dS1CTHVESVpIbWFUSkJWLW5vZmpQWDc5M1h1LW12dlVtZUgzVE1rQktObXNVNHFPQkVYNnQzeEppd1Y?oc=5"
+          }
+        ],
+        "source": "France 24",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFdVVHZNd3JLLW9xM1ZXZHNYZ2ZXM1BwWU9YSXU4b2VnQmxHYkxiLUlFZXhyckoyalY2clBXdFFaWkZFbHlxc05kRnRnNm50QU1DTUFPWVhfc3AxWEJBMThUNHhudFVGTjZZYXRWaW5QNFVtZ2lLVU9ueHk5bGZiaVo1c2k4azBGYUtoblpIOVo2d3ZLcTV1WXpzMUJ4QkdIdDV5R013UnZfaXc1MWk2aDktNEM3S2JYTFE0?oc=5"
+      },
+      {
+        "slug": "ai-news-20260615-auto-2-4fec3f",
+        "title": "天然多肽与人工智能融合创新 探索生物",
+        "category": "AI新闻",
+        "date": "2026-06-15",
+        "summary": "天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "天然多肽与人工智能融合创新 探索生物 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "天然多肽与人工智能融合创新 探索生物医药前沿技术发展路径 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbTN2Y0JhVF9xV0pUUEM5RnpvZ3J2S1AzZjkyWTBmZzl0X2VhTDI5VXlUUDJoR0R3YS1rcEREQ1MtU2k2Q1RNdDJMM0o4VjlEWEYtV2JKWEk5YXEtRDJ1WUM1OE8tQXQ4SG9pR1JR?oc=5"
+          },
+          {
+            "label": "France 24：Putin’s paranoia: AI espionage pushes Kremlin to reinforce security me",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFdVVHZNd3JLLW9xM1ZXZHNYZ2ZXM1BwWU9YSXU4b2VnQmxHYkxiLUlFZXhyckoyalY2clBXdFFaWkZFbHlxc05kRnRnNm50QU1DTUFPWVhfc3AxWEJBMThUNHhudFVGTjZZYXRWaW5QNFVtZ2lLVU9ueHk5bGZiaVo1c2k4azBGYUtoblpIOVo2d3ZLcTV1WXpzMUJ4QkdIdDV5R013UnZfaXc1MWk2aDktNEM3S2JYTFE0?oc=5"
+          },
+          {
+            "label": "中国日报网：阿福率先跑通\"AI+医生\"协作模式！AI回答后，用户可选择医生把关 - 中国日报网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aY2U2OEM4Tk5sY1dZSjRmVU1sNlA4Sl9fTGRtRlJxRW4yTmZtNG5UWGlvSHFURDRVdmxLQXRCZVp6dS1CTHVESVpIbWFUSkJWLW5vZmpQWDc5M1h1LW12dlVtZUgzVE1rQktObXNVNHFPQkVYNnQzeEppd1Y?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IbTN2Y0JhVF9xV0pUUEM5RnpvZ3J2S1AzZjkyWTBmZzl0X2VhTDI5VXlUUDJoR0R3YS1rcEREQ1MtU2k2Q1RNdDJMM0o4VjlEWEYtV2JKWEk5YXEtRDJ1WUM1OE8tQXQ4SG9pR1JR?oc=5"
+      },
+      {
         "slug": "ai-news-20260614-auto-1-8a7684",
         "title": "（经济观察）中国汽车的AI进行时：技",
         "category": "AI新闻",
@@ -9099,6 +9215,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260615-auto-1-41dab6",
+        "title": "Loop工程实操入门",
+        "category": "AI使用教程",
+        "date": "2026-06-15",
+        "summary": "用循环工作流提升AI代码产出与校验",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Loop工程实操入门 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在2026年6月15日前后，围绕Loop Engineering的讨论集中在一件事：把“写提示词”变成“设定目标、执行、检查、再修正”的循环流程。对想把AI用于写代码、改代码和做任务分解的人来说，更实用的不是概念，而是一套可重复操作的方法。",
+          "blocks": [
+            {
+              "heading": "先把任务拆成可验证步骤",
+              "paragraphs": [
+                "不要一上来就让AI“直接完成整个功能”，先把需求拆成三层：目标、约束、验收标准。比如把“做一个登录页”改写成“输出页面结构、交互状态、边界条件和可测试用例”。",
+                "每一轮只让AI处理一个小目标，输出也限制为“改动点+原因+待确认项”。这样更容易发现偏差，避免模型在大任务里自我扩展。",
+                "如果任务涉及代码，先要求它列出依赖文件、会改动的函数和预期影响，再开始生成内容。先规划再写作，通常比一次性生成整段代码更稳定。"
+              ]
+            },
+            {
+              "heading": "用循环流程替代一次性生成",
+              "paragraphs": [
+                "第一轮让AI给出方案或初稿，第二轮让它根据你的约束自查，第三轮再让它按清单修正。这种“生成—检查—修正”的循环，比单次提示更适合复杂任务。",
+                "可以固定一个审查模板，例如“是否满足需求、是否有遗漏、是否有风险、是否需要测试”。每轮都用同一模板，结果更便于比较，也更容易形成团队习惯。",
+                "如果你在写代码，建议把AI输出拆成补丁、解释和测试建议三部分。先看补丁是否合理，再看解释是否匹配，最后决定是否执行测试。"
+              ]
+            },
+            {
+              "heading": "把校验放到流程末尾",
+              "paragraphs": [
+                "Loop类方法的关键不是让AI更“聪明”，而是让它在每轮都接受约束。可以要求它在输出末尾附上“未确认事项”和“下一步建议”，把风险显性化。",
+                "对于生产环境任务，最好加上人工复核点：接口变更、权限配置、数据库迁移和安全相关代码，都不建议直接自动合并。",
+                "实际落地时，先从低风险任务试起，比如文案整理、代码注释补全、测试样例生成，再逐步扩大到重构和功能开发。这样更容易建立稳定流程。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "51CTO：Loop Engineering是什么",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRVd1NW85ajVDQXB2b2xTd1JBNlY5d1l4aGV4OXFBbC03NkZXVm9IZzlscFRKeko4Yk1uY1hYa2VfRVJNOGwxRjNsQVhMUVJBaV80?oc=5"
+          },
+          {
+            "label": "51CTO：从提示词工程师到循环工程师",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5waVpGV3lCSEZzbzZCdXQ3SllWR1RBMjQwcHVDV21YTFBacGF6b3VJUjNtSUdWUlA5bTRIQjgydU53SFpHYzFtQ3JDSnFGTk9PcXlV?oc=5"
+          },
+          {
+            "label": "凤凰网科技：Codex和Claude Code负责人都不写提示词了",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hRVVaNUE2Z2pfb054VkJGaFNnZVJJWlFiZVAtVUNCVnVKMFYtanFBaVRtNlhqSzlzNnJGTmhJcE9uT2x2VjVnME1kVW0?oc=5"
+          }
+        ],
+        "source": "51CTO",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmRVd1NW85ajVDQXB2b2xTd1JBNlY5d1l4aGV4OXFBbC03NkZXVm9IZzlscFRKeko4Yk1uY1hYa2VfRVJNOGwxRjNsQVhMUVJBaV80?oc=5"
+      },
+      {
         "slug": "ai-guide-20260614-auto-1-9dcf62",
         "title": "Codex和Claude Code负",
         "category": "AI使用教程",
@@ -13071,6 +13245,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260615-auto-1-eba8a0",
+        "title": "BugHunter - Bug Bo",
+        "category": "开源项目",
+        "date": "2026-06-15",
+        "summary": "BugHunter - Bug Bounty Toolkit Powered by Claude a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "BugHunter - Bug Bo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "BugHunter - Bug Bounty Toolkit Powered by Claude a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "BugHunter - Bug Bounty Toolkit Powered by Claude a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CyberSecurityNews：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teFY4cmI3eEROY3FzVHU5MU9Vb3FJQ3pmaHFFbjdjLXZHeDdJU2FIc1RqOFk1QUpDTFNHeXMyQTVJcXlMM2lBdUZqWVZqbVpENVVWcktYQ1ZxY0NfYnZROXZqdDhBd2NjU0hV0gFwQVVfeXFMT3M4SXhpTWJYOE9GdmdCRU5LTGFKMkp3NG1Pc0VSVzJQTGg3RWlEeTZ4cUFfeW5jN1ZydXNJTEVNUU9tZld3bDlzYVNVbnpaTWV5NkRVV3dBQ0tPeE1nWDB3RHVQU002NWM2UlV6VDlrag?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：巴西黑马大模型翻车全靠套壳缝合国产模型- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oNmI0STJwWGkzWXc1bzV4cl9qQWpRSUl6XzUxUHJkeWpLYTQ0aDNXUzNDNThjTmkwYkw2MmhRclhtc3FpLW8tMW1SWldKYS1yV0E3cE83V1ZDOUs2a1ZFbA?oc=5"
+          },
+          {
+            "label": "MSN：IBM wants to become the 'security layer' for open source AI infrastruc",
+            "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNbGR4NzdoNWpqT3l4QUFsUGJ5WjVPVHl6VzZMY0lqLThTU3ViSlNvYmhFYjBwZ1FzdDlLM1dhRHI1b3dmR3lMZGx2bGhKUm1vUHZZTFNwTU5MUzhaeE9Qd1pXckZ0RnNGdWt6NEtMZEExZ1VvamRQR2UyVnB1UEtpcjhXZUpOVEJfN2NuZ2hUUHdtcDE0Wm1RNWhpRU9iMHJ4aHRqcTQxQUFSUzRmUExqUmJidHhmZ29ZYVUxeGEtTU5UM0VxS3d0RU9EYlE4UlNEdWhTODRHSTFtRmtaSk1aNE9obV9EZ0VLWDA0UjQ3TEJjcm9EeHI1QjJQSHZ5TEtXZTZLd2xPREJJeUthMEprai1jVnlDMU5sOE9MbnZGN0JDb21iVDlMc2FyYm9QU1gwNWw0cEQzSVB2cmFyX05jMF9tbjZPNVFIUzVwZ1I4NThqQmpNSm9fS2pBTTNCTWdvMlVnMm9yRkpVcWJKajdNRzR5ZUs4RE0wWWNSTm9hUUh5d3dSMnBacWNYM0JiWE5kcDVscEduN2ViWVRiOXow?oc=5"
+          }
+        ],
+        "source": "CyberSecurityNews",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teFY4cmI3eEROY3FzVHU5MU9Vb3FJQ3pmaHFFbjdjLXZHeDdJU2FIc1RqOFk1QUpDTFNHeXMyQTVJcXlMM2lBdUZqWVZqbVpENVVWcktYQ1ZxY0NfYnZROXZqdDhBd2NjU0hV0gFwQVVfeXFMT3M4SXhpTWJYOE9GdmdCRU5LTGFKMkp3NG1Pc0VSVzJQTGg3RWlEeTZ4cUFfeW5jN1ZydXNJTEVNUU9tZld3bDlzYVNVbnpaTWV5NkRVV3dBQ0tPeE1nWDB3RHVQU002NWM2UlV6VDlrag?oc=5"
+      },
+      {
+        "slug": "open-source-20260615-auto-2-9dc18a",
+        "title": "巴西黑马大模型翻车全靠套壳缝合国产模",
+        "category": "开源项目",
+        "date": "2026-06-15",
+        "summary": "巴西黑马大模型翻车全靠套壳缝合国产模型- AI 人工智能 cnBeta.COM",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "巴西黑马大模型翻车全靠套壳缝合国产模 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "巴西黑马大模型翻车全靠套壳缝合国产模型- AI 人工智能 cnBeta.COM",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "巴西黑马大模型翻车全靠套壳缝合国产模型- AI 人工智能 cnBeta.COM",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oNmI0STJwWGkzWXc1bzV4cl9qQWpRSUl6XzUxUHJkeWpLYTQ0aDNXUzNDNThjTmkwYkw2MmhRclhtc3FpLW8tMW1SWldKYS1yV0E3cE83V1ZDOUs2a1ZFbA?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews：BugHunter - Bug Bounty Toolkit Powered by Claude and Free AI Providers",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teFY4cmI3eEROY3FzVHU5MU9Vb3FJQ3pmaHFFbjdjLXZHeDdJU2FIc1RqOFk1QUpDTFNHeXMyQTVJcXlMM2lBdUZqWVZqbVpENVVWcktYQ1ZxY0NfYnZROXZqdDhBd2NjU0hV0gFwQVVfeXFMT3M4SXhpTWJYOE9GdmdCRU5LTGFKMkp3NG1Pc0VSVzJQTGg3RWlEeTZ4cUFfeW5jN1ZydXNJTEVNUU9tZld3bDlzYVNVbnpaTWV5NkRVV3dBQ0tPeE1nWDB3RHVQU002NWM2UlV6VDlrag?oc=5"
+          },
+          {
+            "label": "MSN：IBM wants to become the 'security layer' for open source AI infrastruc",
+            "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNbGR4NzdoNWpqT3l4QUFsUGJ5WjVPVHl6VzZMY0lqLThTU3ViSlNvYmhFYjBwZ1FzdDlLM1dhRHI1b3dmR3lMZGx2bGhKUm1vUHZZTFNwTU5MUzhaeE9Qd1pXckZ0RnNGdWt6NEtMZEExZ1VvamRQR2UyVnB1UEtpcjhXZUpOVEJfN2NuZ2hUUHdtcDE0Wm1RNWhpRU9iMHJ4aHRqcTQxQUFSUzRmUExqUmJidHhmZ29ZYVUxeGEtTU5UM0VxS3d0RU9EYlE4UlNEdWhTODRHSTFtRmtaSk1aNE9obV9EZ0VLWDA0UjQ3TEJjcm9EeHI1QjJQSHZ5TEtXZTZLd2xPREJJeUthMEprai1jVnlDMU5sOE9MbnZGN0JDb21iVDlMc2FyYm9QU1gwNWw0cEQzSVB2cmFyX05jMF9tbjZPNVFIUzVwZ1I4NThqQmpNSm9fS2pBTTNCTWdvMlVnMm9yRkpVcWJKajdNRzR5ZUs4RE0wWWNSTm9hUUh5d3dSMnBacWNYM0JiWE5kcDVscEduN2ViWVRiOXow?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oNmI0STJwWGkzWXc1bzV4cl9qQWpRSUl6XzUxUHJkeWpLYTQ0aDNXUzNDNThjTmkwYkw2MmhRclhtc3FpLW8tMW1SWldKYS1yV0E3cE83V1ZDOUs2a1ZFbA?oc=5"
+      },
       {
         "slug": "open-source-20260614-auto-1-543334",
         "title": "CoinFund founder a",
