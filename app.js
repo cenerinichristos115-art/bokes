@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260616-auto-1-f57470",
+        "title": "景德镇市工商联举办AI赋能民企数字化",
+        "category": "AI新闻",
+        "date": "2026-06-16",
+        "summary": "景德镇市工商联举办AI赋能民企数字化转型专题培训班（图） 大江网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "景德镇市工商联举办AI赋能民企数字化 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "景德镇市工商联举办AI赋能民企数字化转型专题培训班（图） 大江网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "景德镇市工商联举办AI赋能民企数字化转型专题培训班（图） 大江网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "大江网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zUTdmYTRFRGdmcm5kbUFUMjFrY2ZRWjJNWl8xRzI1NWFqaHBMR0Rmejd4Vy03Tzc0TXl6azQ5b3lTYWpwQVR1Y0tYUExYSDROZmJjRGFIT18wUWpKZU9PcFByc3FlOTlOX3FIb0tR?oc=5"
+          },
+          {
+            "label": "新浪网：久加诺夫：中国和美国人工智能专利数百万！威胁俄罗斯技术主权 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVFHa1hOQTJydk84NllKTVpaWWxmUTNIeWpRdkEzekptWWE3Q1R6aEI4eUxmU0g3YkJxTlZNaFV3TjNCSXhhdGNDQ0hNdU8yM0hPTkRyQ0hJM3VwM20ydFN2eGhFSnpfQnNwQnhhWlI2T3JudDlMMU5XN05CUXhWQjlISUVKY3QzcFBuS2tNdw?oc=5"
+          },
+          {
+            "label": "大河财立方：国家统计局：人工智能应用快速发展，5月集成电路等新型制造表现亮眼 - 大河财立方",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcm5pbXRHbkh4by1WZGhaV3R6UDJFbkREdDFjaXg3R081b1pQeGtXZVB1emo4U3IyQTJoSU12bzFEQ2JRR09LV0haMjUtMms4dE9kVUtWVkFJaUEtZDJJa0tOSFp4YmhaeUE?oc=5"
+          }
+        ],
+        "source": "大江网",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zUTdmYTRFRGdmcm5kbUFUMjFrY2ZRWjJNWl8xRzI1NWFqaHBMR0Rmejd4Vy03Tzc0TXl6azQ5b3lTYWpwQVR1Y0tYUExYSDROZmJjRGFIT18wUWpKZU9PcFByc3FlOTlOX3FIb0tR?oc=5"
+      },
+      {
+        "slug": "ai-news-20260616-auto-2-8d41bb",
+        "title": "久加诺夫：中国和美国人工智能专利数百",
+        "category": "AI新闻",
+        "date": "2026-06-16",
+        "summary": "久加诺夫：中国和美国人工智能专利数百万！威胁俄罗斯技术主权 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "久加诺夫：中国和美国人工智能专利数百 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "久加诺夫：中国和美国人工智能专利数百万！威胁俄罗斯技术主权 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "久加诺夫：中国和美国人工智能专利数百万！威胁俄罗斯技术主权 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVFHa1hOQTJydk84NllKTVpaWWxmUTNIeWpRdkEzekptWWE3Q1R6aEI4eUxmU0g3YkJxTlZNaFV3TjNCSXhhdGNDQ0hNdU8yM0hPTkRyQ0hJM3VwM20ydFN2eGhFSnpfQnNwQnhhWlI2T3JudDlMMU5XN05CUXhWQjlISUVKY3QzcFBuS2tNdw?oc=5"
+          },
+          {
+            "label": "大江网：景德镇市工商联举办AI赋能民企数字化转型专题培训班（图） - 大江网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zUTdmYTRFRGdmcm5kbUFUMjFrY2ZRWjJNWl8xRzI1NWFqaHBMR0Rmejd4Vy03Tzc0TXl6azQ5b3lTYWpwQVR1Y0tYUExYSDROZmJjRGFIT18wUWpKZU9PcFByc3FlOTlOX3FIb0tR?oc=5"
+          },
+          {
+            "label": "大河财立方：国家统计局：人工智能应用快速发展，5月集成电路等新型制造表现亮眼 - 大河财立方",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zcm5pbXRHbkh4by1WZGhaV3R6UDJFbkREdDFjaXg3R081b1pQeGtXZVB1emo4U3IyQTJoSU12bzFEQ2JRR09LV0haMjUtMms4dE9kVUtWVkFJaUEtZDJJa0tOSFp4YmhaeUE?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVFHa1hOQTJydk84NllKTVpaWWxmUTNIeWpRdkEzekptWWE3Q1R6aEI4eUxmU0g3YkJxTlZNaFV3TjNCSXhhdGNDQ0hNdU8yM0hPTkRyQ0hJM3VwM20ydFN2eGhFSnpfQnNwQnhhWlI2T3JudDlMMU5XN05CUXhWQjlISUVKY3QzcFBuS2tNdw?oc=5"
+      },
+      {
         "slug": "ai-news-20260615-auto-1-0f8281",
         "title": "Putin’s paranoia:",
         "category": "AI新闻",
@@ -9215,6 +9331,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260616-auto-1-fb9d72",
+        "title": "调查：英国职场AI使用升温，节省下来",
+        "category": "AI使用教程",
+        "date": "2026-06-16",
+        "summary": "调查：英国职场AI使用升温，节省下来的时间近半耗在核查和修正上 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "调查：英国职场AI使用升温，节省下来 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "调查：英国职场AI使用升温，节省下来的时间近半耗在核查和修正上 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "调查：英国职场AI使用升温，节省下来的时间近半耗在核查和修正上 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDRmNzZJOUVQU2JuRk00T2F2UWdhdmdsWUhWYlRaVGZOOGd6MzlvV1doWU5vZEpTZHZvMUdMWVljdXBjRDBLMm16blpOT29seUE5Rm91SmpYOENJNVdqNmJ3ZjNzcmtQM0VQWHk5TGw1QjRyb0IzdlRSdTR0ZE1EYjlpQ3l2OG5EbVBwM3g3SlhVX3ppd2JDb0FPRGhwM3EzY2hYcHN4NUg?oc=5"
+          },
+          {
+            "label": "搜狐网：AniShort 这一手「3D世界+3D导演台」，把盲盒玩成了精准制导 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVBHNlFzcmFNdjEtSV91QXRmdnVjaEpXLXNaR2tkdEloN2k4VE5QVWE0QVhqVi1vQWlTejctTWQxQ1pvR3drMjVfeDZfRGJhakZZeklVR1lBdEhqV0Q0eWhGc2NLYlE0azNKRk5sOEw2MnRJelBESGFrV01EU0FSMnlWNnRUWHlCZ25EUQ?oc=5"
+          },
+          {
+            "label": "x.com：\"沧州怎么约找外围美女酒店上门❰约炮工作室溦信▷9͇9͇7͇4͇4͇2͇7͇同城上门服务❱找小姐上门服务预约-哪有妹子上门服务-全套服务多少",
+            "url": "https://news.google.com/rss/articles/CBMi4gZBVV95cUxOWTJVRlBYdURfX2FQeGVFNEU5R0lUVE1fbGNjV3R1RDJ5LWhqLXVJRVZMb3YyMmkzazI0WkJYSWdyazVmU3ZWVjFUbGFjWHpBajRVNU4xMGdvWFBtNmdfb0doaWFndDcyVktIeGZXOThXa05ET3Fud2dSRVh3MDJ0WnZSVVVfS0lSZGpaSm5qcm0wa2J4NXRrLXdGTTB0TnBxeEVmVTEwVWRtdjZ6Q1RVNnpFVmpid1EzOXh4eTdTUlA2M0xnZ01VMWl5MUp0QlpBdTdTYzFYeEJUam44NlI5QkVXb2ZjNzRvTU5DMFZyR1dnY3h0Q21BVjJLaUpMXzJrX0Q5OUdYN2RiQkRyd1YwMU80RkE5eWdtYnJQREVhYVc3UG5pUEcxbDdwYnNVRnNWd0oyRWdrZUZvTWdvNjdEUzNHdVV3VklkNW9BWF9TLWl3NkY1RDF6YWJPQnRjek5XR05ZcVRXMlUxYUlaWXZmblJ4cXFjdHhVNTFrdGZnY3F5bXlEUTV5S0ZfcDgzVzk3a0I4YWdWRTEyQ0FmUnd1U19Dak9rNElXcjFrRzZNNW0wTVVPWG9nTzFmMTV4UDFmUmdneDhUU3QwVGhEb1N0ZWhnWWpuOE9HU3NEcnVvN3FGeUhoUk9VaU4xbTA5cFRqTFpvR1dQNXI4d1dic0ZYSkJ3bVhWUDNXcVA2OTZLak9JeGo5RS0zTEgtcWFrVUN0MVNnTlh6Z1k2RU9MSXZ0ZTRMT0U0bkF4TW9GZVVZUXpMekU1M3M4a2Q0NTFNeHpEckRSSGFBTzFhU0lyRnRkeFJHRGlnOTBhMHpvLWU4UklMTTZkWlRqaFhnU2pWTlhCaEdzMnpxb2lDZWtfd1dSTVNUTU9uZFFiX3EzR0czQmdlMjNhWDZMS1cwN1NZcXA3OFc0T1ZtanBKX2J0V0lZUkllVEtzSEZQR0QtVDVjcTFvRkVHS3RldGdxWWtiNFdZX2FtSFpzMkNuX1hDUG9mczhKbTZTc1M3Tm1uS2JrWV9Wc05Ram9qVlhpUEJET29UNUpKcm83YkdUVkZKbVRac0VEWldtc1VHVWNwUDJOVlFIcDg1N0lRTkJkcWVwMktQWGpzTTJYQXlFV1h4QWQtbF81eW15VUtfcmh4czRCM2hJUQ?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDRmNzZJOUVQU2JuRk00T2F2UWdhdmdsWUhWYlRaVGZOOGd6MzlvV1doWU5vZEpTZHZvMUdMWVljdXBjRDBLMm16blpOT29seUE5Rm91SmpYOENJNVdqNmJ3ZjNzcmtQM0VQWHk5TGw1QjRyb0IzdlRSdTR0ZE1EYjlpQ3l2OG5EbVBwM3g3SlhVX3ppd2JDb0FPRGhwM3EzY2hYcHN4NUg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260615-auto-1-41dab6",
         "title": "Loop工程实操入门",
         "category": "AI使用教程",
@@ -13245,6 +13419,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260616-auto-1-c43380",
+        "title": "Reachability makes",
+        "category": "开源项目",
+        "date": "2026-06-16",
+        "summary": "Reachability makes AI threat modeling worth the tr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Reachability makes 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Reachability makes AI threat modeling worth the tr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Reachability makes AI threat modeling worth the tr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEVvd0l2WHoyaGEyVUNwUmZTSVdqYTQ1WTBHTFZwR0VsQWdYdDlVZUpYU1Bud1I4WlYtYmNrQ1MtQzJPNG5MQkZ2OWktazdnSTIwRnAzTnZneTZ0ekRVN2NSeTgxcEtaNlVBZzNSNEZUSHdwcXlpNGxMMENqbmJkTUJrM2VlSlllcVRFYTVB?oc=5"
+          },
+          {
+            "label": "21财经：小智AI狂揽4000万订单，解码广东营商加速度 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR253c0V0clZMRlR4V0ZTNjhIZUM4UUhmTjBjNVYwamR5VmV3OXZRZk1RWEJOSVljLU8xSkNjMVNHYnNpanRsNGk2cjJnOEI3NnB5X3oxSGdDZ1d4MXhGdHViSGFuek9HQ1JQd1pJUnMwRFlicWs4dXY2SEwyODR0MjBMVzJsLTEwOFU1Y0x3QQ?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：英特尔启动开源项目Intel Performance Skills 利用AI提升Linux性能调优效率 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VW1zVUpuUDdYeEFBWDNkd1g5WkFGbG40bHhSSmJRQS1hMkEyXzcxdS1zaUM5SkxNMVVxOHplN3dGckZheXg3YmdHT1k0RUVpQWpFQk03bVBSNXlyc0hoLQ?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEVvd0l2WHoyaGEyVUNwUmZTSVdqYTQ1WTBHTFZwR0VsQWdYdDlVZUpYU1Bud1I4WlYtYmNrQ1MtQzJPNG5MQkZ2OWktazdnSTIwRnAzTnZneTZ0ekRVN2NSeTgxcEtaNlVBZzNSNEZUSHdwcXlpNGxMMENqbmJkTUJrM2VlSlllcVRFYTVB?oc=5"
+      },
+      {
+        "slug": "open-source-20260616-auto-2-03b81a",
+        "title": "小智AI狂揽4000万订单，解码广东",
+        "category": "开源项目",
+        "date": "2026-06-16",
+        "summary": "小智AI狂揽4000万订单，解码广东营商加速度 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "小智AI狂揽4000万订单，解码广东 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "小智AI狂揽4000万订单，解码广东营商加速度 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "小智AI狂揽4000万订单，解码广东营商加速度 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR253c0V0clZMRlR4V0ZTNjhIZUM4UUhmTjBjNVYwamR5VmV3OXZRZk1RWEJOSVljLU8xSkNjMVNHYnNpanRsNGk2cjJnOEI3NnB5X3oxSGdDZ1d4MXhGdHViSGFuek9HQ1JQd1pJUnMwRFlicWs4dXY2SEwyODR0MjBMVzJsLTEwOFU1Y0x3QQ?oc=5"
+          },
+          {
+            "label": "Help Net Security：Reachability makes AI threat modeling worth the trust - Help Net Secur",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaEVvd0l2WHoyaGEyVUNwUmZTSVdqYTQ1WTBHTFZwR0VsQWdYdDlVZUpYU1Bud1I4WlYtYmNrQ1MtQzJPNG5MQkZ2OWktazdnSTIwRnAzTnZneTZ0ekRVN2NSeTgxcEtaNlVBZzNSNEZUSHdwcXlpNGxMMENqbmJkTUJrM2VlSlllcVRFYTVB?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：英特尔启动开源项目Intel Performance Skills 利用AI提升Linux性能调优效率 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3VW1zVUpuUDdYeEFBWDNkd1g5WkFGbG40bHhSSmJRQS1hMkEyXzcxdS1zaUM5SkxNMVVxOHplN3dGckZheXg3YmdHT1k0RUVpQWpFQk03bVBSNXlyc0hoLQ?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR253c0V0clZMRlR4V0ZTNjhIZUM4UUhmTjBjNVYwamR5VmV3OXZRZk1RWEJOSVljLU8xSkNjMVNHYnNpanRsNGk2cjJnOEI3NnB5X3oxSGdDZ1d4MXhGdHViSGFuek9HQ1JQd1pJUnMwRFlicWs4dXY2SEwyODR0MjBMVzJsLTEwOFU1Y0x3QQ?oc=5"
+      },
       {
         "slug": "open-source-20260615-auto-1-eba8a0",
         "title": "BugHunter - Bug Bo",
