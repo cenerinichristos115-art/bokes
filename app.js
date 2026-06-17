@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260617-auto-1-37f23d",
+        "title": "中科闻歌启动全球招股",
+        "category": "AI新闻",
+        "date": "2026-06-17",
+        "summary": "中科闻歌启动全球招股，推进上市进程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中科闻歌启动全球招股 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年6月17日，中科闻歌启动全球招股，市场关注其上市进程与通用决策大模型业务的资本化落地。",
+          "blocks": [
+            {
+              "heading": "招股进展",
+              "paragraphs": [
+                "据经济参考报报道，中科闻歌已启动全球招股，进入上市关键阶段。此次动作意味着公司正按资本市场节奏推进公开发行安排。",
+                "从时间上看，这一进展发生在2026年6月17日，符合近期AI企业集中寻求融资与上市窗口的市场背景。",
+                "外界关注的重点包括公司业务结构、募资用途以及后续上市定价安排。"
+              ]
+            },
+            {
+              "heading": "业务定位",
+              "paragraphs": [
+                "公开信息显示，中科闻歌以“通用决策大模型”作为核心标签，面向企业与行业场景提供AI能力。",
+                "该类业务通常覆盖数据分析、知识推理与决策支持，属于当前产业AI落地较活跃的方向。",
+                "若成功上市，公司将进一步获得资本市场支持，也有助于强化其在行业大模型赛道的竞争位置。"
+              ]
+            },
+            {
+              "heading": "市场影响",
+              "paragraphs": [
+                "在AI资本开支持续扩张的背景下，国内AI企业上市和融资活动保持较高关注度。",
+                "中科闻歌启动全球招股，也被视为产业链中AI应用层公司寻求规模化发展的一个信号。",
+                "后续市场将重点观察其招股结果、发行定价以及上市后对研发和商业化的投入节奏。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "经济参考报",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0h3Q19RRkpPa3g2bXVhU1dqcXo0d3I3dXRTUVJhQ0hZMko4a3piUzN6cFlqd0kwb3VHbHZGWFoyb3ZSODY3ZndfVHdCNHlFX19FVmEzcDBsR2U2TjZTYjlvOGFLc2JadWxHRFRQZ2NsTlEwaUs0aE52NDFnc0NPcA?oc=5"
+          },
+          {
+            "label": "新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1d6Nl9QQi1vbUZqQTFLWV9xWEdzeDRwejEzREJmSFNSY1FSYjQzSlN6Zk54bHRaWVJJWjYya1BhaHBkNVZnZ3JYOUVkX3ZrNlQ2Yk5YNHZnQmxvQTd4eGxmbzVCa25DVnh6M19ubzhxMTV6QXJSWFZNd0xNeHpFYw?oc=5"
+          },
+          {
+            "label": "新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SN1I2Q3JvalJlQkJmYzRISlVkSXZHOFI2Z01UXzNYUWx2Y2xqTnhZR2dGR0FZaXBfUGZmM0pqbC0tcm80WnRyemVrYXowQnhWZXp0NXVQV21SWFRzVFphYTVGZEh3NXBELW0zZUtCbVRGb0ZqMlQySVgxdXVpVTg?oc=5"
+          }
+        ],
+        "source": "经济参考报",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0h3Q19RRkpPa3g2bXVhU1dqcXo0d3I3dXRTUVJhQ0hZMko4a3piUzN6cFlqd0kwb3VHbHZGWFoyb3ZSODY3ZndfVHdCNHlFX19FVmEzcDBsR2U2TjZTYjlvOGFLc2JadWxHRFRQZ2NsTlEwaUs0aE52NDFnc0NPcA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260617-auto-2-9ed693",
+        "title": "中国筹建AI合作组织",
+        "category": "AI新闻",
+        "date": "2026-06-17",
+        "summary": "中国加紧筹建世界人工智能合作组织",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中国筹建AI合作组织 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "围绕世界人工智能合作组织的筹建，中国在2026年6月17日释放出新的政策信号。",
+          "blocks": [
+            {
+              "heading": "政策背景",
+              "paragraphs": [
+                "中国青年网报道，王毅表示中国正在加紧筹建世界人工智能合作组织。",
+                "这一表态与当天相关白皮书、快讯报道形成呼应，显示政策层面对AI国际治理议题的重视。",
+                "从发布时间看，这一进展落在G7讨论AI治理和安全合作的同日背景下。"
+              ]
+            },
+            {
+              "heading": "合作方向",
+              "paragraphs": [
+                "相关报道提到，筹建该组织的目标之一，是推动国际间AI合作与治理协调。",
+                "白皮书内容强调防止人工智能军备竞赛，体现出对安全、规范和国际协作的关注。",
+                "在全球AI竞争加速的情况下，合作框架的搭建被视为政策层面的重要议题。"
+              ]
+            },
+            {
+              "heading": "产业意义",
+              "paragraphs": [
+                "对于产业界而言，国际合作机制有助于降低规则不确定性，并为跨境应用提供更稳定的预期。",
+                "公职、公共治理和安全场景也可能成为后续合作与试点的重要方向。",
+                "随着政策推进，市场将继续关注组织筹建进度、参与方范围以及后续治理框架。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国青年网",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUzZLU1o0Ymd6QkFscDNSV28zbVlaMUpXVFJTQjF4VUhTVy1kZ2NYYnBLVjFQWXB0X0l6QVp1dDYtbjE2akh5WDl4QnVZUWZaQmNmNHpWUW5NMW5KYnBFUXZNOFFkVzA?oc=5"
+          },
+          {
+            "label": "新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6Sk5NZzZ4eUFzYS1PRmJEVEMwaEhoWGp3b2RuTWRUNVZzcnEwS0d1X1NWUDMyMVI4YkE1N1RqalQ0M2FQUGlCYXpNUXdkMkRXTEFKYUYwY29iZkcyblN1ZjVCVW4wN3I0MWxlSWpHc0ptdUFsSmRqRjJmc05qMDQ?oc=5"
+          },
+          {
+            "label": "央视网",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETVhseDZTN3VCSl8yTTE0dW0zVFE2Y01BRTByZUppRTFaWDJqdHBySTFTa1oxX3NGaG1xenR0d082YWprbVU5bkd3Zlc1M0E0eUFXVk4wTS16dFFhVHJrVWk1OGdJQjRsWkhFZm8tT0tJMXptUU5jcg?oc=5"
+          }
+        ],
+        "source": "中国青年网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYUzZLU1o0Ymd6QkFscDNSV28zbVlaMUpXVFJTQjF4VUhTVy1kZ2NYYnBLVjFQWXB0X0l6QVp1dDYtbjE2akh5WDl4QnVZUWZaQmNmNHpWUW5NMW5KYnBFUXZNOFFkVzA?oc=5"
+      },
+      {
         "slug": "ai-news-20260616-auto-1-f57470",
         "title": "景德镇市工商联举办AI赋能民企数字化",
         "category": "AI新闻",
@@ -9331,6 +9447,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260617-auto-1-efd6ec",
+        "title": "ToDesk AI股票查看器教程",
+        "category": "AI使用教程",
+        "date": "2026-06-17",
+        "summary": "用ToDesk AI搭建股票查看器的实操步骤",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ToDesk AI股票查看器教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年6月17日，ToDesk AI相关金融skill进入可体验阶段，适合用来做轻量股票查看器。下面按“准备、搭建、校验”给出可直接执行的操作思路，便于在日常行情查看、盘前观察和个股追踪中快速落地。",
+          "blocks": [
+            {
+              "heading": "先准备数据与权限",
+              "paragraphs": [
+                "先确认你要展示的字段，通常至少包括股票代码、最新价、涨跌幅、成交量和更新时间，避免一开始就做复杂图表。",
+                "如果数据来自外部接口，先核对是否需要API key、频率限制和可商用范围，防止后续接入时反复改配置。",
+                "把数据源、刷新间隔和展示终端先写成一页清单，后面搭建时按清单逐项验证，能减少漏项。"
+              ]
+            },
+            {
+              "heading": "在ToDesk AI里搭建查看器",
+              "paragraphs": [
+                "在ToDesk AI中先描述目标：创建一个股票查看器，输入股票代码后返回基础行情和简要状态。",
+                "把界面拆成三个区块更容易实现：输入区用于搜索代码，结果区用于显示行情，日志区用于查看请求是否成功。",
+                "如果工具支持技能或工作流，优先把“查询数据”“格式化输出”“错误提示”分开配置，便于后续单独替换数据源。"
+              ]
+            },
+            {
+              "heading": "上线前做三轮检查",
+              "paragraphs": [
+                "先用3到5只常见股票做功能测试，重点看代码校验、空值处理和接口超时后的提示是否正常。",
+                "再把刷新频率调到实际使用场景，盘中查看可以更短，日终复盘可以更长，避免无意义地频繁请求。",
+                "最后检查输出是否包含明确时间戳和数据来源说明，这样用户能判断信息是否过期，也方便人工复核。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "候选来源1",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGNiN2pTZUljd2FqQ0dHNWR6X0ZYN29jWXRuaklSVEFxM1B5UUdIWTk5NjRMTHZxTGVYeU1TRDJOM2xpNkE5ZTZRUXZOX0EyTkg4R0VLTWpINGxhbVRac0hIbFhqd0xLRk4tTHJFcFZYeWo3VGltQTk3NktzdFAwQ3FDSDJEQjFP?oc=5"
+          },
+          {
+            "label": "新浪财经：红帽亮出AI平台、操作系统新品：给推理加速，给Agent上规矩，还帮企业级Linux“续命” - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWZKR3IyU1dLb2djeDRuU0F6cEVZWXV3TkVmMG90bTdfTUtzYUthRmxlNUVjNkFFSE1RZ2hBTC1aVGtHUTFGUjMySk5ZUWRrQUhZUkk5amtHSEJGeW5EYW92R2F2SFhuNGlnS2J6Y2hxdHdGMWVNbWZ6ajhaRTFsRjF5M2ItVjhsQ2M5SG1NQ0ZFRm1XUFFGLVhpNEp3Y2JjendMb3U5QmRodmhCd1BuQzR3?oc=5"
+          },
+          {
+            "label": "品玩：OiiOii升级2.0：把AI视频创作技能点满，做爆款更简单 - 品玩",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9hN29ZZHNhTklqY3ptcGhxaFNUMTBQY295cTM1dWJRNmFvUVBTZVRHa1dyNGlKVE1DNENrYUtGZURDWXY5NlhiLQ?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGNiN2pTZUljd2FqQ0dHNWR6X0ZYN29jWXRuaklSVEFxM1B5UUdIWTk5NjRMTHZxTGVYeU1TRDJOM2xpNkE5ZTZRUXZOX0EyTkg4R0VLTWpINGxhbVRac0hIbFhqd0xLRk4tTHJFcFZYeWo3VGltQTk3NktzdFAwQ3FDSDJEQjFP?oc=5"
+      },
+      {
         "slug": "ai-guide-20260616-auto-1-fb9d72",
         "title": "调查：英国职场AI使用升温，节省下来",
         "category": "AI使用教程",
@@ -13419,6 +13593,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260617-auto-1-3a5524",
+        "title": "SecSuite - AI-powe",
+        "category": "开源项目",
+        "date": "2026-06-17",
+        "summary": "SecSuite - AI-powered Tool for OSINT, Web and API",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SecSuite - AI-powe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "SecSuite - AI-powered Tool for OSINT, Web and API",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SecSuite - AI-powered Tool for OSINT, Web and API",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CyberSecurityNews：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUkh0RkV3UWR2alRSZEhSS2hDVlQ0VGRwUVlTZkEzT3h5eUVrUjFxYXVMN3VXZ1BuRDRWdTRockZ4bWRiV1BLU2p4eFpFUUczSE1vNXNNdFdVNmxfWVVlYUlmbVhkUdIBa0FVX3lxTE9nbExwWUkzc1UwY1lRc1RDMS05QVVTYl9nRE00QUxGMDV6YUJTQ3BIeXhKM1VYcnJnSWxvNU03d2JURU5zaUhaV3hoemJqUkFQX004aDVZUF95QVRJN0wyZ2hwWU1kbGcwU28w?oc=5"
+          },
+          {
+            "label": "Indiatimes：Maya research raises 1 9 million to enhance voice ai models - Indiatim",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTN0X3ZpY2czcDA0OGVSanRkT1ZLbWNPa3NEWVkzTGZDOTJBTVk4V29vMXRYTFkyTWdiR3VoRlFCMWdXRkoxbi1HQ2s2ejdEaEpiaEI1ME9KQl9xc0N2V0IxcXpsQzhTaFo2T3FydlltQ0VaSGFOWnU2d182R1I2dlN3SDFpelNXQnhPekU5NDcydnJrbVpLdC13cmQ5TFBCWU4xRFFfQWZDU0lad3FJMklpUjZ1UlJBOFNNVElucWFzZ3dlVnFId2gzN2g?oc=5"
+          },
+          {
+            "label": "OSCHINA：GLM-5.2 上线并开源 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oVHZEbExQOTFZd3pVX0d4VEVBMWlxTjVwRUFIOTlaamlzN1VkRGR1dFcyT3ladmxTOEhHeGhlenN6aUJJS2ctU3JNSQ?oc=5"
+          }
+        ],
+        "source": "CyberSecurityNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUkh0RkV3UWR2alRSZEhSS2hDVlQ0VGRwUVlTZkEzT3h5eUVrUjFxYXVMN3VXZ1BuRDRWdTRockZ4bWRiV1BLU2p4eFpFUUczSE1vNXNNdFdVNmxfWVVlYUlmbVhkUdIBa0FVX3lxTE9nbExwWUkzc1UwY1lRc1RDMS05QVVTYl9nRE00QUxGMDV6YUJTQ3BIeXhKM1VYcnJnSWxvNU03d2JURU5zaUhaV3hoemJqUkFQX004aDVZUF95QVRJN0wyZ2hwWU1kbGcwU28w?oc=5"
+      },
+      {
+        "slug": "open-source-20260617-auto-2-903d19",
+        "title": "Maya research rais",
+        "category": "开源项目",
+        "date": "2026-06-17",
+        "summary": "Maya research raises 1 9 million to enhance voice",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Maya research rais 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Maya research raises 1 9 million to enhance voice",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Maya research raises 1 9 million to enhance voice",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Indiatimes：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTN0X3ZpY2czcDA0OGVSanRkT1ZLbWNPa3NEWVkzTGZDOTJBTVk4V29vMXRYTFkyTWdiR3VoRlFCMWdXRkoxbi1HQ2s2ejdEaEpiaEI1ME9KQl9xc0N2V0IxcXpsQzhTaFo2T3FydlltQ0VaSGFOWnU2d182R1I2dlN3SDFpelNXQnhPekU5NDcydnJrbVpLdC13cmQ5TFBCWU4xRFFfQWZDU0lad3FJMklpUjZ1UlJBOFNNVElucWFzZ3dlVnFId2gzN2g?oc=5"
+          },
+          {
+            "label": "CyberSecurityNews：SecSuite - AI-powered Tool for OSINT, Web and API Security Testing - C",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUkh0RkV3UWR2alRSZEhSS2hDVlQ0VGRwUVlTZkEzT3h5eUVrUjFxYXVMN3VXZ1BuRDRWdTRockZ4bWRiV1BLU2p4eFpFUUczSE1vNXNNdFdVNmxfWVVlYUlmbVhkUdIBa0FVX3lxTE9nbExwWUkzc1UwY1lRc1RDMS05QVVTYl9nRE00QUxGMDV6YUJTQ3BIeXhKM1VYcnJnSWxvNU03d2JURU5zaUhaV3hoemJqUkFQX004aDVZUF95QVRJN0wyZ2hwWU1kbGcwU28w?oc=5"
+          },
+          {
+            "label": "OSCHINA：GLM-5.2 上线并开源 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oVHZEbExQOTFZd3pVX0d4VEVBMWlxTjVwRUFIOTlaamlzN1VkRGR1dFcyT3ladmxTOEhHeGhlenN6aUJJS2ctU3JNSQ?oc=5"
+          }
+        ],
+        "source": "Indiatimes",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTN0X3ZpY2czcDA0OGVSanRkT1ZLbWNPa3NEWVkzTGZDOTJBTVk4V29vMXRYTFkyTWdiR3VoRlFCMWdXRkoxbi1HQ2s2ejdEaEpiaEI1ME9KQl9xc0N2V0IxcXpsQzhTaFo2T3FydlltQ0VaSGFOWnU2d182R1I2dlN3SDFpelNXQnhPekU5NDcydnJrbVpLdC13cmQ5TFBCWU4xRFFfQWZDU0lad3FJMklpUjZ1UlJBOFNNVElucWFzZ3dlVnFId2gzN2g?oc=5"
+      },
       {
         "slug": "open-source-20260616-auto-1-c43380",
         "title": "Reachability makes",
