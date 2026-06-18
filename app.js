@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260618-auto-1-9d7245",
+        "title": "Guthrie: Western K",
+        "category": "AI新闻",
+        "date": "2026-06-18",
+        "summary": "Guthrie: Western Kentucky can lead AI growth while",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Guthrie: Western K 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Guthrie: Western Kentucky can lead AI growth while",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Guthrie: Western Kentucky can lead AI growth while",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Owensboro Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcF9QOXAyajNRUFZCOG1fcF9yaFZsMHk2MVU1MUEzcGpnU2VtV2ZUZGxWTEFRM0V1Y0ZBQmdfX1FPUUlmVEpNLVk0UXNOdml3N2RzMEVNLThfX3M2akVlWVlkNGhZaHh0dVVXR25ERGJYc0RIbTNRRDQ0UnFFcVNxUWdmbGJTdnVUZURWRGp6WGVFSW9rT29lUVJvX3Q1anJQSXRUQWY5VC1tYzA3VndNQ1hkMy1NNVhXcHpodnAxRG93NnIwbnYya1Ffd0xOSTQ?oc=5"
+          },
+          {
+            "label": "新浪财经：北京：支持企业采购并消费词元（Token）开展人工智能应用 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmZoVkN3dXRtUkRNOGQ1MkJINnZnd2J5Y1VBdWlmQk1uYVB6QkNvV2I4aG9pT0VPQlVPV2RWaS1NdFoxVHVWaFNZSUtJSHdIZVpmLTBHQlM2ZjVzaEFJUmtlb3NXbXhHa2dHb2F6V01JTHJub0NGc29mSk0xYXFpd0stLXQxQkFDV18wcVRnOEdGQjlmcG5sNHZJeTl0NlNHS2ZUdVJlMjcyenJjR3ln?oc=5"
+          },
+          {
+            "label": "Help Net Security：Google’s open standard for AI agents to discover and verify tools - He",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0JsUGdpQy1XWkUzVzRySmJrYnoyTGt1X2NZSTU4MDFHeV9hZzhwRVlzemJsd21wSzdMaWl0VVZYRHZ3S0VEeG43QkNwdjJtOGhLMGJyM2RVVkFNYUk5RUU5NndFZDhUR3dWb0NoNGNKTmNNUFUzOHMwMXB6cnBqYUNOZw?oc=5"
+          }
+        ],
+        "source": "The Owensboro Times",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcF9QOXAyajNRUFZCOG1fcF9yaFZsMHk2MVU1MUEzcGpnU2VtV2ZUZGxWTEFRM0V1Y0ZBQmdfX1FPUUlmVEpNLVk0UXNOdml3N2RzMEVNLThfX3M2akVlWVlkNGhZaHh0dVVXR25ERGJYc0RIbTNRRDQ0UnFFcVNxUWdmbGJTdnVUZURWRGp6WGVFSW9rT29lUVJvX3Q1anJQSXRUQWY5VC1tYzA3VndNQ1hkMy1NNVhXcHpodnAxRG93NnIwbnYya1Ffd0xOSTQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260618-auto-2-91e57b",
+        "title": "北京：支持企业采购并消费词元（Tok",
+        "category": "AI新闻",
+        "date": "2026-06-18",
+        "summary": "北京：支持企业采购并消费词元（Token）开展人工智能应用 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北京：支持企业采购并消费词元（Tok 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京：支持企业采购并消费词元（Token）开展人工智能应用 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "北京：支持企业采购并消费词元（Token）开展人工智能应用 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmZoVkN3dXRtUkRNOGQ1MkJINnZnd2J5Y1VBdWlmQk1uYVB6QkNvV2I4aG9pT0VPQlVPV2RWaS1NdFoxVHVWaFNZSUtJSHdIZVpmLTBHQlM2ZjVzaEFJUmtlb3NXbXhHa2dHb2F6V01JTHJub0NGc29mSk0xYXFpd0stLXQxQkFDV18wcVRnOEdGQjlmcG5sNHZJeTl0NlNHS2ZUdVJlMjcyenJjR3ln?oc=5"
+          },
+          {
+            "label": "The Owensboro Times：Guthrie: Western Kentucky can lead AI growth while protecting local co",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcF9QOXAyajNRUFZCOG1fcF9yaFZsMHk2MVU1MUEzcGpnU2VtV2ZUZGxWTEFRM0V1Y0ZBQmdfX1FPUUlmVEpNLVk0UXNOdml3N2RzMEVNLThfX3M2akVlWVlkNGhZaHh0dVVXR25ERGJYc0RIbTNRRDQ0UnFFcVNxUWdmbGJTdnVUZURWRGp6WGVFSW9rT29lUVJvX3Q1anJQSXRUQWY5VC1tYzA3VndNQ1hkMy1NNVhXcHpodnAxRG93NnIwbnYya1Ffd0xOSTQ?oc=5"
+          },
+          {
+            "label": "Help Net Security：Google’s open standard for AI agents to discover and verify tools - He",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0JsUGdpQy1XWkUzVzRySmJrYnoyTGt1X2NZSTU4MDFHeV9hZzhwRVlzemJsd21wSzdMaWl0VVZYRHZ3S0VEeG43QkNwdjJtOGhLMGJyM2RVVkFNYUk5RUU5NndFZDhUR3dWb0NoNGNKTmNNUFUzOHMwMXB6cnBqYUNOZw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmZoVkN3dXRtUkRNOGQ1MkJINnZnd2J5Y1VBdWlmQk1uYVB6QkNvV2I4aG9pT0VPQlVPV2RWaS1NdFoxVHVWaFNZSUtJSHdIZVpmLTBHQlM2ZjVzaEFJUmtlb3NXbXhHa2dHb2F6V01JTHJub0NGc29mSk0xYXFpd0stLXQxQkFDV18wcVRnOEdGQjlmcG5sNHZJeTl0NlNHS2ZUdVJlMjcyenJjR3ln?oc=5"
+      },
+      {
         "slug": "ai-news-20260617-auto-1-37f23d",
         "title": "中科闻歌启动全球招股",
         "category": "AI新闻",
@@ -9447,6 +9563,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260618-auto-1-fbf45e",
+        "title": "暑期AI绘本实操指南",
+        "category": "AI使用教程",
+        "date": "2026-06-18",
+        "summary": "围绕AI绘本活动，整理家长带孩子上手的方法",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "暑期AI绘本实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "暑期亲子活动中，AI绘本适合用来做低门槛入门。家长可以把它当成“AI写故事、孩子做选择、最后输出成书”的练习，重点放在流程、提示词和内容检查上。",
+          "blocks": [
+            {
+              "heading": "先准备一套最小流程",
+              "paragraphs": [
+                "先确定主题、年龄段和时长，例如“动物探险”“交通安全”这类孩子熟悉的题材，便于快速进入创作。",
+                "把流程拆成四步：定主题、写大纲、生成页面、导出成品，避免一开始就追求复杂排版或长篇内容。",
+                "建议先做3到5页的短绘本，便于在现场完成，也方便孩子理解每一步是如何影响最终结果的。"
+              ]
+            },
+            {
+              "heading": "提示词要具体可执行",
+              "paragraphs": [
+                "给AI的要求要写清角色、场景、画风和页数，例如“面向6岁儿童，3页，温和语气，每页一句话”。",
+                "如果画面生成偏差大，就补充限制条件，如“不要复杂背景”“人物保持同一外观”“每页只保留一个主要动作”。",
+                "家长可以先让AI生成故事文字，再把文字拆成逐页提示，这样比一次性生成整本更稳定。"
+              ]
+            },
+            {
+              "heading": "完成后要做三轮检查",
+              "paragraphs": [
+                "第一轮检查事实和表达，确认是否有不适合儿童的内容、过长句子或逻辑跳跃。",
+                "第二轮检查图片一致性，重点看人物设定、颜色风格和页面顺序是否统一。",
+                "第三轮检查成品使用场景，确认导出格式、打印尺寸和分享权限，避免到活动现场才发现无法展示。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "活动报名信息",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02R0dVRzR3bld4UEJKMTNyQ25XUV9tRUROalV0M19MYjRKbEpMckQ3UGctVG02ZXo4SWZKU05mMkVkaHQyZGU1aG41WDZ5b1p2cFhEN2JuQmNoLURyMGdZbkl5amlQUXB3Y21MN3pmNFB2M1VpWmFQbUV0MjNSQmM?oc=5"
+          },
+          {
+            "label": "同类AI工具参考",
+            "url": "https://news.google.com/rss/articles/CBMiukFVX3lxTE9BWXdhNmZCRHQxcjZuczdIRmF3ejhCcVRDbWc3WnU2WWJXRW9BcEh2UmoxOUl5elI3ZXlaQ3lQRWVsSXpN..."
+          },
+          {
+            "label": "AOL.com：Designing an AI-ready workforce: A guide for SMB leaders - AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScmNWTjdaTXFSd3FQN0ZHaWlhX3B6U1A4RFdfQTdfLXVwaXFfaTZDNVk4T2hIa3puc2g4OWJCb3Nncl8zczAyam1LakVDUC1GYmh2SzV2ZG9KRHRGN1Q2c2lZQW9FcVRzeW1HNUJVS0IxOHpiQWpuMExmSG1odEE?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02R0dVRzR3bld4UEJKMTNyQ25XUV9tRUROalV0M19MYjRKbEpMckQ3UGctVG02ZXo4SWZKU05mMkVkaHQyZGU1aG41WDZ5b1p2cFhEN2JuQmNoLURyMGdZbkl5amlQUXB3Y21MN3pmNFB2M1VpWmFQbUV0MjNSQmM?oc=5"
+      },
+      {
         "slug": "ai-guide-20260617-auto-1-efd6ec",
         "title": "ToDesk AI股票查看器教程",
         "category": "AI使用教程",
@@ -13593,6 +13767,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260618-auto-1-813dd5",
+        "title": "刚刚，Fable-5之下，智谱开源的",
+        "category": "开源项目",
+        "date": "2026-06-18",
+        "summary": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！|AI代码生成|开源模型|Cha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "刚刚，Fable-5之下，智谱开源的 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！|AI代码生成|开源模型|Cha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！|AI代码生成|开源模型|Cha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkdDRXQwRGtHVTdLdDdwcDl1NERpcW9vNFJMQkRRbVJaWlJMTFEyTHpScmdIbVdWNVBuV09oYkpSRDV5QjB4c1dzVUZHOGpVVWIwRTRHVFNodDhSQldqWS1GUC02YXMyMnpSLW1GU3RIQWlKNGZCT2Q1eHdwVk8xX18xbmluMEV5b2Q5VzgwNVFhY2ZYME05S0xmTWxuQm1QV1JfTnl3RG00SWVsQjhmbktB?oc=5"
+          },
+          {
+            "label": "智源社区：刚刚，智谱发布并开源GLM-5.2：更强体感，更实用的Coding能力 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5teGdhT1M1cGNqMDZJcTNFbXphT19fZE04cmRTR043c3dhazh6c1RBVGhheGZSM2lwUF9uUFVNUnFnUDE3NjRuOA?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Wall Street is betting on Zhipu AI as Washington's export crackdown ha",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT090alhpQkZhaWl0c0pqUEkzSjJVTzdPMDdjMXdUc0hxY2RqN0NHRWNocFpRQTRfMDFjdm9malI0ZUs5R29Tdllnc24xSlNScDhHbVUxMW1oMEJfSGkwQThoREVoMVBXZDBFeVJJTFo2ME00Wk5ZaDdrTHJUM1NlVDJjQnhHUjZDRmQyRk56S3BFN1VrLU9qUkxmRWE2eHhuSnZzUWd6QXV2NFFULXFhWkl6c3hlQWZ4VWVtRlVwcw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkdDRXQwRGtHVTdLdDdwcDl1NERpcW9vNFJMQkRRbVJaWlJMTFEyTHpScmdIbVdWNVBuV09oYkpSRDV5QjB4c1dzVUZHOGpVVWIwRTRHVFNodDhSQldqWS1GUC02YXMyMnpSLW1GU3RIQWlKNGZCT2Q1eHdwVk8xX18xbmluMEV5b2Q5VzgwNVFhY2ZYME05S0xmTWxuQm1QV1JfTnl3RG00SWVsQjhmbktB?oc=5"
+      },
+      {
+        "slug": "open-source-20260618-auto-2-b05a86",
+        "title": "刚刚，智谱发布并开源GLM-5.2：",
+        "category": "开源项目",
+        "date": "2026-06-18",
+        "summary": "刚刚，智谱发布并开源GLM-5.2：更强体感，更实用的Coding能力 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "刚刚，智谱发布并开源GLM-5.2： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "刚刚，智谱发布并开源GLM-5.2：更强体感，更实用的Coding能力 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "刚刚，智谱发布并开源GLM-5.2：更强体感，更实用的Coding能力 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5teGdhT1M1cGNqMDZJcTNFbXphT19fZE04cmRTR043c3dhazh6c1RBVGhheGZSM2lwUF9uUFVNUnFnUDE3NjRuOA?oc=5"
+          },
+          {
+            "label": "新浪财经：刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！|AI代码生成|开源模型|ChatGLM|上下文|测试_手机新浪网 - ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkdDRXQwRGtHVTdLdDdwcDl1NERpcW9vNFJMQkRRbVJaWlJMTFEyTHpScmdIbVdWNVBuV09oYkpSRDV5QjB4c1dzVUZHOGpVVWIwRTRHVFNodDhSQldqWS1GUC02YXMyMnpSLW1GU3RIQWlKNGZCT2Q1eHdwVk8xX18xbmluMEV5b2Q5VzgwNVFhY2ZYME05S0xmTWxuQm1QV1JfTnl3RG00SWVsQjhmbktB?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Wall Street is betting on Zhipu AI as Washington's export crackdown ha",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT090alhpQkZhaWl0c0pqUEkzSjJVTzdPMDdjMXdUc0hxY2RqN0NHRWNocFpRQTRfMDFjdm9malI0ZUs5R29Tdllnc24xSlNScDhHbVUxMW1oMEJfSGkwQThoREVoMVBXZDBFeVJJTFo2ME00Wk5ZaDdrTHJUM1NlVDJjQnhHUjZDRmQyRk56S3BFN1VrLU9qUkxmRWE2eHhuSnZzUWd6QXV2NFFULXFhWkl6c3hlQWZ4VWVtRlVwcw?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5teGdhT1M1cGNqMDZJcTNFbXphT19fZE04cmRTR043c3dhazh6c1RBVGhheGZSM2lwUF9uUFVNUnFnUDE3NjRuOA?oc=5"
+      },
       {
         "slug": "open-source-20260617-auto-1-3a5524",
         "title": "SecSuite - AI-powe",
