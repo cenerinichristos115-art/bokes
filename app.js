@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260619-auto-1-471ca8",
+        "title": "Saltlux中标韩国核燃料公司AI",
+        "category": "AI新闻",
+        "date": "2026-06-19",
+        "summary": "Saltlux中标韩国核燃料公司AI系统构建项目 支持文档审批等业务创新 中国核电网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Saltlux中标韩国核燃料公司AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Saltlux中标韩国核燃料公司AI系统构建项目 支持文档审批等业务创新 中国核电网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Saltlux中标韩国核燃料公司AI系统构建项目 支持文档审批等业务创新 中国核电网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国核电网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNYXZKRE1haVRqWkpQVk52dlM5SGdoQlNSMWJpY3Q4ZVVqMy0yNFJJVjg3dWNBUFQySTBfd1ZDT2JkaE9laS16YzJCNjBhYWZX?oc=5"
+          },
+          {
+            "label": "新浪网：《经济学人》封面文章丨人工智能赋予美国巨大的新权力 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sb0Z4ZEs0SFM5TDRRcWxTSjNyczNhRmdIZVlWOU1PaHV5bUlnc3U0UFRFNHF3ZTB1MWhwdDRlWmNKU1lMNUEwMzU4d0FfbU9YRUNUSFpFdnZCanVjX2RYQVpzSDV0a1FlQ3M2M1VXOGZodEt0SWZaTjg5SWx2dW8?oc=5"
+          },
+          {
+            "label": "新浪财经：八部门：优化“人工智能+消费”环境 加大财政等资金支持力度 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUFOTlpuNkF4M1JQUDJ6ek94bFNvc0VyNGV2REVnVG84RkRJRjlQMWRjMjJCMzFHZURFQUoxQjJGdENERFYtT3lVT1JPb3FFa2FmbGIxbGI0QjJrSlZRNEt2akxGNC1aN0dSVGpYVWJNY01GbGhwcE1jbjVMUXZhRC16N3JjOWFJY2xlOEZSVy1IVVB6aUhzMzE2czVhNlJTemUyeTBpbS1RendhbHdZ?oc=5"
+          }
+        ],
+        "source": "中国核电网",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNYXZKRE1haVRqWkpQVk52dlM5SGdoQlNSMWJpY3Q4ZVVqMy0yNFJJVjg3dWNBUFQySTBfd1ZDT2JkaE9laS16YzJCNjBhYWZX?oc=5"
+      },
+      {
+        "slug": "ai-news-20260619-auto-2-2b8cfe",
+        "title": "《经济学人》封面文章丨人工智能赋予美",
+        "category": "AI新闻",
+        "date": "2026-06-19",
+        "summary": "《经济学人》封面文章丨人工智能赋予美国巨大的新权力 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《经济学人》封面文章丨人工智能赋予美 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "《经济学人》封面文章丨人工智能赋予美国巨大的新权力 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《经济学人》封面文章丨人工智能赋予美国巨大的新权力 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sb0Z4ZEs0SFM5TDRRcWxTSjNyczNhRmdIZVlWOU1PaHV5bUlnc3U0UFRFNHF3ZTB1MWhwdDRlWmNKU1lMNUEwMzU4d0FfbU9YRUNUSFpFdnZCanVjX2RYQVpzSDV0a1FlQ3M2M1VXOGZodEt0SWZaTjg5SWx2dW8?oc=5"
+          },
+          {
+            "label": "中国核电网：Saltlux中标韩国核燃料公司AI系统构建项目 支持文档审批等业务创新 - 中国核电网",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNYXZKRE1haVRqWkpQVk52dlM5SGdoQlNSMWJpY3Q4ZVVqMy0yNFJJVjg3dWNBUFQySTBfd1ZDT2JkaE9laS16YzJCNjBhYWZX?oc=5"
+          },
+          {
+            "label": "新浪财经：八部门：优化“人工智能+消费”环境 加大财政等资金支持力度 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUFOTlpuNkF4M1JQUDJ6ek94bFNvc0VyNGV2REVnVG84RkRJRjlQMWRjMjJCMzFHZURFQUoxQjJGdENERFYtT3lVT1JPb3FFa2FmbGIxbGI0QjJrSlZRNEt2akxGNC1aN0dSVGpYVWJNY01GbGhwcE1jbjVMUXZhRC16N3JjOWFJY2xlOEZSVy1IVVB6aUhzMzE2czVhNlJTemUyeTBpbS1RendhbHdZ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sb0Z4ZEs0SFM5TDRRcWxTSjNyczNhRmdIZVlWOU1PaHV5bUlnc3U0UFRFNHF3ZTB1MWhwdDRlWmNKU1lMNUEwMzU4d0FfbU9YRUNUSFpFdnZCanVjX2RYQVpzSDV0a1FlQ3M2M1VXOGZodEt0SWZaTjg5SWx2dW8?oc=5"
+      },
+      {
         "slug": "ai-news-20260618-auto-1-9d7245",
         "title": "Guthrie: Western K",
         "category": "AI新闻",
@@ -9563,6 +9679,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260619-auto-1-3e0a48",
+        "title": "Barracuda Networks",
+        "category": "AI使用教程",
+        "date": "2026-06-19",
+        "summary": "Barracuda Networks发布AI邮件安全新功能：可实时撤回恶意邮件 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Barracuda Networks 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Barracuda Networks发布AI邮件安全新功能：可实时撤回恶意邮件 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Barracuda Networks发布AI邮件安全新功能：可实时撤回恶意邮件 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMy14T1VDdGl0SnF2aFVTbFhwTGd2S1JFQU1QNkwxc09CNTBneEVQdFg2VURPS0dGekM5NUtDR2l0SVN6X2hXUVJ2eVF6eUtXWURxQVRZLWdvcFVxZU9ualR3ZTdObi1DS0tzV1VIMXZrOHNraWkxWWJILS1ZR2tyU0hwSEhHRlJEWU5URFV4ZW54ZDB3RFNSbXhxNnlOR2ZoNE05N2h5WVBJVVFBU0hiYkdXbTlKSEdJSENrSTBwNWRpakI5VUp5U19WWk02UFpTNi1FX3pWejIxSnRZQVE?oc=5"
+          },
+          {
+            "label": "Corporate Connect Global：Mirai School Of Technology: Engineering The Future With AI Education -",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82NU5iYWEta1haTXFORnFLY2EtSFZ1RV9aQ0hxVDA1WE1rQzRSTEs0SkItU0Itc3NjX0ZTMV90MEV6NW1fTWF1dGZDcnpqclhMVlJTSHZLWGRyOURzNmhnaXdpcHdVSm1aR3o5QTJxbURwSjVJRjV4Y0VrcHhMNFU?oc=5"
+          },
+          {
+            "label": "中国出版传媒商报：以“导演思维”驾驭AI，成就认知与表达的双重跃升——《AI职场写作》新书分享会在深圳举行_快讯 - 中国出版传媒商报",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hVURyQkVkd3FQTURTbTZqU05GbE0yNXJUNHNoMldXUDI3alNidEpIQ1RUcGdVU1dsMGR6aERMVnVqc09Bb0lqZ2E3QW05NHpmUkt5ZjkwbG9aN01w?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMy14T1VDdGl0SnF2aFVTbFhwTGd2S1JFQU1QNkwxc09CNTBneEVQdFg2VURPS0dGekM5NUtDR2l0SVN6X2hXUVJ2eVF6eUtXWURxQVRZLWdvcFVxZU9ualR3ZTdObi1DS0tzV1VIMXZrOHNraWkxWWJILS1ZR2tyU0hwSEhHRlJEWU5URFV4ZW54ZDB3RFNSbXhxNnlOR2ZoNE05N2h5WVBJVVFBU0hiYkdXbTlKSEdJSENrSTBwNWRpakI5VUp5U19WWk02UFpTNi1FX3pWejIxSnRZQVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260618-auto-1-fbf45e",
         "title": "暑期AI绘本实操指南",
         "category": "AI使用教程",
@@ -13767,6 +13941,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260619-auto-1-aa41d1",
+        "title": "GitHub limits pull",
+        "category": "开源项目",
+        "date": "2026-06-19",
+        "summary": "GitHub limits pull requests to curb flood of low-q",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub limits pull 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GitHub limits pull requests to curb flood of low-q",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub limits pull requests to curb flood of low-q",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2hXS0VFNXBMMlBEMWNaQmV4V01ZVGxOT1J5eWh0NXpsWkhybEJCeHltWTItOTFCME9CUlVZOHdPZ052dU5kZlFtRHRSeDRYU2xuWmFNX1A5Z0djeTZtOXc2NGlXMGhQYW5MVUg3N2JydDVDNXM4WkJILUZ5LXN2dWpjNUc3Q2QwcnlIc3ZhNjgxNnVQZDQyQnNZSHktWTJORThWREh3bXhvOGc?oc=5"
+          },
+          {
+            "label": "디지털투데이：GitHub上线PR数量限制功能，应对AI生成低质量贡献激增 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEhHWTBjLU5Qbk9VRTduUzlBYm15UXBQWDV6ZkMzSWk5V2d5SzJVdkwxYjlVWjJRQ1laUE02ZDI3Rld4eHZ2elpNWFVmWjVaVDFJei12XzNGcW4zVW50aWFRNWRCQXBnSktEMEdZN0xQQk91SnUweVNKVEdtcnhUYmMzVFc5M0Vid2Vla2ZYWm1LM1BYRGNBZ3VucVBhLUlxaklXQkcweEo3SHM?oc=5"
+          },
+          {
+            "label": "世界浙商网：阿里巴巴发布2026财年ESG报告：AI成为\"效率杠杆\"和“价值杠杆” - 世界浙商网",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWmpmdERsT2hLYUdWVnNaR3ZtcllfbGVvanlhUnhoMDRkQ0ZYQkIzeWhNdjZubGFyXy1aTFhWOWstYW1Ual9ia2NYUnVhc2pzUUllSXJKSGwxNjA?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2hXS0VFNXBMMlBEMWNaQmV4V01ZVGxOT1J5eWh0NXpsWkhybEJCeHltWTItOTFCME9CUlVZOHdPZ052dU5kZlFtRHRSeDRYU2xuWmFNX1A5Z0djeTZtOXc2NGlXMGhQYW5MVUg3N2JydDVDNXM4WkJILUZ5LXN2dWpjNUc3Q2QwcnlIc3ZhNjgxNnVQZDQyQnNZSHktWTJORThWREh3bXhvOGc?oc=5"
+      },
+      {
+        "slug": "open-source-20260619-auto-2-5dc46e",
+        "title": "GitHub上线PR数量限制功能，应",
+        "category": "开源项目",
+        "date": "2026-06-19",
+        "summary": "GitHub上线PR数量限制功能，应对AI生成低质量贡献激增 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub上线PR数量限制功能，应 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GitHub上线PR数量限制功能，应对AI生成低质量贡献激增 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub上线PR数量限制功能，应对AI生成低质量贡献激增 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEhHWTBjLU5Qbk9VRTduUzlBYm15UXBQWDV6ZkMzSWk5V2d5SzJVdkwxYjlVWjJRQ1laUE02ZDI3Rld4eHZ2elpNWFVmWjVaVDFJei12XzNGcW4zVW50aWFRNWRCQXBnSktEMEdZN0xQQk91SnUweVNKVEdtcnhUYmMzVFc5M0Vid2Vla2ZYWm1LM1BYRGNBZ3VucVBhLUlxaklXQkcweEo3SHM?oc=5"
+          },
+          {
+            "label": "디지털투데이：GitHub limits pull requests to curb flood of low-quality code in AI er",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2hXS0VFNXBMMlBEMWNaQmV4V01ZVGxOT1J5eWh0NXpsWkhybEJCeHltWTItOTFCME9CUlVZOHdPZ052dU5kZlFtRHRSeDRYU2xuWmFNX1A5Z0djeTZtOXc2NGlXMGhQYW5MVUg3N2JydDVDNXM4WkJILUZ5LXN2dWpjNUc3Q2QwcnlIc3ZhNjgxNnVQZDQyQnNZSHktWTJORThWREh3bXhvOGc?oc=5"
+          },
+          {
+            "label": "世界浙商网：阿里巴巴发布2026财年ESG报告：AI成为\"效率杠杆\"和“价值杠杆” - 世界浙商网",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWmpmdERsT2hLYUdWVnNaR3ZtcllfbGVvanlhUnhoMDRkQ0ZYQkIzeWhNdjZubGFyXy1aTFhWOWstYW1Ual9ia2NYUnVhc2pzUUllSXJKSGwxNjA?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMEhHWTBjLU5Qbk9VRTduUzlBYm15UXBQWDV6ZkMzSWk5V2d5SzJVdkwxYjlVWjJRQ1laUE02ZDI3Rld4eHZ2elpNWFVmWjVaVDFJei12XzNGcW4zVW50aWFRNWRCQXBnSktEMEdZN0xQQk91SnUweVNKVEdtcnhUYmMzVFc5M0Vid2Vla2ZYWm1LM1BYRGNBZ3VucVBhLUlxaklXQkcweEo3SHM?oc=5"
+      },
       {
         "slug": "open-source-20260618-auto-1-813dd5",
         "title": "刚刚，Fable-5之下，智谱开源的",
