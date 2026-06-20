@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260620-auto-1-df7a92",
+        "title": "Your youngest empl",
+        "category": "AI新闻",
+        "date": "2026-06-20",
+        "summary": "Your youngest employees may be your most valuable",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Your youngest empl 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Your youngest employees may be your most valuable",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Your youngest employees may be your most valuable",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fast Company：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDl0bVJIdjl0U1VFRzdFaWdtbkp1MDFaeHI2cUVBMDA5bzJ6c1ZRU0VfdjVpZGpITDJjN0VuVkZISTFPSUFEUWtYYmV1X1Y0Q1dmMV9aN2tvSkdqTl9NWGR4V18xX3ZUOFp1RzVhNl9fZDVuMERLZXFrSFJ2NTFNTWRDSHJlZlptM0s4SWprOGhrTnpRVGJkdngzSUVrU3M?oc=5"
+          },
+          {
+            "label": "新浪财经：特朗普：不再认为Anthropic对美国安全构成威胁 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Anthropic's 'The Blip 2.0' continues & lots more. AI-RTZ 1123 - AI",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUG9ncDhGS3RlblNHWWptaWxyYzdDSUhlWmlKYTN1VFpWWTl3MUpVc2VLc2p3eWxvdVdsMEdOZ3MxMnlVeWZoRkVTeDhiVkZmOE80Y3l1X3pyczZSZkhlUWJoODd2MDgxdXZJNXhmb1dGYTRQeDZUNWpfZm0?oc=5"
+          }
+        ],
+        "source": "Fast Company",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDl0bVJIdjl0U1VFRzdFaWdtbkp1MDFaeHI2cUVBMDA5bzJ6c1ZRU0VfdjVpZGpITDJjN0VuVkZISTFPSUFEUWtYYmV1X1Y0Q1dmMV9aN2tvSkdqTl9NWGR4V18xX3ZUOFp1RzVhNl9fZDVuMERLZXFrSFJ2NTFNTWRDSHJlZlptM0s4SWprOGhrTnpRVGJkdngzSUVrU3M?oc=5"
+      },
+      {
+        "slug": "ai-news-20260620-auto-2-114f8a",
+        "title": "特朗普：不再认为Anthropic对",
+        "category": "AI新闻",
+        "date": "2026-06-20",
+        "summary": "特朗普：不再认为Anthropic对美国安全构成威胁 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "特朗普：不再认为Anthropic对 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "特朗普：不再认为Anthropic对美国安全构成威胁 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "特朗普：不再认为Anthropic对美国安全构成威胁 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5"
+          },
+          {
+            "label": "Fast Company：Your youngest employees may be your most valuable AI teachers - Fast C",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDl0bVJIdjl0U1VFRzdFaWdtbkp1MDFaeHI2cUVBMDA5bzJ6c1ZRU0VfdjVpZGpITDJjN0VuVkZISTFPSUFEUWtYYmV1X1Y0Q1dmMV9aN2tvSkdqTl9NWGR4V18xX3ZUOFp1RzVhNl9fZDVuMERLZXFrSFJ2NTFNTWRDSHJlZlptM0s4SWprOGhrTnpRVGJkdngzSUVrU3M?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Anthropic's 'The Blip 2.0' continues & lots more. AI-RTZ 1123 - AI",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUG9ncDhGS3RlblNHWWptaWxyYzdDSUhlWmlKYTN1VFpWWTl3MUpVc2VLc2p3eWxvdVdsMEdOZ3MxMnlVeWZoRkVTeDhiVkZmOE80Y3l1X3pyczZSZkhlUWJoODd2MDgxdXZJNXhmb1dGYTRQeDZUNWpfZm0?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdEdiSVItS09BZ1NRM2VsQVBhc2N5c1hjcFppakg1bzNkX29mZ0Q0Z1dwMWdQMjVsNy01YW12dzdzd1I2VVJUS3ZWbHVlcEtJY1Z4YktnZnBacklJMGp2V2VESWZ1aVBvX3FYV1RXZmpXNW5pbnpvNzZVZElBSzVmMndQbnJwTXozRmx6Y0hLTUR4R3VpTUVCWDY5VThScjBvZS1GZHNnWHZpemRWYXdfeXVRQ2pTdHpBVmhhT0l4eGlEN1ZCUWk4VkxlWW12THYwZkp0My01bmM3TThlWXEwOWpKU204UlZMeUpUZGpCNEduclpmOWRNQzJCaFBCTWFJN0JYNGxFSS1FNjZoWW8yeFlEbXFQQmM?oc=5"
+      },
+      {
         "slug": "ai-news-20260619-auto-1-471ca8",
         "title": "Saltlux中标韩国核燃料公司AI",
         "category": "AI新闻",
@@ -9679,6 +9795,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260620-auto-1-123d9e",
+        "title": "用Codex复刻演示的教程",
+        "category": "AI使用教程",
+        "date": "2026-06-20",
+        "summary": "按步骤用OpenAI Codex复刻演示流程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "用Codex复刻演示的教程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026-06-20，北京时间。近期关于OpenAI Codex自动复刻演示流程的消息，适合整理成一篇可操作教程：先搭建清晰演示，再让AI按步骤复现，最后人工校验结果。下面以“网页原型复刻”为例，给出可直接执行的工作流。",
+          "blocks": [
+            {
+              "heading": "一、先把演示拆成可复刻步骤",
+              "paragraphs": [
+                "先准备一个目标样例，例如首页、登录页或一个简单表单页面，确保界面元素数量不多，便于AI识别与复现。",
+                "录制演示时，按“打开文件、修改文案、调整布局、保存预览”四类动作来走，不要同时操作太多功能，避免AI难以还原。",
+                "把演示过程拆成编号清单，例如1. 导入项目；2. 选中组件；3. 修改颜色；4. 预览检查，后续直接作为Codex输入参考。"
+              ]
+            },
+            {
+              "heading": "二、把演示转成可执行指令",
+              "paragraphs": [
+                "将清单改写为明确任务：告诉Codex目标界面、修改范围、需要保留的结构，以及不能改动的部分。",
+                "如果是代码项目，优先提供仓库路径、入口文件和相关组件名；如果是设计稿，提供尺寸、配色、字体和间距要求。",
+                "提交任务后，先让AI输出计划，再执行修改；这样可以在正式改动前发现它是否理解了你的演示意图。"
+              ]
+            },
+            {
+              "heading": "三、复核结果并固定流程",
+              "paragraphs": [
+                "对照原始演示逐项检查：结构是否一致、交互是否可用、文案是否遗漏、样式是否偏差过大。",
+                "如果结果有偏差，优先补充约束条件，例如“按钮保持右上角”“表单字段顺序不变”，再让AI重新生成。",
+                "最后把验证通过的步骤保存为模板，下次只替换输入素材和目标页面，就能减少重复操作，并提升复用效率。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "候选新闻1",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ST3NIcVNyRkZzclBHLW5Hbnp6Q0FrUU0waktVRFloaVYzZ3RIZ0FvMi1mcDBUYUpZOU5fTzRzYlJQaWNGd0poTTB2RFRSQVFNQWEtN21Ga2xDODk2V0lZbjhrQUctb2FlMHM1RTNEUDdtN2kzWFlCS3Q4QTFsVFE?oc=5"
+          },
+          {
+            "label": "候选新闻2",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81RkhKb2RQdTdhSXIwYXlLQ1Y3THI3Z1BqMF9EbDBnOTY0aEloODVCUFdhYkZid2RlUjZLN1NIS01WTVBUQTR4ZlNPT21pVWVRd2luSGJzRmVNMGwzU2o3WWFXTVRzVWdkU0V6aWNMTl9uM010MHc?oc=5"
+          },
+          {
+            "label": "候选新闻3",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzcwYmM4Y1FJbjlKajNzVlFSSW12ZFFQdmgtQWU4REM1N0R5SV9qYWZCbVpzX2JBbk9uR0pxZTFtTEY0V1puWURBZmJWSG0zLUJKUWVDaktOdmtSTDBhMS1JVG5UbTlvalJPTk5QeG1PRXlKZWZ4QjdVTDZya3dwLXIydzZ2VHJfd0psZEt0cWZYRlJsTENpU3dRM0RHMkpfZ1dGRnFScG1EWlFud0VhWVBISzg4NnNwWEFGZUpGQURabzNkSDdLVzBrQjZDQQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ST3NIcVNyRkZzclBHLW5Hbnp6Q0FrUU0waktVRFloaVYzZ3RIZ0FvMi1mcDBUYUpZOU5fTzRzYlJQaWNGd0poTTB2RFRSQVFNQWEtN21Ga2xDODk2V0lZbjhrQUctb2FlMHM1RTNEUDdtN2kzWFlCS3Q4QTFsVFE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260619-auto-1-3e0a48",
         "title": "Barracuda Networks",
         "category": "AI使用教程",
@@ -13941,6 +14115,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260620-auto-1-acc85a",
+        "title": "Research, direct o",
+        "category": "开源项目",
+        "date": "2026-06-20",
+        "summary": "Research, direct observation drive innovation in A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Research, direct o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Research, direct observation drive innovation in A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Research, direct observation drive innovation in A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Guardian Nigeria News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkZaNkZ4UWNtLUFXdC1Vd1JqZ2x5UEVpQ0tXQm55R2ZTT1ladHJrM2pCSG9UR2RkZDhzNEJSRy1SY01pNUczZUt4dmFkcXpkZ3dwdlpjUEdTLTJWSkZXRUhkaG50eUw3THFkZ05LcW1DdHZDWUVSc3FvSFB2a21CM3ZGQTZxR2UxX25HcGJYcjdCZEozNTQ1aHNkUTVPR0hJNGdz?oc=5"
+          },
+          {
+            "label": "新浪财经：相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NdEhaVVZ1TWEwWmhCWlBuWW1CMzgtbTMxcXFjNGhYb1RrNDczY0ZzbklzUklOdTZjaXFodVJIU3ZJRFMxZmxPSFpNd0ZDM0h4djRvSl9HcWpad3I2eGo1THpPcWQzZWtpNHlXRWE1a0pSeHNCNEktMGRGVXA?oc=5"
+          },
+          {
+            "label": "Whalesbook：BharatGen Joins Global 'Project Tapestry' AI Consortium - Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkc4cXIzcXVObWNaMW1tOGw4QnZkUjFDakFhOTFCc2h3eWxsanc4bUFrdTFxczh1NzZfLTd0N0IwUE9YakVueVJ6Vzc3dWJGRmJYMlNxNEhZNEZabm9NU3lmN1gtSlQ3Z2VOa0E3cm9BR01kUldLbGsybjJQa2FfSk0zSktuemMxVmpPMGR6TGZReThxcXdXdlVrMVlKVkRkZzNPRzRPVWl5VTM5cDNnNkRUQ2REVmdQTTUyWkxlNHZBQmNIdWdzTw?oc=5"
+          }
+        ],
+        "source": "The Guardian Nigeria News",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkZaNkZ4UWNtLUFXdC1Vd1JqZ2x5UEVpQ0tXQm55R2ZTT1ladHJrM2pCSG9UR2RkZDhzNEJSRy1SY01pNUczZUt4dmFkcXpkZ3dwdlpjUEdTLTJWSkZXRUhkaG50eUw3THFkZ05LcW1DdHZDWUVSc3FvSFB2a21CM3ZGQTZxR2UxX25HcGJYcjdCZEozNTQ1aHNkUTVPR0hJNGdz?oc=5"
+      },
+      {
+        "slug": "open-source-20260620-auto-2-563211",
+        "title": "相比“开源模型”，“前沿模型”溢价类",
+        "category": "开源项目",
+        "date": "2026-06-20",
+        "summary": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "相比“开源模型”，“前沿模型”溢价类 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NdEhaVVZ1TWEwWmhCWlBuWW1CMzgtbTMxcXFjNGhYb1RrNDczY0ZzbklzUklOdTZjaXFodVJIU3ZJRFMxZmxPSFpNd0ZDM0h4djRvSl9HcWpad3I2eGo1THpPcWQzZWtpNHlXRWE1a0pSeHNCNEktMGRGVXA?oc=5"
+          },
+          {
+            "label": "The Guardian Nigeria News：Research, direct observation drive innovation in AI’s creative process",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYkZaNkZ4UWNtLUFXdC1Vd1JqZ2x5UEVpQ0tXQm55R2ZTT1ladHJrM2pCSG9UR2RkZDhzNEJSRy1SY01pNUczZUt4dmFkcXpkZ3dwdlpjUEdTLTJWSkZXRUhkaG50eUw3THFkZ05LcW1DdHZDWUVSc3FvSFB2a21CM3ZGQTZxR2UxX25HcGJYcjdCZEozNTQ1aHNkUTVPR0hJNGdz?oc=5"
+          },
+          {
+            "label": "Whalesbook：BharatGen Joins Global 'Project Tapestry' AI Consortium - Whalesbook",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQkc4cXIzcXVObWNaMW1tOGw4QnZkUjFDakFhOTFCc2h3eWxsanc4bUFrdTFxczh1NzZfLTd0N0IwUE9YakVueVJ6Vzc3dWJGRmJYMlNxNEhZNEZabm9NU3lmN1gtSlQ3Z2VOa0E3cm9BR01kUldLbGsybjJQa2FfSk0zSktuemMxVmpPMGR6TGZReThxcXdXdlVrMVlKVkRkZzNPRzRPVWl5VTM5cDNnNkRUQ2REVmdQTTUyWkxlNHZBQmNIdWdzTw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NdEhaVVZ1TWEwWmhCWlBuWW1CMzgtbTMxcXFjNGhYb1RrNDczY0ZzbklzUklOdTZjaXFodVJIU3ZJRFMxZmxPSFpNd0ZDM0h4djRvSl9HcWpad3I2eGo1THpPcWQzZWtpNHlXRWE1a0pSeHNCNEktMGRGVXA?oc=5"
+      },
       {
         "slug": "open-source-20260619-auto-1-aa41d1",
         "title": "GitHub limits pull",
