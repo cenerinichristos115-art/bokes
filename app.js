@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260621-auto-1-6ecdaf",
+        "title": "史诗级大涨！爆买8100亿！科技大牛",
+        "category": "AI新闻",
+        "date": "2026-06-21",
+        "summary": "史诗级大涨！爆买8100亿！科技大牛市，疯狂一幕 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "史诗级大涨！爆买8100亿！科技大牛 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "史诗级大涨！爆买8100亿！科技大牛市，疯狂一幕 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "史诗级大涨！爆买8100亿！科技大牛市，疯狂一幕 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblV6b1pmNVpMa3lhTzJkc3djb2daRmRmS0RvQVhSN1V5bzU3S2Fzb0lYVjBYMGNpakhLTElhdEI1X1k4aVdCZ3VXSDhROTdTZjBjdlF0OHZsTlBEQTkzeDVBOXVKcm5LUUlGSTVGSk1HQkJFUHNtNTNSVGFBd2dTRF9PT3lFR1YzRUZIMXk3V05jM0NH?oc=5"
+          },
+          {
+            "label": "The Guardian：Brands using AI-generated influencers to promote products on social me",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVNRzhNUHEwbTVyRUYwTHZveVJ4Qy0wanVnYmFRQTNIZ0x3Nmk2dDcyWVJKMXk2dXJuMjNoY0JrTjlyM2Iwc2piYUdCMkZ0dVhVOWZVMkVZMFVzZWVrQXNlbVBrNjYwaTJJZ0RGMG5pMlAwWXJfZzFJdlJMQ2N3cTJHdGQzbTBRS0UtRDNqZnQxeUZPNzdkX09wMU0tS2s4Z2xDMl9LNGRTbF84UXgzbFlWQnV2bDVDUFg0dGg5RXh3UQ?oc=5"
+          },
+          {
+            "label": "AFR：SAP chief predicts AI will replace its human coders within four years ",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjFLMTd5R3l4VllGLU0wUEJZd1VOWGhWOGZPcnMtckdrcFRvUDRtdzlpR1RKbWtzZkdNXzRnX2w0azJBRlNUN19GOG5YQllaNEUzRTlFbGFvbzVjWFY3czI2QjdQc0xScUhQTk13RkI3Z1hxOUVLQ1dBSWkwMEQ2b0JhQXFnZjQxMlppenN0R3dQS0ZBRVBMM1pjWnJodFo4dVZHc0NqOXhmOXpYbVVDNjVoR181TDg?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblV6b1pmNVpMa3lhTzJkc3djb2daRmRmS0RvQVhSN1V5bzU3S2Fzb0lYVjBYMGNpakhLTElhdEI1X1k4aVdCZ3VXSDhROTdTZjBjdlF0OHZsTlBEQTkzeDVBOXVKcm5LUUlGSTVGSk1HQkJFUHNtNTNSVGFBd2dTRF9PT3lFR1YzRUZIMXk3V05jM0NH?oc=5"
+      },
+      {
+        "slug": "ai-news-20260621-auto-2-602445",
+        "title": "Brands using AI-ge",
+        "category": "AI新闻",
+        "date": "2026-06-21",
+        "summary": "Brands using AI-generated influencers to promote p",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Brands using AI-ge 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Brands using AI-generated influencers to promote p",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Brands using AI-generated influencers to promote p",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Guardian：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVNRzhNUHEwbTVyRUYwTHZveVJ4Qy0wanVnYmFRQTNIZ0x3Nmk2dDcyWVJKMXk2dXJuMjNoY0JrTjlyM2Iwc2piYUdCMkZ0dVhVOWZVMkVZMFVzZWVrQXNlbVBrNjYwaTJJZ0RGMG5pMlAwWXJfZzFJdlJMQ2N3cTJHdGQzbTBRS0UtRDNqZnQxeUZPNzdkX09wMU0tS2s4Z2xDMl9LNGRTbF84UXgzbFlWQnV2bDVDUFg0dGg5RXh3UQ?oc=5"
+          },
+          {
+            "label": "新浪财经：史诗级大涨！爆买8100亿！科技大牛市，疯狂一幕 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblV6b1pmNVpMa3lhTzJkc3djb2daRmRmS0RvQVhSN1V5bzU3S2Fzb0lYVjBYMGNpakhLTElhdEI1X1k4aVdCZ3VXSDhROTdTZjBjdlF0OHZsTlBEQTkzeDVBOXVKcm5LUUlGSTVGSk1HQkJFUHNtNTNSVGFBd2dTRF9PT3lFR1YzRUZIMXk3V05jM0NH?oc=5"
+          },
+          {
+            "label": "AFR：SAP chief predicts AI will replace its human coders within four years ",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjFLMTd5R3l4VllGLU0wUEJZd1VOWGhWOGZPcnMtckdrcFRvUDRtdzlpR1RKbWtzZkdNXzRnX2w0azJBRlNUN19GOG5YQllaNEUzRTlFbGFvbzVjWFY3czI2QjdQc0xScUhQTk13RkI3Z1hxOUVLQ1dBSWkwMEQ2b0JhQXFnZjQxMlppenN0R3dQS0ZBRVBMM1pjWnJodFo4dVZHc0NqOXhmOXpYbVVDNjVoR181TDg?oc=5"
+          }
+        ],
+        "source": "The Guardian",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVNRzhNUHEwbTVyRUYwTHZveVJ4Qy0wanVnYmFRQTNIZ0x3Nmk2dDcyWVJKMXk2dXJuMjNoY0JrTjlyM2Iwc2piYUdCMkZ0dVhVOWZVMkVZMFVzZWVrQXNlbVBrNjYwaTJJZ0RGMG5pMlAwWXJfZzFJdlJMQ2N3cTJHdGQzbTBRS0UtRDNqZnQxeUZPNzdkX09wMU0tS2s4Z2xDMl9LNGRTbF84UXgzbFlWQnV2bDVDUFg0dGg5RXh3UQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260620-auto-1-df7a92",
         "title": "Your youngest empl",
         "category": "AI新闻",
@@ -9795,6 +9911,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260621-auto-1-2bcfd3",
+        "title": "PITB Opens Registr",
+        "category": "AI使用教程",
+        "date": "2026-06-21",
+        "summary": "PITB Opens Registration for SheWins Training Progr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "PITB Opens Registr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "PITB Opens Registration for SheWins Training Progr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "PITB Opens Registration for SheWins Training Progr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Hamariweb.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFJkTk9CNGM5YkhXbkpiSDhVQ1ozY0ZFV1VNWXZuSExrYTNjX0ktSm95WThGZHRUMmpmR0F3MlhsXzJkSlR2ckdaYVVQaF9oaTdjZ0UwMnRxYWFjSkxJRksyMnVBSTN6WVg0aWhyRTZKWjNCQ0ZxbjdFVXBIMU1vaGJkNTY2ajdvZE12MzFHSGIwdVRyeklNMVJCLTFrOXRsSGdDd1VfR2FjN3h6ZURSWjZyMmIydjBGSXFQekV2TUNGb1pPbGxlTDhoODN6RHJUOEEtU2p2RQ?oc=5"
+          },
+          {
+            "label": "同花顺：词元经济：AI时代数据要素流通的全新价值赛道 - 同花顺",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QUXpiQmdzYzhZYkFRdFVaQzdkN1FYU05DSm9iWTFDa1hhZ3hhZDExdXJ2ZnFKQ1ZjdDk4WjVJUmk4eWhhbU1XMWZMc3cwZjdIT2NZVVdjZ1Q0VFA4VlE?oc=5"
+          },
+          {
+            "label": "17173：《王朝：将军觐见》版本更新 - 2026.6.21 - 舌战与单挑系统优化 - 17173",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDLWI5Wjd4QVZmVkwzaXVFdkwyLUwtb0NJeVVXMkxqSFFPS0E2cERGcUpWREk3TXFTaVA0LXZ0MVVMcWoyb1RObzVGeGtDNEF6S21nMFp0UEtBTFo2aDh4YTdtM2M?oc=5"
+          }
+        ],
+        "source": "Hamariweb.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORFJkTk9CNGM5YkhXbkpiSDhVQ1ozY0ZFV1VNWXZuSExrYTNjX0ktSm95WThGZHRUMmpmR0F3MlhsXzJkSlR2ckdaYVVQaF9oaTdjZ0UwMnRxYWFjSkxJRksyMnVBSTN6WVg0aWhyRTZKWjNCQ0ZxbjdFVXBIMU1vaGJkNTY2ajdvZE12MzFHSGIwdVRyeklNMVJCLTFrOXRsSGdDd1VfR2FjN3h6ZURSWjZyMmIydjBGSXFQekV2TUNGb1pPbGxlTDhoODN6RHJUOEEtU2p2RQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260620-auto-1-123d9e",
         "title": "用Codex复刻演示的教程",
         "category": "AI使用教程",
@@ -14115,6 +14289,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260621-auto-1-608686",
+        "title": "GLM 5.2开源进展",
+        "category": "开源项目",
+        "date": "2026-06-21",
+        "summary": "GLM 5.2获关注，开源模型能力与部署门槛成焦点。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GLM 5.2开源进展 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "截至2026年6月21日北京时间，围绕开源大模型GLM 5.2的讨论集中在能力表现、企业关注度与实际部署可行性。公开报道显示，这一项目的新版本被视为近期中文开源AI模型更新中的重要样本。",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OfficeChai在6月21日的报道中提到，开源模型GLM 5.2引发了多家科技企业高管关注，讨论重点落在模型效果与可用性上。就新闻语境看，这属于一次围绕版本能力的集中曝光，而非单一市场营销动作。",
+                "候选信息同时显示，另一篇报道提到中国开源模型在Artificial Analysis Intelligence Index中的相对排名表现。这为GLM 5.2所处的竞争环境提供了背景，说明中文开源模型正在国际评测叙事中获得更多可见度。",
+                "对于网站发布而言，GLM 5.2的新闻价值在于它兼具“新版本更新”和“开源可获取”两个特征，既面向研究者，也面向希望尽快验证模型效果的开发团队。"
+              ]
+            },
+            {
+              "heading": "用途与适用场景",
+              "paragraphs": [
+                "从报道指向看，GLM 5.2属于通用型开源大模型，可用于对话、文本生成、知识问答、代码辅助及企业内部智能助手等常见AI场景。对于已有大模型接入经验的团队，它也适合作为闭源API之外的替代或补充。",
+                "若团队更关注成本与可控性，开源模型的优势通常体现在可自行部署、可按业务需求微调，以及可结合本地知识库做检索增强。这类路径尤其适合对数据合规、响应延迟和长期成本较敏感的组织。",
+                "不过，模型是否适合生产环境，仍取决于上下文长度、推理吞吐、工具调用能力和安全策略等具体指标。新闻报道中的外部评价能提供方向，但不能替代真实业务场景下的压力测试。"
+              ]
+            },
+            {
+              "heading": "上手门槛",
+              "paragraphs": [
+                "对个人开发者而言，体验GLM 5.2的第一道门槛通常不是代码接口，而是算力与部署环境。若仅做基础体验，可以优先寻找现成推理服务或社区封装；若要私有化部署，则需要准备兼容的推理框架、显存资源以及模型下载与版本管理流程。",
+                "对中小团队而言，上手难点往往在工程化，包括推理服务稳定性、并发控制、日志监测和提示词治理。相比直接调用托管API，开源模型的初始集成工作量更高，但也带来更高的可定制空间。",
+                "较稳妥的切入方式，是先以单一业务流程做小范围验证，例如客服问答、文档摘要或内部搜索增强。在2026年6月21日这一时间点看，GLM 5.2更适合作为值得评估的新版本项目，而不是无需验证即可全面替换现有系统的现成答案。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OfficeChai关于GLM 5.2报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejJSNy04UXJBLUttMDYwSTEtM0RxM3FMQm5aekZyNWVJbzVTSjVNb08zVlB1SjFjWjU3NDBJLWFicVJtM28tM0dabks5eGdYeDlwdGljTXNMaW5pMHdKYlBoU3loZmtHSGdaVmViU1RVYTl6Y05MeEJ1djE1bmhpY3BnckRXYXh2d0k2R3UtNkdmV0VHVmlz?oc=5"
+          },
+          {
+            "label": "OfficeChai关于中国开源模型排行报道",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORm1qc3VRcDlONUJpdld2cjlNTUpuV2NLOURwY0RRT3k0b3loRHl5Nm9zbDFlaHhGUHhfV1RyMzBfR3UzRjVMYV85Nkp5WTF0OXVWVFRuYUdBeWhVbERzd2J4bFpjbzdpdTFSVXZHcTlYbGRDbGZveW9GTngxdVRSbFFYNzZLT1llcV9HdjlZcjRJM2VsRjgycm1wZlB0cFQ4RlFkLURVcGhWM2s4VzBfdVllczhacEotNURneFF4ZXRjNlBfNzRGN1ZXdlltVWpYY0puVEt2QnBhTW41NHV0UlZLQQ?oc=5"
+          },
+          {
+            "label": "ProPakistani关于开源模型成本报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGpyWVYtSW5WWXBmS2lBUFEyYUM1OGJlOC1wSnlKQnl6aGVVSXpXQXA4c2FRNjRXbDhKcUtCTmVTU3AxeWd6NEZKNUotaVczLWVvQTkxZFVFMTJDSjRVbkNUMUxyemRCbFFKNE5PV3lCZ0U3dlFfYXJWb3k1UUpWSTNSQTRPdkxEVW9mWUJ30gHUAkFVX3lxTE5ueFRJd0h6S3phbnRGNWxTT2RORURUbTZqeUdweDh0dU1UN21VMVdLcnhvZDJORUQ5di1Lemt4c2VvSDNtbktVRU9UUnZyMW1VLUQyVUhpRk5KMFZ6OTU3SEVLZzZiQnVvWUhROXU2ZG9Mb0s0QlJLNWtvWmxnb05PcTM1NGdyNzYwZjk1T0VhR3B5Nm0zQU9ZYy1oYjloV0lXT0ltZkhVTS1vNVl6V29ibDVQOEhFQjk2ZFdVWFVEMzFybFhEa0VicXpIQU81X2ZRbnFKcUt0Wmkxc1djSkt3cjV3WklPUVplVjBKbHN5cVM4bTRiRTBKMjZDYXBZNUJZYUdBQ3RjcUR1cTJfejNrZGNUMWpYV01ienJad1FvM3loTTZZcEp2QnFDeWt4dGpuZjJlWVdXRXNjREJoVHdiSlBQQXVHYklpLUZjdEs4UzZiel8?oc=5"
+          }
+        ],
+        "source": "OfficeChai",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejJSNy04UXJBLUttMDYwSTEtM0RxM3FMQm5aekZyNWVJbzVTSjVNb08zVlB1SjFjWjU3NDBJLWFicVJtM28tM0dabks5eGdYeDlwdGljTXNMaW5pMHdKYlBoU3loZmtHSGdaVmViU1RVYTl6Y05MeEJ1djE1bmhpY3BnckRXYXh2d0k2R3UtNkdmV0VHVmlz?oc=5"
+      },
+      {
+        "slug": "open-source-20260621-auto-2-80bdfe",
+        "title": "Epic开源Lore系统",
+        "category": "开源项目",
+        "date": "2026-06-21",
+        "summary": "Epic公开Lore版本控制系统，面向大规模协作开发。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Epic开源Lore系统 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "截至2026年6月21日北京时间，Epic Games开源版本控制系统Lore的消息，给开发基础设施领域带来了一项值得关注的新动态。虽然它不属于大模型本体项目，但与AI辅助开发、内容生产和大型工程协作紧密相关。",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "根据Linuxiac报道，Epic Games已将Lore版本控制系统开源。该事件的核心并非单纯代码开放，而是把原本服务于大型团队协作的软件基础设施推向更广泛开发者社区。",
+                "在当前AI开发流程中，模型、提示词、数据管线和代码资产都需要更细粒度的协同管理，版本控制系统的能力边界正在扩展。Lore进入开源领域，因此被视为与AI工程实践间接相关的重要更新。",
+                "与模型新闻相比，这类基础设施项目的传播声量通常较低，但对真实团队生产效率的影响更直接。尤其是在多人并行开发、资产体积较大或版本历史复杂的场景中，工具选型往往决定后续维护成本。"
+              ]
+            },
+            {
+              "heading": "用途与AI开发关联",
+              "paragraphs": [
+                "Lore的主要用途是管理项目版本、协作流程与变更历史，适合需要多人并行开发的工程团队。对于游戏开发、内容管线和混合型软件项目，这类系统能够帮助团队追踪文件变更、减少协作冲突，并形成可回溯的交付链路。",
+                "放到AI项目语境中，版本控制已不再局限于源码。提示词模板、评测配置、训练脚本、推理服务配置乃至多模态资源文件，都需要纳入统一管理。因此，Lore这类系统对构建可审计、可复现的AI开发流程具有现实意义。",
+                "候选信息中还出现了与提示词优化和AI设计管线有关的报道，这说明行业正在把“模型能力”与“工程编排”同时推进。Lore的开源，正好落在后者，即为复杂生产流程提供可控底座。"
+              ]
+            },
+            {
+              "heading": "上手门槛",
+              "paragraphs": [
+                "对个人开发者而言，Lore的上手门槛主要在于迁移成本，而不是基础概念理解。若已经长期使用Git或其他版本控制方案，是否切换通常取决于项目规模、二进制资产比例、团队协作复杂度，以及现有工具链兼容情况。",
+                "对团队用户而言，真正的门槛来自部署、权限管理、CI流程衔接和历史仓库迁移。版本控制系统一旦进入生产流程，牵涉的往往不是单点工具试用，而是研发制度、自动化构建和发布流程的整体调整。",
+                "因此，更适合的尝试路径是先在新项目或非核心仓库中做验证，观察其在大文件管理、协作效率和运维负担上的实际表现。以2026年6月21日的公开信息看，Lore更像是一项值得技术负责人评估的开源基础设施新选择。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Linuxiac关于Lore开源报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Sd18xa1hwX21MR09CQzE2bmdEcy00SElKUXZDNWtWZmI5NzB4czhJUTRMS3JRN1BzTkxtRllvUHNRNGJlOHNDdmdXZHFQX202V1MzcnRScnZGa29qai1kZXVVNnpzWUpnQUFibWxTWlVyZEZxSTNqRGtHal9rdw?oc=5"
+          },
+          {
+            "label": "MarkTechPost关于FAPO报道",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOLXhuWC05U2pvLTRzRkRuNFFXT1FwRzVRd1ljQXdGNTNPWndUaVRXZFZXWEM4Vk1lQVl4NG44V3NOUmdsb1M0T2pSMXpDY2hKYWlsTk9sbWVVc2dfQkpzZ0cxUndXMG9zY3VGeEhBMkpobkF2WUp4aEp5alo2d2ZQWHl2eW9xUkdSb25fZkpCUUZvT3Y0eU1Td0g2VlluRmx2SENJSWVWUk9GNVFQNzdsdGt3ZnkyZ0dCbEFKTmpoZ0JRTXI3enlGcW5xYTZqNW5pMENYcFM4QXlVSnFUajl1ZGU3ekdGZkpvNGIySjZINWtXT1ROZGlDOEVn?oc=5"
+          },
+          {
+            "label": "Technobezz关于Claude Design更新报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmE4UFBpMHJGM1BoaEFXMF9uWHVXMmVUUUhNalBoclV4aENkcWw5UzVDNGRPcEpLRFpVVm5nbW1JcjJ6V3BhMnJxVVZlaVlWZHRQeHNsOHFURnEySnBrN2xDS1lCWHhtXzJBcFIyR29LamdhcEw4UkxPQ2x2RzAyTzgwdnFVSXlBSE1mbjkyazNTSjBvU3lTUnlGOEJ2SU9lZTJsTnJ4WlJuMlk?oc=5"
+          }
+        ],
+        "source": "Linuxiac",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Sd18xa1hwX21MR09CQzE2bmdEcy00SElKUXZDNWtWZmI5NzB4czhJUTRMS3JRN1BzTkxtRllvUHNRNGJlOHNDdmdXZHFQX202V1MzcnRScnZGa29qai1kZXVVNnpzWUpnQUFibWxTWlVyZEZxSTNqRGtHal9rdw?oc=5"
+      },
       {
         "slug": "open-source-20260620-auto-1-acc85a",
         "title": "Research, direct o",
