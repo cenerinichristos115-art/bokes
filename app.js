@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260622-auto-1-60115a",
+        "title": "Singaporean firm p",
+        "category": "AI新闻",
+        "date": "2026-06-22",
+        "summary": "Singaporean firm partners with OpenAI to expand AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Singaporean firm p 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Singaporean firm partners with OpenAI to expand AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Singaporean firm partners with OpenAI to expand AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Latest news from Azerbaijan：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUJqYnNMMnppT2M4bk51TXo0Ny1hWl90ekZlRV9LUEgzZjR1b2F5dWFKdGlNVlVtS1pOWHdJSEVvdW8yLUZmM2hKQW11anQybl9MRTRIV21yVnloOHpFa09wYWFwOHRDQ19MNndGMHcwS2FqLWVLUjA1TDRKQnpISm1CRzduVlo4dzJ0QW1Cck5iLTI2SklvMXBnaTgzTVFlWXc?oc=5"
+          },
+          {
+            "label": "搜狐网：TCL李东生：以“AI向实”推动亚太产业协同升级 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTlrN0d1R2ZSTFlRMjFNNTZmSy1Ud1hjdXVsd19ibHh6Vm1TLU9SQjV0ZkZTQVJvM1RWczNWVjFfUmNHdVZUelpiXzM3WlZpUTd0ZGhnTGQwc0c3emJOSGREaTlyWmQzNlJKQVZnQzlvQXlPYzZjTE1Ca24ySFczQjVMX1V5UUMw?oc=5"
+          },
+          {
+            "label": "MSN：The Reverse Centaur’s guide to life after AI by Cory Doctorow review –",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnU2MzJGOU42VUNJRDJubG5nOTN3LTdmaWR0SXJnSVh4Z3FYNnE5MTNTU25uLWhXd0tQQmViUG5BckJQZndBWWk2eXo2aFFfN1owNUs2M29obWtyYlYzcGhGdldrU181dVVJc0QwS0Z6TjEyeWxLNlotaV9Ld2hUSHp1LWFYX1JucFl4S2tnYVlFYUI2LTV1VW84NkZEd1lncU9BM2JPTlZkUVM3ejJGRnFCdXItOXVMVUVhQ1pNMURhdDUxa1hnZVdFeE91T2ZOZDVVWHZSOEdlYTRMd3BValRDWWdFODQ5RXdEbkdOTTE?oc=5"
+          }
+        ],
+        "source": "Latest news from Azerbaijan",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUJqYnNMMnppT2M4bk51TXo0Ny1hWl90ekZlRV9LUEgzZjR1b2F5dWFKdGlNVlVtS1pOWHdJSEVvdW8yLUZmM2hKQW11anQybl9MRTRIV21yVnloOHpFa09wYWFwOHRDQ19MNndGMHcwS2FqLWVLUjA1TDRKQnpISm1CRzduVlo4dzJ0QW1Cck5iLTI2SklvMXBnaTgzTVFlWXc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260622-auto-2-c91144",
+        "title": "TCL李东生：以“AI向实”推动亚太",
+        "category": "AI新闻",
+        "date": "2026-06-22",
+        "summary": "TCL李东生：以“AI向实”推动亚太产业协同升级 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "TCL李东生：以“AI向实”推动亚太 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "TCL李东生：以“AI向实”推动亚太产业协同升级 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "TCL李东生：以“AI向实”推动亚太产业协同升级 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTlrN0d1R2ZSTFlRMjFNNTZmSy1Ud1hjdXVsd19ibHh6Vm1TLU9SQjV0ZkZTQVJvM1RWczNWVjFfUmNHdVZUelpiXzM3WlZpUTd0ZGhnTGQwc0c3emJOSGREaTlyWmQzNlJKQVZnQzlvQXlPYzZjTE1Ca24ySFczQjVMX1V5UUMw?oc=5"
+          },
+          {
+            "label": "Latest news from Azerbaijan：Singaporean firm partners with OpenAI to expand AI across Southeast As",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUJqYnNMMnppT2M4bk51TXo0Ny1hWl90ekZlRV9LUEgzZjR1b2F5dWFKdGlNVlVtS1pOWHdJSEVvdW8yLUZmM2hKQW11anQybl9MRTRIV21yVnloOHpFa09wYWFwOHRDQ19MNndGMHcwS2FqLWVLUjA1TDRKQnpISm1CRzduVlo4dzJ0QW1Cck5iLTI2SklvMXBnaTgzTVFlWXc?oc=5"
+          },
+          {
+            "label": "MSN：The Reverse Centaur’s guide to life after AI by Cory Doctorow review –",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnU2MzJGOU42VUNJRDJubG5nOTN3LTdmaWR0SXJnSVh4Z3FYNnE5MTNTU25uLWhXd0tQQmViUG5BckJQZndBWWk2eXo2aFFfN1owNUs2M29obWtyYlYzcGhGdldrU181dVVJc0QwS0Z6TjEyeWxLNlotaV9Ld2hUSHp1LWFYX1JucFl4S2tnYVlFYUI2LTV1VW84NkZEd1lncU9BM2JPTlZkUVM3ejJGRnFCdXItOXVMVUVhQ1pNMURhdDUxa1hnZVdFeE91T2ZOZDVVWHZSOEdlYTRMd3BValRDWWdFODQ5RXdEbkdOTTE?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTlrN0d1R2ZSTFlRMjFNNTZmSy1Ud1hjdXVsd19ibHh6Vm1TLU9SQjV0ZkZTQVJvM1RWczNWVjFfUmNHdVZUelpiXzM3WlZpUTd0ZGhnTGQwc0c3emJOSGREaTlyWmQzNlJKQVZnQzlvQXlPYzZjTE1Ca24ySFczQjVMX1V5UUMw?oc=5"
+      },
+      {
         "slug": "ai-news-20260621-auto-1-6ecdaf",
         "title": "史诗级大涨！爆买8100亿！科技大牛",
         "category": "AI新闻",
@@ -9911,6 +10027,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260622-auto-1-3aad07",
+        "title": "普通人应如何提升自身能力以应对AI时",
+        "category": "AI使用教程",
+        "date": "2026-06-22",
+        "summary": "普通人应如何提升自身能力以应对AI时代的职业挑战？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "普通人应如何提升自身能力以应对AI时 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "普通人应如何提升自身能力以应对AI时代的职业挑战？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "普通人应如何提升自身能力以应对AI时代的职业挑战？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMkpiT292M2hXR3FadDFtNXFUOThzVWdSeEQ5bTF0MnFIaVhNU0FrWV80STNHN0huMUEtNGxRQVJWaHdObHZNbXNhdEUtekpaMjVEZkdBM3Njak4zdENhbW9Cb05zWERvOVF6YWNNZzliaEJzX0I3T0Y0Snp6cmM?oc=5"
+          },
+          {
+            "label": "Infoq.cn：让开关自我消亡：AI 赋能的 Feature Flag 全生命周期治理 - Infoq.cn",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZWJQdzBIbVB3WEMzTF9YbGplYktpNkt6dWliTl9ucWpkMUJzc285cFhnMk9FOUx5VFdPTWhPcWptcEFBNy1hZ3FvNnM5TUlSY2ZGRE1BdHBaa1FVaGc?oc=5"
+          },
+          {
+            "label": "53AI：Claude Code之父删了IDE！干掉提示词，只写循环 - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByR3doTGpFQ3prQ2VkQ0ZWY2V3NU8yYWxLN2RzTVRXV3hNS3NiY0VieVpTWUlKNXBIUU1GcHI3eUktX0F2VUdKUG1yM3hyd3dteUZkLXR2NVlpb0M1Tm5XVmFrX0FZVnFDRGc?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMkpiT292M2hXR3FadDFtNXFUOThzVWdSeEQ5bTF0MnFIaVhNU0FrWV80STNHN0huMUEtNGxRQVJWaHdObHZNbXNhdEUtekpaMjVEZkdBM3Njak4zdENhbW9Cb05zWERvOVF6YWNNZzliaEJzX0I3T0Y0Snp6cmM?oc=5"
+      },
+      {
         "slug": "ai-guide-20260621-auto-1-2bcfd3",
         "title": "PITB Opens Registr",
         "category": "AI使用教程",
@@ -14289,6 +14463,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260622-auto-1-4037d4",
+        "title": "Anthropic finish t",
+        "category": "开源项目",
+        "date": "2026-06-22",
+        "summary": "Anthropic finish training Mythos 6, reports Lapaas",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic finish t 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic finish training Mythos 6, reports Lapaas",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic finish training Mythos 6, reports Lapaas",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Lapaas Voice：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUmE4S0k3allqS3hiTFMwMjZ6RGpxVUdUOVdkc3lmV2Jzd1RsN0dxbjFrU0hXdTJTMTh6VUhkZEtnM2s5UlVXZXJQblZtMlIzd3lCOGthQXp0bmVsYlFRZEF2Q3FpMlhzbENsY3V0bUVsNklTMGhV?oc=5"
+          },
+          {
+            "label": "新浪财经：智谱盘中狂飙超40%，市值破万亿港元，年内已涨超20倍 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWZGSl85a3VBSEFPdWl3Y2toX28xRDh5bl9hWW95dHRTcS1GcVdpdi1pVWxQSGJ3MEJOcHUwc2Q0OGwxNzdRMUxIMHZrQmwtTTZ0bzE2VDVuN3FHazRPQXFsUEZNRDc5cTVQVWRjV1lkNzl0ejRPRmlTVTFNY08wazNVbmxSTzc0U0tLZHQ5anRnd19EX0JQcTF3OEJTbERvVTdGMGRUQjlMS0x2T3BwLTlR?oc=5"
+          },
+          {
+            "label": "搜狐网：速递｜开源Agent Hermes超车OpenClaw：Agent进入自学技能竞争 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjVodEx6MmpTVFdSbDVZU1pFcGFRU3Z6aklXZFlGT1ZvMzBJVXUyQkJJcnQzRDNaYmhKaVhaR0EwSmZjS3YxQlJ2NnBScDlMQnhQTDBNaGFGVkc2anhNaUVlYzhobTBNWlU1di02Wl91OFRDV0dId1ZZNXJYZ0NKNmtNSzVudEtlVl92aA?oc=5"
+          }
+        ],
+        "source": "Lapaas Voice",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUmE4S0k3allqS3hiTFMwMjZ6RGpxVUdUOVdkc3lmV2Jzd1RsN0dxbjFrU0hXdTJTMTh6VUhkZEtnM2s5UlVXZXJQblZtMlIzd3lCOGthQXp0bmVsYlFRZEF2Q3FpMlhzbENsY3V0bUVsNklTMGhV?oc=5"
+      },
+      {
+        "slug": "open-source-20260622-auto-2-14380b",
+        "title": "智谱盘中狂飙超40%，市值破万亿港元",
+        "category": "开源项目",
+        "date": "2026-06-22",
+        "summary": "智谱盘中狂飙超40%，市值破万亿港元，年内已涨超20倍 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智谱盘中狂飙超40%，市值破万亿港元 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "智谱盘中狂飙超40%，市值破万亿港元，年内已涨超20倍 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智谱盘中狂飙超40%，市值破万亿港元，年内已涨超20倍 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWZGSl85a3VBSEFPdWl3Y2toX28xRDh5bl9hWW95dHRTcS1GcVdpdi1pVWxQSGJ3MEJOcHUwc2Q0OGwxNzdRMUxIMHZrQmwtTTZ0bzE2VDVuN3FHazRPQXFsUEZNRDc5cTVQVWRjV1lkNzl0ejRPRmlTVTFNY08wazNVbmxSTzc0U0tLZHQ5anRnd19EX0JQcTF3OEJTbERvVTdGMGRUQjlMS0x2T3BwLTlR?oc=5"
+          },
+          {
+            "label": "Lapaas Voice：Anthropic finish training Mythos 6, reports - Lapaas Voice",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jUmE4S0k3allqS3hiTFMwMjZ6RGpxVUdUOVdkc3lmV2Jzd1RsN0dxbjFrU0hXdTJTMTh6VUhkZEtnM2s5UlVXZXJQblZtMlIzd3lCOGthQXp0bmVsYlFRZEF2Q3FpMlhzbENsY3V0bUVsNklTMGhV?oc=5"
+          },
+          {
+            "label": "搜狐网：速递｜开源Agent Hermes超车OpenClaw：Agent进入自学技能竞争 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjVodEx6MmpTVFdSbDVZU1pFcGFRU3Z6aklXZFlGT1ZvMzBJVXUyQkJJcnQzRDNaYmhKaVhaR0EwSmZjS3YxQlJ2NnBScDlMQnhQTDBNaGFGVkc2anhNaUVlYzhobTBNWlU1di02Wl91OFRDV0dId1ZZNXJYZ0NKNmtNSzVudEtlVl92aA?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWZGSl85a3VBSEFPdWl3Y2toX28xRDh5bl9hWW95dHRTcS1GcVdpdi1pVWxQSGJ3MEJOcHUwc2Q0OGwxNzdRMUxIMHZrQmwtTTZ0bzE2VDVuN3FHazRPQXFsUEZNRDc5cTVQVWRjV1lkNzl0ejRPRmlTVTFNY08wazNVbmxSTzc0U0tLZHQ5anRnd19EX0JQcTF3OEJTbERvVTdGMGRUQjlMS0x2T3BwLTlR?oc=5"
+      },
       {
         "slug": "open-source-20260621-auto-1-608686",
         "title": "GLM 5.2开源进展",
