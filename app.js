@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260623-auto-1-0b63c6",
+        "title": "Inside The Future",
+        "category": "AI新闻",
+        "date": "2026-06-23",
+        "summary": "Inside The Future of AI-Powered Shopping with BoF",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Inside The Future 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Inside The Future of AI-Powered Shopping with BoF",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Inside The Future of AI-Powered Shopping with BoF",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Business of Fashion：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbndDWkNDVTE1Znk0ODVMYm9oUko0Vkl6NnE1aThBWGF4RGgtZFpETUNMS1RNdllBTURzaURLRi03ZThfMnhFSEN0aktldi1WTjBYTXI0ME1vRXd0X3FwRC1SV1ZoM3pwMWZ3WEdLeUMxRG9rcUhEWTh5enJBOGxxdE1VZkpwTFQzaGJselpOT0VMa3doRElmTkZwNlNxMDV4VUgwa1RST0tRV0NvdDZZLVo0cERIaEpVaS1hT1lEalM0cW1ONVlEdUlJRUQ3Y0pZ?oc=5"
+          },
+          {
+            "label": "新浪网：《人民日报》点赞重庆教育！让技术赋能教育均衡 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pQm1XZHZvUDlDZmdUSzRPakZyN25FWXhiVVM3cWN0YWZmOE1qZGdhY0RqNS1IZnozUEM3WDN2YmQ2SnUzYlY1SFNEMUNnaC1RRTk0eFBEM19XQ1U4WlpOekduZ0Q5cGZkcGtCQThDY1FTUQ?oc=5"
+          },
+          {
+            "label": "新浪财经：边读研边创业 订单已破650万 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVB0LXlzV2Y3aEthZkJfVXltYjJSR2tPQXVEcFNYbUZnUVlSNmgwNUtVZ2UyUXN0cXVIc0FoYnlKc2FPQUhzd1NCV3A4TEF2NWREekpqdEctR0o5TDRsYzVpSDAyeDZBUTFBTXZRTFU0cnJvLURMS2tIQVc5QWtCWnNXUXB4T0pEU3J4WEFkeXA5ekNCZkp1Wg?oc=5"
+          }
+        ],
+        "source": "The Business of Fashion",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbndDWkNDVTE1Znk0ODVMYm9oUko0Vkl6NnE1aThBWGF4RGgtZFpETUNMS1RNdllBTURzaURLRi03ZThfMnhFSEN0aktldi1WTjBYTXI0ME1vRXd0X3FwRC1SV1ZoM3pwMWZ3WEdLeUMxRG9rcUhEWTh5enJBOGxxdE1VZkpwTFQzaGJselpOT0VMa3doRElmTkZwNlNxMDV4VUgwa1RST0tRV0NvdDZZLVo0cERIaEpVaS1hT1lEalM0cW1ONVlEdUlJRUQ3Y0pZ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260623-auto-2-b9d50b",
+        "title": "《人民日报》点赞重庆教育！让技术赋能",
+        "category": "AI新闻",
+        "date": "2026-06-23",
+        "summary": "《人民日报》点赞重庆教育！让技术赋能教育均衡 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《人民日报》点赞重庆教育！让技术赋能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "《人民日报》点赞重庆教育！让技术赋能教育均衡 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《人民日报》点赞重庆教育！让技术赋能教育均衡 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pQm1XZHZvUDlDZmdUSzRPakZyN25FWXhiVVM3cWN0YWZmOE1qZGdhY0RqNS1IZnozUEM3WDN2YmQ2SnUzYlY1SFNEMUNnaC1RRTk0eFBEM19XQ1U4WlpOekduZ0Q5cGZkcGtCQThDY1FTUQ?oc=5"
+          },
+          {
+            "label": "The Business of Fashion：Inside The Future of AI-Powered Shopping with BoF and Swap Commerce - ",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbndDWkNDVTE1Znk0ODVMYm9oUko0Vkl6NnE1aThBWGF4RGgtZFpETUNMS1RNdllBTURzaURLRi03ZThfMnhFSEN0aktldi1WTjBYTXI0ME1vRXd0X3FwRC1SV1ZoM3pwMWZ3WEdLeUMxRG9rcUhEWTh5enJBOGxxdE1VZkpwTFQzaGJselpOT0VMa3doRElmTkZwNlNxMDV4VUgwa1RST0tRV0NvdDZZLVo0cERIaEpVaS1hT1lEalM0cW1ONVlEdUlJRUQ3Y0pZ?oc=5"
+          },
+          {
+            "label": "新浪财经：边读研边创业 订单已破650万 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQVB0LXlzV2Y3aEthZkJfVXltYjJSR2tPQXVEcFNYbUZnUVlSNmgwNUtVZ2UyUXN0cXVIc0FoYnlKc2FPQUhzd1NCV3A4TEF2NWREekpqdEctR0o5TDRsYzVpSDAyeDZBUTFBTXZRTFU0cnJvLURMS2tIQVc5QWtCWnNXUXB4T0pEU3J4WEFkeXA5ekNCZkp1Wg?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pQm1XZHZvUDlDZmdUSzRPakZyN25FWXhiVVM3cWN0YWZmOE1qZGdhY0RqNS1IZnozUEM3WDN2YmQ2SnUzYlY1SFNEMUNnaC1RRTk0eFBEM19XQ1U4WlpOekduZ0Q5cGZkcGtCQThDY1FTUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260622-auto-1-60115a",
         "title": "Singaporean firm p",
         "category": "AI新闻",
@@ -10027,6 +10143,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260623-auto-1-975d6e",
+        "title": "用AI排查电脑故障",
+        "category": "AI使用教程",
+        "date": "2026-06-23",
+        "summary": "结合Copilot或ChatGPT做电脑故障排查的实操教程。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "用AI排查电脑故障 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "结合2026年6月23日可见的公开讨论，AI已经成为普通用户处理电脑问题的常用辅助工具。若想让Copilot或ChatGPT真正帮上忙，关键不是简单提问，而是按步骤提供症状、环境、报错信息和已做过的尝试，再用AI输出可执行的排查清单。",
+          "blocks": [
+            {
+              "heading": "先把问题描述清楚",
+              "paragraphs": [
+                "第一步先记录故障现象，不要只说“电脑坏了”。应写明具体表现，例如“开机后黑屏但有风扇声”“连接Wi-Fi后频繁断网”“安装更新后蓝屏”，并补充出现频率、开始时间和是否能稳定复现。",
+                "第二步补充设备环境。把操作系统版本、电脑品牌型号、最近是否更换硬件、是否安装新软件、是否更新驱动等信息整理成短列表，再一次性发给AI，这比来回追问更省时间。",
+                "第三步附上原始报错内容。优先提供完整报错文字、错误代码、弹窗标题和截图中的关键信息，不要只转述大意。AI在处理系统问题时，往往依赖这些精确字段去判断是驱动、网络、权限还是存储故障。"
+              ]
+            },
+            {
+              "heading": "让AI输出可执行方案",
+              "paragraphs": [
+                "提问时可直接要求AI按顺序给出方案，例如“请按风险从低到高列出排查步骤，每步只做一件事，并说明预期结果”。这样能避免一次生成过多操作，降低误删文件或误改设置的风险。",
+                "如果问题较复杂，可以要求AI把答案拆成“确认原因”“执行命令”“判断结果”“下一步分支”四部分。对于网络、驱动、磁盘和启动故障，这种分支式回答更适合普通用户按图执行。",
+                "执行过程中，每做完一步就把结果回传给AI，例如“已运行网络诊断，提示DNS异常”“设备管理器里网卡有黄色感叹号”。AI根据反馈继续缩小范围，比一次性追求最终答案更有效。"
+              ]
+            },
+            {
+              "heading": "控制风险并沉淀模板",
+              "paragraphs": [
+                "涉及注册表、BIOS、磁盘分区、系统重装或批量删除命令时，不要直接照做。先让AI说明该操作会影响什么、是否可回退、需要提前备份哪些文件，再决定是否继续。遇到企业电脑或含敏感数据设备，更应优先咨询管理员。",
+                "对于命令行操作，建议让AI同时给出“复制版命令”和“自然语言解释版步骤”。执行前核对命令用途，执行后保存输出结果。这样即使首次方案无效，也能基于日志继续定位问题。",
+                "最后把高频故障整理成自己的提示词模板，例如“你是Windows排障助手，请根据报错代码、最近变更和日志，按低风险优先原则输出步骤”。到2026年，这类可复用模板已经比临时随意提问更适合作为日常电脑维护方法。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ZDNET：用Copilot或ChatGPT排查PC问题",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjdJaTl0bTAwcldTeC1JRnRoaFhfWTNnUENxQ19FZDFIcE92NDBOVnpIcEhNaEtOU2VPdlNnOTJXWkJiQXJMdnkwcmhGNWNZRl9QX0Y4UFRqR0czUjU2NVZOTUx2WDAzNHdVdlMwZDdJMmJjZDFmLVh6YU5tNmZlbEZpV05jc3MzNFdMbE5aTXRpOHVyaVE?oc=5"
+          },
+          {
+            "label": "Investopedia：用提示词解释复杂概念",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZTRuSnFGUkp3TDh5dzhVRjlqY1h1Ri0xNW5NVTlCTkdtMmdLcTBkTFVPbUN1NUZVc2xsY3k0ZEVGN3g1c2drVW85U25rMTNEaWdtcmhGOGw5enJPVmI1QXVJdTJSYml0bjhOWDlDSnB5d1NXdGdsUGNUWEYwODNXekRIWUd4ZFc2WXMxZXpiUTlwR0poM0NfWnBGWjBORU1HNUhPRk84V1k?oc=5"
+          },
+          {
+            "label": "Howard University：提升实用AI能力",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTUVxN3QweURSOU1tcnRmb01va0F1VXRvWXU3d1dReTJWYThITUxGbW9SUmU3LWdCT3pQa2huNTBSVFpTaFZ1THMwNWpOU2xLSjhVdjlpUGl1a0pVME1FeTNZeEhMalNrTXJIakQxSDFGRkNhWnVtdTZSRkxlMndBeTZRazlJQVRISUh2MTduMjB1dU1xYV9DX0c0dGh1b2taNl9XSnUycFBEU2FMSzV5bEFDbjNvaUFRWDVtUnIweVA5TGZ4akJ5dTBfaw?oc=5"
+          }
+        ],
+        "source": "ZDNET",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjdJaTl0bTAwcldTeC1JRnRoaFhfWTNnUENxQ19FZDFIcE92NDBOVnpIcEhNaEtOU2VPdlNnOTJXWkJiQXJMdnkwcmhGNWNZRl9QX0Y4UFRqR0czUjU2NVZOTUx2WDAzNHdVdlMwZDdJMmJjZDFmLVh6YU5tNmZlbEZpV05jc3MzNFdMbE5aTXRpOHVyaVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260622-auto-1-3aad07",
         "title": "普通人应如何提升自身能力以应对AI时",
         "category": "AI使用教程",
@@ -14463,6 +14637,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260623-auto-1-9f8df3",
+        "title": "OpenAI启动修补地球",
+        "category": "开源项目",
+        "date": "2026-06-23",
+        "summary": "OpenAI发起开源安全计划，帮助项目发现并修补漏洞。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI启动修补地球 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京时间2026年6月23日，围绕开源AI生态的安全维护，OpenAI公布“修补地球”计划，重点是帮助开源项目更早识别漏洞并推进修复流程。",
+          "blocks": [
+            {
+              "heading": "项目更新",
+              "paragraphs": [
+                "多家媒体在6月23日报道，OpenAI推出名为“修补地球”的新计划，面向开源软件项目提供漏洞发现与修复支持。",
+                "从现有信息看，这一计划将安全研究与AI能力结合，目标是降低开源维护者在漏洞排查、定位与补丁整理上的人工负担。",
+                "这类更新虽然不是新模型发布，但与开源AI基础设施密切相关，因为大量AI工具链本身依赖开源组件与公共代码库。"
+              ]
+            },
+            {
+              "heading": "用途与价值",
+              "paragraphs": [
+                "对开源项目团队而言，最直接的用途是更快发现安全缺陷，并把漏洞信息转化为可执行的修复建议。",
+                "对AI开发者来说，这项计划的意义在于提升依赖链安全，尤其适用于使用众多第三方库、插件和自动化脚本的项目环境。",
+                "如果该计划后续提供更清晰的提交流程或自动扫描能力，中小型维护团队可能更容易在有限人力下完成基础安全治理。"
+              ]
+            },
+            {
+              "heading": "上手门槛",
+              "paragraphs": [
+                "目前公开信息更像是一项倡议与合作机制，而不是面向普通用户直接下载的单一开源工具，因此上手门槛主要取决于项目是否能接入相关支持流程。",
+                "对维护者而言，参与前通常需要准备代码仓库、漏洞反馈渠道以及基本的补丁合并流程，这些都是进入安全协作的基础条件。",
+                "对普通开发者来说，短期更适合把它视为开源安全支持生态的新动态，并关注后续是否开放申请入口、扫描工具或社区协作规范。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "News9live报道",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmJjejhLR25xUENwbW4zOHQ0ajVOMjZxMXNmVGt3MmdxMWpkdlZXQjNzTFFWOUNscUpzM3pkYjJBYi1tSUJSeXg3T1JTQ2xkaHF4THV0LTBod0EzeWo2TVduRXhJMU5CR2dacG5EaDVjSXFMMGxiNDBxc05FeXBsZ3BiamtON1AxT29pLTZZUXlkWERpWUpLRXZIckFlcVRMaVUwbXluNUtVbjdUNGZQaVFzV2hDM1U3T0pUaEpJRDJldm9WSlAxVWNUZElURDJSV2JNVjB0LXJmZkl6SjE1TVBqcVRkcUFYMUdsM1ZB0gHzAUFVX3lxTE9QM09pRGNjS0pVenh0OUJLSmlReU9nOUZZUEMySjIxeUdlQUNHUU9KVTBpUlZ4UnAwZTlTUjJiQmh6eW9Caml6T0c2ZlZhUXpDMXY4VE9TcUd2cUliRW56eFJDYTB4TW00RGpFVjJJaGx1NkNSaHdvV00tZXNNemN3ZWFkazFvdXNSQ3ZSWnVVbW9ZWFFmcmRjWUlFYzBhMHpRUlpWbTJTdEl3R2NxcGhqVnRLN0FiYUtkdXRoZGw4U2xDOXByUXlxbzRsaDVWQ1h5VEFhM2dHcVJrd3Y0NmZITTNaTzQxM2U0R0ZOSWdsOENxcw?oc=5"
+          },
+          {
+            "label": "AIBase报道",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uSXl1cnZtOVlKUXU5Ti0xUWhydks1WnZSNDhPemtPX25IWlJsVXpwSU5HVUFKSEhBcVk5NngtbVd6Sl91cEt1T01n?oc=5"
+          },
+          {
+            "label": "新浪网报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNUxqN0NSajBHZTJObW1ZWTR6SUxRRllkX2Y1NVlYQ2FSNUhSb1hGeS1uNTRwUGZyb0xPd2ZUcjRxbC01QlcwRlBReDhEMGNoTFQ2TVg1aWdoYV9RUXYtQU8teDc4S2x0ODhOXzBGY3RueVprV0lJR0V3S1hSTTA?oc=5"
+          }
+        ],
+        "source": "News9live",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmJjejhLR25xUENwbW4zOHQ0ajVOMjZxMXNmVGt3MmdxMWpkdlZXQjNzTFFWOUNscUpzM3pkYjJBYi1tSUJSeXg3T1JTQ2xkaHF4THV0LTBod0EzeWo2TVduRXhJMU5CR2dacG5EaDVjSXFMMGxiNDBxc05FeXBsZ3BiamtON1AxT29pLTZZUXlkWERpWUpLRXZIckFlcVRMaVUwbXluNUtVbjdUNGZQaVFzV2hDM1U3T0pUaEpJRDJldm9WSlAxVWNUZElURDJSV2JNVjB0LXJmZkl6SjE1TVBqcVRkcUFYMUdsM1ZB0gHzAUFVX3lxTE9QM09pRGNjS0pVenh0OUJLSmlReU9nOUZZUEMySjIxeUdlQUNHUU9KVTBpUlZ4UnAwZTlTUjJiQmh6eW9Caml6T0c2ZlZhUXpDMXY4VE9TcUd2cUliRW56eFJDYTB4TW00RGpFVjJJaGx1NkNSaHdvV00tZXNNemN3ZWFkazFvdXNSQ3ZSWnVVbW9ZWFFmcmRjWUlFYzBhMHpRUlpWbTJTdEl3R2NxcGhqVnRLN0FiYUtkdXRoZGw4U2xDOXByUXlxbzRsaDVWQ1h5VEFhM2dHcVJrd3Y0NmZITTNaTzQxM2U0R0ZOSWdsOENxcw?oc=5"
+      },
+      {
+        "slug": "open-source-20260623-auto-2-0f749c",
+        "title": "京东开源交互模型",
+        "category": "开源项目",
+        "date": "2026-06-23",
+        "summary": "京东发布全栈开源交互AI模型，聚焦多模态对话与系统开放。",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "京东开源交互模型 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "北京时间2026年6月23日，京东相关全栈开源交互AI模型成为开源AI领域的重要更新，报道聚焦其“全系统开源”与多模态交互能力。",
+          "blocks": [
+            {
+              "heading": "项目更新",
+              "paragraphs": [
+                "候选信息显示，京东发布了全栈开源交互AI模型，相关报道提到模型名为JoyAI-VL-Interaction，并强调系统级开放。",
+                "从产品定位看，它不只是单一权重或演示模型，而是更接近围绕交互能力构建的完整开源方案。",
+                "报道还提到该模型尝试让交互从传统“一问一答”延伸到“边看边说”，说明其重点落在视觉理解与实时表达结合。"
+              ]
+            },
+            {
+              "heading": "用途场景",
+              "paragraphs": [
+                "这类模型适合用于需要图文联合理解的交互场景，例如智能客服辅助、商品讲解、内容审核辅助和终端导览。",
+                "如果系统层也同步开放，开发团队除了调用模型，还可能复用推理、交互编排与部署环节，从而缩短原型验证时间。",
+                "对于研究者而言，项目价值还在于可以观察多模态交互链路如何组织，包括输入处理、上下文管理和输出表达方式。"
+              ]
+            },
+            {
+              "heading": "上手门槛",
+              "paragraphs": [
+                "相较普通文本模型，多模态交互项目的上手门槛通常更高，开发者需要准备图像输入链路、推理环境以及与业务前端的联动能力。",
+                "如果项目确实提供完整开源组件，具备模型部署经验的团队会更容易落地；而个人开发者可能更适合先从阅读文档、体验示例开始。",
+                "在6月23日这一时间点，外界更应关注其开源范围是否覆盖模型权重、数据处理、推理框架和演示系统，因为这些因素将直接影响实际使用门槛。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNHh0M2JGQTgwdEZ1QUtHelk5WTBCWUtDVHFEMmc0VzBsZVRHT3FRUGp6eHVVWThZS2F2RTRRdnJia1hLYUtzLW5FQlJ0X1JKZFljd1BWeGhGRmhEdmF1d1lsX3hYNlBlZW0zTnV4WS0?oc=5"
+          },
+          {
+            "label": "星岛环球网报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdGJFWDZZa2UwTHVMYnNwSG4yVkZ0UXo4ZHBnOFZpU1Z0SElMNjkzbHdfVGx3Z0F5eUdKS09ZNjdJWUQxQmFEMEhCdzRoM3NxWmFxdnBVeUZOdw?oc=5"
+          },
+          {
+            "label": "News9live：OpenAI launches ‘Patch the Planet’ to help open-source projects find a",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmJjejhLR25xUENwbW4zOHQ0ajVOMjZxMXNmVGt3MmdxMWpkdlZXQjNzTFFWOUNscUpzM3pkYjJBYi1tSUJSeXg3T1JTQ2xkaHF4THV0LTBod0EzeWo2TVduRXhJMU5CR2dacG5EaDVjSXFMMGxiNDBxc05FeXBsZ3BiamtON1AxT29pLTZZUXlkWERpWUpLRXZIckFlcVRMaVUwbXluNUtVbjdUNGZQaVFzV2hDM1U3T0pUaEpJRDJldm9WSlAxVWNUZElURDJSV2JNVjB0LXJmZkl6SjE1TVBqcVRkcUFYMUdsM1ZB0gHzAUFVX3lxTE9QM09pRGNjS0pVenh0OUJLSmlReU9nOUZZUEMySjIxeUdlQUNHUU9KVTBpUlZ4UnAwZTlTUjJiQmh6eW9Caml6T0c2ZlZhUXpDMXY4VE9TcUd2cUliRW56eFJDYTB4TW00RGpFVjJJaGx1NkNSaHdvV00tZXNNemN3ZWFkazFvdXNSQ3ZSWnVVbW9ZWFFmcmRjWUlFYzBhMHpRUlpWbTJTdEl3R2NxcGhqVnRLN0FiYUtkdXRoZGw4U2xDOXByUXlxbzRsaDVWQ1h5VEFhM2dHcVJrd3Y0NmZITTNaTzQxM2U0R0ZOSWdsOENxcw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNHh0M2JGQTgwdEZ1QUtHelk5WTBCWUtDVHFEMmc0VzBsZVRHT3FRUGp6eHVVWThZS2F2RTRRdnJia1hLYUtzLW5FQlJ0X1JKZFljd1BWeGhGRmhEdmF1d1lsX3hYNlBlZW0zTnV4WS0?oc=5"
+      },
       {
         "slug": "open-source-20260622-auto-1-4037d4",
         "title": "Anthropic finish t",
