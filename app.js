@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260624-auto-1-04a45d",
+        "title": "AI: Microsoft pick",
+        "category": "AI新闻",
+        "date": "2026-06-24",
+        "summary": "AI: Microsoft picks a side vs Frontier AI models.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Microsoft pick 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI: Microsoft picks a side vs Frontier AI models.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Microsoft picks a side vs Frontier AI models.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jNlNRV1NHa0g1NGlBVFZudUxxcGVKa29ZZTE4R01nWXQ2enRmNHJvSkp6NnZmanB6N0V5NGtrNFRSVG1fQjVTUVE5eTFfa0g4UDRmTkQtWkF1YTBmSV9OOWduaXRnNU94cHk4NmMwb3E4UWRRdktsN19rR3dlcEk?oc=5"
+          },
+          {
+            "label": "PhocusWire：Travel's next operating system won't be built on search - PhocusWire",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFBZdmlmZ25hOURKdU54MTFGTzEyYVRYV28xSThKWUYzVFZqSkxPcE80cm5OU3JwMUMyU0RDVU5zenNDT21keHRfbnEya1plaUxIX180aGp2Q2lpM2VFS2lMak1NdGlzVDkyWlpYcUVUX19kcjlHM3diWkV2WDhLMG9uTUZCX04xaUx1WXBB?oc=5"
+          },
+          {
+            "label": "新浪网：AI会取代医生看病吗?专家解析医疗AI发展内核 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0RaeDJRSmxlRk5iYldCQ0t5SkZ2Mlg0R0ZBWnpsMENvQThPVVFLeVRXYkJ4SXNkdV9DZUNNeFlNVV9BV1g2UVpTWnRGeUJZQmNVVzJuZnJlZDAzLWxyVnhPc2NoZGtmUWY1V3NRUElJYzNZTjBYdVV1YTIxLVFHcWhn?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jNlNRV1NHa0g1NGlBVFZudUxxcGVKa29ZZTE4R01nWXQ2enRmNHJvSkp6NnZmanB6N0V5NGtrNFRSVG1fQjVTUVE5eTFfa0g4UDRmTkQtWkF1YTBmSV9OOWduaXRnNU94cHk4NmMwb3E4UWRRdktsN19rR3dlcEk?oc=5"
+      },
+      {
+        "slug": "ai-news-20260624-auto-2-457495",
+        "title": "Travel's next oper",
+        "category": "AI新闻",
+        "date": "2026-06-24",
+        "summary": "Travel's next operating system won't be built on s",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Travel's next oper 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Travel's next operating system won't be built on s",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Travel's next operating system won't be built on s",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PhocusWire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFBZdmlmZ25hOURKdU54MTFGTzEyYVRYV28xSThKWUYzVFZqSkxPcE80cm5OU3JwMUMyU0RDVU5zenNDT21keHRfbnEya1plaUxIX180aGp2Q2lpM2VFS2lMak1NdGlzVDkyWlpYcUVUX19kcjlHM3diWkV2WDhLMG9uTUZCX04xaUx1WXBB?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Microsoft picks a side vs Frontier AI models. AI-RTZ #1126 - AI: R",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jNlNRV1NHa0g1NGlBVFZudUxxcGVKa29ZZTE4R01nWXQ2enRmNHJvSkp6NnZmanB6N0V5NGtrNFRSVG1fQjVTUVE5eTFfa0g4UDRmTkQtWkF1YTBmSV9OOWduaXRnNU94cHk4NmMwb3E4UWRRdktsN19rR3dlcEk?oc=5"
+          },
+          {
+            "label": "新浪网：AI会取代医生看病吗?专家解析医疗AI发展内核 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0RaeDJRSmxlRk5iYldCQ0t5SkZ2Mlg0R0ZBWnpsMENvQThPVVFLeVRXYkJ4SXNkdV9DZUNNeFlNVV9BV1g2UVpTWnRGeUJZQmNVVzJuZnJlZDAzLWxyVnhPc2NoZGtmUWY1V3NRUElJYzNZTjBYdVV1YTIxLVFHcWhn?oc=5"
+          }
+        ],
+        "source": "PhocusWire",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFBZdmlmZ25hOURKdU54MTFGTzEyYVRYV28xSThKWUYzVFZqSkxPcE80cm5OU3JwMUMyU0RDVU5zenNDT21keHRfbnEya1plaUxIX180aGp2Q2lpM2VFS2lMak1NdGlzVDkyWlpYcUVUX19kcjlHM3diWkV2WDhLMG9uTUZCX04xaUx1WXBB?oc=5"
+      },
+      {
         "slug": "ai-news-20260623-auto-1-0b63c6",
         "title": "Inside The Future",
         "category": "AI新闻",
@@ -10143,6 +10259,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260624-auto-1-ba2937",
+        "title": "AI短剧制作实操指南",
+        "category": "AI使用教程",
+        "date": "2026-06-24",
+        "summary": "基于Seedance 2.5整理30秒短视频制作流程",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧制作实操指南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年6月24日前后，AI短剧和短视频生成工具的应用继续升温。对想入门的人来说，重点不是追逐概念，而是把一条30秒内容拆成可执行的脚本、分镜、生成和复核流程。",
+          "blocks": [
+            {
+              "heading": "先定一个可交付的短脚本",
+              "paragraphs": [
+                "把成片目标控制在30秒以内，先写一句主题和一句受众说明，再列出开头、转折、结尾三个镜头用途。这样更容易让生成模型输出稳定，也方便后续改稿。",
+                "如果你使用支持长视频生成的工具，先把时长、画幅、风格、人物数量写清楚，避免一次塞入过多要求。建议每次只测试一个变量，例如先固定风格，再调整镜头长度。",
+                "提示词里要加入负面约束，例如不要跳剪、不要多余字幕、不要出现不一致服装。这样能减少生成后人工返工的次数。"
+              ]
+            },
+            {
+              "heading": "按分镜完成生成与筛选",
+              "paragraphs": [
+                "先用最小成本生成多版素材，再按镜头逐段挑选，而不是一开始就追求完整成片。实操上可以先生成开头镜头，确认人物和画面基调后，再扩展到中段和结尾。",
+                "每个镜头都保留原始提示词、生成参数和版本号，便于回溯哪一版最稳定。对于同一场景，建议至少保留2到3个候选结果，避免后期因单条素材质量不足而返工。",
+                "如果工具支持更长时长输出，可以优先用于场景过渡和氛围镜头，人物说话或关键信息展示仍建议做人工复核。这样能把生成优势和可控性结合起来。"
+              ]
+            },
+            {
+              "heading": "发布前做三轮检查",
+              "paragraphs": [
+                "第一轮检查画面一致性，重点看人物外观、物件位置和字幕是否前后统一。第二轮检查内容准确性，确认没有误导性表达或与脚本不符的镜头。",
+                "第三轮检查版权和合规，尤其是音乐、字体、肖像和品牌元素。若素材来自外部库或第三方模型，要保留授权来源和使用记录，方便后续发布审核。",
+                "正式发布前，最好让一名未参与制作的人快速看一遍成片，只回答三个问题：看懂了吗、节奏顺吗、有没有明显错误。这个步骤通常比继续加特效更能提升成片质量。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Seedance 2.5 发布报道",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2xpeHJHQ2pWaS1FUnRnOVZUZDF1aUFDbUVCYld5c2JaeGZkUy1MNlNWRTZPQmdvYWhtODNkQVdNUU5EdEtzZ0xvZ2x0alhFM0M5b2R5WkZVYzJ1d1c4Q1J0Y0hQb3N4R1VZQ2h0X2x2c2Z4Z2V1R0ZqV2V0eVh1Z0JfT0ZpS0N2Y2xUeG5RVm1fQmF0S0J6R3lZb0N0eEJ2WQ?oc=5"
+          },
+          {
+            "label": "AI短剧产业报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNDZSamxUM1BscHhLUEVHTHdGeEpPYjdUajExLWF2b2NablFRTmREQkF0ZDhja2xuLTlnQmVKZFhndFNYR0FLTjQxWVA0NGQ1MG1KRnpMRFJBcklDQ3VBSHZEZ3Zld9IBa0FVX3lxTFBjRzZ2enRMTi1IMzVTWFpZOXhJcVdKWnFFZVotNERjbkpCQkx4S0dUZXZGUFVhWFZKLVZvUWJDSzhBbjlhQmFWUXU1VVp2ZG1tSnBaQV9UQnhzVWQzc2FfZmItdlRJVnV5akFR?oc=5"
+          },
+          {
+            "label": "AI短片提示词案例",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUMnNYbnNNY3pwdWJEa0NGYWJUWWNEdjlmS25UZ3VhRElzOG0wNUtJRG1jLU11MEZlWTd0c1JISVFFcmdseHdZYmZsMENvRk1BcmdxLWtB?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY2xpeHJHQ2pWaS1FUnRnOVZUZDF1aUFDbUVCYld5c2JaeGZkUy1MNlNWRTZPQmdvYWhtODNkQVdNUU5EdEtzZ0xvZ2x0alhFM0M5b2R5WkZVYzJ1d1c4Q1J0Y0hQb3N4R1VZQ2h0X2x2c2Z4Z2V1R0ZqV2V0eVh1Z0JfT0ZpS0N2Y2xUeG5RVm1fQmF0S0J6R3lZb0N0eEJ2WQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260623-auto-1-975d6e",
         "title": "用AI排查电脑故障",
         "category": "AI使用教程",
@@ -14637,6 +14811,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260624-auto-1-8138e8",
+        "title": "Exabeam Launches O",
+        "category": "开源项目",
+        "date": "2026-06-24",
+        "summary": "Exabeam Launches Open Source Praxen to Bring Agent",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Exabeam Launches O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Exabeam Launches Open Source Praxen to Bring Agent",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Exabeam Launches Open Source Praxen to Bring Agent",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "iTWire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWJZSDZMNjltQlUxbk5qSDBZcEZrZ2RBWGI2bHJmV0h2bExtVUhfZnp2cmF2Uy0xeEtrc19MMFNva2hkYmNwdE16dFhWVndLcm1qT050TlZBRTZwdHFYeUtMdmZHOWRtRTNRUWhoMFBPamNtTzVtcmtRbkNRdGZvcUEtN1hOdnRUa2F0QV81YjdWQ1Rod0lPeFNYS0xFeVZ1NEZHb3c4R2tIUlRRemJjZ3pXbDVTdHVZOXhKTmx5VXRpaXpQWGZVM0ItTGh5N3ZmMENDSzZ0QTcxRHFCRXRCYg?oc=5"
+          },
+          {
+            "label": "GIGAZINE：The image generation AI 'Krea 2' has been made open-modeled and can no",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTUpXdzdfSTdkN1M3dFIxYjhXbUs3MlJzYnNTeE9Lbk9VYmlJVFhZMlNxdjRITGdnWnMzM1NLb2JxOHdyZDZCOTIzb0Z2MXZtU2lrNDBFQ1RmWkhtbXhjamlWbjgwMkhtUG80?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：OpenAI推出“修补地球“项目，以AI维护开源供应链安全 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVGs2U21RZnAxdFlBc2NqVExIRFk1RjE3RWNMdExmRUhLX2xMOG1uUnBuR2c3UGhpeDBCa2tycndfRHlRS25tanR1VnVERkdKUUVzV3B6OE05SEZMYTlQU1hvR1JONnc?oc=5"
+          }
+        ],
+        "source": "iTWire",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWJZSDZMNjltQlUxbk5qSDBZcEZrZ2RBWGI2bHJmV0h2bExtVUhfZnp2cmF2Uy0xeEtrc19MMFNva2hkYmNwdE16dFhWVndLcm1qT050TlZBRTZwdHFYeUtMdmZHOWRtRTNRUWhoMFBPamNtTzVtcmtRbkNRdGZvcUEtN1hOdnRUa2F0QV81YjdWQ1Rod0lPeFNYS0xFeVZ1NEZHb3c4R2tIUlRRemJjZ3pXbDVTdHVZOXhKTmx5VXRpaXpQWGZVM0ItTGh5N3ZmMENDSzZ0QTcxRHFCRXRCYg?oc=5"
+      },
+      {
+        "slug": "open-source-20260624-auto-2-185098",
+        "title": "The image generati",
+        "category": "开源项目",
+        "date": "2026-06-24",
+        "summary": "The image generation AI 'Krea 2' has been made ope",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The image generati 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "The image generation AI 'Krea 2' has been made ope",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The image generation AI 'Krea 2' has been made ope",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GIGAZINE：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTUpXdzdfSTdkN1M3dFIxYjhXbUs3MlJzYnNTeE9Lbk9VYmlJVFhZMlNxdjRITGdnWnMzM1NLb2JxOHdyZDZCOTIzb0Z2MXZtU2lrNDBFQ1RmWkhtbXhjamlWbjgwMkhtUG80?oc=5"
+          },
+          {
+            "label": "iTWire：Exabeam Launches Open Source Praxen to Bring Agent Behaviour Verificat",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZWJZSDZMNjltQlUxbk5qSDBZcEZrZ2RBWGI2bHJmV0h2bExtVUhfZnp2cmF2Uy0xeEtrc19MMFNva2hkYmNwdE16dFhWVndLcm1qT050TlZBRTZwdHFYeUtMdmZHOWRtRTNRUWhoMFBPamNtTzVtcmtRbkNRdGZvcUEtN1hOdnRUa2F0QV81YjdWQ1Rod0lPeFNYS0xFeVZ1NEZHb3c4R2tIUlRRemJjZ3pXbDVTdHVZOXhKTmx5VXRpaXpQWGZVM0ItTGh5N3ZmMENDSzZ0QTcxRHFCRXRCYg?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：OpenAI推出“修补地球“项目，以AI维护开源供应链安全 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVGs2U21RZnAxdFlBc2NqVExIRFk1RjE3RWNMdExmRUhLX2xMOG1uUnBuR2c3UGhpeDBCa2tycndfRHlRS25tanR1VnVERkdKUUVzV3B6OE05SEZMYTlQU1hvR1JONnc?oc=5"
+          }
+        ],
+        "source": "GIGAZINE",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTUpXdzdfSTdkN1M3dFIxYjhXbUs3MlJzYnNTeE9Lbk9VYmlJVFhZMlNxdjRITGdnWnMzM1NLb2JxOHdyZDZCOTIzb0Z2MXZtU2lrNDBFQ1RmWkhtbXhjamlWbjgwMkhtUG80?oc=5"
+      },
       {
         "slug": "open-source-20260623-auto-1-9f8df3",
         "title": "OpenAI启动修补地球",
