@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260625-auto-1-c66b33",
+        "title": "Cybersecurity in t",
+        "category": "AI新闻",
+        "date": "2026-06-25",
+        "summary": "Cybersecurity in the age of AI: Africa’s strategic",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cybersecurity in t 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Cybersecurity in the age of AI: Africa’s strategic",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cybersecurity in the age of AI: Africa’s strategic",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "United Nations Economic Commission for A：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWFqRkZjbEZGT0dLSU5QQzBzcEdxb2txNU5wQzF6SFVLc1gwWFpTbTNHSmNQN1N2c1laQmFMekZLQmVSTWxrQmVBbnE0UjB6VDZmWTQ0Wl9nOHQ2clBRQXBzUDFEbFhtVFlPQS1DY1liTGxPSUUzTTV1eDRqbHpXR00xLWVPVmtmX2VTNlZwVTVVQlhJbzc4SW53?oc=5"
+          },
+          {
+            "label": "新浪网：浙江大学AI专业的平均起薪大概是多少？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4NjQ0bGxkQ2lCcXM4RV9XZ25KRVVLSFhyM2lfR2xId21oTWp2a0cyS1NlejN4akE4RV9UQVhqdERfVGZtRDRqR2tpenZ5Xy1iSTkza3JIX2dCa2N0TkMwd2pjZUswSktCQVlQTnRvWGRHQVdXb2VzZTRLU1ZhUQ?oc=5"
+          },
+          {
+            "label": "新浪财经：聚焦矿产等运输场景 “人工智能+交通运输”官方行动方案来啦 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWxvVkVnblhCVjhob1JDTHlTamR3RS0xMnhqcTl2RnVHd1MzVWwzbV9ZOElIWVBPQ3g0M2FNaENfU1J4dTJsNXNJWWxLcGl5LVREWnhtdzJKNXA4WGNLMnBtMENkMVRCNlRaMmFVNlBzbG1WdWxKN2VqMURuN3JIdm9Ba0dkUQ?oc=5"
+          }
+        ],
+        "source": "United Nations Economic Commission for Africa",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWFqRkZjbEZGT0dLSU5QQzBzcEdxb2txNU5wQzF6SFVLc1gwWFpTbTNHSmNQN1N2c1laQmFMekZLQmVSTWxrQmVBbnE0UjB6VDZmWTQ0Wl9nOHQ2clBRQXBzUDFEbFhtVFlPQS1DY1liTGxPSUUzTTV1eDRqbHpXR00xLWVPVmtmX2VTNlZwVTVVQlhJbzc4SW53?oc=5"
+      },
+      {
+        "slug": "ai-news-20260625-auto-2-b2bac4",
+        "title": "浙江大学AI专业的平均起薪大概是多少",
+        "category": "AI新闻",
+        "date": "2026-06-25",
+        "summary": "浙江大学AI专业的平均起薪大概是多少？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "浙江大学AI专业的平均起薪大概是多少 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "浙江大学AI专业的平均起薪大概是多少？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "浙江大学AI专业的平均起薪大概是多少？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4NjQ0bGxkQ2lCcXM4RV9XZ25KRVVLSFhyM2lfR2xId21oTWp2a0cyS1NlejN4akE4RV9UQVhqdERfVGZtRDRqR2tpenZ5Xy1iSTkza3JIX2dCa2N0TkMwd2pjZUswSktCQVlQTnRvWGRHQVdXb2VzZTRLU1ZhUQ?oc=5"
+          },
+          {
+            "label": "United Nations Economic Commission for Africa：Cybersecurity in the age of AI: Africa’s strategic moment - United Nat",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSWFqRkZjbEZGT0dLSU5QQzBzcEdxb2txNU5wQzF6SFVLc1gwWFpTbTNHSmNQN1N2c1laQmFMekZLQmVSTWxrQmVBbnE0UjB6VDZmWTQ0Wl9nOHQ2clBRQXBzUDFEbFhtVFlPQS1DY1liTGxPSUUzTTV1eDRqbHpXR00xLWVPVmtmX2VTNlZwVTVVQlhJbzc4SW53?oc=5"
+          },
+          {
+            "label": "新浪财经：聚焦矿产等运输场景 “人工智能+交通运输”官方行动方案来啦 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWxvVkVnblhCVjhob1JDTHlTamR3RS0xMnhqcTl2RnVHd1MzVWwzbV9ZOElIWVBPQ3g0M2FNaENfU1J4dTJsNXNJWWxLcGl5LVREWnhtdzJKNXA4WGNLMnBtMENkMVRCNlRaMmFVNlBzbG1WdWxKN2VqMURuN3JIdm9Ba0dkUQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4NjQ0bGxkQ2lCcXM4RV9XZ25KRVVLSFhyM2lfR2xId21oTWp2a0cyS1NlejN4akE4RV9UQVhqdERfVGZtRDRqR2tpenZ5Xy1iSTkza3JIX2dCa2N0TkMwd2pjZUswSktCQVlQTnRvWGRHQVdXb2VzZTRLU1ZhUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260624-auto-1-04a45d",
         "title": "AI: Microsoft pick",
         "category": "AI新闻",
@@ -10259,6 +10375,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260625-auto-1-e592e0",
+        "title": "The Agentic Awaken",
+        "category": "AI使用教程",
+        "date": "2026-06-25",
+        "summary": "The Agentic Awakening: How Self-Improving AI Loops",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The Agentic Awaken 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The Agentic Awakening: How Self-Improving AI Loops",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The Agentic Awakening: How Self-Improving AI Loops",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBTimes India：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVgydEduXzdwUGZHb1Y4Z1hMakJ5a2gtU1NVMlJrbTFmc2YyMnVlWGZGOFcwajVHS1lOcW1JVGNOOTFLYlZHRDZvNmZ1ejZoNEI0VXl4Qjc3UzN0N2VxSXVIdjkzVC1YOURHYXhhMHNET2Q4dkNsUWtZbXpWek1nZU5qTXp5QjhzdDE2MXRvdVU2NmJRcjQwT3R1ZWpzRW4wbV9jOGNzRHZ0Q3ZXTTJibHFTcjFnczZmSXpuYmw2MA?oc=5"
+          },
+          {
+            "label": "搜狐网：永久密钥：68MF6-8QU9Y-NG81K-A6K9J-62ZVD - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzJUS3dqWnhJbDVEQnJ2R3lHc2FyV2MtTmpDODJoX2VzRTdISkRfeURZWE5melkyY0JjenlTWG96ZS03MGhrY2hrQUhxTUVaZEN6MUw5SFVCVExlQUN2am15RFBJeWJpQ1FWU3laYmVORFJoaXVLTVhqTEtUNlB3OWhGS2IyY0VmYVJjcw?oc=5"
+          },
+          {
+            "label": "上海热线：当AI走进片场——上海国际电影节的一场“压力测试” - 上海热线",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVmdYNU9zdk5qbV9HdWRpR3lKeWVRY2hqazlEUzN6aFBvbnR0WGpBZkJ5VFdUMzNZeGJVTThBR1NBcFk5N3NLYjFqeDI2dVc2Vy1OSDZCWEltWDhuYjYzYlJKOTVHcmx6LUJoUlhFLXQ1dw?oc=5"
+          }
+        ],
+        "source": "IBTimes India",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVgydEduXzdwUGZHb1Y4Z1hMakJ5a2gtU1NVMlJrbTFmc2YyMnVlWGZGOFcwajVHS1lOcW1JVGNOOTFLYlZHRDZvNmZ1ejZoNEI0VXl4Qjc3UzN0N2VxSXVIdjkzVC1YOURHYXhhMHNET2Q4dkNsUWtZbXpWek1nZU5qTXp5QjhzdDE2MXRvdVU2NmJRcjQwT3R1ZWpzRW4wbV9jOGNzRHZ0Q3ZXTTJibHFTcjFnczZmSXpuYmw2MA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260624-auto-1-ba2937",
         "title": "AI短剧制作实操指南",
         "category": "AI使用教程",
@@ -14811,6 +14985,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260625-auto-1-b69c7f",
+        "title": "AI 开始网暴人类了，OpenCla",
+        "category": "开源项目",
+        "date": "2026-06-25",
+        "summary": "AI 开始网暴人类了，OpenClaw 被拒后怒发「小作文」开撕，网友：我站 AI 36Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI 开始网暴人类了，OpenCla 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI 开始网暴人类了，OpenClaw 被拒后怒发「小作文」开撕，网友：我站 AI 36Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI 开始网暴人类了，OpenClaw 被拒后怒发「小作文」开撕，网友：我站 AI 36Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSDVsOGNUaGc3MGhGY2Jub0pWTi1NeC1Rc0ZmVUprOU9QTmFLYklFaWd3TC1RTDdxMUJ6Q0dGSzB6VDFESUVpc1dPb2VNQQ?oc=5"
+          },
+          {
+            "label": "Tech Times：Cursor’s GitHub Rival Origin and New SpaceX Model Raise Code Custody S",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFF6aV9sZTdXRXU5emhnQ0h3anh4R0ozWlVIbkxXQnN3d0RwdXFRRGZsaDB4Nk1oQXRRSnFRZ3E5WG1pYjBOc2lxemNUTkJObjllMVRIZU5NZUdpZHJiMHF3SGs1N0VxMmdWQkZBdlo3UTFxUFU1MUpCbVFLeDNTclBPd25BVHlOZnNtbFhtZWl1clhfMEdrNVJXb0hJQ2hhTGFWcF9CdFFsUGJKV1R2N3pGSzlpNFFCN0kwaFpWVmtSN3c?oc=5"
+          },
+          {
+            "label": "36Kr：OpenClaw，崩了 - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSDVsOGNUaGc3MGhGY2Jub0pWTi1NeC1Rc0ZmVUprOU9QTmFLYklFaWd3TC1RTDdxMUJ6Q0dGSzB6VDFESUVpc1dPb2VNQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260625-auto-2-2e9bb7",
+        "title": "Cursor’s GitHub Ri",
+        "category": "开源项目",
+        "date": "2026-06-25",
+        "summary": "Cursor’s GitHub Rival Origin and New SpaceX Model",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cursor’s GitHub Ri 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Cursor’s GitHub Rival Origin and New SpaceX Model",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cursor’s GitHub Rival Origin and New SpaceX Model",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFF6aV9sZTdXRXU5emhnQ0h3anh4R0ozWlVIbkxXQnN3d0RwdXFRRGZsaDB4Nk1oQXRRSnFRZ3E5WG1pYjBOc2lxemNUTkJObjllMVRIZU5NZUdpZHJiMHF3SGs1N0VxMmdWQkZBdlo3UTFxUFU1MUpCbVFLeDNTclBPd25BVHlOZnNtbFhtZWl1clhfMEdrNVJXb0hJQ2hhTGFWcF9CdFFsUGJKV1R2N3pGSzlpNFFCN0kwaFpWVmtSN3c?oc=5"
+          },
+          {
+            "label": "36Kr：AI 开始网暴人类了，OpenClaw 被拒后怒发「小作文」开撕，网友：我站 AI - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSDVsOGNUaGc3MGhGY2Jub0pWTi1NeC1Rc0ZmVUprOU9QTmFLYklFaWd3TC1RTDdxMUJ6Q0dGSzB6VDFESUVpc1dPb2VNQQ?oc=5"
+          },
+          {
+            "label": "36Kr：OpenClaw，崩了 - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFF6aV9sZTdXRXU5emhnQ0h3anh4R0ozWlVIbkxXQnN3d0RwdXFRRGZsaDB4Nk1oQXRRSnFRZ3E5WG1pYjBOc2lxemNUTkJObjllMVRIZU5NZUdpZHJiMHF3SGs1N0VxMmdWQkZBdlo3UTFxUFU1MUpCbVFLeDNTclBPd25BVHlOZnNtbFhtZWl1clhfMEdrNVJXb0hJQ2hhTGFWcF9CdFFsUGJKV1R2N3pGSzlpNFFCN0kwaFpWVmtSN3c?oc=5"
+      },
       {
         "slug": "open-source-20260624-auto-1-8138e8",
         "title": "Exabeam Launches O",
