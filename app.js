@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260626-auto-1-401715",
+        "title": "AI: Google in the",
+        "category": "AI新闻",
+        "date": "2026-06-26",
+        "summary": "AI: Google in the hot-seat to accelerate AI Coding",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Google in the 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI: Google in the hot-seat to accelerate AI Coding",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Google in the hot-seat to accelerate AI Coding",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWml6TFh6UUxrUHVFbndmNlkyRFJ4eE5vT3N2SXVVM0FJWTRFYjh4SmdpYTEzaDlWdzM5bkw1c0U5Z0ZqNEdaSlByb0NsNGdOcHNCb3g4UXYyUS1USGRIQkY1Z3RPMXJNdjJEZWtBSWRvRlF1V3ctUG82ckR3R181WEV3?oc=5"
+          },
+          {
+            "label": "新京报：“AI+招投标”，科大讯飞发布招采全链路AI智能体平台 - 新京报",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VR1ZaVUI4RUhxNFp4bDFpZ2Z6Z1VSWkk5a2NVUDJ1cU93SVZjODlaWVViNzJrRU54UmQtZjNhZjdWdTltc244TDEwQURQUk9UbVBBblo0UmpNMldOXzRxZlhPOWE?oc=5"
+          },
+          {
+            "label": "新浪网：探寻人工智能2026｜对话张亚勤：智能体落地提速，中国基建构筑AI竞争优势 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVnNHVEdYVHQ3Y2dNT2dWa2ExVlFkckVMTC1ZM0p5RE9QVWtnQkJwekdNZ1dsTm5hcXNRcjZsUzJMMlNtVXFWNUw5bENZekxZa19uVDB3QWVwLXBwS1VfSmh2YmZtUzBSd0RKNzY3cDl6Q0Yxc3BaUUhXT2hMUQ?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWml6TFh6UUxrUHVFbndmNlkyRFJ4eE5vT3N2SXVVM0FJWTRFYjh4SmdpYTEzaDlWdzM5bkw1c0U5Z0ZqNEdaSlByb0NsNGdOcHNCb3g4UXYyUS1USGRIQkY1Z3RPMXJNdjJEZWtBSWRvRlF1V3ctUG82ckR3R181WEV3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260626-auto-2-e949a9",
+        "title": "“AI+招投标”，科大讯飞发布招采全",
+        "category": "AI新闻",
+        "date": "2026-06-26",
+        "summary": "“AI+招投标”，科大讯飞发布招采全链路AI智能体平台 新京报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“AI+招投标”，科大讯飞发布招采全 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“AI+招投标”，科大讯飞发布招采全链路AI智能体平台 新京报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“AI+招投标”，科大讯飞发布招采全链路AI智能体平台 新京报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新京报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VR1ZaVUI4RUhxNFp4bDFpZ2Z6Z1VSWkk5a2NVUDJ1cU93SVZjODlaWVViNzJrRU54UmQtZjNhZjdWdTltc244TDEwQURQUk9UbVBBblo0UmpNMldOXzRxZlhPOWE?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Google in the hot-seat to accelerate AI Coding. AI-RTZ #1129 - AI:",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWml6TFh6UUxrUHVFbndmNlkyRFJ4eE5vT3N2SXVVM0FJWTRFYjh4SmdpYTEzaDlWdzM5bkw1c0U5Z0ZqNEdaSlByb0NsNGdOcHNCb3g4UXYyUS1USGRIQkY1Z3RPMXJNdjJEZWtBSWRvRlF1V3ctUG82ckR3R181WEV3?oc=5"
+          },
+          {
+            "label": "新浪网：探寻人工智能2026｜对话张亚勤：智能体落地提速，中国基建构筑AI竞争优势 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xVnNHVEdYVHQ3Y2dNT2dWa2ExVlFkckVMTC1ZM0p5RE9QVWtnQkJwekdNZ1dsTm5hcXNRcjZsUzJMMlNtVXFWNUw5bENZekxZa19uVDB3QWVwLXBwS1VfSmh2YmZtUzBSd0RKNzY3cDl6Q0Yxc3BaUUhXT2hMUQ?oc=5"
+          }
+        ],
+        "source": "新京报",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VR1ZaVUI4RUhxNFp4bDFpZ2Z6Z1VSWkk5a2NVUDJ1cU93SVZjODlaWVViNzJrRU54UmQtZjNhZjdWdTltc244TDEwQURQUk9UbVBBblo0UmpNMldOXzRxZlhPOWE?oc=5"
+      },
+      {
         "slug": "ai-news-20260625-auto-1-c66b33",
         "title": "Cybersecurity in t",
         "category": "AI新闻",
@@ -10375,6 +10491,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260626-auto-1-a62afc",
+        "title": "几块钱抹掉AI生成图水印绕过平台！去",
+        "category": "AI使用教程",
+        "date": "2026-06-26",
+        "summary": "几块钱抹掉AI生成图水印绕过平台！去AI标识工具藏风险 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "几块钱抹掉AI生成图水印绕过平台！去 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "几块钱抹掉AI生成图水印绕过平台！去AI标识工具藏风险 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "几块钱抹掉AI生成图水印绕过平台！去AI标识工具藏风险 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHJ6VDJ2NWtmVFRJYjZFZmhVV1RTendlMjhFWUZNblR3bVJya3ItdWhiZ092RE5zeUJwbmViRWhNX0IzN2xFSDdLZkZIWWVzNENmR2FlRXlqNTRZajhENF9XT2JyaHRGVGthSGJncF93THI1MFVZaHQzbWlXOE9GUjlZVGZ4NDdM?oc=5"
+          },
+          {
+            "label": "新浪财经：员工无需每月敲提示词：微软Excel测试AI Skill，复用财务流程 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zTUw3SThSQmNRTzJGcVhtM0tZSG1sUXV1bWgtVWl1bzJkazFTdHd1eUhHRFB5M3F6VExmOXZ4RjJ2a3J5ZWpMVDh5M081UVVEdXNWVUY2MW1ka2FLVkF0SFVyM0NlUHhNdFhaVzBkSFo?oc=5"
+          },
+          {
+            "label": "新浪财经：员工无需每月敲提示词：微软 Excel 测试 AI Skills，复用财务流程 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZWxDSVZ2SlFKUU5HWFNueUpWeENLamRua3ZGZU5qbHoyb3J3RVB3Z1RrUDJCV2ZPcHZNSWhxSTJWcGpkZ1BLS3VvYWxkbllPZnNLVEF2X2w1aU56cHVERVQ4YXVNSHJRLWlSLWNMRnBVT1hMNEZ4MmVSMjhNNzA?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHJ6VDJ2NWtmVFRJYjZFZmhVV1RTendlMjhFWUZNblR3bVJya3ItdWhiZ092RE5zeUJwbmViRWhNX0IzN2xFSDdLZkZIWWVzNENmR2FlRXlqNTRZajhENF9XT2JyaHRGVGthSGJncF93THI1MFVZaHQzbWlXOE9GUjlZVGZ4NDdM?oc=5"
+      },
+      {
         "slug": "ai-guide-20260625-auto-1-e592e0",
         "title": "The Agentic Awaken",
         "category": "AI使用教程",
@@ -14985,6 +15159,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260626-auto-1-5e5d41",
+        "title": "China’s Zhipu AI s",
+        "category": "开源项目",
+        "date": "2026-06-26",
+        "summary": "China’s Zhipu AI sparks new ‘DeepSeek moment’ with",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China’s Zhipu AI s 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China’s Zhipu AI sparks new ‘DeepSeek moment’ with",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China’s Zhipu AI sparks new ‘DeepSeek moment’ with",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "South China Morning Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzBMYVBtQ09hTU1Od3djUUFqa3Exb0I2TVR6d0dVcGg0blNPTXZVZHF2amhCWXB4MzRIQV9QT1d0VGc0V242cVJMeVBHM3JqbzFlQ24wQmJhSWpkWEZ2eTJvUk9IUHN6Y2VYNDJBVHNUR2RMNkVWS0luS0lqM29KZURoekxjT3VDcVVyTDNfLVJTVjhlUVp0cXdaQVBXUlFIdG5CeWlRM25ZajBuelcwNUY5R3VkX0VzRWgxNUx30gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5"
+          },
+          {
+            "label": "驱动之家：深开鸿CEO王成录：开源鸿蒙是AI落地千行百业的必经桥梁 - 驱动之家",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9reDBNbHY5TkMydG13Unl5MWRLWm1LWTdDR2RYdTd3VktfYXd2cW52X2dtYWdibWZ2NHRkbloxcklwNmx3TmV4RXRuVGZxUnlyZEk3NjQ5T3I?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：中国大模型跻身全球AI第一梯队，开源改写中西方竞争规则！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JM3RIVXBEMkpCYjRkRGxZTTNDZG1LUVBhRFA3M2hYV3loejRtTDJYa1RoSXpVLUE4OXV3RnlleEZveHRJNHZ3SW9GMjZkVjVfT21WRFh2MUdCV3FiVVh1RFNad3ZKMWM?oc=5"
+          }
+        ],
+        "source": "South China Morning Post",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzBMYVBtQ09hTU1Od3djUUFqa3Exb0I2TVR6d0dVcGg0blNPTXZVZHF2amhCWXB4MzRIQV9QT1d0VGc0V242cVJMeVBHM3JqbzFlQ24wQmJhSWpkWEZ2eTJvUk9IUHN6Y2VYNDJBVHNUR2RMNkVWS0luS0lqM29KZURoekxjT3VDcVVyTDNfLVJTVjhlUVp0cXdaQVBXUlFIdG5CeWlRM25ZajBuelcwNUY5R3VkX0VzRWgxNUx30gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5"
+      },
+      {
+        "slug": "open-source-20260626-auto-2-ee7319",
+        "title": "深开鸿CEO王成录：开源鸿蒙是AI落",
+        "category": "开源项目",
+        "date": "2026-06-26",
+        "summary": "深开鸿CEO王成录：开源鸿蒙是AI落地千行百业的必经桥梁 驱动之家",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "深开鸿CEO王成录：开源鸿蒙是AI落 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "深开鸿CEO王成录：开源鸿蒙是AI落地千行百业的必经桥梁 驱动之家",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "深开鸿CEO王成录：开源鸿蒙是AI落地千行百业的必经桥梁 驱动之家",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "驱动之家：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9reDBNbHY5TkMydG13Unl5MWRLWm1LWTdDR2RYdTd3VktfYXd2cW52X2dtYWdibWZ2NHRkbloxcklwNmx3TmV4RXRuVGZxUnlyZEk3NjQ5T3I?oc=5"
+          },
+          {
+            "label": "South China Morning Post：China’s Zhipu AI sparks new ‘DeepSeek moment’ with cost-effective codi",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzBMYVBtQ09hTU1Od3djUUFqa3Exb0I2TVR6d0dVcGg0blNPTXZVZHF2amhCWXB4MzRIQV9QT1d0VGc0V242cVJMeVBHM3JqbzFlQ24wQmJhSWpkWEZ2eTJvUk9IUHN6Y2VYNDJBVHNUR2RMNkVWS0luS0lqM29KZURoekxjT3VDcVVyTDNfLVJTVjhlUVp0cXdaQVBXUlFIdG5CeWlRM25ZajBuelcwNUY5R3VkX0VzRWgxNUx30gG-AUFVX3lxTE4zMExhUG1DT2FNTU53d2NRQWprcTFvQjZNVHp3R1VwaDRuU09NdlVkcXZqaEJZcHgzNEhBX1BPV3RUZzRXbjZxUkx5UEczcmpvMWVDbjBCYmFJamRYRnZ5Mm9ST0hQc3pjZVg0MkFUc1RHZEw2RVZLSW5LSWozb0plRGh6TGNPdUNxVXJMM18tUlNWOGVRWnRxd1pBUFdSUUh0bkJ5aVEzbllqMG56VzA1RjlHdWRfRXNFaDE1THc?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：中国大模型跻身全球AI第一梯队，开源改写中西方竞争规则！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JM3RIVXBEMkpCYjRkRGxZTTNDZG1LUVBhRFA3M2hYV3loejRtTDJYa1RoSXpVLUE4OXV3RnlleEZveHRJNHZ3SW9GMjZkVjVfT21WRFh2MUdCV3FiVVh1RFNad3ZKMWM?oc=5"
+          }
+        ],
+        "source": "驱动之家",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9reDBNbHY5TkMydG13Unl5MWRLWm1LWTdDR2RYdTd3VktfYXd2cW52X2dtYWdibWZ2NHRkbloxcklwNmx3TmV4RXRuVGZxUnlyZEk3NjQ5T3I?oc=5"
+      },
       {
         "slug": "open-source-20260625-auto-1-b69c7f",
         "title": "AI 开始网暴人类了，OpenCla",
