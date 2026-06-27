@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260627-auto-1-5cfb9e",
+        "title": "中关村两院孵化企业累计融资超8亿元",
+        "category": "AI新闻",
+        "date": "2026-06-27",
+        "summary": "中关村两院孵化企业累计融资超8亿元 新京报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中关村两院孵化企业累计融资超8亿元 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "中关村两院孵化企业累计融资超8亿元 新京报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "中关村两院孵化企业累计融资超8亿元 新京报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新京报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWG1TVE44czB5dF9XaXpETDVZNjYxeFh3T1FKLXVwRHNaSmhWNHR3cEFtRHRwV29FemJrQXRyb0pPc1BnSVFnZnpmVVdYLXRtbndRY3R5bnk2TkFNN0JyZXFpSTA?oc=5"
+          },
+          {
+            "label": "新浪网：数智文旅、人工智能学院实训实习启航，精准护航学子职场起步 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INkRfaWlYUGZWeElFMmpWWnM0NjBKaXJPSlZMQm9MOTNrR2ZKTGo2Q1VoRzhZVk1QUkVjM1lQR0g2RlhydFNlVS1aY1NLZW9DVW41RVhnamxoc3ZHaXpjZWIxQ3RVbnN3VlVWQzBBMXlYWWRvTnhpbVVwQ2w?oc=5"
+          },
+          {
+            "label": "新浪网：DeepSeek公司今年4月增资 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQm0yM3czRloyMVA3MXVablFkODNaNXktUmN6MGx4U1NZTkNZS0hDWVVKOTNGR2hrV3BvN0hBQk5SY1E0cXBvSXB6dWhzaDlkM21OWWNIeTU0RUJGNTJPY1FmSjFUdXRtcUNYc1VwVkpkOEtScEJvcHQyT2dWRnl6VWpJSQ?oc=5"
+          }
+        ],
+        "source": "新京报",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWG1TVE44czB5dF9XaXpETDVZNjYxeFh3T1FKLXVwRHNaSmhWNHR3cEFtRHRwV29FemJrQXRyb0pPc1BnSVFnZnpmVVdYLXRtbndRY3R5bnk2TkFNN0JyZXFpSTA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260627-auto-2-4f04a5",
+        "title": "数智文旅、人工智能学院实训实习启航，",
+        "category": "AI新闻",
+        "date": "2026-06-27",
+        "summary": "数智文旅、人工智能学院实训实习启航，精准护航学子职场起步 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "数智文旅、人工智能学院实训实习启航， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "数智文旅、人工智能学院实训实习启航，精准护航学子职场起步 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "数智文旅、人工智能学院实训实习启航，精准护航学子职场起步 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INkRfaWlYUGZWeElFMmpWWnM0NjBKaXJPSlZMQm9MOTNrR2ZKTGo2Q1VoRzhZVk1QUkVjM1lQR0g2RlhydFNlVS1aY1NLZW9DVW41RVhnamxoc3ZHaXpjZWIxQ3RVbnN3VlVWQzBBMXlYWWRvTnhpbVVwQ2w?oc=5"
+          },
+          {
+            "label": "新京报：中关村两院孵化企业累计融资超8亿元 - 新京报",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IWG1TVE44czB5dF9XaXpETDVZNjYxeFh3T1FKLXVwRHNaSmhWNHR3cEFtRHRwV29FemJrQXRyb0pPc1BnSVFnZnpmVVdYLXRtbndRY3R5bnk2TkFNN0JyZXFpSTA?oc=5"
+          },
+          {
+            "label": "新浪网：DeepSeek公司今年4月增资 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQm0yM3czRloyMVA3MXVablFkODNaNXktUmN6MGx4U1NZTkNZS0hDWVVKOTNGR2hrV3BvN0hBQk5SY1E0cXBvSXB6dWhzaDlkM21OWWNIeTU0RUJGNTJPY1FmSjFUdXRtcUNYc1VwVkpkOEtScEJvcHQyT2dWRnl6VWpJSQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1INkRfaWlYUGZWeElFMmpWWnM0NjBKaXJPSlZMQm9MOTNrR2ZKTGo2Q1VoRzhZVk1QUkVjM1lQR0g2RlhydFNlVS1aY1NLZW9DVW41RVhnamxoc3ZHaXpjZWIxQ3RVbnN3VlVWQzBBMXlYWWRvTnhpbVVwQ2w?oc=5"
+      },
+      {
         "slug": "ai-news-20260626-auto-1-401715",
         "title": "AI: Google in the",
         "category": "AI新闻",
@@ -10491,6 +10607,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260627-auto-1-493dab",
+        "title": "员工无需每月敲提示词：微软Excel",
+        "category": "AI使用教程",
+        "date": "2026-06-27",
+        "summary": "员工无需每月敲提示词：微软Excel测试AI Skill，复用财务流程 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "员工无需每月敲提示词：微软Excel 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "员工无需每月敲提示词：微软Excel测试AI Skill，复用财务流程 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "员工无需每月敲提示词：微软Excel测试AI Skill，复用财务流程 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Z2NZMHYzVndqd3BRdGdYV0ZwVkpXQ3hEUXpxMVlYMFZDa1dGRFlmWHBNNTQtUURSZlNPQ1VlR1lHSjcwdmYxbkRSUjIydE9JdUpMb29XbWRpckp6eU50UmVwTDJvVXJpeVNUb0prMmZMZU9RdkJlMWNfREN0dw?oc=5"
+          },
+          {
+            "label": "Design News：A Practical Guide to Spec-Driven Development With AI - Design News",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZGRJSGdGM3o2clN3VDBhbUR3V0duUHZsQW9LSW94RHMzMl90R2p4WkZ5U2pENEVrT0prbFl0SjhXR25maHVfX3BiVzR5Mi1QRWtYOVhFVGQwQnZ4cjJNX1g4NkM5SXd2cFNzbkdPSVBEZmJ4R0xUZFc4Vl9SWl9temRSY3dGaUx3bmZ0S3JMckt4T3RHS2laWFBFOWg?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10Z2NZMHYzVndqd3BRdGdYV0ZwVkpXQ3hEUXpxMVlYMFZDa1dGRFlmWHBNNTQtUURSZlNPQ1VlR1lHSjcwdmYxbkRSUjIydE9JdUpMb29XbWRpckp6eU50UmVwTDJvVXJpeVNUb0prMmZMZU9RdkJlMWNfREN0dw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260626-auto-1-a62afc",
         "title": "几块钱抹掉AI生成图水印绕过平台！去",
         "category": "AI使用教程",
@@ -15159,6 +15333,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260627-auto-1-8daac4",
+        "title": "Deloitte加入IBM与Red",
+        "category": "开源项目",
+        "date": "2026-06-27",
+        "summary": "Deloitte加入IBM与Red Hat开源安全计划Lightwell 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Deloitte加入IBM与Red 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Deloitte加入IBM与Red Hat开源安全计划Lightwell 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Deloitte加入IBM与Red Hat开源安全计划Lightwell 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbElsQnJMeTRBTDRGbXFuMFd2a0wyMzB2TVNlOXBqOHdnOW1uVWgzZFRhYVo0ZjlWSm1uZFlaV1NmYUpXaVlCU2hjVEExaXdLTWZFQVhGcFMyN0ZlQnNaLTNlbllPaFNZbTExYWVrQWZaNFpJQ1FKdFVTTnlqMEJoVEZKQ0VjTm5YN1o3LXBxTHBzMGl4U3AyMlZIeS1fdFRMeGlsdFhlSmJiaGpqN2JLU21vUQ?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：苹果新 Siri AI 功能强大但升级成本高，旧款设备提价引关注 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaFM0V0JpRFpRZTNIMk1sZjhqVl9HSU5lVmI4ZXU0TlJNU3dtWkd3aVFXREU3ZkxaS3JPd3c4UEhtenB0U0luTWFnUjV2bjVVUU9TWmc5VnVEaTJYOGRRTXlSR3ZIVUs5b0dV?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：AI需求致内存成本飙升，Arduino、苹果、微软硬件产品纷纷提价！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42YVBaUWhwV0JTSUJMOWp3VG9tLUxwaUNvSmxQZlptcklwYUl5X05PcmVrWHdLemkwTG1FTnBqMFFoQ2YyYjMyc2lmbXJtSFFocERJUXBzZlpFSTBfVnZwX1lwZlBURWVEUXFF?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbElsQnJMeTRBTDRGbXFuMFd2a0wyMzB2TVNlOXBqOHdnOW1uVWgzZFRhYVo0ZjlWSm1uZFlaV1NmYUpXaVlCU2hjVEExaXdLTWZFQVhGcFMyN0ZlQnNaLTNlbllPaFNZbTExYWVrQWZaNFpJQ1FKdFVTTnlqMEJoVEZKQ0VjTm5YN1o3LXBxTHBzMGl4U3AyMlZIeS1fdFRMeGlsdFhlSmJiaGpqN2JLU21vUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260627-auto-2-6ac0b1",
+        "title": "苹果新 Siri AI 功能强大但升",
+        "category": "开源项目",
+        "date": "2026-06-27",
+        "summary": "苹果新 Siri AI 功能强大但升级成本高，旧款设备提价引关注 blog.csdn.net",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "苹果新 Siri AI 功能强大但升 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "苹果新 Siri AI 功能强大但升级成本高，旧款设备提价引关注 blog.csdn.net",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "苹果新 Siri AI 功能强大但升级成本高，旧款设备提价引关注 blog.csdn.net",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.csdn.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaFM0V0JpRFpRZTNIMk1sZjhqVl9HSU5lVmI4ZXU0TlJNU3dtWkd3aVFXREU3ZkxaS3JPd3c4UEhtenB0U0luTWFnUjV2bjVVUU9TWmc5VnVEaTJYOGRRTXlSR3ZIVUs5b0dV?oc=5"
+          },
+          {
+            "label": "디지털투데이：Deloitte加入IBM与Red Hat开源安全计划Lightwell - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbElsQnJMeTRBTDRGbXFuMFd2a0wyMzB2TVNlOXBqOHdnOW1uVWgzZFRhYVo0ZjlWSm1uZFlaV1NmYUpXaVlCU2hjVEExaXdLTWZFQVhGcFMyN0ZlQnNaLTNlbllPaFNZbTExYWVrQWZaNFpJQ1FKdFVTTnlqMEJoVEZKQ0VjTm5YN1o3LXBxTHBzMGl4U3AyMlZIeS1fdFRMeGlsdFhlSmJiaGpqN2JLU21vUQ?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：AI需求致内存成本飙升，Arduino、苹果、微软硬件产品纷纷提价！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42YVBaUWhwV0JTSUJMOWp3VG9tLUxwaUNvSmxQZlptcklwYUl5X05PcmVrWHdLemkwTG1FTnBqMFFoQ2YyYjMyc2lmbXJtSFFocERJUXBzZlpFSTBfVnZwX1lwZlBURWVEUXFF?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oaFM0V0JpRFpRZTNIMk1sZjhqVl9HSU5lVmI4ZXU0TlJNU3dtWkd3aVFXREU3ZkxaS3JPd3c4UEhtenB0U0luTWFnUjV2bjVVUU9TWmc5VnVEaTJYOGRRTXlSR3ZIVUs5b0dV?oc=5"
+      },
       {
         "slug": "open-source-20260626-auto-1-5e5d41",
         "title": "China’s Zhipu AI s",
