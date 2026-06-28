@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260628-auto-1-e9ceb5",
+        "title": "India's UPI Chief",
+        "category": "AI新闻",
+        "date": "2026-06-28",
+        "summary": "India's UPI Chief Sees AI as Key to Next Payment W",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "India's UPI Chief 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "India's UPI Chief Sees AI as Key to Next Payment W",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "India's UPI Chief Sees AI as Key to Next Payment W",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Tech Buzz：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHZXWXd2TGstRnlkRE1OTWpMOGZiaVh0TDFWeXE3QWZWVVFOcDY0dGY1Y3Y2MTU2Q19xUzdXWTFZd09fT0NEYXNoejU2VTlWSG1kdkFScnhNak5HTGloOXhwTVlXMWNrTUdMZEFQU3dHYXVyemFvbU9tY0VLSkd3Y1poRk10WVNBTndzUUF5dw?oc=5"
+          },
+          {
+            "label": "1News：Is the AI water panic real? - 1News",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWNmVlIxdFBqeVZ3ZzR4eHIzam5nNVBscEVtajBWSDlYQUJxd3ZTTENqcDY1S042UWdUd0R5Qk1hd3BSUXRaN1RRVVBfQjIxbTZwTHhWbUdnQmdMcE9XQXI5MHI4Y0kzcTR2cW4wdw?oc=5"
+          },
+          {
+            "label": "36 Kr：谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTEVhV1A4ZGNybkM3a0VPc0drZGJ4aTIxcXh4MzlRd0pLYnd5Q1JrRHJtNW1pZDJCZ09qWl96c1JUckpTNXRlSWRTSWdkYlpEZUxkZ3hVY1l1anJXZEE?oc=5"
+          }
+        ],
+        "source": "The Tech Buzz",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHZXWXd2TGstRnlkRE1OTWpMOGZiaVh0TDFWeXE3QWZWVVFOcDY0dGY1Y3Y2MTU2Q19xUzdXWTFZd09fT0NEYXNoejU2VTlWSG1kdkFScnhNak5HTGloOXhwTVlXMWNrTUdMZEFQU3dHYXVyemFvbU9tY0VLSkd3Y1poRk10WVNBTndzUUF5dw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260628-auto-2-f43363",
+        "title": "Is the AI water pa",
+        "category": "AI新闻",
+        "date": "2026-06-28",
+        "summary": "Is the AI water panic real? 1News",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Is the AI water pa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Is the AI water panic real? 1News",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Is the AI water panic real? 1News",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "1News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWNmVlIxdFBqeVZ3ZzR4eHIzam5nNVBscEVtajBWSDlYQUJxd3ZTTENqcDY1S042UWdUd0R5Qk1hd3BSUXRaN1RRVVBfQjIxbTZwTHhWbUdnQmdMcE9XQXI5MHI4Y0kzcTR2cW4wdw?oc=5"
+          },
+          {
+            "label": "The Tech Buzz：India's UPI Chief Sees AI as Key to Next Payment Wave - The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZHZXWXd2TGstRnlkRE1OTWpMOGZiaVh0TDFWeXE3QWZWVVFOcDY0dGY1Y3Y2MTU2Q19xUzdXWTFZd09fT0NEYXNoejU2VTlWSG1kdkFScnhNak5HTGloOXhwTVlXMWNrTUdMZEFQU3dHYXVyemFvbU9tY0VLSkd3Y1poRk10WVNBTndzUUF5dw?oc=5"
+          },
+          {
+            "label": "36 Kr：谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTEVhV1A4ZGNybkM3a0VPc0drZGJ4aTIxcXh4MzlRd0pLYnd5Q1JrRHJtNW1pZDJCZ09qWl96c1JUckpTNXRlSWRTSWdkYlpEZUxkZ3hVY1l1anJXZEE?oc=5"
+          }
+        ],
+        "source": "1News",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VMWNmVlIxdFBqeVZ3ZzR4eHIzam5nNVBscEVtajBWSDlYQUJxd3ZTTENqcDY1S042UWdUd0R5Qk1hd3BSUXRaN1RRVVBfQjIxbTZwTHhWbUdnQmdMcE9XQXI5MHI4Y0kzcTR2cW4wdw?oc=5"
+      },
+      {
         "slug": "ai-news-20260627-auto-1-5cfb9e",
         "title": "中关村两院孵化企业累计融资超8亿元",
         "category": "AI新闻",
@@ -10607,6 +10723,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260628-auto-1-7fe875",
+        "title": "AI音乐独角兽估值冲上54亿美元 “",
+        "category": "AI使用教程",
+        "date": "2026-06-28",
+        "summary": "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI音乐独角兽估值冲上54亿美元 “ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "财联社：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "Blockchain Council：Common Mistakes in Claude Prompting and Claude Looping - How to Avoid ",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVGxJekJBclJhQmZkQ1NEYjBpMEx0Rmc2WHVrRE1rQnctTzVSSTJpVUZGd19nc3hscnBOSEtiOTNGMzB3dDFnQWNIM0RXTkw2eTljNGplMThoNENKX0J5YWdlMURSWEpZTTlxOWZXUk1NSzVQZ1hWbE5yMlpUdmdHS2dkOW9qYV9FeXVzeWMxMA?oc=5"
+          },
+          {
+            "label": "Ventureburn：10 Best AI Productivity Apps in 2026 (Categorized Guide) - Ventureburn",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5"
+          }
+        ],
+        "source": "财联社",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260627-auto-1-493dab",
         "title": "员工无需每月敲提示词：微软Excel",
         "category": "AI使用教程",
@@ -15333,6 +15507,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260628-auto-1-b2f6a2",
+        "title": "Liquid AI Ships LF",
+        "category": "开源项目",
+        "date": "2026-06-28",
+        "summary": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, v",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Liquid AI Ships LF 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, v",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, v",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlNJdnBmOE02Q2M2RlJxbVdKZFhEbHlzTTlMZmZSVF9MUnE3X09XdzZvTkFFN0tieWdxdzNRRURuSGJqTGpVck1kOHNaeURPbm50V3VXeTRVaVlHY0JKWjBxRUtOUHhSejU0MjVpSDFidV9KSkg4YnZSOEhBYXV6UTFablM2c3pBWmlRY3ZNX0ZrQ3NfNFk3Q3QyTVlsR2wybkptQ1RYc0dabW5QMXFMcVJ5a0dDMVM1N2hNUkJlMXR1eF82NkhLN0loUUlsVnBsSkRFR2F3dw?oc=5"
+          },
+          {
+            "label": "Telecom Review Asia：OpenAN Launched to Build an Open Foundation for Autonomous Networks Le",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOF9pZU5sMk9ZNTVQWngxRGRQUm00WUs3SVNiS18wVFVDTUFLZDI2X2I4NG52UWY4akhwemZpYjBEN1YtSmN5NjFpRkh4Q2Fxa3BhQlJkSnlIZVFRNjZtV00yMXdYeElVa3Y3Q2tnZ1hMWFNFX1pKRjZBN2QxckVMeWlPQU1kNTdNZXZ4LUY1YXAwT2VXZUxTbzFSSmVZT0d4MTNaWjZpRE9hSFlYN20zLXNsS2dyRnpSVWdBeFg0bDhzSTdvTTk3UG5WQjhaeVhxV3FkLWlnMThlckt6am9j?oc=5"
+          },
+          {
+            "label": "GIGAZINE：Elmo is a free AI-powered optimization (AEO) tool that allows you to c",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wb1dQb3FzOEhJUVBRYk5jVkkyV0lITk53UDJhQjFTeTIzdmhZVjAyT0FLcHJLTTdhZVFRZU9ucUg3VjNDTWkyV1AtbnIxVmFVSHBMR09GVWVZSFU?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlNJdnBmOE02Q2M2RlJxbVdKZFhEbHlzTTlMZmZSVF9MUnE3X09XdzZvTkFFN0tieWdxdzNRRURuSGJqTGpVck1kOHNaeURPbm50V3VXeTRVaVlHY0JKWjBxRUtOUHhSejU0MjVpSDFidV9KSkg4YnZSOEhBYXV6UTFablM2c3pBWmlRY3ZNX0ZrQ3NfNFk3Q3QyTVlsR2wybkptQ1RYc0dabW5QMXFMcVJ5a0dDMVM1N2hNUkJlMXR1eF82NkhLN0loUUlsVnBsSkRFR2F3dw?oc=5"
+      },
+      {
+        "slug": "open-source-20260628-auto-2-989c74",
+        "title": "OpenAN Launched to",
+        "category": "开源项目",
+        "date": "2026-06-28",
+        "summary": "OpenAN Launched to Build an Open Foundation for Au",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAN Launched to 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenAN Launched to Build an Open Foundation for Au",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAN Launched to Build an Open Foundation for Au",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Telecom Review Asia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOF9pZU5sMk9ZNTVQWngxRGRQUm00WUs3SVNiS18wVFVDTUFLZDI2X2I4NG52UWY4akhwemZpYjBEN1YtSmN5NjFpRkh4Q2Fxa3BhQlJkSnlIZVFRNjZtV00yMXdYeElVa3Y3Q2tnZ1hMWFNFX1pKRjZBN2QxckVMeWlPQU1kNTdNZXZ4LUY1YXAwT2VXZUxTbzFSSmVZT0d4MTNaWjZpRE9hSFlYN20zLXNsS2dyRnpSVWdBeFg0bDhzSTdvTTk3UG5WQjhaeVhxV3FkLWlnMThlckt6am9j?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONN",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMlNJdnBmOE02Q2M2RlJxbVdKZFhEbHlzTTlMZmZSVF9MUnE3X09XdzZvTkFFN0tieWdxdzNRRURuSGJqTGpVck1kOHNaeURPbm50V3VXeTRVaVlHY0JKWjBxRUtOUHhSejU0MjVpSDFidV9KSkg4YnZSOEhBYXV6UTFablM2c3pBWmlRY3ZNX0ZrQ3NfNFk3Q3QyTVlsR2wybkptQ1RYc0dabW5QMXFMcVJ5a0dDMVM1N2hNUkJlMXR1eF82NkhLN0loUUlsVnBsSkRFR2F3dw?oc=5"
+          },
+          {
+            "label": "GIGAZINE：Elmo is a free AI-powered optimization (AEO) tool that allows you to c",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wb1dQb3FzOEhJUVBRYk5jVkkyV0lITk53UDJhQjFTeTIzdmhZVjAyT0FLcHJLTTdhZVFRZU9ucUg3VjNDTWkyV1AtbnIxVmFVSHBMR09GVWVZSFU?oc=5"
+          }
+        ],
+        "source": "Telecom Review Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOF9pZU5sMk9ZNTVQWngxRGRQUm00WUs3SVNiS18wVFVDTUFLZDI2X2I4NG52UWY4akhwemZpYjBEN1YtSmN5NjFpRkh4Q2Fxa3BhQlJkSnlIZVFRNjZtV00yMXdYeElVa3Y3Q2tnZ1hMWFNFX1pKRjZBN2QxckVMeWlPQU1kNTdNZXZ4LUY1YXAwT2VXZUxTbzFSSmVZT0d4MTNaWjZpRE9hSFlYN20zLXNsS2dyRnpSVWdBeFg0bDhzSTdvTTk3UG5WQjhaeVhxV3FkLWlnMThlckt6am9j?oc=5"
+      },
       {
         "slug": "open-source-20260627-auto-1-8daac4",
         "title": "Deloitte加入IBM与Red",
