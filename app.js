@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260629-auto-1-683a32",
+        "title": "第四届中部智库论坛在武汉召开 - j",
+        "category": "AI新闻",
+        "date": "2026-06-29",
+        "summary": "第四届中部智库论坛在武汉召开 jingjiribao.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "第四届中部智库论坛在武汉召开 - j 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "第四届中部智库论坛在武汉召开 jingjiribao.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "第四届中部智库论坛在武汉召开 jingjiribao.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "jingjiribao.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14UDNJNFJ0Zm1RVzBXWUlrV3hxSmtRYWZ2WXFTTVA3d29hSU02Q2laMTZyWnRsY20wYzZWUkxOYno1VlRXcmZHREFqeFg1cVZEYzJRTTB2TmR6Si0wa3ZnNTB6cw?oc=5"
+          },
+          {
+            "label": "Macau Business：Turing Award Laureate Joseph Sifakis Appointed Chief Scientific Adviso",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2g1em8ycjdmZndDV2tWWmV5SWtMR3ZxLXVxWGdOQXhqSWJMSkNSUlY5SzBIWU8xOEZEdHRuYVY3NFdZTEhrbjBrWkdfRjdlOWhXMjFrYTI3VXV4NmNobjFLalVQdE9EMERfWUFCcy0tMTVJQU1xVEFNekY2ODdkU3dsdHdnLVVTYm4tZnRJdlByTHhVVm9lV2JxWUE0LU1NSTkwdzJPajdwR0RERzhha0hwNkc5bTM3em1sU2VYOVNScHExR0ctYkxkYVhoZlJkSjBBOQ?oc=5"
+          },
+          {
+            "label": "PR Newswire：Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:20",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTm9WTWdBUlEzZmo3SnhBaWFnc0NSbm82WjFFTU53d1FnbFJaNGtYeHhGakhleng1bldVcHFDQ2Qxc3UzM1dCVHFHejdYZFFZazYyZmxPbDF0NjZhTWtOLTBDc3BSX0dUVlJkR3U0NVFQQzI3MDZzQTJidWdYblEzTDljYlNGdVBVUzNxc1JmMUVDY0tLMjhkUUdxNnFhSUtYbzg4eGJlcXJUNDl1UDRSdWl0bXFCSnY0bHVySlhSMWpSU3hEM2tuTEFwckJ4NzVYVUFGUHVlWkZZV1hyTXMyZVNFV19aZEFyYURrdERnSkp4a1pJYnlFWWpZaTNTbGRBLUxPaC03NFZQR2NYdTRMWGljS1c1MDZvdXRIXzNFQQ?oc=5"
+          }
+        ],
+        "source": "jingjiribao.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14UDNJNFJ0Zm1RVzBXWUlrV3hxSmtRYWZ2WXFTTVA3d29hSU02Q2laMTZyWnRsY20wYzZWUkxOYno1VlRXcmZHREFqeFg1cVZEYzJRTTB2TmR6Si0wa3ZnNTB6cw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260629-auto-2-a424e6",
+        "title": "Turing Award Laure",
+        "category": "AI新闻",
+        "date": "2026-06-29",
+        "summary": "Turing Award Laureate Joseph Sifakis Appointed Chi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Turing Award Laure 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Turing Award Laureate Joseph Sifakis Appointed Chi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Turing Award Laureate Joseph Sifakis Appointed Chi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Macau Business：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2g1em8ycjdmZndDV2tWWmV5SWtMR3ZxLXVxWGdOQXhqSWJMSkNSUlY5SzBIWU8xOEZEdHRuYVY3NFdZTEhrbjBrWkdfRjdlOWhXMjFrYTI3VXV4NmNobjFLalVQdE9EMERfWUFCcy0tMTVJQU1xVEFNekY2ODdkU3dsdHdnLVVTYm4tZnRJdlByTHhVVm9lV2JxWUE0LU1NSTkwdzJPajdwR0RERzhha0hwNkc5bTM3em1sU2VYOVNScHExR0ctYkxkYVhoZlJkSjBBOQ?oc=5"
+          },
+          {
+            "label": "jingjiribao.cn：第四届中部智库论坛在武汉召开 - jingjiribao.cn",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14UDNJNFJ0Zm1RVzBXWUlrV3hxSmtRYWZ2WXFTTVA3d29hSU02Q2laMTZyWnRsY20wYzZWUkxOYno1VlRXcmZHREFqeFg1cVZEYzJRTTB2TmR6Si0wa3ZnNTB6cw?oc=5"
+          },
+          {
+            "label": "PR Newswire：Quadrasystems.net Among the First in India to Achieve ISO/IEC 42001:20",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTm9WTWdBUlEzZmo3SnhBaWFnc0NSbm82WjFFTU53d1FnbFJaNGtYeHhGakhleng1bldVcHFDQ2Qxc3UzM1dCVHFHejdYZFFZazYyZmxPbDF0NjZhTWtOLTBDc3BSX0dUVlJkR3U0NVFQQzI3MDZzQTJidWdYblEzTDljYlNGdVBVUzNxc1JmMUVDY0tLMjhkUUdxNnFhSUtYbzg4eGJlcXJUNDl1UDRSdWl0bXFCSnY0bHVySlhSMWpSU3hEM2tuTEFwckJ4NzVYVUFGUHVlWkZZV1hyTXMyZVNFV19aZEFyYURrdERnSkp4a1pJYnlFWWpZaTNTbGRBLUxPaC03NFZQR2NYdTRMWGljS1c1MDZvdXRIXzNFQQ?oc=5"
+          }
+        ],
+        "source": "Macau Business",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc2g1em8ycjdmZndDV2tWWmV5SWtMR3ZxLXVxWGdOQXhqSWJMSkNSUlY5SzBIWU8xOEZEdHRuYVY3NFdZTEhrbjBrWkdfRjdlOWhXMjFrYTI3VXV4NmNobjFLalVQdE9EMERfWUFCcy0tMTVJQU1xVEFNekY2ODdkU3dsdHdnLVVTYm4tZnRJdlByTHhVVm9lV2JxWUE0LU1NSTkwdzJPajdwR0RERzhha0hwNkc5bTM3em1sU2VYOVNScHExR0ctYkxkYVhoZlJkSjBBOQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260628-auto-1-e9ceb5",
         "title": "India's UPI Chief",
         "category": "AI新闻",
@@ -10723,6 +10839,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260629-auto-1-4b293c",
+        "title": "FBI突用AI破案？白宫记者晚宴袭击",
+        "category": "AI使用教程",
+        "date": "2026-06-29",
+        "summary": "FBI突用AI破案？白宫记者晚宴袭击案调查细节曝光 FX168财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FBI突用AI破案？白宫记者晚宴袭击 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "FBI突用AI破案？白宫记者晚宴袭击案调查细节曝光 FX168财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "FBI突用AI破案？白宫记者晚宴袭击案调查细节曝光 FX168财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "FX168财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWlZUzZFRzNSMjVJNW1tVUF1aC1mN0RyODBmVEVYRTJ2dmkyaHNFUEtnWDhWSXZ3dWJTcmVFN0ZyNDhZX2ZrVHJKMTdaWjRtaUhtYjh2MnVPaktJaTd1ZVVmR2xGVk5LZXFBSVc3WDFGOGppcC1mQmJxUW5VdW1iaGVIdi1uREU?oc=5"
+          },
+          {
+            "label": "白鲸出海：OpenAI 最强 AI 模型：GPT-5.6 系列登场，编程跑分超 Claude Mythos 5 - 白鲸出海",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2S28tVWJOY2lVdFVxclBMa3NpNlBJQ1hCZERPYUFBQlkxMF9CZ2lUbkVBRElXeGFWMjBOWERhNXJ2NDJRUFVQR0hGZm51SzVjaVFKalhmMUc?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          }
+        ],
+        "source": "FX168财经",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWlZUzZFRzNSMjVJNW1tVUF1aC1mN0RyODBmVEVYRTJ2dmkyaHNFUEtnWDhWSXZ3dWJTcmVFN0ZyNDhZX2ZrVHJKMTdaWjRtaUhtYjh2MnVPaktJaTd1ZVVmR2xGVk5LZXFBSVc3WDFGOGppcC1mQmJxUW5VdW1iaGVIdi1uREU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260628-auto-1-7fe875",
         "title": "AI音乐独角兽估值冲上54亿美元 “",
         "category": "AI使用教程",
@@ -15507,6 +15681,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260629-auto-1-9de540",
+        "title": "DarkMoon: Open-sou",
+        "category": "开源项目",
+        "date": "2026-06-29",
+        "summary": "DarkMoon: Open-source AI pentesting platform Help",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DarkMoon: Open-sou 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DarkMoon: Open-source AI pentesting platform Help",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DarkMoon: Open-source AI pentesting platform Help",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdERRUmUwUWU2VnF6YjZETHlmbWw3NnFBZEJZM3Q4OEZtUXhHYUxuWEg3Y3ZiblVQaHJnUzhGT1FIMXdiX3haeHNkdDNkVDVvUUNyZUc1NFVLU2JDZDMwZkRHbnpzZDNRdWJ0NnE5MjF2eEc1eXF6OV9BdWllZHgwMUtMYmN5dXV1YXlCLWpiNlc?oc=5"
+          },
+          {
+            "label": "Trend Hunter：Version-Aware Code Indexes - Trend Hunter",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YnR2N3cza2tYZWxYUVplbFpFRm42TER6ZlhmNEE4V3BOSUFHbUpWMm5sOTRtQlBUMGw5a3VRUEdtV1FLS1l4ZzdBbzVjVUEwZFpvMlU2T0FjZFnSAWBBVV95cUxOZllyVzlPZ0lqOWJVbVktVy1tN0U5bUl1azhFZjlXM0FLa2JvNk9SWXRmYTUwdmxXdDVaZEJORFZ2N0dKTldvdW9HemhucTBaQ3NuOXNzcTM4SHFhSVoxdWM?oc=5"
+          },
+          {
+            "label": "Tech Times：Coinbase Cuts AI Spend 50% on Chinese Models: The Legal Risk Its CEO D",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2hIV1pDVm5JcVhOdVAzelpoZVBLd1JlQmdqSVVGSF9tb0tlTFI3bTBtN2V3Ml9ZaHBOb0FTbk9mUHBqYVQ3UGJ4aUNCVEZYUndfSC1yTUJUM1JsanE4c0hXcUY0cUhLdjJnOW9RUWUyNEhkY3gzNjRYaDBzdHctd1hFc0tIT2xxdEhxOUtkcWs5bjY1V2ViVlppbnQ1S0FzbjNiSU8tc1FCU1FxQ2g0MjlMT1p5b18tOWN5QWNlamtHMEU?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdERRUmUwUWU2VnF6YjZETHlmbWw3NnFBZEJZM3Q4OEZtUXhHYUxuWEg3Y3ZiblVQaHJnUzhGT1FIMXdiX3haeHNkdDNkVDVvUUNyZUc1NFVLU2JDZDMwZkRHbnpzZDNRdWJ0NnE5MjF2eEc1eXF6OV9BdWllZHgwMUtMYmN5dXV1YXlCLWpiNlc?oc=5"
+      },
+      {
+        "slug": "open-source-20260629-auto-2-7516d8",
+        "title": "Version-Aware Code",
+        "category": "开源项目",
+        "date": "2026-06-29",
+        "summary": "Version-Aware Code Indexes Trend Hunter",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Version-Aware Code 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Version-Aware Code Indexes Trend Hunter",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Version-Aware Code Indexes Trend Hunter",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Trend Hunter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YnR2N3cza2tYZWxYUVplbFpFRm42TER6ZlhmNEE4V3BOSUFHbUpWMm5sOTRtQlBUMGw5a3VRUEdtV1FLS1l4ZzdBbzVjVUEwZFpvMlU2T0FjZFnSAWBBVV95cUxOZllyVzlPZ0lqOWJVbVktVy1tN0U5bUl1azhFZjlXM0FLa2JvNk9SWXRmYTUwdmxXdDVaZEJORFZ2N0dKTldvdW9HemhucTBaQ3NuOXNzcTM4SHFhSVoxdWM?oc=5"
+          },
+          {
+            "label": "Help Net Security：DarkMoon: Open-source AI pentesting platform - Help Net Security",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdERRUmUwUWU2VnF6YjZETHlmbWw3NnFBZEJZM3Q4OEZtUXhHYUxuWEg3Y3ZiblVQaHJnUzhGT1FIMXdiX3haeHNkdDNkVDVvUUNyZUc1NFVLU2JDZDMwZkRHbnpzZDNRdWJ0NnE5MjF2eEc1eXF6OV9BdWllZHgwMUtMYmN5dXV1YXlCLWpiNlc?oc=5"
+          },
+          {
+            "label": "Tech Times：Coinbase Cuts AI Spend 50% on Chinese Models: The Legal Risk Its CEO D",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2hIV1pDVm5JcVhOdVAzelpoZVBLd1JlQmdqSVVGSF9tb0tlTFI3bTBtN2V3Ml9ZaHBOb0FTbk9mUHBqYVQ3UGJ4aUNCVEZYUndfSC1yTUJUM1JsanE4c0hXcUY0cUhLdjJnOW9RUWUyNEhkY3gzNjRYaDBzdHctd1hFc0tIT2xxdEhxOUtkcWs5bjY1V2ViVlppbnQ1S0FzbjNiSU8tc1FCU1FxQ2g0MjlMT1p5b18tOWN5QWNlamtHMEU?oc=5"
+          }
+        ],
+        "source": "Trend Hunter",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YnR2N3cza2tYZWxYUVplbFpFRm42TER6ZlhmNEE4V3BOSUFHbUpWMm5sOTRtQlBUMGw5a3VRUEdtV1FLS1l4ZzdBbzVjVUEwZFpvMlU2T0FjZFnSAWBBVV95cUxOZllyVzlPZ0lqOWJVbVktVy1tN0U5bUl1azhFZjlXM0FLa2JvNk9SWXRmYTUwdmxXdDVaZEJORFZ2N0dKTldvdW9HemhucTBaQ3NuOXNzcTM4SHFhSVoxdWM?oc=5"
+      },
       {
         "slug": "open-source-20260628-auto-1-b2f6a2",
         "title": "Liquid AI Ships LF",
