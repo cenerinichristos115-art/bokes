@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260630-auto-1-7a2c99",
+        "title": "AI: Amazon-Anthrop",
+        "category": "AI新闻",
+        "date": "2026-06-30",
+        "summary": "AI: Amazon-Anthropic relationship evolving. AI-RTZ",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Amazon-Anthrop 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI: Amazon-Anthropic relationship evolving. AI-RTZ",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Amazon-Anthropic relationship evolving. AI-RTZ",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yanc4akgwVFNTQXVwTUJ3Y3N0Q1NXeDdCd0pyU2pjbFVJNDd2RE45cWlrVHdNVE9DbVZkVHVibk15Y1prSDBEY09KUmR3Tzh4bDMwUVpxMDd0WEJORl82QVpXV3R3S3dJTkJpcFBsdjRlMEFfN1RxVw?oc=5"
+          },
+          {
+            "label": "The Daily Texan：‘Adaptable and creative’: Law school dean calls for thoughtful approac",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObENhWkYxRXkxTERPU3lMVW1fdzVxTVBkancyY2hkZS1vM1FpWmZSX0dKOHFNaWtzdlk2NHFUSnhyRHhoc3dCYjB3OTJYbkp3ajBDWFlTd3FBZWFlVHRJX1dXd3pLb3JrSkFDUkEzUUZOZFVwVnlQNUZ4cGdJOWNONldtSzNGdVZNOG9uZV9ybWYzaUdPOHduUzlPMmRjRUNTYkpqVUtlSjNPckI3S1VYYTJHZ041Q2M2RFdyV3pyQ25KcHdQUXBoVUdEdlpVQQ?oc=5"
+          },
+          {
+            "label": "新浪财经：「观察」AI如何赋能高质量就业？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzh5MkVKR1BSYWl6NW5jc2NqT2REVl9mODZnWlFQQjlOUmY5TEtEUTlZaU1uRlBoR2Z2MUdPckVOQkowZHI3VVRzMVZOYi1FV0xZbG9wMnotUlMzV2doc0NrLWpqX0NvRnBydU1IWEZoanZMcExINnlIWEFJWnctZjk3Q1ZHRTZESGNtUUxUZnZkMEM4cFpCWjJ5QnVhTTF5YmkySEVqWEVIRFB6UDV2aGx3?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yanc4akgwVFNTQXVwTUJ3Y3N0Q1NXeDdCd0pyU2pjbFVJNDd2RE45cWlrVHdNVE9DbVZkVHVibk15Y1prSDBEY09KUmR3Tzh4bDMwUVpxMDd0WEJORl82QVpXV3R3S3dJTkJpcFBsdjRlMEFfN1RxVw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260630-auto-2-175c05",
+        "title": "‘Adaptable and cre",
+        "category": "AI新闻",
+        "date": "2026-06-30",
+        "summary": "‘Adaptable and creative’: Law school dean calls fo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "‘Adaptable and cre 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "‘Adaptable and creative’: Law school dean calls fo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "‘Adaptable and creative’: Law school dean calls fo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Daily Texan：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObENhWkYxRXkxTERPU3lMVW1fdzVxTVBkancyY2hkZS1vM1FpWmZSX0dKOHFNaWtzdlk2NHFUSnhyRHhoc3dCYjB3OTJYbkp3ajBDWFlTd3FBZWFlVHRJX1dXd3pLb3JrSkFDUkEzUUZOZFVwVnlQNUZ4cGdJOWNONldtSzNGdVZNOG9uZV9ybWYzaUdPOHduUzlPMmRjRUNTYkpqVUtlSjNPckI3S1VYYTJHZ041Q2M2RFdyV3pyQ25KcHdQUXBoVUdEdlpVQQ?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Amazon-Anthropic relationship evolving. AI-RTZ #1133 - AI: Reset t",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Yanc4akgwVFNTQXVwTUJ3Y3N0Q1NXeDdCd0pyU2pjbFVJNDd2RE45cWlrVHdNVE9DbVZkVHVibk15Y1prSDBEY09KUmR3Tzh4bDMwUVpxMDd0WEJORl82QVpXV3R3S3dJTkJpcFBsdjRlMEFfN1RxVw?oc=5"
+          },
+          {
+            "label": "新浪财经：「观察」AI如何赋能高质量就业？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzh5MkVKR1BSYWl6NW5jc2NqT2REVl9mODZnWlFQQjlOUmY5TEtEUTlZaU1uRlBoR2Z2MUdPckVOQkowZHI3VVRzMVZOYi1FV0xZbG9wMnotUlMzV2doc0NrLWpqX0NvRnBydU1IWEZoanZMcExINnlIWEFJWnctZjk3Q1ZHRTZESGNtUUxUZnZkMEM4cFpCWjJ5QnVhTTF5YmkySEVqWEVIRFB6UDV2aGx3?oc=5"
+          }
+        ],
+        "source": "The Daily Texan",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObENhWkYxRXkxTERPU3lMVW1fdzVxTVBkancyY2hkZS1vM1FpWmZSX0dKOHFNaWtzdlk2NHFUSnhyRHhoc3dCYjB3OTJYbkp3ajBDWFlTd3FBZWFlVHRJX1dXd3pLb3JrSkFDUkEzUUZOZFVwVnlQNUZ4cGdJOWNONldtSzNGdVZNOG9uZV9ybWYzaUdPOHduUzlPMmRjRUNTYkpqVUtlSjNPckI3S1VYYTJHZ041Q2M2RFdyV3pyQ25KcHdQUXBoVUdEdlpVQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260629-auto-1-683a32",
         "title": "第四届中部智库论坛在武汉召开 - j",
         "category": "AI新闻",
@@ -10839,6 +10955,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260630-auto-1-dbae39",
+        "title": "曝贾扬清已从英伟达离职 AI大牛去向",
+        "category": "AI使用教程",
+        "date": "2026-06-30",
+        "summary": "曝贾扬清已从英伟达离职 AI大牛去向引猜测 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "曝贾扬清已从英伟达离职 AI大牛去向 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "曝贾扬清已从英伟达离职 AI大牛去向引猜测 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "曝贾扬清已从英伟达离职 AI大牛去向引猜测 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aUzFjako2a2tXY1JoaHctb1RBMjU5aml1cERwQzB5YWdyZVBCNjJCNzZ0XzM2a200RDAyYWJQSnhXLU9JSDF1enJoUFMwb0ttV0dzckdsZndKajAtN2pJM1FvT1pCRHZJeTFNc1RNMW4?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：开发者又多了一个免费全模态选择：Agnes AI 支持 1M 上下文和 4K 图片 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TlNmWWZsTEpreTcxQTNXcnZBWF9wdno2LUF2MWNCODk4Q212R29mNmtOTlQ1VzJ0Z2tCVXcwOTJuYVRBWDVPdk1iOFlRUHV1U3ZVWmhSeWVSRXJyRXBQc1JmXzdISU0?oc=5"
+          },
+          {
+            "label": "PANews：AI岗位爆发，月薪13万抢人大战 - PANews",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBic01NeFNLa2M3cTNoUnpaMGJLUFB0aHlMMWFNc2EwN2h0UWFkYWY4Mi05SWN3eXp2ZEZvdnlTY1UwYXI4blpyUU5HOXhpVldSVzhlSFFTQ1hUVzRZeHowdWtueEdGSGl4NENob3IwVXhqdE1KWHJ0cDdxZkpBMnc?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aUzFjako2a2tXY1JoaHctb1RBMjU5aml1cERwQzB5YWdyZVBCNjJCNzZ0XzM2a200RDAyYWJQSnhXLU9JSDF1enJoUFMwb0ttV0dzckdsZndKajAtN2pJM1FvT1pCRHZJeTFNc1RNMW4?oc=5"
+      },
+      {
         "slug": "ai-guide-20260629-auto-1-4b293c",
         "title": "FBI突用AI破案？白宫记者晚宴袭击",
         "category": "AI使用教程",
@@ -15681,6 +15855,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260630-auto-1-bbbed3",
+        "title": "Hottest cybersecur",
+        "category": "开源项目",
+        "date": "2026-06-30",
+        "summary": "Hottest cybersecurity open-source tools of the mon",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hottest cybersecur 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Hottest cybersecurity open-source tools of the mon",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hottest cybersecurity open-source tools of the mon",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzIyaVU2X1ZFY0IxTW1NZmVNbUI2cnpuNjIzX1ZiaTVodXMxbnVsb01hRGtUOUZGaVotX09WMDlMUHhTVTFsbzBnNWNEaTlvcDc3b0NvWms1OC0zVm9YYTZTemhaeEFqOWRCZVhvcXJBVWxwMlFVUkZCOGx0SHRIR090Zzk1UFFkclpOUHlaMTV4cy1jTEtXYWhjMTFrXy01MmxaNmU3cG9Odw?oc=5"
+          },
+          {
+            "label": "cio360.net：第 21 届开源中国开源世界高峰论坛圆满收官！ - cio360.net",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wOElsTGJSXzRwQ0w3ZW9sall3ZnpLY0J0ZWJjX3dPVDR0RklWLTZUbXZKRi0xdk5yUm5lc2I0ejBvaV9kTktCY2NKVmU3bHUtMzAtMjlTZXk?oc=5"
+          },
+          {
+            "label": "Communications Today：The great AI price war - Communications Today",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZXdDZllXRm9ncDVJa01udTZoMDZ6MmoxMXhiZHZQTTdhMFk1VE1tOFU5aUtJekR2dTFFQUw3ZmFiR3ZaYmhBM3ljSXlsdVlCR3ViTmpNRG9PNG13SHVSSEp0Mmh5NjM4U3c1MW9R?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzIyaVU2X1ZFY0IxTW1NZmVNbUI2cnpuNjIzX1ZiaTVodXMxbnVsb01hRGtUOUZGaVotX09WMDlMUHhTVTFsbzBnNWNEaTlvcDc3b0NvWms1OC0zVm9YYTZTemhaeEFqOWRCZVhvcXJBVWxwMlFVUkZCOGx0SHRIR090Zzk1UFFkclpOUHlaMTV4cy1jTEtXYWhjMTFrXy01MmxaNmU3cG9Odw?oc=5"
+      },
+      {
+        "slug": "open-source-20260630-auto-2-63476d",
+        "title": "第 21 届开源中国开源世界高峰论坛",
+        "category": "开源项目",
+        "date": "2026-06-30",
+        "summary": "第 21 届开源中国开源世界高峰论坛圆满收官！ cio360.net",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "第 21 届开源中国开源世界高峰论坛 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "第 21 届开源中国开源世界高峰论坛圆满收官！ cio360.net",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "第 21 届开源中国开源世界高峰论坛圆满收官！ cio360.net",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cio360.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wOElsTGJSXzRwQ0w3ZW9sall3ZnpLY0J0ZWJjX3dPVDR0RklWLTZUbXZKRi0xdk5yUm5lc2I0ejBvaV9kTktCY2NKVmU3bHUtMzAtMjlTZXk?oc=5"
+          },
+          {
+            "label": "Help Net Security：Hottest cybersecurity open-source tools of the month: June 2026 - Help",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzIyaVU2X1ZFY0IxTW1NZmVNbUI2cnpuNjIzX1ZiaTVodXMxbnVsb01hRGtUOUZGaVotX09WMDlMUHhTVTFsbzBnNWNEaTlvcDc3b0NvWms1OC0zVm9YYTZTemhaeEFqOWRCZVhvcXJBVWxwMlFVUkZCOGx0SHRIR090Zzk1UFFkclpOUHlaMTV4cy1jTEtXYWhjMTFrXy01MmxaNmU3cG9Odw?oc=5"
+          },
+          {
+            "label": "Communications Today：The great AI price war - Communications Today",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZXdDZllXRm9ncDVJa01udTZoMDZ6MmoxMXhiZHZQTTdhMFk1VE1tOFU5aUtJekR2dTFFQUw3ZmFiR3ZaYmhBM3ljSXlsdVlCR3ViTmpNRG9PNG13SHVSSEp0Mmh5NjM4U3c1MW9R?oc=5"
+          }
+        ],
+        "source": "cio360.net",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wOElsTGJSXzRwQ0w3ZW9sall3ZnpLY0J0ZWJjX3dPVDR0RklWLTZUbXZKRi0xdk5yUm5lc2I0ejBvaV9kTktCY2NKVmU3bHUtMzAtMjlTZXk?oc=5"
+      },
       {
         "slug": "open-source-20260629-auto-1-9de540",
         "title": "DarkMoon: Open-sou",
