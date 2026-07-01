@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260701-auto-1-f19281",
+        "title": "CIA Aims to Speed",
+        "category": "AI新闻",
+        "date": "2026-07-01",
+        "summary": "CIA Aims to Speed Up Tech Adoption as AI Is ‘Rewri",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "CIA Aims to Speed 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "CIA Aims to Speed Up Tech Adoption as AI Is ‘Rewri",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "CIA Aims to Speed Up Tech Adoption as AI Is ‘Rewri",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Insurance Journal：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwWkVPRGVIZEtXV2NoRVZ0Mkd4RzVseUVzVGx0V0Z0Y2pNNFBCSnFyNnpZVGUwRU9obXYybUE5VlVuclhDbTNLYmFqV0ltUEE1OWFaSkpEdXhHZTJkQXcwYXBnUWpLbGk2NlBXeUplcHllMEg0RXZv?oc=5"
+          },
+          {
+            "label": "PPC Land：Google restricts new Mac AI agent to $99.99 Ultra subscribers - PPC La",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1ZHTExqZVhfbmJ1ODVabXA1UVBCUW4yMmQxeUsteWhDSTBtTUVlanJYV2RpSVJuVjlzOEN3VmVsY1Z3dHdpVERuVlNXd3FPaU40a1V3XzdMbHNXLVRickJHNnUyczA4SDhlYkdITlh6Qk5iRDhqS1E1YXEtQmlFZHJLVG8?oc=5"
+          },
+          {
+            "label": "BankInfoSecurity：US Lifts Export Curbs on Anthropic AI Models - BankInfoSecurity",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFqODhSZWdZc251azFTSDZHMlVuRjFrTHc1SmZaSG9ZSXJJRExSMDJDODVWRkRHanMxaTJ0bGJDV3c5cDNvaGNEYkFmbFdDVWZ2NWZQNUt0WVB4TDhJakdKcU5BVDAyU3IxeVUzMXJVMk1GMGthZDRGZFNjb0VyZklLNFZBbTVINnhlc3hB?oc=5"
+          }
+        ],
+        "source": "Insurance Journal",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwWkVPRGVIZEtXV2NoRVZ0Mkd4RzVseUVzVGx0V0Z0Y2pNNFBCSnFyNnpZVGUwRU9obXYybUE5VlVuclhDbTNLYmFqV0ltUEE1OWFaSkpEdXhHZTJkQXcwYXBnUWpLbGk2NlBXeUplcHllMEg0RXZv?oc=5"
+      },
+      {
+        "slug": "ai-news-20260701-auto-2-e757df",
+        "title": "Google restricts n",
+        "category": "AI新闻",
+        "date": "2026-07-01",
+        "summary": "Google restricts new Mac AI agent to $99.99 Ultra",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google restricts n 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google restricts new Mac AI agent to $99.99 Ultra",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google restricts new Mac AI agent to $99.99 Ultra",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PPC Land：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1ZHTExqZVhfbmJ1ODVabXA1UVBCUW4yMmQxeUsteWhDSTBtTUVlanJYV2RpSVJuVjlzOEN3VmVsY1Z3dHdpVERuVlNXd3FPaU40a1V3XzdMbHNXLVRickJHNnUyczA4SDhlYkdITlh6Qk5iRDhqS1E1YXEtQmlFZHJLVG8?oc=5"
+          },
+          {
+            "label": "Insurance Journal：CIA Aims to Speed Up Tech Adoption as AI Is ‘Rewriting’ Conflict - Ins",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwWkVPRGVIZEtXV2NoRVZ0Mkd4RzVseUVzVGx0V0Z0Y2pNNFBCSnFyNnpZVGUwRU9obXYybUE5VlVuclhDbTNLYmFqV0ltUEE1OWFaSkpEdXhHZTJkQXcwYXBnUWpLbGk2NlBXeUplcHllMEg0RXZv?oc=5"
+          },
+          {
+            "label": "BankInfoSecurity：US Lifts Export Curbs on Anthropic AI Models - BankInfoSecurity",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFqODhSZWdZc251azFTSDZHMlVuRjFrTHc1SmZaSG9ZSXJJRExSMDJDODVWRkRHanMxaTJ0bGJDV3c5cDNvaGNEYkFmbFdDVWZ2NWZQNUt0WVB4TDhJakdKcU5BVDAyU3IxeVUzMXJVMk1GMGthZDRGZFNjb0VyZklLNFZBbTVINnhlc3hB?oc=5"
+          }
+        ],
+        "source": "PPC Land",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1ZHTExqZVhfbmJ1ODVabXA1UVBCUW4yMmQxeUsteWhDSTBtTUVlanJYV2RpSVJuVjlzOEN3VmVsY1Z3dHdpVERuVlNXd3FPaU40a1V3XzdMbHNXLVRickJHNnUyczA4SDhlYkdITlh6Qk5iRDhqS1E1YXEtQmlFZHJLVG8?oc=5"
+      },
+      {
         "slug": "ai-news-20260630-auto-1-7a2c99",
         "title": "AI: Amazon-Anthrop",
         "category": "AI新闻",
@@ -10955,6 +11071,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260701-auto-1-f4a8f4",
+        "title": "科技驱动变革，上海市退役大学生AIG",
+        "category": "AI使用教程",
+        "date": "2026-07-01",
+        "summary": "科技驱动变革，上海市退役大学生AIGC仿真人剧数字素养专项培训班举行 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科技驱动变革，上海市退役大学生AIG 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "科技驱动变革，上海市退役大学生AIGC仿真人剧数字素养专项培训班举行 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科技驱动变革，上海市退役大学生AIGC仿真人剧数字素养专项培训班举行 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzdZcWRObTBVMzNUR2dKSEltV1lwMWNaRklLNkJETEpOaHNiRTV5cndzM1loc3ZjWjlaQS1XbkRmZWFUTkZqbTdrdDk2elRyM3NOWl9Jb3VkNElTQ2tnVXJmaG1HalluS2hZMFRsX1I5dGthaXFQVGhZMDZxQ2ZpRjlyMnllcm9RQTZ3Sw?oc=5"
+          },
+          {
+            "label": "凤凰网科技：Codex和Claude Code负责人都不写提示词了，AI圈爆火的Loop到底是什么 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hRVVaNUE2Z2pfb054VkJGaFNnZVJJWlFiZVAtVUNCVnVKMFYtanFBaVRtNlhqSzlzNnJGTmhJcE9uT2x2VjVnME1kVW0?oc=5"
+          },
+          {
+            "label": "新浪网：现在入局AI写歌还有赚钱的机会吗？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVVh4My16RU84aWhHOFhnZTE2TkNON1FiV2NjTE9yNktvRmI2VzVLUXJ4QzZ6V1RzdWxvUHc0b3RqYk5WLUlETzhLUG1fbkswMzBubTdxOWVvZXQyQThabENjb3hVUElXX2JNWktDMUZGY0s3WnZUaHR0QU5yalk?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQzdZcWRObTBVMzNUR2dKSEltV1lwMWNaRklLNkJETEpOaHNiRTV5cndzM1loc3ZjWjlaQS1XbkRmZWFUTkZqbTdrdDk2elRyM3NOWl9Jb3VkNElTQ2tnVXJmaG1HalluS2hZMFRsX1I5dGthaXFQVGhZMDZxQ2ZpRjlyMnllcm9RQTZ3Sw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260630-auto-1-dbae39",
         "title": "曝贾扬清已从英伟达离职 AI大牛去向",
         "category": "AI使用教程",
@@ -15855,6 +16029,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260701-auto-1-6d14cc",
+        "title": "Mimo Code 爆火：我们挖开源",
+        "category": "开源项目",
+        "date": "2026-07-01",
+        "summary": "Mimo Code 爆火：我们挖开源代码，找到小米 AI 的真创新 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mimo Code 爆火：我们挖开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Mimo Code 爆火：我们挖开源代码，找到小米 AI 的真创新 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mimo Code 爆火：我们挖开源代码，找到小米 AI 的真创新 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zazl6MUtQcGNTQi00NlE1c1VRMWFVMWVyUmJPNVhrUnlCQXN1ZU01N2F4LV9zOUpqUzFpeFJQNHgxUUpaS2hycmtKem5nci1ia2t5eEpXVGRvUUY2MFNqQ0Q3T2lDd2wxTVVzSmItQjB5N0NCOWdHTGw4WVhDVFU?oc=5"
+          },
+          {
+            "label": "搜狐网：游戏引擎Godot禁止贡献者提交AI代码：AI赛博垃圾太多了 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHlqVnZSOHNnbzFvcmFYMUNUTVNoRkdneWtVOFktREpMZTYtN1BpLXBRckdZMzZPWkg5T3ZtMVJGM1JEaEtzVlkzVXpnLTBZRFhmZ0lSY0xBSjJwdDFWXzVfcTQxRS11YkVnMU9CN1RGbHM4bmFhUFFPandYcVlaNWJtbm9hRTNn?oc=5"
+          },
+          {
+            "label": "AIBase：OpenClaw, an Open-Source AI Agent Project, Officially Launches iOS and",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOTkE0UE93dlR0Sjh3XzRJTHJUV2QxT2kzYlhfYXlMNkZ2cHR2dFRreUxSdS0xYWJ5dGJXejBOcHMySDc4bmRFU3pR?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zazl6MUtQcGNTQi00NlE1c1VRMWFVMWVyUmJPNVhrUnlCQXN1ZU01N2F4LV9zOUpqUzFpeFJQNHgxUUpaS2hycmtKem5nci1ia2t5eEpXVGRvUUY2MFNqQ0Q3T2lDd2wxTVVzSmItQjB5N0NCOWdHTGw4WVhDVFU?oc=5"
+      },
+      {
+        "slug": "open-source-20260701-auto-2-50ac08",
+        "title": "游戏引擎Godot禁止贡献者提交AI",
+        "category": "开源项目",
+        "date": "2026-07-01",
+        "summary": "游戏引擎Godot禁止贡献者提交AI代码：AI赛博垃圾太多了 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "游戏引擎Godot禁止贡献者提交AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "游戏引擎Godot禁止贡献者提交AI代码：AI赛博垃圾太多了 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "游戏引擎Godot禁止贡献者提交AI代码：AI赛博垃圾太多了 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHlqVnZSOHNnbzFvcmFYMUNUTVNoRkdneWtVOFktREpMZTYtN1BpLXBRckdZMzZPWkg5T3ZtMVJGM1JEaEtzVlkzVXpnLTBZRFhmZ0lSY0xBSjJwdDFWXzVfcTQxRS11YkVnMU9CN1RGbHM4bmFhUFFPandYcVlaNWJtbm9hRTNn?oc=5"
+          },
+          {
+            "label": "新浪财经：Mimo Code 爆火：我们挖开源代码，找到小米 AI 的真创新 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zazl6MUtQcGNTQi00NlE1c1VRMWFVMWVyUmJPNVhrUnlCQXN1ZU01N2F4LV9zOUpqUzFpeFJQNHgxUUpaS2hycmtKem5nci1ia2t5eEpXVGRvUUY2MFNqQ0Q3T2lDd2wxTVVzSmItQjB5N0NCOWdHTGw4WVhDVFU?oc=5"
+          },
+          {
+            "label": "AIBase：OpenClaw, an Open-Source AI Agent Project, Officially Launches iOS and",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOTkE0UE93dlR0Sjh3XzRJTHJUV2QxT2kzYlhfYXlMNkZ2cHR2dFRreUxSdS0xYWJ5dGJXejBOcHMySDc4bmRFU3pR?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHlqVnZSOHNnbzFvcmFYMUNUTVNoRkdneWtVOFktREpMZTYtN1BpLXBRckdZMzZPWkg5T3ZtMVJGM1JEaEtzVlkzVXpnLTBZRFhmZ0lSY0xBSjJwdDFWXzVfcTQxRS11YkVnMU9CN1RGbHM4bmFhUFFPandYcVlaNWJtbm9hRTNn?oc=5"
+      },
       {
         "slug": "open-source-20260630-auto-1-bbbed3",
         "title": "Hottest cybersecur",
