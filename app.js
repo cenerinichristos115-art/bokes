@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260702-auto-1-913d06",
+        "title": "7月“粤能学”课程出炉！聚焦人工智能",
+        "category": "AI新闻",
+        "date": "2026-07-02",
+        "summary": "7月“粤能学”课程出炉！聚焦人工智能等重点领域提升就业技能 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "7月“粤能学”课程出炉！聚焦人工智能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "7月“粤能学”课程出炉！聚焦人工智能等重点领域提升就业技能 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "7月“粤能学”课程出炉！聚焦人工智能等重点领域提升就业技能 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWI5NVdXaTJscUpablJQVWZYMUpqdUJLWGRfbmlpaXVtZU1lQWJZRU0ySV8zSmY3eXctYWdUWk94SGc0blVHazBaWDRlY1p2NXk4b015U2dLNGtzRzNxbi1pdUtYUWJfUXk0ODJlRG13UXVtRm41R1JNTHc1ZGpjVFVYM1p2VEJRX1NKVg?oc=5"
+          },
+          {
+            "label": "同花顺财经：君逸数码“城市综合管廊多灾种风险综合防控智能系统实践”入选工信部2025年人工智能应用典型案例 - 同花顺财经",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WcXJ5QWlaclM0V1MwanJfUDZFLVRDTGV3MzJLWnpWUUtZbnlaRmd4LXk1WUlmU3ZxRFpoM1BKbUtLNDdsd01XOUtyam1JdzI0azBhRXVRMVNWdXJyS29nR01R?oc=5"
+          },
+          {
+            "label": "Telegraph India：US nears AI model standards deal with OpenAI, Google, Anthropic: Repor",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTRlOWVmY0pYV2lBQXNxUTVKQzgyTHltc0ZubXo3MGw0R2ZqVV94U2o0TFBRd2JrdG1uZTdKUUFDVl9VOG1pMlJhd3dsaW1Ia2dzc3dJZzdhb3FkcVBnQ2loYVJDZHVMVUNaZFhkQzhneGFMWHhPbUdNN1lkZlZpeHItVENvajI4VjI0bmZBbmVRaExma3dnWEQ0N191UjUzaFRfLXIxRTVWQV9waGhIZzJTTXU0dW1K0gG-AUFVX3lxTFBpVkRrNFA2YXhpMDNTUzdIdDlEY1lOMU5tcTFyT2pvbVdVUV91TUVMcnlXUGt0QmRDV0NCd1I0LWd3dld5YWNabGRUTHRodWlDVlJNYjNadTJSaXJxd2lpR3ZVc2d0SEZGV0gtUzE1QVJHbjBZMlRlV2ZwQkV5YmdfcW5TT2JFTno1ZzU4d3ZUSzFpTkRTVExVSGJkekRXekJKamZ5U3FHb0Nobl85MDlPOVZ5dTl5b0FsNDF5VGc?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWI5NVdXaTJscUpablJQVWZYMUpqdUJLWGRfbmlpaXVtZU1lQWJZRU0ySV8zSmY3eXctYWdUWk94SGc0blVHazBaWDRlY1p2NXk4b015U2dLNGtzRzNxbi1pdUtYUWJfUXk0ODJlRG13UXVtRm41R1JNTHc1ZGpjVFVYM1p2VEJRX1NKVg?oc=5"
+      },
+      {
+        "slug": "ai-news-20260702-auto-2-0c71d3",
+        "title": "君逸数码“城市综合管廊多灾种风险综合",
+        "category": "AI新闻",
+        "date": "2026-07-02",
+        "summary": "君逸数码“城市综合管廊多灾种风险综合防控智能系统实践”入选工信部2025年人工智能应用典型案例 同花",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "君逸数码“城市综合管廊多灾种风险综合 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "君逸数码“城市综合管廊多灾种风险综合防控智能系统实践”入选工信部2025年人工智能应用典型案例 同花",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "君逸数码“城市综合管廊多灾种风险综合防控智能系统实践”入选工信部2025年人工智能应用典型案例 同花",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "同花顺财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WcXJ5QWlaclM0V1MwanJfUDZFLVRDTGV3MzJLWnpWUUtZbnlaRmd4LXk1WUlmU3ZxRFpoM1BKbUtLNDdsd01XOUtyam1JdzI0azBhRXVRMVNWdXJyS29nR01R?oc=5"
+          },
+          {
+            "label": "21财经：7月“粤能学”课程出炉！聚焦人工智能等重点领域提升就业技能 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbWI5NVdXaTJscUpablJQVWZYMUpqdUJLWGRfbmlpaXVtZU1lQWJZRU0ySV8zSmY3eXctYWdUWk94SGc0blVHazBaWDRlY1p2NXk4b015U2dLNGtzRzNxbi1pdUtYUWJfUXk0ODJlRG13UXVtRm41R1JNTHc1ZGpjVFVYM1p2VEJRX1NKVg?oc=5"
+          },
+          {
+            "label": "Telegraph India：US nears AI model standards deal with OpenAI, Google, Anthropic: Repor",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTRlOWVmY0pYV2lBQXNxUTVKQzgyTHltc0ZubXo3MGw0R2ZqVV94U2o0TFBRd2JrdG1uZTdKUUFDVl9VOG1pMlJhd3dsaW1Ia2dzc3dJZzdhb3FkcVBnQ2loYVJDZHVMVUNaZFhkQzhneGFMWHhPbUdNN1lkZlZpeHItVENvajI4VjI0bmZBbmVRaExma3dnWEQ0N191UjUzaFRfLXIxRTVWQV9waGhIZzJTTXU0dW1K0gG-AUFVX3lxTFBpVkRrNFA2YXhpMDNTUzdIdDlEY1lOMU5tcTFyT2pvbVdVUV91TUVMcnlXUGt0QmRDV0NCd1I0LWd3dld5YWNabGRUTHRodWlDVlJNYjNadTJSaXJxd2lpR3ZVc2d0SEZGV0gtUzE1QVJHbjBZMlRlV2ZwQkV5YmdfcW5TT2JFTno1ZzU4d3ZUSzFpTkRTVExVSGJkekRXekJKamZ5U3FHb0Nobl85MDlPOVZ5dTl5b0FsNDF5VGc?oc=5"
+          }
+        ],
+        "source": "同花顺财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WcXJ5QWlaclM0V1MwanJfUDZFLVRDTGV3MzJLWnpWUUtZbnlaRmd4LXk1WUlmU3ZxRFpoM1BKbUtLNDdsd01XOUtyam1JdzI0azBhRXVRMVNWdXJyS29nR01R?oc=5"
+      },
+      {
         "slug": "ai-news-20260701-auto-1-f19281",
         "title": "CIA Aims to Speed",
         "category": "AI新闻",
@@ -11071,6 +11187,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260702-auto-1-8d0734",
+        "title": "How to Write Bette",
+        "category": "AI使用教程",
+        "date": "2026-07-02",
+        "summary": "How to Write Better Prompts for High-Performing AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How to Write Bette 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How to Write Better Prompts for High-Performing AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How to Write Better Prompts for High-Performing AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Analytics Insight：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY01LLTBQUVpLOTl4U3hLelotVHNlbm5CU0FoNmxORUZEUnFFbXFQTzNSNWJybnhvc0E5SkI5UjdFUzloV1R4TVZCWGNUdjZkYTQ0MXVzVVhINmJucnVNNmZpRFJEaEtMYmFCMFhjUHpYd1VGSVFCWGxydVd0TXl2T2FDZTdWS3JVMUlhcXJhS0tXLW9lYm1JS1N0VTRCa0ozOVdidHdsb1pyWlBzS2VHdmN4aWrSAcIBQVVfeXFMTzlHSGtjVndTZWlqbHVzSnZQaTJLMExrTVk2YXdselN4b19qX09yejVhd0FqRDZPZjZoY0o3Nm9wenotMFN6aW05aVhycW5FdmlnaGliR1ctdUJuWUpiRUZ1RFdBQW1mQm9WRG5OdzBURi0ta3BOSVZPaUlYUXJGSWFQb19DUmgxUDlRNHFZX2ZCMEJ6XzRyaTB2czJ0Vm52WllaWHRQNTZsRVZ0MVVmbzJQOFRfVk5HRk5wcWdxY0g0alE?oc=5"
+          },
+          {
+            "label": "新浪网：ChatGPT 这些翻车回答，居然是 Meta 找外包干的 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5adDJReFJLd3R4Y1FBUXltUzc1N0tHUjdJRWl1ZGtwZVNWMjZyN2IzTjVhXzloa3E5aWhIVWZHVUV4dzd5bVI3bTE0X1VLblJSUHBJdl9admlnTExCQkpjVHZ6bjZlLWpaUnBPMGpMbWRhTkpmQUprRW9uVlJUOHc?oc=5"
+          },
+          {
+            "label": "新浪网：AI二创侵犯原作者和艺人的版权吗？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNzM0RlpxaXdIRUNLbGpKSDh6UE1RUzloSWdKT2l5SlhZU1lyVlhQRUpHRTd0MHF4RWxFYnBPRUhpQy0yMnpqdVhEdm1fcE1XdGlOcHd1SVgxOWdZRjNScHB0ay1IMGZnazFjdE5XZS12cGtyWnYzdXlLd181LXM?oc=5"
+          }
+        ],
+        "source": "Analytics Insight",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY01LLTBQUVpLOTl4U3hLelotVHNlbm5CU0FoNmxORUZEUnFFbXFQTzNSNWJybnhvc0E5SkI5UjdFUzloV1R4TVZCWGNUdjZkYTQ0MXVzVVhINmJucnVNNmZpRFJEaEtMYmFCMFhjUHpYd1VGSVFCWGxydVd0TXl2T2FDZTdWS3JVMUlhcXJhS0tXLW9lYm1JS1N0VTRCa0ozOVdidHdsb1pyWlBzS2VHdmN4aWrSAcIBQVVfeXFMTzlHSGtjVndTZWlqbHVzSnZQaTJLMExrTVk2YXdselN4b19qX09yejVhd0FqRDZPZjZoY0o3Nm9wenotMFN6aW05aVhycW5FdmlnaGliR1ctdUJuWUpiRUZ1RFdBQW1mQm9WRG5OdzBURi0ta3BOSVZPaUlYUXJGSWFQb19DUmgxUDlRNHFZX2ZCMEJ6XzRyaTB2czJ0Vm52WllaWHRQNTZsRVZ0MVVmbzJQOFRfVk5HRk5wcWdxY0g0alE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260701-auto-1-f4a8f4",
         "title": "科技驱动变革，上海市退役大学生AIG",
         "category": "AI使用教程",
@@ -16029,6 +16203,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260702-auto-1-d00522",
+        "title": "Altman 投的Agent 终端",
+        "category": "开源项目",
+        "date": "2026-07-02",
+        "summary": "Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Altman 投的Agent 终端 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          },
+          {
+            "label": "36Kr：Liang Wenfeng, you are such a clear-headed person in the mundane world",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MOHlacUJIWWctdHVYd01NRk1lZkdWQzU2SVJBYV9HaXB2ZGZtUm1IT0N5bWtQY3pMb0tfbTlwTW1haS1TUE5haVhMdk9STFE1b3V3?oc=5"
+          },
+          {
+            "label": "Analytics India Magazine：Exclusive: Ex-GitHub CEO’s $300 Mn Startup Appoints India-Based Field ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3lUUHFwV0hqLWQ5WmpwZTNvUUxsTW5zWmkySGJ2YXFBUVlnVjhxdG50WjdHX3Zmd2Y2Zk5qaXc2bVJzQWJCZ3ZzT3VZLURmM2ozZF9YUDBZSVJENG9yY3B2NGpmYmowRHk5enRoWFFUV1hnQ24wekJpQktwMzI4eHF1NlhJalp4QXJ6WHBZQURKdUg3MHo2MjBKeEpucGxnWTBGRDR3RU42b214WjItdURn?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+      },
+      {
+        "slug": "open-source-20260702-auto-2-43dea7",
+        "title": "Liang Wenfeng, you",
+        "category": "开源项目",
+        "date": "2026-07-02",
+        "summary": "Liang Wenfeng, you are such a clear-headed person",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Liang Wenfeng, you 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Liang Wenfeng, you are such a clear-headed person",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Liang Wenfeng, you are such a clear-headed person",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MOHlacUJIWWctdHVYd01NRk1lZkdWQzU2SVJBYV9HaXB2ZGZtUm1IT0N5bWtQY3pMb0tfbTlwTW1haS1TUE5haVhMdk9STFE1b3V3?oc=5"
+          },
+          {
+            "label": "36Kr：Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式 - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          },
+          {
+            "label": "Analytics India Magazine：Exclusive: Ex-GitHub CEO’s $300 Mn Startup Appoints India-Based Field ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3lUUHFwV0hqLWQ5WmpwZTNvUUxsTW5zWmkySGJ2YXFBUVlnVjhxdG50WjdHX3Zmd2Y2Zk5qaXc2bVJzQWJCZ3ZzT3VZLURmM2ozZF9YUDBZSVJENG9yY3B2NGpmYmowRHk5enRoWFFUV1hnQ24wekJpQktwMzI4eHF1NlhJalp4QXJ6WHBZQURKdUg3MHo2MjBKeEpucGxnWTBGRDR3RU42b214WjItdURn?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MOHlacUJIWWctdHVYd01NRk1lZkdWQzU2SVJBYV9HaXB2ZGZtUm1IT0N5bWtQY3pMb0tfbTlwTW1haS1TUE5haVhMdk9STFE1b3V3?oc=5"
+      },
       {
         "slug": "open-source-20260701-auto-1-6d14cc",
         "title": "Mimo Code 爆火：我们挖开源",
