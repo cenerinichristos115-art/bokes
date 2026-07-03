@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260703-auto-1-6a03fa",
+        "title": "AI drones made in",
+        "category": "AI新闻",
+        "date": "2026-07-03",
+        "summary": "AI drones made in Germany see duty on Ukraine's fr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI drones made in 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI drones made in Germany see duty on Ukraine's fr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI drones made in Germany see duty on Ukraine's fr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DW.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5"
+          },
+          {
+            "label": "新浪财经：肺癌如何早诊早治？人工智能怎么精准赋能？他带领团队构建起新体系 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFodnRLMzVKeFV2dWdsUVhlVWV0N1dMU0NSaHpUam1jVlQ5aTN2SF9ORkdXTGtPQ0pqcEprcmo1Q2dXdU1HLW0zVTRUMGJ0MVdhSnN2cFJlU25zLXVVcUdJeVBxdDcwRFhQQWRpQ0JfUEFkalpvdGR0N3h6MF8talJZQWpvSkNYS3VPR3FISVBFd3lfcTVFSmtyWl9nclFVNENjRlo1MA?oc=5"
+          },
+          {
+            "label": "京报网：人工智能、智慧康养、数字医疗，朝阳区这三场论坛看点十足—— - 京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wSHMzNnA3SnZ4STBUbFUzZk5NS3BvQnl6blV6LWE2SkhMdVJmTE5DaHpwMm9GVEFOdXVNYU1LRjVyeHBrald0d25pZ2NYWWVacDBfalpRUDlqUVdSbGc?oc=5"
+          }
+        ],
+        "source": "DW.com",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5"
+      },
+      {
+        "slug": "ai-news-20260703-auto-2-938bfc",
+        "title": "肺癌如何早诊早治？人工智能怎么精准赋",
+        "category": "AI新闻",
+        "date": "2026-07-03",
+        "summary": "肺癌如何早诊早治？人工智能怎么精准赋能？他带领团队构建起新体系 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "肺癌如何早诊早治？人工智能怎么精准赋 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "肺癌如何早诊早治？人工智能怎么精准赋能？他带领团队构建起新体系 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "肺癌如何早诊早治？人工智能怎么精准赋能？他带领团队构建起新体系 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFodnRLMzVKeFV2dWdsUVhlVWV0N1dMU0NSaHpUam1jVlQ5aTN2SF9ORkdXTGtPQ0pqcEprcmo1Q2dXdU1HLW0zVTRUMGJ0MVdhSnN2cFJlU25zLXVVcUdJeVBxdDcwRFhQQWRpQ0JfUEFkalpvdGR0N3h6MF8talJZQWpvSkNYS3VPR3FISVBFd3lfcTVFSmtyWl9nclFVNENjRlo1MA?oc=5"
+          },
+          {
+            "label": "DW.com：AI drones made in Germany see duty on Ukraine's front line - DW.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5"
+          },
+          {
+            "label": "京报网：人工智能、智慧康养、数字医疗，朝阳区这三场论坛看点十足—— - 京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wSHMzNnA3SnZ4STBUbFUzZk5NS3BvQnl6blV6LWE2SkhMdVJmTE5DaHpwMm9GVEFOdXVNYU1LRjVyeHBrald0d25pZ2NYWWVacDBfalpRUDlqUVdSbGc?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFodnRLMzVKeFV2dWdsUVhlVWV0N1dMU0NSaHpUam1jVlQ5aTN2SF9ORkdXTGtPQ0pqcEprcmo1Q2dXdU1HLW0zVTRUMGJ0MVdhSnN2cFJlU25zLXVVcUdJeVBxdDcwRFhQQWRpQ0JfUEFkalpvdGR0N3h6MF8talJZQWpvSkNYS3VPR3FISVBFd3lfcTVFSmtyWl9nclFVNENjRlo1MA?oc=5"
+      },
+      {
         "slug": "ai-news-20260702-auto-1-913d06",
         "title": "7月“粤能学”课程出炉！聚焦人工智能",
         "category": "AI新闻",
@@ -11187,6 +11303,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260703-auto-1-b84f75",
+        "title": "赋能业务提质增效！龙岗区城市更新和土",
+        "category": "AI使用教程",
+        "date": "2026-07-03",
+        "summary": "赋能业务提质增效！龙岗区城市更新和土地整备局开展AI工具应用专题培训 lg.gov.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "赋能业务提质增效！龙岗区城市更新和土 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "赋能业务提质增效！龙岗区城市更新和土地整备局开展AI工具应用专题培训 lg.gov.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "赋能业务提质增效！龙岗区城市更新和土地整备局开展AI工具应用专题培训 lg.gov.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "lg.gov.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ydldRZVB0TlZ5MmJfbnp5My1NTDZfVHRDY2tWbElQM3BZcmhtMVZ0RnFnLWxFZDl3T1dBVGYzaURzVkIwb0VTZVF4YWFrU2ZSazluMDkxWlFXLTA2NTNrTHJpMkN5NGdrSmZ1MkFhWXBuZ3lVLTlwcEdzOHI?oc=5"
+          },
+          {
+            "label": "江西新闻网：“江西造”微短剧：文化出海新名片 - 江西新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sR3llREh6WU4xOExIVzl0ZkxGXzVjNFV0dUdpNy1SbjBoZVVjSlNpZVB0NlM5MlRIM0otZkhjTlRGZXlSa2ZmTDBVLUdDbkxQYXk3SkFvTDNUaEdwQ1JmSnhLUQ?oc=5"
+          },
+          {
+            "label": "新浪财经：Meta悄悄上新应用Pocket，可用AI随手制作小游戏 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbU9nODZ5U3FXZ3hwQktFWVNXNjEyYnZGeXkzalIzWjBCTDJxY1gwRGFxVE9nZmNuS0xhc1o4QlYtdnlycFFjaE5fekNvb1gxNG5BbHJXSHdBWmxGa1hOQmRGV1hJcjJ4Q0poT25lUl9hX1R2T0l4NA?oc=5"
+          }
+        ],
+        "source": "lg.gov.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ydldRZVB0TlZ5MmJfbnp5My1NTDZfVHRDY2tWbElQM3BZcmhtMVZ0RnFnLWxFZDl3T1dBVGYzaURzVkIwb0VTZVF4YWFrU2ZSazluMDkxWlFXLTA2NTNrTHJpMkN5NGdrSmZ1MkFhWXBuZ3lVLTlwcEdzOHI?oc=5"
+      },
+      {
         "slug": "ai-guide-20260702-auto-1-8d0734",
         "title": "How to Write Bette",
         "category": "AI使用教程",
@@ -16203,6 +16377,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260703-auto-1-a9854c",
+        "title": "恒拓开源2026年中期投资者交流活动",
+        "category": "开源项目",
+        "date": "2026-07-03",
+        "summary": "恒拓开源2026年中期投资者交流活动： 民航基本盘、AI新动能与低空经济三线并进 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "恒拓开源2026年中期投资者交流活动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "恒拓开源2026年中期投资者交流活动： 民航基本盘、AI新动能与低空经济三线并进 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "恒拓开源2026年中期投资者交流活动： 民航基本盘、AI新动能与低空经济三线并进 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iQTlCemFMMDRwWUwzcFE5VXFjVHd5OUlUby1PbXlaR2VOUHp2Sk1UNWlFS0ctb3UxWmVuYWNJODA5ZlZJRm50MV9lTWswdHFQOXdEMm1PZFdOSnZyWFVXQWR2YVI2Zw?oc=5"
+          },
+          {
+            "label": "NAI500：AI商业化进程引忧，Meta早盘股价承压 - NAI500",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2F5Smp2Ung0MnMydXhlU2c1WDFydU1Zek15ZjNQaXZtWU5DYUpnM2dJNDdhRGtXcnh3MGpaamZoZFFhazF0alNQbW0yRWNvZEEwZ2oxWWdsSkl6MVUwRjJJQWFkSzBfeXNrNnR0MzJsYVY5b2hUWWdTNHRucklwV3VGY1h0aTJTUDBCQk1WcGxKQVlGT3N0di1tNzJJWHRqRHdNT0FnWWpNSzJmWDV0d3ZyMkRsclAxWG1NbHpMUVJiUC1nZTF5d3BuUFQtR1dQZC15WENhT1QxQ05GOEt4bXd1QTVRY1pIUzI3b25xWDdTbnppMmlTZkhxbw?oc=5"
+          },
+          {
+            "label": "36Kr：OpenClaw，崩了 - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iQTlCemFMMDRwWUwzcFE5VXFjVHd5OUlUby1PbXlaR2VOUHp2Sk1UNWlFS0ctb3UxWmVuYWNJODA5ZlZJRm50MV9lTWswdHFQOXdEMm1PZFdOSnZyWFVXQWR2YVI2Zw?oc=5"
+      },
+      {
+        "slug": "open-source-20260703-auto-2-5456c3",
+        "title": "AI商业化进程引忧，Meta早盘股价",
+        "category": "开源项目",
+        "date": "2026-07-03",
+        "summary": "AI商业化进程引忧，Meta早盘股价承压 NAI500",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI商业化进程引忧，Meta早盘股价 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI商业化进程引忧，Meta早盘股价承压 NAI500",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI商业化进程引忧，Meta早盘股价承压 NAI500",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NAI500：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2F5Smp2Ung0MnMydXhlU2c1WDFydU1Zek15ZjNQaXZtWU5DYUpnM2dJNDdhRGtXcnh3MGpaamZoZFFhazF0alNQbW0yRWNvZEEwZ2oxWWdsSkl6MVUwRjJJQWFkSzBfeXNrNnR0MzJsYVY5b2hUWWdTNHRucklwV3VGY1h0aTJTUDBCQk1WcGxKQVlGT3N0di1tNzJJWHRqRHdNT0FnWWpNSzJmWDV0d3ZyMkRsclAxWG1NbHpMUVJiUC1nZTF5d3BuUFQtR1dQZC15WENhT1QxQ05GOEt4bXd1QTVRY1pIUzI3b25xWDdTbnppMmlTZkhxbw?oc=5"
+          },
+          {
+            "label": "中华网：恒拓开源2026年中期投资者交流活动： 民航基本盘、AI新动能与低空经济三线并进 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iQTlCemFMMDRwWUwzcFE5VXFjVHd5OUlUby1PbXlaR2VOUHp2Sk1UNWlFS0ctb3UxWmVuYWNJODA5ZlZJRm50MV9lTWswdHFQOXdEMm1PZFdOSnZyWFVXQWR2YVI2Zw?oc=5"
+          },
+          {
+            "label": "36Kr：OpenClaw，崩了 - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          }
+        ],
+        "source": "NAI500",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM2F5Smp2Ung0MnMydXhlU2c1WDFydU1Zek15ZjNQaXZtWU5DYUpnM2dJNDdhRGtXcnh3MGpaamZoZFFhazF0alNQbW0yRWNvZEEwZ2oxWWdsSkl6MVUwRjJJQWFkSzBfeXNrNnR0MzJsYVY5b2hUWWdTNHRucklwV3VGY1h0aTJTUDBCQk1WcGxKQVlGT3N0di1tNzJJWHRqRHdNT0FnWWpNSzJmWDV0d3ZyMkRsclAxWG1NbHpMUVJiUC1nZTF5d3BuUFQtR1dQZC15WENhT1QxQ05GOEt4bXd1QTVRY1pIUzI3b25xWDdTbnppMmlTZkhxbw?oc=5"
+      },
       {
         "slug": "open-source-20260702-auto-1-d00522",
         "title": "Altman 投的Agent 终端",
