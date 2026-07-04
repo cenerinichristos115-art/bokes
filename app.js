@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260704-auto-1-978608",
+        "title": "ANTHROPIC LAUNCHES",
+        "category": "AI新闻",
+        "date": "2026-07-04",
+        "summary": "ANTHROPIC LAUNCHES CLAUDE SCIENCE FOR MAC TO BRING",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ANTHROPIC LAUNCHES 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "ANTHROPIC LAUNCHES CLAUDE SCIENCE FOR MAC TO BRING",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ANTHROPIC LAUNCHES CLAUDE SCIENCE FOR MAC TO BRING",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Magzter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanltdVJCLVp4NVhBcHBYaVN6amZvODhBeTVLRHZSa1Q5MnRLeTF4SVZXLTNlWUZ0Vkt4MGZzVl9jVkQzaW9URzZhUW5ZdVJfVWIzTEJUN1YwOGd0eEpFN1hYc2paOXFfbHRNYUVqN2ZHSE1VVWpXMDVzSlE4ckJoUS1EclVGTW1iT0JmbGRheldmTWh5MmNfZ3BLT3Q1eV9VR3h5OV83OTJ4RHUtNXd5YTNadTVvaGluUDNJeHZTNlY?oc=5"
+          },
+          {
+            "label": "智源社区：清华大学人工智能国际治理研究院代表团访问柏林洪堡互联网与社会研究所 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZc3Fvd1ZoNTlKd0dnOXFHeEVnVzBHVTJzQjFNdDc3Q3VRc1hpaEpyczRpeEtOQnZwNUgwRkFXcTBLX0JCYmZYaQ?oc=5"
+          },
+          {
+            "label": "Times Square Chronicles：Why AI Agents Are Becoming the Next Competitive Advantage for Business",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkxDZTVYY0pkVmViLVVfc3Y1X2RqNnZWOFNCcmJFeFFSblRQRnRVWmJlSktVbERMaHY3Ykxxd0l4a3I1b2hrZ1F4dzNheERfSnp4Q2puZlZnTlNtUEsxaWxmMDlvRS1wSF9sbEd0MDFyVmN5bVBucy1qZ1NSRXlWdm85Szlhdkw1cFhuaFRSSEJTSWktcm0wX0I0UQ?oc=5"
+          }
+        ],
+        "source": "Magzter",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanltdVJCLVp4NVhBcHBYaVN6amZvODhBeTVLRHZSa1Q5MnRLeTF4SVZXLTNlWUZ0Vkt4MGZzVl9jVkQzaW9URzZhUW5ZdVJfVWIzTEJUN1YwOGd0eEpFN1hYc2paOXFfbHRNYUVqN2ZHSE1VVWpXMDVzSlE4ckJoUS1EclVGTW1iT0JmbGRheldmTWh5MmNfZ3BLT3Q1eV9VR3h5OV83OTJ4RHUtNXd5YTNadTVvaGluUDNJeHZTNlY?oc=5"
+      },
+      {
+        "slug": "ai-news-20260704-auto-2-1a0d84",
+        "title": "清华大学人工智能国际治理研究院代表团",
+        "category": "AI新闻",
+        "date": "2026-07-04",
+        "summary": "清华大学人工智能国际治理研究院代表团访问柏林洪堡互联网与社会研究所 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "清华大学人工智能国际治理研究院代表团 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "清华大学人工智能国际治理研究院代表团访问柏林洪堡互联网与社会研究所 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "清华大学人工智能国际治理研究院代表团访问柏林洪堡互联网与社会研究所 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZc3Fvd1ZoNTlKd0dnOXFHeEVnVzBHVTJzQjFNdDc3Q3VRc1hpaEpyczRpeEtOQnZwNUgwRkFXcTBLX0JCYmZYaQ?oc=5"
+          },
+          {
+            "label": "Magzter：ANTHROPIC LAUNCHES CLAUDE SCIENCE FOR MAC TO BRING AI INTO THE LAB | T",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanltdVJCLVp4NVhBcHBYaVN6amZvODhBeTVLRHZSa1Q5MnRLeTF4SVZXLTNlWUZ0Vkt4MGZzVl9jVkQzaW9URzZhUW5ZdVJfVWIzTEJUN1YwOGd0eEpFN1hYc2paOXFfbHRNYUVqN2ZHSE1VVWpXMDVzSlE4ckJoUS1EclVGTW1iT0JmbGRheldmTWh5MmNfZ3BLT3Q1eV9VR3h5OV83OTJ4RHUtNXd5YTNadTVvaGluUDNJeHZTNlY?oc=5"
+          },
+          {
+            "label": "Times Square Chronicles：Why AI Agents Are Becoming the Next Competitive Advantage for Business",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkxDZTVYY0pkVmViLVVfc3Y1X2RqNnZWOFNCcmJFeFFSblRQRnRVWmJlSktVbERMaHY3Ykxxd0l4a3I1b2hrZ1F4dzNheERfSnp4Q2puZlZnTlNtUEsxaWxmMDlvRS1wSF9sbEd0MDFyVmN5bVBucy1qZ1NSRXlWdm85Szlhdkw1cFhuaFRSSEJTSWktcm0wX0I0UQ?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZc3Fvd1ZoNTlKd0dnOXFHeEVnVzBHVTJzQjFNdDc3Q3VRc1hpaEpyczRpeEtOQnZwNUgwRkFXcTBLX0JCYmZYaQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260703-auto-1-6a03fa",
         "title": "AI drones made in",
         "category": "AI新闻",
@@ -11303,6 +11419,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260704-auto-1-c2e8e8",
+        "title": "Anthropic称Fable 5偏",
+        "category": "AI使用教程",
+        "date": "2026-07-04",
+        "summary": "Anthropic称Fable 5偏向精简，Claude Code系统提示词已减少80%|IT之家|",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic称Fable 5偏 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic称Fable 5偏向精简，Claude Code系统提示词已减少80%|IT之家|",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic称Fable 5偏向精简，Claude Code系统提示词已减少80%|IT之家|",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPRDR6bjNsdnppc2Uwc29zS01nZHVscGltSXEySUZpV3VpM3EyV0twd0p5Z1ZTNXowMVIzRXgycGJaVHhwcTRrX05vT2lnSjJyOU5qSHpCUHNtZlRveXF0YmN5cU1seFd3QTZSR052VVpZMFpmcHJJUWgyQWNHYWhNSlVTWm1teUFYMFhZa2xNaUVXTnBTRWFrejl0S3NydUVKZm5lNkRZcnlBak92S0VkanNDMW1maVZlRk5fMC1CN0Z4a0U4dk1zbWk2YXlWLXRORUtqSVhCQlJmWmJ0U3ZrajhzUU5LSmtsaHdyend6NWxzT01tb0V4ZVJKaEoyYXJzODE2Q0U3NUlCclI3WTBOd2l3eE5hTm80LWVGYlBscnFETU9uVmJ0Z0dmazdCNGtDRUxuTHJ0MWUzWlV4Y2FOek1fU2NiN3pjRHNDUU9vRG1wYkt4TW10RW4xTVQ1emVTdldPbHlzcnAyTFIzamc5emRLNA?oc=5"
+          },
+          {
+            "label": "Mshale：AI News: Sam Altman's Predictions, Talent Wars Continue, Project Starg",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwM25IZWswU21aWktVUXBmR1dwcHFKRzUyT1NJTnIxaktaWXZzZ3JiRWlCRTBVcFhDSC0zZW81dk5zTi14UE9lYjlUdm1NRlVCQ0h5bzZxa3BSRFk?oc=5"
+          },
+          {
+            "label": "Tom's Guide：I thought ChatGPT was just for writing — these 13 tasks completely cha",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZjgwMGRoU0tVekxJem9OTnNjWThTM1p6TTZuSlNndkhNM29QSDBmUDhYNGFLU0J3TFdFYllxYlN5ODJzV3F5R3lMVGE0MW9JbXY4TFMzOGRBOHJYb3RYX2tQMWstS0x2Qll5a213Y05SaW1ONmhGSkpPQWZXT2poQzFHVDRKcDB5ZjJRbEdWYUdMcUlRX2hyOTZHQ0JaTmVHWk5rOURCbGNQakRMOFE?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPRDR6bjNsdnppc2Uwc29zS01nZHVscGltSXEySUZpV3VpM3EyV0twd0p5Z1ZTNXowMVIzRXgycGJaVHhwcTRrX05vT2lnSjJyOU5qSHpCUHNtZlRveXF0YmN5cU1seFd3QTZSR052VVpZMFpmcHJJUWgyQWNHYWhNSlVTWm1teUFYMFhZa2xNaUVXTnBTRWFrejl0S3NydUVKZm5lNkRZcnlBak92S0VkanNDMW1maVZlRk5fMC1CN0Z4a0U4dk1zbWk2YXlWLXRORUtqSVhCQlJmWmJ0U3ZrajhzUU5LSmtsaHdyend6NWxzT01tb0V4ZVJKaEoyYXJzODE2Q0U3NUlCclI3WTBOd2l3eE5hTm80LWVGYlBscnFETU9uVmJ0Z0dmazdCNGtDRUxuTHJ0MWUzWlV4Y2FOek1fU2NiN3pjRHNDUU9vRG1wYkt4TW10RW4xTVQ1emVTdldPbHlzcnAyTFIzamc5emRLNA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260703-auto-1-b84f75",
         "title": "赋能业务提质增效！龙岗区城市更新和土",
         "category": "AI使用教程",
@@ -16377,6 +16551,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260704-auto-1-46acfe",
+        "title": "OpenClaw，崩了 - 36 K",
+        "category": "开源项目",
+        "date": "2026-07-04",
+        "summary": "OpenClaw，崩了 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw，崩了 - 36 K 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenClaw，崩了 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenClaw，崩了 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "搜狐网：【开源北交所】广脉科技(920924.BJ)：紧抓AI与算力战略机遇，2025年营收同比增长20% - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG92ajB1TGRNRzFtV3dsUUVNaEM5R0pQU3d5b2JRd3YtXzl3aHhobHVfS19Fc2dlSjhpQ0NEQ25wXzlLbkU4UmFUSmdxdzVBTFV4WWZuRHVMRzV5WnVnaGRNNTZQcUYycUp3bjN1elozbXExQ0NBdy1tUE52MmREeW9qOUN5S1RGZTlKRg?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Mod",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+      },
+      {
+        "slug": "open-source-20260704-auto-2-3618eb",
+        "title": "【开源北交所】广脉科技(920924",
+        "category": "开源项目",
+        "date": "2026-07-04",
+        "summary": "【开源北交所】广脉科技(920924.BJ)：紧抓AI与算力战略机遇，2025年营收同比增长20%",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【开源北交所】广脉科技(920924 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "【开源北交所】广脉科技(920924.BJ)：紧抓AI与算力战略机遇，2025年营收同比增长20%",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【开源北交所】广脉科技(920924.BJ)：紧抓AI与算力战略机遇，2025年营收同比增长20%",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG92ajB1TGRNRzFtV3dsUUVNaEM5R0pQU3d5b2JRd3YtXzl3aHhobHVfS19Fc2dlSjhpQ0NEQ25wXzlLbkU4UmFUSmdxdzVBTFV4WWZuRHVMRzV5WnVnaGRNNTZQcUYycUp3bjN1elozbXExQ0NBdy1tUE52MmREeW9qOUN5S1RGZTlKRg?oc=5"
+          },
+          {
+            "label": "36 Kr：OpenClaw，崩了 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Mod",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdnJkSTA0NDFkUnpDaWZTYjdKVmROaEdNNVNON3RrNTctMlBBdmZRanl0VHZmLXpZaXJRYnBFVF9haEI1eVhORFFnLTFBenJZQ3VzWE5BT25FMGtHcWJ5MVNkTnpIUDVUcFBYQk5SdE5oc2haVW1OWVd2aUJvR0taamd4N3Jpd3BXbkN3RHNXQWhrYXg2WXVzM1NvV181RHh4WVFVdl9ibDQ2UnpzTUVhRTBFTTJHY0RlaVVpWkVwczdRZXZHdENSQXo3Y0FnQkU1cFk5YVNZWHVNdFQwN2t5VFh3ZDRTOFU?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG92ajB1TGRNRzFtV3dsUUVNaEM5R0pQU3d5b2JRd3YtXzl3aHhobHVfS19Fc2dlSjhpQ0NEQ25wXzlLbkU4UmFUSmdxdzVBTFV4WWZuRHVMRzV5WnVnaGRNNTZQcUYycUp3bjN1elozbXExQ0NBdy1tUE52MmREeW9qOUN5S1RGZTlKRg?oc=5"
+      },
       {
         "slug": "open-source-20260703-auto-1-a9854c",
         "title": "恒拓开源2026年中期投资者交流活动",
