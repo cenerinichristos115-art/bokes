@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260705-auto-1-e516f3",
+        "title": "“向航海致敬：我心目中的航运业”AI",
+        "category": "AI新闻",
+        "date": "2026-07-05",
+        "summary": "“向航海致敬：我心目中的航运业”AI创作比赛工作坊圆满举行 紫荆网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“向航海致敬：我心目中的航运业”AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“向航海致敬：我心目中的航运业”AI创作比赛工作坊圆满举行 紫荆网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“向航海致敬：我心目中的航运业”AI创作比赛工作坊圆满举行 紫荆网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "紫荆网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZThBaXk0eldiek1ka0xzdVNiTThFNHI1V1pULVYxREpaZzBoREJFam5BU0l5WS0zaEpLRm1RSlo2WkgwTHdYcjJscGd1cWFiQ0JfVVFJcUdjOENFUGxldGUzNl9USWdsRUkxZ014cVlLU0x4ek50TkZhUlpLeGN1cmJQMzB2WndqVjl0SHI4aXB5WEdU?oc=5"
+          },
+          {
+            "label": "매일경제：Artificial intelligence (AI) agents have been shown to be significantl",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9naGF0YjJOSFBQSXJFVTczWUpxeF85UExVWmZzTE1aeFFVTXNKaEhta2w5WjVwQXNVLXdvTHJEekFRdWFLRlFYeElUTQ?oc=5"
+          },
+          {
+            "label": "新浪财经：丰田将借助AI把各部门4.5万个专业术语精简至5000个 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkN3RmpjYk85Wk14ekYzVGR3eTZ5RDlQMWQ2LWk2NEpQbmRTVnNUa2pqUXN1QnRnMDlZS0ZGUVFWMFZ1RElDMWVoZ3ZBdUkzMFBMVGJhcmRvdE1hdGgtQXp2aXBUWXhFOWtNbGRJVkExVFpiQ3paa3NncUVrWmwyZUtQaXktM3RDWEhDZkJoMWNsNmpRSG5JUE9NYWk0WjNxdmE2bmJMSmdDM3A0LW1UcUdR?oc=5"
+          }
+        ],
+        "source": "紫荆网",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZThBaXk0eldiek1ka0xzdVNiTThFNHI1V1pULVYxREpaZzBoREJFam5BU0l5WS0zaEpLRm1RSlo2WkgwTHdYcjJscGd1cWFiQ0JfVVFJcUdjOENFUGxldGUzNl9USWdsRUkxZ014cVlLU0x4ek50TkZhUlpLeGN1cmJQMzB2WndqVjl0SHI4aXB5WEdU?oc=5"
+      },
+      {
+        "slug": "ai-news-20260705-auto-2-8b4310",
+        "title": "Artificial intelli",
+        "category": "AI新闻",
+        "date": "2026-07-05",
+        "summary": "Artificial intelligence (AI) agents have been show",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Artificial intelligence (AI) agents have been show",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial intelligence (AI) agents have been show",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "매일경제：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9naGF0YjJOSFBQSXJFVTczWUpxeF85UExVWmZzTE1aeFFVTXNKaEhta2w5WjVwQXNVLXdvTHJEekFRdWFLRlFYeElUTQ?oc=5"
+          },
+          {
+            "label": "紫荆网：“向航海致敬：我心目中的航运业”AI创作比赛工作坊圆满举行 - 紫荆网",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZThBaXk0eldiek1ka0xzdVNiTThFNHI1V1pULVYxREpaZzBoREJFam5BU0l5WS0zaEpLRm1RSlo2WkgwTHdYcjJscGd1cWFiQ0JfVVFJcUdjOENFUGxldGUzNl9USWdsRUkxZ014cVlLU0x4ek50TkZhUlpLeGN1cmJQMzB2WndqVjl0SHI4aXB5WEdU?oc=5"
+          },
+          {
+            "label": "新浪财经：丰田将借助AI把各部门4.5万个专业术语精简至5000个 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkN3RmpjYk85Wk14ekYzVGR3eTZ5RDlQMWQ2LWk2NEpQbmRTVnNUa2pqUXN1QnRnMDlZS0ZGUVFWMFZ1RElDMWVoZ3ZBdUkzMFBMVGJhcmRvdE1hdGgtQXp2aXBUWXhFOWtNbGRJVkExVFpiQ3paa3NncUVrWmwyZUtQaXktM3RDWEhDZkJoMWNsNmpRSG5JUE9NYWk0WjNxdmE2bmJMSmdDM3A0LW1UcUdR?oc=5"
+          }
+        ],
+        "source": "매일경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9naGF0YjJOSFBQSXJFVTczWUpxeF85UExVWmZzTE1aeFFVTXNKaEhta2w5WjVwQXNVLXdvTHJEekFRdWFLRlFYeElUTQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260704-auto-1-978608",
         "title": "ANTHROPIC LAUNCHES",
         "category": "AI新闻",
@@ -11419,6 +11535,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260705-auto-1-dd1c45",
+        "title": "OriginOS 6的AI功能实际好",
+        "category": "AI使用教程",
+        "date": "2026-07-05",
+        "summary": "OriginOS 6的AI功能实际好用吗？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OriginOS 6的AI功能实际好 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OriginOS 6的AI功能实际好用吗？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OriginOS 6的AI功能实际好用吗？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhSU5BRFpzbHUxcUxSY0U0ZEVPc2kwNHlBNFN4OURJTTE1SEg2dGRmU3RaeDFrWldaZEt6Ykw0V19mdGlzX1pXQmYzbDJiNFJ6bkZBNTV0aEd2d2Jmc3RKZEI2el8xMENQMDNWMGNFM1FDeW5raFNiV0lfSVQxMmc?oc=5"
+          },
+          {
+            "label": "新浪财经：Loop Engineering 会是 AI 的下个关键词吗？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBROFh1QXVMc3NzN3JIZ1V6SURWYlBQYzNzWmc1MXlaaEc5MjZKR1JuU2FmN0p5bXlVZGg5MkxCcndhLW1FRUZlcGlJN0t0cUFEUGp4bTZoVHA0Sm1PTkFQVU1UVnJ4NGZENTg4NmFwMnFRd0k2MFNNLVNJdVhBNU0?oc=5"
+          },
+          {
+            "label": "新浪财经：Claude Code藏木马事件之后，中美在AI领域竞争已经进入了更残酷的新阶段 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEZqVHhVVlhnV1J5NFVlT3RmSDBCOU5nZGlVZ1RvMVFOY3RIS3U5VUVRaFUtdnlaNzJ2RURKbjdEZXRibVBpeFhTc2l3QUt3YU9aOW9UM0RvVmhrQUttQUJyWEpMajNmTUNIVFNUN2J2Y2JOYlR5c1l2THBDNHNLNEdXcFd0S1FyVGFiTkhKSkMyem1XUlpmSVRoRXRvVHNwMldsdlY3bw?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhSU5BRFpzbHUxcUxSY0U0ZEVPc2kwNHlBNFN4OURJTTE1SEg2dGRmU3RaeDFrWldaZEt6Ykw0V19mdGlzX1pXQmYzbDJiNFJ6bkZBNTV0aEd2d2Jmc3RKZEI2el8xMENQMDNWMGNFM1FDeW5raFNiV0lfSVQxMmc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260704-auto-1-c2e8e8",
         "title": "Anthropic称Fable 5偏",
         "category": "AI使用教程",
@@ -16551,6 +16725,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260705-auto-1-9cbab0",
+        "title": "本周 AI 项目推荐：WorldMo",
+        "category": "开源项目",
+        "date": "2026-07-05",
+        "summary": "本周 AI 项目推荐：WorldModelBench，WorldScore，WorldLens…世界",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "本周 AI 项目推荐：WorldMo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "本周 AI 项目推荐：WorldModelBench，WorldScore，WorldLens…世界",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "本周 AI 项目推荐：WorldModelBench，WorldScore，WorldLens…世界",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenlJWms5Y1Rwc24wcHlrY0NySy16UUROUTRHMUZiMVFfczlCZGpxSzczZmIwUWdzTkhqcVNxZkp0bWF4LVQzVUtjV2VMUGZ2b1pMTTc1UldIY0lEQjVBekd5Sm9VeEdXUGVnRWoxdDFMdkhTekpxdWQ4aHZyOXRQQVR1RnUyYjZqWGxzdXlLdjk2TnNud0hEdFVqZnF5N25GUUs0QTFZSDJOazhkVDJmRlF3?oc=5"
+          },
+          {
+            "label": "Tech My Money：Z.ai GLM-5.2 Brings Open-Weight Pressure to Anthropic Mythos Territory",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUdIBgwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUQ?oc=5"
+          },
+          {
+            "label": "Kabul University：Where to buy Sleepless AI: Best Approaches & Manual - Kabul University",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vRU5vOFQ5cTFjZ1lMX2pqTmZXckNZS2U0em01bTNNWmQ2ZmxPNThCNkRmQUNOVElTSHN3QWRUM2wzZUpRdXhBYTN6Sm5IekhyRGhhQjVDTzFCcEFMdEJVYjlCYXlvOERfUGV4YlpyUVRxUFR3eE51QWdkeU9UZw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenlJWms5Y1Rwc24wcHlrY0NySy16UUROUTRHMUZiMVFfczlCZGpxSzczZmIwUWdzTkhqcVNxZkp0bWF4LVQzVUtjV2VMUGZ2b1pMTTc1UldIY0lEQjVBekd5Sm9VeEdXUGVnRWoxdDFMdkhTekpxdWQ4aHZyOXRQQVR1RnUyYjZqWGxzdXlLdjk2TnNud0hEdFVqZnF5N25GUUs0QTFZSDJOazhkVDJmRlF3?oc=5"
+      },
+      {
+        "slug": "open-source-20260705-auto-2-bda2b2",
+        "title": "Z.ai GLM-5.2 Bring",
+        "category": "开源项目",
+        "date": "2026-07-05",
+        "summary": "Z.ai GLM-5.2 Brings Open-Weight Pressure to Anthro",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Z.ai GLM-5.2 Bring 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Z.ai GLM-5.2 Brings Open-Weight Pressure to Anthro",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Z.ai GLM-5.2 Brings Open-Weight Pressure to Anthro",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech My Money：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUdIBgwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUQ?oc=5"
+          },
+          {
+            "label": "新浪财经：本周 AI 项目推荐：WorldModelBench，WorldScore，WorldLens…世界模型井喷，需要新的Benchmark -",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQenlJWms5Y1Rwc24wcHlrY0NySy16UUROUTRHMUZiMVFfczlCZGpxSzczZmIwUWdzTkhqcVNxZkp0bWF4LVQzVUtjV2VMUGZ2b1pMTTc1UldIY0lEQjVBekd5Sm9VeEdXUGVnRWoxdDFMdkhTekpxdWQ4aHZyOXRQQVR1RnUyYjZqWGxzdXlLdjk2TnNud0hEdFVqZnF5N25GUUs0QTFZSDJOazhkVDJmRlF3?oc=5"
+          },
+          {
+            "label": "Kabul University：Where to buy Sleepless AI: Best Approaches & Manual - Kabul University",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vRU5vOFQ5cTFjZ1lMX2pqTmZXckNZS2U0em01bTNNWmQ2ZmxPNThCNkRmQUNOVElTSHN3QWRUM2wzZUpRdXhBYTN6Sm5IekhyRGhhQjVDTzFCcEFMdEJVYjlCYXlvOERfUGV4YlpyUVRxUFR3eE51QWdkeU9UZw?oc=5"
+          }
+        ],
+        "source": "Tech My Money",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUdIBgwFBVV95cUxQNFlIZjNDM28wU0lQNnJ5UE9mMTI5cGJjcnNUNE9kRmtOMGpxUFJlYnhuTGFvSVZjazduclpZWUExU2tvMzlEOXd0d2FNV0ZHdFo3QzRndWtab1IyOTlyZGp6dGRiM3pVZGxsTjhhbVdncjdKMXhpRnpvalVUU0VvemFTUQ?oc=5"
+      },
       {
         "slug": "open-source-20260704-auto-1-46acfe",
         "title": "OpenClaw，崩了 - 36 K",
