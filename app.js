@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260706-auto-1-5d5be0",
+        "title": "Weighing build ver",
+        "category": "AI新闻",
+        "date": "2026-07-06",
+        "summary": "Weighing build versus buy in travel's AI era Phocu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Weighing build ver 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Weighing build versus buy in travel's AI era Phocu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Weighing build versus buy in travel's AI era Phocu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PhocusWire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBWYml6djFNcmowUmstRFFZXzRPWXM5cTVhRHYtMVgyUm5tbHVJUC1uTk9Fd09aTEFMTEI5UkdHTTRmOGxlcE9OM0Eyb3Q1WXo2OS1qYnEySXNkanRNY0lsOGluODZ0V1plZmJYUF9qY1BoQXpWd2ZsVzYzeUp2T1J1cl90Um5uNTFIUGk4aHlrUkhjemtySg?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Microsoft 'Sum of the Parts' (SOTP) Spin-Off case. AI-RTZ #1139 - ",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQXJqa3pHOUJqREdZYXlDSEkzczVYbjNIQnBOMDNGLVo3WllOeUdUWlJqN3p4OGo3ZzNEeFNTTmZmRGpCcktMT3ZkLWpDT1Rxa1VZSUNMSERaUWVwaUhIc0xNN0JNdzEzajZaMkpEUDJBVjVRTHczd3BQbw?oc=5"
+          },
+          {
+            "label": "21财经：以数学研究重构AI算法，大湾区大学人工智能研究院在东莞成立 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckZUTUhUYXdvT0FfSUUxQm5fVV9pM2N6bXZuNXptQWdVZTMtUkd2ci1JZ3hsa1N3bmJYZDBDQWxvODhFOWIxamVIcXpfZG1iODV6YTc0S0pwRGlLLXR6YUg5R2dGVXFNV2hheXZUNXNDU2hjSm4ycFVOVllaWWdRUmxoTVZFMVVvcWhRZlNuenpYQ1NY?oc=5"
+          }
+        ],
+        "source": "PhocusWire",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBWYml6djFNcmowUmstRFFZXzRPWXM5cTVhRHYtMVgyUm5tbHVJUC1uTk9Fd09aTEFMTEI5UkdHTTRmOGxlcE9OM0Eyb3Q1WXo2OS1qYnEySXNkanRNY0lsOGluODZ0V1plZmJYUF9qY1BoQXpWd2ZsVzYzeUp2T1J1cl90Um5uNTFIUGk4aHlrUkhjemtySg?oc=5"
+      },
+      {
+        "slug": "ai-news-20260706-auto-2-c0a878",
+        "title": "AI: Microsoft 'Sum",
+        "category": "AI新闻",
+        "date": "2026-07-06",
+        "summary": "AI: Microsoft 'Sum of the Parts' (SOTP) Spin-Off c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Microsoft 'Sum 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI: Microsoft 'Sum of the Parts' (SOTP) Spin-Off c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Microsoft 'Sum of the Parts' (SOTP) Spin-Off c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQXJqa3pHOUJqREdZYXlDSEkzczVYbjNIQnBOMDNGLVo3WllOeUdUWlJqN3p4OGo3ZzNEeFNTTmZmRGpCcktMT3ZkLWpDT1Rxa1VZSUNMSERaUWVwaUhIc0xNN0JNdzEzajZaMkpEUDJBVjVRTHczd3BQbw?oc=5"
+          },
+          {
+            "label": "PhocusWire：Weighing build versus buy in travel's AI era - PhocusWire",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclBWYml6djFNcmowUmstRFFZXzRPWXM5cTVhRHYtMVgyUm5tbHVJUC1uTk9Fd09aTEFMTEI5UkdHTTRmOGxlcE9OM0Eyb3Q1WXo2OS1qYnEySXNkanRNY0lsOGluODZ0V1plZmJYUF9qY1BoQXpWd2ZsVzYzeUp2T1J1cl90Um5uNTFIUGk4aHlrUkhjemtySg?oc=5"
+          },
+          {
+            "label": "21财经：以数学研究重构AI算法，大湾区大学人工智能研究院在东莞成立 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckZUTUhUYXdvT0FfSUUxQm5fVV9pM2N6bXZuNXptQWdVZTMtUkd2ci1JZ3hsa1N3bmJYZDBDQWxvODhFOWIxamVIcXpfZG1iODV6YTc0S0pwRGlLLXR6YUg5R2dGVXFNV2hheXZUNXNDU2hjSm4ycFVOVllaWWdRUmxoTVZFMVVvcWhRZlNuenpYQ1NY?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQXJqa3pHOUJqREdZYXlDSEkzczVYbjNIQnBOMDNGLVo3WllOeUdUWlJqN3p4OGo3ZzNEeFNTTmZmRGpCcktMT3ZkLWpDT1Rxa1VZSUNMSERaUWVwaUhIc0xNN0JNdzEzajZaMkpEUDJBVjVRTHczd3BQbw?oc=5"
+      },
+      {
         "slug": "ai-news-20260705-auto-1-e516f3",
         "title": "“向航海致敬：我心目中的航运业”AI",
         "category": "AI新闻",
@@ -11535,6 +11651,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260706-auto-1-ade2ae",
+        "title": "算泥AI开发者社区MVP招募重磅启动",
+        "category": "AI使用教程",
+        "date": "2026-07-06",
+        "summary": "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "算泥AI开发者社区MVP招募重磅启动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFBNOURSRHg5emVDUDNROG5iSG11b2hVb2pIX3VERmZ5WHhZdDY0eDE2dEhrR05iaGVLdGxPSVJuZEFHZFoxSndRX2tma09IMXh2YmtacG8yVkYxT2tDUGFnWHBFMGFDM0lBRnNUeVJ2c3ZHRngtMlRBRmgtb01ZRjZVeXFvOEVxekJKSA?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMUIteXpQOU9pOGRSN3diMmVNY1BFbl9VVmFzbGgyblRsLWFJR1hHa1N2MjlQNkV5bTVNMkY0bVhqeWNZWTZWSFFsc2RxWjg5X2t4aTdkSXVRY05YaTFmc0dEdS1SUkN2VVFVQl81MA?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：用AI还要偷偷摸摸，这届员工在怕什么？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WMGI5MXc2WUlkRFNNT3Q4SzcwRS1QZ3ZjcFhXRnhITFJWT05YUmgxYjhMeGc1NUF3OEZZVjVUVEx6dzdOckJnNmVWVDlFY1JTbEo5RF9sYmVaSWxMR3RLaGFUMHBCLTlpcUxITkZn?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcFBNOURSRHg5emVDUDNROG5iSG11b2hVb2pIX3VERmZ5WHhZdDY0eDE2dEhrR05iaGVLdGxPSVJuZEFHZFoxSndRX2tma09IMXh2YmtacG8yVkYxT2tDUGFnWHBFMGFDM0lBRnNUeVJ2c3ZHRngtMlRBRmgtb01ZRjZVeXFvOEVxekJKSA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260705-auto-1-dd1c45",
         "title": "OriginOS 6的AI功能实际好",
         "category": "AI使用教程",
@@ -16725,6 +16899,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260706-auto-1-d6087a",
+        "title": "Purchase PAAL AI w",
+        "category": "开源项目",
+        "date": "2026-07-06",
+        "summary": "Purchase PAAL AI with Credit Card: Full Introducti",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Purchase PAAL AI w 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Purchase PAAL AI with Credit Card: Full Introducti",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Purchase PAAL AI with Credit Card: Full Introducti",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Kabul University：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWh0WVZaanR2OXlPZVJGMkY1eWhSNDVkTngtWXJ6eEp0OWU3OE5iOHdaVllSamdBcGJucDRsRzNsNUxmajk3RFRBRUdCZGpjOVk3NmlqV01rdUFxVmZzVFE3N3ptZ1phdXNXMEZzWk1nRjhfV3A1TmQzWGFKMkdBOS1B?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMUIteXpQOU9pOGRSN3diMmVNY1BFbl9VVmFzbGgyblRsLWFJR1hHa1N2MjlQNkV5bTVNMkY0bVhqeWNZWTZWSFFsc2RxWjg5X2t4aTdkSXVRY05YaTFmc0dEdS1SUkN2VVFVQl81MA?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：忍无可忍，Godot正式对AI代码“下狠手”！禁止Vibe Coding、大幅提高PR门槛：“无法相信高度依赖AI的开发者” - blog.",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wZEpqMVpqYUI3T3RVMUZpandHdHRxeFV4aWdiRzhQYnJhNWUtYXJlOHRkcmF6RElUZDF3WGRobENzaldIU0YySkxleU14Mkd2dE5EUlZpV1pSMi0zNXJ2M1JaaEdwSEE?oc=5"
+          }
+        ],
+        "source": "Kabul University",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWh0WVZaanR2OXlPZVJGMkY1eWhSNDVkTngtWXJ6eEp0OWU3OE5iOHdaVllSamdBcGJucDRsRzNsNUxmajk3RFRBRUdCZGpjOVk3NmlqV01rdUFxVmZzVFE3N3ptZ1phdXNXMEZzWk1nRjhfV3A1TmQzWGFKMkdBOS1B?oc=5"
+      },
+      {
+        "slug": "open-source-20260706-auto-2-e30490",
+        "title": "算泥AI开发者社区MVP招募重磅启动",
+        "category": "开源项目",
+        "date": "2026-07-06",
+        "summary": "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ blog.csd",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "算泥AI开发者社区MVP招募重磅启动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ blog.csd",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "算泥AI开发者社区MVP招募重磅启动！AI领域顶尖人才专属权益，邀你共建技术生态！ blog.csd",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.csdn.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMUIteXpQOU9pOGRSN3diMmVNY1BFbl9VVmFzbGgyblRsLWFJR1hHa1N2MjlQNkV5bTVNMkY0bVhqeWNZWTZWSFFsc2RxWjg5X2t4aTdkSXVRY05YaTFmc0dEdS1SUkN2VVFVQl81MA?oc=5"
+          },
+          {
+            "label": "Kabul University：Purchase PAAL AI with Credit Card: Full Introduction - Kabul Universit",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZWh0WVZaanR2OXlPZVJGMkY1eWhSNDVkTngtWXJ6eEp0OWU3OE5iOHdaVllSamdBcGJucDRsRzNsNUxmajk3RFRBRUdCZGpjOVk3NmlqV01rdUFxVmZzVFE3N3ptZ1phdXNXMEZzWk1nRjhfV3A1TmQzWGFKMkdBOS1B?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：忍无可忍，Godot正式对AI代码“下狠手”！禁止Vibe Coding、大幅提高PR门槛：“无法相信高度依赖AI的开发者” - blog.",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wZEpqMVpqYUI3T3RVMUZpandHdHRxeFV4aWdiRzhQYnJhNWUtYXJlOHRkcmF6RElUZDF3WGRobENzaldIU0YySkxleU14Mkd2dE5EUlZpV1pSMi0zNXJ2M1JaaEdwSEE?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hMUIteXpQOU9pOGRSN3diMmVNY1BFbl9VVmFzbGgyblRsLWFJR1hHa1N2MjlQNkV5bTVNMkY0bVhqeWNZWTZWSFFsc2RxWjg5X2t4aTdkSXVRY05YaTFmc0dEdS1SUkN2VVFVQl81MA?oc=5"
+      },
       {
         "slug": "open-source-20260705-auto-1-9cbab0",
         "title": "本周 AI 项目推荐：WorldMo",
