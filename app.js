@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260707-auto-1-646eae",
+        "title": "国家发改委：预计今年 AI 手机、A",
+        "category": "AI新闻",
+        "date": "2026-07-07",
+        "summary": "国家发改委：预计今年 AI 手机、AI 电脑销量将首超非 AI 产品 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国家发改委：预计今年 AI 手机、A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "国家发改委：预计今年 AI 手机、AI 电脑销量将首超非 AI 产品 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "国家发改委：预计今年 AI 手机、AI 电脑销量将首超非 AI 产品 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aaHIteF9yZGpxMUNxeG56WXlROFd5bDI0UkJZc0hlN3hpUUtFOGozc0taZ0QyeHgtandxSjZYTG1ZVGV0NHE5eWNXSWRUZTZKV3NSWjdkOTdRcmwxUl9NdDFxZ2c0cDYtcXVNMldVQUdES3M0?oc=5"
+          },
+          {
+            "label": "凤凰网：2026世界人工智能大会7月17日启幕，展览总面积首超10万平方米 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IRmdCYWtOOFhxYmZ5VVU3SGoweFgzWnRIdGx1ZkR2ckdJcEtZbnpmcmFpTUUydUswMG41bDV2VkNBUXRzSU5DQg?oc=5"
+          },
+          {
+            "label": "新浪网：国家发改委：预计今年AI手机、AI电脑销量将首超非AI产品 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NjhqOFdaZkZmM2dpc1hJT1pHeDFLYXNsY2JCY3Znc0RGQW5yczQ1dXZNZTQwWnBTUW90aFFuUHZxQ2VDcXhNdzRKdWpzaURJb2pkTGlsTG5WcmRBNHJDa2VlSE03eVdKeHduM3ZjY29WOFd4ZW5vSTdpYVB5clU?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aaHIteF9yZGpxMUNxeG56WXlROFd5bDI0UkJZc0hlN3hpUUtFOGozc0taZ0QyeHgtandxSjZYTG1ZVGV0NHE5eWNXSWRUZTZKV3NSWjdkOTdRcmwxUl9NdDFxZ2c0cDYtcXVNMldVQUdES3M0?oc=5"
+      },
+      {
+        "slug": "ai-news-20260707-auto-2-5cc167",
+        "title": "2026世界人工智能大会7月17日启",
+        "category": "AI新闻",
+        "date": "2026-07-07",
+        "summary": "2026世界人工智能大会7月17日启幕，展览总面积首超10万平方米 凤凰网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "2026世界人工智能大会7月17日启 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "2026世界人工智能大会7月17日启幕，展览总面积首超10万平方米 凤凰网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "2026世界人工智能大会7月17日启幕，展览总面积首超10万平方米 凤凰网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IRmdCYWtOOFhxYmZ5VVU3SGoweFgzWnRIdGx1ZkR2ckdJcEtZbnpmcmFpTUUydUswMG41bDV2VkNBUXRzSU5DQg?oc=5"
+          },
+          {
+            "label": "新浪网：国家发改委：预计今年 AI 手机、AI 电脑销量将首超非 AI 产品 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aaHIteF9yZGpxMUNxeG56WXlROFd5bDI0UkJZc0hlN3hpUUtFOGozc0taZ0QyeHgtandxSjZYTG1ZVGV0NHE5eWNXSWRUZTZKV3NSWjdkOTdRcmwxUl9NdDFxZ2c0cDYtcXVNMldVQUdES3M0?oc=5"
+          },
+          {
+            "label": "新浪网：国家发改委：预计今年AI手机、AI电脑销量将首超非AI产品 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NjhqOFdaZkZmM2dpc1hJT1pHeDFLYXNsY2JCY3Znc0RGQW5yczQ1dXZNZTQwWnBTUW90aFFuUHZxQ2VDcXhNdzRKdWpzaURJb2pkTGlsTG5WcmRBNHJDa2VlSE03eVdKeHduM3ZjY29WOFd4ZW5vSTdpYVB5clU?oc=5"
+          }
+        ],
+        "source": "凤凰网",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IRmdCYWtOOFhxYmZ5VVU3SGoweFgzWnRIdGx1ZkR2ckdJcEtZbnpmcmFpTUUydUswMG41bDV2VkNBUXRzSU5DQg?oc=5"
+      },
+      {
         "slug": "ai-news-20260706-auto-1-5d5be0",
         "title": "Weighing build ver",
         "category": "AI新闻",
@@ -11651,6 +11767,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260707-auto-1-3af614",
+        "title": "全球Agent都在卷的「Loop工程",
+        "category": "AI使用教程",
+        "date": "2026-07-07",
+        "summary": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工 blog.csdn.net",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全球Agent都在卷的「Loop工程 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工 blog.csdn.net",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全球Agent都在卷的「Loop工程」：AI自己干活、监工和返工 blog.csdn.net",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.csdn.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LMHdCZ0ZCREpYRUpwVV9uS0pDeGVONFVUQmUydmFobko5bU5YeEV0dTRhS21rYm9xZ0ZyQVNaNVBjVzN4S1JHVmFEQjRqUzhZaXU2R2FQVTg2UlhqUldjSm9iQ1FhZ3VQdHB3dVFn?oc=5"
+          },
+          {
+            "label": "매일경제：NHN举行了公司内部技术共享活动\"Agentic Day\",正在加快内部AX(AI转换)的步伐。 - 매일경제",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XTnVKQm11VmlIWHJ0bmZsN1FYajBDMG5NUjFhTlctMnd4Nklrc215aHlrTURfSHowaFhvc08za25EZkMza3RJQURGQQ?oc=5"
+          },
+          {
+            "label": "디지털투데이：NHN推进全公司AI转型，拟以AI代理实现安全漏洞检测自动化 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM3pUY1VkTWlURmt4QkFzQk40TkZVN29TVXJKUnV2eDlfeWM0RlJJZUJldk5vdTZNcHhSX05lZGQ2aUVIaVRWQlFVSVRRQXZycDBJQ2N6UWpDWnJwOFNyUU9lODlNZWJOVXBwY3M3MF9fMnhoX2xVeGNtcjAzcnZLb3hQa25FTnIybEtvYXZscV9Sa1VUMkxaUzVyRVJRTEo2ODV4bFRHMlJTTXVlMGFkc1l1VDRjUVVpYUpvOEkxYm9CNUVwTkhaNXp3dDRrQQ?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LMHdCZ0ZCREpYRUpwVV9uS0pDeGVONFVUQmUydmFobko5bU5YeEV0dTRhS21rYm9xZ0ZyQVNaNVBjVzN4S1JHVmFEQjRqUzhZaXU2R2FQVTg2UlhqUldjSm9iQ1FhZ3VQdHB3dVFn?oc=5"
+      },
+      {
         "slug": "ai-guide-20260706-auto-1-ade2ae",
         "title": "算泥AI开发者社区MVP招募重磅启动",
         "category": "AI使用教程",
@@ -16899,6 +17073,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260707-auto-1-9caff1",
+        "title": "AI办公迎来“最后一公里”：开源工具",
+        "category": "开源项目",
+        "date": "2026-07-07",
+        "summary": "AI办公迎来“最后一公里”：开源工具OfficeCLI让智能体精准掌控文档 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI办公迎来“最后一公里”：开源工具 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI办公迎来“最后一公里”：开源工具OfficeCLI让智能体精准掌控文档 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI办公迎来“最后一公里”：开源工具OfficeCLI让智能体精准掌控文档 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmhCcEZfOGRQclFIYU9NcGh5UGxUTnZ1RmVvQVk5bldES2tEcWhxYjZxeXVNLUM1andJaHFWWHphNU5ud0kwXzh4T0hXVV83TXYzT21oTTJBeGFYT09WWmJTdjZFeldMWWZ2a0pQSng0S09IbzUwVkhIVUE4MFo0Y0hxb0JuN2x0QjREYg?oc=5"
+          },
+          {
+            "label": "电子工程专辑：【每日瞰AI】金山办公回应WPS 收费争议：AI 服务独立计费，不影响基础免费功能；苹果与博通延长合作至2031 年，联合开发AI 定制芯片",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91WXZtRWN5SEpfaTEtUks1N3BTNWNabVNKdmRHa3FmdXJzR0NDUzRvQWRpM1BwZ3RiRnJFX2FlZUtkSnQxek50cmV0NENzam1WSy1R?oc=5"
+          },
+          {
+            "label": "OSCHINA：“Linux 赢了”，这次没人反对 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwU0xkY1EweWlMOEQ5dVBlNU0yd291eXByRENOc3ZhazFsZ2lpcVB4eWhjVHhzTHhGTlc2b29JLUdSbXBYNk12Wi1wMA?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmhCcEZfOGRQclFIYU9NcGh5UGxUTnZ1RmVvQVk5bldES2tEcWhxYjZxeXVNLUM1andJaHFWWHphNU5ud0kwXzh4T0hXVV83TXYzT21oTTJBeGFYT09WWmJTdjZFeldMWWZ2a0pQSng0S09IbzUwVkhIVUE4MFo0Y0hxb0JuN2x0QjREYg?oc=5"
+      },
+      {
+        "slug": "open-source-20260707-auto-2-4e65da",
+        "title": "【每日瞰AI】金山办公回应WPS 收",
+        "category": "开源项目",
+        "date": "2026-07-07",
+        "summary": "【每日瞰AI】金山办公回应WPS 收费争议：AI 服务独立计费，不影响基础免费功能；苹果与博通延长合",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【每日瞰AI】金山办公回应WPS 收 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "【每日瞰AI】金山办公回应WPS 收费争议：AI 服务独立计费，不影响基础免费功能；苹果与博通延长合",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【每日瞰AI】金山办公回应WPS 收费争议：AI 服务独立计费，不影响基础免费功能；苹果与博通延长合",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "电子工程专辑：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91WXZtRWN5SEpfaTEtUks1N3BTNWNabVNKdmRHa3FmdXJzR0NDUzRvQWRpM1BwZ3RiRnJFX2FlZUtkSnQxek50cmV0NENzam1WSy1R?oc=5"
+          },
+          {
+            "label": "搜狐网：AI办公迎来“最后一公里”：开源工具OfficeCLI让智能体精准掌控文档 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmhCcEZfOGRQclFIYU9NcGh5UGxUTnZ1RmVvQVk5bldES2tEcWhxYjZxeXVNLUM1andJaHFWWHphNU5ud0kwXzh4T0hXVV83TXYzT21oTTJBeGFYT09WWmJTdjZFeldMWWZ2a0pQSng0S09IbzUwVkhIVUE4MFo0Y0hxb0JuN2x0QjREYg?oc=5"
+          },
+          {
+            "label": "OSCHINA：“Linux 赢了”，这次没人反对 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwU0xkY1EweWlMOEQ5dVBlNU0yd291eXByRENOc3ZhazFsZ2lpcVB4eWhjVHhzTHhGTlc2b29JLUdSbXBYNk12Wi1wMA?oc=5"
+          }
+        ],
+        "source": "电子工程专辑",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91WXZtRWN5SEpfaTEtUks1N3BTNWNabVNKdmRHa3FmdXJzR0NDUzRvQWRpM1BwZ3RiRnJFX2FlZUtkSnQxek50cmV0NENzam1WSy1R?oc=5"
+      },
       {
         "slug": "open-source-20260706-auto-1-d6087a",
         "title": "Purchase PAAL AI w",
