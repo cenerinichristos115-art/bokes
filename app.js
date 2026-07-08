@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260708-auto-1-ee97a2",
+        "title": "活力中国调研行｜AI眼镜千亿元级蓝海",
+        "category": "AI新闻",
+        "date": "2026-07-08",
+        "summary": "活力中国调研行｜AI眼镜千亿元级蓝海市场中 东莞制造如何撑起全球半壁江山 每日经济新闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "活力中国调研行｜AI眼镜千亿元级蓝海 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "活力中国调研行｜AI眼镜千亿元级蓝海市场中 东莞制造如何撑起全球半壁江山 每日经济新闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "活力中国调研行｜AI眼镜千亿元级蓝海市场中 东莞制造如何撑起全球半壁江山 每日经济新闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "每日经济新闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81U3lSQnZ0ZEwxa0dlZXo5QWdmLTB0U1FGSnpxekFUbEVNXzh3VndFRDA1WlFmbHlmMnd4NVJmTTF0aGlYSWVBaUNKazROelJyY0VqUmt3dGoxR3lfXzduLUl3Nmdvdw?oc=5"
+          },
+          {
+            "label": "ScienceDaily：New AI model reveals how neutron star mergers forge heavy elements - S",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Qzh3MGhhT3hBZ01sSkJ6QWVmVUNDdHZESWR3RHVqX1JlX0M3NmxSMk1zeXdIU0Y1UmV4OGJOYmp0MmJnWWhYZV9lRnplQVZaaG9YbV9wU1NRaUhTcWJnZGVwVVJnVE9wdVo1Tlh3?oc=5"
+          },
+          {
+            "label": "Morning Brew：China closes AI gap with this simple trick (allegedly) - Morning Brew",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndnVGs0dzE5VVVMTmMtSUthOE9vUXJDYnRJTFYwQV9HUnVFZ2s2ZVZjN19uWllYYk5taklEdmF3cVlVLWNvZnc3MWNxNDhxZDNIN1BxRWFWd1ZUekxxdGRMSEVldU1FaUtURmhraEtMUGJfZk4yaXlCM3VQV2pmbmUzM2sxWkE3Y1FYanZCcEdabFlQ?oc=5"
+          }
+        ],
+        "source": "每日经济新闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81U3lSQnZ0ZEwxa0dlZXo5QWdmLTB0U1FGSnpxekFUbEVNXzh3VndFRDA1WlFmbHlmMnd4NVJmTTF0aGlYSWVBaUNKazROelJyY0VqUmt3dGoxR3lfXzduLUl3Nmdvdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260708-auto-2-9a3f2d",
+        "title": "New AI model revea",
+        "category": "AI新闻",
+        "date": "2026-07-08",
+        "summary": "New AI model reveals how neutron star mergers forg",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "New AI model revea 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "New AI model reveals how neutron star mergers forg",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "New AI model reveals how neutron star mergers forg",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ScienceDaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Qzh3MGhhT3hBZ01sSkJ6QWVmVUNDdHZESWR3RHVqX1JlX0M3NmxSMk1zeXdIU0Y1UmV4OGJOYmp0MmJnWWhYZV9lRnplQVZaaG9YbV9wU1NRaUhTcWJnZGVwVVJnVE9wdVo1Tlh3?oc=5"
+          },
+          {
+            "label": "每日经济新闻：活力中国调研行｜AI眼镜千亿元级蓝海市场中 东莞制造如何撑起全球半壁江山 - 每日经济新闻",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81U3lSQnZ0ZEwxa0dlZXo5QWdmLTB0U1FGSnpxekFUbEVNXzh3VndFRDA1WlFmbHlmMnd4NVJmTTF0aGlYSWVBaUNKazROelJyY0VqUmt3dGoxR3lfXzduLUl3Nmdvdw?oc=5"
+          },
+          {
+            "label": "Morning Brew：China closes AI gap with this simple trick (allegedly) - Morning Brew",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndnVGs0dzE5VVVMTmMtSUthOE9vUXJDYnRJTFYwQV9HUnVFZ2s2ZVZjN19uWllYYk5taklEdmF3cVlVLWNvZnc3MWNxNDhxZDNIN1BxRWFWd1ZUekxxdGRMSEVldU1FaUtURmhraEtMUGJfZk4yaXlCM3VQV2pmbmUzM2sxWkE3Y1FYanZCcEdabFlQ?oc=5"
+          }
+        ],
+        "source": "ScienceDaily",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Qzh3MGhhT3hBZ01sSkJ6QWVmVUNDdHZESWR3RHVqX1JlX0M3NmxSMk1zeXdIU0Y1UmV4OGJOYmp0MmJnWWhYZV9lRnplQVZaaG9YbV9wU1NRaUhTcWJnZGVwVVJnVE9wdVo1Tlh3?oc=5"
+      },
+      {
         "slug": "ai-news-20260707-auto-1-646eae",
         "title": "国家发改委：预计今年 AI 手机、A",
         "category": "AI新闻",
@@ -11767,6 +11883,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260708-auto-1-57bd48",
+        "title": "微软启动自研MAI模型替代第三方方案",
+        "category": "AI使用教程",
+        "date": "2026-07-08",
+        "summary": "微软启动自研MAI模型替代第三方方案 已在Excel、Outlook落地 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微软启动自研MAI模型替代第三方方案 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "微软启动自研MAI模型替代第三方方案 已在Excel、Outlook落地 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "微软启动自研MAI模型替代第三方方案 已在Excel、Outlook落地 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZlFMcnlQWmNIQ0Z4Rjc3VFJCVnV1SFdUTm54S3NjbXV5dy1LNnQzbHpXc0RHS1pDNkxfYjAxMm1yc1RrTms5b3VaTURGbXpsaFhUeHdNbjg2UjNyYTYtZE5kUUFnVEpfUzQ2MmdhSzZyaGZpeGp5Zg?oc=5"
+          },
+          {
+            "label": "新浪财经：Meta新图像模型上线：@别人，就能把公开照片拉进AI图里|WhatsApp|Instagram|Meta AI|Facebook|社交_手",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk85aFFZdXNLMVV3amtxVzFBR0ZfOHVBTGYyaU9xX2NWbXFMWEFZb3F6Mkc4NEg4d3N2OVBNMHltS3g4TjJkdmw4RnFYTDYxWjRyclNsR29VUUtpTVVWVmthV2VtR2lmQnFSRWF4Y2tFNEY2eW5PeVRzYVdXdG0xTF9tY2IzdklPMXFIQk40R24yb1h1d01Ld09mQkhZalhFN1ZsM25TcUY0bVptX1luMFJlLTJXNXF4THVKeg?oc=5"
+          },
+          {
+            "label": "新浪网：AI写小说的版权归属该怎么界定？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVnRIZjBzSUpQMXdnclJCVjd5T2pUaExrRzJhUExveTNxSVJSTTNyZXdyY0U1YWtYN3JGM2VxVjFrOVFLUDU5T0haRmdFOHpoblBGaW1LU2lJVTNWRWZETVlxb2NCQkw3QzNqYXIyak9VQ1NyVzZFMm1QSkRZZU1fUlk4ZDdvRmNUOWoxeEJOYw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZlFMcnlQWmNIQ0Z4Rjc3VFJCVnV1SFdUTm54S3NjbXV5dy1LNnQzbHpXc0RHS1pDNkxfYjAxMm1yc1RrTms5b3VaTURGbXpsaFhUeHdNbjg2UjNyYTYtZE5kUUFnVEpfUzQ2MmdhSzZyaGZpeGp5Zg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260707-auto-1-3af614",
         "title": "全球Agent都在卷的「Loop工程",
         "category": "AI使用教程",
@@ -17073,6 +17247,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260708-auto-1-3bf672",
+        "title": "Ant Group’s Robbya",
+        "category": "开源项目",
+        "date": "2026-07-08",
+        "summary": "Ant Group’s Robbyant Open-Sources LingBot-Vision:",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ant Group’s Robbya 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ant Group’s Robbyant Open-Sources LingBot-Vision:",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ant Group’s Robbyant Open-Sources LingBot-Vision:",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVE?oc=5"
+          },
+          {
+            "label": "OSCHINA：Excelize 开源十周年，发布 2.11.0 版本 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Y0hDYlV4NTNWeXdzVG1mT0N2WW1QTHJXbkFmSGllZWRPMU9vVm5BMzF2MUxyS2dtcEYtdnJybktndW9xZnlvcTRTTQ?oc=5"
+          },
+          {
+            "label": "集微网：消息称智谱考虑自研AI芯片 - 集微网",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16NElyRW1Fdm9oSDZTYWNvcm5oZHZxSjNtNDN0MVZnZXBpMFZKTm0zemRpeFhjdDFUeGJvY1FnczVjV0U?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVE?oc=5"
+      },
+      {
+        "slug": "open-source-20260708-auto-2-a0ae3c",
+        "title": "Excelize 开源十周年，发布",
+        "category": "开源项目",
+        "date": "2026-07-08",
+        "summary": "Excelize 开源十周年，发布 2.11.0 版本 - OSCHINA - 开源 × AI ·",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Excelize 开源十周年，发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Excelize 开源十周年，发布 2.11.0 版本 - OSCHINA - 开源 × AI ·",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Excelize 开源十周年，发布 2.11.0 版本 - OSCHINA - 开源 × AI ·",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Y0hDYlV4NTNWeXdzVG1mT0N2WW1QTHJXbkFmSGllZWRPMU9vVm5BMzF2MUxyS2dtcEYtdnJybktndW9xZnlvcTRTTQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Centri",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPd21ISkptRzFERTcyekw3ZHR0TjZIUTd5aUNUWWNrbkN0ckMtb0JXWW95S3MxNUZvUG0tcV9IcGFTSmk1LXM1RXhEbzRRdUk4cXA1Y0hCcW9rd1AxUFpjeWxFX2tUZlZHckt3ZFBNU2pKRlJ0TFlSNTNhSWs5UEdCRjBNcWZSZjlPUmdEWDdTRy16SjgwVHlMU3pkQWp3OF8zeU1iNlNOV21Ub2JBTXpMLWRJb2ZGM3pCRjFPSENNTUxxYWdpcTFnMXpwV0dKWjE2LWxOM1Q4Y19idUF2MHFqTFpfU0djY1E3cTBvNFg5clhMeHJhYVE?oc=5"
+          },
+          {
+            "label": "集微网：消息称智谱考虑自研AI芯片 - 集微网",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE16NElyRW1Fdm9oSDZTYWNvcm5oZHZxSjNtNDN0MVZnZXBpMFZKTm0zemRpeFhjdDFUeGJvY1FnczVjV0U?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94Y0hDYlV4NTNWeXdzVG1mT0N2WW1QTHJXbkFmSGllZWRPMU9vVm5BMzF2MUxyS2dtcEYtdnJybktndW9xZnlvcTRTTQ?oc=5"
+      },
       {
         "slug": "open-source-20260707-auto-1-9caff1",
         "title": "AI办公迎来“最后一公里”：开源工具",
