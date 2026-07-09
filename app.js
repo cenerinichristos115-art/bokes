@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260709-auto-1-d2b6a1",
+        "title": "工信部副局长谌凯：到2030年新一代",
+        "category": "AI新闻",
+        "date": "2026-07-09",
+        "summary": "工信部副局长谌凯：到2030年新一代智能终端和智能体普及率超过90% 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "工信部副局长谌凯：到2030年新一代 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "工信部副局长谌凯：到2030年新一代智能终端和智能体普及率超过90% 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "工信部副局长谌凯：到2030年新一代智能终端和智能体普及率超过90% 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjFuX2FEUTVWVGhSN0xWMDNSaVVrY29SOHluTUVjUlFJVF94bEl3cVJPRVZJaVZSVFZBV284NXN5YTJDWWVlVjJzYjhQM1JmcEJicWoyLU03Um5lUXZpWUV1SkpyS0NKc0t5VFN0c19NVGptWWxwX2tFTTZXTmJTYmpjUU50dmY5?oc=5"
+          },
+          {
+            "label": "The Conversation：AI can predict how you’ll respond to a survey. But that’s not the same",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3RtSUlqLUtkT3dKQWxRVnVvZmZxcWRiWjlnRHBOV2lJd1IyRTJkdy1jX1JDbDNGa09Za1FMck5OZ1JCUVhmMTY5Q0ZvNFlWYTM2QTF1ck10TU5sQXhhaUUzdExPZFozX3FMQThuWngybWlsVjlidWJOU2ZsdkpNbXNjV2JsaVF6MnBnS0YxZWs1TmJVbTJLMlEwZ0FCSlJpbThvTklWeHptWFh4TGh0QlpSNDFNMEZWUjRvNE9VQWg?oc=5"
+          },
+          {
+            "label": "Cincinnati Enquirer：Asking AI for health advice? 5 tips for safer searches - Cincinnati En",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU5CMDRPSGh4bWZvLUhtVkV2OEpHS3k3SXp2Z3RRdWZLMGtadlNyLW02RjhWOU5tandaNnZ5M0FuSlk5aTY0czctWXI0SjFpSl81SnQ2cnN4WnJsMTlVY01zWEpaZFdaUU9LR3I0N2VBVEp0LTBXNTBiVnMzZWFjVGFGQTF4dWdmSG1DeFZ3QjF0a0E1aU4tWlRIaXpuRThDa0RFVXVoTDZ2QQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjFuX2FEUTVWVGhSN0xWMDNSaVVrY29SOHluTUVjUlFJVF94bEl3cVJPRVZJaVZSVFZBV284NXN5YTJDWWVlVjJzYjhQM1JmcEJicWoyLU03Um5lUXZpWUV1SkpyS0NKc0t5VFN0c19NVGptWWxwX2tFTTZXTmJTYmpjUU50dmY5?oc=5"
+      },
+      {
+        "slug": "ai-news-20260709-auto-2-3e4bf0",
+        "title": "AI can predict how",
+        "category": "AI新闻",
+        "date": "2026-07-09",
+        "summary": "AI can predict how you’ll respond to a survey. But",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI can predict how 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI can predict how you’ll respond to a survey. But",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI can predict how you’ll respond to a survey. But",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Conversation：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3RtSUlqLUtkT3dKQWxRVnVvZmZxcWRiWjlnRHBOV2lJd1IyRTJkdy1jX1JDbDNGa09Za1FMck5OZ1JCUVhmMTY5Q0ZvNFlWYTM2QTF1ck10TU5sQXhhaUUzdExPZFozX3FMQThuWngybWlsVjlidWJOU2ZsdkpNbXNjV2JsaVF6MnBnS0YxZWs1TmJVbTJLMlEwZ0FCSlJpbThvTklWeHptWFh4TGh0QlpSNDFNMEZWUjRvNE9VQWg?oc=5"
+          },
+          {
+            "label": "搜狐网：工信部副局长谌凯：到2030年新一代智能终端和智能体普及率超过90% - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjFuX2FEUTVWVGhSN0xWMDNSaVVrY29SOHluTUVjUlFJVF94bEl3cVJPRVZJaVZSVFZBV284NXN5YTJDWWVlVjJzYjhQM1JmcEJicWoyLU03Um5lUXZpWUV1SkpyS0NKc0t5VFN0c19NVGptWWxwX2tFTTZXTmJTYmpjUU50dmY5?oc=5"
+          },
+          {
+            "label": "Cincinnati Enquirer：Asking AI for health advice? 5 tips for safer searches - Cincinnati En",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU5CMDRPSGh4bWZvLUhtVkV2OEpHS3k3SXp2Z3RRdWZLMGtadlNyLW02RjhWOU5tandaNnZ5M0FuSlk5aTY0czctWXI0SjFpSl81SnQ2cnN4WnJsMTlVY01zWEpaZFdaUU9LR3I0N2VBVEp0LTBXNTBiVnMzZWFjVGFGQTF4dWdmSG1DeFZ3QjF0a0E1aU4tWlRIaXpuRThDa0RFVXVoTDZ2QQ?oc=5"
+          }
+        ],
+        "source": "The Conversation",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS3RtSUlqLUtkT3dKQWxRVnVvZmZxcWRiWjlnRHBOV2lJd1IyRTJkdy1jX1JDbDNGa09Za1FMck5OZ1JCUVhmMTY5Q0ZvNFlWYTM2QTF1ck10TU5sQXhhaUUzdExPZFozX3FMQThuWngybWlsVjlidWJOU2ZsdkpNbXNjV2JsaVF6MnBnS0YxZWs1TmJVbTJLMlEwZ0FCSlJpbThvTklWeHptWFh4TGh0QlpSNDFNMEZWUjRvNE9VQWg?oc=5"
+      },
+      {
         "slug": "ai-news-20260708-auto-1-ee97a2",
         "title": "活力中国调研行｜AI眼镜千亿元级蓝海",
         "category": "AI新闻",
@@ -11883,6 +11999,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260709-auto-1-f85f17",
+        "title": "Meta全新自研图像模型来了！不用反",
+        "category": "AI使用教程",
+        "date": "2026-07-09",
+        "summary": "Meta全新自研图像模型来了！不用反复调提示词，首次引入Agent自动改图 智东西",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta全新自研图像模型来了！不用反 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta全新自研图像模型来了！不用反复调提示词，首次引入Agent自动改图 智东西",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta全新自研图像模型来了！不用反复调提示词，首次引入Agent自动改图 智东西",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智东西：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyRzVuUU9iaVp1T3dFOVlBVUozdlBFbnlSNndhbVhXdUtrejhOYjd5YmY2bFNqNmZVZkMzcTIxT09scEZaNlE?oc=5"
+          },
+          {
+            "label": "citybiz：USEReady Appoints Vivekanandan Srinivasan to Lead Snowflake AI Adoptio",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2h3eVJ5bnVlb3dTbUZIeDdNQWxmNkRtSC1PNVlMWHE2NTR5cFVESGx4UmZURFdhUlhmUlhGZU5fUmNFV3ZFM1lhandkbzE4aElWRnBocTl3TGdsYXNUcTBEeEFYaUZ5U09XYkRGU1g2Z0R5aVlGQTdmMWVHdG1NMGpPdjRMRzkyRUhZd3RjNVg3eVJJd20wZXFNRW1GU0IycEljU2ZNaHFLd3BkX2czbGMyZzlkRTFHaWVF?oc=5"
+          },
+          {
+            "label": "新浪财经：超的哈兰德霸气走路名场面ai制作教程来啦 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yQ1RUR3hjelJTUEtnTkZ2N1prbVJLOThCR3ZnM3hhNFlPbVdBZGhVYXhoQ1h6R0hyU3J1ekVMblhrQWRMbXZxVjNZZXdEZ1N2aFVaZ1NKTzBwWldPaFpmY09fNWF6eUVmdElKUzEwek1vSGR0bXBjZV9ZSW9ZUQ?oc=5"
+          }
+        ],
+        "source": "智东西",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyRzVuUU9iaVp1T3dFOVlBVUozdlBFbnlSNndhbVhXdUtrejhOYjd5YmY2bFNqNmZVZkMzcTIxT09scEZaNlE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260708-auto-1-57bd48",
         "title": "微软启动自研MAI模型替代第三方方案",
         "category": "AI使用教程",
@@ -17247,6 +17421,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260709-auto-1-0d376a",
+        "title": "U.S. crackdown on",
+        "category": "开源项目",
+        "date": "2026-07-09",
+        "summary": "U.S. crackdown on top AI fuels open-source surge T",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "U.S. crackdown on 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "U.S. crackdown on top AI fuels open-source surge T",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "U.S. crackdown on top AI fuels open-source surge T",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Hindu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjQ5S2hFQ1hZbVhERmZCdXVSOGp6RTlRc0VxNmNjOUFDVkhVUWNUbWdiOVU0dkZKSTJyc0pjTEtPelN1ZGhmcHRkY1QxUlFDemZIZjQxT2Ywb2pxSy02Nm00NkQwaUFIZ0NQZ1Y0QjgtRlU4c1hWMlIwSm9KdE1VQ0JPNGdRajZOMjVYRWNCMHpNamczWjdQOUY5V2NiRVMwVEhROFAxRHQwam5GQjJRNdIBtwFBVV95cUxNel95VjhwSDZ4bHJvWFFrNldyYlZZZzZ0SjhjMUNXQ0ZnbWRYbV9zNWpKNC1JOVAwbXhVdXEzVFJQWnZUNVVZbjFySlhnSEZ4R3hIal9Jd0w1NEpqemkzWFRRa3BkZUk5cU45RmUwVWxWNFdiaWNqNnpKOUhIUjFudzRtbm1wa2llR2U4dTY3Tk96Y05idTQ2S3pobDJuUVM2ZEtCVUhQd0toLU1NT0w5ajBzZzU3TFU?oc=5"
+          },
+          {
+            "label": "Trak.in：IT Firms Paying Rs 25 Lakh For Freshers If They Know AI Engineering - ",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRYX0RQSTVRb3dLelo0NVJoY0kyUGhwN3NrcmFkSGVabXl4czF2N3RtbGhaVjFtdWtadHFnQ29hTWpaQ3RoRWFtUXRWcjJrYk10T1dwOXlkTTNQMmppbndTb1htc1pvRkQtWHdrTktrbmtUVVdkZU9pZGczRHRlZHVscENCazl0TlVSNG5fV0VHc2dzWVFN?oc=5"
+          },
+          {
+            "label": "Indianweb2.com：IBM & Red Hat Invest $5B to Secure Open Source Software in AI Era - In",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzRsdXp5U2FtZ1d2a3haZkNKQUVNWlI2bnVjeTFaQ3pYdVNKUTJSdU15U1N4NTVmY09ENlI2WmJfbW1CTkFaQnpmYTdTbXVlcmZYODJCVC1kMGJ2TzJadUNrR19RWHIwSkVVTmxVa2pBMjhHREpucndnT25qME5HVlBn?oc=5"
+          }
+        ],
+        "source": "The Hindu",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjQ5S2hFQ1hZbVhERmZCdXVSOGp6RTlRc0VxNmNjOUFDVkhVUWNUbWdiOVU0dkZKSTJyc0pjTEtPelN1ZGhmcHRkY1QxUlFDemZIZjQxT2Ywb2pxSy02Nm00NkQwaUFIZ0NQZ1Y0QjgtRlU4c1hWMlIwSm9KdE1VQ0JPNGdRajZOMjVYRWNCMHpNamczWjdQOUY5V2NiRVMwVEhROFAxRHQwam5GQjJRNdIBtwFBVV95cUxNel95VjhwSDZ4bHJvWFFrNldyYlZZZzZ0SjhjMUNXQ0ZnbWRYbV9zNWpKNC1JOVAwbXhVdXEzVFJQWnZUNVVZbjFySlhnSEZ4R3hIal9Jd0w1NEpqemkzWFRRa3BkZUk5cU45RmUwVWxWNFdiaWNqNnpKOUhIUjFudzRtbm1wa2llR2U4dTY3Tk96Y05idTQ2S3pobDJuUVM2ZEtCVUhQd0toLU1NT0w5ajBzZzU3TFU?oc=5"
+      },
+      {
+        "slug": "open-source-20260709-auto-2-960179",
+        "title": "IT Firms Paying Rs",
+        "category": "开源项目",
+        "date": "2026-07-09",
+        "summary": "IT Firms Paying Rs 25 Lakh For Freshers If They Kn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IT Firms Paying Rs 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "IT Firms Paying Rs 25 Lakh For Freshers If They Kn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "IT Firms Paying Rs 25 Lakh For Freshers If They Kn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Trak.in：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRYX0RQSTVRb3dLelo0NVJoY0kyUGhwN3NrcmFkSGVabXl4czF2N3RtbGhaVjFtdWtadHFnQ29hTWpaQ3RoRWFtUXRWcjJrYk10T1dwOXlkTTNQMmppbndTb1htc1pvRkQtWHdrTktrbmtUVVdkZU9pZGczRHRlZHVscENCazl0TlVSNG5fV0VHc2dzWVFN?oc=5"
+          },
+          {
+            "label": "The Hindu：U.S. crackdown on top AI fuels open-source surge - The Hindu",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjQ5S2hFQ1hZbVhERmZCdXVSOGp6RTlRc0VxNmNjOUFDVkhVUWNUbWdiOVU0dkZKSTJyc0pjTEtPelN1ZGhmcHRkY1QxUlFDemZIZjQxT2Ywb2pxSy02Nm00NkQwaUFIZ0NQZ1Y0QjgtRlU4c1hWMlIwSm9KdE1VQ0JPNGdRajZOMjVYRWNCMHpNamczWjdQOUY5V2NiRVMwVEhROFAxRHQwam5GQjJRNdIBtwFBVV95cUxNel95VjhwSDZ4bHJvWFFrNldyYlZZZzZ0SjhjMUNXQ0ZnbWRYbV9zNWpKNC1JOVAwbXhVdXEzVFJQWnZUNVVZbjFySlhnSEZ4R3hIal9Jd0w1NEpqemkzWFRRa3BkZUk5cU45RmUwVWxWNFdiaWNqNnpKOUhIUjFudzRtbm1wa2llR2U4dTY3Tk96Y05idTQ2S3pobDJuUVM2ZEtCVUhQd0toLU1NT0w5ajBzZzU3TFU?oc=5"
+          },
+          {
+            "label": "Indianweb2.com：IBM & Red Hat Invest $5B to Secure Open Source Software in AI Era - In",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzRsdXp5U2FtZ1d2a3haZkNKQUVNWlI2bnVjeTFaQ3pYdVNKUTJSdU15U1N4NTVmY09ENlI2WmJfbW1CTkFaQnpmYTdTbXVlcmZYODJCVC1kMGJ2TzJadUNrR19RWHIwSkVVTmxVa2pBMjhHREpucndnT25qME5HVlBn?oc=5"
+          }
+        ],
+        "source": "Trak.in",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRYX0RQSTVRb3dLelo0NVJoY0kyUGhwN3NrcmFkSGVabXl4czF2N3RtbGhaVjFtdWtadHFnQ29hTWpaQ3RoRWFtUXRWcjJrYk10T1dwOXlkTTNQMmppbndTb1htc1pvRkQtWHdrTktrbmtUVVdkZU9pZGczRHRlZHVscENCazl0TlVSNG5fV0VHc2dzWVFN?oc=5"
+      },
       {
         "slug": "open-source-20260708-auto-1-3bf672",
         "title": "Ant Group’s Robbya",
