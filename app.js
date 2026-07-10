@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260710-auto-1-62fbc0",
+        "title": "河南人工智能产业规模超1000亿元",
+        "category": "AI新闻",
+        "date": "2026-07-10",
+        "summary": "河南人工智能产业规模超1000亿元 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "河南人工智能产业规模超1000亿元 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "河南人工智能产业规模超1000亿元 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "河南人工智能产业规模超1000亿元 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdBczY2UEFxN1oxR0lXOEc0OGNwX1JKRmZSNUl6Ym1jMHo5cEc4b04zWkc4a0xWWERnWlpHZHpscDVheXNSM0VvRGk3cUlpWE96SlFZc2tXSkl3RFhXMFQ4UHBWUS12a0VHODg5YUdTeFRMVWprUEVZY3V3TTFhV3pKSlV3ejgxMGVweEYxd3dfTnpWNmhiOQ?oc=5"
+          },
+          {
+            "label": "NDTV：Can Artificial Intelligence Predict The Next Pandemic? Inside The Digi",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHNSSnRleGcteDlzZmVia0JKUk5VQ2tDLS1rV2dPLTVQNXNhSEJERjJBTHQ4MUZyNEtMVWFaNlJQNmJtNzhJSHdCNGQ3WmpTZEZGb0JRdmlYSzV5VXVtMGlHMVZJNjhrOHk3YW9ybFdRSGtMTUg0M3ptTDRPZHJhdGVMWFhJeGM1OThaV1NVMmhNNjFZc0FhWFFqemxYS1M2ZDJBUEplUHhzYUxJOEhhWHVkR0JOQlBibDVocFNOVXljUi1pUldLeURsdWFGNVdjcGRV0gHbAUFVX3lxTE0zbFhQMGhkbUVTem1McWpuWkNxZG5nYU5PMzNGMG1WTm9EQlc2WEdiaUtNeGFxRGw1LUlKdGt3VncxQUpyLTdSSW1Vb2dPTk1wRXAtSG9IS0RYbHdFWE5WWUQwRUI5bk9xMTlSQlR2QUFIT09TTFdhX2p0cTVuTWk4TmxPVy1FX0lNcGlfTWhxcWtNRElVMEtVb2wwci10c1Z6LWMyYldoNFFpZlBhTXlRdE9HRTBDN0hvMk4zZkFJcDRDSHFieFRvNnI5RW5MX28xRUhwRlo4ZXcyRQ?oc=5"
+          },
+          {
+            "label": "黑龙江日报：雪城崛起AI“梦工厂” - 黑龙江日报",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PaTRYSzUzcEpTdS1MZUVHUXNTaHdLbXlGaGJ1ZTB5RlRxcElZV3FXWGVtVzh0NlVsU0hNSUFYZ2szOE1kRjF4X2IwdXBReFNOeDlCd2hobjhCX0lUY201Q3FHZ0MxbDBWVUR4UGpkZHQ1d0JS?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdBczY2UEFxN1oxR0lXOEc0OGNwX1JKRmZSNUl6Ym1jMHo5cEc4b04zWkc4a0xWWERnWlpHZHpscDVheXNSM0VvRGk3cUlpWE96SlFZc2tXSkl3RFhXMFQ4UHBWUS12a0VHODg5YUdTeFRMVWprUEVZY3V3TTFhV3pKSlV3ejgxMGVweEYxd3dfTnpWNmhiOQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260710-auto-2-bf656a",
+        "title": "Can Artificial Int",
+        "category": "AI新闻",
+        "date": "2026-07-10",
+        "summary": "Can Artificial Intelligence Predict The Next Pande",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Can Artificial Int 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Can Artificial Intelligence Predict The Next Pande",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Can Artificial Intelligence Predict The Next Pande",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NDTV：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHNSSnRleGcteDlzZmVia0JKUk5VQ2tDLS1rV2dPLTVQNXNhSEJERjJBTHQ4MUZyNEtMVWFaNlJQNmJtNzhJSHdCNGQ3WmpTZEZGb0JRdmlYSzV5VXVtMGlHMVZJNjhrOHk3YW9ybFdRSGtMTUg0M3ptTDRPZHJhdGVMWFhJeGM1OThaV1NVMmhNNjFZc0FhWFFqemxYS1M2ZDJBUEplUHhzYUxJOEhhWHVkR0JOQlBibDVocFNOVXljUi1pUldLeURsdWFGNVdjcGRV0gHbAUFVX3lxTE0zbFhQMGhkbUVTem1McWpuWkNxZG5nYU5PMzNGMG1WTm9EQlc2WEdiaUtNeGFxRGw1LUlKdGt3VncxQUpyLTdSSW1Vb2dPTk1wRXAtSG9IS0RYbHdFWE5WWUQwRUI5bk9xMTlSQlR2QUFIT09TTFdhX2p0cTVuTWk4TmxPVy1FX0lNcGlfTWhxcWtNRElVMEtVb2wwci10c1Z6LWMyYldoNFFpZlBhTXlRdE9HRTBDN0hvMk4zZkFJcDRDSHFieFRvNnI5RW5MX28xRUhwRlo4ZXcyRQ?oc=5"
+          },
+          {
+            "label": "新浪财经：河南人工智能产业规模超1000亿元 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWdBczY2UEFxN1oxR0lXOEc0OGNwX1JKRmZSNUl6Ym1jMHo5cEc4b04zWkc4a0xWWERnWlpHZHpscDVheXNSM0VvRGk3cUlpWE96SlFZc2tXSkl3RFhXMFQ4UHBWUS12a0VHODg5YUdTeFRMVWprUEVZY3V3TTFhV3pKSlV3ejgxMGVweEYxd3dfTnpWNmhiOQ?oc=5"
+          },
+          {
+            "label": "黑龙江日报：雪城崛起AI“梦工厂” - 黑龙江日报",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PaTRYSzUzcEpTdS1MZUVHUXNTaHdLbXlGaGJ1ZTB5RlRxcElZV3FXWGVtVzh0NlVsU0hNSUFYZ2szOE1kRjF4X2IwdXBReFNOeDlCd2hobjhCX0lUY201Q3FHZ0MxbDBWVUR4UGpkZHQ1d0JS?oc=5"
+          }
+        ],
+        "source": "NDTV",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHNSSnRleGcteDlzZmVia0JKUk5VQ2tDLS1rV2dPLTVQNXNhSEJERjJBTHQ4MUZyNEtMVWFaNlJQNmJtNzhJSHdCNGQ3WmpTZEZGb0JRdmlYSzV5VXVtMGlHMVZJNjhrOHk3YW9ybFdRSGtMTUg0M3ptTDRPZHJhdGVMWFhJeGM1OThaV1NVMmhNNjFZc0FhWFFqemxYS1M2ZDJBUEplUHhzYUxJOEhhWHVkR0JOQlBibDVocFNOVXljUi1pUldLeURsdWFGNVdjcGRV0gHbAUFVX3lxTE0zbFhQMGhkbUVTem1McWpuWkNxZG5nYU5PMzNGMG1WTm9EQlc2WEdiaUtNeGFxRGw1LUlKdGt3VncxQUpyLTdSSW1Vb2dPTk1wRXAtSG9IS0RYbHdFWE5WWUQwRUI5bk9xMTlSQlR2QUFIT09TTFdhX2p0cTVuTWk4TmxPVy1FX0lNcGlfTWhxcWtNRElVMEtVb2wwci10c1Z6LWMyYldoNFFpZlBhTXlRdE9HRTBDN0hvMk4zZkFJcDRDSHFieFRvNnI5RW5MX28xRUhwRlo4ZXcyRQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260709-auto-1-d2b6a1",
         "title": "工信部副局长谌凯：到2030年新一代",
         "category": "AI新闻",
@@ -11999,6 +12115,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260710-auto-1-17b993",
+        "title": "InfoQ 与九章云极深度解读 To",
+        "category": "AI使用教程",
+        "date": "2026-07-10",
+        "summary": "InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展_AI&大模型_陈姚戈_I",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "InfoQ 与九章云极深度解读 To 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展_AI&大模型_陈姚戈_I",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "InfoQ 与九章云极深度解读 Toekn Factory 技术与产业发展_AI&大模型_陈姚戈_I",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Infoq.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NDY5eXZmRmY3NmhIeFk5YkpiZlJMM2RMOE9OX0pabm5PbTFLVVluWEdCU21USDl1eXNIYWtOVFZsWHRSbDVIYXJVX0N6SjlQNWRaa2h2ZTJVSG8?oc=5"
+          },
+          {
+            "label": "新浪财经：别再瞎写了！实测这个免费的提示词反推工具，绝不踩坑_手机新浪网 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHhiUHFOMzZKbjlxOF9ZLS1WUmRSUGJWMElGRkJGM0RuU2pqSFZDTzlkYi1ubEVsZFNKUWhNQ3owZHF6cFZ0ZV9tWl81UWhma2hZZ3c4NEhFY3ZPc3lhQXJVZ2VGSzBQUE1ZZEtTSllUeWhMWk9EZnhlRTQyRG1fcjJfSk5XZUpaMG9CUUxJOWdhWC1wRHhsSE55WmdUVTM2ZGxHWW5uRQ?oc=5"
+          },
+          {
+            "label": "thepaper.cn：不用App、不找占星师，年轻人正在用“复制粘贴”算命 - thepaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JOEFuNWlveC1iRk9BVDlqR2dleV93czktYi1DSFNWQl9yc1Y3Q1N0MWQtVHpSbXVaYnEybkJIYWJCeGR1UEN2S0l4XzFrdW03S0xJSGI1dXc0cGxqUDJQYQ?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NDY5eXZmRmY3NmhIeFk5YkpiZlJMM2RMOE9OX0pabm5PbTFLVVluWEdCU21USDl1eXNIYWtOVFZsWHRSbDVIYXJVX0N6SjlQNWRaa2h2ZTJVSG8?oc=5"
+      },
+      {
         "slug": "ai-guide-20260709-auto-1-f85f17",
         "title": "Meta全新自研图像模型来了！不用反",
         "category": "AI使用教程",
@@ -17421,6 +17595,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260710-auto-1-53afb7",
+        "title": "杨荣文：中国AI开源路线让他国获益",
+        "category": "开源项目",
+        "date": "2026-07-10",
+        "summary": "杨荣文：中国AI开源路线让他国获益 美科企收入与估值料受冲击 联合早报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "杨荣文：中国AI开源路线让他国获益 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "杨荣文：中国AI开源路线让他国获益 美科企收入与估值料受冲击 联合早报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "杨荣文：中国AI开源路线让他国获益 美科企收入与估值料受冲击 联合早报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "联合早报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96R09SRGhuNElBQ0VQQWRFMF94czRhbUh2eVNSNEJ2bHVRMVVhVTVnQTJqLWg1SDJIMFNocUtMc25FRHI2VjRNM25wWVczaFA5bVJlSXd1eUV4bks4OFpzYjEzcmFCMlpZeGlqT2NBVU4tU2s?oc=5"
+          },
+          {
+            "label": "me.news：全球领先的金融资讯与 AI 科技平台 - me.news",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WQ0F2b0NZTjU3NmI3bHpOeFg0WHhvQ1lSXzhDazBUMjRROFRFWDJISGpzODlVaGxhVXhRbkNFLTZFVjFx?oc=5"
+          },
+          {
+            "label": "品玩：AI 开服了：LingBot-World 2.0 做成了可玩的开源无限世界 - 品玩",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xUzh6Vl9lcTBVYy1kdTlGRGVadUtfOTlkY2hrTVNTWmRPMmJjX1dhTFhjVmJROGhDdEZ2c2JneDRLRzV1eEhLbQ?oc=5"
+          }
+        ],
+        "source": "联合早报",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96R09SRGhuNElBQ0VQQWRFMF94czRhbUh2eVNSNEJ2bHVRMVVhVTVnQTJqLWg1SDJIMFNocUtMc25FRHI2VjRNM25wWVczaFA5bVJlSXd1eUV4bks4OFpzYjEzcmFCMlpZeGlqT2NBVU4tU2s?oc=5"
+      },
+      {
+        "slug": "open-source-20260710-auto-2-cecbf6",
+        "title": "全球领先的金融资讯与 AI 科技平台",
+        "category": "开源项目",
+        "date": "2026-07-10",
+        "summary": "全球领先的金融资讯与 AI 科技平台 me.news",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全球领先的金融资讯与 AI 科技平台 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "全球领先的金融资讯与 AI 科技平台 me.news",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全球领先的金融资讯与 AI 科技平台 me.news",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "me.news：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WQ0F2b0NZTjU3NmI3bHpOeFg0WHhvQ1lSXzhDazBUMjRROFRFWDJISGpzODlVaGxhVXhRbkNFLTZFVjFx?oc=5"
+          },
+          {
+            "label": "联合早报：杨荣文：中国AI开源路线让他国获益 美科企收入与估值料受冲击 - 联合早报",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96R09SRGhuNElBQ0VQQWRFMF94czRhbUh2eVNSNEJ2bHVRMVVhVTVnQTJqLWg1SDJIMFNocUtMc25FRHI2VjRNM25wWVczaFA5bVJlSXd1eUV4bks4OFpzYjEzcmFCMlpZeGlqT2NBVU4tU2s?oc=5"
+          },
+          {
+            "label": "品玩：AI 开服了：LingBot-World 2.0 做成了可玩的开源无限世界 - 品玩",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xUzh6Vl9lcTBVYy1kdTlGRGVadUtfOTlkY2hrTVNTWmRPMmJjX1dhTFhjVmJROGhDdEZ2c2JneDRLRzV1eEhLbQ?oc=5"
+          }
+        ],
+        "source": "me.news",
+        "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9WQ0F2b0NZTjU3NmI3bHpOeFg0WHhvQ1lSXzhDazBUMjRROFRFWDJISGpzODlVaGxhVXhRbkNFLTZFVjFx?oc=5"
+      },
       {
         "slug": "open-source-20260709-auto-1-0d376a",
         "title": "U.S. crackdown on",
