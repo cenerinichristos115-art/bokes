@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260711-auto-1-0c6361",
+        "title": "Apple sues OpenAI,",
+        "category": "AI新闻",
+        "date": "2026-07-11",
+        "summary": "Apple sues OpenAI, alleging the AI company stole t",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Apple sues OpenAI, 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Apple sues OpenAI, alleging the AI company stole t",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Apple sues OpenAI, alleging the AI company stole t",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5"
+          },
+          {
+            "label": "富途牛牛：人工智能正在改变IP供应商 - 富途牛牛",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TRTBZUWRXekVzc0lQNmlrZldDS3hNaFhJUDJoTlNKakF0c1JkWFZLU3RIYUFvR1hyMDNNXzJtejNyWEZxRzRfWVkxVnlTdw?oc=5"
+          },
+          {
+            "label": "新京报：从“会说”到“会做”，未来式智能押注智能体商业化 - 新京报",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZmxRT2VxVjA3czlTY0VkQTUyWFY5b3UzUUpCYkVzc1pIUUFCRDJFV1ZBQ0dCQ19KRmtpY1UtTDlTLU5mRnM5MTF6OUtJTFJyb1kwWTRzRnhsbUE0dzBEaWZ4RXM?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5"
+      },
+      {
+        "slug": "ai-news-20260711-auto-2-663151",
+        "title": "人工智能正在改变IP供应商 - 富途",
+        "category": "AI新闻",
+        "date": "2026-07-11",
+        "summary": "人工智能正在改变IP供应商 富途牛牛",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能正在改变IP供应商 - 富途 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人工智能正在改变IP供应商 富途牛牛",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能正在改变IP供应商 富途牛牛",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "富途牛牛：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TRTBZUWRXekVzc0lQNmlrZldDS3hNaFhJUDJoTlNKakF0c1JkWFZLU3RIYUFvR1hyMDNNXzJtejNyWEZxRzRfWVkxVnlTdw?oc=5"
+          },
+          {
+            "label": "The Washington Post：Apple sues OpenAI, alleging the AI company stole trade secrets - The W",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODNobDNCbmdoNkJfQldXUEVZdm9XQkVISmhDaEF1QVBtNlUtSE1TNFBYM21HTU9sYm1feENtLUN1d1BVb1dBVE5iY0wyWEw0Y1N5Sm01bnphWm4wVEtHbmE4SVlZODV1VEQ0Slhiam82U25FeXlqRVdyVExvVkVJUGdXY1BlRkthWjdaRFBqb1dXdy1FZGFOUjcyaHBxRjVWbkk4OG5WS215N294d0dWag?oc=5"
+          },
+          {
+            "label": "新京报：从“会说”到“会做”，未来式智能押注智能体商业化 - 新京报",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZmxRT2VxVjA3czlTY0VkQTUyWFY5b3UzUUpCYkVzc1pIUUFCRDJFV1ZBQ0dCQ19KRmtpY1UtTDlTLU5mRnM5MTF6OUtJTFJyb1kwWTRzRnhsbUE0dzBEaWZ4RXM?oc=5"
+          }
+        ],
+        "source": "富途牛牛",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TRTBZUWRXekVzc0lQNmlrZldDS3hNaFhJUDJoTlNKakF0c1JkWFZLU3RIYUFvR1hyMDNNXzJtejNyWEZxRzRfWVkxVnlTdw?oc=5"
+      },
+      {
         "slug": "ai-news-20260710-auto-1-62fbc0",
         "title": "河南人工智能产业规模超1000亿元",
         "category": "AI新闻",
@@ -12115,6 +12231,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260711-auto-1-605148",
+        "title": "Ford's quality cul",
+        "category": "AI使用教程",
+        "date": "2026-07-11",
+        "summary": "Ford's quality culture more consistent outside U.S",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ford's quality cul 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ford's quality culture more consistent outside U.S",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ford's quality culture more consistent outside U.S",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Detroit News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1BUcG5jVU96NjhXcUZKZmQyNEhwSUhYd2J0MmFqM2h1MU5ueHN5TXZ4eWJRLVZ0WHIyNFRGQVpscnREVURNMndWTENmZDZrTXZfYUk3LXZJSXdESF9ONVQ5ZHJDOUxmMElFZHF2WExZVWdSekNsRGZTT2Z0NHY1TjhUcnlUbGR6aTltZWdDWjN0T0RWdjNPSnd6azA2TmtkZGlXVjFxaUp0cG9zZWpsVzBrRjZlRjlOSWp6aE9B?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：OpenAI关停Sora，YouTube机遇与挑战并存：AI内容激增，如何平衡优劣？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5US1Fwcll5QnJUTFM4MFNCU1JsYlMzU2wzd1c5Yl9rUF9qc1VMdzZFaks0SUptWnExR0Ixdnd1eW51a1kwOHRXY3Rfb2gxVWVTRTZWTnc4Z295UVUzY1QwZVhGNXI4OUZWZWQ4?oc=5"
+          },
+          {
+            "label": "网易：还在写Prompt？AI编程进入Loop新阶段 - 网易",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PeUdaOXJFUWQwNmN5cFJRTlUyaE9vWnlGUU1ta0xBelFOeW1XWm9BZWUxV1EwZG8yTHNTeDgtdThzZGQ4OFFTS3ltbFV2UF8tRXE0NjF2ZWZrQUtGTmxNdjZB?oc=5"
+          }
+        ],
+        "source": "The Detroit News",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1BUcG5jVU96NjhXcUZKZmQyNEhwSUhYd2J0MmFqM2h1MU5ueHN5TXZ4eWJRLVZ0WHIyNFRGQVpscnREVURNMndWTENmZDZrTXZfYUk3LXZJSXdESF9ONVQ5ZHJDOUxmMElFZHF2WExZVWdSekNsRGZTT2Z0NHY1TjhUcnlUbGR6aTltZWdDWjN0T0RWdjNPSnd6azA2TmtkZGlXVjFxaUp0cG9zZWpsVzBrRjZlRjlOSWp6aE9B?oc=5"
+      },
+      {
         "slug": "ai-guide-20260710-auto-1-17b993",
         "title": "InfoQ 与九章云极深度解读 To",
         "category": "AI使用教程",
@@ -17595,6 +17769,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260711-auto-1-238b17",
+        "title": "对话即刻2.5 lab技术负责人：做",
+        "category": "开源项目",
+        "date": "2026-07-11",
+        "summary": "对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润 华尔街见闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "对话即刻2.5 lab技术负责人：做 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润 华尔街见闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润 华尔街见闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华尔街见闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ25GV2FUZy1vZWFCVHRxNUlqLThVX0hMc1VCdHRrMzVUa2RfTXNxd0hEeHpNSGdKbnd0ZElkazA3TEhkT2sxOS1ubGZEcklXTllz?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：ChatGPT Work 平台推出，AI 编码工具不停用，Work 应用还有这些更新！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jdkNKSG9EVkgtVjlBd1VyTHB2c2ZXUDMtVXdnLUkzRDNNMm5QMDZEdlNiWkVldVhvemJ4bVdwQXo1UWIwWFpkOEhTak91X3M2NzF3VE1iSHNmMzFKcWNxNE1nX2xJM2s3bFA4?oc=5"
+          },
+          {
+            "label": "CryptoRank：Open source AI matters more than ever, says Hugging Face CEO Clem Dela",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3RRbWdpSFdJbHFaQTdzYWJqTWVacmNkWlh2dndfYjJma01EaWN4ZVNpc2hSMlZMeXNad0lyQm5oamtUbm5pbUNwS1oxUHZablRnY2sya1hYTlVCTjNkb2FHMTlXdmU0R3ZEdFBMc3kyWURmY2hIUThBU0k0SDZIWG1UblNRWm5SME43eW94RDE1ZG0tZGc?oc=5"
+          }
+        ],
+        "source": "华尔街见闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ25GV2FUZy1vZWFCVHRxNUlqLThVX0hMc1VCdHRrMzVUa2RfTXNxd0hEeHpNSGdKbnd0ZElkazA3TEhkT2sxOS1ubGZEcklXTllz?oc=5"
+      },
+      {
+        "slug": "open-source-20260711-auto-2-017ee3",
+        "title": "ChatGPT Work 平台推出，",
+        "category": "开源项目",
+        "date": "2026-07-11",
+        "summary": "ChatGPT Work 平台推出，AI 编码工具不停用，Work 应用还有这些更新！ blog.c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ChatGPT Work 平台推出， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "ChatGPT Work 平台推出，AI 编码工具不停用，Work 应用还有这些更新！ blog.c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ChatGPT Work 平台推出，AI 编码工具不停用，Work 应用还有这些更新！ blog.c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.csdn.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jdkNKSG9EVkgtVjlBd1VyTHB2c2ZXUDMtVXdnLUkzRDNNMm5QMDZEdlNiWkVldVhvemJ4bVdwQXo1UWIwWFpkOEhTak91X3M2NzF3VE1iSHNmMzFKcWNxNE1nX2xJM2s3bFA4?oc=5"
+          },
+          {
+            "label": "华尔街见闻：对话即刻2.5 lab技术负责人：做AI应用会优先考虑利润 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ25GV2FUZy1vZWFCVHRxNUlqLThVX0hMc1VCdHRrMzVUa2RfTXNxd0hEeHpNSGdKbnd0ZElkazA3TEhkT2sxOS1ubGZEcklXTllz?oc=5"
+          },
+          {
+            "label": "CryptoRank：Open source AI matters more than ever, says Hugging Face CEO Clem Dela",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb3RRbWdpSFdJbHFaQTdzYWJqTWVacmNkWlh2dndfYjJma01EaWN4ZVNpc2hSMlZMeXNad0lyQm5oamtUbm5pbUNwS1oxUHZablRnY2sya1hYTlVCTjNkb2FHMTlXdmU0R3ZEdFBMc3kyWURmY2hIUThBU0k0SDZIWG1UblNRWm5SME43eW94RDE1ZG0tZGc?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jdkNKSG9EVkgtVjlBd1VyTHB2c2ZXUDMtVXdnLUkzRDNNMm5QMDZEdlNiWkVldVhvemJ4bVdwQXo1UWIwWFpkOEhTak91X3M2NzF3VE1iSHNmMzFKcWNxNE1nX2xJM2s3bFA4?oc=5"
+      },
       {
         "slug": "open-source-20260710-auto-1-53afb7",
         "title": "杨荣文：中国AI开源路线让他国获益",
