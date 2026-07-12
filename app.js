@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260712-auto-1-ec252f",
+        "title": "探营世界人工智能大会：算力新基建多维",
+        "category": "AI新闻",
+        "date": "2026-07-12",
+        "summary": "探营世界人工智能大会：算力新基建多维破局 AI“场景红利”正在兑现 证券时报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "探营世界人工智能大会：算力新基建多维 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "探营世界人工智能大会：算力新基建多维破局 AI“场景红利”正在兑现 证券时报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "探营世界人工智能大会：算力新基建多维破局 AI“场景红利”正在兑现 证券时报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "证券时报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YQnJZRnFNeUF0SnpWaENxVUprTFE3ZV9xbDlJRm40QnBtN2ljLVdMVzJzcG1fdDRlbkx3SjMxZFlseTBvRDQwOHNhWGw5cnc2RFE4bHVSOElrYWVD?oc=5"
+          },
+          {
+            "label": "The Motley Fool：Meta Platforms Just Unveiled a Shocking New Artificial Intelligence (A",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5"
+          },
+          {
+            "label": "Quality Magazine：Reengineering Quality for the AI Era - Quality Magazine",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJJRkxnR1BSM3ZJMVJ3SERVYmVDaXpIbnZzYnlBeFViMENzMlhNMm4zNUoxMlREQmk1bTVUM0lmakFTRkpUT3FsT2ZEVlFRYVV5LXY3cHNnR3VPMks3ellGR2QxZ3JVZmJzWjE3Y1l0Y0FPTmJ6bUN5cFpPVW5tN2VIRzY?oc=5"
+          }
+        ],
+        "source": "证券时报",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YQnJZRnFNeUF0SnpWaENxVUprTFE3ZV9xbDlJRm40QnBtN2ljLVdMVzJzcG1fdDRlbkx3SjMxZFlseTBvRDQwOHNhWGw5cnc2RFE4bHVSOElrYWVD?oc=5"
+      },
+      {
+        "slug": "ai-news-20260712-auto-2-659925",
+        "title": "Meta Platforms Jus",
+        "category": "AI新闻",
+        "date": "2026-07-12",
+        "summary": "Meta Platforms Just Unveiled a Shocking New Artifi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta Platforms Jus 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Meta Platforms Just Unveiled a Shocking New Artifi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta Platforms Just Unveiled a Shocking New Artifi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Motley Fool：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5"
+          },
+          {
+            "label": "证券时报：探营世界人工智能大会：算力新基建多维破局 AI“场景红利”正在兑现 - 证券时报",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YQnJZRnFNeUF0SnpWaENxVUprTFE3ZV9xbDlJRm40QnBtN2ljLVdMVzJzcG1fdDRlbkx3SjMxZFlseTBvRDQwOHNhWGw5cnc2RFE4bHVSOElrYWVD?oc=5"
+          },
+          {
+            "label": "Quality Magazine：Reengineering Quality for the AI Era - Quality Magazine",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJJRkxnR1BSM3ZJMVJ3SERVYmVDaXpIbnZzYnlBeFViMENzMlhNMm4zNUoxMlREQmk1bTVUM0lmakFTRkpUT3FsT2ZEVlFRYVV5LXY3cHNnR3VPMks3ellGR2QxZ3JVZmJzWjE3Y1l0Y0FPTmJ6bUN5cFpPVW5tN2VIRzY?oc=5"
+          }
+        ],
+        "source": "The Motley Fool",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdXdCN01lLW5nNHJsLUVpMlRCNWlqZ3FGZ21GVUQ2WVRObFF0bC1mZk9GMGhwMlRISS1lTF81M2h0UFpvQVFvLWJZVWhyclBqeFFrMGxRRHNwejhVVDMtanBnUmkteHJJN1NoZFA3alNwNGtuVTZ4NUxid2hWVXRYa212OFBnejZmSUkxMURHc0xxQzEyYUlfRw?oc=5"
+      },
+      {
         "slug": "ai-news-20260711-auto-1-0c6361",
         "title": "Apple sues OpenAI,",
         "category": "AI新闻",
@@ -12231,6 +12347,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260712-auto-1-c5f06a",
+        "title": "AI换装证件照会不会不像本人？ -",
+        "category": "AI使用教程",
+        "date": "2026-07-12",
+        "summary": "AI换装证件照会不会不像本人？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI换装证件照会不会不像本人？ - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI换装证件照会不会不像本人？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI换装证件照会不会不像本人？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0dxbmJGQkZlZ0dwTTNZM3o5WnhnM3RGOEJ6ZEJWSm1TNjRXRFBObUg4UGc0R3BrM2xKak5keUdKUVY0VTdwTHp5VGhKaU1SaE5maFkya0xpSWd4UFdWbnY2dDUyRWs5dnJac25oM3htOFlDUDRvTl9SX3g2UVlweVhhRQ?oc=5"
+          },
+          {
+            "label": "凤凰网：63道地狱级难题实测，GPT-5.6把其他AI甩开了一截 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfVkNmOE1Uelk2M1ZIVmROellMQnhfWXVBU0FpZ0c4TF9pRnJiMlBNb3VQd2lDRElQQTJtSGJuMmlhRUxHVE5XaQ?oc=5"
+          },
+          {
+            "label": "网易：今天刚出的新中式旗袍图，第9张韵味绝了，你最喜欢哪一张？ - 网易",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbEN3SGtVd2JkTXB2ZktmMUl1NWt0YUU4Z3FTaloxT3BfWXUtRWdNNl9WUkJxWUtEdUhYYTl5NWwwWWU1eGxyblVHY0dzX2pDMWVDZWYtUWZXN3MyOEZiV0NR?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0dxbmJGQkZlZ0dwTTNZM3o5WnhnM3RGOEJ6ZEJWSm1TNjRXRFBObUg4UGc0R3BrM2xKak5keUdKUVY0VTdwTHp5VGhKaU1SaE5maFkya0xpSWd4UFdWbnY2dDUyRWs5dnJac25oM3htOFlDUDRvTl9SX3g2UVlweVhhRQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260711-auto-1-605148",
         "title": "Ford's quality cul",
         "category": "AI使用教程",
@@ -17769,6 +17943,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260712-auto-1-a96d3e",
+        "title": "隔空交锋！马斯克和奥特曼又“互撕”了",
+        "category": "开源项目",
+        "date": "2026-07-12",
+        "summary": "隔空交锋！马斯克和奥特曼又“互撕”了 网易",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "隔空交锋！马斯克和奥特曼又“互撕”了 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "隔空交锋！马斯克和奥特曼又“互撕”了 网易",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "隔空交锋！马斯克和奥特曼又“互撕”了 网易",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "网易：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGFnVEh1dDV2UVBydC1zN1NlNHJwQ29rcUtqeVpscXNKaFc1VWxVclZJWVBrLWNGWmFTUll2VHB1OG9zQjdsWThLQkwzcHFjd1N2VmVMdXM0d3o3TVh1QmJOTDZoQVExZkV2a0k1TllPelljdnJSNG4ycFI?oc=5"
+          },
+          {
+            "label": "新浪财经：本周AI项目推荐｜Factory Router，Inworld Router，nexos.ai ...... Router 无处不在 - 新",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0pLckFidXRMS29vSnpfMXRERjFGMEhEQkc3VVFtaWxwNExHM2FqN2hrSXg0S1JwbDRZY1NfV20ycGRLSnJSMUU2LXNZY2FQTzBKVlI4cXlUOTRMRE1jTlZKNURCaE9FclBDZVdxTTdMZWQ4aEFxYldsWUlySGZpMWVSeV9JMVpRSDd5aHM4cU1rNm45MExUdDJxQU1vV1JzVTdxbHRTamVZYUo3Ymdmbm5R?oc=5"
+          },
+          {
+            "label": "积墨 AI：史上最强 PPT Skill！用 Codex 做出美观、可编辑的 PPT - 积墨 AI",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDNNUHVDQ1V0Q3ZJRGhpUTVMbkhjcWV1b2g5MlczbmZqclVCMGJaZXdtUDJQeXIxdktiRUVRdmdXaGR6TzE1dUFxWm9DaUlHR0dUVl8zMVB2SHdtZHZ3NVVmM3EtSGZkaTV6ZVd5VHBXZ05QU2dwMnJqRkkta3FTODAzMmgxdFJBWlB0ZWlpVURoY0pnUWNhdThIQ3A2NTJMd0VLY1U3Y0taUQ?oc=5"
+          }
+        ],
+        "source": "网易",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGFnVEh1dDV2UVBydC1zN1NlNHJwQ29rcUtqeVpscXNKaFc1VWxVclZJWVBrLWNGWmFTUll2VHB1OG9zQjdsWThLQkwzcHFjd1N2VmVMdXM0d3o3TVh1QmJOTDZoQVExZkV2a0k1TllPelljdnJSNG4ycFI?oc=5"
+      },
+      {
+        "slug": "open-source-20260712-auto-2-418612",
+        "title": "本周AI项目推荐｜Factory R",
+        "category": "开源项目",
+        "date": "2026-07-12",
+        "summary": "本周AI项目推荐｜Factory Router，Inworld Router，nexos.ai ..",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "本周AI项目推荐｜Factory R 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "本周AI项目推荐｜Factory Router，Inworld Router，nexos.ai ..",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "本周AI项目推荐｜Factory Router，Inworld Router，nexos.ai ..",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0pLckFidXRMS29vSnpfMXRERjFGMEhEQkc3VVFtaWxwNExHM2FqN2hrSXg0S1JwbDRZY1NfV20ycGRLSnJSMUU2LXNZY2FQTzBKVlI4cXlUOTRMRE1jTlZKNURCaE9FclBDZVdxTTdMZWQ4aEFxYldsWUlySGZpMWVSeV9JMVpRSDd5aHM4cU1rNm45MExUdDJxQU1vV1JzVTdxbHRTamVZYUo3Ymdmbm5R?oc=5"
+          },
+          {
+            "label": "网易：隔空交锋！马斯克和奥特曼又“互撕”了 - 网易",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uRGFnVEh1dDV2UVBydC1zN1NlNHJwQ29rcUtqeVpscXNKaFc1VWxVclZJWVBrLWNGWmFTUll2VHB1OG9zQjdsWThLQkwzcHFjd1N2VmVMdXM0d3o3TVh1QmJOTDZoQVExZkV2a0k1TllPelljdnJSNG4ycFI?oc=5"
+          },
+          {
+            "label": "积墨 AI：史上最强 PPT Skill！用 Codex 做出美观、可编辑的 PPT - 积墨 AI",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDNNUHVDQ1V0Q3ZJRGhpUTVMbkhjcWV1b2g5MlczbmZqclVCMGJaZXdtUDJQeXIxdktiRUVRdmdXaGR6TzE1dUFxWm9DaUlHR0dUVl8zMVB2SHdtZHZ3NVVmM3EtSGZkaTV6ZVd5VHBXZ05QU2dwMnJqRkkta3FTODAzMmgxdFJBWlB0ZWlpVURoY0pnUWNhdThIQ3A2NTJMd0VLY1U3Y0taUQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0pLckFidXRMS29vSnpfMXRERjFGMEhEQkc3VVFtaWxwNExHM2FqN2hrSXg0S1JwbDRZY1NfV20ycGRLSnJSMUU2LXNZY2FQTzBKVlI4cXlUOTRMRE1jTlZKNURCaE9FclBDZVdxTTdMZWQ4aEFxYldsWUlySGZpMWVSeV9JMVpRSDd5aHM4cU1rNm45MExUdDJxQU1vV1JzVTdxbHRTamVZYUo3Ymdmbm5R?oc=5"
+      },
       {
         "slug": "open-source-20260711-auto-1-238b17",
         "title": "对话即刻2.5 lab技术负责人：做",
