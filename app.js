@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260713-auto-1-d65dc0",
+        "title": "Google Cloud expan",
+        "category": "AI新闻",
+        "date": "2026-07-13",
+        "summary": "Google Cloud expands partnership with Samsung to a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Cloud expan 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google Cloud expands partnership with Samsung to a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Cloud expands partnership with Samsung to a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Korea Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNHYtMEtPbUsxeHhUem5OZ1BIeDByVVJDdHlDVDA3MGEybVNwSUQycVNSVDJ1bUE3S2NwSkM1OEJ4ZVVvemJPOFdhbU5RcDRnMUxjYXZ1eXAtT0c5SEstVUNqZXJnd3hoN0M3ZlBQZnRqYkQ3UktOMVVuSmp2VkM0S1JuQXp4ZDBSRmNSbURxSnBxeng0Zm5USzR4Q0JqXzFBMFFMcHVsc0stb1hqai1wSkV1MXh6ZnNvU3RvWHFWa0lWRERGX2fSAcsBQVVfeXFMTk1XNDZhYTlEUGdRMkxVRkZnakZJVXlWYmxMdHFOa3JXM0ZOZTJkS3VWQU9OZ3ZKbEV3YVVFbkpZNXFWQkhkTWdyRzZLU2RfdW1uMXN5R1dlNGJPX09PdkVGRHI1dnhqbkxydTQwQk5LSU1ibUlUdk51TE4wekcxWE4yMjB0NlFZY0ZUQTZLbjExczcxSHZoZVppRkp0dGN6bUthSExVY0lSSklHRlJsbC1kTEdGRzgwRGl1UG52ZVRYeXVia0pCYTd1b1U?oc=5"
+          },
+          {
+            "label": "新浪网：特邀评委有哪些AI领域大咖？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sYWxVNzZjWnh1emdBTGxsTDVrN1BDem80SkVzMjdsTk9TUkhYZ1RSMmJtdXVqdTRXdlU1WTZkclZYUGV4cVVNVVp6Y18yMzJDZW9RYzFaNUIwbnFWUDU0QlNYRTZ2TWFfRFpQT2tBUzFSMzFJSnNjMlB4NnpwRFE?oc=5"
+          },
+          {
+            "label": "Yahoo Finance：Palomino Laboratories Common Stock Commences Trading on the OTCQB VENT",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzlSakI5aEpzZkx6S2pQNjkwaFBGc3d3S1lQdk1lUmxhdmZtLVNqNXlpZ0t3emJYRWVoZlBvQ2hicEZNSVhSYVhkVEM4NWU2MFlNWkd4US1UY1ZITVJfazk2eXZfX2xRV1VfSkNWQTN2SWF4aW9OU0lCbTRkVndzS0pxdC1lSlYtVEw3cTh0eEVJX3NPUzVOZjd6bERLdHpYR1dSZ0t0VzVBdDFo?oc=5"
+          }
+        ],
+        "source": "The Korea Times",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNHYtMEtPbUsxeHhUem5OZ1BIeDByVVJDdHlDVDA3MGEybVNwSUQycVNSVDJ1bUE3S2NwSkM1OEJ4ZVVvemJPOFdhbU5RcDRnMUxjYXZ1eXAtT0c5SEstVUNqZXJnd3hoN0M3ZlBQZnRqYkQ3UktOMVVuSmp2VkM0S1JuQXp4ZDBSRmNSbURxSnBxeng0Zm5USzR4Q0JqXzFBMFFMcHVsc0stb1hqai1wSkV1MXh6ZnNvU3RvWHFWa0lWRERGX2fSAcsBQVVfeXFMTk1XNDZhYTlEUGdRMkxVRkZnakZJVXlWYmxMdHFOa3JXM0ZOZTJkS3VWQU9OZ3ZKbEV3YVVFbkpZNXFWQkhkTWdyRzZLU2RfdW1uMXN5R1dlNGJPX09PdkVGRHI1dnhqbkxydTQwQk5LSU1ibUlUdk51TE4wekcxWE4yMjB0NlFZY0ZUQTZLbjExczcxSHZoZVppRkp0dGN6bUthSExVY0lSSklHRlJsbC1kTEdGRzgwRGl1UG52ZVRYeXVia0pCYTd1b1U?oc=5"
+      },
+      {
+        "slug": "ai-news-20260713-auto-2-07b726",
+        "title": "特邀评委有哪些AI领域大咖？ - 新",
+        "category": "AI新闻",
+        "date": "2026-07-13",
+        "summary": "特邀评委有哪些AI领域大咖？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "特邀评委有哪些AI领域大咖？ - 新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "特邀评委有哪些AI领域大咖？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "特邀评委有哪些AI领域大咖？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sYWxVNzZjWnh1emdBTGxsTDVrN1BDem80SkVzMjdsTk9TUkhYZ1RSMmJtdXVqdTRXdlU1WTZkclZYUGV4cVVNVVp6Y18yMzJDZW9RYzFaNUIwbnFWUDU0QlNYRTZ2TWFfRFpQT2tBUzFSMzFJSnNjMlB4NnpwRFE?oc=5"
+          },
+          {
+            "label": "The Korea Times：Google Cloud expands partnership with Samsung to accelerate agentic AI",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNHYtMEtPbUsxeHhUem5OZ1BIeDByVVJDdHlDVDA3MGEybVNwSUQycVNSVDJ1bUE3S2NwSkM1OEJ4ZVVvemJPOFdhbU5RcDRnMUxjYXZ1eXAtT0c5SEstVUNqZXJnd3hoN0M3ZlBQZnRqYkQ3UktOMVVuSmp2VkM0S1JuQXp4ZDBSRmNSbURxSnBxeng0Zm5USzR4Q0JqXzFBMFFMcHVsc0stb1hqai1wSkV1MXh6ZnNvU3RvWHFWa0lWRERGX2fSAcsBQVVfeXFMTk1XNDZhYTlEUGdRMkxVRkZnakZJVXlWYmxMdHFOa3JXM0ZOZTJkS3VWQU9OZ3ZKbEV3YVVFbkpZNXFWQkhkTWdyRzZLU2RfdW1uMXN5R1dlNGJPX09PdkVGRHI1dnhqbkxydTQwQk5LSU1ibUlUdk51TE4wekcxWE4yMjB0NlFZY0ZUQTZLbjExczcxSHZoZVppRkp0dGN6bUthSExVY0lSSklHRlJsbC1kTEdGRzgwRGl1UG52ZVRYeXVia0pCYTd1b1U?oc=5"
+          },
+          {
+            "label": "Yahoo Finance：Palomino Laboratories Common Stock Commences Trading on the OTCQB VENT",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzlSakI5aEpzZkx6S2pQNjkwaFBGc3d3S1lQdk1lUmxhdmZtLVNqNXlpZ0t3emJYRWVoZlBvQ2hicEZNSVhSYVhkVEM4NWU2MFlNWkd4US1UY1ZITVJfazk2eXZfX2xRV1VfSkNWQTN2SWF4aW9OU0lCbTRkVndzS0pxdC1lSlYtVEw3cTh0eEVJX3NPUzVOZjd6bERLdHpYR1dSZ0t0VzVBdDFo?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sYWxVNzZjWnh1emdBTGxsTDVrN1BDem80SkVzMjdsTk9TUkhYZ1RSMmJtdXVqdTRXdlU1WTZkclZYUGV4cVVNVVp6Y18yMzJDZW9RYzFaNUIwbnFWUDU0QlNYRTZ2TWFfRFpQT2tBUzFSMzFJSnNjMlB4NnpwRFE?oc=5"
+      },
+      {
         "slug": "ai-news-20260712-auto-1-ec252f",
         "title": "探营世界人工智能大会：算力新基建多维",
         "category": "AI新闻",
@@ -12347,6 +12463,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260713-auto-1-89bd81",
+        "title": "新手如何快速准备一个AI创意作品参赛",
+        "category": "AI使用教程",
+        "date": "2026-07-13",
+        "summary": "新手如何快速准备一个AI创意作品参赛？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "新手如何快速准备一个AI创意作品参赛 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "新手如何快速准备一个AI创意作品参赛？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "新手如何快速准备一个AI创意作品参赛？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9paTNSY0lrckYzQmJJd2pBYS0xZW9veXVqSGx5N0xGT1ZYb1NNMXJmTVU2S2I3enhmLWFaNFJUMUNobm1USS1ocmg2ZnNzQk1sdHIyYkphVHc5UEdqalh4WUpyVmJfcE81ZUtDWWxNV0otNDlWcktfY044ZjRXOUE?oc=5"
+          },
+          {
+            "label": "中华网：刚起步品牌如何用GEO自动化系统从零搭建AI认知 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqR3FEM3FNblE5czE5SmlKS2NVbUxRNnFnel94bU1uLVpmVnBSeFcwNFZJWmFQSFBrb1JYaEtCTmZoVFZNVktUXzVpWFNFWnlJdmRaSzJJNFFkRUZCdXNpTnNSdkJMb0tfU3Rmcw?oc=5"
+          },
+          {
+            "label": "content.foshanplus.com：法治佛山|AI创作、企业出海，知识产权如何保驾护航？ - content.foshanplus.com",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uTV9SRDZXZ1RmS2Nmc09NcWZqX0llZVFTbk1NdlExeTdmVVo1OXUweVAwNzNFQlFzQjBhZ21xSmN6M3hsNFJrTmF4Zl9EVzhzNXVOR0xYV0ZHV2JEX3BIWEczRmFCZ3JwN2ZrdFRZRQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9paTNSY0lrckYzQmJJd2pBYS0xZW9veXVqSGx5N0xGT1ZYb1NNMXJmTVU2S2I3enhmLWFaNFJUMUNobm1USS1ocmg2ZnNzQk1sdHIyYkphVHc5UEdqalh4WUpyVmJfcE81ZUtDWWxNV0otNDlWcktfY044ZjRXOUE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260712-auto-1-c5f06a",
         "title": "AI换装证件照会不会不像本人？ -",
         "category": "AI使用教程",
@@ -17943,6 +18117,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260713-auto-1-c39cde",
+        "title": "红帽决定聚焦中国企业的“多模型、多",
+        "category": "开源项目",
+        "date": "2026-07-13",
+        "summary": "红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权 Infoq.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "红帽决定聚焦中国企业的“多模型、多 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权 Infoq.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权 Infoq.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Infoq.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMUgtUTllLUo0OVMtZkdoWlRwaWkwR1V5SFlyTkItNTV0Zm50c0Y3V1IxSU1jdUVqcHRQRWxpdzhaVThHWG5RbVF3QmwyMXpTNkUxZWNLamVwUQ?oc=5"
+          },
+          {
+            "label": "Tech Times：Agent Harness ECC Tops 228K Stars: Free Tool Turns Claude Code Into a ",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVRnTU9DaTdZRjNRMC1IVml4eTNkbUN1Y0diZXAxMjJZRDFEN1BJdGNpQ0xQSXI3T2pKZmRNRVAwdjJmU2t1c0hRaHZtSlVaMWp2SEdyeFlzV041dFQ1MUgxWmlVYXdMUXBfNElVOGhVaElPTVNJaDBWSGp1VVRpSjVsNVRaWWw5a0xGQWJKTjhfZ21fSklhVDFaYkpIV0RTRW9YV0Ffdk1CTXdtRHYzTFNTcHVvaEQwMEJwWE5CSktpNkJUVTZadG53?oc=5"
+          },
+          {
+            "label": "投资界：仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - 投资界",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45ekFXVVBlQlB4VFBHTGNRWnVvTTNKYW5GRUo0cU13QTZBdnhwaVdvWUl3dUI3SjR4X1Q2VVl6ZVE5OTFtTFlJZ2txbHpPXzI2WmpYanlB?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMUgtUTllLUo0OVMtZkdoWlRwaWkwR1V5SFlyTkItNTV0Zm50c0Y3V1IxSU1jdUVqcHRQRWxpdzhaVThHWG5RbVF3QmwyMXpTNkUxZWNLamVwUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260713-auto-2-87aaf1",
+        "title": "Agent Harness ECC",
+        "category": "开源项目",
+        "date": "2026-07-13",
+        "summary": "Agent Harness ECC Tops 228K Stars: Free Tool Turns",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Agent Harness ECC 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Agent Harness ECC Tops 228K Stars: Free Tool Turns",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Agent Harness ECC Tops 228K Stars: Free Tool Turns",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVRnTU9DaTdZRjNRMC1IVml4eTNkbUN1Y0diZXAxMjJZRDFEN1BJdGNpQ0xQSXI3T2pKZmRNRVAwdjJmU2t1c0hRaHZtSlVaMWp2SEdyeFlzV041dFQ1MUgxWmlVYXdMUXBfNElVOGhVaElPTVNJaDBWSGp1VVRpSjVsNVRaWWw5a0xGQWJKTjhfZ21fSklhVDFaYkpIV0RTRW9YV0Ffdk1CTXdtRHYzTFNTcHVvaEQwMEJwWE5CSktpNkJUVTZadG53?oc=5"
+          },
+          {
+            "label": "Infoq.cn：红帽决定聚焦中国企业的“多模型、多 GPU、多云”选择权 - Infoq.cn",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoMUgtUTllLUo0OVMtZkdoWlRwaWkwR1V5SFlyTkItNTV0Zm50c0Y3V1IxSU1jdUVqcHRQRWxpdzhaVThHWG5RbVF3QmwyMXpTNkUxZWNLamVwUQ?oc=5"
+          },
+          {
+            "label": "投资界：仅11天，Claude重写百万行代码，AI史诗级工程却引来愤怒 - 投资界",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45ekFXVVBlQlB4VFBHTGNRWnVvTTNKYW5GRUo0cU13QTZBdnhwaVdvWUl3dUI3SjR4X1Q2VVl6ZVE5OTFtTFlJZ2txbHpPXzI2WmpYanlB?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMVRnTU9DaTdZRjNRMC1IVml4eTNkbUN1Y0diZXAxMjJZRDFEN1BJdGNpQ0xQSXI3T2pKZmRNRVAwdjJmU2t1c0hRaHZtSlVaMWp2SEdyeFlzV041dFQ1MUgxWmlVYXdMUXBfNElVOGhVaElPTVNJaDBWSGp1VVRpSjVsNVRaWWw5a0xGQWJKTjhfZ21fSklhVDFaYkpIV0RTRW9YV0Ffdk1CTXdtRHYzTFNTcHVvaEQwMEJwWE5CSktpNkJUVTZadG53?oc=5"
+      },
       {
         "slug": "open-source-20260712-auto-1-a96d3e",
         "title": "隔空交锋！马斯克和奥特曼又“互撕”了",
