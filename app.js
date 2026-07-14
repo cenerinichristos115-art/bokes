@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260714-auto-1-3a9718",
+        "title": "The weaponization",
+        "category": "AI新闻",
+        "date": "2026-07-14",
+        "summary": "The weaponization of artificial intelligence again",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The weaponization 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The weaponization of artificial intelligence again",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The weaponization of artificial intelligence again",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Business Journals：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hybVUzSUxqNkwwZmRzVHZ6MHdXXzYtRW10WUxNMlNpZWpERTU3ak1zSGJsRV9IWnMtbk1jZ0xmemwwVUNZZXNIbDI0RFEwNkI4RDFQRDliU2VfT2JaRHNRS1dLRUNJOHg4TEdwaUNQaDhJLWxrd1ByOC1aam9SUnprNDBxWmFiLVhvWDktME9WTjd1SWpGTG96RTFvUE5GTFpWZnIzSQ?oc=5"
+          },
+          {
+            "label": "Editor and Publisher：The next AI debate is unfolding within the news organization itself - ",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEJYNUx4T2ZGWnpucDhwYzJocEJ6LWNldy1xZ2NFUTFzc2IzeDRBQ1J2MEtobDhWSm03b3lqUHVkaXdGcUZSV3JjWXFRR2MxUTVVNEtzYXZ0T1ItS3NDRllwb1NmekNUYUlGWmZLN3Nkdl9rTDhwaFhWV19Edk1QNDVtYVpSNTN4MmQ0dlFIbmtCbThZb0w4TVQ1OFlqZTJaUzhtWTg5WkFaNDl1S2EzT1lhejBsTE1S?oc=5"
+          },
+          {
+            "label": "观点网：据报荣耀、阿里将官宣AI合作 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QM3dGYWVUM0Fib04wT1JHMjVvU2VnR1lHdWQza01KeG5nd2VmMmtVallnd2VoRWpHMElQWkhQbVhqSXZORGJwSUVtY1lZVzhuNl93ZDdjZE01ZnRxMjBfVEdR?oc=5"
+          }
+        ],
+        "source": "The Business Journals",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hybVUzSUxqNkwwZmRzVHZ6MHdXXzYtRW10WUxNMlNpZWpERTU3ak1zSGJsRV9IWnMtbk1jZ0xmemwwVUNZZXNIbDI0RFEwNkI4RDFQRDliU2VfT2JaRHNRS1dLRUNJOHg4TEdwaUNQaDhJLWxrd1ByOC1aam9SUnprNDBxWmFiLVhvWDktME9WTjd1SWpGTG96RTFvUE5GTFpWZnIzSQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260714-auto-2-9acea9",
+        "title": "The next AI debate",
+        "category": "AI新闻",
+        "date": "2026-07-14",
+        "summary": "The next AI debate is unfolding within the news or",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The next AI debate 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "The next AI debate is unfolding within the news or",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The next AI debate is unfolding within the news or",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Editor and Publisher：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEJYNUx4T2ZGWnpucDhwYzJocEJ6LWNldy1xZ2NFUTFzc2IzeDRBQ1J2MEtobDhWSm03b3lqUHVkaXdGcUZSV3JjWXFRR2MxUTVVNEtzYXZ0T1ItS3NDRllwb1NmekNUYUlGWmZLN3Nkdl9rTDhwaFhWV19Edk1QNDVtYVpSNTN4MmQ0dlFIbmtCbThZb0w4TVQ1OFlqZTJaUzhtWTg5WkFaNDl1S2EzT1lhejBsTE1S?oc=5"
+          },
+          {
+            "label": "The Business Journals：The weaponization of artificial intelligence against the enterprise - ",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT3hybVUzSUxqNkwwZmRzVHZ6MHdXXzYtRW10WUxNMlNpZWpERTU3ak1zSGJsRV9IWnMtbk1jZ0xmemwwVUNZZXNIbDI0RFEwNkI4RDFQRDliU2VfT2JaRHNRS1dLRUNJOHg4TEdwaUNQaDhJLWxrd1ByOC1aam9SUnprNDBxWmFiLVhvWDktME9WTjd1SWpGTG96RTFvUE5GTFpWZnIzSQ?oc=5"
+          },
+          {
+            "label": "观点网：据报荣耀、阿里将官宣AI合作 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QM3dGYWVUM0Fib04wT1JHMjVvU2VnR1lHdWQza01KeG5nd2VmMmtVallnd2VoRWpHMElQWkhQbVhqSXZORGJwSUVtY1lZVzhuNl93ZDdjZE01ZnRxMjBfVEdR?oc=5"
+          }
+        ],
+        "source": "Editor and Publisher",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEJYNUx4T2ZGWnpucDhwYzJocEJ6LWNldy1xZ2NFUTFzc2IzeDRBQ1J2MEtobDhWSm03b3lqUHVkaXdGcUZSV3JjWXFRR2MxUTVVNEtzYXZ0T1ItS3NDRllwb1NmekNUYUlGWmZLN3Nkdl9rTDhwaFhWV19Edk1QNDVtYVpSNTN4MmQ0dlFIbmtCbThZb0w4TVQ1OFlqZTJaUzhtWTg5WkFaNDl1S2EzT1lhejBsTE1S?oc=5"
+      },
+      {
         "slug": "ai-news-20260713-auto-1-d65dc0",
         "title": "Google Cloud expan",
         "category": "AI新闻",
@@ -12463,6 +12579,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260714-auto-1-b42761",
+        "title": "OpenAI发布用户提示词指南:面向",
+        "category": "AI使用教程",
+        "date": "2026-07-14",
+        "summary": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架 AIBase",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI发布用户提示词指南:面向 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架 AIBase",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI发布用户提示词指南:面向常规界面与Codex构建统一框架 AIBase",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AIBase：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxVlNWRXhuNEFUMndlWk9zLUdPMEN4czlQdXZpMmZPbXhzUGhqWGt3LVhGMzA2emV1QXpjN0RGenNBNnQyTmZsZlFzVHR5Zw?oc=5"
+          },
+          {
+            "label": "搜狐网：大神开源傻瓜式Loop教程 ，一行命令开启AI自循环 Loop Engineering开源教程火了！一行命令就能搭起AI自循环框架，0基础5",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzBZZEEwY0d6OHJXbmtEZzV6RVVnR00xY05CNi1jVTE2b21vV1otTXE3blVIU3otck1nanhWRHB5MGdYU1ltRjZ1dm9NNVJzTmxPN1FTZHJXOXlmenlGajJYVS1DTU1CVGkwcTh4UTNTNTdzUFdxaUFZX0kySDFmYlZZVjhhUk1icFBZdA?oc=5"
+          },
+          {
+            "label": "Decrypt：Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nMElJSHZIS21LUjdKOHc5cUtCSWl6NXdfNnVuc29WN3piVkRDUllkdnc5a244V1JsQzVON282YWZSQk5kdnhKc0JIYjRPM0tWVGhuQloxVVhoaVBaSFVLQTFzUGVEU0I0Qm9nblZkSno5bFY1bm5DTGRUNNIBe0FVX3lxTE5nMElJSHZIS21LUjdKOHc5cUtCSWl6NXdfNnVuc29WN3piVkRDUllkdnc5a244V1JsQzVON282YWZSQk5kdnhKc0JIYjRPM0tWVGhuQloxVVhoaVBaSFVLQTFzUGVEU0I0Qm9nblZkSno5bFY1bm5DTGRUNA?oc=5"
+          }
+        ],
+        "source": "AIBase",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxVlNWRXhuNEFUMndlWk9zLUdPMEN4czlQdXZpMmZPbXhzUGhqWGt3LVhGMzA2emV1QXpjN0RGenNBNnQyTmZsZlFzVHR5Zw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260713-auto-1-89bd81",
         "title": "新手如何快速准备一个AI创意作品参赛",
         "category": "AI使用教程",
@@ -18117,6 +18291,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260714-auto-1-ff71f7",
+        "title": "美国议员提出《AI事件报告法案》 ，",
+        "category": "开源项目",
+        "date": "2026-07-14",
+        "summary": "美国议员提出《AI事件报告法案》 ，强制AI安全事件上报 安全内参",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "美国议员提出《AI事件报告法案》 ， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "美国议员提出《AI事件报告法案》 ，强制AI安全事件上报 安全内参",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "美国议员提出《AI事件报告法案》 ，强制AI安全事件上报 安全内参",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "安全内参：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aYVpvdUkzWGQ3aDItSjV5ZjVqYWd1anh2a1dQU1lKcGoyX1g1MnlEdDk2QnUyemlnZDBnT2w5dUdSTFhfeEpCV2d4ZWVGQQ?oc=5"
+          },
+          {
+            "label": "SecurityBrief Australia：Google open-sources k8s-aibom for live AI workload audits - SecurityBr",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzcyUGpBcWVEQWRhVWc2U2FBTlN2ZFpqS0wtVHdnbGJobVRWbHh1bC1VS1E2RTEwTzFRV3A4ZGoxOUFQcXBKMzZfLTNQN3ZvNVAtY1ZpeHdaVmlwLWFETHhHQWtWMGh6Q2pyWkJ2cXFSeEg2SW1uLTE3TVp2enhMejZBbHdIWm5uMGtUQjZrbHRpVE9FcXdv?oc=5"
+          },
+          {
+            "label": "AIBase：AI主权新突破：德国研究联盟发布开源大模型Soofi S - AIBase",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcjhoUjg5Si1hVG15WjQwRWk0NDByMS1BSzZYQUVkR0pLZHI2VG15SktkaC1kcFRBX1lWRGREVTItWkNqcmhYclpVS1R5QQ?oc=5"
+          }
+        ],
+        "source": "安全内参",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aYVpvdUkzWGQ3aDItSjV5ZjVqYWd1anh2a1dQU1lKcGoyX1g1MnlEdDk2QnUyemlnZDBnT2w5dUdSTFhfeEpCV2d4ZWVGQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260714-auto-2-8cec7a",
+        "title": "Google open-source",
+        "category": "开源项目",
+        "date": "2026-07-14",
+        "summary": "Google open-sources k8s-aibom for live AI workload",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google open-source 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google open-sources k8s-aibom for live AI workload",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google open-sources k8s-aibom for live AI workload",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SecurityBrief Australia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzcyUGpBcWVEQWRhVWc2U2FBTlN2ZFpqS0wtVHdnbGJobVRWbHh1bC1VS1E2RTEwTzFRV3A4ZGoxOUFQcXBKMzZfLTNQN3ZvNVAtY1ZpeHdaVmlwLWFETHhHQWtWMGh6Q2pyWkJ2cXFSeEg2SW1uLTE3TVp2enhMejZBbHdIWm5uMGtUQjZrbHRpVE9FcXdv?oc=5"
+          },
+          {
+            "label": "安全内参：美国议员提出《AI事件报告法案》 ，强制AI安全事件上报 - 安全内参",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aYVpvdUkzWGQ3aDItSjV5ZjVqYWd1anh2a1dQU1lKcGoyX1g1MnlEdDk2QnUyemlnZDBnT2w5dUdSTFhfeEpCV2d4ZWVGQQ?oc=5"
+          },
+          {
+            "label": "AIBase：AI主权新突破：德国研究联盟发布开源大模型Soofi S - AIBase",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tcjhoUjg5Si1hVG15WjQwRWk0NDByMS1BSzZYQUVkR0pLZHI2VG15SktkaC1kcFRBX1lWRGREVTItWkNqcmhYclpVS1R5QQ?oc=5"
+          }
+        ],
+        "source": "SecurityBrief Australia",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzcyUGpBcWVEQWRhVWc2U2FBTlN2ZFpqS0wtVHdnbGJobVRWbHh1bC1VS1E2RTEwTzFRV3A4ZGoxOUFQcXBKMzZfLTNQN3ZvNVAtY1ZpeHdaVmlwLWFETHhHQWtWMGh6Q2pyWkJ2cXFSeEg2SW1uLTE3TVp2enhMejZBbHdIWm5uMGtUQjZrbHRpVE9FcXdv?oc=5"
+      },
       {
         "slug": "open-source-20260713-auto-1-c39cde",
         "title": "红帽决定聚焦中国企业的“多模型、多",
