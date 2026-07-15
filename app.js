@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260715-auto-1-dd928c",
+        "title": "Standing out, not",
+        "category": "AI新闻",
+        "date": "2026-07-15",
+        "summary": "Standing out, not blending in: how AI tools can dr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Standing out, not 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Standing out, not blending in: how AI tools can dr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Standing out, not blending in: how AI tools can dr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BioSpace：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXVvMHZLQTBzX1pIWXlPcjQ0UkpqczBGaW5GTzRDcmJBSWpOeGxEcEg3Y3pmTkFtU1FiZWdsNzZYdTlIWXlKc2J6U3lEN3hmcEJBbGh3bllGU3gweU5GYXBWYXlXQkZxOGtYNEpWNXdTSGQwaXpqRkphS3NNZFRUeFJpcGVFYURTSndTOW4wOFR4Nnc2RWpoazQyc1ZkcTBlX3JjeUVoeXJOaVJfTFZKYWZnRmlveUR2?oc=5"
+          },
+          {
+            "label": "Governing：The Risky Marriage of AI and Police Reports - Governing",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVR0RS0yajk5MDQyUXlVNlVScWNZZ1l3eEE5MFdqbWlJZGYxQUYxaVdjaGZhRHhXY0s4ZFRvel84LU9WZXdESG8xWWkxT2MyVk1Pc3p0VjQyRzFuRUxYWDFpU0VGRzAtSmN6bWNoM0J2djdHQml3U3NiZ1BZdXhDMVR3?oc=5"
+          },
+          {
+            "label": "Vatican News：World leaders, Nobel laureates, AI experts to gather at Borgo Laudato ",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWtOVThVVUFfQjdweXBIWUNtaTZweFNaNl9wc0M3SnoxVGVkcmUtdU1HYTR1Z0tJdlFscmxEVG9zVHA3RXM5MUpVdDhZbkJMeVRWeFFQMmN2R0lkVHhXcjYzenFCNUxWcW1sMXhHZUNIVXAtbWtZV2NwMFpmNGY0MlRYYmdDOHFSMmFCU3pkb2tWRVBUTDY5MlhmWndSSmxIa1plOEhsdDZ4cUZVNzdlcEpoVnZONmtpVHc?oc=5"
+          }
+        ],
+        "source": "BioSpace",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXVvMHZLQTBzX1pIWXlPcjQ0UkpqczBGaW5GTzRDcmJBSWpOeGxEcEg3Y3pmTkFtU1FiZWdsNzZYdTlIWXlKc2J6U3lEN3hmcEJBbGh3bllGU3gweU5GYXBWYXlXQkZxOGtYNEpWNXdTSGQwaXpqRkphS3NNZFRUeFJpcGVFYURTSndTOW4wOFR4Nnc2RWpoazQyc1ZkcTBlX3JjeUVoeXJOaVJfTFZKYWZnRmlveUR2?oc=5"
+      },
+      {
+        "slug": "ai-news-20260715-auto-2-9a2ca6",
+        "title": "The Risky Marriage",
+        "category": "AI新闻",
+        "date": "2026-07-15",
+        "summary": "The Risky Marriage of AI and Police Reports Govern",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The Risky Marriage 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "The Risky Marriage of AI and Police Reports Govern",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The Risky Marriage of AI and Police Reports Govern",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Governing：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVR0RS0yajk5MDQyUXlVNlVScWNZZ1l3eEE5MFdqbWlJZGYxQUYxaVdjaGZhRHhXY0s4ZFRvel84LU9WZXdESG8xWWkxT2MyVk1Pc3p0VjQyRzFuRUxYWDFpU0VGRzAtSmN6bWNoM0J2djdHQml3U3NiZ1BZdXhDMVR3?oc=5"
+          },
+          {
+            "label": "BioSpace：Standing out, not blending in: how AI tools can drive impact during jo",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXVvMHZLQTBzX1pIWXlPcjQ0UkpqczBGaW5GTzRDcmJBSWpOeGxEcEg3Y3pmTkFtU1FiZWdsNzZYdTlIWXlKc2J6U3lEN3hmcEJBbGh3bllGU3gweU5GYXBWYXlXQkZxOGtYNEpWNXdTSGQwaXpqRkphS3NNZFRUeFJpcGVFYURTSndTOW4wOFR4Nnc2RWpoazQyc1ZkcTBlX3JjeUVoeXJOaVJfTFZKYWZnRmlveUR2?oc=5"
+          },
+          {
+            "label": "Vatican News：World leaders, Nobel laureates, AI experts to gather at Borgo Laudato ",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWtOVThVVUFfQjdweXBIWUNtaTZweFNaNl9wc0M3SnoxVGVkcmUtdU1HYTR1Z0tJdlFscmxEVG9zVHA3RXM5MUpVdDhZbkJMeVRWeFFQMmN2R0lkVHhXcjYzenFCNUxWcW1sMXhHZUNIVXAtbWtZV2NwMFpmNGY0MlRYYmdDOHFSMmFCU3pkb2tWRVBUTDY5MlhmWndSSmxIa1plOEhsdDZ4cUZVNzdlcEpoVnZONmtpVHc?oc=5"
+          }
+        ],
+        "source": "Governing",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVR0RS0yajk5MDQyUXlVNlVScWNZZ1l3eEE5MFdqbWlJZGYxQUYxaVdjaGZhRHhXY0s4ZFRvel84LU9WZXdESG8xWWkxT2MyVk1Pc3p0VjQyRzFuRUxYWDFpU0VGRzAtSmN6bWNoM0J2djdHQml3U3NiZ1BZdXhDMVR3?oc=5"
+      },
+      {
         "slug": "ai-news-20260714-auto-1-3a9718",
         "title": "The weaponization",
         "category": "AI新闻",
@@ -12579,6 +12695,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260715-auto-1-2f43f9",
+        "title": "太离谱！AI作品连夺摄影赛一等奖！摄",
+        "category": "AI使用教程",
+        "date": "2026-07-15",
+        "summary": "太离谱！AI作品连夺摄影赛一等奖！摄影比赛已经变AI赛道？ 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "太离谱！AI作品连夺摄影赛一等奖！摄 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "太离谱！AI作品连夺摄影赛一等奖！摄影比赛已经变AI赛道？ 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "太离谱！AI作品连夺摄影赛一等奖！摄影比赛已经变AI赛道？ 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNU9TN0FaZE1xM3lXUGlraWVFRmtyUFc1S0s3R0RDNjNXcWdLMml5YnJxMTFlNWw2SFdJcmlfc2dLTU9uc0d2YlpRbV85ZDVGdUE3b003YzdCUEgzZzFvSzFwc2JCVUprWTZaWGRoc25SZHQ2N2F1R2lDSlp4MDZOcjNGUEZ4MXRVa2NoWA?oc=5"
+          },
+          {
+            "label": "中华网科技频道：科莱特组织骨干 AIGC 线下培训 理论 + 实操提升数字化办公效率 - 中华网科技频道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LRmpyVkl2LWFGalhlaWJqUFdhTUlVTjFpVnlzYnp0ZGlQM0N3Q1Z4NE5URHFvOUMyNi1fdl84UmFVYWtmMVVob2owX1JUcm1GMDBfdnYwRDZXc0kwWXp4WXBqY0RWZG1pUzJESlN3?oc=5"
+          },
+          {
+            "label": "Briefs Finance：Instagram Chief: AI Token Caps for Engineers Coming Soon - Briefs Fina",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMU12VWN2R3dCbUFFaUlsWWtYdGlSMTc2WVNmLXBEa1dRd3NNMFhsX3VVNGV0YWtOemJfU1RRaEJlNm1kT25Bc2ZiVlZzamhYNk1GektOazIzV2U4XzJvRTJ5R29rcHdNRWhsNm16eWJNS0JVVVNCV1dBZjh3U1gwSC1UN2lXbFVGUWl5TGNQNXRfUQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNU9TN0FaZE1xM3lXUGlraWVFRmtyUFc1S0s3R0RDNjNXcWdLMml5YnJxMTFlNWw2SFdJcmlfc2dLTU9uc0d2YlpRbV85ZDVGdUE3b003YzdCUEgzZzFvSzFwc2JCVUprWTZaWGRoc25SZHQ2N2F1R2lDSlp4MDZOcjNGUEZ4MXRVa2NoWA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260714-auto-1-b42761",
         "title": "OpenAI发布用户提示词指南:面向",
         "category": "AI使用教程",
@@ -18291,6 +18465,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260715-auto-1-02fabb",
+        "title": "Qwen3.5 on Ironwoo",
+        "category": "开源项目",
+        "date": "2026-07-15",
+        "summary": "Qwen3.5 on Ironwood: What Google’s 4.7x Gain Prove",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen3.5 on Ironwoo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Qwen3.5 on Ironwood: What Google’s 4.7x Gain Prove",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Qwen3.5 on Ironwood: What Google’s 4.7x Gain Prove",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "techi.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOE1LU0R1bFFpekVWT1hzWWU4dmZmZmxRNGdpYXR0dUpGUU9EZTY0WjRKcE0yT1ZTX21aUGhtTXp4blJGbnRLWlBGQ29VaXEtWkxOZ0tSWkdsOXViX3hrbXI1OFFJYlhWeUpRX1JDV19NQ3JianVIaVF6QU8?oc=5"
+          },
+          {
+            "label": "新浪网：创业 3 年、团队仅 12 人，这个硅谷公司把端侧 AI 做进了高通 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GSzRCTGJVanNCeFhXaTFsNXVwcTJYNm85ZmdFeGZsU2tJQ1UtaXlOV2tXM2hacTB4aW13MFZOYnhES2ROMFcxZmVoeUM5WXJDNzJyekpkdlpsWFVrZTlzMzlKZ3UwTnllZU9xa3FjNVR1Zw?oc=5"
+          },
+          {
+            "label": "智东西：5.1亿！Hermes开发商被曝新融资，估值冲上百亿 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yMUFiX3ZETW0wTUVzeGhJSUdwTDJDNkJ1OWNmYm4tXzVfeFhicy00XzdSMmNxTGdUMlhVMW9pTDhNMEdBNXA5Zg?oc=5"
+          }
+        ],
+        "source": "techi.com",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOE1LU0R1bFFpekVWT1hzWWU4dmZmZmxRNGdpYXR0dUpGUU9EZTY0WjRKcE0yT1ZTX21aUGhtTXp4blJGbnRLWlBGQ29VaXEtWkxOZ0tSWkdsOXViX3hrbXI1OFFJYlhWeUpRX1JDV19NQ3JianVIaVF6QU8?oc=5"
+      },
+      {
+        "slug": "open-source-20260715-auto-2-b023ad",
+        "title": "创业 3 年、团队仅 12 人，这个",
+        "category": "开源项目",
+        "date": "2026-07-15",
+        "summary": "创业 3 年、团队仅 12 人，这个硅谷公司把端侧 AI 做进了高通 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "创业 3 年、团队仅 12 人，这个 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "创业 3 年、团队仅 12 人，这个硅谷公司把端侧 AI 做进了高通 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "创业 3 年、团队仅 12 人，这个硅谷公司把端侧 AI 做进了高通 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GSzRCTGJVanNCeFhXaTFsNXVwcTJYNm85ZmdFeGZsU2tJQ1UtaXlOV2tXM2hacTB4aW13MFZOYnhES2ROMFcxZmVoeUM5WXJDNzJyekpkdlpsWFVrZTlzMzlKZ3UwTnllZU9xa3FjNVR1Zw?oc=5"
+          },
+          {
+            "label": "techi.com：Qwen3.5 on Ironwood: What Google’s 4.7x Gain Proves - techi.com",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LOE1LU0R1bFFpekVWT1hzWWU4dmZmZmxRNGdpYXR0dUpGUU9EZTY0WjRKcE0yT1ZTX21aUGhtTXp4blJGbnRLWlBGQ29VaXEtWkxOZ0tSWkdsOXViX3hrbXI1OFFJYlhWeUpRX1JDV19NQ3JianVIaVF6QU8?oc=5"
+          },
+          {
+            "label": "智东西：5.1亿！Hermes开发商被曝新融资，估值冲上百亿 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yMUFiX3ZETW0wTUVzeGhJSUdwTDJDNkJ1OWNmYm4tXzVfeFhicy00XzdSMmNxTGdUMlhVMW9pTDhNMEdBNXA5Zg?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GSzRCTGJVanNCeFhXaTFsNXVwcTJYNm85ZmdFeGZsU2tJQ1UtaXlOV2tXM2hacTB4aW13MFZOYnhES2ROMFcxZmVoeUM5WXJDNzJyekpkdlpsWFVrZTlzMzlKZ3UwTnllZU9xa3FjNVR1Zw?oc=5"
+      },
       {
         "slug": "open-source-20260714-auto-1-ff71f7",
         "title": "美国议员提出《AI事件报告法案》 ，",
