@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260716-auto-1-138d08",
+        "title": "人工智能ETF天弘（561460）跌",
+        "category": "AI新闻",
+        "date": "2026-07-16",
+        "summary": "人工智能ETF天弘（561460）跌1.28%，半日成交额1143.24万元 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能ETF天弘（561460）跌 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "人工智能ETF天弘（561460）跌1.28%，半日成交额1143.24万元 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能ETF天弘（561460）跌1.28%，半日成交额1143.24万元 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbDVXLWFsMF8td0lwVDZIYzN4YlRQZmtValZLSUxnU1V0VlBLWldUS1lZbjRfMERBR0RvUWFyZXVXNnNiVndKaUNuTVNxblk3SEtFUnJXaEhCTkZwemRvbHo1SVRKLXB3bm96QlE0SFpsYWpyOW03emRoQVVJT0pGMmdQeExkSmhUdHZjdi1ZX0h5T1JlbUsxdDgtVjFQcVM2SDFsTnZXM3F3bmlKbERnTG9Vc085U2Fpam4wQmZjX0llekprQktpQzdRV3FhdXhZSktvZDcxUGpqbjdvMzMwcXIyc2VBTTc2V3RteG1XZFk5SzBmcDVnakVuczVVakFKc05CWk5TbVpUNmdYeld0Wndn?oc=5"
+          },
+          {
+            "label": "The Washington Post：A path forward for AI in New Hampshire schools - The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbS1vbDlveF91UGV2NHVISVRfbjBHbjV2MXBkVWdYOEV5NDEtVFl4WVlqRkpRenc5SEpfNThSWmo5QUZCanNSc1lvZ0Z1T3EzYXBxeW15MU03Y0FQaThFLUxrdWJ3QWUzMl9TMFFwM2p3YTlxdVdRYk43ME5xeGVtTlFVeWdnSndicmRFNG5IMlc?oc=5"
+          },
+          {
+            "label": "The New York Times：Europe Wants to Break Free From American and Chinese Technology. But H",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbDVXLWFsMF8td0lwVDZIYzN4YlRQZmtValZLSUxnU1V0VlBLWldUS1lZbjRfMERBR0RvUWFyZXVXNnNiVndKaUNuTVNxblk3SEtFUnJXaEhCTkZwemRvbHo1SVRKLXB3bm96QlE0SFpsYWpyOW03emRoQVVJT0pGMmdQeExkSmhUdHZjdi1ZX0h5T1JlbUsxdDgtVjFQcVM2SDFsTnZXM3F3bmlKbERnTG9Vc085U2Fpam4wQmZjX0llekprQktpQzdRV3FhdXhZSktvZDcxUGpqbjdvMzMwcXIyc2VBTTc2V3RteG1XZFk5SzBmcDVnakVuczVVakFKc05CWk5TbVpUNmdYeld0Wndn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260716-auto-2-8b0bea",
+        "title": "A path forward for",
+        "category": "AI新闻",
+        "date": "2026-07-16",
+        "summary": "A path forward for AI in New Hampshire schools The",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "A path forward for 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "A path forward for AI in New Hampshire schools The",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "A path forward for AI in New Hampshire schools The",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbS1vbDlveF91UGV2NHVISVRfbjBHbjV2MXBkVWdYOEV5NDEtVFl4WVlqRkpRenc5SEpfNThSWmo5QUZCanNSc1lvZ0Z1T3EzYXBxeW15MU03Y0FQaThFLUxrdWJ3QWUzMl9TMFFwM2p3YTlxdVdRYk43ME5xeGVtTlFVeWdnSndicmRFNG5IMlc?oc=5"
+          },
+          {
+            "label": "新浪财经：人工智能ETF天弘（561460）跌1.28%，半日成交额1143.24万元 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbDVXLWFsMF8td0lwVDZIYzN4YlRQZmtValZLSUxnU1V0VlBLWldUS1lZbjRfMERBR0RvUWFyZXVXNnNiVndKaUNuTVNxblk3SEtFUnJXaEhCTkZwemRvbHo1SVRKLXB3bm96QlE0SFpsYWpyOW03emRoQVVJT0pGMmdQeExkSmhUdHZjdi1ZX0h5T1JlbUsxdDgtVjFQcVM2SDFsTnZXM3F3bmlKbERnTG9Vc085U2Fpam4wQmZjX0llekprQktpQzdRV3FhdXhZSktvZDcxUGpqbjdvMzMwcXIyc2VBTTc2V3RteG1XZFk5SzBmcDVnakVuczVVakFKc05CWk5TbVpUNmdYeld0Wndn?oc=5"
+          },
+          {
+            "label": "The New York Times：Europe Wants to Break Free From American and Chinese Technology. But H",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01aThfM3F5OXZRWEViT3k3ODFXdzdLOWZ5dDg1NjhQSlRHRUwwVWZueGxSclppNG5HSlEzSDNpVEdhOGdTdXZyaTl4Nk5NclJyRDc1RGE0OTBxWU0yUVBwd1BzUTE3UnNLdHkxOVBMdU1Gc0lXUW8xeVF2NGc?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbS1vbDlveF91UGV2NHVISVRfbjBHbjV2MXBkVWdYOEV5NDEtVFl4WVlqRkpRenc5SEpfNThSWmo5QUZCanNSc1lvZ0Z1T3EzYXBxeW15MU03Y0FQaThFLUxrdWJ3QWUzMl9TMFFwM2p3YTlxdVdRYk43ME5xeGVtTlFVeWdnSndicmRFNG5IMlc?oc=5"
+      },
+      {
         "slug": "ai-news-20260715-auto-1-dd928c",
         "title": "Standing out, not",
         "category": "AI新闻",
@@ -12695,6 +12811,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260716-auto-1-f5147b",
+        "title": "WINS TechNet发布生成式A",
+        "category": "AI使用教程",
+        "date": "2026-07-16",
+        "summary": "WINS TechNet发布生成式AI数据安全解决方案SNIPER AIVAX，瞄准N2SF合规需求",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "WINS TechNet发布生成式A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "WINS TechNet发布生成式AI数据安全解决方案SNIPER AIVAX，瞄准N2SF合规需求",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "WINS TechNet发布生成式AI数据安全解决方案SNIPER AIVAX，瞄准N2SF合规需求",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2ZBaG5rakZaVXZqZUUxUzVUMkVRVTl3alVOMFd4by1fVjFwZ20tMGZxSDNLTWZKRmV0VS1nSjlNQ0ttOWdkaExtN05VQ211cVd4bzF1ZGtFZE9uclF3QmNBR3Itb0xjVUlKVUt3UkFGX1BuM0I4bG1YelRvM2piRkhnb1JtQ0RBMEdLaXRGLXdNTmVGVjNhdzdFNGF2YUVzSVMxV2Q5RkF3dw?oc=5"
+          },
+          {
+            "label": "新浪网：河北AI漫剧实战商学院重磅起航，全链路产业矩阵强势落地 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUNxSWlaMDl3LV8tSHBNc2huY1ZzaDY0aDlBbWpJbkQ4ZGpXU1RFZWZIS2trdmlNSVNtM2thZmdpeTdFMm5sOGZYX3o1WDNwblllQ3hDYlZCSGZjZjBLV0wyYzFRWWw1dG5EMnhkSUtkZEpkZEliRlhSZmpDbWJubThzdmR6STI2ZV9yZ01mSQ?oc=5"
+          },
+          {
+            "label": "手机网易网：AI进阶用法指南，五分钟教会你！ 提示词其实没那么难！ - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CR0lwbW1RbE1JalJQWDBnSmpBV2EyaWtlUXFDSFoxMl9nWlp6N1NnSUkxSWpzeVJQajRmS1hPdERvdXpXWjNxcjlYWkRMMlQ3MDNVcw?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2ZBaG5rakZaVXZqZUUxUzVUMkVRVTl3alVOMFd4by1fVjFwZ20tMGZxSDNLTWZKRmV0VS1nSjlNQ0ttOWdkaExtN05VQ211cVd4bzF1ZGtFZE9uclF3QmNBR3Itb0xjVUlKVUt3UkFGX1BuM0I4bG1YelRvM2piRkhnb1JtQ0RBMEdLaXRGLXdNTmVGVjNhdzdFNGF2YUVzSVMxV2Q5RkF3dw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260715-auto-1-2f43f9",
         "title": "太离谱！AI作品连夺摄影赛一等奖！摄",
         "category": "AI使用教程",
@@ -18465,6 +18639,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260716-auto-1-6633a5",
+        "title": "SpaceXAI Announces",
+        "category": "开源项目",
+        "date": "2026-07-16",
+        "summary": "SpaceXAI Announces Open Source Grok Build, Release",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SpaceXAI Announces 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "SpaceXAI Announces Open Source Grok Build, Release",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SpaceXAI Announces Open Source Grok Build, Release",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ababnews.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVDB4MG8tY2RKOGhWVTlJZC1aZW1Gc0QzTy1ZSmkyN1pHZHlRbVFxUTUwN2t3LVNhaWVvWFRLWVd4alVfNGs5VV9DaC1KZnRLUVlCQUVTeERHS1dqVnBZZVBPQ29ab1d3X3BUaElpbk9fNlJQ?oc=5"
+          },
+          {
+            "label": "ababnews.com：Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, relea",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdkZ0Q3RxSkZvb0NoM0RWZ0tmYmxWdl9NRF95dGVSQ0ZSN0Q2UFFKdlZ2MFdGNHVLMktmMFBUX2l6YWJKSTJkdGpLVU9mVEtVekdCZUVGdU53NzVUOFBKcEhxejlzQ3lkR25GRHBlMEhFN09v?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Australia imposes new rules on data centers after Anthropic lobbying -",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UVUF5SkFNQUYwV1Y3MUpFd1NlbHhNalM0Rk9WTDROcE9aTjh1Y0Fkc3VJSHByZklJTHVKcXozczlSb3JiN292MXVqT2NFUVVELXpzb3M3WElEVGFfdkxHZzJzQTdPX3labTlMOGVLOUt1NFB1Mk1V?oc=5"
+          }
+        ],
+        "source": "ababnews.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVDB4MG8tY2RKOGhWVTlJZC1aZW1Gc0QzTy1ZSmkyN1pHZHlRbVFxUTUwN2t3LVNhaWVvWFRLWVd4alVfNGs5VV9DaC1KZnRLUVlCQUVTeERHS1dqVnBZZVBPQ29ab1d3X3BUaElpbk9fNlJQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260716-auto-2-a47e48",
+        "title": "Thinking Machines",
+        "category": "开源项目",
+        "date": "2026-07-16",
+        "summary": "Thinking Machines Lab, founded by former OpenAI CT",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Thinking Machines 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Thinking Machines Lab, founded by former OpenAI CT",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Thinking Machines Lab, founded by former OpenAI CT",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ababnews.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdkZ0Q3RxSkZvb0NoM0RWZ0tmYmxWdl9NRF95dGVSQ0ZSN0Q2UFFKdlZ2MFdGNHVLMktmMFBUX2l6YWJKSTJkdGpLVU9mVEtVekdCZUVGdU53NzVUOFBKcEhxejlzQ3lkR25GRHBlMEhFN09v?oc=5"
+          },
+          {
+            "label": "ababnews.com：SpaceXAI Announces Open Source Grok Build, Releases CLI, Terminal Inte",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mVDB4MG8tY2RKOGhWVTlJZC1aZW1Gc0QzTy1ZSmkyN1pHZHlRbVFxUTUwN2t3LVNhaWVvWFRLWVd4alVfNGs5VV9DaC1KZnRLUVlCQUVTeERHS1dqVnBZZVBPQ29ab1d3X3BUaElpbk9fNlJQ?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Australia imposes new rules on data centers after Anthropic lobbying -",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UVUF5SkFNQUYwV1Y3MUpFd1NlbHhNalM0Rk9WTDROcE9aTjh1Y0Fkc3VJSHByZklJTHVKcXozczlSb3JiN292MXVqT2NFUVVELXpzb3M3WElEVGFfdkxHZzJzQTdPX3labTlMOGVLOUt1NFB1Mk1V?oc=5"
+          }
+        ],
+        "source": "ababnews.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fdkZ0Q3RxSkZvb0NoM0RWZ0tmYmxWdl9NRF95dGVSQ0ZSN0Q2UFFKdlZ2MFdGNHVLMktmMFBUX2l6YWJKSTJkdGpLVU9mVEtVekdCZUVGdU53NzVUOFBKcEhxejlzQ3lkR25GRHBlMEhFN09v?oc=5"
+      },
       {
         "slug": "open-source-20260715-auto-1-02fabb",
         "title": "Qwen3.5 on Ironwoo",
