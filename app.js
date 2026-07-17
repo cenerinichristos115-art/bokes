@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260717-auto-1-2a68e9",
+        "title": "习近平宣布中国支持全球人工智能发展重",
+        "category": "AI新闻",
+        "date": "2026-07-17",
+        "summary": "习近平宣布中国支持全球人工智能发展重大举措 chinanews.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "习近平宣布中国支持全球人工智能发展重 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "习近平宣布中国支持全球人工智能发展重大举措 chinanews.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "习近平宣布中国支持全球人工智能发展重大举措 chinanews.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "chinanews.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTVVHX1pxcWJTZXRkV0JMeW1rVWFFTzFuZWtia2FzZkl1dDdPdml4WXZtTGdEWU5iRW5tSXRheFZab25ndzVobmYzdEpFVXFOQnJUamd4cWk0VC1pRENBaUZxenBqWkhH?oc=5"
+          },
+          {
+            "label": "Opinio Juris：AI-Enabled Targeting and the Structural Strain on International Humani",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1QR01YNm5BcFV6bWxzV01lWDRXdnYteHpYdGlNc1ZPcFlxMWoxbUZuSmZ5bUY1V2dPelBzMWxhZVBwNldFTWV6REtGNUFCWmthWm9TR1JXeEhlWHZudERUbTdyWXJzazk5T2o0bE92MjJHU2hTWmVVdm84RG43VmQtTmVQaWJjOTgtalV4U01vUThJNEJwT2ZaVnZXLVRKMFZ4cGdxdVVmMHZHM2llaDI4NDRjdw?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。图为开幕式现场。 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZlUyZi0yZW1wY2x0MUdHQUEyRnRtREZlYS1WVF9yb0J4RGp2Ukc1ZmlvdmpaeDJyeUtGUlp0SFFKLWZlSkVpM3JabkVldmtkZ2x3Y3N5Z0Q4bktZdUprQzBtRWVzNmhHSGFhbUk3NA?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTVVHX1pxcWJTZXRkV0JMeW1rVWFFTzFuZWtia2FzZkl1dDdPdml4WXZtTGdEWU5iRW5tSXRheFZab25ndzVobmYzdEpFVXFOQnJUamd4cWk0VC1pRENBaUZxenBqWkhH?oc=5"
+      },
+      {
+        "slug": "ai-news-20260717-auto-2-bb068d",
+        "title": "AI-Enabled Targeti",
+        "category": "AI新闻",
+        "date": "2026-07-17",
+        "summary": "AI-Enabled Targeting and the Structural Strain on",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI-Enabled Targeti 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI-Enabled Targeting and the Structural Strain on",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI-Enabled Targeting and the Structural Strain on",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Opinio Juris：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1QR01YNm5BcFV6bWxzV01lWDRXdnYteHpYdGlNc1ZPcFlxMWoxbUZuSmZ5bUY1V2dPelBzMWxhZVBwNldFTWV6REtGNUFCWmthWm9TR1JXeEhlWHZudERUbTdyWXJzazk5T2o0bE92MjJHU2hTWmVVdm84RG43VmQtTmVQaWJjOTgtalV4U01vUThJNEJwT2ZaVnZXLVRKMFZ4cGdxdVVmMHZHM2llaDI4NDRjdw?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：习近平宣布中国支持全球人工智能发展重大举措 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTVVHX1pxcWJTZXRkV0JMeW1rVWFFTzFuZWtia2FzZkl1dDdPdml4WXZtTGdEWU5iRW5tSXRheFZab25ndzVobmYzdEpFVXFOQnJUamd4cWk0VC1pRENBaUZxenBqWkhH?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。图为开幕式现场。 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3ZlUyZi0yZW1wY2x0MUdHQUEyRnRtREZlYS1WVF9yb0J4RGp2Ukc1ZmlvdmpaeDJyeUtGUlp0SFFKLWZlSkVpM3JabkVldmtkZ2x3Y3N5Z0Q4bktZdUprQzBtRWVzNmhHSGFhbUk3NA?oc=5"
+          }
+        ],
+        "source": "Opinio Juris",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1QR01YNm5BcFV6bWxzV01lWDRXdnYteHpYdGlNc1ZPcFlxMWoxbUZuSmZ5bUY1V2dPelBzMWxhZVBwNldFTWV6REtGNUFCWmthWm9TR1JXeEhlWHZudERUbTdyWXJzazk5T2o0bE92MjJHU2hTWmVVdm84RG43VmQtTmVQaWJjOTgtalV4U01vUThJNEJwT2ZaVnZXLVRKMFZ4cGdxdVVmMHZHM2llaDI4NDRjdw?oc=5"
+      },
+      {
         "slug": "ai-news-20260716-auto-1-138d08",
         "title": "人工智能ETF天弘（561460）跌",
         "category": "AI新闻",
@@ -12811,6 +12927,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260717-auto-1-b0a1a7",
+        "title": "“AI网红”光鲜概念下的真实账单 独",
+        "category": "AI使用教程",
+        "date": "2026-07-17",
+        "summary": "“AI网红”光鲜概念下的真实账单 独立制作人：投入数万元至今未盈利 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“AI网红”光鲜概念下的真实账单 独 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“AI网红”光鲜概念下的真实账单 独立制作人：投入数万元至今未盈利 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“AI网红”光鲜概念下的真实账单 独立制作人：投入数万元至今未盈利 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNi1ZN284Vlh0V24tWXJwS3ZyRjZMdU96T0toSHdzd2FuS1NOOXRiNmc4YmZhNEJpV1V6RXMyb0xrejhtdEdQQ21PVHU5NDZHaUJ4NUJ3VlZWWmNoVmxyOURVXzNyY3BOWjNIWVZaakVxb29YLUQtbGlhRWdiY1RSLS1XUVBiUUFrcDhOdw?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "手机网易网：AI学术写作：方法论意义大于文本本身 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaS3M2U1otdmdOR3JPSjd2MmpYd0w2SVhTZnREbzczbmxmSzc5N2tvTm5FU0tncTdER1ZuMm0xLWx5VHcxZFI5RXpVc2dia2oyNGpZSlJsU3NoWnBQTUlNT1hn?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNi1ZN284Vlh0V24tWXJwS3ZyRjZMdU96T0toSHdzd2FuS1NOOXRiNmc4YmZhNEJpV1V6RXMyb0xrejhtdEdQQ21PVHU5NDZHaUJ4NUJ3VlZWWmNoVmxyOURVXzNyY3BOWjNIWVZaakVxb29YLUQtbGlhRWdiY1RSLS1XUVBiUUFrcDhOdw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260716-auto-1-f5147b",
         "title": "WINS TechNet发布生成式A",
         "category": "AI使用教程",
@@ -18639,6 +18813,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260717-auto-1-6be95a",
+        "title": "数字永生？面壁智能开源企业数字员工平",
+        "category": "开源项目",
+        "date": "2026-07-17",
+        "summary": "数字永生？面壁智能开源企业数字员工平台StaffDeck article.9466.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "数字永生？面壁智能开源企业数字员工平 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "数字永生？面壁智能开源企业数字员工平台StaffDeck article.9466.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "数字永生？面壁智能开源企业数字员工平台StaffDeck article.9466.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkU3V4NGh1eWd1VFBrRi1RSmdpNUNrZ1RhYUN2T0ZJcEZZX1pvaGtMR3hVd3BON1kzSjJZUXBncloxR3U3Ung1Q1h1NDVTR2s?oc=5"
+          },
+          {
+            "label": "IT Brief Australia：Google tests AI agents on short film-making project - IT Brief Austral",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXQtT1l5QmZqS3F2WFZNVFNHNjl3RWRhSi1GZUZqa2VOT0R2cXRfYUVRX3RoZ0JfY245ZjNMOGlod3g0anFrODhhMFVZRWZ1M0c3aUpmZUFPdkhtQXFFdzVtYm80bnYzcmhYSFZaSUpjZGItOGZtUHpQY3ZMOUdpWDNtYkhBVWc?oc=5"
+          },
+          {
+            "label": "ADTmag：Nvidia Expands Cosmos Physical AI Platform with Edge Model, Japanese M",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmE2V0s3ZkhMNUxobUZybGhIMEZKb3g4N1RWU0g4MUhDb0pzZi1QM25qSEpfUkJvdXpxcGd4ZnZVQmZxakc5VlpOSFZPY0EyTEdfT25HbS1WTWtKcFJyWU5Oam9sUTZMTEMxcXhyMHY5X2pnM3JLak9XTTA2TThfcXR5TW1XaTNmeVdIMC1tU2JVSVZPOTlEVkk0cTk3b2lCRlozVA?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkU3V4NGh1eWd1VFBrRi1RSmdpNUNrZ1RhYUN2T0ZJcEZZX1pvaGtMR3hVd3BON1kzSjJZUXBncloxR3U3Ung1Q1h1NDVTR2s?oc=5"
+      },
+      {
+        "slug": "open-source-20260717-auto-2-380574",
+        "title": "Google tests AI ag",
+        "category": "开源项目",
+        "date": "2026-07-17",
+        "summary": "Google tests AI agents on short film-making projec",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google tests AI ag 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google tests AI agents on short film-making projec",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google tests AI agents on short film-making projec",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IT Brief Australia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXQtT1l5QmZqS3F2WFZNVFNHNjl3RWRhSi1GZUZqa2VOT0R2cXRfYUVRX3RoZ0JfY245ZjNMOGlod3g0anFrODhhMFVZRWZ1M0c3aUpmZUFPdkhtQXFFdzVtYm80bnYzcmhYSFZaSUpjZGItOGZtUHpQY3ZMOUdpWDNtYkhBVWc?oc=5"
+          },
+          {
+            "label": "article.9466.com：数字永生？面壁智能开源企业数字员工平台StaffDeck - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkU3V4NGh1eWd1VFBrRi1RSmdpNUNrZ1RhYUN2T0ZJcEZZX1pvaGtMR3hVd3BON1kzSjJZUXBncloxR3U3Ung1Q1h1NDVTR2s?oc=5"
+          },
+          {
+            "label": "ADTmag：Nvidia Expands Cosmos Physical AI Platform with Edge Model, Japanese M",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmE2V0s3ZkhMNUxobUZybGhIMEZKb3g4N1RWU0g4MUhDb0pzZi1QM25qSEpfUkJvdXpxcGd4ZnZVQmZxakc5VlpOSFZPY0EyTEdfT25HbS1WTWtKcFJyWU5Oam9sUTZMTEMxcXhyMHY5X2pnM3JLak9XTTA2TThfcXR5TW1XaTNmeVdIMC1tU2JVSVZPOTlEVkk0cTk3b2lCRlozVA?oc=5"
+          }
+        ],
+        "source": "IT Brief Australia",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZXQtT1l5QmZqS3F2WFZNVFNHNjl3RWRhSi1GZUZqa2VOT0R2cXRfYUVRX3RoZ0JfY245ZjNMOGlod3g0anFrODhhMFVZRWZ1M0c3aUpmZUFPdkhtQXFFdzVtYm80bnYzcmhYSFZaSUpjZGItOGZtUHpQY3ZMOUdpWDNtYkhBVWc?oc=5"
+      },
       {
         "slug": "open-source-20260716-auto-1-6633a5",
         "title": "SpaceXAI Announces",
