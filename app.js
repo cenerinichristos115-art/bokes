@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260718-auto-1-c5156c",
+        "title": "预告丨《全球人工智能创新治理》辑刊",
+        "category": "AI新闻",
+        "date": "2026-07-18",
+        "summary": "预告丨《全球人工智能创新治理》辑刊 复旦发展研究院",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "预告丨《全球人工智能创新治理》辑刊 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "预告丨《全球人工智能创新治理》辑刊 复旦发展研究院",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "预告丨《全球人工智能创新治理》辑刊 复旦发展研究院",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "复旦发展研究院：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlpxbDVGcFc5QjVOQ0YxWm9aTk8xMDRDOUZONnBBRHBUeFdMcEZhaGRPdUZXUzFLNzktVUkyTGZfMmZMUjhPcTVCZXlkUVh4TTdDcnQzemROWGZhV0w2cDNHb28?oc=5"
+          },
+          {
+            "label": "新浪网：重磅！“人工智能+”行动方案出炉，八大领域全面落地 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrZDc4T2N5MXZ4V2JqLWNMWHBfMlRic1k5d0ZNeTh4RWVyZU1YbXJrQzN1UUI5S3dTalFOYlJROFFXVXUyLWF6ZVZfLWxZSHVJNF9nbE5xb1ZqQlZHU3Q0SXlLWjl1THhQNDJMaVhncjlFRXlwZmpFbXlJYVBQXzQ?oc=5"
+          },
+          {
+            "label": "新浪网：宁德市发布三年AI计划，锂电之都剑指智能制造 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WUFRMTFdxR0xQNFVSd1NaREF2NlM1ZlprOEVaRkQycllnRGxCSTB2MnlhVHJJWGhmbVdJVF9yUURPbV92VnFQMmZTTXlfUmQ0dmhjTHNXRVZmU2NSRVlVNEh5a05rZFdGZ2dBcDIwOWVtaWloaDJ2N1BzNndKWnM?oc=5"
+          }
+        ],
+        "source": "复旦发展研究院",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlpxbDVGcFc5QjVOQ0YxWm9aTk8xMDRDOUZONnBBRHBUeFdMcEZhaGRPdUZXUzFLNzktVUkyTGZfMmZMUjhPcTVCZXlkUVh4TTdDcnQzemROWGZhV0w2cDNHb28?oc=5"
+      },
+      {
+        "slug": "ai-news-20260718-auto-2-5f4107",
+        "title": "重磅！“人工智能+”行动方案出炉，八",
+        "category": "AI新闻",
+        "date": "2026-07-18",
+        "summary": "重磅！“人工智能+”行动方案出炉，八大领域全面落地 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "重磅！“人工智能+”行动方案出炉，八 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "重磅！“人工智能+”行动方案出炉，八大领域全面落地 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "重磅！“人工智能+”行动方案出炉，八大领域全面落地 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrZDc4T2N5MXZ4V2JqLWNMWHBfMlRic1k5d0ZNeTh4RWVyZU1YbXJrQzN1UUI5S3dTalFOYlJROFFXVXUyLWF6ZVZfLWxZSHVJNF9nbE5xb1ZqQlZHU3Q0SXlLWjl1THhQNDJMaVhncjlFRXlwZmpFbXlJYVBQXzQ?oc=5"
+          },
+          {
+            "label": "复旦发展研究院：预告丨《全球人工智能创新治理》辑刊 - 复旦发展研究院",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WlpxbDVGcFc5QjVOQ0YxWm9aTk8xMDRDOUZONnBBRHBUeFdMcEZhaGRPdUZXUzFLNzktVUkyTGZfMmZMUjhPcTVCZXlkUVh4TTdDcnQzemROWGZhV0w2cDNHb28?oc=5"
+          },
+          {
+            "label": "新浪网：宁德市发布三年AI计划，锂电之都剑指智能制造 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WUFRMTFdxR0xQNFVSd1NaREF2NlM1ZlprOEVaRkQycllnRGxCSTB2MnlhVHJJWGhmbVdJVF9yUURPbV92VnFQMmZTTXlfUmQ0dmhjTHNXRVZmU2NSRVlVNEh5a05rZFdGZ2dBcDIwOWVtaWloaDJ2N1BzNndKWnM?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrZDc4T2N5MXZ4V2JqLWNMWHBfMlRic1k5d0ZNeTh4RWVyZU1YbXJrQzN1UUI5S3dTalFOYlJROFFXVXUyLWF6ZVZfLWxZSHVJNF9nbE5xb1ZqQlZHU3Q0SXlLWjl1THhQNDJMaVhncjlFRXlwZmpFbXlJYVBQXzQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260717-auto-1-2a68e9",
         "title": "习近平宣布中国支持全球人工智能发展重",
         "category": "AI新闻",
@@ -12927,6 +13043,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260718-auto-1-bec855",
+        "title": "Roblox推移动端AI工具Buil",
+        "category": "AI使用教程",
+        "date": "2026-07-18",
+        "summary": "Roblox推移动端AI工具Build，输入提示词即可生成游戏 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Roblox推移动端AI工具Buil 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Roblox推移动端AI工具Build，输入提示词即可生成游戏 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Roblox推移动端AI工具Build，输入提示词即可生成游戏 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm83MjktMGdhS2NicDY2U1pqWjN0R2dMbGx1Y2N2aS1DZTdvX2toem80Z2I1aFhqVEwySlg1eHlndW9CaENKSHVHQzNHREJfYjBLVExsVDlkZXNiUmRPRW5WbmVhYnRFeHhZV0RUOEhteDBSMXB1OHRlcTFPMkdEZXpqdm5iaGZQcXV2Nw?oc=5"
+          },
+          {
+            "label": "Medium：The Exhaust Wars: Mining AI Context for Strategic Advantage | by Adnan",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhOenhwQ2tNaE10THY5WUJwbmZSLTdkTjVXX21kdmszMEg5TlEycEUxS3dOd2pMNGpOVVR3NEExd3ZNNU8wbUhuZUxaRmxUOElVc2cwOW1Hb3Q4NlY0czdKWExaWHMtSk1HS1lydFkwVUJfRlpmYkhaSHMybE9NaGNONjFBRXRmSE9EMXEzd3ZQM01LU1Z0MVo2THUyU1lfSTY1QVhB?oc=5"
+          },
+          {
+            "label": "Mshale：AI News: Deepseek Controversy, GPT-5.2, OpenAI X Disney, Meta Closed-S",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZczNRZ0U1QkxsMkp2MHVFcFBNMThONGl4NklScEJZcHJzQXM1NFJ0ajNLaHRycC15TkMzVmhRUGFtNHVtTS1oRGxJQ3UySU51Z3JKZUpQMXBQMjg?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm83MjktMGdhS2NicDY2U1pqWjN0R2dMbGx1Y2N2aS1DZTdvX2toem80Z2I1aFhqVEwySlg1eHlndW9CaENKSHVHQzNHREJfYjBLVExsVDlkZXNiUmRPRW5WbmVhYnRFeHhZV0RUOEhteDBSMXB1OHRlcTFPMkdEZXpqdm5iaGZQcXV2Nw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260717-auto-1-b0a1a7",
         "title": "“AI网红”光鲜概念下的真实账单 独",
         "category": "AI使用教程",
@@ -18813,6 +18987,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260718-auto-1-662846",
+        "title": "Linus Torvalds回应反A",
+        "category": "开源项目",
+        "date": "2026-07-18",
+        "summary": "Linus Torvalds回应反AI言论：Linux绝非“社会战士”项目 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Linus Torvalds回应反A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Linus Torvalds回应反AI言论：Linux绝非“社会战士”项目 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Linus Torvalds回应反AI言论：Linux绝非“社会战士”项目 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd09VUXR3c2NBWTVXRG1aTWtZSUp6eWVjdDJOQjFGMEhPSDhaX05reEhvdEpGR1FkMmZZWGRqV0FLMG8wVDNaZU9ieHBONUlPTG9HelJrTjJUQmRnbXZaekVSdWU1ZmNyNFJ3RjZCbWFOcjhkTU5BSXpnc240c3J4RmRMZmFOMkF1?oc=5"
+          },
+          {
+            "label": "The Cryptonomist：Kimi AI Model Impact Shakes Crypto and AI Markets - The Cryptonomist",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nc0tDa1J5S1EwS042RXNMb3N5ZjhZcVI3R2lybU9pRkVtQTY5U2hKc1BvcE1FVzZRRnR1RGtnb3dLYU1IbHR1VUpDM1VEM2Z1Y0FmU0xEcGppd1J6eGdnU2d2d1NIampuUWlz?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：Linux 之父态度转变：从抱怨到认可，AI 在开源开发利弊几何？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83dnFUeTZjTUhfMGtiby1mZlZnbVBvY2lDYjc0WVMxcG1JN2h1QkpkWjh3VElGaDdaRjM5UU9TZUlEbXp5UkU4cmhhVUowYlFJcmp2dXI2QVF3M1VrSnZyclVXYW1xZHN3Ymh3?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd09VUXR3c2NBWTVXRG1aTWtZSUp6eWVjdDJOQjFGMEhPSDhaX05reEhvdEpGR1FkMmZZWGRqV0FLMG8wVDNaZU9ieHBONUlPTG9HelJrTjJUQmRnbXZaekVSdWU1ZmNyNFJ3RjZCbWFOcjhkTU5BSXpnc240c3J4RmRMZmFOMkF1?oc=5"
+      },
+      {
+        "slug": "open-source-20260718-auto-2-7be45d",
+        "title": "Kimi AI Model Impa",
+        "category": "开源项目",
+        "date": "2026-07-18",
+        "summary": "Kimi AI Model Impact Shakes Crypto and AI Markets",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Kimi AI Model Impa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Kimi AI Model Impact Shakes Crypto and AI Markets",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Kimi AI Model Impact Shakes Crypto and AI Markets",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Cryptonomist：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nc0tDa1J5S1EwS042RXNMb3N5ZjhZcVI3R2lybU9pRkVtQTY5U2hKc1BvcE1FVzZRRnR1RGtnb3dLYU1IbHR1VUpDM1VEM2Z1Y0FmU0xEcGppd1J6eGdnU2d2d1NIampuUWlz?oc=5"
+          },
+          {
+            "label": "搜狐网：Linus Torvalds回应反AI言论：Linux绝非“社会战士”项目 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd09VUXR3c2NBWTVXRG1aTWtZSUp6eWVjdDJOQjFGMEhPSDhaX05reEhvdEpGR1FkMmZZWGRqV0FLMG8wVDNaZU9ieHBONUlPTG9HelJrTjJUQmRnbXZaekVSdWU1ZmNyNFJ3RjZCbWFOcjhkTU5BSXpnc240c3J4RmRMZmFOMkF1?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：Linux 之父态度转变：从抱怨到认可，AI 在开源开发利弊几何？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83dnFUeTZjTUhfMGtiby1mZlZnbVBvY2lDYjc0WVMxcG1JN2h1QkpkWjh3VElGaDdaRjM5UU9TZUlEbXp5UkU4cmhhVUowYlFJcmp2dXI2QVF3M1VrSnZyclVXYW1xZHN3Ymh3?oc=5"
+          }
+        ],
+        "source": "The Cryptonomist",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nc0tDa1J5S1EwS042RXNMb3N5ZjhZcVI3R2lybU9pRkVtQTY5U2hKc1BvcE1FVzZRRnR1RGtnb3dLYU1IbHR1VUpDM1VEM2Z1Y0FmU0xEcGppd1J6eGdnU2d2d1NIampuUWlz?oc=5"
+      },
       {
         "slug": "open-source-20260717-auto-1-6be95a",
         "title": "数字永生？面壁智能开源企业数字员工平",
