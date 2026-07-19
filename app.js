@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260719-auto-1-4bf2dd",
+        "title": "WAIC五位大咖热议AI迭代路线、如",
+        "category": "AI新闻",
+        "date": "2026-07-19",
+        "summary": "WAIC五位大咖热议AI迭代路线、如何填补人手缺口？ 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "WAIC五位大咖热议AI迭代路线、如 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "WAIC五位大咖热议AI迭代路线、如何填补人手缺口？ 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "WAIC五位大咖热议AI迭代路线、如何填补人手缺口？ 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzB5WGhhZENLVTJNVG1ZdG1wRU1vamlKSkVLaWlDX0owSzZ3eTctMlNNcEc2N1VNYmlVZ014YWhmOU9PLUdWTlRUbVpxa0ZlbjNoWUZ5dWZ6bnZGTzcyVzBETThIR0owQ1dQSVhtMlRnVy05NDdqMENCc041RTZKVmN5eTl1TnlaMjBqdWw2Z0hDcEVSN3dscUpheDFmYjVsOFlCNVF5dw?oc=5"
+          },
+          {
+            "label": "紫牛新闻：“人工智能+防震减灾”行动方案发布 - 紫牛新闻",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc1Z5ekNjYXpWSF9xRVRlSmxWMFNfS0dhaTZLWFRPUGx5eWIxR3FNMjJTQ0l1cEdYT0MzNHphUDlnbHp6alVwSzJ4RnEwVVFuTlZLZTdkZUhRbHpseHVfQ1E5QzRxcFJkOVE?oc=5"
+          },
+          {
+            "label": "Memeburn：OpenAI's Device Signals a New Era of Always-Present AI - Memeburn",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPelA5Y3JzME8yeTZVVDE4SlFoUDExcGJ6U19rWU9tTU9OdUJxLVdHcDJuSVdsNDVNLTl0N2sxQkxmNmFzVXRXZjg1em5aU1dwNGw5OHRLVS1JNlNOUlowQVZaMFljVXBDN1JMU2lWbGJjT01oRFgzb1dlYkE2cjNmdQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzB5WGhhZENLVTJNVG1ZdG1wRU1vamlKSkVLaWlDX0owSzZ3eTctMlNNcEc2N1VNYmlVZ014YWhmOU9PLUdWTlRUbVpxa0ZlbjNoWUZ5dWZ6bnZGTzcyVzBETThIR0owQ1dQSVhtMlRnVy05NDdqMENCc041RTZKVmN5eTl1TnlaMjBqdWw2Z0hDcEVSN3dscUpheDFmYjVsOFlCNVF5dw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260719-auto-2-d4ccc4",
+        "title": "“人工智能+防震减灾”行动方案发布",
+        "category": "AI新闻",
+        "date": "2026-07-19",
+        "summary": "“人工智能+防震减灾”行动方案发布 紫牛新闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“人工智能+防震减灾”行动方案发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“人工智能+防震减灾”行动方案发布 紫牛新闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“人工智能+防震减灾”行动方案发布 紫牛新闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "紫牛新闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc1Z5ekNjYXpWSF9xRVRlSmxWMFNfS0dhaTZLWFRPUGx5eWIxR3FNMjJTQ0l1cEdYT0MzNHphUDlnbHp6alVwSzJ4RnEwVVFuTlZLZTdkZUhRbHpseHVfQ1E5QzRxcFJkOVE?oc=5"
+          },
+          {
+            "label": "新浪财经：WAIC五位大咖热议AI迭代路线、如何填补人手缺口？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzB5WGhhZENLVTJNVG1ZdG1wRU1vamlKSkVLaWlDX0owSzZ3eTctMlNNcEc2N1VNYmlVZ014YWhmOU9PLUdWTlRUbVpxa0ZlbjNoWUZ5dWZ6bnZGTzcyVzBETThIR0owQ1dQSVhtMlRnVy05NDdqMENCc041RTZKVmN5eTl1TnlaMjBqdWw2Z0hDcEVSN3dscUpheDFmYjVsOFlCNVF5dw?oc=5"
+          },
+          {
+            "label": "Memeburn：OpenAI's Device Signals a New Era of Always-Present AI - Memeburn",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPelA5Y3JzME8yeTZVVDE4SlFoUDExcGJ6U19rWU9tTU9OdUJxLVdHcDJuSVdsNDVNLTl0N2sxQkxmNmFzVXRXZjg1em5aU1dwNGw5OHRLVS1JNlNOUlowQVZaMFljVXBDN1JMU2lWbGJjT01oRFgzb1dlYkE2cjNmdQ?oc=5"
+          }
+        ],
+        "source": "紫牛新闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSc1Z5ekNjYXpWSF9xRVRlSmxWMFNfS0dhaTZLWFRPUGx5eWIxR3FNMjJTQ0l1cEdYT0MzNHphUDlnbHp6alVwSzJ4RnEwVVFuTlZLZTdkZUhRbHpseHVfQ1E5QzRxcFJkOVE?oc=5"
+      },
+      {
         "slug": "ai-news-20260718-auto-1-c5156c",
         "title": "预告丨《全球人工智能创新治理》辑刊",
         "category": "AI新闻",
@@ -13043,6 +13159,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260719-auto-1-f19897",
+        "title": "2026毕业生性价比最高的3条路线：",
+        "category": "AI使用教程",
+        "date": "2026-07-19",
+        "summary": "2026毕业生性价比最高的3条路线：地级市就业、实业技术岗、AI轻创业，选对少走5年弯路+FAQ 手",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "2026毕业生性价比最高的3条路线： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026毕业生性价比最高的3条路线：地级市就业、实业技术岗、AI轻创业，选对少走5年弯路+FAQ 手",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "2026毕业生性价比最高的3条路线：地级市就业、实业技术岗、AI轻创业，选对少走5年弯路+FAQ 手",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02bWw0NDFaUmI5R2FBTGdpS2JRdmF4T3ZIQ0MxZG8tVUduZlh1MGY3UTh3STRscEhsekhmbUtSWTZJQlo4Zi1zd3IwZDJCRW5JdWFKX2dNekdGbGN6Y2pCaXdBaW9kWHBkajJ3ZVNPT3VBbVo1c3RXTWZkYVpUQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：中国AI人才缺口达400万，普通人如何入行？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJMjNzX2hRajdiM0J1RVkxWWEwMkVZMDlFR003VkcwNGt0aUs2V3lCNXRDSUJ2QVZzZXliU0tQa0E4TDNLTTU5WGpjdzFQa19Qd1AxMXFkTzhnUGUyWUtUc1dDMzdoXzdveXFMTWhuaW4zTFJvZFdyUE5LUklYRHM?oc=5"
+          },
+          {
+            "label": "手机新浪网：95后夫妻如何用AI工具制作出逼真的美食画面？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Umhvbl95Mk5UMUhiTTVrUmRIMDNVMm13TnU2RnpibFl6ejQ5UWhCdzFUNVcwUVhKekJWLVhLODNsSGtxWW9zSkhHbkpheWUyaDhWOWpIejY4WWxsdlFyN0Z1bGs5d094N3VINW1DY09RaWxzN1pLUlh4a19kX2c?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02bWw0NDFaUmI5R2FBTGdpS2JRdmF4T3ZIQ0MxZG8tVUduZlh1MGY3UTh3STRscEhsekhmbUtSWTZJQlo4Zi1zd3IwZDJCRW5JdWFKX2dNekdGbGN6Y2pCaXdBaW9kWHBkajJ3ZVNPT3VBbVo1c3RXTWZkYVpUQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260718-auto-1-bec855",
         "title": "Roblox推移动端AI工具Buil",
         "category": "AI使用教程",
@@ -18987,6 +19161,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260719-auto-1-289845",
+        "title": "碾压硅谷定价霸权！中国Kimi K3",
+        "category": "开源项目",
+        "date": "2026-07-19",
+        "summary": "碾压硅谷定价霸权！中国Kimi K3突然开源，美国AI神话彻底破灭 手机网易网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "碾压硅谷定价霸权！中国Kimi K3 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "碾压硅谷定价霸权！中国Kimi K3突然开源，美国AI神话彻底破灭 手机网易网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "碾压硅谷定价霸权！中国Kimi K3突然开源，美国AI神话彻底破灭 手机网易网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机网易网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByNzg1NS1Odllsc2w4VFcwdjY2Qno0NkhGNjI3MWhiR1BvU3hZV2JtQkI3MktFZ3hiVWloODBaQlhFbmFvUFh1eEFCQ3hvSVg0S2ppY3VVemdFNzY1RDVURjJ3?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trillion-Scale MoE Models ",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2hDN3VQRUVsNS1YcjhtbGF5azdBTXBXSk9JWnRwbFNQWmVlbExuZ3BZMFg2Z3lWMlhxdWJ1U1BPcjFoRGpPajQxVDZic2U5TWY2RVhkYW83SDJJNWx5UjVwVkdreThodEt4SXpwamlNSlJ2V0dwOU9CblpIN3dyZHJGVXVPaldDVHo5bTRodVI1RzlfYzYyNlVENXZ5Z3FfVXNKQzhabHRaOHZZSFlqQ295QXNOS28wZVBieU5yRDRic01YaTRJUmhQSncxazJUbGx5NHlXbjdPUzNYNmR5VF9jTVJTMkk1SXgtWnBB?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：China's AI Gap With US Narrows to 2-3 Months as Open-Weight Model Thre",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1XzkwWldhLTE4c294cUpHenFQVUc2VmJYX3FtSVoyNHE5VDdRRWYyZ0l1eS1zME1NR3BRM2xhMDJjNThhYWNOLXRBVlJXZnBEdlZaNk04cFhreDMzbHJiMGhNWWxFVU4xUVNjT3QxRW95NFBJenc?oc=5"
+          }
+        ],
+        "source": "手机网易网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByNzg1NS1Odllsc2w4VFcwdjY2Qno0NkhGNjI3MWhiR1BvU3hZV2JtQkI3MktFZ3hiVWloODBaQlhFbmFvUFh1eEFCQ3hvSVg0S2ppY3VVemdFNzY1RDVURjJ3?oc=5"
+      },
+      {
+        "slug": "open-source-20260719-auto-2-8197f6",
+        "title": "Kimi K3 vs DeepSee",
+        "category": "开源项目",
+        "date": "2026-07-19",
+        "summary": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trilli",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Kimi K3 vs DeepSee 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trilli",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Kimi K3 vs DeepSeek V4 Pro vs GLM-5.2: Open Trilli",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2hDN3VQRUVsNS1YcjhtbGF5azdBTXBXSk9JWnRwbFNQWmVlbExuZ3BZMFg2Z3lWMlhxdWJ1U1BPcjFoRGpPajQxVDZic2U5TWY2RVhkYW83SDJJNWx5UjVwVkdreThodEt4SXpwamlNSlJ2V0dwOU9CblpIN3dyZHJGVXVPaldDVHo5bTRodVI1RzlfYzYyNlVENXZ5Z3FfVXNKQzhabHRaOHZZSFlqQ295QXNOS28wZVBieU5yRDRic01YaTRJUmhQSncxazJUbGx5NHlXbjdPUzNYNmR5VF9jTVJTMkk1SXgtWnBB?oc=5"
+          },
+          {
+            "label": "手机网易网：碾压硅谷定价霸权！中国Kimi K3突然开源，美国AI神话彻底破灭 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByNzg1NS1Odllsc2w4VFcwdjY2Qno0NkhGNjI3MWhiR1BvU3hZV2JtQkI3MktFZ3hiVWloODBaQlhFbmFvUFh1eEFCQ3hvSVg0S2ppY3VVemdFNzY1RDVURjJ3?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：China's AI Gap With US Narrows to 2-3 Months as Open-Weight Model Thre",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1XzkwWldhLTE4c294cUpHenFQVUc2VmJYX3FtSVoyNHE5VDdRRWYyZ0l1eS1zME1NR3BRM2xhMDJjNThhYWNOLXRBVlJXZnBEdlZaNk04cFhreDMzbHJiMGhNWWxFVU4xUVNjT3QxRW95NFBJenc?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNd2hDN3VQRUVsNS1YcjhtbGF5azdBTXBXSk9JWnRwbFNQWmVlbExuZ3BZMFg2Z3lWMlhxdWJ1U1BPcjFoRGpPajQxVDZic2U5TWY2RVhkYW83SDJJNWx5UjVwVkdreThodEt4SXpwamlNSlJ2V0dwOU9CblpIN3dyZHJGVXVPaldDVHo5bTRodVI1RzlfYzYyNlVENXZ5Z3FfVXNKQzhabHRaOHZZSFlqQ295QXNOS28wZVBieU5yRDRic01YaTRJUmhQSncxazJUbGx5NHlXbjdPUzNYNmR5VF9jTVJTMkk1SXgtWnBB?oc=5"
+      },
       {
         "slug": "open-source-20260718-auto-1-662846",
         "title": "Linus Torvalds回应反A",
