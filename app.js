@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260720-auto-1-19852a",
+        "title": "Lingnan University",
+        "category": "AI新闻",
+        "date": "2026-07-20",
+        "summary": "Lingnan University study: AI falls short on contex",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Lingnan University 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Lingnan University study: AI falls short on contex",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Lingnan University study: AI falls short on contex",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Asia Research News |：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHh5eDBDbjdOemZtZmo2UDB1TkFZMUJDRDI1cFl5Umdxb0VrMGtRVmh5dC1Nckx5YUVaY3lBcmV2V3Q2NWhiZ3pwSGkzTU5fdU10OThsNFFXRElZR0cyemNtTW9CODI2VWU3SVE3YW0zcmJ2LTFjQkVHLXJDeUlUTWltUFF1cjVYZ1NTVG9lQjFLeWc5dENwV1JlcXpLcUszT0t6RTEwcVFEby1Mb0YxZkREREtFUFRwMTdXaWhmNkxYZXJJWnNfMQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：推动人工智能与产业绿色低碳转型双向赋能 ——“人工智能与产业绿色低碳转型创新发展论坛”成功举办 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMU81MmxVdlM0N2N0cG9jVGRxNHE4MExuWXNpby1FZ0Y3VEdTWFJiYVVueXFlUlNKcVZIeW53cml3a1psd0ttaUxzOUstaWNiVWlGbHhfYnRHS0ExUXp3X1JpWVNkbC1oblphbGh2SFU1cUE5SXdXUnVzSDN5ZFBKdU9naVEyeE5YcTJjeWRLeWsyQ2NmQ2JqSVR0VGhmWlZxMlVjcGlUNHcxT2tUbkMtZEJJcmhZNUpOWU5GZXRNMmhGcGNTYWxXRmJPZHQ5WWpxUlFaUG5PamJKd2p2UmtXdlk3VTVDMVRteHE3NF9xd0NMT2o1UmN1YjJtZXBqQQ?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：世界人工智能大会：一人公司锋芒毕露 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVEY4S1c5b2FSRGdhUWZ0OXd6Y2pHellHbXBBRVdyam03UnVncFhJZ1dKVHRta1J5OFNTS0hHUnBkRlZGaUpPYUVoUVNab25kMXQycExBb0loZnRkNkN1ZDk3RUdpX2dwZnkteExPOEpEdU9la2c?oc=5"
+          }
+        ],
+        "source": "Asia Research News |",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHh5eDBDbjdOemZtZmo2UDB1TkFZMUJDRDI1cFl5Umdxb0VrMGtRVmh5dC1Nckx5YUVaY3lBcmV2V3Q2NWhiZ3pwSGkzTU5fdU10OThsNFFXRElZR0cyemNtTW9CODI2VWU3SVE3YW0zcmJ2LTFjQkVHLXJDeUlUTWltUFF1cjVYZ1NTVG9lQjFLeWc5dENwV1JlcXpLcUszT0t6RTEwcVFEby1Mb0YxZkREREtFUFRwMTdXaWhmNkxYZXJJWnNfMQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260720-auto-2-e991a9",
+        "title": "推动人工智能与产业绿色低碳转型双向赋",
+        "category": "AI新闻",
+        "date": "2026-07-20",
+        "summary": "推动人工智能与产业绿色低碳转型双向赋能 ——“人工智能与产业绿色低碳转型创新发展论坛”成功举办 手机",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "推动人工智能与产业绿色低碳转型双向赋 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "推动人工智能与产业绿色低碳转型双向赋能 ——“人工智能与产业绿色低碳转型创新发展论坛”成功举办 手机",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "推动人工智能与产业绿色低碳转型双向赋能 ——“人工智能与产业绿色低碳转型创新发展论坛”成功举办 手机",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMU81MmxVdlM0N2N0cG9jVGRxNHE4MExuWXNpby1FZ0Y3VEdTWFJiYVVueXFlUlNKcVZIeW53cml3a1psd0ttaUxzOUstaWNiVWlGbHhfYnRHS0ExUXp3X1JpWVNkbC1oblphbGh2SFU1cUE5SXdXUnVzSDN5ZFBKdU9naVEyeE5YcTJjeWRLeWsyQ2NmQ2JqSVR0VGhmWlZxMlVjcGlUNHcxT2tUbkMtZEJJcmhZNUpOWU5GZXRNMmhGcGNTYWxXRmJPZHQ5WWpxUlFaUG5PamJKd2p2UmtXdlk3VTVDMVRteHE3NF9xd0NMT2o1UmN1YjJtZXBqQQ?oc=5"
+          },
+          {
+            "label": "Asia Research News |：Lingnan University study: AI falls short on context and cultural rheto",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHh5eDBDbjdOemZtZmo2UDB1TkFZMUJDRDI1cFl5Umdxb0VrMGtRVmh5dC1Nckx5YUVaY3lBcmV2V3Q2NWhiZ3pwSGkzTU5fdU10OThsNFFXRElZR0cyemNtTW9CODI2VWU3SVE3YW0zcmJ2LTFjQkVHLXJDeUlUTWltUFF1cjVYZ1NTVG9lQjFLeWc5dENwV1JlcXpLcUszT0t6RTEwcVFEby1Mb0YxZkREREtFUFRwMTdXaWhmNkxYZXJJWnNfMQ?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：世界人工智能大会：一人公司锋芒毕露 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVEY4S1c5b2FSRGdhUWZ0OXd6Y2pHellHbXBBRVdyam03UnVncFhJZ1dKVHRta1J5OFNTS0hHUnBkRlZGaUpPYUVoUVNab25kMXQycExBb0loZnRkNkN1ZDk3RUdpX2dwZnkteExPOEpEdU9la2c?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMU81MmxVdlM0N2N0cG9jVGRxNHE4MExuWXNpby1FZ0Y3VEdTWFJiYVVueXFlUlNKcVZIeW53cml3a1psd0ttaUxzOUstaWNiVWlGbHhfYnRHS0ExUXp3X1JpWVNkbC1oblphbGh2SFU1cUE5SXdXUnVzSDN5ZFBKdU9naVEyeE5YcTJjeWRLeWsyQ2NmQ2JqSVR0VGhmWlZxMlVjcGlUNHcxT2tUbkMtZEJJcmhZNUpOWU5GZXRNMmhGcGNTYWxXRmJPZHQ5WWpxUlFaUG5PamJKd2p2UmtXdlk3VTVDMVRteHE3NF9xd0NMT2o1UmN1YjJtZXBqQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260719-auto-1-4bf2dd",
         "title": "WAIC五位大咖热议AI迭代路线、如",
         "category": "AI新闻",
@@ -13159,6 +13275,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260720-auto-1-5228c1",
+        "title": "触目惊心！依赖AI等同切除脑叶，教考",
+        "category": "AI使用教程",
+        "date": "2026-07-20",
+        "summary": "触目惊心！依赖AI等同切除脑叶，教考若不掀翻，下一代真废了 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "触目惊心！依赖AI等同切除脑叶，教考 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "触目惊心！依赖AI等同切除脑叶，教考若不掀翻，下一代真废了 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "触目惊心！依赖AI等同切除脑叶，教考若不掀翻，下一代真废了 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wN0t0VG41eURidXY1OERUVWZmRDJIdks5ZjV3MG0zLWtjZl9sOE9ocnA5dnRYVW4xaXZJMWtNb2cyWXFXbnU2TGE0RFRIMVNuenpCQUs3VTEzc3hHaGJfQ0daV2gwSEpqakdmdGNTLVJnOGQzZU5Qb19MdFZQdw?oc=5"
+          },
+          {
+            "label": "中华网科技频道：从模型讲座到任务验收：数位人企业AI实战课程的新路径 - 中华网科技频道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkd3N5Nm03RTEyMTRzTDE0V3hvcl9FTFd5bmtMMmZ5SVpoLVZ5TUVkUlpJaWhQUFppcDRlSFV0MENOT2h2VTcwZElhRVBvQlp0cXI0Vk9Ma2taYnhJZU9iZzlSSEQ4Y3lmT3otTWd3?oc=5"
+          },
+          {
+            "label": "手机网易网：2026年AI人才缺口破500万，行业抢人逻辑彻底变了 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jTHdja0NFcVotVDloVG9ENm52WVloejNHdE5qQUtqWmo3VUZ0UHRET0NKREJydVFfQUlENUZ5aGxQTlgwMnlQS2tpV3JrYTRDc29yVF9mQ19yWjRQajU0a29R?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wN0t0VG41eURidXY1OERUVWZmRDJIdks5ZjV3MG0zLWtjZl9sOE9ocnA5dnRYVW4xaXZJMWtNb2cyWXFXbnU2TGE0RFRIMVNuenpCQUs3VTEzc3hHaGJfQ0daV2gwSEpqakdmdGNTLVJnOGQzZU5Qb19MdFZQdw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260719-auto-1-f19897",
         "title": "2026毕业生性价比最高的3条路线：",
         "category": "AI使用教程",
@@ -19161,6 +19335,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260720-auto-1-daf00f",
+        "title": "IBM 和红帽正式推出 Lightw",
+        "category": "开源项目",
+        "date": "2026-07-20",
+        "summary": "IBM 和红帽正式推出 Lightwell：拓展开源安全服务，为 AI 时代的开源软件构建可信基础设",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IBM 和红帽正式推出 Lightw 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "IBM 和红帽正式推出 Lightwell：拓展开源安全服务，为 AI 时代的开源软件构建可信基础设",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "IBM 和红帽正式推出 Lightwell：拓展开源安全服务，为 AI 时代的开源软件构建可信基础设",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "美通社：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMW9nS3dVU2tBVEdkUUxBY0VDZGdlbjhXZThTUmNpT0pNeXBDS3FfLU5YQTFIa2NVb0p6bXctNW5uUlVaZkhzU1ZHM2NZZjNsQkY5UUpZYw?oc=5"
+          },
+          {
+            "label": "Times Now：After Kimi K3, China Has Qwen3.8 Max AI To Challenge Anthropic's Fable",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0NGOHh0NHdsMm5idzJHWlZfaFNfNGl1dGN1UEVaaTkxeVRSa3NMNU1NRUgxSFVkeXVXVmZFaDZhVFM2MVBkQW9BSnl6NnRZa2FIdWN3clRxUWtxTVRfRmloWldWeE8zbmZ1WmNJZ3JxNE9sT0V6U1VIQzRKMW94bVBpRnRveFdlWXNFNmJkYTZOSHB0OHoybG1HSzBhRGg3SWZQcUFRbGlKRWxMOXgyeGJQbjFJTlZsS2pRZEtlRkhkaGI5SG4xcW1HME1yYmtxX2hZWDJ3cUhmQdIB3wFBVV95cUxPbnhZR21JaWVLc00wUlhEQkh6bTRKb0w2dklzcFE2a3BWcGE2cVVscUNDSUJ0YXl1T3FqWGtWN3Z4bmk0V0hpaWFOTlYxQ0dUVXQxSUN4c0oxOGUtT2dLYmw1OE45SE9aS0t0UVhFeVMwMXRkOWJoeHo3bVNxQWRuSFhrS2pyV1FhV0xUNFpWcmJ5TXFJX1BmZmpmODdNNHQyUTF1NE9pV1N0d1piaWZCTjJvX1d1UXFWVzJjWF9oUzN1dTJQUUdhaExQaHZZQm1MREtwYllkVXpPd05yS1VJ?oc=5"
+          },
+          {
+            "label": "Business Insider Africa：Moonshot’s latest Kimi model is so popular that the company just gated",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlozaXVPUGlSc1lDVk9YNkxLeWJLYjJYMFphSFZzdGJWQzg5WnkzXy0yWkItT01CNnB5NFU1MTJrYWExVnh4eTItQk9RNUstR1c3RU5ZWFd5MzZGR3BiVE9PVFV2MjJZX1dnajZiblp6bDdNRTdFdlBKX1BINDlhVTA1ZjJYR3hqOXNnZlJ2bWFIVXlsZTNNRUJFQmdZcEJFRzk3MTg4U29pMHhYa3l1ajlFUWMwZktUdGthQnN0TV9PZFJxWFE?oc=5"
+          }
+        ],
+        "source": "美通社",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMW9nS3dVU2tBVEdkUUxBY0VDZGdlbjhXZThTUmNpT0pNeXBDS3FfLU5YQTFIa2NVb0p6bXctNW5uUlVaZkhzU1ZHM2NZZjNsQkY5UUpZYw?oc=5"
+      },
+      {
+        "slug": "open-source-20260720-auto-2-c9a3ef",
+        "title": "After Kimi K3, Chi",
+        "category": "开源项目",
+        "date": "2026-07-20",
+        "summary": "After Kimi K3, China Has Qwen3.8 Max AI To Challen",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "After Kimi K3, Chi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "After Kimi K3, China Has Qwen3.8 Max AI To Challen",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "After Kimi K3, China Has Qwen3.8 Max AI To Challen",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Times Now：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0NGOHh0NHdsMm5idzJHWlZfaFNfNGl1dGN1UEVaaTkxeVRSa3NMNU1NRUgxSFVkeXVXVmZFaDZhVFM2MVBkQW9BSnl6NnRZa2FIdWN3clRxUWtxTVRfRmloWldWeE8zbmZ1WmNJZ3JxNE9sT0V6U1VIQzRKMW94bVBpRnRveFdlWXNFNmJkYTZOSHB0OHoybG1HSzBhRGg3SWZQcUFRbGlKRWxMOXgyeGJQbjFJTlZsS2pRZEtlRkhkaGI5SG4xcW1HME1yYmtxX2hZWDJ3cUhmQdIB3wFBVV95cUxPbnhZR21JaWVLc00wUlhEQkh6bTRKb0w2dklzcFE2a3BWcGE2cVVscUNDSUJ0YXl1T3FqWGtWN3Z4bmk0V0hpaWFOTlYxQ0dUVXQxSUN4c0oxOGUtT2dLYmw1OE45SE9aS0t0UVhFeVMwMXRkOWJoeHo3bVNxQWRuSFhrS2pyV1FhV0xUNFpWcmJ5TXFJX1BmZmpmODdNNHQyUTF1NE9pV1N0d1piaWZCTjJvX1d1UXFWVzJjWF9oUzN1dTJQUUdhaExQaHZZQm1MREtwYllkVXpPd05yS1VJ?oc=5"
+          },
+          {
+            "label": "美通社：IBM 和红帽正式推出 Lightwell：拓展开源安全服务，为 AI 时代的开源软件构建可信基础设施 - 美通社",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZMW9nS3dVU2tBVEdkUUxBY0VDZGdlbjhXZThTUmNpT0pNeXBDS3FfLU5YQTFIa2NVb0p6bXctNW5uUlVaZkhzU1ZHM2NZZjNsQkY5UUpZYw?oc=5"
+          },
+          {
+            "label": "Business Insider Africa：Moonshot’s latest Kimi model is so popular that the company just gated",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZlozaXVPUGlSc1lDVk9YNkxLeWJLYjJYMFphSFZzdGJWQzg5WnkzXy0yWkItT01CNnB5NFU1MTJrYWExVnh4eTItQk9RNUstR1c3RU5ZWFd5MzZGR3BiVE9PVFV2MjJZX1dnajZiblp6bDdNRTdFdlBKX1BINDlhVTA1ZjJYR3hqOXNnZlJ2bWFIVXlsZTNNRUJFQmdZcEJFRzk3MTg4U29pMHhYa3l1ajlFUWMwZktUdGthQnN0TV9PZFJxWFE?oc=5"
+          }
+        ],
+        "source": "Times Now",
+        "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0NGOHh0NHdsMm5idzJHWlZfaFNfNGl1dGN1UEVaaTkxeVRSa3NMNU1NRUgxSFVkeXVXVmZFaDZhVFM2MVBkQW9BSnl6NnRZa2FIdWN3clRxUWtxTVRfRmloWldWeE8zbmZ1WmNJZ3JxNE9sT0V6U1VIQzRKMW94bVBpRnRveFdlWXNFNmJkYTZOSHB0OHoybG1HSzBhRGg3SWZQcUFRbGlKRWxMOXgyeGJQbjFJTlZsS2pRZEtlRkhkaGI5SG4xcW1HME1yYmtxX2hZWDJ3cUhmQdIB3wFBVV95cUxPbnhZR21JaWVLc00wUlhEQkh6bTRKb0w2dklzcFE2a3BWcGE2cVVscUNDSUJ0YXl1T3FqWGtWN3Z4bmk0V0hpaWFOTlYxQ0dUVXQxSUN4c0oxOGUtT2dLYmw1OE45SE9aS0t0UVhFeVMwMXRkOWJoeHo3bVNxQWRuSFhrS2pyV1FhV0xUNFpWcmJ5TXFJX1BmZmpmODdNNHQyUTF1NE9pV1N0d1piaWZCTjJvX1d1UXFWVzJjWF9oUzN1dTJQUUdhaExQaHZZQm1MREtwYllkVXpPd05yS1VJ?oc=5"
+      },
       {
         "slug": "open-source-20260719-auto-1-289845",
         "title": "碾压硅谷定价霸权！中国Kimi K3",
