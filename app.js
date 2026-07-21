@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260721-auto-1-70ae1e",
+        "title": "Organizational AI",
+        "category": "AI新闻",
+        "date": "2026-07-21",
+        "summary": "Organizational AI Adoption Jumps Six Points Gallup",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Organizational AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Organizational AI Adoption Jumps Six Points Gallup",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Organizational AI Adoption Jumps Six Points Gallup",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Gallup.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTThONGlUV0o5VGMwODdxRG93UnRkY3VEWm5jclFZdjJ1M3JPSkR4R2thVEZUbHF1VjczaU1McE03YzBmX05Rd0tZUFI1ZVlsblVVeklhZ21jaFBwcjdwZnFZUUFMOC1ZQnlZWkxleVh2dWRDS2gtLVVjYkJTVnhmaVRGUW9pWnJrdGpBcGtn?oc=5"
+          },
+          {
+            "label": "Indiatimes：Google Plans New AI Chip for Gemini Models, Targets Efficiency Gains -",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEZ2aWpTVVBhN2VnWV84YVRQaXd1cmdITWpkMjZMVzNzV3U2UVV4azFGczZhQ3ZGaGNfQUNqZThHa0VFblZEdzBwWkRiQ1ZEVk9RbHFnZnpUZ2swcnhzSFZyTEFNdElybERDbVNwVmQxSThZNEdsZ01uS3Jtel94Ujc0bkxWaDdyNFM3X1hhUzh6cWdhSGZoSWZCbDIzZFAydE5jNERIWnp6bGxUdmw5cUlGcnU2Um4tdHpxS3V0blY3Zm1IQWNDU3Q0MklseXV5c3JtMVV2QVB6cmdPZksyVzFTY2JpRUJ6Rm9DWmx3?oc=5"
+          },
+          {
+            "label": "Reuters：China considers tighter export controls on AI models and chips, FT rep",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
+          }
+        ],
+        "source": "Gallup.com",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTThONGlUV0o5VGMwODdxRG93UnRkY3VEWm5jclFZdjJ1M3JPSkR4R2thVEZUbHF1VjczaU1McE03YzBmX05Rd0tZUFI1ZVlsblVVeklhZ21jaFBwcjdwZnFZUUFMOC1ZQnlZWkxleVh2dWRDS2gtLVVjYkJTVnhmaVRGUW9pWnJrdGpBcGtn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260721-auto-2-78a2f1",
+        "title": "Google Plans New A",
+        "category": "AI新闻",
+        "date": "2026-07-21",
+        "summary": "Google Plans New AI Chip for Gemini Models, Target",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Plans New A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google Plans New AI Chip for Gemini Models, Target",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Plans New AI Chip for Gemini Models, Target",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Indiatimes：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEZ2aWpTVVBhN2VnWV84YVRQaXd1cmdITWpkMjZMVzNzV3U2UVV4azFGczZhQ3ZGaGNfQUNqZThHa0VFblZEdzBwWkRiQ1ZEVk9RbHFnZnpUZ2swcnhzSFZyTEFNdElybERDbVNwVmQxSThZNEdsZ01uS3Jtel94Ujc0bkxWaDdyNFM3X1hhUzh6cWdhSGZoSWZCbDIzZFAydE5jNERIWnp6bGxUdmw5cUlGcnU2Um4tdHpxS3V0blY3Zm1IQWNDU3Q0MklseXV5c3JtMVV2QVB6cmdPZksyVzFTY2JpRUJ6Rm9DWmx3?oc=5"
+          },
+          {
+            "label": "Gallup.com：Organizational AI Adoption Jumps Six Points - Gallup.com",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTThONGlUV0o5VGMwODdxRG93UnRkY3VEWm5jclFZdjJ1M3JPSkR4R2thVEZUbHF1VjczaU1McE03YzBmX05Rd0tZUFI1ZVlsblVVeklhZ21jaFBwcjdwZnFZUUFMOC1ZQnlZWkxleVh2dWRDS2gtLVVjYkJTVnhmaVRGUW9pWnJrdGpBcGtn?oc=5"
+          },
+          {
+            "label": "Reuters：China considers tighter export controls on AI models and chips, FT rep",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
+          }
+        ],
+        "source": "Indiatimes",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEZ2aWpTVVBhN2VnWV84YVRQaXd1cmdITWpkMjZMVzNzV3U2UVV4azFGczZhQ3ZGaGNfQUNqZThHa0VFblZEdzBwWkRiQ1ZEVk9RbHFnZnpUZ2swcnhzSFZyTEFNdElybERDbVNwVmQxSThZNEdsZ01uS3Jtel94Ujc0bkxWaDdyNFM3X1hhUzh6cWdhSGZoSWZCbDIzZFAydE5jNERIWnp6bGxUdmw5cUlGcnU2Um4tdHpxS3V0blY3Zm1IQWNDU3Q0MklseXV5c3JtMVV2QVB6cmdPZksyVzFTY2JpRUJ6Rm9DWmx3?oc=5"
+      },
+      {
         "slug": "ai-news-20260720-auto-1-19852a",
         "title": "Lingnan University",
         "category": "AI新闻",
@@ -13275,6 +13391,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260721-auto-1-6b7063",
+        "title": "AI写作最大短板：从失真到失神 -",
+        "category": "AI使用教程",
+        "date": "2026-07-21",
+        "summary": "AI写作最大短板：从失真到失神 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI写作最大短板：从失真到失神 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI写作最大短板：从失真到失神 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI写作最大短板：从失真到失神 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VOTJ6NHh6ZENOSnJkbDkxTGxLUk5hbFQwNDJyNE53enNfUEdidVhsNkQyTmhVbEpkZGtDVG5NZ1h5XzNlTnBiQVVJR1RQalExUUc0cXpvY2hWRmdQcFNib3FrSkxrQThPcHhqRWpmMmdySFk0WXI0Q2xfdWdBY1k?oc=5"
+          },
+          {
+            "label": "手机网易网：Adobe相机项目负责人：提示词编辑太棘手，所以新AI功能都用按钮 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDdHRTdnlrQi1kRUNDZFpINWhEWHN6UHVicklFbExLVEs2ZWRvaDVFZFVXdTRfRXYwbzk5aGVNVUJDcFpnejE0RG9xdFdDOHJPemRILVFJVFFlVEJoQVVBTmhn?oc=5"
+          },
+          {
+            "label": "流媒体网：乌髻岩AI短剧创作大赛赛前培训会 - 流媒体网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uX3h0YXhoeThvWFZ4RFlJb1M3NHNqWkFhRF9tbjQ2SWlySWF5VE95ejlvQ0FhV0lGNko3bkdZZS1NS0RHT1NyeUVaeERsY0VZSHVRZGZIdV9TZ2M2OXpPRGFjVFcwdV9vQmRZ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VOTJ6NHh6ZENOSnJkbDkxTGxLUk5hbFQwNDJyNE53enNfUEdidVhsNkQyTmhVbEpkZGtDVG5NZ1h5XzNlTnBiQVVJR1RQalExUUc0cXpvY2hWRmdQcFNib3FrSkxrQThPcHhqRWpmMmdySFk0WXI0Q2xfdWdBY1k?oc=5"
+      },
+      {
         "slug": "ai-guide-20260720-auto-1-5228c1",
         "title": "触目惊心！依赖AI等同切除脑叶，教考",
         "category": "AI使用教程",
@@ -19335,6 +19509,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260721-auto-1-d9f2f0",
+        "title": "Swarms Marketplace",
+        "category": "开源项目",
+        "date": "2026-07-21",
+        "summary": "Swarms Marketplace adds fiat, hits 7,000 stars blo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Swarms Marketplace 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Swarms Marketplace adds fiat, hits 7,000 stars blo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Swarms Marketplace adds fiat, hits 7,000 stars blo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blockchain.news：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOel9CQkpZZzJTMHpLbTVFdk9mMnl1b1lqMWJyWm1fRHNKUG9fV2pDZGxDdFAtUTFsUHR5LVh5T0k2VGFPNmpVTHU2Q25DbWxOYkdsbE9zSkxJN3JQbFNKVERPeWxiM3hJTEFNQm9uWE5DS3BrRnh0NmtKSWRNVHhaeUFR?oc=5"
+          },
+          {
+            "label": "手机网易网：Godot禁止AI生成代码，十多个开源项目已效仿 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM1dOcHl5bkQxbkFfRU1Sb3U0NG9ib19vTXdyb3RIeWJyT2FONjIybzgtbGFpT2Y3NFA1WlFpbmZLbGNJdVQ1MF9ySGFlQVFpS3hQTWc3VEZfWjhGLWltcm5B?oc=5"
+          },
+          {
+            "label": "hzzx.gov.cn：杭州下一站，AI开源生态枢纽城市？ - hzzx.gov.cn",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qYmxlVG93NGVrdWliRUlobzNCcGR3TDFzbm9PdWNSU2NTY2cxcml2M3hTRkUyYzhFNmdxc0NNRlBRVHowUHBSb1pCNkJ1SjQ2TUVJX0plaWttM3BNLWxWY0FucVk0U1BHMHlMbzk2N3RuNXFDenc?oc=5"
+          }
+        ],
+        "source": "blockchain.news",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOel9CQkpZZzJTMHpLbTVFdk9mMnl1b1lqMWJyWm1fRHNKUG9fV2pDZGxDdFAtUTFsUHR5LVh5T0k2VGFPNmpVTHU2Q25DbWxOYkdsbE9zSkxJN3JQbFNKVERPeWxiM3hJTEFNQm9uWE5DS3BrRnh0NmtKSWRNVHhaeUFR?oc=5"
+      },
+      {
+        "slug": "open-source-20260721-auto-2-dc25c1",
+        "title": "Godot禁止AI生成代码，十多个开",
+        "category": "开源项目",
+        "date": "2026-07-21",
+        "summary": "Godot禁止AI生成代码，十多个开源项目已效仿 手机网易网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Godot禁止AI生成代码，十多个开 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Godot禁止AI生成代码，十多个开源项目已效仿 手机网易网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Godot禁止AI生成代码，十多个开源项目已效仿 手机网易网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机网易网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM1dOcHl5bkQxbkFfRU1Sb3U0NG9ib19vTXdyb3RIeWJyT2FONjIybzgtbGFpT2Y3NFA1WlFpbmZLbGNJdVQ1MF9ySGFlQVFpS3hQTWc3VEZfWjhGLWltcm5B?oc=5"
+          },
+          {
+            "label": "blockchain.news：Swarms Marketplace adds fiat, hits 7,000 stars - blockchain.news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOel9CQkpZZzJTMHpLbTVFdk9mMnl1b1lqMWJyWm1fRHNKUG9fV2pDZGxDdFAtUTFsUHR5LVh5T0k2VGFPNmpVTHU2Q25DbWxOYkdsbE9zSkxJN3JQbFNKVERPeWxiM3hJTEFNQm9uWE5DS3BrRnh0NmtKSWRNVHhaeUFR?oc=5"
+          },
+          {
+            "label": "hzzx.gov.cn：杭州下一站，AI开源生态枢纽城市？ - hzzx.gov.cn",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qYmxlVG93NGVrdWliRUlobzNCcGR3TDFzbm9PdWNSU2NTY2cxcml2M3hTRkUyYzhFNmdxc0NNRlBRVHowUHBSb1pCNkJ1SjQ2TUVJX0plaWttM3BNLWxWY0FucVk0U1BHMHlMbzk2N3RuNXFDenc?oc=5"
+          }
+        ],
+        "source": "手机网易网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM1dOcHl5bkQxbkFfRU1Sb3U0NG9ib19vTXdyb3RIeWJyT2FONjIybzgtbGFpT2Y3NFA1WlFpbmZLbGNJdVQ1MF9ySGFlQVFpS3hQTWc3VEZfWjhGLWltcm5B?oc=5"
+      },
       {
         "slug": "open-source-20260720-auto-1-daf00f",
         "title": "IBM 和红帽正式推出 Lightw",
