@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260723-auto-1-cd2ca7",
+        "title": "人工智能如何赋能丝路沿线国家的数字贸",
+        "category": "AI新闻",
+        "date": "2026-07-23",
+        "summary": "人工智能如何赋能丝路沿线国家的数字贸易？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能如何赋能丝路沿线国家的数字贸 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "人工智能如何赋能丝路沿线国家的数字贸易？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能如何赋能丝路沿线国家的数字贸易？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZ2VPZHlDUTRiMDY3Y3dHeE5wQXN3aXdhUnFxellPMUpIMTh2dlZ5QnRzN0lOLU1Qck5oYmhCVFU1OUZFdkRHLWtqVjdZSDZVcTZNeWtickdRUDEydnlUdkNGTkhiOXd5a1BNR2Nwa25SSGpYS09sMkV2NVZOd0U?oc=5"
+          },
+          {
+            "label": "SOFX：Anthropic’s $1.5 Billion Copyright Settlement Marks First Major AI Pay",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkNmMWN1LUFlUlFlQnpSUmhGTVBmTm1oU0VueV80Q2MwZS1EWTQ3TjdpczFheVNlc3JQVUdRcEVNQkhOUExnRGZ1cC02ZFk2Mnp1NUlLdHc5eUJXMmtROUZzUjlLRmJrSkh0NUxrbjIwZlFMSGtQRWgtSUpzZFNoRmtTM3hLckRVb3Nrc0pSd1BrTU5mV0RST3NCRXA2TGRYNDNkdEt2RQ?oc=5"
+          },
+          {
+            "label": "新浪网：史无前例，美国出现人工智能失控事故，中方救场 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MjZGRWNJVlJEN1YzQmZGSTUzY0l2SU96RUF3c1pERTFmd1loc1hkY1dIMlFQNmtwZlAyUUF0YWZUcDgtSTNqY290SmhRWUVodFVRaDcya0pyVWlXMlVlMnFCdE93UGpXa0NrNmtna3BXN09rSHNsY2thY0x1clk?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZ2VPZHlDUTRiMDY3Y3dHeE5wQXN3aXdhUnFxellPMUpIMTh2dlZ5QnRzN0lOLU1Qck5oYmhCVFU1OUZFdkRHLWtqVjdZSDZVcTZNeWtickdRUDEydnlUdkNGTkhiOXd5a1BNR2Nwa25SSGpYS09sMkV2NVZOd0U?oc=5"
+      },
+      {
+        "slug": "ai-news-20260723-auto-2-248811",
+        "title": "Anthropic’s $1.5 B",
+        "category": "AI新闻",
+        "date": "2026-07-23",
+        "summary": "Anthropic’s $1.5 Billion Copyright Settlement Mark",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic’s $1.5 B 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic’s $1.5 Billion Copyright Settlement Mark",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic’s $1.5 Billion Copyright Settlement Mark",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SOFX：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkNmMWN1LUFlUlFlQnpSUmhGTVBmTm1oU0VueV80Q2MwZS1EWTQ3TjdpczFheVNlc3JQVUdRcEVNQkhOUExnRGZ1cC02ZFk2Mnp1NUlLdHc5eUJXMmtROUZzUjlLRmJrSkh0NUxrbjIwZlFMSGtQRWgtSUpzZFNoRmtTM3hLckRVb3Nrc0pSd1BrTU5mV0RST3NCRXA2TGRYNDNkdEt2RQ?oc=5"
+          },
+          {
+            "label": "新浪网：人工智能如何赋能丝路沿线国家的数字贸易？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OZ2VPZHlDUTRiMDY3Y3dHeE5wQXN3aXdhUnFxellPMUpIMTh2dlZ5QnRzN0lOLU1Qck5oYmhCVFU1OUZFdkRHLWtqVjdZSDZVcTZNeWtickdRUDEydnlUdkNGTkhiOXd5a1BNR2Nwa25SSGpYS09sMkV2NVZOd0U?oc=5"
+          },
+          {
+            "label": "新浪网：史无前例，美国出现人工智能失控事故，中方救场 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MjZGRWNJVlJEN1YzQmZGSTUzY0l2SU96RUF3c1pERTFmd1loc1hkY1dIMlFQNmtwZlAyUUF0YWZUcDgtSTNqY290SmhRWUVodFVRaDcya0pyVWlXMlVlMnFCdE93UGpXa0NrNmtna3BXN09rSHNsY2thY0x1clk?oc=5"
+          }
+        ],
+        "source": "SOFX",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkNmMWN1LUFlUlFlQnpSUmhGTVBmTm1oU0VueV80Q2MwZS1EWTQ3TjdpczFheVNlc3JQVUdRcEVNQkhOUExnRGZ1cC02ZFk2Mnp1NUlLdHc5eUJXMmtROUZzUjlLRmJrSkh0NUxrbjIwZlFMSGtQRWgtSUpzZFNoRmtTM3hLckRVb3Nrc0pSd1BrTU5mV0RST3NCRXA2TGRYNDNkdEt2RQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260721-auto-1-70ae1e",
         "title": "Organizational AI",
         "category": "AI新闻",
@@ -13391,6 +13507,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260723-auto-1-119cf1",
+        "title": "国内首部持\"网剧片许可证\"的 AIG",
+        "category": "AI使用教程",
+        "date": "2026-07-23",
+        "summary": "国内首部持\"网剧片许可证\"的 AIGC 故事片《奇谭》在爱奇艺开播 article.9466.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国内首部持\"网剧片许可证\"的 AIG 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "国内首部持\"网剧片许可证\"的 AIGC 故事片《奇谭》在爱奇艺开播 article.9466.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "国内首部持\"网剧片许可证\"的 AIGC 故事片《奇谭》在爱奇艺开播 article.9466.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WUGZ1Z1FJaGxQZGlhVG0wTmlBcTNEYWQ3ZDRGX1ZBak1HSkhNQ244RHJiNE1oRlY3ZWFxZ3VfTm5vblk5QVJOZDRJdUlkc1k?oc=5"
+          },
+          {
+            "label": "Sohu：GPT-5.6推翻近30年数学猜想，全程对话公开：提示词只有58个单词？？？ - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzhXT04zNHBpU2hhQVd6ckVVYy1ZWmQwS2tKbkQ0TTVnU1RHa3NydlZ0a2RvRlA3ajJ3ZU9HT1dmaEtqSjdjUVJzYzVJT1ZpeGVibDhpSHQ2TzlMdXBubi04U3I5cGJyUThZNFFuWXRVdTZUNDBGZEdvVll6S2tfc05vWkJNSXl1?oc=5"
+          },
+          {
+            "label": "手机网易网：国内首部获证上线AIGC网络故事片开播：片长超60分钟，全流程AI制作 - 手机网易网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CNzFCTUd4eExncjUyWm4yak51bEM0elVqWlZoOG9UajNjcmhHVjh5bkVHQzJ3c1FBeHotR3RlMy1uQ0dkS3Y0ZjdLdmJjQ25hdzZBbjZzd01NbDMxbFdCVFB3?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WUGZ1Z1FJaGxQZGlhVG0wTmlBcTNEYWQ3ZDRGX1ZBak1HSkhNQ244RHJiNE1oRlY3ZWFxZ3VfTm5vblk5QVJOZDRJdUlkc1k?oc=5"
+      },
+      {
         "slug": "ai-guide-20260721-auto-1-6b7063",
         "title": "AI写作最大短板：从失真到失神 -",
         "category": "AI使用教程",
@@ -19509,6 +19683,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260723-auto-1-7427de",
+        "title": "模型不再值钱之后，AI编程工具在争什",
+        "category": "开源项目",
+        "date": "2026-07-23",
+        "summary": "模型不再值钱之后，AI编程工具在争什么 凤凰网财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "模型不再值钱之后，AI编程工具在争什 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "模型不再值钱之后，AI编程工具在争什么 凤凰网财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "模型不再值钱之后，AI编程工具在争什么 凤凰网财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1TS1UUnNITndvN1BJSWN5eFFmVUw3ODBLSF9ZRzMxTGowM1FJeHptN1lYUl9wVHJyRGJ1Z25WNTJWR3dhMmNOTHI3eDF4blpj?oc=5"
+          },
+          {
+            "label": "조선일보：Upstage Unveils Solar Open 2: Open-Source AI Agent LLM - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzJtQjJDc3ROazQxUUp5LUxRR1NDR1JCZ3NrZ0hQTURsOUR0bWRDWUVzTjA2VUxWZVpwcm5ZaDB3NmNlUzRObFVfN3lyc2RVeno5bndRWC1hMklNYUpaUEgxRWtCM05zSWR1ZmVhSkp6UEkta192RHo3cWY4aWRYc2d0NnFTNzdS?oc=5"
+          },
+          {
+            "label": "AFR：OpenAI’s rogue agent hacked this company. It turned to China for help ",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1c0TDYydFZDcGo4SHNSLWJPbEtXaVRYRWxQWEJmX2lKR0tMS2V4RVNXN2wzeXBDQTNVUWFTcm9CdzhGX2V6XzR6NnpaZFpJZldwNk1jQUlmMm5SQnhVNWlseTc2X0FvTlVQdjh3Sm5JWW5RSDJhNEN3LVFBWnFhQ2VneTRlNF9qc0s1VlRGbFdlamhxNE9pTk9uQUkxb0pjaml4N3d2dldxTG5SRmRz?oc=5"
+          }
+        ],
+        "source": "凤凰网财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1TS1UUnNITndvN1BJSWN5eFFmVUw3ODBLSF9ZRzMxTGowM1FJeHptN1lYUl9wVHJyRGJ1Z25WNTJWR3dhMmNOTHI3eDF4blpj?oc=5"
+      },
+      {
+        "slug": "open-source-20260723-auto-2-99f5b5",
+        "title": "Upstage Unveils So",
+        "category": "开源项目",
+        "date": "2026-07-23",
+        "summary": "Upstage Unveils Solar Open 2: Open-Source AI Agent",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Upstage Unveils So 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Upstage Unveils Solar Open 2: Open-Source AI Agent",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Upstage Unveils Solar Open 2: Open-Source AI Agent",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "조선일보：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzJtQjJDc3ROazQxUUp5LUxRR1NDR1JCZ3NrZ0hQTURsOUR0bWRDWUVzTjA2VUxWZVpwcm5ZaDB3NmNlUzRObFVfN3lyc2RVeno5bndRWC1hMklNYUpaUEgxRWtCM05zSWR1ZmVhSkp6UEkta192RHo3cWY4aWRYc2d0NnFTNzdS?oc=5"
+          },
+          {
+            "label": "凤凰网财经：模型不再值钱之后，AI编程工具在争什么 - 凤凰网财经",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1TS1UUnNITndvN1BJSWN5eFFmVUw3ODBLSF9ZRzMxTGowM1FJeHptN1lYUl9wVHJyRGJ1Z25WNTJWR3dhMmNOTHI3eDF4blpj?oc=5"
+          },
+          {
+            "label": "AFR：OpenAI’s rogue agent hacked this company. It turned to China for help ",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1c0TDYydFZDcGo4SHNSLWJPbEtXaVRYRWxQWEJmX2lKR0tMS2V4RVNXN2wzeXBDQTNVUWFTcm9CdzhGX2V6XzR6NnpaZFpJZldwNk1jQUlmMm5SQnhVNWlseTc2X0FvTlVQdjh3Sm5JWW5RSDJhNEN3LVFBWnFhQ2VneTRlNF9qc0s1VlRGbFdlamhxNE9pTk9uQUkxb0pjaml4N3d2dldxTG5SRmRz?oc=5"
+          }
+        ],
+        "source": "조선일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzJtQjJDc3ROazQxUUp5LUxRR1NDR1JCZ3NrZ0hQTURsOUR0bWRDWUVzTjA2VUxWZVpwcm5ZaDB3NmNlUzRObFVfN3lyc2RVeno5bndRWC1hMklNYUpaUEgxRWtCM05zSWR1ZmVhSkp6UEkta192RHo3cWY4aWRYc2d0NnFTNzdS?oc=5"
+      },
       {
         "slug": "open-source-20260721-auto-1-d9f2f0",
         "title": "Swarms Marketplace",
