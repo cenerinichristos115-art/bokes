@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260725-auto-1-ff405f",
+        "title": "2026年西交•通全球暑期学校（XJ",
+        "category": "AI新闻",
+        "date": "2026-07-25",
+        "summary": "2026年西交•通全球暑期学校（XJTISS）之“人工智能基础与前沿应用”系列讲座举行 西安交通大学",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "2026年西交•通全球暑期学校（XJ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026年西交•通全球暑期学校（XJTISS）之“人工智能基础与前沿应用”系列讲座举行 西安交通大学",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "2026年西交•通全球暑期学校（XJTISS）之“人工智能基础与前沿应用”系列讲座举行 西安交通大学",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "西安交通大学新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13N0RYa1QyOVBFa0ZHMmpVdkpFbzJybmZHVzBsWDR2RXZZRUJlaW1RTE5ad2lldF9yQkNzaGI4dWZxUnpBcUl5d3dOcWZhR0U4b2E4bERXUQ?oc=5"
+          },
+          {
+            "label": "凤凰网财经：AI盯上新材料 - 凤凰网财经",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGWGg1V3lEeG95djh0alFqYVJtaFJEbndHZm1TZ21DZTA2WV9RUkh4ejhBS082VGtMSVlQRFFSSXNHU2l6WU1mc0hVRUdLdDRj?oc=5"
+          },
+          {
+            "label": "新浪网：人工智能ETF易方达（159819）跌1.09%，半日成交额3.77亿元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16eDNGYkZUXzdrQjRMdXNRb3dFaWhaZ216NEpWYU5jenNVeWFibTVzcHJIZWktSjdRODdhbm5LZlBKU3FpdWlTMjZWRmlCUnF1clAyZDdKekFNcF9UVEZyZzBIcXVvNHJPel92SklpSkdhUQ?oc=5"
+          }
+        ],
+        "source": "西安交通大学新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13N0RYa1QyOVBFa0ZHMmpVdkpFbzJybmZHVzBsWDR2RXZZRUJlaW1RTE5ad2lldF9yQkNzaGI4dWZxUnpBcUl5d3dOcWZhR0U4b2E4bERXUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260725-auto-2-4aebd2",
+        "title": "AI盯上新材料 - 凤凰网财经",
+        "category": "AI新闻",
+        "date": "2026-07-25",
+        "summary": "AI盯上新材料 凤凰网财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI盯上新材料 - 凤凰网财经 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI盯上新材料 凤凰网财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI盯上新材料 凤凰网财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGWGg1V3lEeG95djh0alFqYVJtaFJEbndHZm1TZ21DZTA2WV9RUkh4ejhBS082VGtMSVlQRFFSSXNHU2l6WU1mc0hVRUdLdDRj?oc=5"
+          },
+          {
+            "label": "西安交通大学新闻网：2026年西交•通全球暑期学校（XJTISS）之“人工智能基础与前沿应用”系列讲座举行 - 西安交通大学新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13N0RYa1QyOVBFa0ZHMmpVdkpFbzJybmZHVzBsWDR2RXZZRUJlaW1RTE5ad2lldF9yQkNzaGI4dWZxUnpBcUl5d3dOcWZhR0U4b2E4bERXUQ?oc=5"
+          },
+          {
+            "label": "新浪网：人工智能ETF易方达（159819）跌1.09%，半日成交额3.77亿元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16eDNGYkZUXzdrQjRMdXNRb3dFaWhaZ216NEpWYU5jenNVeWFibTVzcHJIZWktSjdRODdhbm5LZlBKU3FpdWlTMjZWRmlCUnF1clAyZDdKekFNcF9UVEZyZzBIcXVvNHJPel92SklpSkdhUQ?oc=5"
+          }
+        ],
+        "source": "凤凰网财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGWGg1V3lEeG95djh0alFqYVJtaFJEbndHZm1TZ21DZTA2WV9RUkh4ejhBS082VGtMSVlQRFFSSXNHU2l6WU1mc0hVRUdLdDRj?oc=5"
+      },
+      {
         "slug": "ai-news-20260723-auto-1-cd2ca7",
         "title": "人工智能如何赋能丝路沿线国家的数字贸",
         "category": "AI新闻",
@@ -13507,6 +13623,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260725-auto-1-691591",
+        "title": "以 AI 对抗 AI：构建越用越强的",
+        "category": "AI使用教程",
+        "date": "2026-07-25",
+        "summary": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon 深圳 Inf",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "以 AI 对抗 AI：构建越用越强的 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon 深圳 Inf",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "以 AI 对抗 AI：构建越用越强的 Agent Runtime 安全防线｜AICon 深圳 Inf",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Infoq.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43YlNiaWZ1RXNDR25sN3ZZSVdyTVd3dHdGYklWM0JfX0xadGJCb3FERFVkbWFwVXRwQS1zS1BkVzBvZUtfXzJnckxkelFjVmVmWGNpbWFpcjY5ajRBc3c?oc=5"
+          },
+          {
+            "label": "新浪网：老人用手机轻一点好操作AI功能有的：这3个硬指标决定体验+FAQ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOEt4enkyNnpGRjVBVjBlc3JGeXdSaDdybGpxRkVYTDJ4NjJSdngyMUFGWUdQQV9fRzVPMWM5VGI0QXFoU2JLNFhveHA3VjVudHlvTm55dk92V011SEE2by16YmhHSXJudVMxUnZkZlNmcnNXT1Z6QkpCaWZxa2RTaA?oc=5"
+          },
+          {
+            "label": "The Register：Anthropic debuts Opus 5 at half the price of its Fable sibling - The R",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORTd2V1NYQ3I3dlRhckpFc2dTZEhXb0NlYUZqbDk3N2IybkVpZUJ2ejNsY0dBVjhCQ1RRZ1hvUTY5UkJqSUJlNWRCU08wamEzX3dqeThBcUVZTHhxSFMwSFYtSC00eEJ1eU9SdHZ0aE9sbEdiM2pfMFNsX2JSVFhwVlI1dGdlWk1LOTZ4emFGRXZScjRiYThoVFZIRWhSMHRwbUlsNVh6U0VrckZGNGdqbm52S08ybUhyc0Z3?oc=5"
+          }
+        ],
+        "source": "Infoq.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43YlNiaWZ1RXNDR25sN3ZZSVdyTVd3dHdGYklWM0JfX0xadGJCb3FERFVkbWFwVXRwQS1zS1BkVzBvZUtfXzJnckxkelFjVmVmWGNpbWFpcjY5ajRBc3c?oc=5"
+      },
+      {
         "slug": "ai-guide-20260723-auto-1-119cf1",
         "title": "国内首部持\"网剧片许可证\"的 AIG",
         "category": "AI使用教程",
@@ -19683,6 +19857,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260725-auto-1-52671c",
+        "title": "In Face of US Crac",
+        "category": "开源项目",
+        "date": "2026-07-25",
+        "summary": "In Face of US Crackdown, Microsoft, Nvidia CEOs Ba",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "In Face of US Crac 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "In Face of US Crackdown, Microsoft, Nvidia CEOs Ba",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "In Face of US Crackdown, Microsoft, Nvidia CEOs Ba",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PCMag Middle East：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWt1a0JKTjh0X2liNzUxVXFGTkNuZXdoMGI2SVMwUEJ1cnluaTVvV3FLWWhCNTVuWUtrZTBoVE1GZlg0Wjh3WFBLQUVlRFo4VFN0YXF5U0NUQXJ3MTVwWEdkMnBJTHZRS01kcnd4ZXhUZ0loNDg3QUdObERwMHFWUDB6VHZsVU0yMGhsLXpDTnIzN21tZFlZS2lWeGtCZEhiaHp4d20xbTM?oc=5"
+          },
+          {
+            "label": "SQ Magazine：AI Model Tracker - SQ Magazine",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZ0ZiaXgxeGtVUGwwaGlqajAxOWpZWjFVNWpoWkdTT19Gdm8zWGdnR3p2dzgzdTlzalRNSWtfdUd6Vi1NRTVFNTNmaEowN3RZSGFqNg?oc=5"
+          },
+          {
+            "label": "China Daily：Tech firms urge US against 'premature restrictions' on open-weight AI ",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41UWMwTm9TWi1tbXA3UUt6Y1dFYzl2VEVoTHB3dUNDcm9ROEpRQldIbGNhR1ZlU0hoeWYwdG1nZzdCcElhRTIxRDZTRENIYzZMdnk1SV9ULXgzQWJLWDk4WVUwLVFwcllpa203RzIxQWJMUFYxSXVBNkFxeVlpZw?oc=5"
+          }
+        ],
+        "source": "PCMag Middle East",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWt1a0JKTjh0X2liNzUxVXFGTkNuZXdoMGI2SVMwUEJ1cnluaTVvV3FLWWhCNTVuWUtrZTBoVE1GZlg0Wjh3WFBLQUVlRFo4VFN0YXF5U0NUQXJ3MTVwWEdkMnBJTHZRS01kcnd4ZXhUZ0loNDg3QUdObERwMHFWUDB6VHZsVU0yMGhsLXpDTnIzN21tZFlZS2lWeGtCZEhiaHp4d20xbTM?oc=5"
+      },
+      {
+        "slug": "open-source-20260725-auto-2-10f0ff",
+        "title": "AI Model Tracker -",
+        "category": "开源项目",
+        "date": "2026-07-25",
+        "summary": "AI Model Tracker SQ Magazine",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Model Tracker - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Model Tracker SQ Magazine",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Model Tracker SQ Magazine",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SQ Magazine：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZ0ZiaXgxeGtVUGwwaGlqajAxOWpZWjFVNWpoWkdTT19Gdm8zWGdnR3p2dzgzdTlzalRNSWtfdUd6Vi1NRTVFNTNmaEowN3RZSGFqNg?oc=5"
+          },
+          {
+            "label": "PCMag Middle East：In Face of US Crackdown, Microsoft, Nvidia CEOs Back Open-Weight AI Mo",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWt1a0JKTjh0X2liNzUxVXFGTkNuZXdoMGI2SVMwUEJ1cnluaTVvV3FLWWhCNTVuWUtrZTBoVE1GZlg0Wjh3WFBLQUVlRFo4VFN0YXF5U0NUQXJ3MTVwWEdkMnBJTHZRS01kcnd4ZXhUZ0loNDg3QUdObERwMHFWUDB6VHZsVU0yMGhsLXpDTnIzN21tZFlZS2lWeGtCZEhiaHp4d20xbTM?oc=5"
+          },
+          {
+            "label": "China Daily：Tech firms urge US against 'premature restrictions' on open-weight AI ",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41UWMwTm9TWi1tbXA3UUt6Y1dFYzl2VEVoTHB3dUNDcm9ROEpRQldIbGNhR1ZlU0hoeWYwdG1nZzdCcElhRTIxRDZTRENIYzZMdnk1SV9ULXgzQWJLWDk4WVUwLVFwcllpa203RzIxQWJMUFYxSXVBNkFxeVlpZw?oc=5"
+          }
+        ],
+        "source": "SQ Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZ0ZiaXgxeGtVUGwwaGlqajAxOWpZWjFVNWpoWkdTT19Gdm8zWGdnR3p2dzgzdTlzalRNSWtfdUd6Vi1NRTVFNTNmaEowN3RZSGFqNg?oc=5"
+      },
       {
         "slug": "open-source-20260723-auto-1-7427de",
         "title": "模型不再值钱之后，AI编程工具在争什",
