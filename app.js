@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260726-auto-1-77b67f",
+        "title": "【奋进“十五五”·一线见闻】未来产业",
+        "category": "AI新闻",
+        "date": "2026-07-26",
+        "summary": "【奋进“十五五”·一线见闻】未来产业托起产业未来 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【奋进“十五五”·一线见闻】未来产业 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "【奋进“十五五”·一线见闻】未来产业托起产业未来 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【奋进“十五五”·一线见闻】未来产业托起产业未来 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VTDQzdHFrZUJQQ3pPRE1wWk9OQmc2LWFGMmZISUNCVzRwYjN4a3FBd1VOdDhCWEVCNjhrQ0J2UkM0aFloZ3R0eFhhNXhSMVUxSHk0U0ZZOFFiMFVib05xNlBTWEMwb1I3eXFmTkxsUWg5Zw?oc=5"
+          },
+          {
+            "label": "WRAL：Cheaper, open and intelligent: Chinese AI models gain ground, as they ",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmF2ZE5EVkwtQ2RFdWttSVNOSUpaakRIOS1sdVlOWlo0Y3JxREladTBBYTJCaVI4Qy1NWE5tOEs0ZDVuaGxTb01vTG1iZk8tLXh2Z2VJTmZmRFBCSm5yeU9YclltUFh2eVFrUXNfc0hRTGNLUTdQcVdCYlc4NmZDQjEwMmRkeVdqMkdYUFJ3a3prb0p0bFNqeVE1TzRUZWNMSWx5eF9vUmJuLVg5UG1YR3d2UmxxYVBXZXJkd09qUURHMHM?oc=5"
+          },
+          {
+            "label": "아시아경제：Lee Jae-yong and Altman Meet at OpenAI Headquarters to Discuss AI Infr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rU2thSzhhTENLX0pEcmdHOHN0a0xLZm92ZHk3b3BHcWYyYzk4dFVyWDNMZEJOb25qam9RMVBsNVZsd1did0dDMWQ1NmM1WTY0SjBmcDNpbWtxQmN6eDI4VjFfVVo?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VTDQzdHFrZUJQQ3pPRE1wWk9OQmc2LWFGMmZISUNCVzRwYjN4a3FBd1VOdDhCWEVCNjhrQ0J2UkM0aFloZ3R0eFhhNXhSMVUxSHk0U0ZZOFFiMFVib05xNlBTWEMwb1I3eXFmTkxsUWg5Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260726-auto-2-55194f",
+        "title": "Cheaper, open and",
+        "category": "AI新闻",
+        "date": "2026-07-26",
+        "summary": "Cheaper, open and intelligent: Chinese AI models g",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cheaper, open and 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Cheaper, open and intelligent: Chinese AI models g",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cheaper, open and intelligent: Chinese AI models g",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WRAL：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmF2ZE5EVkwtQ2RFdWttSVNOSUpaakRIOS1sdVlOWlo0Y3JxREladTBBYTJCaVI4Qy1NWE5tOEs0ZDVuaGxTb01vTG1iZk8tLXh2Z2VJTmZmRFBCSm5yeU9YclltUFh2eVFrUXNfc0hRTGNLUTdQcVdCYlc4NmZDQjEwMmRkeVdqMkdYUFJ3a3prb0p0bFNqeVE1TzRUZWNMSWx5eF9vUmJuLVg5UG1YR3d2UmxxYVBXZXJkd09qUURHMHM?oc=5"
+          },
+          {
+            "label": "新浪网：【奋进“十五五”·一线见闻】未来产业托起产业未来 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VTDQzdHFrZUJQQ3pPRE1wWk9OQmc2LWFGMmZISUNCVzRwYjN4a3FBd1VOdDhCWEVCNjhrQ0J2UkM0aFloZ3R0eFhhNXhSMVUxSHk0U0ZZOFFiMFVib05xNlBTWEMwb1I3eXFmTkxsUWg5Zw?oc=5"
+          },
+          {
+            "label": "아시아경제：Lee Jae-yong and Altman Meet at OpenAI Headquarters to Discuss AI Infr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rU2thSzhhTENLX0pEcmdHOHN0a0xLZm92ZHk3b3BHcWYyYzk4dFVyWDNMZEJOb25qam9RMVBsNVZsd1did0dDMWQ1NmM1WTY0SjBmcDNpbWtxQmN6eDI4VjFfVVo?oc=5"
+          }
+        ],
+        "source": "WRAL",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmF2ZE5EVkwtQ2RFdWttSVNOSUpaakRIOS1sdVlOWlo0Y3JxREladTBBYTJCaVI4Qy1NWE5tOEs0ZDVuaGxTb01vTG1iZk8tLXh2Z2VJTmZmRFBCSm5yeU9YclltUFh2eVFrUXNfc0hRTGNLUTdQcVdCYlc4NmZDQjEwMmRkeVdqMkdYUFJ3a3prb0p0bFNqeVE1TzRUZWNMSWx5eF9vUmJuLVg5UG1YR3d2UmxxYVBXZXJkd09qUURHMHM?oc=5"
+      },
+      {
         "slug": "ai-news-20260725-auto-1-ff405f",
         "title": "2026年西交•通全球暑期学校（XJ",
         "category": "AI新闻",
@@ -13623,6 +13739,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260726-auto-1-64f458",
+        "title": "ChatGPT可详尽输出生物武器制作",
+        "category": "AI使用教程",
+        "date": "2026-07-26",
+        "summary": "ChatGPT可详尽输出生物武器制作教程企业仅封禁提问账号- AI 人工智能 cnBeta.COM",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ChatGPT可详尽输出生物武器制作 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "ChatGPT可详尽输出生物武器制作教程企业仅封禁提问账号- AI 人工智能 cnBeta.COM",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ChatGPT可详尽输出生物武器制作教程企业仅封禁提问账号- AI 人工智能 cnBeta.COM",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RUJYd29QR3BmV3JmUWlZeURNX3hiQWM3OF9RNERULW9Ma0dIQlpWVkNEclZsV1AxOHljWXY1VFg5S0M1a2dpbUF0T0xXYmp0YVI5bXhxWThNSGVyN1ZiTg?oc=5"
+          },
+          {
+            "label": "Sohu：“剧”缺人！招聘需求暴涨179%，有岗位月薪2万元 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUtQcUo1UTU0d0h0S2RHU0QybVRsTVhYRk5zNnpvbWcwRV9ad25OYjRJSzVwSVFEeU1wTl9ZOUNnOEtTbng3N1J0UWdxQVIzRnJuOUc2ZFZPTG04U1FfT1ZGOXFkOFFTamJRdjRETXFZUURhSTRoNHdwRzdSTUF2RmNwV0NEVF9m?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：Claude Opus 5被扒光了！1511行提示词底牌全摊开 - finance.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT0RWSUQwclpsd1ZkUFRnWU40Q1FwOVkycVNNX0dBejJpN21lWFlLLVFxVzZBek5MSmo0TnRiUHBsakRfSnpDRGtNQ2RwaGJUSHlHc2JTMTJtZGMwWDJjTWRyNXRwOUdLc09WdTJmdTlhTFVsOWNzN21Hb2o0QkZuNENOU3hJcklSdTFZUUJlaVVTLWhtd2VoSmplN2ZDdTNDQXdF?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RUJYd29QR3BmV3JmUWlZeURNX3hiQWM3OF9RNERULW9Ma0dIQlpWVkNEclZsV1AxOHljWXY1VFg5S0M1a2dpbUF0T0xXYmp0YVI5bXhxWThNSGVyN1ZiTg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260725-auto-1-691591",
         "title": "以 AI 对抗 AI：构建越用越强的",
         "category": "AI使用教程",
@@ -19857,6 +20031,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260726-auto-1-b74e7f",
+        "title": "AI开源公开信签署企业增至50家，包",
+        "category": "开源项目",
+        "date": "2026-07-26",
+        "summary": "AI开源公开信签署企业增至50家，包含谷歌、AMD等 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI开源公开信签署企业增至50家，包 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI开源公开信签署企业增至50家，包含谷歌、AMD等 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI开源公开信签署企业增至50家，包含谷歌、AMD等 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kM0lJUVpMWnF4UHhiQWZDS1FWQy12RkFEazQzdjh2cnR3bGxNd3BPa04xaDA0eVhlcWhoZkt0cC1VeURqTFduSmJMM3lnMzQwM1I4VTRKOThkNjV3Z20ybnMwU00zVG9uSmh5MjYtY2x4SzEwMzAzRUtYSFFVbWc?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：从中国开源AI救场美国黑客危机，看懂中美AI博弈的真相｜赫赫有鸣 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcjFNaGR1djNJZmlkd3Q5Rm9BbXFaZ1ZwZUpmUC1ocEYyY0wtSWFuRkFXM0hVOG1nQUFOSlFvX3hCbHIySmZFNmtyLVpGVkpjVnNHbjZKaW5ZRFlXOEZJWUNqTGx4cnBwcWVJT011aFBidWtQdFE?oc=5"
+          },
+          {
+            "label": "yeeyi：Debian项目发起议案，讨论是否允许AI大模型参与开发-yeeyi - yeeyi",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm5qd2E0azdLWUpYNkxrZmdfZk83eF9sWVZXaUg1dG5KeE44a3ZFWEJhUWRBY2ZMQlI5Tmt1djJTVHVIb3g3b2IzaTFuSG5RMTRLUnVsZmdrblp4ZDFYdW1lMV9ob0NGSmxVQU1PU1NodUhDMjNKTkNvZ3RrQmlDOVhR?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kM0lJUVpMWnF4UHhiQWZDS1FWQy12RkFEazQzdjh2cnR3bGxNd3BPa04xaDA0eVhlcWhoZkt0cC1VeURqTFduSmJMM3lnMzQwM1I4VTRKOThkNjV3Z20ybnMwU00zVG9uSmh5MjYtY2x4SzEwMzAzRUtYSFFVbWc?oc=5"
+      },
+      {
+        "slug": "open-source-20260726-auto-2-3040c8",
+        "title": "从中国开源AI救场美国黑客危机，看懂",
+        "category": "开源项目",
+        "date": "2026-07-26",
+        "summary": "从中国开源AI救场美国黑客危机，看懂中美AI博弈的真相｜赫赫有鸣 chinanews.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从中国开源AI救场美国黑客危机，看懂 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "从中国开源AI救场美国黑客危机，看懂中美AI博弈的真相｜赫赫有鸣 chinanews.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从中国开源AI救场美国黑客危机，看懂中美AI博弈的真相｜赫赫有鸣 chinanews.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "chinanews.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcjFNaGR1djNJZmlkd3Q5Rm9BbXFaZ1ZwZUpmUC1ocEYyY0wtSWFuRkFXM0hVOG1nQUFOSlFvX3hCbHIySmZFNmtyLVpGVkpjVnNHbjZKaW5ZRFlXOEZJWUNqTGx4cnBwcWVJT011aFBidWtQdFE?oc=5"
+          },
+          {
+            "label": "新浪网：AI开源公开信签署企业增至50家，包含谷歌、AMD等 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kM0lJUVpMWnF4UHhiQWZDS1FWQy12RkFEazQzdjh2cnR3bGxNd3BPa04xaDA0eVhlcWhoZkt0cC1VeURqTFduSmJMM3lnMzQwM1I4VTRKOThkNjV3Z20ybnMwU00zVG9uSmh5MjYtY2x4SzEwMzAzRUtYSFFVbWc?oc=5"
+          },
+          {
+            "label": "yeeyi：Debian项目发起议案，讨论是否允许AI大模型参与开发-yeeyi - yeeyi",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm5qd2E0azdLWUpYNkxrZmdfZk83eF9sWVZXaUg1dG5KeE44a3ZFWEJhUWRBY2ZMQlI5Tmt1djJTVHVIb3g3b2IzaTFuSG5RMTRLUnVsZmdrblp4ZDFYdW1lMV9ob0NGSmxVQU1PU1NodUhDMjNKTkNvZ3RrQmlDOVhR?oc=5"
+          }
+        ],
+        "source": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcjFNaGR1djNJZmlkd3Q5Rm9BbXFaZ1ZwZUpmUC1ocEYyY0wtSWFuRkFXM0hVOG1nQUFOSlFvX3hCbHIySmZFNmtyLVpGVkpjVnNHbjZKaW5ZRFlXOEZJWUNqTGx4cnBwcWVJT011aFBidWtQdFE?oc=5"
+      },
       {
         "slug": "open-source-20260725-auto-1-52671c",
         "title": "In Face of US Crac",
