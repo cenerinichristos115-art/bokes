@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260727-auto-1-9953c8",
+        "title": "Redlands Unified l",
+        "category": "AI新闻",
+        "date": "2026-07-27",
+        "summary": "Redlands Unified looks to prepare students for AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Redlands Unified l 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Redlands Unified looks to prepare students for AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Redlands Unified looks to prepare students for AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Community Forward Redlands News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHh5NGdaaHpLd2JnQXE2OExYelRramtCX2RELXpsaG13YzIwNlpRano5ekZyTW0yekpXckx3eVlTZjNnUHpCeDNLZUJqWk1tZzJUazhIMS1oaTIyMDdhRUd5a0ZyeUgzUVV1aUg1dFREUnlHUi1sZUZ0M1VvT21hZ0JGQU5ETC1tYjBIQUgySi1sN25BQW9Nc3hJckZLcVpWWGxfZWl5cmNtXzF2Y0JQZms0Z0NQbjd6dXd1V05ESF9wWEU?oc=5"
+          },
+          {
+            "label": "News-Medical：AI mental health chatbots feel empathetic, but safety evidence still l",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHVZVXVaWTN6eXFiX0Z6NTA4NlhTVVBiSDRqZ3U5Mk5pUGQxaHc4d3ZwSlZWdzdKV1lMQWdjbGx6ZVFIUmpIcUJ1SkNSYzFGYkZ1V2hZRmxlRWRGTGtyRHUxWU1RSjVENGZtV3E1Qmd0RFIwaTdoYi1XcVhYVHdCT2VrMzdFQzNCQ25LRm1FM2VranRWYkptLW5mSndCWWh0SXctb0k5MDVIUWEwMEQ0ckNwNTVQc0kzZG91Vg?oc=5"
+          },
+          {
+            "label": "经济形势报告网：余晓晖：加快构建适配人工智能发展的高质量数据供给体系 - 经济形势报告网",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQVpmWi0tRTlnejd5U0xkLTY1M0lGNkZoUkFpMkxuX056UFplZGlsMnRETnI4VFVpTm15RUZ2ekUwWXFGVkxKRnUyVThKWnh0S0RoM0QxZGNUZXRFeDhQbE8wemdheWs?oc=5"
+          }
+        ],
+        "source": "Community Forward Redlands News",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHh5NGdaaHpLd2JnQXE2OExYelRramtCX2RELXpsaG13YzIwNlpRano5ekZyTW0yekpXckx3eVlTZjNnUHpCeDNLZUJqWk1tZzJUazhIMS1oaTIyMDdhRUd5a0ZyeUgzUVV1aUg1dFREUnlHUi1sZUZ0M1VvT21hZ0JGQU5ETC1tYjBIQUgySi1sN25BQW9Nc3hJckZLcVpWWGxfZWl5cmNtXzF2Y0JQZms0Z0NQbjd6dXd1V05ESF9wWEU?oc=5"
+      },
+      {
+        "slug": "ai-news-20260727-auto-2-57070e",
+        "title": "AI mental health c",
+        "category": "AI新闻",
+        "date": "2026-07-27",
+        "summary": "AI mental health chatbots feel empathetic, but saf",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI mental health c 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI mental health chatbots feel empathetic, but saf",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI mental health chatbots feel empathetic, but saf",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "News-Medical：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHVZVXVaWTN6eXFiX0Z6NTA4NlhTVVBiSDRqZ3U5Mk5pUGQxaHc4d3ZwSlZWdzdKV1lMQWdjbGx6ZVFIUmpIcUJ1SkNSYzFGYkZ1V2hZRmxlRWRGTGtyRHUxWU1RSjVENGZtV3E1Qmd0RFIwaTdoYi1XcVhYVHdCT2VrMzdFQzNCQ25LRm1FM2VranRWYkptLW5mSndCWWh0SXctb0k5MDVIUWEwMEQ0ckNwNTVQc0kzZG91Vg?oc=5"
+          },
+          {
+            "label": "Community Forward Redlands News：Redlands Unified looks to prepare students for AI as district develops",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcHh5NGdaaHpLd2JnQXE2OExYelRramtCX2RELXpsaG13YzIwNlpRano5ekZyTW0yekpXckx3eVlTZjNnUHpCeDNLZUJqWk1tZzJUazhIMS1oaTIyMDdhRUd5a0ZyeUgzUVV1aUg1dFREUnlHUi1sZUZ0M1VvT21hZ0JGQU5ETC1tYjBIQUgySi1sN25BQW9Nc3hJckZLcVpWWGxfZWl5cmNtXzF2Y0JQZms0Z0NQbjd6dXd1V05ESF9wWEU?oc=5"
+          },
+          {
+            "label": "经济形势报告网：余晓晖：加快构建适配人工智能发展的高质量数据供给体系 - 经济形势报告网",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQVpmWi0tRTlnejd5U0xkLTY1M0lGNkZoUkFpMkxuX056UFplZGlsMnRETnI4VFVpTm15RUZ2ekUwWXFGVkxKRnUyVThKWnh0S0RoM0QxZGNUZXRFeDhQbE8wemdheWs?oc=5"
+          }
+        ],
+        "source": "News-Medical",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHVZVXVaWTN6eXFiX0Z6NTA4NlhTVVBiSDRqZ3U5Mk5pUGQxaHc4d3ZwSlZWdzdKV1lMQWdjbGx6ZVFIUmpIcUJ1SkNSYzFGYkZ1V2hZRmxlRWRGTGtyRHUxWU1RSjVENGZtV3E1Qmd0RFIwaTdoYi1XcVhYVHdCT2VrMzdFQzNCQ25LRm1FM2VranRWYkptLW5mSndCWWh0SXctb0k5MDVIUWEwMEQ0ckNwNTVQc0kzZG91Vg?oc=5"
+      },
+      {
         "slug": "ai-news-20260726-auto-1-77b67f",
         "title": "【奋进“十五五”·一线见闻】未来产业",
         "category": "AI新闻",
@@ -13739,6 +13855,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260727-auto-1-08ff3f",
+        "title": "传统剪辑师如何转型成为AI剪辑师？",
+        "category": "AI使用教程",
+        "date": "2026-07-27",
+        "summary": "传统剪辑师如何转型成为AI剪辑师？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "传统剪辑师如何转型成为AI剪辑师？ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "传统剪辑师如何转型成为AI剪辑师？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "传统剪辑师如何转型成为AI剪辑师？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0TnlIdEFXbGQ3WC1MYzA5cFpDc0Y3Y093MVJhaDNQZUk5NVVUUDhpVkIzdDNwQ2dJcTByV0lveG1FS3FMS2lXaGF6TFp0WDl6NnRsekVnd1JGZEtRMFdFNnRRMU9VZ0ZQbXJVaVJKQ25IVm94U3V0VjBzZWpwdVE?oc=5"
+          },
+          {
+            "label": "HackerNoon：AI Coding Tip 029 - Assign a Different Model to Each Pipeline Stage - ",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGUwN255amUwME81M1o3UUtaY2dFUVlMNlJ6bVhKd1R5bnJ6UUtlX3ZQcWdKc1ZDejNkRUQ1WXZIbjhmX0tYNWN0RzlFR2VSUml4cHRTbThPZUp0aDhRYVpab2FwODM1Nm1XM2hZcXBoZGszSTUtUnpIa2JfUkpnVkwwYWktT3pSVGpWTzUyTG84QQ?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0TnlIdEFXbGQ3WC1MYzA5cFpDc0Y3Y093MVJhaDNQZUk5NVVUUDhpVkIzdDNwQ2dJcTByV0lveG1FS3FMS2lXaGF6TFp0WDl6NnRsekVnd1JGZEtRMFdFNnRRMU9VZ0ZQbXJVaVJKQ25IVm94U3V0VjBzZWpwdVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260726-auto-1-64f458",
         "title": "ChatGPT可详尽输出生物武器制作",
         "category": "AI使用教程",
@@ -20031,6 +20205,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260727-auto-1-fba41c",
+        "title": "Debian 就项目中的 LLM 使",
+        "category": "开源项目",
+        "date": "2026-07-27",
+        "summary": "Debian 就项目中的 LLM 使用进行决议 - OSCHINA - 开源 × AI · 开发者生",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Debian 就项目中的 LLM 使 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Debian 就项目中的 LLM 使用进行决议 - OSCHINA - 开源 × AI · 开发者生",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Debian 就项目中的 LLM 使用进行决议 - OSCHINA - 开源 × AI · 开发者生",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RT0dGVEtLTkFnS1RydXNyeHRtQVlyb0N4YklqZmQwMGt1MFVld1FkMGxGdmJJY2hkUTJCOE0tRW5zemtINWZLVDhzLUtDWWhwd1hUdjhQUjVMdVN0OXM3YXFISTV4Zw?oc=5"
+          },
+          {
+            "label": "The Times of India：David Sacks not happy with ‘Chinese’ tag for Open source AI models tha",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQVpwclNVQ3JoMi1wUVY1d3FRQzg0S3d2bmdHWGs2WG8wa2dublpZNldXbk5sMDhCYTdsRE4yME5xT0JYdnVRMTFwWGZmeUtVUnQyQzc5Z0FRbG1KclhWeEJjWDhoVUt2MjdEMS1DcVFrR2pOcGhzUjFXOGc2WGdaYnVfVWF4ZE8xc2pOaEhsNGZQZEZRa1ZWclRCd1NDVkhwRE5Ob1NDLTdQa214MVAtT1g1S08tRzRqQzRQZHNOcGNIQUMwc21ZaExobTRlclozM2QwRmZ3cnp4bEFwNXJnZTR6YTA0VDVmeG5jNExGdDVFcmxybHRUb19vN2Fuc1MxYjZQa1lR0gGLAkFVX3lxTE1qRHh4VWI4WVRMZUo2OGRFUW1fNm9LY2VZSkNUZ0QxdTdOVkRBM2NJb1YtZVRHMUY1S0w0N0w0OGJJQVB0QkEybkhOMzVrLXhST3ZUenE1bTV1NlZ0elVqbUM3dG9TZ21wejlyQnQ3cHE1X1lxS05hcU1OekZ1T2dSSDlsMS1sc1ZjSUNXeVZycnFXRFNxUjhGNzMwYkRhbWFhN0VfVEM4ZUE3WElfcEhqUGtnVVVGN0hFd3hwVnZqNnhza0FWaWttVXI1ZWNpX3J6OXRjQTBtZTZob3k1Wi1WTXVvUlFTcDVrLXY4bXE5Wk1wVU1oaU5fbVp2MVJqTzVwUXZHVWU2TTFUSQ?oc=5"
+          },
+          {
+            "label": "The Business Times：From property boom to AI: How China can guard against its next corrupt",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW1jaGRnc3RldGRWR0VqbG1WRnZ5c19lMmFYbml0cmExX3EtYTduMEhEakVjdW9iTFB4S0oxYWZVaThkV2dTRFhoaUsyc2M3dk5fbnB1aHdUU1I3YUpPZWRMN1pDZkNUMTFyZWF5bkRKeEZ4Y0VpTS0wT01aS3ZnUGY3MHdIVnhJQVhqbzFyd1N6akJtZ2YxYmh2cGVyT2N1cE5Kbm5fMEF2blVTWjc5aFBZYUphNlk?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RT0dGVEtLTkFnS1RydXNyeHRtQVlyb0N4YklqZmQwMGt1MFVld1FkMGxGdmJJY2hkUTJCOE0tRW5zemtINWZLVDhzLUtDWWhwd1hUdjhQUjVMdVN0OXM3YXFISTV4Zw?oc=5"
+      },
+      {
+        "slug": "open-source-20260727-auto-2-eeea6b",
+        "title": "David Sacks not ha",
+        "category": "开源项目",
+        "date": "2026-07-27",
+        "summary": "David Sacks not happy with ‘Chinese’ tag for Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "David Sacks not ha 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "David Sacks not happy with ‘Chinese’ tag for Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "David Sacks not happy with ‘Chinese’ tag for Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Times of India：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQVpwclNVQ3JoMi1wUVY1d3FRQzg0S3d2bmdHWGs2WG8wa2dublpZNldXbk5sMDhCYTdsRE4yME5xT0JYdnVRMTFwWGZmeUtVUnQyQzc5Z0FRbG1KclhWeEJjWDhoVUt2MjdEMS1DcVFrR2pOcGhzUjFXOGc2WGdaYnVfVWF4ZE8xc2pOaEhsNGZQZEZRa1ZWclRCd1NDVkhwRE5Ob1NDLTdQa214MVAtT1g1S08tRzRqQzRQZHNOcGNIQUMwc21ZaExobTRlclozM2QwRmZ3cnp4bEFwNXJnZTR6YTA0VDVmeG5jNExGdDVFcmxybHRUb19vN2Fuc1MxYjZQa1lR0gGLAkFVX3lxTE1qRHh4VWI4WVRMZUo2OGRFUW1fNm9LY2VZSkNUZ0QxdTdOVkRBM2NJb1YtZVRHMUY1S0w0N0w0OGJJQVB0QkEybkhOMzVrLXhST3ZUenE1bTV1NlZ0elVqbUM3dG9TZ21wejlyQnQ3cHE1X1lxS05hcU1OekZ1T2dSSDlsMS1sc1ZjSUNXeVZycnFXRFNxUjhGNzMwYkRhbWFhN0VfVEM4ZUE3WElfcEhqUGtnVVVGN0hFd3hwVnZqNnhza0FWaWttVXI1ZWNpX3J6OXRjQTBtZTZob3k1Wi1WTXVvUlFTcDVrLXY4bXE5Wk1wVU1oaU5fbVp2MVJqTzVwUXZHVWU2TTFUSQ?oc=5"
+          },
+          {
+            "label": "OSCHINA：Debian 就项目中的 LLM 使用进行决议 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RT0dGVEtLTkFnS1RydXNyeHRtQVlyb0N4YklqZmQwMGt1MFVld1FkMGxGdmJJY2hkUTJCOE0tRW5zemtINWZLVDhzLUtDWWhwd1hUdjhQUjVMdVN0OXM3YXFISTV4Zw?oc=5"
+          },
+          {
+            "label": "The Business Times：From property boom to AI: How China can guard against its next corrupt",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW1jaGRnc3RldGRWR0VqbG1WRnZ5c19lMmFYbml0cmExX3EtYTduMEhEakVjdW9iTFB4S0oxYWZVaThkV2dTRFhoaUsyc2M3dk5fbnB1aHdUU1I3YUpPZWRMN1pDZkNUMTFyZWF5bkRKeEZ4Y0VpTS0wT01aS3ZnUGY3MHdIVnhJQVhqbzFyd1N6akJtZ2YxYmh2cGVyT2N1cE5Kbm5fMEF2blVTWjc5aFBZYUphNlk?oc=5"
+          }
+        ],
+        "source": "The Times of India",
+        "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQVpwclNVQ3JoMi1wUVY1d3FRQzg0S3d2bmdHWGs2WG8wa2dublpZNldXbk5sMDhCYTdsRE4yME5xT0JYdnVRMTFwWGZmeUtVUnQyQzc5Z0FRbG1KclhWeEJjWDhoVUt2MjdEMS1DcVFrR2pOcGhzUjFXOGc2WGdaYnVfVWF4ZE8xc2pOaEhsNGZQZEZRa1ZWclRCd1NDVkhwRE5Ob1NDLTdQa214MVAtT1g1S08tRzRqQzRQZHNOcGNIQUMwc21ZaExobTRlclozM2QwRmZ3cnp4bEFwNXJnZTR6YTA0VDVmeG5jNExGdDVFcmxybHRUb19vN2Fuc1MxYjZQa1lR0gGLAkFVX3lxTE1qRHh4VWI4WVRMZUo2OGRFUW1fNm9LY2VZSkNUZ0QxdTdOVkRBM2NJb1YtZVRHMUY1S0w0N0w0OGJJQVB0QkEybkhOMzVrLXhST3ZUenE1bTV1NlZ0elVqbUM3dG9TZ21wejlyQnQ3cHE1X1lxS05hcU1OekZ1T2dSSDlsMS1sc1ZjSUNXeVZycnFXRFNxUjhGNzMwYkRhbWFhN0VfVEM4ZUE3WElfcEhqUGtnVVVGN0hFd3hwVnZqNnhza0FWaWttVXI1ZWNpX3J6OXRjQTBtZTZob3k1Wi1WTXVvUlFTcDVrLXY4bXE5Wk1wVU1oaU5fbVp2MVJqTzVwUXZHVWU2TTFUSQ?oc=5"
+      },
       {
         "slug": "open-source-20260726-auto-1-b74e7f",
         "title": "AI开源公开信签署企业增至50家，包",
