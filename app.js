@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260728-auto-1-75ffbc",
+        "title": "A flex in corporat",
+        "category": "AI新闻",
+        "date": "2026-07-28",
+        "summary": "A flex in corporate America, AI ‘tokenmaxxing’ fad",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "A flex in corporat 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "A flex in corporate America, AI ‘tokenmaxxing’ fad",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "A flex in corporate America, AI ‘tokenmaxxing’ fad",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WRAL：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFRvVHJFM3pOWkhQUHpUVXZadExjWnZhWU5KRF9NZVRmRkZiLVhkOGhtanZjTmFmRmdqTzNGOEIyVEJKcElmbnZOOWhGdlhFSXJJRG81Q3I1c2VZMk10Rm5aLWhGRFY4bGxqcUVlOTdldEhSQlZNQzB1cVltelIteW51N1BoWmhyYm1OMHh4cGRNTkw2azQ5M25YN2ZUdlFmemlpbmNxU2VYMmRoakptdnhYWkJoT1NELWctcmdvdDBCMVk?oc=5"
+          },
+          {
+            "label": "Tikvah Ideas：Using Artificial Intelligence without Tasting the Forbidden Fruit - Ti",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVVoME5WaWdyWDIyd2hza1JlUlVhUm5qdTR4Tk12eGlvV1pJa0VodmpHempCb0dzcTNPXzFoclZzRjJCTktORm11X0FqaENxb3NSNnV5THNHbERJbDZmVE1nNEt5cmx3eGRnVnlsV3VtRllRNmdJaDY1bnVDYXJjM0FNWVhRX3phcEFjU25hbHRGZHJFOGdoOWJPREZ6cXBXb1lDSWtyVDVCRXJfVFFfQXJBcFBXY1JYM3c?oc=5"
+          },
+          {
+            "label": "MIT News：Making robots faster by helping them think ahead - MIT News",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVVDazVTYW1JU1g2ajU3UWVYNFN1M1d3QXpnOWppSlhUTTRwY0Fwb2hpQm9acXFLU1RhNndlNmdZRWowMzZud043cHQxS0hDQzRma21udDJsVzlQM3J5VHpNZGtfN3lZWDlmTzdQUUFjVnlSdVc5YmJHb2tUZWtyTml3?oc=5"
+          }
+        ],
+        "source": "WRAL",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFRvVHJFM3pOWkhQUHpUVXZadExjWnZhWU5KRF9NZVRmRkZiLVhkOGhtanZjTmFmRmdqTzNGOEIyVEJKcElmbnZOOWhGdlhFSXJJRG81Q3I1c2VZMk10Rm5aLWhGRFY4bGxqcUVlOTdldEhSQlZNQzB1cVltelIteW51N1BoWmhyYm1OMHh4cGRNTkw2azQ5M25YN2ZUdlFmemlpbmNxU2VYMmRoakptdnhYWkJoT1NELWctcmdvdDBCMVk?oc=5"
+      },
+      {
+        "slug": "ai-news-20260728-auto-2-ac4566",
+        "title": "Using Artificial I",
+        "category": "AI新闻",
+        "date": "2026-07-28",
+        "summary": "Using Artificial Intelligence without Tasting the",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Using Artificial I 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Using Artificial Intelligence without Tasting the",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Using Artificial Intelligence without Tasting the",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tikvah Ideas：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVVoME5WaWdyWDIyd2hza1JlUlVhUm5qdTR4Tk12eGlvV1pJa0VodmpHempCb0dzcTNPXzFoclZzRjJCTktORm11X0FqaENxb3NSNnV5THNHbERJbDZmVE1nNEt5cmx3eGRnVnlsV3VtRllRNmdJaDY1bnVDYXJjM0FNWVhRX3phcEFjU25hbHRGZHJFOGdoOWJPREZ6cXBXb1lDSWtyVDVCRXJfVFFfQXJBcFBXY1JYM3c?oc=5"
+          },
+          {
+            "label": "WRAL：A flex in corporate America, AI ‘tokenmaxxing’ fades as workplaces loo",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFRvVHJFM3pOWkhQUHpUVXZadExjWnZhWU5KRF9NZVRmRkZiLVhkOGhtanZjTmFmRmdqTzNGOEIyVEJKcElmbnZOOWhGdlhFSXJJRG81Q3I1c2VZMk10Rm5aLWhGRFY4bGxqcUVlOTdldEhSQlZNQzB1cVltelIteW51N1BoWmhyYm1OMHh4cGRNTkw2azQ5M25YN2ZUdlFmemlpbmNxU2VYMmRoakptdnhYWkJoT1NELWctcmdvdDBCMVk?oc=5"
+          },
+          {
+            "label": "MIT News：Making robots faster by helping them think ahead - MIT News",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVVDazVTYW1JU1g2ajU3UWVYNFN1M1d3QXpnOWppSlhUTTRwY0Fwb2hpQm9acXFLU1RhNndlNmdZRWowMzZud043cHQxS0hDQzRma21udDJsVzlQM3J5VHpNZGtfN3lZWDlmTzdQUUFjVnlSdVc5YmJHb2tUZWtyTml3?oc=5"
+          }
+        ],
+        "source": "Tikvah Ideas",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVVoME5WaWdyWDIyd2hza1JlUlVhUm5qdTR4Tk12eGlvV1pJa0VodmpHempCb0dzcTNPXzFoclZzRjJCTktORm11X0FqaENxb3NSNnV5THNHbERJbDZmVE1nNEt5cmx3eGRnVnlsV3VtRllRNmdJaDY1bnVDYXJjM0FNWVhRX3phcEFjU25hbHRGZHJFOGdoOWJPREZ6cXBXb1lDSWtyVDVCRXJfVFFfQXJBcFBXY1JYM3c?oc=5"
+      },
+      {
         "slug": "ai-news-20260727-auto-1-9953c8",
         "title": "Redlands Unified l",
         "category": "AI新闻",
@@ -13855,6 +13971,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260728-auto-1-41af60",
+        "title": "用AI重制老游戏，这些成功案例太震撼",
+        "category": "AI使用教程",
+        "date": "2026-07-28",
+        "summary": "用AI重制老游戏，这些成功案例太震撼了！ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "用AI重制老游戏，这些成功案例太震撼 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "用AI重制老游戏，这些成功案例太震撼了！ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "用AI重制老游戏，这些成功案例太震撼了！ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hODJRUm5TZXN5N1NJU1poM1FBbDQzNlA5VENISUpsZXhFX2ExSjJlSjNEdGJ2VDFXdHF4alRNNnZYQlJKQkJMbm85c241cFF3WXp2ZGxUU21aSkxKV085eWNnWnZpV3NVWUZuWE81V1h4bmlfVThkaVlzV09FdUU?oc=5"
+          },
+          {
+            "label": "手机新浪网：这套万能AI提示词七要素模板具体怎么用？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtSEhiNkMzSnNNNWswREwybjBkcVRMdy1QcndNRnYtQV9XQjdGUmpLY2pEbmUtR09Zb3BoNENiYTVYLUZpLTNYV00yMmZNd3VUbzRicUtqbm52TGVDdWZ6Y0g3Y3BBeDJPMUk5QUZ5WHViVmllNzU5aHZnYVM4dw?oc=5"
+          },
+          {
+            "label": "至顶网：纳德拉警告：过度依赖单一AI的企业将面临生存危机-人工智能 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZXZ1UkUwWHNuRFRpdjhnT1NHS21wdTFxaERZYUNHZk1UZkh3Z1VmTFJ4Y2NDYnBSRXZrMnlUNzRJZmZLX1FKNjktNjRjUXBTSWFvVUNwWUFrRl93N1E?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hODJRUm5TZXN5N1NJU1poM1FBbDQzNlA5VENISUpsZXhFX2ExSjJlSjNEdGJ2VDFXdHF4alRNNnZYQlJKQkJMbm85c241cFF3WXp2ZGxUU21aSkxKV085eWNnWnZpV3NVWUZuWE81V1h4bmlfVThkaVlzV09FdUU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260727-auto-1-08ff3f",
         "title": "传统剪辑师如何转型成为AI剪辑师？",
         "category": "AI使用教程",
@@ -20205,6 +20379,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260728-auto-1-83f76f",
+        "title": "NVIDIA, Microsoft,",
+        "category": "开源项目",
+        "date": "2026-07-28",
+        "summary": "NVIDIA, Microsoft, SpacexAI, and others have estab",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA, Microsoft, 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NVIDIA, Microsoft, SpacexAI, and others have estab",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA, Microsoft, SpacexAI, and others have estab",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GIGAZINE：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVZmUwWXFFNVhPbXRGV1dnQnJISi1kOGtHZFpvaDQ5dkU1ekhTNFZrMHRPY3pPNmJQcmJQMFA5RGt0UzdhQWtoVTE3NGtKX0hrc1dPZGdoWGxBZVRSZmtwUDV3RXN5b0FzaVJMVTlpaURSc0dFdUZrZ3JHREFKdw?oc=5"
+          },
+          {
+            "label": "The Washington Post：AI & Tech Brief: Governing Open AI - The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUpRWW9nRGJNQkVhNDBzMHhFVnVaX0VCVUdHUm1Ld3I5bTVVMFdpTUVYM0c4a2RielFhbnZzTjRYVU9WYXNYeTFXRGNkUktyTThOQi1KQ3dIdUprZklWeWJSSUcyQ21RQU5odVRnN1pObE16S3F6Q3JqbUk3aVZUd0FOcmFRQUh1R1dva1JoUVpTYnpqb2hLRklBZGpwVmI2YWpUekVrWQ?oc=5"
+          },
+          {
+            "label": "Infoq.cn：1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考 - Infoq.cn",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96b1UzTnByOEd3SW5zdEM5bzBmWnh3SVU4UHNpZ1JNT3R3cF9IX1NBTFJzeF9tdlE2TGJXSktnaWZRODliZ1M5TDdqTGpNeFF2XzFFMlNEN2ExdWc?oc=5"
+          }
+        ],
+        "source": "GIGAZINE",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVZmUwWXFFNVhPbXRGV1dnQnJISi1kOGtHZFpvaDQ5dkU1ekhTNFZrMHRPY3pPNmJQcmJQMFA5RGt0UzdhQWtoVTE3NGtKX0hrc1dPZGdoWGxBZVRSZmtwUDV3RXN5b0FzaVJMVTlpaURSc0dFdUZrZ3JHREFKdw?oc=5"
+      },
+      {
+        "slug": "open-source-20260728-auto-2-e23bb1",
+        "title": "AI & Tech Brief: G",
+        "category": "开源项目",
+        "date": "2026-07-28",
+        "summary": "AI & Tech Brief: Governing Open AI The Washington",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI & Tech Brief: G 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI & Tech Brief: Governing Open AI The Washington",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI & Tech Brief: Governing Open AI The Washington",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUpRWW9nRGJNQkVhNDBzMHhFVnVaX0VCVUdHUm1Ld3I5bTVVMFdpTUVYM0c4a2RielFhbnZzTjRYVU9WYXNYeTFXRGNkUktyTThOQi1KQ3dIdUprZklWeWJSSUcyQ21RQU5odVRnN1pObE16S3F6Q3JqbUk3aVZUd0FOcmFRQUh1R1dva1JoUVpTYnpqb2hLRklBZGpwVmI2YWpUekVrWQ?oc=5"
+          },
+          {
+            "label": "GIGAZINE：NVIDIA, Microsoft, SpacexAI, and others have established the 'Open Sec",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVZmUwWXFFNVhPbXRGV1dnQnJISi1kOGtHZFpvaDQ5dkU1ekhTNFZrMHRPY3pPNmJQcmJQMFA5RGt0UzdhQWtoVTE3NGtKX0hrc1dPZGdoWGxBZVRSZmtwUDV3RXN5b0FzaVJMVTlpaURSc0dFdUZrZ3JHREFKdw?oc=5"
+          },
+          {
+            "label": "Infoq.cn：1v1 对话：来自 Agent Infra 负责人的心声、复盘、规划与思考 - Infoq.cn",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96b1UzTnByOEd3SW5zdEM5bzBmWnh3SVU4UHNpZ1JNT3R3cF9IX1NBTFJzeF9tdlE2TGJXSktnaWZRODliZ1M5TDdqTGpNeFF2XzFFMlNEN2ExdWc?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUpRWW9nRGJNQkVhNDBzMHhFVnVaX0VCVUdHUm1Ld3I5bTVVMFdpTUVYM0c4a2RielFhbnZzTjRYVU9WYXNYeTFXRGNkUktyTThOQi1KQ3dIdUprZklWeWJSSUcyQ21RQU5odVRnN1pObE16S3F6Q3JqbUk3aVZUd0FOcmFRQUh1R1dva1JoUVpTYnpqb2hLRklBZGpwVmI2YWpUekVrWQ?oc=5"
+      },
       {
         "slug": "open-source-20260727-auto-1-fba41c",
         "title": "Debian 就项目中的 LLM 使",
