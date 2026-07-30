@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260730-auto-1-46956d",
+        "title": "北京亦庄要建全域人工智能之城 - 新",
+        "category": "AI新闻",
+        "date": "2026-07-30",
+        "summary": "北京亦庄要建全域人工智能之城 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北京亦庄要建全域人工智能之城 - 新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京亦庄要建全域人工智能之城 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "北京亦庄要建全域人工智能之城 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GMXJXb0ZTTk9fUTNQX2Z1RVpiRngtdG5Xa2tuT1oyekM3MFVteGJNZktfLTJCa29rdEdaOUxVZHFRSDgtd1paR0NnV3JraVM5b3ZFLVItXzZ2bFZmb18wY0ltdUhJeEh1STd1dW9PbnJtTnZvb04zd0VzOFFPQ1U?oc=5"
+          },
+          {
+            "label": "The Mac Observer：Google Streamlines Gemini App With New AI Controls - The Mac Observer",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1R5bG9JSk9kWmpPa2FjYjVjZTh1aFA5XzBHU2taYzE3MnVxLTdqWGhKNm0tTWxuaS1mY3B4MkFTNmV6OXFGVEx1blQwTVc5NURsemVkM3FONjUyZlZvVG90clJrcnZQRXdKZ3NGNWdGd0FIR0RLdjU5VzhXZGhydE1MUWZLSEV1Vm4wNw?oc=5"
+          },
+          {
+            "label": "新浪网：科创人工智能ETF嘉实（589410）跌5.16%，半日成交额767.94万元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdlo1RnRyblgtMzFYbl9Zb1pvR3h3V0I4WlJJOHdWUjJ4VnE3M2xCOVRMTUxTX0R6TWYxSEVHOVJJdjYtYVhhNUJtN2lGa0JWdWRtVnVSR1JIc3ZWUU9vNTI5ZzFtSGV4QUtycWEtNEJUR25xcklWbHFVcHI5d0t1UDd5aUppQ2IzUXZOTEt3Ym10LU8xOUhDRDN4dWlQWFpoTzUydEVabUFFMktDSU1RalFpb2pUbmlnTWVVbTNKYXNPR0UtWm16dmtkcFFMeWlIVUtfZE10SWVUZTVVc0NWYkhVbE9XTENON3FXX20xYm1BSlh3a1JYRXlCa1lkdFFXUFJtMGF4eHo?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GMXJXb0ZTTk9fUTNQX2Z1RVpiRngtdG5Xa2tuT1oyekM3MFVteGJNZktfLTJCa29rdEdaOUxVZHFRSDgtd1paR0NnV3JraVM5b3ZFLVItXzZ2bFZmb18wY0ltdUhJeEh1STd1dW9PbnJtTnZvb04zd0VzOFFPQ1U?oc=5"
+      },
+      {
+        "slug": "ai-news-20260730-auto-2-285994",
+        "title": "Google Streamlines",
+        "category": "AI新闻",
+        "date": "2026-07-30",
+        "summary": "Google Streamlines Gemini App With New AI Controls",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Streamlines 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google Streamlines Gemini App With New AI Controls",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Streamlines Gemini App With New AI Controls",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Mac Observer：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1R5bG9JSk9kWmpPa2FjYjVjZTh1aFA5XzBHU2taYzE3MnVxLTdqWGhKNm0tTWxuaS1mY3B4MkFTNmV6OXFGVEx1blQwTVc5NURsemVkM3FONjUyZlZvVG90clJrcnZQRXdKZ3NGNWdGd0FIR0RLdjU5VzhXZGhydE1MUWZLSEV1Vm4wNw?oc=5"
+          },
+          {
+            "label": "新浪网：北京亦庄要建全域人工智能之城 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GMXJXb0ZTTk9fUTNQX2Z1RVpiRngtdG5Xa2tuT1oyekM3MFVteGJNZktfLTJCa29rdEdaOUxVZHFRSDgtd1paR0NnV3JraVM5b3ZFLVItXzZ2bFZmb18wY0ltdUhJeEh1STd1dW9PbnJtTnZvb04zd0VzOFFPQ1U?oc=5"
+          },
+          {
+            "label": "新浪网：科创人工智能ETF嘉实（589410）跌5.16%，半日成交额767.94万元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdlo1RnRyblgtMzFYbl9Zb1pvR3h3V0I4WlJJOHdWUjJ4VnE3M2xCOVRMTUxTX0R6TWYxSEVHOVJJdjYtYVhhNUJtN2lGa0JWdWRtVnVSR1JIc3ZWUU9vNTI5ZzFtSGV4QUtycWEtNEJUR25xcklWbHFVcHI5d0t1UDd5aUppQ2IzUXZOTEt3Ym10LU8xOUhDRDN4dWlQWFpoTzUydEVabUFFMktDSU1RalFpb2pUbmlnTWVVbTNKYXNPR0UtWm16dmtkcFFMeWlIVUtfZE10SWVUZTVVc0NWYkhVbE9XTENON3FXX20xYm1BSlh3a1JYRXlCa1lkdFFXUFJtMGF4eHo?oc=5"
+          }
+        ],
+        "source": "The Mac Observer",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1R5bG9JSk9kWmpPa2FjYjVjZTh1aFA5XzBHU2taYzE3MnVxLTdqWGhKNm0tTWxuaS1mY3B4MkFTNmV6OXFGVEx1blQwTVc5NURsemVkM3FONjUyZlZvVG90clJrcnZQRXdKZ3NGNWdGd0FIR0RLdjU5VzhXZGhydE1MUWZLSEV1Vm4wNw?oc=5"
+      },
+      {
         "slug": "ai-news-20260728-auto-1-75ffbc",
         "title": "A flex in corporat",
         "category": "AI新闻",
@@ -13971,6 +14087,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260730-auto-1-a5801e",
+        "title": "让AI成为提升文化创作能力的催化剂—",
+        "category": "AI使用教程",
+        "date": "2026-07-30",
+        "summary": "让AI成为提升文化创作能力的催化剂——将投资于物与投资于人紧密结合 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "让AI成为提升文化创作能力的催化剂— 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "让AI成为提升文化创作能力的催化剂——将投资于物与投资于人紧密结合 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "让AI成为提升文化创作能力的催化剂——将投资于物与投资于人紧密结合 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWFPTm5VR0k2UFI2UHBkdk1VU3A0SjZZTVBSeDU1NWZoQVcyYVI0SUZBQ2JjYmJuT1ZoZTdnNVB2M0ZyRm9vZTJESkxVYUdfU2FHeGZ3ZFBuQXRCUUp6bVJUbHpPa2RSQzI3WEZVc2NtTGVnQk9FTXl2MDhZeFNQV0RnY05TRE9M?oc=5"
+          },
+          {
+            "label": "新浪网：AI砸了设计饭碗？ 同济大学辛向阳：设计教育该重视“落地”和跨学科 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblNsVG1PWHZtYkNZM1lOWFl4ajVxS3g0YTFtQVRTZHNRMU1PNmV6Y0JvMm9zUmtkcnVnOW9DazM4MDA2cU9vNlg2cUthN3daemdZZHo3WE1qbXNsNlFFVU16a0llalYxX1FWcTVxeU5mbkNEU0hWRDRxR2s1OTlTVU9pY29jOExfQmtOTzBpdHlld0EtcmwxdTVlcDg0bXJpUzRSSjc5S1QwekFZakZXcHVR?oc=5"
+          },
+          {
+            "label": "新浪网：上半年AI服务交易迎爆发式增长 年轻人开始用AI轻创业丨封面有数 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWkZ5blZ4ZktjanRRd092N21jQnliVE5iWXVtcEJ0U25kUWJYWFRRSU83b1RCbFByQlhMOUI3dW1UNzY1S1lSSnRkRUZMR0IxNUx6S1N6YzFDV0dMb1hsLUMzbXotTExaSWhOMS1GUUJiWHBtYnJFdTNjY180ZzZGUUtuemYyYzRHd2RDVGoteTdQb0J3VGpWZlBKc1NJRE80R2dMYUdhUQ?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWFPTm5VR0k2UFI2UHBkdk1VU3A0SjZZTVBSeDU1NWZoQVcyYVI0SUZBQ2JjYmJuT1ZoZTdnNVB2M0ZyRm9vZTJESkxVYUdfU2FHeGZ3ZFBuQXRCUUp6bVJUbHpPa2RSQzI3WEZVc2NtTGVnQk9FTXl2MDhZeFNQV0RnY05TRE9M?oc=5"
+      },
+      {
         "slug": "ai-guide-20260728-auto-1-41af60",
         "title": "用AI重制老游戏，这些成功案例太震撼",
         "category": "AI使用教程",
@@ -20379,6 +20553,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260730-auto-1-139d47",
+        "title": "开放原子“园区行”走进香港，共筑开源",
+        "category": "开源项目",
+        "date": "2026-07-30",
+        "summary": "开放原子“园区行”走进香港，共筑开源欧拉国际化开源生态 中华网科技频道",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开放原子“园区行”走进香港，共筑开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "开放原子“园区行”走进香港，共筑开源欧拉国际化开源生态 中华网科技频道",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开放原子“园区行”走进香港，共筑开源欧拉国际化开源生态 中华网科技频道",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网科技频道：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZy1jZWxXS0k3NElwWVRKcG9vd2txdmtoQlVSYXpGRThPRFVqSmpvTXM2d1pTYXVLS0tua0lKbEIxRzU5N3FOemZ5N2xqMVRBYnBqdTR1RmRLZm1GQzFocGxaRFJlbVBuZW14dmxn?oc=5"
+          },
+          {
+            "label": "article.9466.com：腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题 - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyeElyVzJhaTFwLUNwb0o0cXZKYXNYbUYycWluWEJCR3A4QUtFSW45cHJKTGtRYWZ5a3hXUXVWeER5cVRGbWNsS2t1azBTcFU?oc=5"
+          },
+          {
+            "label": "China Daily：China reshapes global AI landscape with trillion-parameter open-weight",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FV2F4SmZ0VnBQZVM2MWlHa2EwQTQySEVyVC1lcTZIeXlWSWpHeGNrRi1tbHA4YWxqd1NQcDF6TFRtYUFzNnVld2lZaEJGM1NTOUFvekJCQWVBRGtKZUV0dVlKUHZ6X1lYZVlacjZtZTlOSUI2OElkUkNRMGRRZw?oc=5"
+          }
+        ],
+        "source": "中华网科技频道",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZy1jZWxXS0k3NElwWVRKcG9vd2txdmtoQlVSYXpGRThPRFVqSmpvTXM2d1pTYXVLS0tua0lKbEIxRzU5N3FOemZ5N2xqMVRBYnBqdTR1RmRLZm1GQzFocGxaRFJlbVBuZW14dmxn?oc=5"
+      },
+      {
+        "slug": "open-source-20260730-auto-2-813401",
+        "title": "腾讯开源 AngelSpec 框架：",
+        "category": "开源项目",
+        "date": "2026-07-30",
+        "summary": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题 article.9466.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "腾讯开源 AngelSpec 框架： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题 article.9466.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题 article.9466.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyeElyVzJhaTFwLUNwb0o0cXZKYXNYbUYycWluWEJCR3A4QUtFSW45cHJKTGtRYWZ5a3hXUXVWeER5cVRGbWNsS2t1azBTcFU?oc=5"
+          },
+          {
+            "label": "中华网科技频道：开放原子“园区行”走进香港，共筑开源欧拉国际化开源生态 - 中华网科技频道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZy1jZWxXS0k3NElwWVRKcG9vd2txdmtoQlVSYXpGRThPRFVqSmpvTXM2d1pTYXVLS0tua0lKbEIxRzU5N3FOemZ5N2xqMVRBYnBqdTR1RmRLZm1GQzFocGxaRFJlbVBuZW14dmxn?oc=5"
+          },
+          {
+            "label": "China Daily：China reshapes global AI landscape with trillion-parameter open-weight",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FV2F4SmZ0VnBQZVM2MWlHa2EwQTQySEVyVC1lcTZIeXlWSWpHeGNrRi1tbHA4YWxqd1NQcDF6TFRtYUFzNnVld2lZaEJGM1NTOUFvekJCQWVBRGtKZUV0dVlKUHZ6X1lYZVlacjZtZTlOSUI2OElkUkNRMGRRZw?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyeElyVzJhaTFwLUNwb0o0cXZKYXNYbUYycWluWEJCR3A4QUtFSW45cHJKTGtRYWZ5a3hXUXVWeER5cVRGbWNsS2t1azBTcFU?oc=5"
+      },
       {
         "slug": "open-source-20260728-auto-1-83f76f",
         "title": "NVIDIA, Microsoft,",
