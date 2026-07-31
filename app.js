@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260731-auto-1-ee0c62",
+        "title": "Opinion | Cyberspa",
+        "category": "AI新闻",
+        "date": "2026-07-31",
+        "summary": "Opinion | Cyberspace oddity The Washington Post",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Opinion | Cyberspa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Opinion | Cyberspace oddity The Washington Post",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Opinion | Cyberspace oddity The Washington Post",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3Y2aGtLaUNuMVdiYUJKdXJ5cEdzZkRvbW52REVRVTZOMEt6UlE5R2lrUDRoS01wckZlNkc3LU5ILUJoZTlyRFFNUElBamJRa3pRRFF6S2VSS1dWZGNETmNtbXZoYml0eWFnVmVjUXNFZml1ZE15OEhucHpnZjhyYlVQMW54Q1BxS0ZOR3pWOG5QOUFFY3RkaTFqRnZ4V3Zt?oc=5"
+          },
+          {
+            "label": "PR Newswire：Where AI meets Shanghai: The ecosystem advantage - PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2VHajVOdXFYZHdTN1FqRHBvYzRnTXFpS05XbHJTYzJvMGNwa0t1Wnlyb01lblJFbllaeGJ2dV8tV25LM2U1SXdfSmdJNmJiMXBoaXAxQWQ2UGYwVERPRlZtVi1RR1FTamdjenB6ZjJ6Q01GX2dTc2tvS18xYVYtd1VhTEdsYlNoSEt4V082RjdVYzVVVkI5a2Nkcmw5emsxWVFaazln?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：“AI+”专业遍地开花，是500万人才缺口下的冲动？ - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVXNyTTNDQ0k5VGRNUUNlWHFIczQzSnhMTVYxV3hkZHVaWDlxTWNrSVQyLThmdzdjbzBNTkdDQkNoQWNTU1o3R3k0MEtqQ1VmeThmNUdaU3ExRWdzUFl1NkJDWVdOWlZUeE5FNFNkNTBvQQ?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3Y2aGtLaUNuMVdiYUJKdXJ5cEdzZkRvbW52REVRVTZOMEt6UlE5R2lrUDRoS01wckZlNkc3LU5ILUJoZTlyRFFNUElBamJRa3pRRFF6S2VSS1dWZGNETmNtbXZoYml0eWFnVmVjUXNFZml1ZE15OEhucHpnZjhyYlVQMW54Q1BxS0ZOR3pWOG5QOUFFY3RkaTFqRnZ4V3Zt?oc=5"
+      },
+      {
+        "slug": "ai-news-20260731-auto-2-68f3a8",
+        "title": "Where AI meets Sha",
+        "category": "AI新闻",
+        "date": "2026-07-31",
+        "summary": "Where AI meets Shanghai: The ecosystem advantage P",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Where AI meets Sha 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Where AI meets Shanghai: The ecosystem advantage P",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Where AI meets Shanghai: The ecosystem advantage P",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PR Newswire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2VHajVOdXFYZHdTN1FqRHBvYzRnTXFpS05XbHJTYzJvMGNwa0t1Wnlyb01lblJFbllaeGJ2dV8tV25LM2U1SXdfSmdJNmJiMXBoaXAxQWQ2UGYwVERPRlZtVi1RR1FTamdjenB6ZjJ6Q01GX2dTc2tvS18xYVYtd1VhTEdsYlNoSEt4V082RjdVYzVVVkI5a2Nkcmw5emsxWVFaazln?oc=5"
+          },
+          {
+            "label": "The Washington Post：Opinion | Cyberspace oddity - The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3Y2aGtLaUNuMVdiYUJKdXJ5cEdzZkRvbW52REVRVTZOMEt6UlE5R2lrUDRoS01wckZlNkc3LU5ILUJoZTlyRFFNUElBamJRa3pRRFF6S2VSS1dWZGNETmNtbXZoYml0eWFnVmVjUXNFZml1ZE15OEhucHpnZjhyYlVQMW54Q1BxS0ZOR3pWOG5QOUFFY3RkaTFqRnZ4V3Zt?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：“AI+”专业遍地开花，是500万人才缺口下的冲动？ - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zVXNyTTNDQ0k5VGRNUUNlWHFIczQzSnhMTVYxV3hkZHVaWDlxTWNrSVQyLThmdzdjbzBNTkdDQkNoQWNTU1o3R3k0MEtqQ1VmeThmNUdaU3ExRWdzUFl1NkJDWVdOWlZUeE5FNFNkNTBvQQ?oc=5"
+          }
+        ],
+        "source": "PR Newswire",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2VHajVOdXFYZHdTN1FqRHBvYzRnTXFpS05XbHJTYzJvMGNwa0t1Wnlyb01lblJFbllaeGJ2dV8tV25LM2U1SXdfSmdJNmJiMXBoaXAxQWQ2UGYwVERPRlZtVi1RR1FTamdjenB6ZjJ6Q01GX2dTc2tvS18xYVYtd1VhTEdsYlNoSEt4V082RjdVYzVVVkI5a2Nkcmw5emsxWVFaazln?oc=5"
+      },
+      {
         "slug": "ai-news-20260730-auto-1-46956d",
         "title": "北京亦庄要建全域人工智能之城 - 新",
         "category": "AI新闻",
@@ -14087,6 +14203,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260731-auto-1-7d2e2e",
+        "title": "AI焚袂教程：5步从被信息淹没到主动",
+        "category": "AI使用教程",
+        "date": "2026-07-31",
+        "summary": "AI焚袂教程：5步从被信息淹没到主动提炼 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI焚袂教程：5步从被信息淹没到主动 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI焚袂教程：5步从被信息淹没到主动提炼 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI焚袂教程：5步从被信息淹没到主动提炼 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNY2lWZXVNWW9BbHEtT2FLRUt1OTZvektnLVA1MkZObFlOSjZIVFRLU0x0MzN0OWpaUVFaZ1JNQUd0TmotSGVzZ2JtM2RyUkFTT1hYYjg1U0kwUEFiMTlKbVVwalJmYk91cnl0MW9IMmhrSW82WjhCVC1QX0FURG8?oc=5"
+          },
+          {
+            "label": "Jaro Education：AI Prompt Engineering for Business Professionals 2026: A Practical Gui",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUlhVmNfZUctNWFkY0ZHbkxTd3RzSEFRLUZ3S21zUFBDS3VqLTQ1U3JtQ29SMi1zekZqLU14eGY3MVAyVG9rNVQ5cWdzYTBpcGZIUUNaS2h3LTZvYURGbXZDbFQwdF8xMXJ5M0xMSzRvNjVIaG9UcEsyUTdhSXpIbVg3U1otc1FWb2RF?oc=5"
+          },
+          {
+            "label": "HackerNoon：Prompt Engineering Is No More - Strategic Thinking Has Returned - Hack",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2hmdkNEcTdTZGJDeHZNeHlzUEhrOU41VUJLSzBETGtXZ1g0QXVTUndHU3E3dzAyaXZsX283aWZxeEg5V0laMnFtbjZDMTExYWIxekx3WDJfVUlSX1c5V0kzZFVRU2xOcF9WbWV6Rkh1dVExMC1PQUpRcXFONTUtem1hTFEwLW1wcnNYNw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNY2lWZXVNWW9BbHEtT2FLRUt1OTZvektnLVA1MkZObFlOSjZIVFRLU0x0MzN0OWpaUVFaZ1JNQUd0TmotSGVzZ2JtM2RyUkFTT1hYYjg1U0kwUEFiMTlKbVVwalJmYk91cnl0MW9IMmhrSW82WjhCVC1QX0FURG8?oc=5"
+      },
+      {
         "slug": "ai-guide-20260730-auto-1-a5801e",
         "title": "让AI成为提升文化创作能力的催化剂—",
         "category": "AI使用教程",
@@ -20553,6 +20727,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260731-auto-1-18d795",
+        "title": "OpenAI新开源：AI「白帽」，专",
+        "category": "开源项目",
+        "date": "2026-07-31",
+        "summary": "OpenAI新开源：AI「白帽」，专挖代码漏洞 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI新开源：AI「白帽」，专 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI新开源：AI「白帽」，专挖代码漏洞 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI新开源：AI「白帽」，专挖代码漏洞 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03d3ZNbGdaN2RkejdxaVo0X1NCWW8ySEVOOTJJcjByaWdnQkptSlJ3Z1NmYlBpdXNjV3FPT05paWRZZ2d5cGVDTw?oc=5"
+          },
+          {
+            "label": "OSCHINA：Anthropic 的 AI 摸到了密码学天花板 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNQ0dQVnVHTW5LZHc0bzdkeDhCdGxRY3ViQWoxMjZaUXg5SnhnUkRiUHpnZnFlem1ZLTBRU3lRUS1KQXFSbW5iM2MwUQ?oc=5"
+          },
+          {
+            "label": "Businesskorea：LG AI Research Unveils 750B AI Model - Businesskorea",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MQ0lqV25yZ2R4a2IzWTQ4b1VnaTJkZU02d0t4aTRLYWNKaWhEX2dVekQwMkw0T0VaTDRPVzRmZFRyZWFOdmMwMmJLSG9zRWk2ckF5NUJWcDhBdVVzVFRscnl4ZTNITC12Wkx5VFRwRjVrYTRE?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03d3ZNbGdaN2RkejdxaVo0X1NCWW8ySEVOOTJJcjByaWdnQkptSlJ3Z1NmYlBpdXNjV3FPT05paWRZZ2d5cGVDTw?oc=5"
+      },
+      {
+        "slug": "open-source-20260731-auto-2-fabf1c",
+        "title": "Anthropic 的 AI 摸到了",
+        "category": "开源项目",
+        "date": "2026-07-31",
+        "summary": "Anthropic 的 AI 摸到了密码学天花板 - OSCHINA - 开源 × AI · 开发者",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic 的 AI 摸到了 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic 的 AI 摸到了密码学天花板 - OSCHINA - 开源 × AI · 开发者",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic 的 AI 摸到了密码学天花板 - OSCHINA - 开源 × AI · 开发者",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNQ0dQVnVHTW5LZHc0bzdkeDhCdGxRY3ViQWoxMjZaUXg5SnhnUkRiUHpnZnFlem1ZLTBRU3lRUS1KQXFSbW5iM2MwUQ?oc=5"
+          },
+          {
+            "label": "智源社区：OpenAI新开源：AI「白帽」，专挖代码漏洞 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03d3ZNbGdaN2RkejdxaVo0X1NCWW8ySEVOOTJJcjByaWdnQkptSlJ3Z1NmYlBpdXNjV3FPT05paWRZZ2d5cGVDTw?oc=5"
+          },
+          {
+            "label": "Businesskorea：LG AI Research Unveils 750B AI Model - Businesskorea",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MQ0lqV25yZ2R4a2IzWTQ4b1VnaTJkZU02d0t4aTRLYWNKaWhEX2dVekQwMkw0T0VaTDRPVzRmZFRyZWFOdmMwMmJLSG9zRWk2ckF5NUJWcDhBdVVzVFRscnl4ZTNITC12Wkx5VFRwRjVrYTRE?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNQ0dQVnVHTW5LZHc0bzdkeDhCdGxRY3ViQWoxMjZaUXg5SnhnUkRiUHpnZnFlem1ZLTBRU3lRUS1KQXFSbW5iM2MwUQ?oc=5"
+      },
       {
         "slug": "open-source-20260730-auto-1-139d47",
         "title": "开放原子“园区行”走进香港，共筑开源",
