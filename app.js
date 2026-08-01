@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260801-auto-1-5abba2",
+        "title": "5年翻3倍！AI爆发的底气，藏在绿电",
+        "category": "AI新闻",
+        "date": "2026-08-01",
+        "summary": "5年翻3倍！AI爆发的底气，藏在绿电里→ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "5年翻3倍！AI爆发的底气，藏在绿电 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "5年翻3倍！AI爆发的底气，藏在绿电里→ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "5年翻3倍！AI爆发的底气，藏在绿电里→ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10clA0RmZ6T3RlRlp1MGZhOVNqR0llck1IeHBfRlVhcWZJdDZhSlJsLVF4RmZCbXdHNWxlT2U1bm9YMVFhc2pGakJZczl4X3J0SzJiMVZrV3RQRnRCM2p2ZlNDbHNsLWlDUjlUTWl3bnNzc0t5aHpUMFlKQXBwS2s?oc=5"
+          },
+          {
+            "label": "中华网：森辰智算：深耕算法备案全流程，助力 AI 企业高效过审合规运营 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zb1lVM0dIUVR0QlZ5YlJPMkV4M2kzOENaRXJJclFJc1BCdmd6bDBneW5ZRU5QaG9vREd0eUtjU3ZSN1BnV1oxZGd0VFNpSmQ2dDhUMl9LaWJFWjRPaGJQRUtLVHp4aTNPWVE3dA?oc=5"
+          },
+          {
+            "label": "Benzinga：OpenAI Investigates More Autonomous AI Agent Breakouts After Hugging F",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNXdGUTdkSkR3Q3hScXhWdGI0T3Z1a051b3N0aU5Kc25iUndnYUI4NEk2MVpyanNsV3IyeThOX3ZJdmlTQlE3ZGh6RVNLdHRlWUEwUDllNkFSVF96U0ZkRFF6MkxDR1VwYVczRDdxTWhyVTdSajIzUGp4RDdqTFJaWm40OFRSdU5KSHlhZFZHM3A4ZUQ2R0lXVlBHOXlIV21lY2NKUVJzbWlEUFNsUllacjkxa2p6RFkzRGp4bFB0RmFLZUMwbTJhSmM3Z2tYYjlkZDczZGZfVDRyR25qa2llNTd2Mjh2bGJGd1J5TW1vbUktYy1QNVkzU2NFRHJEZThWM3Br?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10clA0RmZ6T3RlRlp1MGZhOVNqR0llck1IeHBfRlVhcWZJdDZhSlJsLVF4RmZCbXdHNWxlT2U1bm9YMVFhc2pGakJZczl4X3J0SzJiMVZrV3RQRnRCM2p2ZlNDbHNsLWlDUjlUTWl3bnNzc0t5aHpUMFlKQXBwS2s?oc=5"
+      },
+      {
+        "slug": "ai-news-20260801-auto-2-d92a6a",
+        "title": "森辰智算：深耕算法备案全流程，助力",
+        "category": "AI新闻",
+        "date": "2026-08-01",
+        "summary": "森辰智算：深耕算法备案全流程，助力 AI 企业高效过审合规运营 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "森辰智算：深耕算法备案全流程，助力 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "森辰智算：深耕算法备案全流程，助力 AI 企业高效过审合规运营 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "森辰智算：深耕算法备案全流程，助力 AI 企业高效过审合规运营 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zb1lVM0dIUVR0QlZ5YlJPMkV4M2kzOENaRXJJclFJc1BCdmd6bDBneW5ZRU5QaG9vREd0eUtjU3ZSN1BnV1oxZGd0VFNpSmQ2dDhUMl9LaWJFWjRPaGJQRUtLVHp4aTNPWVE3dA?oc=5"
+          },
+          {
+            "label": "手机新浪网：5年翻3倍！AI爆发的底气，藏在绿电里→ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10clA0RmZ6T3RlRlp1MGZhOVNqR0llck1IeHBfRlVhcWZJdDZhSlJsLVF4RmZCbXdHNWxlT2U1bm9YMVFhc2pGakJZczl4X3J0SzJiMVZrV3RQRnRCM2p2ZlNDbHNsLWlDUjlUTWl3bnNzc0t5aHpUMFlKQXBwS2s?oc=5"
+          },
+          {
+            "label": "Benzinga：OpenAI Investigates More Autonomous AI Agent Breakouts After Hugging F",
+            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNXdGUTdkSkR3Q3hScXhWdGI0T3Z1a051b3N0aU5Kc25iUndnYUI4NEk2MVpyanNsV3IyeThOX3ZJdmlTQlE3ZGh6RVNLdHRlWUEwUDllNkFSVF96U0ZkRFF6MkxDR1VwYVczRDdxTWhyVTdSajIzUGp4RDdqTFJaWm40OFRSdU5KSHlhZFZHM3A4ZUQ2R0lXVlBHOXlIV21lY2NKUVJzbWlEUFNsUllacjkxa2p6RFkzRGp4bFB0RmFLZUMwbTJhSmM3Z2tYYjlkZDczZGZfVDRyR25qa2llNTd2Mjh2bGJGd1J5TW1vbUktYy1QNVkzU2NFRHJEZThWM3Br?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zb1lVM0dIUVR0QlZ5YlJPMkV4M2kzOENaRXJJclFJc1BCdmd6bDBneW5ZRU5QaG9vREd0eUtjU3ZSN1BnV1oxZGd0VFNpSmQ2dDhUMl9LaWJFWjRPaGJQRUtLVHp4aTNPWVE3dA?oc=5"
+      },
+      {
         "slug": "ai-news-20260731-auto-1-ee0c62",
         "title": "Opinion | Cyberspa",
         "category": "AI新闻",
@@ -14203,6 +14319,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260801-auto-1-9dee25",
+        "title": "Forest Dept Employ",
+        "category": "AI使用教程",
+        "date": "2026-08-01",
+        "summary": "Forest Dept Employees learn AI Applications at Gra",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Forest Dept Employ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Forest Dept Employees learn AI Applications at Gra",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Forest Dept Employees learn AI Applications at Gra",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Garhwal Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjdaX1pUUjlkaThlZThWVDZaWTk1R0RzYlY3Y2hKUDJ3Y2d6d1VfRUFfMDlSVkYzVWV4MjlNWXpqcGM4WW9GVHhSTXYwX0M4X0ljbm9QaDNWVnd3TzJ3ZEFQLVdwdXBxaE9mcXJha2tZaFdjNUNYdXJzeEZ5aUJMSndKSWZ4SlV0SWc?oc=5"
+          },
+          {
+            "label": "video.sina.com.cn：加议员发言直接念出ai提示词 - video.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFoxTlpsZm1wdEdoNjBuMjVvaHBzV2dTQmJvWDU0UDVILS1BNEJITS1uWkdwaUp1TmZpUUlZVmVabmJQc25tVlZkQ1RsWXpuTC1EZU4ycnFkT0hmY3lyaU9DeUdSWF9ReTk2R2RZMEtTMVFjdFBnSFFrR3pBYXpuTlRB?oc=5"
+          },
+          {
+            "label": "新浪财经：加议员发言直接念出ai提示词 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhUS1QUzFGQS1walBCMk9OT2JOc0dpWEZwRXFOZV9NR1RYRDZ6NWtwYzVmS2RKNUNaVXc5ZjN1UmpzbWZQWFBmTDY2WQ?oc=5"
+          }
+        ],
+        "source": "Garhwal Post",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjdaX1pUUjlkaThlZThWVDZaWTk1R0RzYlY3Y2hKUDJ3Y2d6d1VfRUFfMDlSVkYzVWV4MjlNWXpqcGM4WW9GVHhSTXYwX0M4X0ljbm9QaDNWVnd3TzJ3ZEFQLVdwdXBxaE9mcXJha2tZaFdjNUNYdXJzeEZ5aUJMSndKSWZ4SlV0SWc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260731-auto-1-7d2e2e",
         "title": "AI焚袂教程：5步从被信息淹没到主动",
         "category": "AI使用教程",
@@ -20727,6 +20901,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260801-auto-1-70239f",
+        "title": "社区供稿 | Jina Rerank",
+        "category": "开源项目",
+        "date": "2026-08-01",
+        "summary": "社区供稿 | Jina Reranker v3.5：专注垂直领域的 0.6B 列表式重排器 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "社区供稿 | Jina Rerank 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "社区供稿 | Jina Reranker v3.5：专注垂直领域的 0.6B 列表式重排器 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "社区供稿 | Jina Reranker v3.5：专注垂直领域的 0.6B 列表式重排器 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uS2ExVEc1QkZTd1U2cFJ5aEVhXzNmVzFJSFRjRGN1MnJsdkRRbEpodFBYYlF1RjFLUzl5VmxLbnptUnBzcTNsSQ?oc=5"
+          },
+          {
+            "label": "01net：Zilliz Announces Milvus 3.0, Making the World's Most Adopted Open-Sour",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWdDNGR2eHY1NzJCUXg1eGVaVENHTFpNbEtna0pMbU9QTmlhZTU3RG4xeFNYVXhCcUxBQThmTUNpZE5KdG9LV05sZnhNYkRtY0VHN0FvOGtRdWVER3ctRUFUVFUzMzFkYl9DZmJ2Ui0wMTBxRm5EenBfV2pKMWJIUTlWalVweGZGd1dlVGxqdVdOR2s0eVJVcTdrTkNqVVlZX2Y2ZDQyR2M1cGtDd1JYSlpzaFU4RVNOa3AxUg?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：新型开源字体ShieldFont让抓取内容变成乱码 巧用特殊字体对付AI爬虫 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRGRMTmxWX2VEY0JHMXBLM1ZFYmFLRkpwX29FRXFXaWVLT09kaTR6WF9pRjVxZG5ySUdjMFFfM1RHRW1jM19VZ0RJZE54dDVUZkFoaTBaYU9KdnBaNThKVw?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uS2ExVEc1QkZTd1U2cFJ5aEVhXzNmVzFJSFRjRGN1MnJsdkRRbEpodFBYYlF1RjFLUzl5VmxLbnptUnBzcTNsSQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260801-auto-2-1afdd9",
+        "title": "Zilliz Announces M",
+        "category": "开源项目",
+        "date": "2026-08-01",
+        "summary": "Zilliz Announces Milvus 3.0, Making the World's Mo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Zilliz Announces M 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Zilliz Announces Milvus 3.0, Making the World's Mo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Zilliz Announces Milvus 3.0, Making the World's Mo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "01net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWdDNGR2eHY1NzJCUXg1eGVaVENHTFpNbEtna0pMbU9QTmlhZTU3RG4xeFNYVXhCcUxBQThmTUNpZE5KdG9LV05sZnhNYkRtY0VHN0FvOGtRdWVER3ctRUFUVFUzMzFkYl9DZmJ2Ui0wMTBxRm5EenBfV2pKMWJIUTlWalVweGZGd1dlVGxqdVdOR2s0eVJVcTdrTkNqVVlZX2Y2ZDQyR2M1cGtDd1JYSlpzaFU4RVNOa3AxUg?oc=5"
+          },
+          {
+            "label": "智源社区：社区供稿 | Jina Reranker v3.5：专注垂直领域的 0.6B 列表式重排器 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uS2ExVEc1QkZTd1U2cFJ5aEVhXzNmVzFJSFRjRGN1MnJsdkRRbEpodFBYYlF1RjFLUzl5VmxLbnptUnBzcTNsSQ?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：新型开源字体ShieldFont让抓取内容变成乱码 巧用特殊字体对付AI爬虫 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRGRMTmxWX2VEY0JHMXBLM1ZFYmFLRkpwX29FRXFXaWVLT09kaTR6WF9pRjVxZG5ySUdjMFFfM1RHRW1jM19VZ0RJZE54dDVUZkFoaTBaYU9KdnBaNThKVw?oc=5"
+          }
+        ],
+        "source": "01net",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWdDNGR2eHY1NzJCUXg1eGVaVENHTFpNbEtna0pMbU9QTmlhZTU3RG4xeFNYVXhCcUxBQThmTUNpZE5KdG9LV05sZnhNYkRtY0VHN0FvOGtRdWVER3ctRUFUVFUzMzFkYl9DZmJ2Ui0wMTBxRm5EenBfV2pKMWJIUTlWalVweGZGd1dlVGxqdVdOR2s0eVJVcTdrTkNqVVlZX2Y2ZDQyR2M1cGtDd1JYSlpzaFU4RVNOa3AxUg?oc=5"
+      },
       {
         "slug": "open-source-20260731-auto-1-18d795",
         "title": "OpenAI新开源：AI「白帽」，专",
