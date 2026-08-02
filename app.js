@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260802-auto-1-0d850c",
+        "title": "3 Brilliant Artifi",
+        "category": "AI新闻",
+        "date": "2026-08-02",
+        "summary": "3 Brilliant Artificial Intelligence (AI) Stocks Bi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "3 Brilliant Artifi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "3 Brilliant Artificial Intelligence (AI) Stocks Bi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "3 Brilliant Artificial Intelligence (AI) Stocks Bi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Motley Fool：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5"
+          },
+          {
+            "label": "thenationalnews.com：It's AI problem now: Why bots attacking their brethren could quickly t",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0xDYVc1eDBfVHUyQlFLcTJyMjRrdVdxMGctYlltSXF2WHdITlBHbmhGSW02Qm5qWFZiQXdibDJQbTJRMkdSbFplOWRWX1FubnMtVkJYV3pCZUdpbWpnZzdkck9lVWNqR0Rsc1o1d1ltNmxBSGR6SUdOMF9kN2ZGVHQwR25LeXFROWVQUlgxM2dIRXk0Y3pvb3JsT19zakVHeVV0Y3VoM25mckdBVTViYmdUU1dnd1VDUXVjQkNNTjZLbzFnQzZSOFllWlhLNnNWdlgyUw?oc=5"
+          },
+          {
+            "label": "手机新浪网：高翔：积极推进人工智能在考古学中的应用 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wR3hOaTBPanUtTDY5TXdZZ2VoQnUyLVpESmJLOHZGdlJJc1B2Nmw2dHhpeXpackFJTngtbXMwTXFrUEY2bmxLRlpObmVNaFV6LV94cmRlYmVwUzFQRjhmNjJReVNzT3VoTHRKVVNjb01WZHF5VGVlWDVYM2o1UQ?oc=5"
+          }
+        ],
+        "source": "The Motley Fool",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260802-auto-2-a2e4b7",
+        "title": "It's AI problem no",
+        "category": "AI新闻",
+        "date": "2026-08-02",
+        "summary": "It's AI problem now: Why bots attacking their bret",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "It's AI problem no 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "It's AI problem now: Why bots attacking their bret",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "It's AI problem now: Why bots attacking their bret",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thenationalnews.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0xDYVc1eDBfVHUyQlFLcTJyMjRrdVdxMGctYlltSXF2WHdITlBHbmhGSW02Qm5qWFZiQXdibDJQbTJRMkdSbFplOWRWX1FubnMtVkJYV3pCZUdpbWpnZzdkck9lVWNqR0Rsc1o1d1ltNmxBSGR6SUdOMF9kN2ZGVHQwR25LeXFROWVQUlgxM2dIRXk0Y3pvb3JsT19zakVHeVV0Y3VoM25mckdBVTViYmdUU1dnd1VDUXVjQkNNTjZLbzFnQzZSOFllWlhLNnNWdlgyUw?oc=5"
+          },
+          {
+            "label": "The Motley Fool：3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackma",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUkyREtVR01kbXhlRXpacjJTM2t5UnlIRV9fY2h3dmRwck9rejZGcFdYZnctd3BUWXBVTDhMRnNGQ2ZSMXlad1F5S0dtMTI3dno3WXRweFBQR2JkWjhUOWFhNDluenNwb2ZrQ1pwWTMwOXZuUklqNUZtN213ckV2QkJXMjFUckVINDVqLTBMZU5nMFVCVVJ2aA?oc=5"
+          },
+          {
+            "label": "手机新浪网：高翔：积极推进人工智能在考古学中的应用 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wR3hOaTBPanUtTDY5TXdZZ2VoQnUyLVpESmJLOHZGdlJJc1B2Nmw2dHhpeXpackFJTngtbXMwTXFrUEY2bmxLRlpObmVNaFV6LV94cmRlYmVwUzFQRjhmNjJReVNzT3VoTHRKVVNjb01WZHF5VGVlWDVYM2o1UQ?oc=5"
+          }
+        ],
+        "source": "thenationalnews.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0xDYVc1eDBfVHUyQlFLcTJyMjRrdVdxMGctYlltSXF2WHdITlBHbmhGSW02Qm5qWFZiQXdibDJQbTJRMkdSbFplOWRWX1FubnMtVkJYV3pCZUdpbWpnZzdkck9lVWNqR0Rsc1o1d1ltNmxBSGR6SUdOMF9kN2ZGVHQwR25LeXFROWVQUlgxM2dIRXk0Y3pvb3JsT19zakVHeVV0Y3VoM25mckdBVTViYmdUU1dnd1VDUXVjQkNNTjZLbzFnQzZSOFllWlhLNnNWdlgyUw?oc=5"
+      },
+      {
         "slug": "ai-news-20260801-auto-1-5abba2",
         "title": "5年翻3倍！AI爆发的底气，藏在绿电",
         "category": "AI新闻",
@@ -14319,6 +14435,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260802-auto-1-633a60",
+        "title": "AI音乐独角兽估值冲上54亿美元 “",
+        "category": "AI使用教程",
+        "date": "2026-08-02",
+        "summary": "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI音乐独角兽估值冲上54亿美元 “ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 财联社",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "财联社：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "大纪元：生成假圖像 谷歌撤回衛星圖像AI製圖工具 - 大纪元",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSGd2MFBoWEhxRmtSYlZxYkRLVWp0eEJtUkU0TjBMZ1J3VjNfZnVBU2xVai1MUEZyb21VVExJYmlyRkRvSGxoamNfaTZoYmMxSVQ1N1ptdVkzWlVMSmdxUHliTy3SAWRBVV95cUxPakhndjBQaFhIcUZrUmJWcWJES1VqdHhCbVJFNE4wTGdSd1YzX2Z1QVNsVWotTFBGcm9tVVRMSWJpckZEb0hsaGpjX2k2aGJjMUlUNTdabXVZM1pVTEpncVB5Yk8t?oc=5"
+          },
+          {
+            "label": "nerdbot：AI Prompt Generator: Why Effective Prompts Are Shaping the Future of A",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFlEYTg0a3c1eklMNEJlTzZ0dFpmYmF0RnNQY2JZcjRpd2hEdzhiY1dIVGRHWkVxM1JzTW9zRlNleEgxdEdrbm1vdXI0UU9qeEVIeWVab0gwMXkwM3JJTmp6RDkyR0ctai00aFBwN0xNN3JhNGJpcThyWnV4b0U2NkdGblIxQkJUelM4N0ttVE9SSHc5T09abGNGemJjNDdwcFN5dlNDYkdfMVVuaUVqTWc2eUpGdGRpOEdRV3pUNUI?oc=5"
+          }
+        ],
+        "source": "财联社",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260801-auto-1-9dee25",
         "title": "Forest Dept Employ",
         "category": "AI使用教程",
@@ -20901,6 +21075,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260802-auto-1-dbc779",
+        "title": "OpenAI Test AI Bre",
+        "category": "开源项目",
+        "date": "2026-08-02",
+        "summary": "OpenAI Test AI Breaks Out, Reaches Hugging Face Br",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI Test AI Bre 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI Test AI Breaks Out, Reaches Hugging Face Br",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI Test AI Breaks Out, Reaches Hugging Face Br",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Briefs Finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGw1aldfOWRCQVNfVi1ZS3pQaTdzV3dEeXBlV1Y0bDYtdlhNR1BINURuSmk3bjRNd2N3VHhuMmFwSmdoYkJmc2JfQk1FUElPVm1vMnNwcVN6MU45X3RONW03SW5wSC1Td2gzc25zT2pKQWw2SV9pcE5wS1dmTnFYQmVfRlJrQQ?oc=5"
+          },
+          {
+            "label": "36 Kr：“榨”出硅的极限：怎么让GPU不“闲着”？ - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSFBQNDVTMm4xVGVzX3JMNm5sNy1LYmdqWlA5VHdKcGhoTDB0TVcyd0wzclkxSGFKS1JrVlQwcU5ZLUtqc042T19sWm1JbHpy?oc=5"
+          },
+          {
+            "label": "手机新浪网：中国大模型企业为何选择开源？开放才有更大受众 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYa3lnWXEyeEx2YUJSbmh3QWtIcUsxVlduX3htSG1xdVJNVXZPNXNmUkIyVlIxa0hrU2FxeDM5N1hmR1FhT05kSUl6NG1Od0ZBU1hLQmpaWTA1S2JzeW5KUGNTYWlmMW1CVEQwZnhXWndoRnlDdl9SVzIxUHRIM0k?oc=5"
+          }
+        ],
+        "source": "Briefs Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGw1aldfOWRCQVNfVi1ZS3pQaTdzV3dEeXBlV1Y0bDYtdlhNR1BINURuSmk3bjRNd2N3VHhuMmFwSmdoYkJmc2JfQk1FUElPVm1vMnNwcVN6MU45X3RONW03SW5wSC1Td2gzc25zT2pKQWw2SV9pcE5wS1dmTnFYQmVfRlJrQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260802-auto-2-f26550",
+        "title": "“榨”出硅的极限：怎么让GPU不“闲",
+        "category": "开源项目",
+        "date": "2026-08-02",
+        "summary": "“榨”出硅的极限：怎么让GPU不“闲着”？ 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“榨”出硅的极限：怎么让GPU不“闲 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“榨”出硅的极限：怎么让GPU不“闲着”？ 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“榨”出硅的极限：怎么让GPU不“闲着”？ 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSFBQNDVTMm4xVGVzX3JMNm5sNy1LYmdqWlA5VHdKcGhoTDB0TVcyd0wzclkxSGFKS1JrVlQwcU5ZLUtqc042T19sWm1JbHpy?oc=5"
+          },
+          {
+            "label": "Briefs Finance：OpenAI Test AI Breaks Out, Reaches Hugging Face - Briefs Finance",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVGw1aldfOWRCQVNfVi1ZS3pQaTdzV3dEeXBlV1Y0bDYtdlhNR1BINURuSmk3bjRNd2N3VHhuMmFwSmdoYkJmc2JfQk1FUElPVm1vMnNwcVN6MU45X3RONW03SW5wSC1Td2gzc25zT2pKQWw2SV9pcE5wS1dmTnFYQmVfRlJrQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：中国大模型企业为何选择开源？开放才有更大受众 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYa3lnWXEyeEx2YUJSbmh3QWtIcUsxVlduX3htSG1xdVJNVXZPNXNmUkIyVlIxa0hrU2FxeDM5N1hmR1FhT05kSUl6NG1Od0ZBU1hLQmpaWTA1S2JzeW5KUGNTYWlmMW1CVEQwZnhXWndoRnlDdl9SVzIxUHRIM0k?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSFBQNDVTMm4xVGVzX3JMNm5sNy1LYmdqWlA5VHdKcGhoTDB0TVcyd0wzclkxSGFKS1JrVlQwcU5ZLUtqc042T19sWm1JbHpy?oc=5"
+      },
       {
         "slug": "open-source-20260801-auto-1-70239f",
         "title": "社区供稿 | Jina Rerank",
