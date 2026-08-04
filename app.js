@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260804-auto-1-e0a9f8",
+        "title": "特别报道丨AI手机来了，硬件只是跳板",
+        "category": "AI新闻",
+        "date": "2026-08-04",
+        "summary": "特别报道丨AI手机来了，硬件只是跳板？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "特别报道丨AI手机来了，硬件只是跳板 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "特别报道丨AI手机来了，硬件只是跳板？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "特别报道丨AI手机来了，硬件只是跳板？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01LTVlNHVFMHBiSzRkYllrcGc5LXBteVJGTk42dDg2SlN2RFpJelR6VlkzUXF6SmZTLUgyYi16Y3pKb3BrT3U1eE91X1VPdWhOMGdtM2VRVFpHUkJsYlBpOHNiWkM5VEs5bVRXWUVIOTRCaEF0SHlPQ3pXRUl2QXM?oc=5"
+          },
+          {
+            "label": "新浪网：特别报道丨AI手机：从合规放行到产业爆发仍面临多维度挑战 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SRk9YbDlab2tNbGpKbm1hTHpqNkFJclp1OTA5b0FDWHVkbnZqdVFxZlI4WC04QlRYNVVNRDNLTUxDNDFQa3lUS0xvM2Rsekx3STJyQ01aV2JzSlNTQmJmejkwd21JVHd5Q3hCQUFBT3VtYjBmYUQtTUVwTjU5eTg?oc=5"
+          },
+          {
+            "label": "多知网：1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？|财报会 - 多知网",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tck1mTXJTV1B0b3M0bk5TWFBEeng1ZlNtNEFMV0VUQW5Jdy11RzlIVDdJd0xfb3luNjFKc1IxWTZVSU4zYlJHRVF2TjJtc1RsQnlHUGtXVE5YcHFtSjIzOVMzeGVKN3dVM2c?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01LTVlNHVFMHBiSzRkYllrcGc5LXBteVJGTk42dDg2SlN2RFpJelR6VlkzUXF6SmZTLUgyYi16Y3pKb3BrT3U1eE91X1VPdWhOMGdtM2VRVFpHUkJsYlBpOHNiWkM5VEs5bVRXWUVIOTRCaEF0SHlPQ3pXRUl2QXM?oc=5"
+      },
+      {
+        "slug": "ai-news-20260804-auto-2-23309d",
+        "title": "特别报道丨AI手机：从合规放行到产业",
+        "category": "AI新闻",
+        "date": "2026-08-04",
+        "summary": "特别报道丨AI手机：从合规放行到产业爆发仍面临多维度挑战 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "特别报道丨AI手机：从合规放行到产业 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "特别报道丨AI手机：从合规放行到产业爆发仍面临多维度挑战 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "特别报道丨AI手机：从合规放行到产业爆发仍面临多维度挑战 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SRk9YbDlab2tNbGpKbm1hTHpqNkFJclp1OTA5b0FDWHVkbnZqdVFxZlI4WC04QlRYNVVNRDNLTUxDNDFQa3lUS0xvM2Rsekx3STJyQ01aV2JzSlNTQmJmejkwd21JVHd5Q3hCQUFBT3VtYjBmYUQtTUVwTjU5eTg?oc=5"
+          },
+          {
+            "label": "新浪网：特别报道丨AI手机来了，硬件只是跳板？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01LTVlNHVFMHBiSzRkYllrcGc5LXBteVJGTk42dDg2SlN2RFpJelR6VlkzUXF6SmZTLUgyYi16Y3pKb3BrT3U1eE91X1VPdWhOMGdtM2VRVFpHUkJsYlBpOHNiWkM5VEs5bVRXWUVIOTRCaEF0SHlPQ3pXRUl2QXM?oc=5"
+          },
+          {
+            "label": "多知网：1亿美元投给吴恩达，Coursera的AI战略为何“两条腿走路”？|财报会 - 多知网",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Tck1mTXJTV1B0b3M0bk5TWFBEeng1ZlNtNEFMV0VUQW5Jdy11RzlIVDdJd0xfb3luNjFKc1IxWTZVSU4zYlJHRVF2TjJtc1RsQnlHUGtXVE5YcHFtSjIzOVMzeGVKN3dVM2c?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SRk9YbDlab2tNbGpKbm1hTHpqNkFJclp1OTA5b0FDWHVkbnZqdVFxZlI4WC04QlRYNVVNRDNLTUxDNDFQa3lUS0xvM2Rsekx3STJyQ01aV2JzSlNTQmJmejkwd21JVHd5Q3hCQUFBT3VtYjBmYUQtTUVwTjU5eTg?oc=5"
+      },
+      {
         "slug": "ai-news-20260802-auto-1-0d850c",
         "title": "3 Brilliant Artifi",
         "category": "AI新闻",
@@ -14435,6 +14551,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260804-auto-1-416775",
+        "title": "普通人如何转型成为AI训练师？ -",
+        "category": "AI使用教程",
+        "date": "2026-08-04",
+        "summary": "普通人如何转型成为AI训练师？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "普通人如何转型成为AI训练师？ - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "普通人如何转型成为AI训练师？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "普通人如何转型成为AI训练师？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UVU2Zk1pNXQwdThaQTNPM2FoVnQxUEZnOE5rNnh4d1pxMG1rZ2pXdkljdTdRcXhOUGZqSzJ2bWVfbWlQYzZXRVRUUm92V2RDcS0xYTgwN2VvbFI2VHZGZkNNWVp4UHRLbWFHQ29mYmRxTXItODl6SkVjbGNickU?oc=5"
+          },
+          {
+            "label": "OSCHINA：🌱 Qualia 开源：面向 Java 开发者的 AI Agent 框架 - OSCHINA - 开源 × AI · 开发者生态社区 - ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVEtqSGpqX3JiTDc1dGh2ZVJ2elpqLXFYT0gyVHJleXdDandUamhzaEhQNjV6Wnl5RjkwaTJjSGRzbTNOQURDVzlPQQ?oc=5"
+          },
+          {
+            "label": "新浪网：AI应用落地新风口下，普通人的创业机会有哪些？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qWG9iMW8zSlp4X3E3U2VKQ0FiOWF2UXpDdTV4blV1bllnTEpsbVlHUVp0eGVGQlE5a0o3MXFSZ1VDWmVyMnc5WGxsV1J2MU5ra0VhZV9yaFdfZ0M0QVllQ2JPZUFJOEcySzVXUkdzZ1V1bmloM3FWRFh4eHdFY3M?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1UVU2Zk1pNXQwdThaQTNPM2FoVnQxUEZnOE5rNnh4d1pxMG1rZ2pXdkljdTdRcXhOUGZqSzJ2bWVfbWlQYzZXRVRUUm92V2RDcS0xYTgwN2VvbFI2VHZGZkNNWVp4UHRLbWFHQ29mYmRxTXItODl6SkVjbGNickU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260802-auto-1-633a60",
         "title": "AI音乐独角兽估值冲上54亿美元 “",
         "category": "AI使用教程",
@@ -21075,6 +21249,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260804-auto-1-7bb29e",
+        "title": "SK Hynix Unveils F",
+        "category": "开源项目",
+        "date": "2026-08-04",
+        "summary": "SK Hynix Unveils First HBF Standard for AI Acceler",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SK Hynix Unveils F 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "SK Hynix Unveils First HBF Standard for AI Acceler",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SK Hynix Unveils First HBF Standard for AI Acceler",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "조선일보：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3BkNko5ZEZwMUZHckgwMnlKR2hMbTBVUDctdjFaaTh4NVRHa2pWQ2FLNFVxOWtlUURmd1ZRYU4xclRpckk0Yy1oeE5KaVJIakRuZEJiNzJiYWVxZU04ZERNYzJuTWNyUmdOQjg4MmhIWmtTWUdBOXNVRmVubnVQcEk3OWw5clBp?oc=5"
+          },
+          {
+            "label": "OSCHINA：🌱 Qualia 开源：面向 Java 开发者的 AI Agent 框架 - OSCHINA - 开源 × AI · 开发者生态社区 - ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVEtqSGpqX3JiTDc1dGh2ZVJ2elpqLXFYT0gyVHJleXdDandUamhzaEhQNjV6Wnl5RjkwaTJjSGRzbTNOQURDVzlPQQ?oc=5"
+          },
+          {
+            "label": "36 Kr：Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          }
+        ],
+        "source": "조선일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3BkNko5ZEZwMUZHckgwMnlKR2hMbTBVUDctdjFaaTh4NVRHa2pWQ2FLNFVxOWtlUURmd1ZRYU4xclRpckk0Yy1oeE5KaVJIakRuZEJiNzJiYWVxZU04ZERNYzJuTWNyUmdOQjg4MmhIWmtTWUdBOXNVRmVubnVQcEk3OWw5clBp?oc=5"
+      },
+      {
+        "slug": "open-source-20260804-auto-2-65fd31",
+        "title": "🌱 Qualia 开源：面向 Ja",
+        "category": "开源项目",
+        "date": "2026-08-04",
+        "summary": "🌱 Qualia 开源：面向 Java 开发者的 AI Agent 框架 - OSCHINA -",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "🌱 Qualia 开源：面向 Ja 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "🌱 Qualia 开源：面向 Java 开发者的 AI Agent 框架 - OSCHINA -",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "🌱 Qualia 开源：面向 Java 开发者的 AI Agent 框架 - OSCHINA -",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVEtqSGpqX3JiTDc1dGh2ZVJ2elpqLXFYT0gyVHJleXdDandUamhzaEhQNjV6Wnl5RjkwaTJjSGRzbTNOQURDVzlPQQ?oc=5"
+          },
+          {
+            "label": "조선일보：SK Hynix Unveils First HBF Standard for AI Accelerators - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3BkNko5ZEZwMUZHckgwMnlKR2hMbTBVUDctdjFaaTh4NVRHa2pWQ2FLNFVxOWtlUURmd1ZRYU4xclRpckk0Yy1oeE5KaVJIakRuZEJiNzJiYWVxZU04ZERNYzJuTWNyUmdOQjg4MmhIWmtTWUdBOXNVRmVubnVQcEk3OWw5clBp?oc=5"
+          },
+          {
+            "label": "36 Kr：Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTVEtqSGpqX3JiTDc1dGh2ZVJ2elpqLXFYT0gyVHJleXdDandUamhzaEhQNjV6Wnl5RjkwaTJjSGRzbTNOQURDVzlPQQ?oc=5"
+      },
       {
         "slug": "open-source-20260802-auto-1-dbc779",
         "title": "OpenAI Test AI Bre",
