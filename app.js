@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260805-auto-1-ab85ec",
+        "title": "MSU to host Future",
+        "category": "AI新闻",
+        "date": "2026-08-05",
+        "summary": "MSU to host Future of AI conference NBC Montana",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MSU to host Future 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "MSU to host Future of AI conference NBC Montana",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MSU to host Future of AI conference NBC Montana",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NBC Montana：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40RGVJSS1SeEIyanV1aERuQW1ULUJUOEhnV29UVkw5RXhtYVF0Rjl6enRQV1FKZk1pLVRqUFV0eEZqS2xFdzRqQThUX2k5aURQRkY1RlF2bnVXcC13V0J2QjAzdWg1REZvc2tVVFFWeE9FYkNjZ3JsbQ?oc=5"
+          },
+          {
+            "label": "The Daily Upside：Caterpillar’s Surging Growth, Fueled by AI, Faces Risks From Data-Cent",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcUNHTVN3M3JXWGxHTDJyV0h2eUt6eWFLc1JIVnFFU2NSaDhaOG1MR3BuVFFlM2g3SlQ1V3BkWlQzSmxBaWxVeW94Q0NlTWJwM2FsM0VEa1dBWDVaWG1YVTN6Tzdaa29NTUtUWTBOZi1Sb2Z4dU12RkZ1ZUxhVzVwYnllTUpybXlZX1lITzJvR0NBVk5GTjJqejI4ZFF0dW1idzVxZzBVc0d0TkJ6NzAxTHp5MlJJV24yTUZOakZTeUNHNEZiaFByaFpoUlJ4dTJROWZlLUZsYUtjdlI0WERaeEtESkstdDBIalVaRDJ3?oc=5"
+          },
+          {
+            "label": "Russell Webster：Artificial Intelligence in Probation - Russell Webster",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vYTV6WXdNMlRQcHNCVS0ySGZsbHpGMW5TcXVCcEk5djhvRmdIYU56WEE2R1BwaTM3MUZJMnZ6cThGbW9sMTktWXlDOHJYbF9BQ1kzWTFmWXFYbWRITk1RQnNIM0ZXaUZMaERIUkQyT1B1R2pTczFR?oc=5"
+          }
+        ],
+        "source": "NBC Montana",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40RGVJSS1SeEIyanV1aERuQW1ULUJUOEhnV29UVkw5RXhtYVF0Rjl6enRQV1FKZk1pLVRqUFV0eEZqS2xFdzRqQThUX2k5aURQRkY1RlF2bnVXcC13V0J2QjAzdWg1REZvc2tVVFFWeE9FYkNjZ3JsbQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260805-auto-2-70b4e2",
+        "title": "Caterpillar’s Surg",
+        "category": "AI新闻",
+        "date": "2026-08-05",
+        "summary": "Caterpillar’s Surging Growth, Fueled by AI, Faces",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Caterpillar’s Surg 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Caterpillar’s Surging Growth, Fueled by AI, Faces",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Caterpillar’s Surging Growth, Fueled by AI, Faces",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Daily Upside：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcUNHTVN3M3JXWGxHTDJyV0h2eUt6eWFLc1JIVnFFU2NSaDhaOG1MR3BuVFFlM2g3SlQ1V3BkWlQzSmxBaWxVeW94Q0NlTWJwM2FsM0VEa1dBWDVaWG1YVTN6Tzdaa29NTUtUWTBOZi1Sb2Z4dU12RkZ1ZUxhVzVwYnllTUpybXlZX1lITzJvR0NBVk5GTjJqejI4ZFF0dW1idzVxZzBVc0d0TkJ6NzAxTHp5MlJJV24yTUZOakZTeUNHNEZiaFByaFpoUlJ4dTJROWZlLUZsYUtjdlI0WERaeEtESkstdDBIalVaRDJ3?oc=5"
+          },
+          {
+            "label": "NBC Montana：MSU to host Future of AI conference - NBC Montana",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40RGVJSS1SeEIyanV1aERuQW1ULUJUOEhnV29UVkw5RXhtYVF0Rjl6enRQV1FKZk1pLVRqUFV0eEZqS2xFdzRqQThUX2k5aURQRkY1RlF2bnVXcC13V0J2QjAzdWg1REZvc2tVVFFWeE9FYkNjZ3JsbQ?oc=5"
+          },
+          {
+            "label": "Russell Webster：Artificial Intelligence in Probation - Russell Webster",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vYTV6WXdNMlRQcHNCVS0ySGZsbHpGMW5TcXVCcEk5djhvRmdIYU56WEE2R1BwaTM3MUZJMnZ6cThGbW9sMTktWXlDOHJYbF9BQ1kzWTFmWXFYbWRITk1RQnNIM0ZXaUZMaERIUkQyT1B1R2pTczFR?oc=5"
+          }
+        ],
+        "source": "The Daily Upside",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcUNHTVN3M3JXWGxHTDJyV0h2eUt6eWFLc1JIVnFFU2NSaDhaOG1MR3BuVFFlM2g3SlQ1V3BkWlQzSmxBaWxVeW94Q0NlTWJwM2FsM0VEa1dBWDVaWG1YVTN6Tzdaa29NTUtUWTBOZi1Sb2Z4dU12RkZ1ZUxhVzVwYnllTUpybXlZX1lITzJvR0NBVk5GTjJqejI4ZFF0dW1idzVxZzBVc0d0TkJ6NzAxTHp5MlJJV24yTUZOakZTeUNHNEZiaFByaFpoUlJ4dTJROWZlLUZsYUtjdlI0WERaeEtESkstdDBIalVaRDJ3?oc=5"
+      },
+      {
         "slug": "ai-news-20260804-auto-1-e0a9f8",
         "title": "特别报道丨AI手机来了，硬件只是跳板",
         "category": "AI新闻",
@@ -14551,6 +14667,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260805-auto-1-6f36d2",
+        "title": "AI is creating new",
+        "category": "AI使用教程",
+        "date": "2026-08-05",
+        "summary": "AI is creating new ways to earn money online in 20",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI is creating new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI is creating new ways to earn money online in 20",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI is creating new ways to earn money online in 20",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Economic Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW1FeGFzTnVoa0wyNkNWRHJjNkpQeXlqMk0yZ2F1TERzR25SbTZCOGNSMFRqRVdYc2VLQ2trTmFneXlwUmdLd3Y0cVQ2bDFzSGhTQ2t0Wk1qMDlXb1ZqcmdwX2NQa1ppT1Z3eDJ2Vnc0OFZ4UUpUX2VyQllTZFdkQmxNWDlaQ3RRVmFFUktjd1NnNkxrUjkyWnNRelZndUpRYkJKMXBVZGE1Y0VtbWlrMnRCU1N3MldWMjhLaWZ2WmRpd0VpblZyQ3phdVh6aUlpTXdj?oc=5"
+          },
+          {
+            "label": "新浪网：AI续写红楼梦是否侵犯经典版权？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pVWVSMGRUMUJGanE4SVppR1JVeDE4QllJN1pISjJpTHdtMG9sREhaMU9LMGpUZUt3Rm4xN3VxMVdSX19CMGxsVkQ0OXVILVJWNGR6Y2pocVM3RVhGZTJuNVRQcTRVN08zZFgwQXdXbTV0V04zbVBtX0Rpb1p2WUk?oc=5"
+          },
+          {
+            "label": "新浪网：AI做红楼梦侵权吗？关键看人的独创性投入 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUWEyMW84VC1HdzdDQmRMZS03enE5cDlPSE5iQ0hvLWw3M3dlV3NCclkyclZUbWJic2k1TTN6SF9Tb0J6ZHVMN3FqdnlDTHJkTVhmUlkyaGZXdGtjc242eHpWQ01UajhJQXNoU2ZlRDZJOVFZQ0VsUEtWam84MTA?oc=5"
+          }
+        ],
+        "source": "The Economic Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW1FeGFzTnVoa0wyNkNWRHJjNkpQeXlqMk0yZ2F1TERzR25SbTZCOGNSMFRqRVdYc2VLQ2trTmFneXlwUmdLd3Y0cVQ2bDFzSGhTQ2t0Wk1qMDlXb1ZqcmdwX2NQa1ppT1Z3eDJ2Vnc0OFZ4UUpUX2VyQllTZFdkQmxNWDlaQ3RRVmFFUktjd1NnNkxrUjkyWnNRelZndUpRYkJKMXBVZGE1Y0VtbWlrMnRCU1N3MldWMjhLaWZ2WmRpd0VpblZyQ3phdVh6aUlpTXdj?oc=5"
+      },
+      {
         "slug": "ai-guide-20260804-auto-1-416775",
         "title": "普通人如何转型成为AI训练师？ -",
         "category": "AI使用教程",
@@ -21249,6 +21423,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260805-auto-1-4307d1",
+        "title": "AI测试中再次失控，这次还学会了欺骗",
+        "category": "开源项目",
+        "date": "2026-08-05",
+        "summary": "AI测试中再次失控，这次还学会了欺骗 华尔街日报中文网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI测试中再次失控，这次还学会了欺骗 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI测试中再次失控，这次还学会了欺骗 华尔街日报中文网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI测试中再次失控，这次还学会了欺骗 华尔街日报中文网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华尔街日报中文网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3pqeEQ1VWdMTU5Gc2EwbjZVWTVNUUxBV2tlZ05oUjJJUk1weGwzSlI1VTJZSTY0QkZSLTA2eWtJaUJ5NlBlX2NnZkk2dlB1bmhCUnJiSktmRUxHZlJ0UHRpVnpGR3p1eHJXS3BJTUlGMzAzR2duUUNteTdxT1NXUU80Q0RnNUlsN3F2eGhQTi1TdzQ4V3F5bklB?oc=5"
+          },
+          {
+            "label": "OSCHINA：Cloudflare Computer 开源：你的Agent 需要一台电脑，而不是一个容器- OSCHINA - 开源 × AI · 开发者",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tSnp1eDMwVi1XSEFfZHJOemZ3UXJYYXZ2cG5NZ3F3ZnJpSFNvUWo3MmQwRmFuTFZaN3BaaEVCVlBxaTBZMERBZXpJcVRhdlVPZmRCc3ZReUYyVS0tWi1pZG85VXQyUQ?oc=5"
+          },
+          {
+            "label": "Firstpost：OpenAI and Anthropic report another round of AI security breaches duri",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWlfck5OeDdxME9icTQ4dmlza0ZrNkE0VlVwOFhoTkd2dkNKaUtNWDg5X3p1YWZ2cTVBbUVCTXZ3c1F1OXdpNXZWckthMTlYOFBzbDZ2UTd2aG04aTZxX2xzaHczZDg5eEE5NG5hX3RBZFJqVEZQWEpBdWJ1cGZOay03R1BXaXhlenVuNVEwSllSN2hud3hJVVFIeXF5aURKZHZrdDVGSTVKNnNQOEk4Y09XQTJWVnlNT2V2czI4cTBaVUnSAcgBQVVfeXFMTlZjSVpsZUlqWm1lTGcyYXkybDVNQTBHWHBMUWRzUkFYR0tuVUhSaVUwNW9oYWNGcUVWam9FOVpDRjl4TnBZZWMxZU1TTmpFTGZ5dlNRV3MwR1RNamJVbzN1UElyaTNqZE9mZkJ6bnVyR2V5X3pjSnZHX0tiZ0ZsUk5NcHVTUXp0WW1PenRrdnMxTXhJZGR1T3BxblNrWEd0NTVteGFFZGQxM2lrNlgzQ2Y4N2dZNmNLMnhscnVyZ3hhNDV3VUllWVY?oc=5"
+          }
+        ],
+        "source": "华尔街日报中文网",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3pqeEQ1VWdMTU5Gc2EwbjZVWTVNUUxBV2tlZ05oUjJJUk1weGwzSlI1VTJZSTY0QkZSLTA2eWtJaUJ5NlBlX2NnZkk2dlB1bmhCUnJiSktmRUxHZlJ0UHRpVnpGR3p1eHJXS3BJTUlGMzAzR2duUUNteTdxT1NXUU80Q0RnNUlsN3F2eGhQTi1TdzQ4V3F5bklB?oc=5"
+      },
+      {
+        "slug": "open-source-20260805-auto-2-42b9fd",
+        "title": "Cloudflare Compute",
+        "category": "开源项目",
+        "date": "2026-08-05",
+        "summary": "Cloudflare Computer 开源：你的Agent 需要一台电脑，而不是一个容器- OSC",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cloudflare Compute 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Cloudflare Computer 开源：你的Agent 需要一台电脑，而不是一个容器- OSC",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cloudflare Computer 开源：你的Agent 需要一台电脑，而不是一个容器- OSC",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tSnp1eDMwVi1XSEFfZHJOemZ3UXJYYXZ2cG5NZ3F3ZnJpSFNvUWo3MmQwRmFuTFZaN3BaaEVCVlBxaTBZMERBZXpJcVRhdlVPZmRCc3ZReUYyVS0tWi1pZG85VXQyUQ?oc=5"
+          },
+          {
+            "label": "华尔街日报中文网：AI测试中再次失控，这次还学会了欺骗 - 华尔街日报中文网",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3pqeEQ1VWdMTU5Gc2EwbjZVWTVNUUxBV2tlZ05oUjJJUk1weGwzSlI1VTJZSTY0QkZSLTA2eWtJaUJ5NlBlX2NnZkk2dlB1bmhCUnJiSktmRUxHZlJ0UHRpVnpGR3p1eHJXS3BJTUlGMzAzR2duUUNteTdxT1NXUU80Q0RnNUlsN3F2eGhQTi1TdzQ4V3F5bklB?oc=5"
+          },
+          {
+            "label": "Firstpost：OpenAI and Anthropic report another round of AI security breaches duri",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWlfck5OeDdxME9icTQ4dmlza0ZrNkE0VlVwOFhoTkd2dkNKaUtNWDg5X3p1YWZ2cTVBbUVCTXZ3c1F1OXdpNXZWckthMTlYOFBzbDZ2UTd2aG04aTZxX2xzaHczZDg5eEE5NG5hX3RBZFJqVEZQWEpBdWJ1cGZOay03R1BXaXhlenVuNVEwSllSN2hud3hJVVFIeXF5aURKZHZrdDVGSTVKNnNQOEk4Y09XQTJWVnlNT2V2czI4cTBaVUnSAcgBQVVfeXFMTlZjSVpsZUlqWm1lTGcyYXkybDVNQTBHWHBMUWRzUkFYR0tuVUhSaVUwNW9oYWNGcUVWam9FOVpDRjl4TnBZZWMxZU1TTmpFTGZ5dlNRV3MwR1RNamJVbzN1UElyaTNqZE9mZkJ6bnVyR2V5X3pjSnZHX0tiZ0ZsUk5NcHVTUXp0WW1PenRrdnMxTXhJZGR1T3BxblNrWEd0NTVteGFFZGQxM2lrNlgzQ2Y4N2dZNmNLMnhscnVyZ3hhNDV3VUllWVY?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tSnp1eDMwVi1XSEFfZHJOemZ3UXJYYXZ2cG5NZ3F3ZnJpSFNvUWo3MmQwRmFuTFZaN3BaaEVCVlBxaTBZMERBZXpJcVRhdlVPZmRCc3ZReUYyVS0tWi1pZG85VXQyUQ?oc=5"
+      },
       {
         "slug": "open-source-20260804-auto-1-7bb29e",
         "title": "SK Hynix Unveils F",
