@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260806-auto-1-40788b",
+        "title": "人工智能应该是造福全人类的国际公共产",
+        "category": "AI新闻",
+        "date": "2026-08-06",
+        "summary": "人工智能应该是造福全人类的国际公共产品｜专家热评 第一财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能应该是造福全人类的国际公共产 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "人工智能应该是造福全人类的国际公共产品｜专家热评 第一财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能应该是造福全人类的国际公共产品｜专家热评 第一财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "第一财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRTRWQUd0c0hDNUhyTEQ4TzNyTlRYcmNkWF9aSTMwQXh4TVQxWWdiVjhRbExWMlpJbkFYdmdKNDc0d0FyZ2xORk5XSUZfT2oxck9N?oc=5"
+          },
+          {
+            "label": "The Regulatory Review：The Governance Gap in Clinical AI - The Regulatory Review",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHJxc0wtdWFOVDRrb1VtVkFISTNqazcyNEowVExGanBQbDlqTGViY1N0WDRscWpvZ3J4ellhTGY1a3dBTURsMjlWejZqenNOUG1lSXgtMW1aM2xVblRub2E3Szc3UnpJUUtiLWpscUM4T2lydHc2WHIyZjNjYmI0V1VBRDFLM2tG?oc=5"
+          },
+          {
+            "label": "Financial Times：Talk, don’t type: Big Tech bets AI’s future will be spoken - Financial",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd29KMlhrTWJZQlBKbXhLaWJTNW80RWZ2cDVNRHB0WEtfcGZpSmRaWmdSN1ZwVkFybjRmRGNJQV83c0IwS1p6MnhFZzI0aktwS2NRbk9VRnBkd3RYQWVwR3VsS3hrOVVMVWVwSk9ubnVId09CT2VNTnlyVzJHNm1XLXdDcFQ?oc=5"
+          }
+        ],
+        "source": "第一财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRTRWQUd0c0hDNUhyTEQ4TzNyTlRYcmNkWF9aSTMwQXh4TVQxWWdiVjhRbExWMlpJbkFYdmdKNDc0d0FyZ2xORk5XSUZfT2oxck9N?oc=5"
+      },
+      {
+        "slug": "ai-news-20260806-auto-2-6124d8",
+        "title": "The Governance Gap",
+        "category": "AI新闻",
+        "date": "2026-08-06",
+        "summary": "The Governance Gap in Clinical AI The Regulatory R",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The Governance Gap 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "The Governance Gap in Clinical AI The Regulatory R",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The Governance Gap in Clinical AI The Regulatory R",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Regulatory Review：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHJxc0wtdWFOVDRrb1VtVkFISTNqazcyNEowVExGanBQbDlqTGViY1N0WDRscWpvZ3J4ellhTGY1a3dBTURsMjlWejZqenNOUG1lSXgtMW1aM2xVblRub2E3Szc3UnpJUUtiLWpscUM4T2lydHc2WHIyZjNjYmI0V1VBRDFLM2tG?oc=5"
+          },
+          {
+            "label": "第一财经：人工智能应该是造福全人类的国际公共产品｜专家热评 - 第一财经",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRTRWQUd0c0hDNUhyTEQ4TzNyTlRYcmNkWF9aSTMwQXh4TVQxWWdiVjhRbExWMlpJbkFYdmdKNDc0d0FyZ2xORk5XSUZfT2oxck9N?oc=5"
+          },
+          {
+            "label": "Financial Times：Talk, don’t type: Big Tech bets AI’s future will be spoken - Financial",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd29KMlhrTWJZQlBKbXhLaWJTNW80RWZ2cDVNRHB0WEtfcGZpSmRaWmdSN1ZwVkFybjRmRGNJQV83c0IwS1p6MnhFZzI0aktwS2NRbk9VRnBkd3RYQWVwR3VsS3hrOVVMVWVwSk9ubnVId09CT2VNTnlyVzJHNm1XLXdDcFQ?oc=5"
+          }
+        ],
+        "source": "The Regulatory Review",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWHJxc0wtdWFOVDRrb1VtVkFISTNqazcyNEowVExGanBQbDlqTGViY1N0WDRscWpvZ3J4ellhTGY1a3dBTURsMjlWejZqenNOUG1lSXgtMW1aM2xVblRub2E3Szc3UnpJUUtiLWpscUM4T2lydHc2WHIyZjNjYmI0V1VBRDFLM2tG?oc=5"
+      },
+      {
         "slug": "ai-news-20260805-auto-1-ab85ec",
         "title": "MSU to host Future",
         "category": "AI新闻",
@@ -14667,6 +14783,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260806-auto-1-ff7cf8",
+        "title": "Popular YouTuber S",
+        "category": "AI使用教程",
+        "date": "2026-08-06",
+        "summary": "Popular YouTuber Steps Back From Video Creation Ov",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Popular YouTuber S 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Popular YouTuber Steps Back From Video Creation Ov",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Popular YouTuber Steps Back From Video Creation Ov",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PCMag Middle East：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEJCU0VKY2diUVFOY2xuM2t5Tzg1VEFieTR0WDFjQ0NpbTE0Q3c5M2lVcENOR1NiMk5uQXFIVjl2TkttOFk0U3YxLUV4SHRDbndHMXo1VVpjTWtLYWRlektwRmsyd2RkZm1GVFhZb1YxbEtSX1FaUTlMOGpHV09WaG5WdmpEVjNrSW56T2p3S0stNkpCcDBz?oc=5"
+          },
+          {
+            "label": "手机新浪网：AI剧创作中的人类独创性如何认定，版权保护有哪些新规？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01WUNRNTFFU3N1bjFNeUhhX2h0aGY1R1RrUzloVGliWGdvRlYwMHdibmR1bXZnYTFKRUhLWWktSVpsSXZieWR6UTN4ZEdERG1KQklHcVJIZDB4WjZrMGVyR0NBUnBsYTFTUVRkTHdUd1FpVkJUMzh2Sm14anVVVlk?oc=5"
+          },
+          {
+            "label": "手机新浪网：如何避免AI动物视频出现比例失控的尴尬画面？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzc2MUNzR3VNNV9nb2U1ZWs5RzBZVG1IamNUel9rX2xuX2QxTzNaN2tKT3FVRUdsd3hmdjVIbTdIRWo3ekRiaG80dDdEd3dhdTM5S0w5NkF5b1FNaEh0WHNEdUpqR0J6MDhIUEl1X3NSTWpCemE3YU5ldFZEc21CdHlJVQ?oc=5"
+          }
+        ],
+        "source": "PCMag Middle East",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEJCU0VKY2diUVFOY2xuM2t5Tzg1VEFieTR0WDFjQ0NpbTE0Q3c5M2lVcENOR1NiMk5uQXFIVjl2TkttOFk0U3YxLUV4SHRDbndHMXo1VVpjTWtLYWRlektwRmsyd2RkZm1GVFhZb1YxbEtSX1FaUTlMOGpHV09WaG5WdmpEVjNrSW56T2p3S0stNkpCcDBz?oc=5"
+      },
+      {
         "slug": "ai-guide-20260805-auto-1-6f36d2",
         "title": "AI is creating new",
         "category": "AI使用教程",
@@ -21423,6 +21597,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260806-auto-1-2d053f",
+        "title": "非洲开发者拥抱中国AI模型，为硅谷敲",
+        "category": "开源项目",
+        "date": "2026-08-06",
+        "summary": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟 纽约时报中文网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "非洲开发者拥抱中国AI模型，为硅谷敲 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟 纽约时报中文网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "非洲开发者拥抱中国AI模型，为硅谷敲响警钟 纽约时报中文网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "纽约时报中文网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNU56dHVBeXgwRGdGOGtFa0s2OS1TX3lUb1pjcjQ2ZUZEeTZPU0dNd2poNkxwRnI5c3l1QlFDeVBqRzFvV0U4dEtYa3R4akhiRUFYWUZUOUc3ZWhWRWh6TGhOaDVROEQwUHln?oc=5"
+          },
+          {
+            "label": "36 Kr：不卷角色，“AI小镇”月入百万美元 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BVDFrZlZhUFd4S2lOV3ctVE5kUW1PaEpEc2VCaW84YWRuQzFHMG5hV0RaLVhLWDlLNWVJWGFTRC1EeThsdXFPMW1zZ2hPSVVS?oc=5"
+          },
+          {
+            "label": "ebrun.com：小米开源具身AI基础模型Xiaomi-Robotics-1 - ebrun.com",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VV3ktZF9STS15Rm8tUjI1VEFTLXpJTzlDaUFDT0NwdWhsblkzVC15Q3NhZUpINk9HeEVLOFRJOENTNEl0ODZ5NndYUjBkbC1MLW1iczdR?oc=5"
+          }
+        ],
+        "source": "纽约时报中文网",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNU56dHVBeXgwRGdGOGtFa0s2OS1TX3lUb1pjcjQ2ZUZEeTZPU0dNd2poNkxwRnI5c3l1QlFDeVBqRzFvV0U4dEtYa3R4akhiRUFYWUZUOUc3ZWhWRWh6TGhOaDVROEQwUHln?oc=5"
+      },
+      {
+        "slug": "open-source-20260806-auto-2-d60489",
+        "title": "不卷角色，“AI小镇”月入百万美元",
+        "category": "开源项目",
+        "date": "2026-08-06",
+        "summary": "不卷角色，“AI小镇”月入百万美元 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "不卷角色，“AI小镇”月入百万美元 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "不卷角色，“AI小镇”月入百万美元 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "不卷角色，“AI小镇”月入百万美元 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BVDFrZlZhUFd4S2lOV3ctVE5kUW1PaEpEc2VCaW84YWRuQzFHMG5hV0RaLVhLWDlLNWVJWGFTRC1EeThsdXFPMW1zZ2hPSVVS?oc=5"
+          },
+          {
+            "label": "纽约时报中文网：非洲开发者拥抱中国AI模型，为硅谷敲响警钟 - 纽约时报中文网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JNU56dHVBeXgwRGdGOGtFa0s2OS1TX3lUb1pjcjQ2ZUZEeTZPU0dNd2poNkxwRnI5c3l1QlFDeVBqRzFvV0U4dEtYa3R4akhiRUFYWUZUOUc3ZWhWRWh6TGhOaDVROEQwUHln?oc=5"
+          },
+          {
+            "label": "ebrun.com：小米开源具身AI基础模型Xiaomi-Robotics-1 - ebrun.com",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VV3ktZF9STS15Rm8tUjI1VEFTLXpJTzlDaUFDT0NwdWhsblkzVC15Q3NhZUpINk9HeEVLOFRJOENTNEl0ODZ5NndYUjBkbC1MLW1iczdR?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BVDFrZlZhUFd4S2lOV3ctVE5kUW1PaEpEc2VCaW84YWRuQzFHMG5hV0RaLVhLWDlLNWVJWGFTRC1EeThsdXFPMW1zZ2hPSVVS?oc=5"
+      },
       {
         "slug": "open-source-20260805-auto-1-4307d1",
         "title": "AI测试中再次失控，这次还学会了欺骗",
