@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260807-auto-1-8f9076",
+        "title": "科创创业人工智能ETF华泰柏瑞（15",
+        "category": "AI新闻",
+        "date": "2026-08-07",
+        "summary": "科创创业人工智能ETF华泰柏瑞（159139）涨1.07%，半日成交额1405.16万元 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科创创业人工智能ETF华泰柏瑞（15 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "科创创业人工智能ETF华泰柏瑞（159139）涨1.07%，半日成交额1405.16万元 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科创创业人工智能ETF华泰柏瑞（159139）涨1.07%，半日成交额1405.16万元 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXczOW1LWWg1ZUExdGxNSy1NM09yQWZkeHNwUXp6NUN3Q1NRTTNpdzI2eXMxYS1XUElYYVpoWHhsOE83X0tEcE9fc3ZhRWNWUlZCc3J1bDctd01yekhhR2xXUTlVcWdDdk1MeEs0SUlCTnpDRkFRMVdsLWF3ME4yT1ZRZw?oc=5"
+          },
+          {
+            "label": "pic.hangzhou.com.cn：4步揭秘脑机接口“如何读懂你的心” - pic.hangzhou.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBubDJHaDNiU1IzWGItZnlrNWF1SExxd2R6QU1WWjlzMUtHcEtyTmJsU1BEbVMwUWl1akNka2xvdkI4THZjdUJDTVhzYmRWeDFBUllHV29xS193VktVM1VNc2tkRkNJT01XRV9heVF3?oc=5"
+          },
+          {
+            "label": "搜狐网：MoWorld-3D世界模型发布，打通AI从“对话交互”到“物理交互”的关键一步 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ240UGZzT2E3empVbURqVkZDOHZxV1pwRkEwaWYxMExwdG5QYzJoOVRkeTVWLU1lSzNrMjNwT0JUdExBRFVKWW1hQUsyM1gxbEFRQ2IxNHhEcV9DOXZLTUg3Wk5Rbmt1TUdmMXZmN292LVkyS0g3Mjl4SnhNbGpPaERHRHJ3R3oxLWpYag?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXczOW1LWWg1ZUExdGxNSy1NM09yQWZkeHNwUXp6NUN3Q1NRTTNpdzI2eXMxYS1XUElYYVpoWHhsOE83X0tEcE9fc3ZhRWNWUlZCc3J1bDctd01yekhhR2xXUTlVcWdDdk1MeEs0SUlCTnpDRkFRMVdsLWF3ME4yT1ZRZw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260807-auto-2-f684d0",
+        "title": "4步揭秘脑机接口“如何读懂你的心”",
+        "category": "AI新闻",
+        "date": "2026-08-07",
+        "summary": "4步揭秘脑机接口“如何读懂你的心” pic.hangzhou.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "4步揭秘脑机接口“如何读懂你的心” 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "4步揭秘脑机接口“如何读懂你的心” pic.hangzhou.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "4步揭秘脑机接口“如何读懂你的心” pic.hangzhou.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "pic.hangzhou.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBubDJHaDNiU1IzWGItZnlrNWF1SExxd2R6QU1WWjlzMUtHcEtyTmJsU1BEbVMwUWl1akNka2xvdkI4THZjdUJDTVhzYmRWeDFBUllHV29xS193VktVM1VNc2tkRkNJT01XRV9heVF3?oc=5"
+          },
+          {
+            "label": "新浪网：科创创业人工智能ETF华泰柏瑞（159139）涨1.07%，半日成交额1405.16万元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXczOW1LWWg1ZUExdGxNSy1NM09yQWZkeHNwUXp6NUN3Q1NRTTNpdzI2eXMxYS1XUElYYVpoWHhsOE83X0tEcE9fc3ZhRWNWUlZCc3J1bDctd01yekhhR2xXUTlVcWdDdk1MeEs0SUlCTnpDRkFRMVdsLWF3ME4yT1ZRZw?oc=5"
+          },
+          {
+            "label": "搜狐网：MoWorld-3D世界模型发布，打通AI从“对话交互”到“物理交互”的关键一步 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ240UGZzT2E3empVbURqVkZDOHZxV1pwRkEwaWYxMExwdG5QYzJoOVRkeTVWLU1lSzNrMjNwT0JUdExBRFVKWW1hQUsyM1gxbEFRQ2IxNHhEcV9DOXZLTUg3Wk5Rbmt1TUdmMXZmN292LVkyS0g3Mjl4SnhNbGpPaERHRHJ3R3oxLWpYag?oc=5"
+          }
+        ],
+        "source": "pic.hangzhou.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBubDJHaDNiU1IzWGItZnlrNWF1SExxd2R6QU1WWjlzMUtHcEtyTmJsU1BEbVMwUWl1akNka2xvdkI4THZjdUJDTVhzYmRWeDFBUllHV29xS193VktVM1VNc2tkRkNJT01XRV9heVF3?oc=5"
+      },
+      {
         "slug": "ai-news-20260806-auto-1-40788b",
         "title": "人工智能应该是造福全人类的国际公共产",
         "category": "AI新闻",
@@ -14783,6 +14899,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260807-auto-1-b557cf",
+        "title": "AI博主站上风口 - 36 Kr",
+        "category": "AI使用教程",
+        "date": "2026-08-07",
+        "summary": "AI博主站上风口 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI博主站上风口 - 36 Kr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI博主站上风口 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI博主站上风口 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2SHhnaXU5anBwdC1VUTVJY0JMd0YxVkZOeTJuTDQ3R3NreVR4YkRDdVVpWVl5VnNJMVhaOG8ySnhWSVRrMXVFeDNJRHJGalFt?oc=5"
+          },
+          {
+            "label": "新浪网：AI爱情剧男女主建模为何都像同一张网红脸？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PSmVILWVvd0tCRHhCQUpuVV9Cb3EzSnFsMDcwVXMwNG9SX3JhLWVGZ2ZrTEY3dVoxX2t5UUVKWDVvZkd2U1JZOFZFSklaUXA4NXJOaVQ5UHppcnk4S1FqVGk0c25oZllFR2pyRXJUZnRoQm5HM2hMalRFSWVtZw?oc=5"
+          },
+          {
+            "label": "新浪网：AI漫剧顶级建模需要哪些免费工具？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16RkFueWJfNlJkZ19GVWN2dnAwaFhJY0ZObFJkUmk0Q0VqcjU5M3FVdlJ0cXpPMWtoaWJEWlVlT0pUZi1DRVJBSGJHeGhhR3RUSmV2YWlseE5rMnhPN0Q4VjMxTzhpOXhvQkZzMHIxWFExQQ?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2SHhnaXU5anBwdC1VUTVJY0JMd0YxVkZOeTJuTDQ3R3NreVR4YkRDdVVpWVl5VnNJMVhaOG8ySnhWSVRrMXVFeDNJRHJGalFt?oc=5"
+      },
+      {
         "slug": "ai-guide-20260806-auto-1-ff7cf8",
         "title": "Popular YouTuber S",
         "category": "AI使用教程",
@@ -21597,6 +21771,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260807-auto-1-cbf313",
+        "title": "China's Open-Sourc",
+        "category": "开源项目",
+        "date": "2026-08-07",
+        "summary": "China's Open-Source LLMs Have Quietly Passed a Hun",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China's Open-Sourc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China's Open-Source LLMs Have Quietly Passed a Hun",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China's Open-Source LLMs Have Quietly Passed a Hun",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pandaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkMwUHB0a2x0S2ZrckRLRXVDY21Sd2F3ZWgtTzNUYVJRblZMSVZkSDhFNTFjbENGTWVwMWpZTEhUNUI5djg1T0VWdTlYOGF5d0JmeHpqQTJGRmhnTzlLcnJNT1VBVFNTczdxbjR4YzR1bEoyVlU1YzdWWTdrSk1uMWM0MXVTcnNJT2JwRDJn?oc=5"
+          },
+          {
+            "label": "深潮TechFlow：AI 一天找出近 5000 个比特币漏洞：国产大模型发力，开源不等于安全 - 深潮TechFlow",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QaGIxOXpGbjdYU1N1TjdGT05qWXU0enY5a2tvdjdsbzV0U1FzenRrOERFQTQxOWxUYlZKenJULTNFVk9zdHRmdmhYVktWVG9IOVExeg?oc=5"
+          },
+          {
+            "label": "80aj.com：基于 AI Agent 的开源工作流：解决个人 IP 绘图一致性与复用性难题 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hY2g4UU1xS3FYV3dfV2RuVGtEOHAzRUZUMUQ2dmVYMnhfMHZtSTQtUnJPekRRTlI5ZXFXZGI4Zjk5Q2d5UEx0MHZmRTlpT1VWRmxGNHFlYXBISXJlM2pLWm4wQXRhODYydVZxOUp0SQ?oc=5"
+          }
+        ],
+        "source": "Pandaily",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkMwUHB0a2x0S2ZrckRLRXVDY21Sd2F3ZWgtTzNUYVJRblZMSVZkSDhFNTFjbENGTWVwMWpZTEhUNUI5djg1T0VWdTlYOGF5d0JmeHpqQTJGRmhnTzlLcnJNT1VBVFNTczdxbjR4YzR1bEoyVlU1YzdWWTdrSk1uMWM0MXVTcnNJT2JwRDJn?oc=5"
+      },
+      {
+        "slug": "open-source-20260807-auto-2-48f516",
+        "title": "AI 一天找出近 5000 个比特币",
+        "category": "开源项目",
+        "date": "2026-08-07",
+        "summary": "AI 一天找出近 5000 个比特币漏洞：国产大模型发力，开源不等于安全 深潮TechFlow",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI 一天找出近 5000 个比特币 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI 一天找出近 5000 个比特币漏洞：国产大模型发力，开源不等于安全 深潮TechFlow",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI 一天找出近 5000 个比特币漏洞：国产大模型发力，开源不等于安全 深潮TechFlow",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "深潮TechFlow：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QaGIxOXpGbjdYU1N1TjdGT05qWXU0enY5a2tvdjdsbzV0U1FzenRrOERFQTQxOWxUYlZKenJULTNFVk9zdHRmdmhYVktWVG9IOVExeg?oc=5"
+          },
+          {
+            "label": "Pandaily：China's Open-Source LLMs Have Quietly Passed a Hundred Billion Downloa",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkMwUHB0a2x0S2ZrckRLRXVDY21Sd2F3ZWgtTzNUYVJRblZMSVZkSDhFNTFjbENGTWVwMWpZTEhUNUI5djg1T0VWdTlYOGF5d0JmeHpqQTJGRmhnTzlLcnJNT1VBVFNTczdxbjR4YzR1bEoyVlU1YzdWWTdrSk1uMWM0MXVTcnNJT2JwRDJn?oc=5"
+          },
+          {
+            "label": "80aj.com：基于 AI Agent 的开源工作流：解决个人 IP 绘图一致性与复用性难题 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hY2g4UU1xS3FYV3dfV2RuVGtEOHAzRUZUMUQ2dmVYMnhfMHZtSTQtUnJPekRRTlI5ZXFXZGI4Zjk5Q2d5UEx0MHZmRTlpT1VWRmxGNHFlYXBISXJlM2pLWm4wQXRhODYydVZxOUp0SQ?oc=5"
+          }
+        ],
+        "source": "深潮TechFlow",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QaGIxOXpGbjdYU1N1TjdGT05qWXU0enY5a2tvdjdsbzV0U1FzenRrOERFQTQxOWxUYlZKenJULTNFVk9zdHRmdmhYVktWVG9IOVExeg?oc=5"
+      },
       {
         "slug": "open-source-20260806-auto-1-2d053f",
         "title": "非洲开发者拥抱中国AI模型，为硅谷敲",
