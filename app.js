@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260808-auto-1-4c6883",
+        "title": "OpenText: €105 Mil",
+        "category": "AI新闻",
+        "date": "2026-08-08",
+        "summary": "OpenText: €105 Million Agentic AI And Sovereign Cl",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenText: €105 Mil 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenText: €105 Million Agentic AI And Sovereign Cl",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenText: €105 Million Agentic AI And Sovereign Cl",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pulse 2.0：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFJFc09RYjl2M1JNcXc4YTB6NkZvS2pObWdrcXlWeVBnS0ZkMzhNYk5paFBfclZKRFk2dDFRQXZEdldtU09qejFKTkdqUWdCbFdTRlltaWJMQnNJMk9IRW5WTXpoS0NSZ2UwSzlEdlVnblVBQ2p1X1NTTm8yY2lteldjMlZmckRkYUhYdXdKa2pGbktWYVpWQWkwZFRYSlRJcmxLVG13MmpxaWpSN3hCLUZjV1BGd1B0X0pWdy1rSHg2aG1HZFHSAcsBQVVfeXFMTVVEdzZvaVBEbmx5MWRpYnpNSWFyRDR6U3NRSGQ3Nmw3eGFHWlZTbFMtSXNKTXY1Z2hfRzgtYV91LVVBdExlRFgwcUtMWWF1eUpsMXNHNmMweFRfUTlhYVAyNUxISklxUm5MTXFMb0ZPWFdJbWFGVlN1cGFWdTI5YkdKaERPcFpDOTN1LW15S09oOW1Od1FqYzBLc2swVk9NcVMxeEt3bTZlS2JpdlJSVmZVd3ZuWEYwSHNENUE5a3ZQbl9oQnBVVGhRQVk?oc=5"
+          },
+          {
+            "label": "新浪网：美国科学家首次用AI设计出病毒 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlJGZTVIcHFnLUhDcS15UnpzVVdrSTNaVDQtN1ZlUWtHTUVMZVl5ZGtXQ2g5TlVleVJCUWtIX21Yd3BrTzdseWVBbXl3OFMtRmVwRERnNDVSOTF5SGo2OEc5N0JSaldLdnRwdGpTcUVYcHhScXFpdEd4Z3F0NUd6WWZOcw?oc=5"
+          },
+          {
+            "label": "21财经：DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXpTeVBXY1BQUnozeW1wSHNBT3V2NWdrSzBJWEZiaU5hbW1lLTR6ZWV6dzhiQVE2SUZQODVuWjhaX1FtZ21KMVFQLUpmSE5ScWFvb2hBZnVjTDBJZU5jOWNBb1VLajIyaXVUbmhnck83ZHNCTVlTVDhwdVItcGx1cUlxTXE0RzJEeldNMF9LMmhiMUxM?oc=5"
+          }
+        ],
+        "source": "Pulse 2.0",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFJFc09RYjl2M1JNcXc4YTB6NkZvS2pObWdrcXlWeVBnS0ZkMzhNYk5paFBfclZKRFk2dDFRQXZEdldtU09qejFKTkdqUWdCbFdTRlltaWJMQnNJMk9IRW5WTXpoS0NSZ2UwSzlEdlVnblVBQ2p1X1NTTm8yY2lteldjMlZmckRkYUhYdXdKa2pGbktWYVpWQWkwZFRYSlRJcmxLVG13MmpxaWpSN3hCLUZjV1BGd1B0X0pWdy1rSHg2aG1HZFHSAcsBQVVfeXFMTVVEdzZvaVBEbmx5MWRpYnpNSWFyRDR6U3NRSGQ3Nmw3eGFHWlZTbFMtSXNKTXY1Z2hfRzgtYV91LVVBdExlRFgwcUtMWWF1eUpsMXNHNmMweFRfUTlhYVAyNUxISklxUm5MTXFMb0ZPWFdJbWFGVlN1cGFWdTI5YkdKaERPcFpDOTN1LW15S09oOW1Od1FqYzBLc2swVk9NcVMxeEt3bTZlS2JpdlJSVmZVd3ZuWEYwSHNENUE5a3ZQbl9oQnBVVGhRQVk?oc=5"
+      },
+      {
+        "slug": "ai-news-20260808-auto-2-38c2d3",
+        "title": "美国科学家首次用AI设计出病毒 -",
+        "category": "AI新闻",
+        "date": "2026-08-08",
+        "summary": "美国科学家首次用AI设计出病毒 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "美国科学家首次用AI设计出病毒 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "美国科学家首次用AI设计出病毒 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "美国科学家首次用AI设计出病毒 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlJGZTVIcHFnLUhDcS15UnpzVVdrSTNaVDQtN1ZlUWtHTUVMZVl5ZGtXQ2g5TlVleVJCUWtIX21Yd3BrTzdseWVBbXl3OFMtRmVwRERnNDVSOTF5SGo2OEc5N0JSaldLdnRwdGpTcUVYcHhScXFpdEd4Z3F0NUd6WWZOcw?oc=5"
+          },
+          {
+            "label": "Pulse 2.0：OpenText: €105 Million Agentic AI And Sovereign Cloud Expansion To Cre",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFJFc09RYjl2M1JNcXc4YTB6NkZvS2pObWdrcXlWeVBnS0ZkMzhNYk5paFBfclZKRFk2dDFRQXZEdldtU09qejFKTkdqUWdCbFdTRlltaWJMQnNJMk9IRW5WTXpoS0NSZ2UwSzlEdlVnblVBQ2p1X1NTTm8yY2lteldjMlZmckRkYUhYdXdKa2pGbktWYVpWQWkwZFRYSlRJcmxLVG13MmpxaWpSN3hCLUZjV1BGd1B0X0pWdy1rSHg2aG1HZFHSAcsBQVVfeXFMTVVEdzZvaVBEbmx5MWRpYnpNSWFyRDR6U3NRSGQ3Nmw3eGFHWlZTbFMtSXNKTXY1Z2hfRzgtYV91LVVBdExlRFgwcUtMWWF1eUpsMXNHNmMweFRfUTlhYVAyNUxISklxUm5MTXFMb0ZPWFdJbWFGVlN1cGFWdTI5YkdKaERPcFpDOTN1LW15S09oOW1Od1FqYzBLc2swVk9NcVMxeEt3bTZlS2JpdlJSVmZVd3ZuWEYwSHNENUE5a3ZQbl9oQnBVVGhRQVk?oc=5"
+          },
+          {
+            "label": "21财经：DeepSeek 1.4亿元入局宇树战略配售，为具身智能铺路 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXpTeVBXY1BQUnozeW1wSHNBT3V2NWdrSzBJWEZiaU5hbW1lLTR6ZWV6dzhiQVE2SUZQODVuWjhaX1FtZ21KMVFQLUpmSE5ScWFvb2hBZnVjTDBJZU5jOWNBb1VLajIyaXVUbmhnck83ZHNCTVlTVDhwdVItcGx1cUlxTXE0RzJEeldNMF9LMmhiMUxM?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlJGZTVIcHFnLUhDcS15UnpzVVdrSTNaVDQtN1ZlUWtHTUVMZVl5ZGtXQ2g5TlVleVJCUWtIX21Yd3BrTzdseWVBbXl3OFMtRmVwRERnNDVSOTF5SGo2OEc5N0JSaldLdnRwdGpTcUVYcHhScXFpdEd4Z3F0NUd6WWZOcw?oc=5"
+      },
+      {
         "slug": "ai-news-20260807-auto-1-8f9076",
         "title": "科创创业人工智能ETF华泰柏瑞（15",
         "category": "AI新闻",
@@ -14899,6 +15015,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260808-auto-1-c61a49",
+        "title": "Rapper对AI提需求时最看重哪些",
+        "category": "AI使用教程",
+        "date": "2026-08-08",
+        "summary": "Rapper对AI提需求时最看重哪些细节？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Rapper对AI提需求时最看重哪些 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Rapper对AI提需求时最看重哪些细节？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Rapper对AI提需求时最看重哪些细节？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4b0dYSzZUQTlhZENSNzd4OWpJN3hoN3dyZ1JqajRMMWlnS1d2cTV2U3V3WDFHWmR3bDBCSldMWkJBQVpkNGx1eGdneUgzQlFQbWRLa1FlUXF3MUw3UGdBd0NqN1J6SmRObDRXVUljRElDREVtMklJM25YeTlBbm8?oc=5"
+          },
+          {
+            "label": "新浪网：《九门》中哪些名场面让观众觉得AI无法复制？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zaDJIYW9jd2NZMDlRY1NHS0szSWcwNEE4Q3lfWHFKVU5qd2dscDhzT1dNUV92ZGpXVWstV004R29FSjJuaUpsWE90alRIY3h6TWc4SmtMMFB3SEtMX2xXbUN0OWJzYkhsQVYyZmxwcUk0SjRfRDFubFlaQnhsUQ?oc=5"
+          },
+          {
+            "label": "新浪网：AI短剧爆款率不足0.5%，主要失败原因是什么？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xNlJNR3V3MFlSWW9IM2pFRTMzaVVLQUZtZkQxczRfMFRnbmpZSHlnQWJrSE1CcHFNbktCajhHVUYyTzVZMG1zVWVGcWpPLUlOelRpRmlVV19GOE1KWE9HSi16cGw5US1SR0F5aXU1dGUwSlFMQVNFZm41NmdONFE?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4b0dYSzZUQTlhZENSNzd4OWpJN3hoN3dyZ1JqajRMMWlnS1d2cTV2U3V3WDFHWmR3bDBCSldMWkJBQVpkNGx1eGdneUgzQlFQbWRLa1FlUXF3MUw3UGdBd0NqN1J6SmRObDRXVUljRElDREVtMklJM25YeTlBbm8?oc=5"
+      },
+      {
         "slug": "ai-guide-20260807-auto-1-b557cf",
         "title": "AI博主站上风口 - 36 Kr",
         "category": "AI使用教程",
@@ -21771,6 +21945,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260808-auto-1-05e797",
+        "title": "Ant Group’s Ling 3",
+        "category": "开源项目",
+        "date": "2026-08-08",
+        "summary": "Ant Group’s Ling 3.0 Flash packs 124B parameters i",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ant Group’s Ling 3 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ant Group’s Ling 3.0 Flash packs 124B parameters i",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ant Group’s Ling 3.0 Flash packs 124B parameters i",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Crypto Briefing：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rMzJYLWpBc3BGN0NRTkZKelBoSG9uRWp6ZVBzeTNGR1pGemdxZG9FSEZxSm9rYUlVU2Zsd0xTTDhKeDFKM29WaTUxQTFtbi1ON2xGVjVITmpiTWdRWC1QTVloREp1cjUyb3FyMEhBeVZ3VlFEWm9B?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：OpenAI flags critical cybersecurity risk in upcoming Astra model, paus",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xRjdGOTBKOFE0MGZmMUR2TldTTUR5RWZhNlBCT0pBakROV3F4ZDdQTm5lMmRDMzFpWk1mdFlrQVVfNW5fQmozTzVSaUhJNXYwZEhvVDJCTExvckE0U05xMEpqeG9WNWJkRlpZcEluWG1YenRKUlkw?oc=5"
+          },
+          {
+            "label": "digitaltoday.co.kr：CNBC：中国AI加速追赶美国，但芯片、算力和人才仍是美方优势 - digitaltoday.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFc2dHlVXzZPRWxYaUtXdWNWelVJRFJzeDdrUklMZzNfOHBycklmTzVrNk1uRXZyZ2o2aldUa3NOWllYdEYxYVNNTVpsNFFLVjl0a3dTQXhJRzcwdW5RT2QtbHNhdUhCRzZVLWZSNTVGWGNNTnh1OFk0OWxvNWVDVDYtRnBCa1ozdG1CM3pMd3Y5LTk2UFFDc0NRYThONEhLZXZnZmtNaHJxN1JnMTNPZA?oc=5"
+          }
+        ],
+        "source": "Crypto Briefing",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rMzJYLWpBc3BGN0NRTkZKelBoSG9uRWp6ZVBzeTNGR1pGemdxZG9FSEZxSm9rYUlVU2Zsd0xTTDhKeDFKM29WaTUxQTFtbi1ON2xGVjVITmpiTWdRWC1QTVloREp1cjUyb3FyMEhBeVZ3VlFEWm9B?oc=5"
+      },
+      {
+        "slug": "open-source-20260808-auto-2-acc366",
+        "title": "OpenAI flags criti",
+        "category": "开源项目",
+        "date": "2026-08-08",
+        "summary": "OpenAI flags critical cybersecurity risk in upcomi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI flags criti 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenAI flags critical cybersecurity risk in upcomi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI flags critical cybersecurity risk in upcomi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Crypto Briefing：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xRjdGOTBKOFE0MGZmMUR2TldTTUR5RWZhNlBCT0pBakROV3F4ZDdQTm5lMmRDMzFpWk1mdFlrQVVfNW5fQmozTzVSaUhJNXYwZEhvVDJCTExvckE0U05xMEpqeG9WNWJkRlpZcEluWG1YenRKUlkw?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Ant Group’s Ling 3.0 Flash packs 124B parameters into a model built fo",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rMzJYLWpBc3BGN0NRTkZKelBoSG9uRWp6ZVBzeTNGR1pGemdxZG9FSEZxSm9rYUlVU2Zsd0xTTDhKeDFKM29WaTUxQTFtbi1ON2xGVjVITmpiTWdRWC1QTVloREp1cjUyb3FyMEhBeVZ3VlFEWm9B?oc=5"
+          },
+          {
+            "label": "digitaltoday.co.kr：CNBC：中国AI加速追赶美国，但芯片、算力和人才仍是美方优势 - digitaltoday.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFc2dHlVXzZPRWxYaUtXdWNWelVJRFJzeDdrUklMZzNfOHBycklmTzVrNk1uRXZyZ2o2aldUa3NOWllYdEYxYVNNTVpsNFFLVjl0a3dTQXhJRzcwdW5RT2QtbHNhdUhCRzZVLWZSNTVGWGNNTnh1OFk0OWxvNWVDVDYtRnBCa1ozdG1CM3pMd3Y5LTk2UFFDc0NRYThONEhLZXZnZmtNaHJxN1JnMTNPZA?oc=5"
+          }
+        ],
+        "source": "Crypto Briefing",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xRjdGOTBKOFE0MGZmMUR2TldTTUR5RWZhNlBCT0pBakROV3F4ZDdQTm5lMmRDMzFpWk1mdFlrQVVfNW5fQmozTzVSaUhJNXYwZEhvVDJCTExvckE0U05xMEpqeG9WNWJkRlpZcEluWG1YenRKUlkw?oc=5"
+      },
       {
         "slug": "open-source-20260807-auto-1-cbf313",
         "title": "China's Open-Sourc",
