@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260809-auto-1-5062a4",
+        "title": "The next chapter o",
+        "category": "AI新闻",
+        "date": "2026-08-09",
+        "summary": "The next chapter of our AI momentum blog.google",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The next chapter o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The next chapter of our AI momentum blog.google",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The next chapter of our AI momentum blog.google",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.google：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+          },
+          {
+            "label": "新浪财经：余华莘：人类生存风险与前沿人工智能研究 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jR29hMlNZNWpTNG9NdG1MS0tVQWVIT2k1WHctQ1Q1ZVRkdTBDTUpIM0JzZ3pVVm1EMjY2dzZXU3NpdjZsNWNzdlBPRDE0ZDdPVzRYWVpfWVRQQkJPSDd2cHJvMmdqRkZ6TjBldmVrX01iYnI5ZzBwS3VPaV8?oc=5"
+          },
+          {
+            "label": "36 Kr：90 Billion Yuan in Half a Year: Who Is Fueling the Robotics Sector Hyp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM2tya0JBc3NudEFKVURYeGlSX05ISW9TdGtfdnVkdDk5TjlYT0xoMkxxX3lZempnTDVRYk95N09jZmZpZHlmcFBZS0c2bEtWaG9B?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260809-auto-2-ca4247",
+        "title": "余华莘：人类生存风险与前沿人工智能研",
+        "category": "AI新闻",
+        "date": "2026-08-09",
+        "summary": "余华莘：人类生存风险与前沿人工智能研究 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "余华莘：人类生存风险与前沿人工智能研 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "余华莘：人类生存风险与前沿人工智能研究 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "余华莘：人类生存风险与前沿人工智能研究 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jR29hMlNZNWpTNG9NdG1MS0tVQWVIT2k1WHctQ1Q1ZVRkdTBDTUpIM0JzZ3pVVm1EMjY2dzZXU3NpdjZsNWNzdlBPRDE0ZDdPVzRYWVpfWVRQQkJPSDd2cHJvMmdqRkZ6TjBldmVrX01iYnI5ZzBwS3VPaV8?oc=5"
+          },
+          {
+            "label": "blog.google：The next chapter of our AI momentum - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+          },
+          {
+            "label": "36 Kr：90 Billion Yuan in Half a Year: Who Is Fueling the Robotics Sector Hyp",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DM2tya0JBc3NudEFKVURYeGlSX05ISW9TdGtfdnVkdDk5TjlYT0xoMkxxX3lZempnTDVRYk95N09jZmZpZHlmcFBZS0c2bEtWaG9B?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jR29hMlNZNWpTNG9NdG1MS0tVQWVIT2k1WHctQ1Q1ZVRkdTBDTUpIM0JzZ3pVVm1EMjY2dzZXU3NpdjZsNWNzdlBPRDE0ZDdPVzRYWVpfWVRQQkJPSDd2cHJvMmdqRkZ6TjBldmVrX01iYnI5ZzBwS3VPaV8?oc=5"
+      },
+      {
         "slug": "ai-news-20260808-auto-1-4c6883",
         "title": "OpenText: €105 Mil",
         "category": "AI新闻",
@@ -15015,6 +15131,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260809-auto-1-097d21",
+        "title": "Use This Special C",
+        "category": "AI使用教程",
+        "date": "2026-08-09",
+        "summary": "Use This Special Code to Get GPT, Claude, Gemini,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Use This Special C 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Use This Special Code to Get GPT, Claude, Gemini,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Use This Special Code to Get GPT, Claude, Gemini,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PCMag：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn?oc=5"
+          },
+          {
+            "label": "风闻：两年时间，陆川谈AI焦虑的态度几乎完全调转，怎么看这两种心态？ - 风闻",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kT3RYa2tYNzdsT1BuNFR2Y3FESnRLUjVEX0lfT3RmbUt6cUNub1ZaZXZreDFnQlMyWG11MWh1MHhENzRUMlNyTlJHYXdCRDJrM09UUGlkTEpzdE0?oc=5"
+          },
+          {
+            "label": "荆楚网：用AI画笔描绘百年建筑 江城书房推出青少年数字阅读课 - 荆楚网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oOWFLMXd0VkdieDI0ci10dzZVNnEtXzh4SGhBV010cUtUcmxCOVA1OVV6d3Z6YlNKXzJRdjJIVldEbFFId01md2lfZlM5YnA0cnlwTF9VM1BldE1zV2h5N1dHVEhkMWRZejF4VWFkMWE0UQ?oc=5"
+          }
+        ],
+        "source": "PCMag",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHBPay1zRUpMck81VjhnUFlRU1FtcDZGUkplSlR6eE95T0hrbTV6TU5hY1M0RnhCdDZDb2YwMmNpWUJJU2J0VWJ1djhIV2xJMS1sMGhiTFRYbGRPMV9Nd0FFbEpVOFE2Rmt3SEtEd3lDczlCNkVsM3hZOTRrMmhfWlA4bUtaSF9WODRNQUxaLWM4SlZWTzlvZTZtSWt6OFJn?oc=5"
+      },
+      {
         "slug": "ai-guide-20260808-auto-1-c61a49",
         "title": "Rapper对AI提需求时最看重哪些",
         "category": "AI使用教程",
@@ -21945,6 +22119,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260809-auto-1-1b035f",
+        "title": "Welcome to August",
+        "category": "开源项目",
+        "date": "2026-08-09",
+        "summary": "Welcome to August 8, 2026 The Innermost Loop",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Welcome to August 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Welcome to August 8, 2026 The Innermost Loop",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Welcome to August 8, 2026 The Innermost Loop",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Innermost Loop：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XTU54blVyMko3cC1SWGtXTC1UczRfYzJGX2F3aU9NTEhVdlF0c3BBOVhuUXlCc194c0N6X3RpR1V6bnk1a1pCaEl4Q0k2MUY0QXdPdGl6Wjl0enQ3Qm1iQ09URWJKWUpEcUlsbm9BWW5YUQ?oc=5"
+          },
+          {
+            "label": "GNN | Latest News：Rogue AI agents created fake online identities in another hacking atte",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzBIR3RKNVRNcjFtYlVfUzU3V3lyVU1qWWkzeU1RQ21lVVpVR1RTNG1vOG4tZGl2QWxjQWktQ2tLTWdzYTBGbVlnWXU1eUlFYjAzSkM2cS1BcjBMOFRnazl2M1J0ZkRLV084TWhsaFFRZUFPT216NTVWQmVfVFdyUlJOQjlxOEc1d2pSWHNaT3V0REtycGNnQVFMY3VlQm9QOHJR?oc=5"
+          },
+          {
+            "label": "Buttondown：The Agent Report — Your AI Agent Weekly Digest 🚀 - Buttondown",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZmYkMwU3BUdU9Gd0ZaSHJVcVFuWmV5cDVkSnFucFdKQlA1NW9fTlV3eXJHc29FN2xTZUVLcG9ERmswXzIzVGlvaWNueF9vZXN6c1lqMTRUcWNVNERHM2dWbjlqczB6TzBXMUd1R2QzbnFZNVZ4UVJjX3pKRS1qNkhTdFZiNld2djlfcE9NV2pTcDFxRjIwSWdmNk4?oc=5"
+          }
+        ],
+        "source": "The Innermost Loop",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XTU54blVyMko3cC1SWGtXTC1UczRfYzJGX2F3aU9NTEhVdlF0c3BBOVhuUXlCc194c0N6X3RpR1V6bnk1a1pCaEl4Q0k2MUY0QXdPdGl6Wjl0enQ3Qm1iQ09URWJKWUpEcUlsbm9BWW5YUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260809-auto-2-d21a66",
+        "title": "Rogue AI agents cr",
+        "category": "开源项目",
+        "date": "2026-08-09",
+        "summary": "Rogue AI agents created fake online identities in",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Rogue AI agents cr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Rogue AI agents created fake online identities in",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Rogue AI agents created fake online identities in",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GNN | Latest News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzBIR3RKNVRNcjFtYlVfUzU3V3lyVU1qWWkzeU1RQ21lVVpVR1RTNG1vOG4tZGl2QWxjQWktQ2tLTWdzYTBGbVlnWXU1eUlFYjAzSkM2cS1BcjBMOFRnazl2M1J0ZkRLV084TWhsaFFRZUFPT216NTVWQmVfVFdyUlJOQjlxOEc1d2pSWHNaT3V0REtycGNnQVFMY3VlQm9QOHJR?oc=5"
+          },
+          {
+            "label": "The Innermost Loop：Welcome to August 8, 2026 - The Innermost Loop",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XTU54blVyMko3cC1SWGtXTC1UczRfYzJGX2F3aU9NTEhVdlF0c3BBOVhuUXlCc194c0N6X3RpR1V6bnk1a1pCaEl4Q0k2MUY0QXdPdGl6Wjl0enQ3Qm1iQ09URWJKWUpEcUlsbm9BWW5YUQ?oc=5"
+          },
+          {
+            "label": "Buttondown：The Agent Report — Your AI Agent Weekly Digest 🚀 - Buttondown",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZmYkMwU3BUdU9Gd0ZaSHJVcVFuWmV5cDVkSnFucFdKQlA1NW9fTlV3eXJHc29FN2xTZUVLcG9ERmswXzIzVGlvaWNueF9vZXN6c1lqMTRUcWNVNERHM2dWbjlqczB6TzBXMUd1R2QzbnFZNVZ4UVJjX3pKRS1qNkhTdFZiNld2djlfcE9NV2pTcDFxRjIwSWdmNk4?oc=5"
+          }
+        ],
+        "source": "GNN | Latest News",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzBIR3RKNVRNcjFtYlVfUzU3V3lyVU1qWWkzeU1RQ21lVVpVR1RTNG1vOG4tZGl2QWxjQWktQ2tLTWdzYTBGbVlnWXU1eUlFYjAzSkM2cS1BcjBMOFRnazl2M1J0ZkRLV084TWhsaFFRZUFPT216NTVWQmVfVFdyUlJOQjlxOEc1d2pSWHNaT3V0REtycGNnQVFMY3VlQm9QOHJR?oc=5"
+      },
       {
         "slug": "open-source-20260808-auto-1-05e797",
         "title": "Ant Group’s Ling 3",
