@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260810-auto-1-bdfc45",
+        "title": "The next chapter o",
+        "category": "AI新闻",
+        "date": "2026-08-10",
+        "summary": "The next chapter of our AI momentum blog.google",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The next chapter o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The next chapter of our AI momentum blog.google",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The next chapter of our AI momentum blog.google",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.google：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+          },
+          {
+            "label": "Anchorage Daily News：Opinion: Artificial intelligence is moving fast while Alaska policy st",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5"
+          },
+          {
+            "label": "News-Medical：Explainable AI helps predict dangerous bleeding after severe heart att",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEVzYWlPOVp6ZWVMUy12TnFSanF4Q0NCWlBmT1Y3TGdVYkNNYkJJSEx6cFkyTVE3Yy1GZkhrZ0ljNl9JQUhQZkR6QXlwcFIyQXhpNGlyUHZaa3k0OUtXNGVseFd6eFZPTHBfU00zNV8xaTl0R214TElkTlZrWnlVb2FVaW5FTDBYUjBPdHVOdmtNdUNET1lPWXNFLXdsck5JVXc5eF9QVVdjdzBmTGtqcUJyQ3BxaHRhU1BhaV9iWQ?oc=5"
+          }
+        ],
+        "source": "blog.google",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260810-auto-2-1b0742",
+        "title": "Opinion: Artificia",
+        "category": "AI新闻",
+        "date": "2026-08-10",
+        "summary": "Opinion: Artificial intelligence is moving fast wh",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Opinion: Artificia 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Opinion: Artificial intelligence is moving fast wh",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Opinion: Artificial intelligence is moving fast wh",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anchorage Daily News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5"
+          },
+          {
+            "label": "blog.google：The next chapter of our AI momentum - blog.google",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFZsVmdKNHhSVnQ0VDZwRXY1VmZWQno1V3MwUzMxM2VJMW5UeFFmODZXa1VDcXVBS0dOMldjY0dwcTI1V05Pc0hHUzJWcGFzMnhVMnlVLW96U0J1ZjJFQWpQVENFdnRvd0dNUFpMU003dlFlbWhSQUJDNG9qX3ZkdmJFeWloYnQ4VmNVeQ?oc=5"
+          },
+          {
+            "label": "News-Medical：Explainable AI helps predict dangerous bleeding after severe heart att",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEVzYWlPOVp6ZWVMUy12TnFSanF4Q0NCWlBmT1Y3TGdVYkNNYkJJSEx6cFkyTVE3Yy1GZkhrZ0ljNl9JQUhQZkR6QXlwcFIyQXhpNGlyUHZaa3k0OUtXNGVseFd6eFZPTHBfU00zNV8xaTl0R214TElkTlZrWnlVb2FVaW5FTDBYUjBPdHVOdmtNdUNET1lPWXNFLXdsck5JVXc5eF9QVVdjdzBmTGtqcUJyQ3BxaHRhU1BhaV9iWQ?oc=5"
+          }
+        ],
+        "source": "Anchorage Daily News",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVNiLVVlcUhlSk1LNDVyd2ZPWE1NQnh6NWhiN3JwSWZKRHdhLXRyUE5FTHlwUGNpU0Q4NXZaNEdSS1dvRFZwZ3lWaWt3cFl3Wi10bWRROURnLWEwU3c3bE9KdkdHdE1qZnlrTUNOb1k3NDBZV0kzYWYyb3REWExUQ2s5SEozbVB4a0I0QVVqeE5CaVp1N182SmhtYmIxWGYyZTZnSEpMUGx4el9IR2tNYWdnSVZwQXVObGVqVA?oc=5"
+      },
+      {
         "slug": "ai-news-20260809-auto-1-5062a4",
         "title": "The next chapter o",
         "category": "AI新闻",
@@ -15131,6 +15247,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260810-auto-1-a23f60",
+        "title": "AI Coding Tip 031",
+        "category": "AI使用教程",
+        "date": "2026-08-10",
+        "summary": "AI Coding Tip 031 - Don't Write Prompts for a Mode",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Coding Tip 031 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI Coding Tip 031 - Don't Write Prompts for a Mode",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Coding Tip 031 - Don't Write Prompts for a Mode",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2VHdVF5STJkUmVnYWZ5aG1keTd1Z2xqUjJtU3g1MGFMdE5CMm9TZTFTY255NTlGY0tJdmRBTmtleVRQTVpnUTdDREctaHZobTdsUjQxcF8zT0pRU2FHT3dhVy1obkJTd0pWM2JnWThOWGtyS0w1dHJKNGZrdU5XdTIwUDVac2lNOFRfdQ?oc=5"
+          },
+          {
+            "label": "디지털투데이：Mac用户搜索Claude Code安装教程时遭遇钓鱼攻击，或致加密钱包失窃 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0xUaUZrRV9aLTJ6a2czLTdRWGYxZWMxVmtGdWc3SnJjRC1nVGhQTHJ1aWtpZGNrZXllS19LcFE0YjVFTU01VGVPWlJJZUFVT1QtWjA5Z2t4T2RNSlVHVWFnUHoybW1TUGtrekZONXhQVVZpd1VGZUR0dnd3TW1Kd1k5Mk9TRFdrTGdLd1BpRmwtQTFyVGFWLTd1Q0hjSG1mWHMtTUxqdS1nN0U?oc=5"
+          },
+          {
+            "label": "新浪网：掌握AI审美主动权|ai|审美|提示词|文生图|图生视频_新浪新闻 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wTmhyaXhqempiVHdMbWJDTTc0eERJWG5MNkpBME9CeFBPNU5QS1lEQ3FMcWZKWWN5cDdVMEItSEpBQTMySHo2N3Z6M0pLRWJUUWRkZVNzaFdhTzhpWl9tRndiUQ?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2VHdVF5STJkUmVnYWZ5aG1keTd1Z2xqUjJtU3g1MGFMdE5CMm9TZTFTY255NTlGY0tJdmRBTmtleVRQTVpnUTdDREctaHZobTdsUjQxcF8zT0pRU2FHT3dhVy1obkJTd0pWM2JnWThOWGtyS0w1dHJKNGZrdU5XdTIwUDVac2lNOFRfdQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260809-auto-1-097d21",
         "title": "Use This Special C",
         "category": "AI使用教程",
@@ -22119,6 +22293,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260810-auto-1-2bdcb7",
+        "title": "Advertisers are tr",
+        "category": "开源项目",
+        "date": "2026-08-10",
+        "summary": "Advertisers are trying to influence AI bots with s",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Advertisers are tr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Advertisers are trying to influence AI bots with s",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Advertisers are trying to influence AI bots with s",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Register：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJDS3NwcktwOTJKdGwtUzhpN0NmbWhQel91VENBTXhZd19GNmhCa0o1RFBVZ2NwZFhYQXYzR3FBS1hWVnUtWUZoUzZQQnZXUzl2dGkyXzhlNlpNdkJlTWZmclBNdTc3b2NpVzZpd3U2LUo2V1ZLQmhULXlJWjRFeEJZU3pXVEFzWHRPa1RzMG82WTV0aTkyYkZ1SHJNOUZValVFYnhaVk1pSG5XMEVhVTdlaVpEcDQ?oc=5"
+          },
+          {
+            "label": "36 Kr：OpenClaw，崩了 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "chosun.com：Government AI Evaluation Eliminates One Team This Week - chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblVuSkRYel9POU1hSl9UR1QtcVFSRzYxaDQwSHc0aEJSZ1JNb3FTT2tYR21GTnA5Q2VGTU9DeERCMzAzTTBXTXlYMkZzZDFaMmQ5NXpyY25wVWJwOFNRaGZnNUs2NjVsR1lncW5zMHlNMVB6OFJPNEpGZFRQZ1A1dENxVnpOY3NW?oc=5"
+          }
+        ],
+        "source": "The Register",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJDS3NwcktwOTJKdGwtUzhpN0NmbWhQel91VENBTXhZd19GNmhCa0o1RFBVZ2NwZFhYQXYzR3FBS1hWVnUtWUZoUzZQQnZXUzl2dGkyXzhlNlpNdkJlTWZmclBNdTc3b2NpVzZpd3U2LUo2V1ZLQmhULXlJWjRFeEJZU3pXVEFzWHRPa1RzMG82WTV0aTkyYkZ1SHJNOUZValVFYnhaVk1pSG5XMEVhVTdlaVpEcDQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260810-auto-2-e2ce61",
+        "title": "OpenClaw，崩了 - 36 K",
+        "category": "开源项目",
+        "date": "2026-08-10",
+        "summary": "OpenClaw，崩了 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw，崩了 - 36 K 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenClaw，崩了 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenClaw，崩了 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "The Register：Advertisers are trying to influence AI bots with secret ads - The Regi",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJDS3NwcktwOTJKdGwtUzhpN0NmbWhQel91VENBTXhZd19GNmhCa0o1RFBVZ2NwZFhYQXYzR3FBS1hWVnUtWUZoUzZQQnZXUzl2dGkyXzhlNlpNdkJlTWZmclBNdTc3b2NpVzZpd3U2LUo2V1ZLQmhULXlJWjRFeEJZU3pXVEFzWHRPa1RzMG82WTV0aTkyYkZ1SHJNOUZValVFYnhaVk1pSG5XMEVhVTdlaVpEcDQ?oc=5"
+          },
+          {
+            "label": "chosun.com：Government AI Evaluation Eliminates One Team This Week - chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblVuSkRYel9POU1hSl9UR1QtcVFSRzYxaDQwSHc0aEJSZ1JNb3FTT2tYR21GTnA5Q2VGTU9DeERCMzAzTTBXTXlYMkZzZDFaMmQ5NXpyY25wVWJwOFNRaGZnNUs2NjVsR1lncW5zMHlNMVB6OFJPNEpGZFRQZ1A1dENxVnpOY3NW?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+      },
       {
         "slug": "open-source-20260809-auto-1-1b035f",
         "title": "Welcome to August",
