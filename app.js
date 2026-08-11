@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260811-auto-1-7e3996",
+        "title": "Mark Zuckerberg’s",
+        "category": "AI新闻",
+        "date": "2026-08-11",
+        "summary": "Mark Zuckerberg’s latest manifesto promises to sav",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mark Zuckerberg’s 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Mark Zuckerberg’s latest manifesto promises to sav",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mark Zuckerberg’s latest manifesto promises to sav",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXRObzMwdWF5ejg1WUY1WmhHSVhfWFNoM0VMN0xJc0o0SVRiLU1kT1dFdDFtYml4eFhmZEc0WDlDbHZ0X21jcVNoQ19JS0dKNFdTVkczdmFjSThPeW5NRUl6X2ZKMmc2ak9IMWFUVEM0MGFRSUdubmVxdmRPRkNVX1JobjY1VnFLWm5fZ212cVNGOGN3ZXdMQ0NiNDFTSFBWSzlCYWxZdWRaSTl6ekh3ZjB2SQ?oc=5"
+          },
+          {
+            "label": "新华网客户端：AI助力古籍编纂！《儒藏》将收录约3400种儒学典籍 - 新华网客户端",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGhzT09iZEwtdGltc2h1cWI3OEE3UGlWWHJSaWNBV0FkclAzaGdBT1gyNF9udWpadDdjQVFQbmNvRzdoRHhoMmIzUjlBcHZSUmJONjg2d3A3aFFud0xyUzZMUFN1Z2RPTmxuNFFSeDZvLVJmbjUtUkhiX0RSTVFFOTVyTXVPcWtDMXBLcllQSUY0dk4tTUVIZHVB?oc=5"
+          },
+          {
+            "label": "中金在线：英特尔计划发行150亿美元股票，为人工智能扩张提供资金_车市动态 - 中金在线",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sVWFoVDVDV2IxbmxrY1h5NXlsQTFTT0VsSUZqdjhVOFc2QkpyOENSV3RhcW8xVzM1RWNvQjhxTnFjTmtSMlRFRm40OGctdHcyZUJLc1ZYajBhdWtJYmx5aVphTXBGZGc3dzg0?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXRObzMwdWF5ejg1WUY1WmhHSVhfWFNoM0VMN0xJc0o0SVRiLU1kT1dFdDFtYml4eFhmZEc0WDlDbHZ0X21jcVNoQ19JS0dKNFdTVkczdmFjSThPeW5NRUl6X2ZKMmc2ak9IMWFUVEM0MGFRSUdubmVxdmRPRkNVX1JobjY1VnFLWm5fZ212cVNGOGN3ZXdMQ0NiNDFTSFBWSzlCYWxZdWRaSTl6ekh3ZjB2SQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260811-auto-2-c35659",
+        "title": "AI助力古籍编纂！《儒藏》将收录约3",
+        "category": "AI新闻",
+        "date": "2026-08-11",
+        "summary": "AI助力古籍编纂！《儒藏》将收录约3400种儒学典籍 新华网客户端",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI助力古籍编纂！《儒藏》将收录约3 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI助力古籍编纂！《儒藏》将收录约3400种儒学典籍 新华网客户端",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI助力古籍编纂！《儒藏》将收录约3400种儒学典籍 新华网客户端",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新华网客户端：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGhzT09iZEwtdGltc2h1cWI3OEE3UGlWWHJSaWNBV0FkclAzaGdBT1gyNF9udWpadDdjQVFQbmNvRzdoRHhoMmIzUjlBcHZSUmJONjg2d3A3aFFud0xyUzZMUFN1Z2RPTmxuNFFSeDZvLVJmbjUtUkhiX0RSTVFFOTVyTXVPcWtDMXBLcllQSUY0dk4tTUVIZHVB?oc=5"
+          },
+          {
+            "label": "The Washington Post：Mark Zuckerberg’s latest manifesto promises to save America with AI - ",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXRObzMwdWF5ejg1WUY1WmhHSVhfWFNoM0VMN0xJc0o0SVRiLU1kT1dFdDFtYml4eFhmZEc0WDlDbHZ0X21jcVNoQ19JS0dKNFdTVkczdmFjSThPeW5NRUl6X2ZKMmc2ak9IMWFUVEM0MGFRSUdubmVxdmRPRkNVX1JobjY1VnFLWm5fZ212cVNGOGN3ZXdMQ0NiNDFTSFBWSzlCYWxZdWRaSTl6ekh3ZjB2SQ?oc=5"
+          },
+          {
+            "label": "中金在线：英特尔计划发行150亿美元股票，为人工智能扩张提供资金_车市动态 - 中金在线",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sVWFoVDVDV2IxbmxrY1h5NXlsQTFTT0VsSUZqdjhVOFc2QkpyOENSV3RhcW8xVzM1RWNvQjhxTnFjTmtSMlRFRm40OGctdHcyZUJLc1ZYajBhdWtJYmx5aVphTXBGZGc3dzg0?oc=5"
+          }
+        ],
+        "source": "新华网客户端",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGhzT09iZEwtdGltc2h1cWI3OEE3UGlWWHJSaWNBV0FkclAzaGdBT1gyNF9udWpadDdjQVFQbmNvRzdoRHhoMmIzUjlBcHZSUmJONjg2d3A3aFFud0xyUzZMUFN1Z2RPTmxuNFFSeDZvLVJmbjUtUkhiX0RSTVFFOTVyTXVPcWtDMXBLcllQSUY0dk4tTUVIZHVB?oc=5"
+      },
+      {
         "slug": "ai-news-20260810-auto-1-bdfc45",
         "title": "The next chapter o",
         "category": "AI新闻",
@@ -15247,6 +15363,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260811-auto-1-f6eaa9",
+        "title": "Techunting Recogni",
+        "category": "AI使用教程",
+        "date": "2026-08-11",
+        "summary": "Techunting Recognized as a 2026 Summer Clutch Glob",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Techunting Recogni 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Techunting Recognized as a 2026 Summer Clutch Glob",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Techunting Recognized as a 2026 Summer Clutch Glob",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "openPR.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHhoaEVrQVZ3RUE2S1VuU0d6ZzR0MUxfU1JXWkNNT092aHVtUEZSR3dDWEc3eWtKYTk3N3BfckNGdHRSYWREQUZ1djZTNC13M3VkR01TOGZiV2NVWXBCX0ZtSDZEV0U0VXZrbjlGdjBRQnlGOUNxZFJORmhCTlAxcE9vd1JOMW1nVzRHamhTYmZmckNRdWJ1ZDlLYw?oc=5"
+          },
+          {
+            "label": "新浪网：普通人如何应对AI技术带来的失业风险？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80bDdwaWd0Zk5nUHc4ZzNfLWJUUFdEMnF4T2NUNWtJNXNzVV9kTFdxSzQtbkk1aTZwTEEyUG9tdnhDRk9VSENwYjJBSVZEQWxVeHhyMGdnSDVfNVdyVVlET01qQWoyZlZyZHY1bERNd2dIeUhJZDhWWEw0dVRWTmc?oc=5"
+          },
+          {
+            "label": "SitePoint：Getting Started with GPT-5.6 Luna: A Developer's Guide - SitePoint",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81NTFKWVJZSW5pMVlMRk9iRmlVbWdSYlhNaTFtTFB0Z0dlQ1YtZ2h3VTRHRnhuby1KZXVRWFRIR2V2QXZKNnA5bjg3WE9QaHN4S2VFQ2ZEdVhkdVBK?oc=5"
+          }
+        ],
+        "source": "openPR.com",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHhoaEVrQVZ3RUE2S1VuU0d6ZzR0MUxfU1JXWkNNT092aHVtUEZSR3dDWEc3eWtKYTk3N3BfckNGdHRSYWREQUZ1djZTNC13M3VkR01TOGZiV2NVWXBCX0ZtSDZEV0U0VXZrbjlGdjBRQnlGOUNxZFJORmhCTlAxcE9vd1JOMW1nVzRHamhTYmZmckNRdWJ1ZDlLYw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260810-auto-1-a23f60",
         "title": "AI Coding Tip 031",
         "category": "AI使用教程",
@@ -22293,6 +22467,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260811-auto-1-315180",
+        "title": "Motif Registers Pr",
+        "category": "开源项目",
+        "date": "2026-08-11",
+        "summary": "Motif Registers Proprietary LLM 'Motif 2' on Micro",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Motif Registers Pr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Motif Registers Proprietary LLM 'Motif 2' on Micro",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Motif Registers Proprietary LLM 'Motif 2' on Micro",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.biggo.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tTzNfMk11dWM2VU02LVMtbFV3clRZVWtlQkJNVmxRdTVDYVNzekI5YU9Lc0dOZ0FNNFdHNzlWTjJRc3p4czdnd2tockdTZWdfdURPRThQcUZqeDZyN3V6Vm5jUy11Z2xPX0xJSW9FU0RMV1ZjbGc?oc=5"
+          },
+          {
+            "label": "白鲸出海：Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍 - 白鲸出海",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM21NRUl0bXBJb195c2J0aVZ6a1MxNXpCNktqcjh3d0s3Ui1XdTB0cVFTQ3pTSC1jOHhxSHZxM2RtMnI2MDVwUjBnbEhzVEJpdWJONGFHMFg?oc=5"
+          },
+          {
+            "label": "article.9466.com：腾讯开源全新浏览器自动化工具 BrowserSkill：让 AI 智能体拥有独立干活的双手 - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rXzBxRHNYODNGa2JhQ01MZ1dJQ1c2bWg5ZjJHbFkySWxKOEgyRzI3cXZxT1NvS2w4Q1ljdTUxMlJWbXM0NEJGVEpIWFZZRms?oc=5"
+          }
+        ],
+        "source": "finance.biggo.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tTzNfMk11dWM2VU02LVMtbFV3clRZVWtlQkJNVmxRdTVDYVNzekI5YU9Lc0dOZ0FNNFdHNzlWTjJRc3p4czdnd2tockdTZWdfdURPRThQcUZqeDZyN3V6Vm5jUy11Z2xPX0xJSW9FU0RMV1ZjbGc?oc=5"
+      },
+      {
+        "slug": "open-source-20260811-auto-2-9b1490",
+        "title": "Meta 扎克伯格：美国若想取得开源",
+        "category": "开源项目",
+        "date": "2026-08-11",
+        "summary": "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍 白鲸出海",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta 扎克伯格：美国若想取得开源 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍 白鲸出海",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta 扎克伯格：美国若想取得开源 AI 领先，就得减少政策障碍 白鲸出海",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "白鲸出海：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM21NRUl0bXBJb195c2J0aVZ6a1MxNXpCNktqcjh3d0s3Ui1XdTB0cVFTQ3pTSC1jOHhxSHZxM2RtMnI2MDVwUjBnbEhzVEJpdWJONGFHMFg?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：Motif Registers Proprietary LLM 'Motif 2' on Microsoft Azure Marketpla",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tTzNfMk11dWM2VU02LVMtbFV3clRZVWtlQkJNVmxRdTVDYVNzekI5YU9Lc0dOZ0FNNFdHNzlWTjJRc3p4czdnd2tockdTZWdfdURPRThQcUZqeDZyN3V6Vm5jUy11Z2xPX0xJSW9FU0RMV1ZjbGc?oc=5"
+          },
+          {
+            "label": "article.9466.com：腾讯开源全新浏览器自动化工具 BrowserSkill：让 AI 智能体拥有独立干活的双手 - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rXzBxRHNYODNGa2JhQ01MZ1dJQ1c2bWg5ZjJHbFkySWxKOEgyRzI3cXZxT1NvS2w4Q1ljdTUxMlJWbXM0NEJGVEpIWFZZRms?oc=5"
+          }
+        ],
+        "source": "白鲸出海",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM21NRUl0bXBJb195c2J0aVZ6a1MxNXpCNktqcjh3d0s3Ui1XdTB0cVFTQ3pTSC1jOHhxSHZxM2RtMnI2MDVwUjBnbEhzVEJpdWJONGFHMFg?oc=5"
+      },
       {
         "slug": "open-source-20260810-auto-1-2bdcb7",
         "title": "Advertisers are tr",
