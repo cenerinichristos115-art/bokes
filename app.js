@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260812-auto-1-9fc59b",
+        "title": "Nvidia’s half-tril",
+        "category": "AI新闻",
+        "date": "2026-08-12",
+        "summary": "Nvidia’s half-trillion-dollar AI investment fund c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Nvidia’s half-tril 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Nvidia’s half-trillion-dollar AI investment fund c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Nvidia’s half-trillion-dollar AI investment fund c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Network World：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXVQTmJDcmFEUWNPMmpiS1VTUnRSaTNTazBWOGdvYURSSE5jVXBZNWlyNEVxU1ZjMkkzUWtlb3ZJUXRkb1VxenNhRmxzVFZfaGthYXgzQXhpTHZYV2p1bGRVTUloMk90alA1R1pSQ1VxVE02bVkyLW95N2VfRmZ0TjFBS1dTdmdPUnBkd29LU0RJZEp4UlFKWDBGaFN6a0RZOFJVTVZ6em5wR1BwaTJ1eUtZeUNZV2xUM2swajJqWlpEWlRVRUNYZUtVOFBnZ2Jyb0lmbHZpMjlkWHhDa1AxVQ?oc=5"
+          },
+          {
+            "label": "搜狐网：算力即资产，还是算力即生产力，中美AI路径分岔 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFBlc1ktVmJ2TzJYNmFRTV9IaDBzNlpsTUUtS3ZRQzFqU1R4S2xuR09zalNwLUJjZUItVjUySVE4ejZUaXBBZFpnc2NaVnRpM2RlLW9ZQlZ0TFhscHE4WHJJd1l4U1ROcUlveVdzb3VzOTFFcFNGWDB4dkxkbDd0N0NPR3NYTFpY?oc=5"
+          },
+          {
+            "label": "FTI Consulting：Key Trends and Implications in Healthcare AI Adoption - FTI Consulting",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTlFbjkxUUREZXhEZXBTak1TYk5zX2RFcVUyNk85U2Rpb0FPWU9DejZlSl9kdm5lMXBzeThFZ2F3X0ZfQjM1Rkxycm9QVTZHcGtVWXYyTkdXckJmQzI3ZDBJYzBOYkF6SnplRWt3REFlVmNkM0NkdjhnR3BKa2pYVE5pN21fR2FTeTlaYWVNd05ybkZDSmVKS1N3?oc=5"
+          }
+        ],
+        "source": "Network World",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXVQTmJDcmFEUWNPMmpiS1VTUnRSaTNTazBWOGdvYURSSE5jVXBZNWlyNEVxU1ZjMkkzUWtlb3ZJUXRkb1VxenNhRmxzVFZfaGthYXgzQXhpTHZYV2p1bGRVTUloMk90alA1R1pSQ1VxVE02bVkyLW95N2VfRmZ0TjFBS1dTdmdPUnBkd29LU0RJZEp4UlFKWDBGaFN6a0RZOFJVTVZ6em5wR1BwaTJ1eUtZeUNZV2xUM2swajJqWlpEWlRVRUNYZUtVOFBnZ2Jyb0lmbHZpMjlkWHhDa1AxVQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260812-auto-2-ba1528",
+        "title": "算力即资产，还是算力即生产力，中美A",
+        "category": "AI新闻",
+        "date": "2026-08-12",
+        "summary": "算力即资产，还是算力即生产力，中美AI路径分岔 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "算力即资产，还是算力即生产力，中美A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "算力即资产，还是算力即生产力，中美AI路径分岔 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "算力即资产，还是算力即生产力，中美AI路径分岔 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFBlc1ktVmJ2TzJYNmFRTV9IaDBzNlpsTUUtS3ZRQzFqU1R4S2xuR09zalNwLUJjZUItVjUySVE4ejZUaXBBZFpnc2NaVnRpM2RlLW9ZQlZ0TFhscHE4WHJJd1l4U1ROcUlveVdzb3VzOTFFcFNGWDB4dkxkbDd0N0NPR3NYTFpY?oc=5"
+          },
+          {
+            "label": "Network World：Nvidia’s half-trillion-dollar AI investment fund could impact enterpri",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXVQTmJDcmFEUWNPMmpiS1VTUnRSaTNTazBWOGdvYURSSE5jVXBZNWlyNEVxU1ZjMkkzUWtlb3ZJUXRkb1VxenNhRmxzVFZfaGthYXgzQXhpTHZYV2p1bGRVTUloMk90alA1R1pSQ1VxVE02bVkyLW95N2VfRmZ0TjFBS1dTdmdPUnBkd29LU0RJZEp4UlFKWDBGaFN6a0RZOFJVTVZ6em5wR1BwaTJ1eUtZeUNZV2xUM2swajJqWlpEWlRVRUNYZUtVOFBnZ2Jyb0lmbHZpMjlkWHhDa1AxVQ?oc=5"
+          },
+          {
+            "label": "FTI Consulting：Key Trends and Implications in Healthcare AI Adoption - FTI Consulting",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTlFbjkxUUREZXhEZXBTak1TYk5zX2RFcVUyNk85U2Rpb0FPWU9DejZlSl9kdm5lMXBzeThFZ2F3X0ZfQjM1Rkxycm9QVTZHcGtVWXYyTkdXckJmQzI3ZDBJYzBOYkF6SnplRWt3REFlVmNkM0NkdjhnR3BKa2pYVE5pN21fR2FTeTlaYWVNd05ybkZDSmVKS1N3?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFBlc1ktVmJ2TzJYNmFRTV9IaDBzNlpsTUUtS3ZRQzFqU1R4S2xuR09zalNwLUJjZUItVjUySVE4ejZUaXBBZFpnc2NaVnRpM2RlLW9ZQlZ0TFhscHE4WHJJd1l4U1ROcUlveVdzb3VzOTFFcFNGWDB4dkxkbDd0N0NPR3NYTFpY?oc=5"
+      },
+      {
         "slug": "ai-news-20260811-auto-1-7e3996",
         "title": "Mark Zuckerberg’s",
         "category": "AI新闻",
@@ -15363,6 +15479,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260812-auto-1-b10f03",
+        "title": "眼镜店里“绘”天庭 成都店主AI仙宫",
+        "category": "AI使用教程",
+        "date": "2026-08-12",
+        "summary": "眼镜店里“绘”天庭 成都店主AI仙宫短片走红海外 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "眼镜店里“绘”天庭 成都店主AI仙宫 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "眼镜店里“绘”天庭 成都店主AI仙宫短片走红海外 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "眼镜店里“绘”天庭 成都店主AI仙宫短片走红海外 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnFtRWhYY2dqVXNnc1pnSjZKcFFkVWVHb0dFU3NLVkcxZEFRdWd1ellYVTNLYWlhZk1DWEhYYmhLZmc5M2FLSlRydWV5Rk54dTJGcFZKN2plNko0aG5zcU1yTTNIN0FETkdBQzYwbm9PTnA0MWhFaXhTNXdXdFRBWXcyV3BlbXNMTjQzUA?oc=5"
+          },
+          {
+            "label": "驱动之家：MiniMax H3新手入门：免费入口、玩法、提示词全攻略 - 驱动之家",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtT0wwNEN5VUpfU0JCYjhDVThGcjBfLUc0NUpQQlhldGdzVlNXX01XdHZOUnFpMXFKaUR0TF9YelJDdk81QVNaSExvbkFtV3M1bEYwWlFicEU?oc=5"
+          },
+          {
+            "label": "80aj.com：2026 Vibe Coding全栈实战：从Cursor到Claude Code的AI编程进阶之路 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMcDA2Z1VHOTVZYk14SGl2MDhybTl1cEE1Vi1faEVlM0Vmcm16b2FWN2dOYU1FUEZkS2YwTjRCQWdoa005REg5ck9qNmZkbVZuWWlFS2FDR0k1YUE?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnFtRWhYY2dqVXNnc1pnSjZKcFFkVWVHb0dFU3NLVkcxZEFRdWd1ellYVTNLYWlhZk1DWEhYYmhLZmc5M2FLSlRydWV5Rk54dTJGcFZKN2plNko0aG5zcU1yTTNIN0FETkdBQzYwbm9PTnA0MWhFaXhTNXdXdFRBWXcyV3BlbXNMTjQzUA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260811-auto-1-f6eaa9",
         "title": "Techunting Recogni",
         "category": "AI使用教程",
@@ -22467,6 +22641,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260812-auto-1-e7f603",
+        "title": "专访｜两位华人主导创办，Jeff D",
+        "category": "开源项目",
+        "date": "2026-08-12",
+        "summary": "专访｜两位华人主导创办，Jeff Dean参投，伯克利开源项目SkyPilot转型初创 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "专访｜两位华人主导创办，Jeff D 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "专访｜两位华人主导创办，Jeff Dean参投，伯克利开源项目SkyPilot转型初创 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "专访｜两位华人主导创办，Jeff Dean参投，伯克利开源项目SkyPilot转型初创 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTRrRFg5M0RxclFEZHVPOFNqN29oUE5PYjJZdTVHWFFvQmNyS2Z1dElYOFppc2xGSjNvZS1PV2dKdjJkdk1KMGJLTEJyQkF4SEV0Y3N3SVVXVENrT3Rqd0JESnRKOEhqRWgxd2dlYjNQTVJtaDFIOGtOSW5VT3VNUERGQndmdmM0RnZYSjJkb0E?oc=5"
+          },
+          {
+            "label": "e南洋：传英伟达打造1兆参数AI模型 Nemotron 4瞄准全球顶尖开源巨头 - e南洋",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DdTlyTy1PNUd0elBnR0VqMnU1LTd5bHNxZXBObmJSNmZabnVSZTIyeFZHVDFoc19KZnFIdjRicjhTMmlYcnRWZ3BfUkd1elVEeVBYdldqQXA1YjdUcXNBdTVtQQ?oc=5"
+          },
+          {
+            "label": "SD Times：Cloudflare Announces Open Source AI Workspace for Every Employee - SD ",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkNyT05nd0xZcFg2NnRjS1V1d281Z2F6Q21iZ2ktbXJqVVFLd01HWWV0YTFJVTRDX1lRZ0JUdDc0b2RPc2ZySEEtcFZNTm9Lczl4QVhIUURvbkEwZW5DeGowdFhrUGdIaTNYMGtsRFZyb1RHVVJobEFLNnVNVUNkb2pWZzJxT1lHTzhkSnQxVmZJRU9sb0ZCbld2RUs3V0l1c3U5UzlR?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTRrRFg5M0RxclFEZHVPOFNqN29oUE5PYjJZdTVHWFFvQmNyS2Z1dElYOFppc2xGSjNvZS1PV2dKdjJkdk1KMGJLTEJyQkF4SEV0Y3N3SVVXVENrT3Rqd0JESnRKOEhqRWgxd2dlYjNQTVJtaDFIOGtOSW5VT3VNUERGQndmdmM0RnZYSjJkb0E?oc=5"
+      },
+      {
+        "slug": "open-source-20260812-auto-2-25079d",
+        "title": "传英伟达打造1兆参数AI模型 Nem",
+        "category": "开源项目",
+        "date": "2026-08-12",
+        "summary": "传英伟达打造1兆参数AI模型 Nemotron 4瞄准全球顶尖开源巨头 e南洋",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "传英伟达打造1兆参数AI模型 Nem 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "传英伟达打造1兆参数AI模型 Nemotron 4瞄准全球顶尖开源巨头 e南洋",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "传英伟达打造1兆参数AI模型 Nemotron 4瞄准全球顶尖开源巨头 e南洋",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "e南洋：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DdTlyTy1PNUd0elBnR0VqMnU1LTd5bHNxZXBObmJSNmZabnVSZTIyeFZHVDFoc19KZnFIdjRicjhTMmlYcnRWZ3BfUkd1elVEeVBYdldqQXA1YjdUcXNBdTVtQQ?oc=5"
+          },
+          {
+            "label": "新浪网：专访｜两位华人主导创办，Jeff Dean参投，伯克利开源项目SkyPilot转型初创 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTRrRFg5M0RxclFEZHVPOFNqN29oUE5PYjJZdTVHWFFvQmNyS2Z1dElYOFppc2xGSjNvZS1PV2dKdjJkdk1KMGJLTEJyQkF4SEV0Y3N3SVVXVENrT3Rqd0JESnRKOEhqRWgxd2dlYjNQTVJtaDFIOGtOSW5VT3VNUERGQndmdmM0RnZYSjJkb0E?oc=5"
+          },
+          {
+            "label": "SD Times：Cloudflare Announces Open Source AI Workspace for Every Employee - SD ",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkNyT05nd0xZcFg2NnRjS1V1d281Z2F6Q21iZ2ktbXJqVVFLd01HWWV0YTFJVTRDX1lRZ0JUdDc0b2RPc2ZySEEtcFZNTm9Lczl4QVhIUURvbkEwZW5DeGowdFhrUGdIaTNYMGtsRFZyb1RHVVJobEFLNnVNVUNkb2pWZzJxT1lHTzhkSnQxVmZJRU9sb0ZCbld2RUs3V0l1c3U5UzlR?oc=5"
+          }
+        ],
+        "source": "e南洋",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DdTlyTy1PNUd0elBnR0VqMnU1LTd5bHNxZXBObmJSNmZabnVSZTIyeFZHVDFoc19KZnFIdjRicjhTMmlYcnRWZ3BfUkd1elVEeVBYdldqQXA1YjdUcXNBdTVtQQ?oc=5"
+      },
       {
         "slug": "open-source-20260811-auto-1-315180",
         "title": "Motif Registers Pr",
