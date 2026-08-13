@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260813-auto-1-8e99b9",
+        "title": "Will AI Kill Mathe",
+        "category": "AI新闻",
+        "date": "2026-08-13",
+        "summary": "Will AI Kill Mathematics? Exploring the Impact of",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Will AI Kill Mathe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Will AI Kill Mathematics? Exploring the Impact of",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Will AI Kill Mathematics? Exploring the Impact of",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54eUV2emxJcndpcFp6WEpobFZtZ184RndjM3k2ckQwT3JSeUQ2dFJHYkRRSEo3OGhwUW9rdDlxVUJoTWZ4TG1QVkdFQ21uc21UeFR3?oc=5"
+          },
+          {
+            "label": "Sohu：剑指“人工智能场景创新第一区”！广州黄埔“十五五”这样干 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmM5RXB2RWdtWl92bkx4cGhUMEVJdVM2ekVqbnN3dUxORmxFUVBnN2JIdnYxTnpKeEhTZXNlNkRBT3JEaHdBa3lyNHhnRGNzRW5nTWlJdFV4bHRfUEhJTkRJNWVvb2F3RFB2X0t2OEg0b3ZPcWxZR0dTUlhjZ2EtMG5NcVNlRnhO?oc=5"
+          },
+          {
+            "label": "BBC：Twitch faces backlash over Amazon training AI on its users' livestream",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54eUV2emxJcndpcFp6WEpobFZtZ184RndjM3k2ckQwT3JSeUQ2dFJHYkRRSEo3OGhwUW9rdDlxVUJoTWZ4TG1QVkdFQ21uc21UeFR3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260813-auto-2-787e4d",
+        "title": "剑指“人工智能场景创新第一区”！广州",
+        "category": "AI新闻",
+        "date": "2026-08-13",
+        "summary": "剑指“人工智能场景创新第一区”！广州黄埔“十五五”这样干 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "剑指“人工智能场景创新第一区”！广州 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "剑指“人工智能场景创新第一区”！广州黄埔“十五五”这样干 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "剑指“人工智能场景创新第一区”！广州黄埔“十五五”这样干 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmM5RXB2RWdtWl92bkx4cGhUMEVJdVM2ekVqbnN3dUxORmxFUVBnN2JIdnYxTnpKeEhTZXNlNkRBT3JEaHdBa3lyNHhnRGNzRW5nTWlJdFV4bHRfUEhJTkRJNWVvb2F3RFB2X0t2OEg0b3ZPcWxZR0dTUlhjZ2EtMG5NcVNlRnhO?oc=5"
+          },
+          {
+            "label": "36 Kr：Will AI Kill Mathematics? Exploring the Impact of Artificial Intellige",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54eUV2emxJcndpcFp6WEpobFZtZ184RndjM3k2ckQwT3JSeUQ2dFJHYkRRSEo3OGhwUW9rdDlxVUJoTWZ4TG1QVkdFQ21uc21UeFR3?oc=5"
+          },
+          {
+            "label": "BBC：Twitch faces backlash over Amazon training AI on its users' livestream",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucDkzNFlkcW1keXY5bVFlYkJsRzFNcmltZ0ZOWDRBN0dpV0t6R3ZwQ3dmbzNUdmxWdzVNVlprM1hCcXE0OUFVVXFiLXdvV0ZlTWpDT0ZQYUVvdw?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmM5RXB2RWdtWl92bkx4cGhUMEVJdVM2ekVqbnN3dUxORmxFUVBnN2JIdnYxTnpKeEhTZXNlNkRBT3JEaHdBa3lyNHhnRGNzRW5nTWlJdFV4bHRfUEhJTkRJNWVvb2F3RFB2X0t2OEg0b3ZPcWxZR0dTUlhjZ2EtMG5NcVNlRnhO?oc=5"
+      },
+      {
         "slug": "ai-news-20260812-auto-1-9fc59b",
         "title": "Nvidia’s half-tril",
         "category": "AI新闻",
@@ -15479,6 +15595,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260813-auto-1-950c1d",
+        "title": "Anthropic’s 80% Pr",
+        "category": "AI使用教程",
+        "date": "2026-08-13",
+        "summary": "Anthropic’s 80% Prompt Cut Shows AI Creating Its O",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic’s 80% Pr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic’s 80% Prompt Cut Shows AI Creating Its O",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic’s 80% Prompt Cut Shows AI Creating Its O",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Futurum Group：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1lmRldoQXFPWkhVWG5pbC0tMkpWTGVfTldCdl9DN214S0JTMHZPS3lQWHlldHgyYWhzUlZ2VUNpU3pxSWpfMHZpdTNQclJRVDhWcFlOal84bXluZV8yaUY3d0JFWURUelU0bzQ2cW9QQ0gwa1NJSUJwUHJUWkduQWw1MTFSTXZ0V2dtNXM3aHFwNTNrdUlQU0JQeHFFM3E4Ync?oc=5"
+          },
+          {
+            "label": "80aj.com：展示HN：探索AI智能体之间的自主交易市场 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdEwwZkxuN2RYVTdXUTFxZXJFdGktQ2EtRDZPc0pYZUN6WjYzNTdqWkFMdWVfbDNCUEpBMWNIVFhKdU44WTdrNzZLRzQ5REIzTGM2Vkdlck40TUhMdFZjcnZlXzAyUkk?oc=5"
+          },
+          {
+            "label": "The AI Journal：How to Do Effective Prompt Engineering in Your CRM - The AI Journal",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yUEZ1azdudm5WMlNNT3RhOXFyRXA2Z2xBWFpqSGNpN1duYkkzMmhrWUVBWkl6R1NnbnpOcDhlWVdaTl9RQUtmSFREbnhWYVVZTDk4S2hHVnk0SGdJS1BBZlZOcWZfUHc1TGJNX0luRVh6aHA5aGdhRWttOA?oc=5"
+          }
+        ],
+        "source": "The Futurum Group",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1lmRldoQXFPWkhVWG5pbC0tMkpWTGVfTldCdl9DN214S0JTMHZPS3lQWHlldHgyYWhzUlZ2VUNpU3pxSWpfMHZpdTNQclJRVDhWcFlOal84bXluZV8yaUY3d0JFWURUelU0bzQ2cW9QQ0gwa1NJSUJwUHJUWkduQWw1MTFSTXZ0V2dtNXM3aHFwNTNrdUlQU0JQeHFFM3E4Ync?oc=5"
+      },
+      {
         "slug": "ai-guide-20260812-auto-1-b10f03",
         "title": "眼镜店里“绘”天庭 成都店主AI仙宫",
         "category": "AI使用教程",
@@ -22641,6 +22815,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260813-auto-1-4fd081",
+        "title": "Motif's Motif 3 sc",
+        "category": "开源项目",
+        "date": "2026-08-13",
+        "summary": "Motif's Motif 3 scores 47 on AAII, ranks 9th globa",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Motif's Motif 3 sc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Motif's Motif 3 scores 47 on AAII, ranks 9th globa",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Motif's Motif 3 scores 47 on AAII, ranks 9th globa",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEVpOGhUUmdGY2R6UTJwNHVhRFlNLWFUZ0JaRE82NnYtSkhCekxjZ2JfVDFaNWRMUlJ2dWZXTVRmUndrZ1RxUlZFeWR1bWUwOUxFeGh3aE5OZ05IWWIyUXVYbW1aN0ROdlNsOFY4dmgwaHFJalZ3T0ZnLUV1RmhzMVF4RHlGejF2X1hQOVJ5V3Bla0VlR1NuTlowNkpnOG1ITno4S3RXM0h5Y3Uyc05kZ3dKNk9MMmp2clE?oc=5"
+          },
+          {
+            "label": "디지털투데이：加密行业吁AI公司向比特币开发者开放先进模型优先访问权限 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTXJsVXlTR0JUSFhXSnRON2ZBTzZMTTR3WlQ2OWhfV0VaZ3d3QnFEX25NUU5ENVBwUGZoZW5vT21mbVpVd1VwN0hLbXQ3NnJQcDhDcUh6Vm0zU3A5bEk0QTJ1QWtoczBfY2hGSFJTUHkxdmxjNFphQTNNajJsR05DSmkxcC1zYkdvMUl0NzdFODZxZ29rbW41dTFQOWkzVG1ZWll5d05UNWFPaFlKVlB6X3pkbEFpUGI4TFB5WF9tVzlBQU9JcHBiTHk4dVpIOGo4Y2sxVjRB?oc=5"
+          },
+          {
+            "label": "凤凰网科技：刚刚，阿里开源2.4万亿参数大模型！性能比肩Fable 5 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5feFExazliRUpoWDM0THZtLVZieVBBRzI2ZDk2Sjd4dHdsMG5YVmRkRmZjLTN1YTJveUdteURCWmFoLVNscGFkOFpuTUc?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEVpOGhUUmdGY2R6UTJwNHVhRFlNLWFUZ0JaRE82NnYtSkhCekxjZ2JfVDFaNWRMUlJ2dWZXTVRmUndrZ1RxUlZFeWR1bWUwOUxFeGh3aE5OZ05IWWIyUXVYbW1aN0ROdlNsOFY4dmgwaHFJalZ3T0ZnLUV1RmhzMVF4RHlGejF2X1hQOVJ5V3Bla0VlR1NuTlowNkpnOG1ITno4S3RXM0h5Y3Uyc05kZ3dKNk9MMmp2clE?oc=5"
+      },
+      {
+        "slug": "open-source-20260813-auto-2-b6a36b",
+        "title": "加密行业吁AI公司向比特币开发者开放",
+        "category": "开源项目",
+        "date": "2026-08-13",
+        "summary": "加密行业吁AI公司向比特币开发者开放先进模型优先访问权限 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "加密行业吁AI公司向比特币开发者开放 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "加密行业吁AI公司向比特币开发者开放先进模型优先访问权限 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "加密行业吁AI公司向比特币开发者开放先进模型优先访问权限 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTXJsVXlTR0JUSFhXSnRON2ZBTzZMTTR3WlQ2OWhfV0VaZ3d3QnFEX25NUU5ENVBwUGZoZW5vT21mbVpVd1VwN0hLbXQ3NnJQcDhDcUh6Vm0zU3A5bEk0QTJ1QWtoczBfY2hGSFJTUHkxdmxjNFphQTNNajJsR05DSmkxcC1zYkdvMUl0NzdFODZxZ29rbW41dTFQOWkzVG1ZWll5d05UNWFPaFlKVlB6X3pkbEFpUGI4TFB5WF9tVzlBQU9JcHBiTHk4dVpIOGo4Y2sxVjRB?oc=5"
+          },
+          {
+            "label": "디지털투데이：Motif's Motif 3 scores 47 on AAII, ranks 9th globally and 1st in South",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEVpOGhUUmdGY2R6UTJwNHVhRFlNLWFUZ0JaRE82NnYtSkhCekxjZ2JfVDFaNWRMUlJ2dWZXTVRmUndrZ1RxUlZFeWR1bWUwOUxFeGh3aE5OZ05IWWIyUXVYbW1aN0ROdlNsOFY4dmgwaHFJalZ3T0ZnLUV1RmhzMVF4RHlGejF2X1hQOVJ5V3Bla0VlR1NuTlowNkpnOG1ITno4S3RXM0h5Y3Uyc05kZ3dKNk9MMmp2clE?oc=5"
+          },
+          {
+            "label": "凤凰网科技：刚刚，阿里开源2.4万亿参数大模型！性能比肩Fable 5 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5feFExazliRUpoWDM0THZtLVZieVBBRzI2ZDk2Sjd4dHdsMG5YVmRkRmZjLTN1YTJveUdteURCWmFoLVNscGFkOFpuTUc?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTXJsVXlTR0JUSFhXSnRON2ZBTzZMTTR3WlQ2OWhfV0VaZ3d3QnFEX25NUU5ENVBwUGZoZW5vT21mbVpVd1VwN0hLbXQ3NnJQcDhDcUh6Vm0zU3A5bEk0QTJ1QWtoczBfY2hGSFJTUHkxdmxjNFphQTNNajJsR05DSmkxcC1zYkdvMUl0NzdFODZxZ29rbW41dTFQOWkzVG1ZWll5d05UNWFPaFlKVlB6X3pkbEFpUGI4TFB5WF9tVzlBQU9JcHBiTHk4dVpIOGo4Y2sxVjRB?oc=5"
+      },
       {
         "slug": "open-source-20260812-auto-1-e7f603",
         "title": "专访｜两位华人主导创办，Jeff D",
