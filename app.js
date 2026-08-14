@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260814-auto-1-2c5db3",
+        "title": "Eisman Sees AI Boo",
+        "category": "AI新闻",
+        "date": "2026-08-14",
+        "summary": "Eisman Sees AI Boom Resting on a Duopoly of OpenAI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Eisman Sees AI Boo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Eisman Sees AI Boom Resting on a Duopoly of OpenAI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Eisman Sees AI Boom Resting on a Duopoly of OpenAI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Briefs Finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2NQVXMxekZvQ3g0c0FIVzVITlkzV2RkRFh5VTItakowb1NVNzdaVnhFUGgtYXFSbGNaTTJwX1hxR0N3VkJZTzJ3eDhxWng4RDBEMjN4NENNdVdVUnBVRV9kX0lGV240X2hLWnJ5aFFtWk96cGpwTmZiY3JBTWdHVUJPMGctSHhUd1FFUlNuTE53UQ?oc=5"
+          },
+          {
+            "label": "新浪网：《金融参考》新一期面世！人工智能时代，中小银行的挑战和应对 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1l2ejFBQk1oQUwwXzdyNHl6dXZCa3FDa1BwZHFGZ3c3c1hnS0NtU2FfRDIzZWhWa2Zub21tdDJRbFhVN1VCc0hCa1JsTm5fdWV3ejhWci10SjRpV29GYldRemhZcmhtNEpEaHFUUFFVYTY2Unc2Q0pBVElqcjhTN2RNVQ?oc=5"
+          },
+          {
+            "label": "United Nations University：AI Does Not Eliminate The Need For Human Judgment - United Nations Uni",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yaGtEOGZCSHpCdXdyQTBfbXNFU3FrZ1RpT1VWSzNjOHZuaU1COVlfamJoRFl4eHI4VEs3aExqbGNDeWRqdlVoUUhRZ0dNeWRNWUdTdDBwOWRoYmlKTEZBWHRVU1p1Mm5EQ0JJQkZfNVhKeFpRRWlWNjhpQnk?oc=5"
+          }
+        ],
+        "source": "Briefs Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2NQVXMxekZvQ3g0c0FIVzVITlkzV2RkRFh5VTItakowb1NVNzdaVnhFUGgtYXFSbGNaTTJwX1hxR0N3VkJZTzJ3eDhxWng4RDBEMjN4NENNdVdVUnBVRV9kX0lGV240X2hLWnJ5aFFtWk96cGpwTmZiY3JBTWdHVUJPMGctSHhUd1FFUlNuTE53UQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260814-auto-2-dc7465",
+        "title": "《金融参考》新一期面世！人工智能时代",
+        "category": "AI新闻",
+        "date": "2026-08-14",
+        "summary": "《金融参考》新一期面世！人工智能时代，中小银行的挑战和应对 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《金融参考》新一期面世！人工智能时代 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "《金融参考》新一期面世！人工智能时代，中小银行的挑战和应对 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《金融参考》新一期面世！人工智能时代，中小银行的挑战和应对 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1l2ejFBQk1oQUwwXzdyNHl6dXZCa3FDa1BwZHFGZ3c3c1hnS0NtU2FfRDIzZWhWa2Zub21tdDJRbFhVN1VCc0hCa1JsTm5fdWV3ejhWci10SjRpV29GYldRemhZcmhtNEpEaHFUUFFVYTY2Unc2Q0pBVElqcjhTN2RNVQ?oc=5"
+          },
+          {
+            "label": "Briefs Finance：Eisman Sees AI Boom Resting on a Duopoly of OpenAI and Anthropic - Bri",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2NQVXMxekZvQ3g0c0FIVzVITlkzV2RkRFh5VTItakowb1NVNzdaVnhFUGgtYXFSbGNaTTJwX1hxR0N3VkJZTzJ3eDhxWng4RDBEMjN4NENNdVdVUnBVRV9kX0lGV240X2hLWnJ5aFFtWk96cGpwTmZiY3JBTWdHVUJPMGctSHhUd1FFUlNuTE53UQ?oc=5"
+          },
+          {
+            "label": "United Nations University：AI Does Not Eliminate The Need For Human Judgment - United Nations Uni",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yaGtEOGZCSHpCdXdyQTBfbXNFU3FrZ1RpT1VWSzNjOHZuaU1COVlfamJoRFl4eHI4VEs3aExqbGNDeWRqdlVoUUhRZ0dNeWRNWUdTdDBwOWRoYmlKTEZBWHRVU1p1Mm5EQ0JJQkZfNVhKeFpRRWlWNjhpQnk?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1l2ejFBQk1oQUwwXzdyNHl6dXZCa3FDa1BwZHFGZ3c3c1hnS0NtU2FfRDIzZWhWa2Zub21tdDJRbFhVN1VCc0hCa1JsTm5fdWV3ejhWci10SjRpV29GYldRemhZcmhtNEpEaHFUUFFVYTY2Unc2Q0pBVElqcjhTN2RNVQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260813-auto-1-8e99b9",
         "title": "Will AI Kill Mathe",
         "category": "AI新闻",
@@ -15595,6 +15711,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260814-auto-1-5e5ac1",
+        "title": "AI三秒生成架空国名，网文作者直呼上",
+        "category": "AI使用教程",
+        "date": "2026-08-14",
+        "summary": "AI三秒生成架空国名，网文作者直呼上头 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI三秒生成架空国名，网文作者直呼上 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI三秒生成架空国名，网文作者直呼上头 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI三秒生成架空国名，网文作者直呼上头 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DYnU1UmY3dzdGY0QwV3MxeUFWOUZXQ0UybVdMdFQxbTVXM1g4WnRFZWtmOU1jM281M181U2Z4TWZ6OTk0OC1aV0JlRWxudmt3NFY3MmZxbGJQWDNBRkszemRueVhlNUlwYjd5dms1ZUc5cFNWc1ptZzhnVlViQjg?oc=5"
+          },
+          {
+            "label": "finance.sina.cn：Zoom曝高危安全漏洞，可借屏幕共享远程控制设备 - finance.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjhBTW8yZWtnOTBnWlU2b29kTTljQWlWb0hhNHItVHFkTU1tQ1hCMHgxUW9GUC03Z3ZyWk9keHRQZ1JDcG1FNUcxTkJUYy1SQWVaRUdKWUhfNnZtY3RwZmFpMGZPRFA3X1NJcGx6RU9hN0JjaWdXTXZsVUNRbDdDLThOWTJaTGZRcWx5dmF3RGdYQ0oySVlONV9qazBJdXQ1U0tSUXBEYXdQcG1MN1dodnpB?oc=5"
+          },
+          {
+            "label": "Mshale：New DeepSeek Just Did Something Crazy... Zak Chelli (kvabeuwicN) - Msh",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQkNSTkNLVTBWRE1ycm9qSGRYdjZEZjMxUHlTVjlmbVd4cXRCUkg4bjVGMDlic1hHc21XYndwWDBpSW9rUWdHdVRQSU1KVnY0MUd5SUU5Qk0wcm8?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DYnU1UmY3dzdGY0QwV3MxeUFWOUZXQ0UybVdMdFQxbTVXM1g4WnRFZWtmOU1jM281M181U2Z4TWZ6OTk0OC1aV0JlRWxudmt3NFY3MmZxbGJQWDNBRkszemRueVhlNUlwYjd5dms1ZUc5cFNWc1ptZzhnVlViQjg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260813-auto-1-950c1d",
         "title": "Anthropic’s 80% Pr",
         "category": "AI使用教程",
@@ -22815,6 +22989,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260814-auto-1-8f703c",
+        "title": "AI 智能体开始参与交付，谁来证明它",
+        "category": "开源项目",
+        "date": "2026-08-14",
+        "summary": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案 In",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI 智能体开始参与交付，谁来证明它 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案 In",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案 In",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ-CN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWLTlKblBMYnBWYUFScVdmNzN3QUdsbzhuT2pTS3dIU1U0bkFGMEt5c2l0U0phSDBIc3VNbkYyQlZ2dG1Hc2diQmRXRk9lelJfSlZSSU85OC1HeUNaM0E?oc=5"
+          },
+          {
+            "label": "article.9466.com：DeepSeek 开源首款 Agent 框架 Harness：\"一切皆插件\"，给 AI 装上可拆装的执行引擎 - article.9466.",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TY19vZWNZOVc0UTR2UV9pMFh0MURUWl9BMWVVYXJLSm40OGt0UElFTFdjcVVacUc4TW92ck43QV9Tem9OcTFSbEwycjRmSjQ?oc=5"
+          },
+          {
+            "label": "조선일보：Anthropic Watermark Neutralized by AI Tool in 24 Hours - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjRfNFN3VFUydkxJSDV5UlB4dTBBY2FBekhlb2txNmpmTXRYQ00tQjdjM29VdlRHdzQxQk45cUY0NHdjQ3cyTko5RVBJRTNBc0ZxMUN2MnByb1JRbUN5cTk2YVQ5dTFsN0xycURia3hFUy1Xb1RnOGJWb3R4MklPWnRIZHRSc3dm?oc=5"
+          }
+        ],
+        "source": "InfoQ-CN",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWLTlKblBMYnBWYUFScVdmNzN3QUdsbzhuT2pTS3dIU1U0bkFGMEt5c2l0U0phSDBIc3VNbkYyQlZ2dG1Hc2diQmRXRk9lelJfSlZSSU85OC1HeUNaM0E?oc=5"
+      },
+      {
+        "slug": "open-source-20260814-auto-2-b2e4cd",
+        "title": "DeepSeek 开源首款 Agen",
+        "category": "开源项目",
+        "date": "2026-08-14",
+        "summary": "DeepSeek 开源首款 Agent 框架 Harness：\"一切皆插件\"，给 AI 装上可拆装的",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek 开源首款 Agen 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "DeepSeek 开源首款 Agent 框架 Harness：\"一切皆插件\"，给 AI 装上可拆装的",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek 开源首款 Agent 框架 Harness：\"一切皆插件\"，给 AI 装上可拆装的",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TY19vZWNZOVc0UTR2UV9pMFh0MURUWl9BMWVVYXJLSm40OGt0UElFTFdjcVVacUc4TW92ck43QV9Tem9OcTFSbEwycjRmSjQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：AI 智能体开始参与交付，谁来证明它没有“动手脚”？IBM 与 Red Hat 给出一套新方案 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWLTlKblBMYnBWYUFScVdmNzN3QUdsbzhuT2pTS3dIU1U0bkFGMEt5c2l0U0phSDBIc3VNbkYyQlZ2dG1Hc2diQmRXRk9lelJfSlZSSU85OC1HeUNaM0E?oc=5"
+          },
+          {
+            "label": "조선일보：Anthropic Watermark Neutralized by AI Tool in 24 Hours - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjRfNFN3VFUydkxJSDV5UlB4dTBBY2FBekhlb2txNmpmTXRYQ00tQjdjM29VdlRHdzQxQk45cUY0NHdjQ3cyTko5RVBJRTNBc0ZxMUN2MnByb1JRbUN5cTk2YVQ5dTFsN0xycURia3hFUy1Xb1RnOGJWb3R4MklPWnRIZHRSc3dm?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TY19vZWNZOVc0UTR2UV9pMFh0MURUWl9BMWVVYXJLSm40OGt0UElFTFdjcVVacUc4TW92ck43QV9Tem9OcTFSbEwycjRmSjQ?oc=5"
+      },
       {
         "slug": "open-source-20260813-auto-1-4fd081",
         "title": "Motif's Motif 3 sc",
