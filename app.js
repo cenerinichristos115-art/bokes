@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260815-auto-1-ea6d8a",
+        "title": "面向多模态推理的高效长上下文建模｜A",
+        "category": "AI新闻",
+        "date": "2026-08-15",
+        "summary": "面向多模态推理的高效长上下文建模｜AICon 深圳 InfoQ-CN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "面向多模态推理的高效长上下文建模｜A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "面向多模态推理的高效长上下文建模｜AICon 深圳 InfoQ-CN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "面向多模态推理的高效长上下文建模｜AICon 深圳 InfoQ-CN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ-CN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMTRwX3hiTl9RMUhycEFGWXdHNGZfWjh5Wm1nY3h1RGNMMlFvV3JqTllKNkQ5WmowUnIxUFYyVDNDemgybkN2dkpqd2lVVTJRWlE2eFZfVU5CeWZDalE?oc=5"
+          },
+          {
+            "label": "新浪网：搞霸凌，“必须在中美AI中二选一” - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUZzlLYWp6czl0UkR4enZUc09iRG1jZWZ2c0dIYWNWUEV4SWlPMVYwVGZhZ0FCMXNXMXdUWFR3ck5NTFVyS2NRTHZURVhtdTRmc3pkZjJWeUlNcGRtUXJ6dlIwRnNON0F4V1dDT0EyWnN4X0E2MTg3ZmJFTmhnQQ?oc=5"
+          },
+          {
+            "label": "紫牛新闻：作答｜机器人采访“机器人”：一群年轻人造出“童年机甲梦” - 紫牛新闻",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcmlpdmtTVGxSQ2I0TVVIbXBWMmhSVkwwbXU3YVpxSlhvMGRQUlhPdWQ0LTZfUEwzS3BSNEM4WUQ5NUZGOC0wQlJfSFBkTmstc0VpTmVqWVNuLUpYOWwxa0ppblhvNVVG?oc=5"
+          }
+        ],
+        "source": "InfoQ-CN",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMTRwX3hiTl9RMUhycEFGWXdHNGZfWjh5Wm1nY3h1RGNMMlFvV3JqTllKNkQ5WmowUnIxUFYyVDNDemgybkN2dkpqd2lVVTJRWlE2eFZfVU5CeWZDalE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260815-auto-2-5aeb8d",
+        "title": "搞霸凌，“必须在中美AI中二选一”",
+        "category": "AI新闻",
+        "date": "2026-08-15",
+        "summary": "搞霸凌，“必须在中美AI中二选一” 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "搞霸凌，“必须在中美AI中二选一” 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "搞霸凌，“必须在中美AI中二选一” 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "搞霸凌，“必须在中美AI中二选一” 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUZzlLYWp6czl0UkR4enZUc09iRG1jZWZ2c0dIYWNWUEV4SWlPMVYwVGZhZ0FCMXNXMXdUWFR3ck5NTFVyS2NRTHZURVhtdTRmc3pkZjJWeUlNcGRtUXJ6dlIwRnNON0F4V1dDT0EyWnN4X0E2MTg3ZmJFTmhnQQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：面向多模态推理的高效长上下文建模｜AICon 深圳 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SMTRwX3hiTl9RMUhycEFGWXdHNGZfWjh5Wm1nY3h1RGNMMlFvV3JqTllKNkQ5WmowUnIxUFYyVDNDemgybkN2dkpqd2lVVTJRWlE2eFZfVU5CeWZDalE?oc=5"
+          },
+          {
+            "label": "紫牛新闻：作答｜机器人采访“机器人”：一群年轻人造出“童年机甲梦” - 紫牛新闻",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcmlpdmtTVGxSQ2I0TVVIbXBWMmhSVkwwbXU3YVpxSlhvMGRQUlhPdWQ0LTZfUEwzS3BSNEM4WUQ5NUZGOC0wQlJfSFBkTmstc0VpTmVqWVNuLUpYOWwxa0ppblhvNVVG?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUZzlLYWp6czl0UkR4enZUc09iRG1jZWZ2c0dIYWNWUEV4SWlPMVYwVGZhZ0FCMXNXMXdUWFR3ck5NTFVyS2NRTHZURVhtdTRmc3pkZjJWeUlNcGRtUXJ6dlIwRnNON0F4V1dDT0EyWnN4X0E2MTg3ZmJFTmhnQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260814-auto-1-2c5db3",
         "title": "Eisman Sees AI Boo",
         "category": "AI新闻",
@@ -15711,6 +15827,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260815-auto-1-e861f0",
+        "title": "法庭上的提示词注入，那段想说服 AI",
+        "category": "AI使用教程",
+        "date": "2026-08-15",
+        "summary": "法庭上的提示词注入，那段想说服 AI 的隐形白色文字 Pasquale Pillitteri",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "法庭上的提示词注入，那段想说服 AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "法庭上的提示词注入，那段想说服 AI 的隐形白色文字 Pasquale Pillitteri",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "法庭上的提示词注入，那段想说服 AI 的隐形白色文字 Pasquale Pillitteri",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWREN293bkZFQU9uSzRMU3lKYmVWMUxueE5USFpVZUwySU9HSllsVGZnZUtidlY0anZaMTE4OXBFMFRDVTJ4OGxKUE9wYzlQVTh0eHhNZ25FWTFKeHhpVW5ZLW1qUmNRN1dCczFXUHpBVVZ2ajJsRWh4SGt0LXZ3b1c1RnhlcGE0M01iZw?oc=5"
+          },
+          {
+            "label": "80aj.com：开源音频合成器 Eigendrum：手绘波形创造鼓点，探索Web音频微音律技术 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Y2hOMmxFWGxNdVRGTUhZbGpxQ2MtM2o5b3VyakxFRDNXYVY5RkozdEdVbHhKQ05KR3RxRlZ3d0ZzeExjOGRrSjJpUUlJQWMxbmNLbmdTdjVoU1gtbHdlV25JTTY?oc=5"
+          },
+          {
+            "label": "80aj.com：DeepSeek V4 Pro实测：优化提示词策略显著提升AI编程效率 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XUWd6R3E3NC0xNm9Ec0pjbTc4ZWJQQ3dTSS1QdDQzWXpzRE9ZM3U5MzNCM0IzNmR5Z1k0bGpBeWl6OHZYYjJ1aGp0S0dwSFgwdmNTSk51REJNWkdBSnkwdTBOWGcwNDVqSW5BTlJBMVQ?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWREN293bkZFQU9uSzRMU3lKYmVWMUxueE5USFpVZUwySU9HSllsVGZnZUtidlY0anZaMTE4OXBFMFRDVTJ4OGxKUE9wYzlQVTh0eHhNZ25FWTFKeHhpVW5ZLW1qUmNRN1dCczFXUHpBVVZ2ajJsRWh4SGt0LXZ3b1c1RnhlcGE0M01iZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260814-auto-1-5e5ac1",
         "title": "AI三秒生成架空国名，网文作者直呼上",
         "category": "AI使用教程",
@@ -22989,6 +23163,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260815-auto-1-bd9473",
+        "title": "China's latest ope",
+        "category": "开源项目",
+        "date": "2026-08-15",
+        "summary": "China's latest open-weight model rivals U.S. model",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China's latest ope 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China's latest open-weight model rivals U.S. model",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China's latest open-weight model rivals U.S. model",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Axios：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5"
+          },
+          {
+            "label": "dailycaller.com：CCP-Linked AI Rivals US Anthropic’s Model In Cyber Tests - dailycaller",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazZQN3E4V2NteVNCSllhQUZydENMVXRPRDFZVkkzZWxkTEFDZGl1NXB3QXBoN093cmJsZmRkQS1Pc2V6MDRJMXpvWGttbVFrVms1QVVva3hHVC1oQTRTSVdwT0tla1BVajJfQ2NOVDlqb0lLMUpJSGNEekdadWdNcFBkYnJzRjlQZXQ3T3RrLXZuZw?oc=5"
+          },
+          {
+            "label": "Nikkei Asia：China's Z.ai launches model it says rivals Anthropic's Mythos - Nikkei",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanNQR2U5M0wwU2dNZFdPN2VpRHFkSzcxVmFjOTgtVEVISkpKSThEbjNyaUFzNmIyVWxMT3BLNk9lYmhaNWhtcjBudkNyNjdFaV93VnFNZG5TdHlZM3cxRnVBQUs3RndpNHFaLWJmclI3YThjb0N6WW12QWRGZ2EzSmJzUnRsWmoxVlFRV0VPa0h1VGJVbEhjV0ttTVNHVmtXZHM4ZDd0NktmeG4weklFcmE5aGFWaVphdUtqNTBYRmxJWHVlMXl0NQ?oc=5"
+          }
+        ],
+        "source": "Axios",
+        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5"
+      },
+      {
+        "slug": "open-source-20260815-auto-2-9b62cc",
+        "title": "CCP-Linked AI Riva",
+        "category": "开源项目",
+        "date": "2026-08-15",
+        "summary": "CCP-Linked AI Rivals US Anthropic’s Model In Cyber",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "CCP-Linked AI Riva 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "CCP-Linked AI Rivals US Anthropic’s Model In Cyber",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "CCP-Linked AI Rivals US Anthropic’s Model In Cyber",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "dailycaller.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazZQN3E4V2NteVNCSllhQUZydENMVXRPRDFZVkkzZWxkTEFDZGl1NXB3QXBoN093cmJsZmRkQS1Pc2V6MDRJMXpvWGttbVFrVms1QVVva3hHVC1oQTRTSVdwT0tla1BVajJfQ2NOVDlqb0lLMUpJSGNEekdadWdNcFBkYnJzRjlQZXQ3T3RrLXZuZw?oc=5"
+          },
+          {
+            "label": "Axios：China's latest open-weight model rivals U.S. models at hacking - Axios",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90b1dxOHUyUFgwcHoyZlJVSTY5eGdtdUdjUFN1NGRHVXhQVUdRa3NvcmZidjB0LWsyTHA1VDQ2SGlfNmFNeGVZeEpJaGRXTlkxSEtVaFlDT3RzY3dtbmpwTHgxazNGT3UzWXIwaA?oc=5"
+          },
+          {
+            "label": "Nikkei Asia：China's Z.ai launches model it says rivals Anthropic's Mythos - Nikkei",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanNQR2U5M0wwU2dNZFdPN2VpRHFkSzcxVmFjOTgtVEVISkpKSThEbjNyaUFzNmIyVWxMT3BLNk9lYmhaNWhtcjBudkNyNjdFaV93VnFNZG5TdHlZM3cxRnVBQUs3RndpNHFaLWJmclI3YThjb0N6WW12QWRGZ2EzSmJzUnRsWmoxVlFRV0VPa0h1VGJVbEhjV0ttTVNHVmtXZHM4ZDd0NktmeG4weklFcmE5aGFWaVphdUtqNTBYRmxJWHVlMXl0NQ?oc=5"
+          }
+        ],
+        "source": "dailycaller.com",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazZQN3E4V2NteVNCSllhQUZydENMVXRPRDFZVkkzZWxkTEFDZGl1NXB3QXBoN093cmJsZmRkQS1Pc2V6MDRJMXpvWGttbVFrVms1QVVva3hHVC1oQTRTSVdwT0tla1BVajJfQ2NOVDlqb0lLMUpJSGNEekdadWdNcFBkYnJzRjlQZXQ3T3RrLXZuZw?oc=5"
+      },
       {
         "slug": "open-source-20260814-auto-1-8f703c",
         "title": "AI 智能体开始参与交付，谁来证明它",
