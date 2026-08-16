@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260816-auto-1-a64e90",
+        "title": "美国大模型帮日本投毒AI，包括涉台错",
+        "category": "AI新闻",
+        "date": "2026-08-16",
+        "summary": "美国大模型帮日本投毒AI，包括涉台错误言论、钓鱼岛非法主张…… Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "美国大模型帮日本投毒AI，包括涉台错 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "美国大模型帮日本投毒AI，包括涉台错误言论、钓鱼岛非法主张…… Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "美国大模型帮日本投毒AI，包括涉台错误言论、钓鱼岛非法主张…… Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDVabkFodHdGWFBOLXdnNDVpNWk5dTJMTlU2TkZRQjR3THVORmUwTlowakNpQXZ3N2pTZnRIOUVMZWhrMHRQeVpXZmlkd080X1haWllMcHB5YWxhckdFN1M1ZTc1X3BkbXJZcER1bC1laGZvV2ZncWN1WEVVc0VOOXlpbmZnYUlu?oc=5"
+          },
+          {
+            "label": "欧洲头条：温州，又添一座“Token工厂”！ - 欧洲头条",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlFlekJIT0ZYQ0JkMlBsSkRoQXZRVGduZkc3RkpQbW9wYWI4WFUyM0wzZVg1cWpGd3YyQzRKWW05Q2pNQUJPNE9BRllObVhzODJBRk1JQ2Z4ZV81UXpVN2lGNktKbWpTZFFKMVBPVEUzcXdTN1pUUG8tbm82OUpyN29IUXROVXNhRlBj?oc=5"
+          },
+          {
+            "label": "France 24：'People could get hurt': Conservationists decry AI wildlife visuals - ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzVCNXA0Q2VWaWo2Mm8zLUpuU01KMjBKUmlqVW8zUjY5SmxhRmZMdnAtc1F1NDRwQ0psMGZrZUdtMms1dTJZTzJCTGd5amRrZUZCMjF6ZW55ekZuU3d1bWdGMWVyeWZFVmZMMFpLTkhyRFlUekp1NkVMNTZjWEx3bFc5VW4zQW5IYzlGTHlGUjZ4bnFZclhBTE9PVGpPVmI5ZjNuc3ZvbDFmMUhITm5rSw?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDVabkFodHdGWFBOLXdnNDVpNWk5dTJMTlU2TkZRQjR3THVORmUwTlowakNpQXZ3N2pTZnRIOUVMZWhrMHRQeVpXZmlkd080X1haWllMcHB5YWxhckdFN1M1ZTc1X3BkbXJZcER1bC1laGZvV2ZncWN1WEVVc0VOOXlpbmZnYUlu?oc=5"
+      },
+      {
+        "slug": "ai-news-20260816-auto-2-8962fc",
+        "title": "温州，又添一座“Token工厂”！",
+        "category": "AI新闻",
+        "date": "2026-08-16",
+        "summary": "温州，又添一座“Token工厂”！ 欧洲头条",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "温州，又添一座“Token工厂”！ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "温州，又添一座“Token工厂”！ 欧洲头条",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "温州，又添一座“Token工厂”！ 欧洲头条",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "欧洲头条：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlFlekJIT0ZYQ0JkMlBsSkRoQXZRVGduZkc3RkpQbW9wYWI4WFUyM0wzZVg1cWpGd3YyQzRKWW05Q2pNQUJPNE9BRllObVhzODJBRk1JQ2Z4ZV81UXpVN2lGNktKbWpTZFFKMVBPVEUzcXdTN1pUUG8tbm82OUpyN29IUXROVXNhRlBj?oc=5"
+          },
+          {
+            "label": "Sohu：美国大模型帮日本投毒AI，包括涉台错误言论、钓鱼岛非法主张…… - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDVabkFodHdGWFBOLXdnNDVpNWk5dTJMTlU2TkZRQjR3THVORmUwTlowakNpQXZ3N2pTZnRIOUVMZWhrMHRQeVpXZmlkd080X1haWllMcHB5YWxhckdFN1M1ZTc1X3BkbXJZcER1bC1laGZvV2ZncWN1WEVVc0VOOXlpbmZnYUlu?oc=5"
+          },
+          {
+            "label": "France 24：'People could get hurt': Conservationists decry AI wildlife visuals - ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzVCNXA0Q2VWaWo2Mm8zLUpuU01KMjBKUmlqVW8zUjY5SmxhRmZMdnAtc1F1NDRwQ0psMGZrZUdtMms1dTJZTzJCTGd5amRrZUZCMjF6ZW55ekZuU3d1bWdGMWVyeWZFVmZMMFpLTkhyRFlUekp1NkVMNTZjWEx3bFc5VW4zQW5IYzlGTHlGUjZ4bnFZclhBTE9PVGpPVmI5ZjNuc3ZvbDFmMUhITm5rSw?oc=5"
+          }
+        ],
+        "source": "欧洲头条",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlFlekJIT0ZYQ0JkMlBsSkRoQXZRVGduZkc3RkpQbW9wYWI4WFUyM0wzZVg1cWpGd3YyQzRKWW05Q2pNQUJPNE9BRllObVhzODJBRk1JQ2Z4ZV81UXpVN2lGNktKbWpTZFFKMVBPVEUzcXdTN1pUUG8tbm82OUpyN29IUXROVXNhRlBj?oc=5"
+      },
+      {
         "slug": "ai-news-20260815-auto-1-ea6d8a",
         "title": "面向多模态推理的高效长上下文建模｜A",
         "category": "AI新闻",
@@ -15827,6 +15943,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260816-auto-1-b47c1c",
+        "title": "UX Unpacked: Using",
+        "category": "AI使用教程",
+        "date": "2026-08-16",
+        "summary": "UX Unpacked: Using the Fogg Behavior Model to Diag",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "UX Unpacked: Using 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "UX Unpacked: Using the Fogg Behavior Model to Diag",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "UX Unpacked: Using the Fogg Behavior Model to Diag",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDczN1pWc3F2SGJsX0ZkR0pvMERxaFNNU1BLTmFWNVpSNHFjdTlPOG1UQjFCZWsyQmxHUzlPOWJQWmJWY1pXUkhnQUZwS2pGejJwVmJoNlZWWVF6NGVnN3dFNm90bDZ5RnZncks2VWw5bEkxS1REMC1aWnRQZmNSZEJ5TmFsNzZSZ0NQMGlnSEZNVjE3UnRjVQ?oc=5"
+          },
+          {
+            "label": "新浪财经：是“AI腔”使世界荒诞，还是我们自己太荒唐？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWdYMkxlbjlMbjRaZEI0dm1jdnBUTmlJcjJoWll6LXpHOGQtdVg5cjVtWHpRRTgxcnFBYkk1Y3FPZC1fQU02YUxsb1I1Q0xIRGJpdXRxM1FTUU9BVDdoYlViMFM0SmNqd2ExOFhiYmtaelBsSzJBRUJkWXBvUW1QUXBkUzcyQmdCQ05udEVVUllzRmFtZXF5SVpXajBMaHNzWTA4c0lxZDZydGFzU3lsTE9R?oc=5"
+          },
+          {
+            "label": "womenofchina.com：AI计划软件2026年完整录取人数-AI计划软件图文详解 - womenofchina.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96clVCU3N4SWRKT1JEbEhJcjhoV01vYkNQeHdwT3pYcW1uajdqdUp4b0gwMXhTQ0pydWI1VFJCUy1vTW9XZlpKRDRVdE44VGpjVDRoc3pKNjNYZw?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDczN1pWc3F2SGJsX0ZkR0pvMERxaFNNU1BLTmFWNVpSNHFjdTlPOG1UQjFCZWsyQmxHUzlPOWJQWmJWY1pXUkhnQUZwS2pGejJwVmJoNlZWWVF6NGVnN3dFNm90bDZ5RnZncks2VWw5bEkxS1REMC1aWnRQZmNSZEJ5TmFsNzZSZ0NQMGlnSEZNVjE3UnRjVQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260815-auto-1-e861f0",
         "title": "法庭上的提示词注入，那段想说服 AI",
         "category": "AI使用教程",
@@ -23163,6 +23337,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260816-auto-1-7911a5",
+        "title": "黄仁勋安抚AI算力市场：英伟达可能会",
+        "category": "开源项目",
+        "date": "2026-08-16",
+        "summary": "黄仁勋安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制” 东方财富",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "黄仁勋安抚AI算力市场：英伟达可能会 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "黄仁勋安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制” 东方财富",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "黄仁勋安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制” 东方财富",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "东方财富：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KM09oZkhqbF9qWU93QUNzV1BsUWtLbjlfaG5wTUJ2YmlfMnliMUhHMnU5bjg5djBnbjBiTFJrdC1xaWN5d2x5TkdTTkJ4ejhkLUVCNUJFcy1Hd1J2ZGNGbQ?oc=5"
+          },
+          {
+            "label": "Substack：AI Week in Review 26.08.15 - Substack",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcXBLeVdVOVB3VEwzTEx4SHVLVmwxTENfYXRxemNlYXdXZDVXX1BRdWNGTmVuUkF6MjFYSEhGWW9Bb1NYTG9kdW9iU1ZGRjhVWnVkMUp2RnV4WXJJVTVVSnFkR3RMTF9HQXRwR21R?oc=5"
+          },
+          {
+            "label": "80aj.com：开源 AI 编程工具 Snow APP 发布：集成 MCP 协议与多模态模型，打造高性能桌面智能体 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Y1c4eElGZkZpaHBpZjFCZHZtV2NvdG9YSlZUNnJnOU1RdnkyX2NzdldKQl9EdWk4Z1lZODg5SnB6a1hYNkItcDBpczZ1SUN0d0VpME41OU9uc3Vp?oc=5"
+          }
+        ],
+        "source": "东方财富",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KM09oZkhqbF9qWU93QUNzV1BsUWtLbjlfaG5wTUJ2YmlfMnliMUhHMnU5bjg5djBnbjBiTFJrdC1xaWN5d2x5TkdTTkJ4ejhkLUVCNUJFcy1Hd1J2ZGNGbQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260816-auto-2-ffdb35",
+        "title": "AI Week in Review",
+        "category": "开源项目",
+        "date": "2026-08-16",
+        "summary": "AI Week in Review 26.08.15 Substack",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Week in Review 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Week in Review 26.08.15 Substack",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Week in Review 26.08.15 Substack",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Substack：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcXBLeVdVOVB3VEwzTEx4SHVLVmwxTENfYXRxemNlYXdXZDVXX1BRdWNGTmVuUkF6MjFYSEhGWW9Bb1NYTG9kdW9iU1ZGRjhVWnVkMUp2RnV4WXJJVTVVSnFkR3RMTF9HQXRwR21R?oc=5"
+          },
+          {
+            "label": "东方财富：黄仁勋安抚AI算力市场：英伟达可能会“为单个投资项目提供最高25%的残值支持机制” - 东方财富",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KM09oZkhqbF9qWU93QUNzV1BsUWtLbjlfaG5wTUJ2YmlfMnliMUhHMnU5bjg5djBnbjBiTFJrdC1xaWN5d2x5TkdTTkJ4ejhkLUVCNUJFcy1Hd1J2ZGNGbQ?oc=5"
+          },
+          {
+            "label": "80aj.com：开源 AI 编程工具 Snow APP 发布：集成 MCP 协议与多模态模型，打造高性能桌面智能体 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Y1c4eElGZkZpaHBpZjFCZHZtV2NvdG9YSlZUNnJnOU1RdnkyX2NzdldKQl9EdWk4Z1lZODg5SnB6a1hYNkItcDBpczZ1SUN0d0VpME41OU9uc3Vp?oc=5"
+          }
+        ],
+        "source": "Substack",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZcXBLeVdVOVB3VEwzTEx4SHVLVmwxTENfYXRxemNlYXdXZDVXX1BRdWNGTmVuUkF6MjFYSEhGWW9Bb1NYTG9kdW9iU1ZGRjhVWnVkMUp2RnV4WXJJVTVVSnFkR3RMTF9HQXRwR21R?oc=5"
+      },
       {
         "slug": "open-source-20260815-auto-1-bd9473",
         "title": "China's latest ope",
