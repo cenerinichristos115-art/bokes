@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260817-auto-1-cc2d74",
+        "title": "智洋创新：9.04亿元定增用于具身智",
+        "category": "AI新闻",
+        "date": "2026-08-17",
+        "summary": "智洋创新：9.04亿元定增用于具身智能研发及补流 东方财富",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智洋创新：9.04亿元定增用于具身智 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "智洋创新：9.04亿元定增用于具身智能研发及补流 东方财富",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智洋创新：9.04亿元定增用于具身智能研发及补流 东方财富",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "东方财富：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qM19yT01JRHR3UGZRU1VOUlVMYWcyd3lBekRza3NSZjRPd0llLWM4YVZHWTdnZXZ3Qjl3dWRlc2hkSlJUeVBRR2ZGQ09zd2Rkck1oV2p3dlFwTGF6aEt3cmhzZHFmdw?oc=5"
+          },
+          {
+            "label": "video.sina.com.cn：8月14日博时科创板人工智能ETF(588790)获净申购4457.85万元，位居当日股票ETF净流入排名30/1294 - video.s",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk14RzRrWkZYNERCUEpoalFRMzA1R1BDZUNFdkRFYW0wZ095ZXlGYXNsZjUxNW9CR3JrZ3dBNDZwcWYzTFAyZ1NHTWpsX2VibDNwLU1udmxBUjh0MkZxMXdCLThBQXZCVGJVWTBDUUt4T3RfNWJRSkNNWml0SE9MNGlB?oc=5"
+          },
+          {
+            "label": "新浪网：【已投项目】云从科技：政策解读丨AI越来越聪明，为什么更需要可信数据和安全底座？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tc28tRGROdUZQQTBSaXNLcFlGRV9XOVVXb1ZKN0JKRGlyclFBR2NoYkNYUHcwTlQ2aHE0Zm51TXowMDQxZnc0ZlJDNml1M19RMlRpNmdLZ3dOM2hYa1pWeEtORlA0YXlCV3o0cHhlU0d4cEtWeHFzbFZFdkI3aWM?oc=5"
+          }
+        ],
+        "source": "东方财富",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qM19yT01JRHR3UGZRU1VOUlVMYWcyd3lBekRza3NSZjRPd0llLWM4YVZHWTdnZXZ3Qjl3dWRlc2hkSlJUeVBRR2ZGQ09zd2Rkck1oV2p3dlFwTGF6aEt3cmhzZHFmdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260817-auto-2-b43ed8",
+        "title": "8月14日博时科创板人工智能ETF(",
+        "category": "AI新闻",
+        "date": "2026-08-17",
+        "summary": "8月14日博时科创板人工智能ETF(588790)获净申购4457.85万元，位居当日股票ETF净流",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "8月14日博时科创板人工智能ETF( 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "8月14日博时科创板人工智能ETF(588790)获净申购4457.85万元，位居当日股票ETF净流",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "8月14日博时科创板人工智能ETF(588790)获净申购4457.85万元，位居当日股票ETF净流",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "video.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk14RzRrWkZYNERCUEpoalFRMzA1R1BDZUNFdkRFYW0wZ095ZXlGYXNsZjUxNW9CR3JrZ3dBNDZwcWYzTFAyZ1NHTWpsX2VibDNwLU1udmxBUjh0MkZxMXdCLThBQXZCVGJVWTBDUUt4T3RfNWJRSkNNWml0SE9MNGlB?oc=5"
+          },
+          {
+            "label": "东方财富：智洋创新：9.04亿元定增用于具身智能研发及补流 - 东方财富",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qM19yT01JRHR3UGZRU1VOUlVMYWcyd3lBekRza3NSZjRPd0llLWM4YVZHWTdnZXZ3Qjl3dWRlc2hkSlJUeVBRR2ZGQ09zd2Rkck1oV2p3dlFwTGF6aEt3cmhzZHFmdw?oc=5"
+          },
+          {
+            "label": "新浪网：【已投项目】云从科技：政策解读丨AI越来越聪明，为什么更需要可信数据和安全底座？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tc28tRGROdUZQQTBSaXNLcFlGRV9XOVVXb1ZKN0JKRGlyclFBR2NoYkNYUHcwTlQ2aHE0Zm51TXowMDQxZnc0ZlJDNml1M19RMlRpNmdLZ3dOM2hYa1pWeEtORlA0YXlCV3o0cHhlU0d4cEtWeHFzbFZFdkI3aWM?oc=5"
+          }
+        ],
+        "source": "video.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk14RzRrWkZYNERCUEpoalFRMzA1R1BDZUNFdkRFYW0wZ095ZXlGYXNsZjUxNW9CR3JrZ3dBNDZwcWYzTFAyZ1NHTWpsX2VibDNwLU1udmxBUjh0MkZxMXdCLThBQXZCVGJVWTBDUUt4T3RfNWJRSkNNWml0SE9MNGlB?oc=5"
+      },
+      {
         "slug": "ai-news-20260816-auto-1-a64e90",
         "title": "美国大模型帮日本投毒AI，包括涉台错",
         "category": "AI新闻",
@@ -15943,6 +16059,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260817-auto-1-b38192",
+        "title": "“AI一键脱衣”仅需3元生成美女裸照",
+        "category": "AI使用教程",
+        "date": "2026-08-17",
+        "summary": "“AI一键脱衣”仅需3元生成美女裸照，如何斩断AI涉黄黑产链条？ 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“AI一键脱衣”仅需3元生成美女裸照 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“AI一键脱衣”仅需3元生成美女裸照，如何斩断AI涉黄黑产链条？ 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“AI一键脱衣”仅需3元生成美女裸照，如何斩断AI涉黄黑产链条？ 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMk9veGlwQ09Pa2J6cVBNR3NnYmdRVGN1MnJhRHZFeE8zenlxcjZ6YTVkSmgxQTBtTGZIa1VuX05LZ0pXenIxbGRNMEEzU2VvQmJDWXBmZjFrdFhLcXFFRmtDbURjZHZsV0FiTkZvY1l3WWdCVHhtaThud2RIbDM0LWF2Uzh1RjJKRjR3T2JFei02LVMtRDlhbg?oc=5"
+          },
+          {
+            "label": "新浪网：AI生成图片一年前后差距有多大？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTHhMbmFlTzdmUFlXWndiTU9ZTnlkaEltUFN6WmpyaGVlT1V0OTdFQzNONTZrZEZycW13dVJaWmMyNGh0cVJhU3lDRDZBZXViTUgtM1F4b2tPZXhJOGVBc21ZQUdVTGFhZXJMX2FZRWhDckx3RUZsOUJ2QWE0OU0?oc=5"
+          },
+          {
+            "label": "新浪网：为什么同一提示词下AI效果提升这么快？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WOUlPakl6TlI0RjJ0QmdlX0dJa1gwYm9HNDhMU0VTYzcwbDh5N3hxOUtMcVN1WjdFM3YzRWM3WmlKa2w0aE9YY1NMcTB0Xzk5eGIteGM4WHNYQVA3bVQwYWY0Y19FZVg4dFpMUmFKSnFBc1Vka3J3dG9qQ29mbGs?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMk9veGlwQ09Pa2J6cVBNR3NnYmdRVGN1MnJhRHZFeE8zenlxcjZ6YTVkSmgxQTBtTGZIa1VuX05LZ0pXenIxbGRNMEEzU2VvQmJDWXBmZjFrdFhLcXFFRmtDbURjZHZsV0FiTkZvY1l3WWdCVHhtaThud2RIbDM0LWF2Uzh1RjJKRjR3T2JFei02LVMtRDlhbg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260816-auto-1-b47c1c",
         "title": "UX Unpacked: Using",
         "category": "AI使用教程",
@@ -23337,6 +23511,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260817-auto-1-8889b1",
+        "title": "Google Just Open-S",
+        "category": "开源项目",
+        "date": "2026-08-17",
+        "summary": "Google Just Open-Sourced a Way to Run AI on Data I",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Just Open-S 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google Just Open-Sourced a Way to Run AI on Data I",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Just Open-Sourced a Way to Run AI on Data I",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "timestabloid.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXVVeGpwc2ZqeU9lYkV4UFhyTkxFRHlneHpyN3h6cnRqTlRlcDl2aFcwLVZDQmRRd2RhdzR1Zm85THpEREhmTEF3WTl2RzRIOTJDa1FGY0tkZ19DVmoxRU82S2ZwNFo2bkJVR2VVU04tTGdkd3JqMlF5c0pUdXlYUFpMeHNlREpM?oc=5"
+          },
+          {
+            "label": "KLSE Screener：Sunway College Advances AI Education Through New Diploma and Strategic",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTBiT21CdUlaUU5sajkzMVNPeXdzd2MydTFDdXZvcmF0SDRVU296S2dxMWtBMmoyNzBTSWhRem90Z3lNUkp1VWJSN3pRUU5JYU9tb3JHRHdVYktwbEw5cHBOdkNVcmFldFFoTWh1VjBPWVBhUlNCQjVnZHBpOW9uRWdnWnIza2VSU0VXUDhVc0tmTUdzVGw1ekNhcVVOU05yQXQtUDJNV0FqQ1BSV1NVZERSVjFHcm1PX3puaFRtbVVvb0VZRDBIYWtNNnoyazduWFJJOXRGZnpfRXc?oc=5"
+          },
+          {
+            "label": "Financial Times：The next China shock will come from open-source AI - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c?oc=5"
+          }
+        ],
+        "source": "timestabloid.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXVVeGpwc2ZqeU9lYkV4UFhyTkxFRHlneHpyN3h6cnRqTlRlcDl2aFcwLVZDQmRRd2RhdzR1Zm85THpEREhmTEF3WTl2RzRIOTJDa1FGY0tkZ19DVmoxRU82S2ZwNFo2bkJVR2VVU04tTGdkd3JqMlF5c0pUdXlYUFpMeHNlREpM?oc=5"
+      },
+      {
+        "slug": "open-source-20260817-auto-2-750afd",
+        "title": "Sunway College Adv",
+        "category": "开源项目",
+        "date": "2026-08-17",
+        "summary": "Sunway College Advances AI Education Through New D",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Sunway College Adv 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Sunway College Advances AI Education Through New D",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Sunway College Advances AI Education Through New D",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "KLSE Screener：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTBiT21CdUlaUU5sajkzMVNPeXdzd2MydTFDdXZvcmF0SDRVU296S2dxMWtBMmoyNzBTSWhRem90Z3lNUkp1VWJSN3pRUU5JYU9tb3JHRHdVYktwbEw5cHBOdkNVcmFldFFoTWh1VjBPWVBhUlNCQjVnZHBpOW9uRWdnWnIza2VSU0VXUDhVc0tmTUdzVGw1ekNhcVVOU05yQXQtUDJNV0FqQ1BSV1NVZERSVjFHcm1PX3puaFRtbVVvb0VZRDBIYWtNNnoyazduWFJJOXRGZnpfRXc?oc=5"
+          },
+          {
+            "label": "timestabloid.com：Google Just Open-Sourced a Way to Run AI on Data It Can Never Actually",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXVVeGpwc2ZqeU9lYkV4UFhyTkxFRHlneHpyN3h6cnRqTlRlcDl2aFcwLVZDQmRRd2RhdzR1Zm85THpEREhmTEF3WTl2RzRIOTJDa1FGY0tkZ19DVmoxRU82S2ZwNFo2bkJVR2VVU04tTGdkd3JqMlF5c0pUdXlYUFpMeHNlREpM?oc=5"
+          },
+          {
+            "label": "Financial Times：The next China shock will come from open-source AI - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWQ05ZZ1N3RENEQXc4eFAzWlF6R0tTSjB1V0RfWjNrbnNTcVdKM25VdlFQdmVsSUt1S1RyV243WWFpYXpHWTBZcE12R2dOdU1Cd0o0eU9DWGloN2pWbVJSNVNubGhUMHlUX1M5UmpzT1c?oc=5"
+          }
+        ],
+        "source": "KLSE Screener",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTBiT21CdUlaUU5sajkzMVNPeXdzd2MydTFDdXZvcmF0SDRVU296S2dxMWtBMmoyNzBTSWhRem90Z3lNUkp1VWJSN3pRUU5JYU9tb3JHRHdVYktwbEw5cHBOdkNVcmFldFFoTWh1VjBPWVBhUlNCQjVnZHBpOW9uRWdnWnIza2VSU0VXUDhVc0tmTUdzVGw1ekNhcVVOU05yQXQtUDJNV0FqQ1BSV1NVZERSVjFHcm1PX3puaFRtbVVvb0VZRDBIYWtNNnoyazduWFJJOXRGZnpfRXc?oc=5"
+      },
       {
         "slug": "open-source-20260816-auto-1-7911a5",
         "title": "黄仁勋安抚AI算力市场：英伟达可能会",
