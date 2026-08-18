@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260818-auto-1-d2b8e7",
+        "title": "Israeli AI startup",
+        "category": "AI新闻",
+        "date": "2026-08-18",
+        "summary": "Israeli AI startup Decart nears multibillion-dolla",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Israeli AI startup 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Israeli AI startup Decart nears multibillion-dolla",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Israeli AI startup Decart nears multibillion-dolla",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "jpost.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5"
+          },
+          {
+            "label": "MLex：Australian minister wants to turn data-center boom into sovereign AI -",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1B0ZTFiejRmbDhoNy1tMzJpWThlUUduWWNZMnpkQm9kX29heGl5WUhaQXBBQVVrVG1XQmtMeU9ycFVvNlNlb2hIdFlRdTVjdjJJc0xTX0hpOFZWS3ZTR3NJclU0TXB2cVpEM2Q1MDlhb3lpN0NkNkhZRGRWRUlKa1pXX2JWdU9vVHd2U3RkT2ZLQ2VGb1VUbXNGajRsUnMyVjY5bmh4U0l4X3lGbGUxNGRLbXl2OWpHT0F4QWJ4ck1jMHd6SGVVRUdLY1ZTVkh50gFaQVVfeXFMT3RPTlRHejVnYkhFaV9rR2M5SHJWZTBTZVB0bF9MWkJZMC1EZXpiWUgwR2VtNzhjbHpXN3lIYXZjOGVfc1E1WXgtcDN6ZjBvRjVwbnp2Qy10QURR?oc=5"
+          },
+          {
+            "label": "Currently.com：Anthropic-powered AI model sends shocking message to employee - Curren",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3E3eWZzS3Vhci1aVDVBMHdCN0o1SjhKRVJjWnhNNHFVUmpnQ2hRMUg2cWM0ZVBiTklFbTJERU1WcVBXdUhfbmZUTWw0Y2FkdHRLakxnVmc3LVc5RGd5cmFOeUVQX2hsRm1JUi1NNEE3MnR2OE9JZm9DMkJqZ3dPeDFnTDFBOW9Mem9Z?oc=5"
+          }
+        ],
+        "source": "jpost.com",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260818-auto-2-2f81cc",
+        "title": "Australian ministe",
+        "category": "AI新闻",
+        "date": "2026-08-18",
+        "summary": "Australian minister wants to turn data-center boom",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Australian ministe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Australian minister wants to turn data-center boom",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Australian minister wants to turn data-center boom",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MLex：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1B0ZTFiejRmbDhoNy1tMzJpWThlUUduWWNZMnpkQm9kX29heGl5WUhaQXBBQVVrVG1XQmtMeU9ycFVvNlNlb2hIdFlRdTVjdjJJc0xTX0hpOFZWS3ZTR3NJclU0TXB2cVpEM2Q1MDlhb3lpN0NkNkhZRGRWRUlKa1pXX2JWdU9vVHd2U3RkT2ZLQ2VGb1VUbXNGajRsUnMyVjY5bmh4U0l4X3lGbGUxNGRLbXl2OWpHT0F4QWJ4ck1jMHd6SGVVRUdLY1ZTVkh50gFaQVVfeXFMT3RPTlRHejVnYkhFaV9rR2M5SHJWZTBTZVB0bF9MWkJZMC1EZXpiWUgwR2VtNzhjbHpXN3lIYXZjOGVfc1E1WXgtcDN6ZjBvRjVwbnp2Qy10QURR?oc=5"
+          },
+          {
+            "label": "jpost.com：Israeli AI startup Decart nears multibillion-dollar Anthropic deal - j",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2ZjNEQxYmh6N3dHS1RoOXNJVGxuaDRnYXRvemZuLWVDYUNudHBCaURVdHdFSHNaTlRoNWFsSUhkc2k5RU9OcVpWeVh1UGg3QjJZc3dwWVduTGJNNEh4MV9OR0FmQkthSnhmVXdxZjZGcUZiNFh5MXk0OGZUbkJwdThFaFBMdw?oc=5"
+          },
+          {
+            "label": "Currently.com：Anthropic-powered AI model sends shocking message to employee - Curren",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3E3eWZzS3Vhci1aVDVBMHdCN0o1SjhKRVJjWnhNNHFVUmpnQ2hRMUg2cWM0ZVBiTklFbTJERU1WcVBXdUhfbmZUTWw0Y2FkdHRLakxnVmc3LVc5RGd5cmFOeUVQX2hsRm1JUi1NNEE3MnR2OE9JZm9DMkJqZ3dPeDFnTDFBOW9Mem9Z?oc=5"
+          }
+        ],
+        "source": "MLex",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1B0ZTFiejRmbDhoNy1tMzJpWThlUUduWWNZMnpkQm9kX29heGl5WUhaQXBBQVVrVG1XQmtMeU9ycFVvNlNlb2hIdFlRdTVjdjJJc0xTX0hpOFZWS3ZTR3NJclU0TXB2cVpEM2Q1MDlhb3lpN0NkNkhZRGRWRUlKa1pXX2JWdU9vVHd2U3RkT2ZLQ2VGb1VUbXNGajRsUnMyVjY5bmh4U0l4X3lGbGUxNGRLbXl2OWpHT0F4QWJ4ck1jMHd6SGVVRUdLY1ZTVkh50gFaQVVfeXFMT3RPTlRHejVnYkhFaV9rR2M5SHJWZTBTZVB0bF9MWkJZMC1EZXpiWUgwR2VtNzhjbHpXN3lIYXZjOGVfc1E1WXgtcDN6ZjBvRjVwbnp2Qy10QURR?oc=5"
+      },
+      {
         "slug": "ai-news-20260817-auto-1-cc2d74",
         "title": "智洋创新：9.04亿元定增用于具身智",
         "category": "AI新闻",
@@ -16059,6 +16175,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260818-auto-1-5665c6",
+        "title": "Semantic XEO Launc",
+        "category": "AI使用教程",
+        "date": "2026-08-18",
+        "summary": "Semantic XEO Launches AI Visibility Engineering fo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Semantic XEO Launc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Semantic XEO Launches AI Visibility Engineering fo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Semantic XEO Launches AI Visibility Engineering fo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ACCESS Newswire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1BYNmpTRV9JVEk2N25nMzhCRFozcDdrUFhSc1JvOHFLV0hyNHkySmVpZW9GNXgzSmxjcFZaOUVDcDRrNmtLby10WC1nSzJkREp4S0FZX2dJUW1XME45M3RRc2ZVR05yaHgwd2Uyd1BfM3E3ZmtUdGd5U1B4WTlGTTlCY3VYejl2VDBQaXFZdm9IdWtDYWZIRTgxQmh3Ulk5RHVZOHJrbUdSSFpreFVjWEo1dHkzRGc2bFk5VUU3SDBQMmlaM1o0b3FIMTlrMEJmWGxpMUVGaTdXSERFd0x4U2ttNWI?oc=5"
+          },
+          {
+            "label": "k.sina.com.cn：AI短剧为什么总把角色生成同一张脸？ - k.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ob2NKenE3a29jZENDTXJiMEdsQ1Z1b3c4enF4U2FUR0dRQ0NEZU9GdVBRdlFlb1VncDJXcUhDLXROdDNfMFpYcUVhN3dzZl9rY24tNWk1YUVGaktOclhJdjBpOHExQWY5X3dldzZ6ZWNWbldhSjlHcTM2RlNKLXc?oc=5"
+          },
+          {
+            "label": "k.sina.com.cn：AI博主批量停更，行业洗牌开始？ - k.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jcm54a3dmUlNIQmZJYTdqdW53d0QzbGJWUVhoOUVOZ2tiUF8wQzByTS1qekFVRnJSOWRWbmZISHgwYzdnX2g5TlNQcjdITHB6LXpVb3YwQ3NhZFZJcDZyR203ZUhKUS10bzdsZ2lyV1o3LTNHVzRBUmNrVjFnLW8?oc=5"
+          }
+        ],
+        "source": "ACCESS Newswire",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQY1BYNmpTRV9JVEk2N25nMzhCRFozcDdrUFhSc1JvOHFLV0hyNHkySmVpZW9GNXgzSmxjcFZaOUVDcDRrNmtLby10WC1nSzJkREp4S0FZX2dJUW1XME45M3RRc2ZVR05yaHgwd2Uyd1BfM3E3ZmtUdGd5U1B4WTlGTTlCY3VYejl2VDBQaXFZdm9IdWtDYWZIRTgxQmh3Ulk5RHVZOHJrbUdSSFpreFVjWEo1dHkzRGc2bFk5VUU3SDBQMmlaM1o0b3FIMTlrMEJmWGxpMUVGaTdXSERFd0x4U2ttNWI?oc=5"
+      },
+      {
         "slug": "ai-guide-20260817-auto-1-b38192",
         "title": "“AI一键脱衣”仅需3元生成美女裸照",
         "category": "AI使用教程",
@@ -23511,6 +23685,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260818-auto-1-b8d9b9",
+        "title": "Why Coding Agents",
+        "category": "开源项目",
+        "date": "2026-08-18",
+        "summary": "Why Coding Agents Need Better Context, Not Bigger",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why Coding Agents 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Why Coding Agents Need Better Context, Not Bigger",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why Coding Agents Need Better Context, Not Bigger",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFOWjN2M3NGVEFqRzIxODNMaFpvVTAwSnF0anFEYlJKTk9zc0RVTm5Vb0R0T0tUa3pDMnc2aVpFQjVrRVVieWZ6czVOSzJOem9uazZxRV9DN2dEZDl5elZSbmZTd0lCaXBYalByeHE5NGFZclBIMEhqRmszWUN0QzJ3djd1dw?oc=5"
+          },
+          {
+            "label": "RS Web Solutions：Alibaba Qwen AI Models Hit 3 Billion Downloads, Top Meta and Google - ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3g2TV9ncS1vdnlTcFBWS0lJVzN5OWxqSlVhc2N2eG5BSGVHaHBuSjUtWm1MNGJCcXpUQkJFY2dJVXlDbTJqSldXZ0RHOUZ5Zmo5VXNvTmtMTmxmNEo1WTZYWHdNcUVGenhMWVY5c2FPdjVNUFhnb1lxRjFIZW5hM05wckNnSGg3OGRDMUpQemRtVlZvZ2JMOWxzTGZFcTFYUjQ5eC1JblJoaTFjbVJZM3F3?oc=5"
+          },
+          {
+            "label": "Memeburn：DeepSeek V4 Pro Launches With Major Agent Upgrades and Open-Source Har",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF96ZG1SQXp5ZWV4NFF4YlN6MVFRUncxTm9QZV9CU0laYUtZd2w4dU15MERmVmpJMnJYVmRMVFBoZVhfa292TS1pWW5KN0lQT0NTODNMRW1MOWs3d1R0azBvRnFsN29RN1ZFM2J6c1V0QVVQVDZEVWluWlNEeXhBLTRMaTVIMFZ3MGhLVVpwSl9nVXZ2ZXMwalg0QnQ?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFOWjN2M3NGVEFqRzIxODNMaFpvVTAwSnF0anFEYlJKTk9zc0RVTm5Vb0R0T0tUa3pDMnc2aVpFQjVrRVVieWZ6czVOSzJOem9uazZxRV9DN2dEZDl5elZSbmZTd0lCaXBYalByeHE5NGFZclBIMEhqRmszWUN0QzJ3djd1dw?oc=5"
+      },
+      {
+        "slug": "open-source-20260818-auto-2-2356b2",
+        "title": "Alibaba Qwen AI Mo",
+        "category": "开源项目",
+        "date": "2026-08-18",
+        "summary": "Alibaba Qwen AI Models Hit 3 Billion Downloads, To",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Alibaba Qwen AI Mo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Alibaba Qwen AI Models Hit 3 Billion Downloads, To",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Alibaba Qwen AI Models Hit 3 Billion Downloads, To",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "RS Web Solutions：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3g2TV9ncS1vdnlTcFBWS0lJVzN5OWxqSlVhc2N2eG5BSGVHaHBuSjUtWm1MNGJCcXpUQkJFY2dJVXlDbTJqSldXZ0RHOUZ5Zmo5VXNvTmtMTmxmNEo1WTZYWHdNcUVGenhMWVY5c2FPdjVNUFhnb1lxRjFIZW5hM05wckNnSGg3OGRDMUpQemRtVlZvZ2JMOWxzTGZFcTFYUjQ5eC1JblJoaTFjbVJZM3F3?oc=5"
+          },
+          {
+            "label": "HackerNoon：Why Coding Agents Need Better Context, Not Bigger Prompts - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHFOWjN2M3NGVEFqRzIxODNMaFpvVTAwSnF0anFEYlJKTk9zc0RVTm5Vb0R0T0tUa3pDMnc2aVpFQjVrRVVieWZ6czVOSzJOem9uazZxRV9DN2dEZDl5elZSbmZTd0lCaXBYalByeHE5NGFZclBIMEhqRmszWUN0QzJ3djd1dw?oc=5"
+          },
+          {
+            "label": "Memeburn：DeepSeek V4 Pro Launches With Major Agent Upgrades and Open-Source Har",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWF96ZG1SQXp5ZWV4NFF4YlN6MVFRUncxTm9QZV9CU0laYUtZd2w4dU15MERmVmpJMnJYVmRMVFBoZVhfa292TS1pWW5KN0lQT0NTODNMRW1MOWs3d1R0azBvRnFsN29RN1ZFM2J6c1V0QVVQVDZEVWluWlNEeXhBLTRMaTVIMFZ3MGhLVVpwSl9nVXZ2ZXMwalg0QnQ?oc=5"
+          }
+        ],
+        "source": "RS Web Solutions",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3g2TV9ncS1vdnlTcFBWS0lJVzN5OWxqSlVhc2N2eG5BSGVHaHBuSjUtWm1MNGJCcXpUQkJFY2dJVXlDbTJqSldXZ0RHOUZ5Zmo5VXNvTmtMTmxmNEo1WTZYWHdNcUVGenhMWVY5c2FPdjVNUFhnb1lxRjFIZW5hM05wckNnSGg3OGRDMUpQemRtVlZvZ2JMOWxzTGZFcTFYUjQ5eC1JblJoaTFjbVJZM3F3?oc=5"
+      },
       {
         "slug": "open-source-20260817-auto-1-8889b1",
         "title": "Google Just Open-S",
