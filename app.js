@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260819-auto-1-72f395",
+        "title": "可达智灵参展AI Hangzhou2",
+        "category": "AI新闻",
+        "date": "2026-08-19",
+        "summary": "可达智灵参展AI Hangzhou2026 织灵2.0落地工程级可控研发智能体|杭州市|具身智能|浙",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "可达智灵参展AI Hangzhou2 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "可达智灵参展AI Hangzhou2026 织灵2.0落地工程级可控研发智能体|杭州市|具身智能|浙",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "可达智灵参展AI Hangzhou2026 织灵2.0落地工程级可控研发智能体|杭州市|具身智能|浙",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmFyYmxMbnJ2eGI4MnJhc01DcmRTOXh4Y09leUhjb1llVDNNaS1IbUV0TXNJVDlZNzhNNjAxNTJqWVpkb0RmQ0tfcFJRZDNRLTlUdFd1dExjcnZJNnI1cHZjdjd6S3A1WE42SzdxakliZnpOUFF2RHpFb253Y1pXNTRFaXVHZlV2dG5BZ0U0RWVZaHBCejJQMTFUOTFTWmV5Q0htOXNQOA?oc=5"
+          },
+          {
+            "label": "thepaper.cn：谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入 - thepaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbC0wMXVWbHMxQWVoMVVLcmlFcDM4c09LS2YyRmhMa1JTcmNwYXNtdFlMZ3JrZVVmZkhFN05xdC1LQW9FWXZoOVYzYUNzREFhRUE0ZF94WC1oUkVmWnJmcw?oc=5"
+          },
+          {
+            "label": "MarketBeat：Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI In",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUloM0pFbXZYT3pnc190dWhDMWFWZ3IwbWR2TlE5MkFlSnN4bUFuS2k3Z3B1SjRpbEx1ZnRzYTlFT1c2RGVtWVNaUktHRE1wMnFtb21vVEE0UFBhQ2pKXzV6a1dYZjF4ZjdpXzJKaUNQVDlub0FQVUgzTktVNTVabnBzSXdmcU1MQUNXV3p4SGpEQWJRdmkzdzlOX2huY0lDSFVrbGVpaEVxdzhEMDM2Ylk4NVNvNi1oNm9lUnVINHFpbDJPWE0yU0R3?oc=5"
+          }
+        ],
+        "source": "finance.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmFyYmxMbnJ2eGI4MnJhc01DcmRTOXh4Y09leUhjb1llVDNNaS1IbUV0TXNJVDlZNzhNNjAxNTJqWVpkb0RmQ0tfcFJRZDNRLTlUdFd1dExjcnZJNnI1cHZjdjd6S3A1WE42SzdxakliZnpOUFF2RHpFb253Y1pXNTRFaXVHZlV2dG5BZ0U0RWVZaHBCejJQMTFUOTFTWmV5Q0htOXNQOA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260819-auto-2-1c3f29",
+        "title": "谈大模型、昆仑芯与AI投资，李彦宏：",
+        "category": "AI新闻",
+        "date": "2026-08-19",
+        "summary": "谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入 thepaper.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谈大模型、昆仑芯与AI投资，李彦宏： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入 thepaper.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入 thepaper.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thepaper.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbC0wMXVWbHMxQWVoMVVLcmlFcDM4c09LS2YyRmhMa1JTcmNwYXNtdFlMZ3JrZVVmZkhFN05xdC1LQW9FWXZoOVYzYUNzREFhRUE0ZF94WC1oUkVmWnJmcw?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：可达智灵参展AI Hangzhou2026 织灵2.0落地工程级可控研发智能体|杭州市|具身智能|浙江省|数据|原生_手机新浪网 - fin",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmFyYmxMbnJ2eGI4MnJhc01DcmRTOXh4Y09leUhjb1llVDNNaS1IbUV0TXNJVDlZNzhNNjAxNTJqWVpkb0RmQ0tfcFJRZDNRLTlUdFd1dExjcnZJNnI1cHZjdjd6S3A1WE42SzdxakliZnpOUFF2RHpFb253Y1pXNTRFaXVHZlV2dG5BZ0U0RWVZaHBCejJQMTFUOTFTWmV5Q0htOXNQOA?oc=5"
+          },
+          {
+            "label": "MarketBeat：Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI In",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUloM0pFbXZYT3pnc190dWhDMWFWZ3IwbWR2TlE5MkFlSnN4bUFuS2k3Z3B1SjRpbEx1ZnRzYTlFT1c2RGVtWVNaUktHRE1wMnFtb21vVEE0UFBhQ2pKXzV6a1dYZjF4ZjdpXzJKaUNQVDlub0FQVUgzTktVNTVabnBzSXdmcU1MQUNXV3p4SGpEQWJRdmkzdzlOX2huY0lDSFVrbGVpaEVxdzhEMDM2Ylk4NVNvNi1oNm9lUnVINHFpbDJPWE0yU0R3?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbC0wMXVWbHMxQWVoMVVLcmlFcDM4c09LS2YyRmhMa1JTcmNwYXNtdFlMZ3JrZVVmZkhFN05xdC1LQW9FWXZoOVYzYUNzREFhRUE0ZF94WC1oUkVmWnJmcw?oc=5"
+      },
+      {
         "slug": "ai-news-20260818-auto-1-d2b8e7",
         "title": "Israeli AI startup",
         "category": "AI新闻",
@@ -16175,6 +16291,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260819-auto-1-6b398e",
+        "title": "告别「Codex能做什么」的困惑，直",
+        "category": "AI使用教程",
+        "date": "2026-08-19",
+        "summary": "告别「Codex能做什么」的困惑，直接告诉它你的需求 积墨 AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "告别「Codex能做什么」的困惑，直 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "告别「Codex能做什么」的困惑，直接告诉它你的需求 积墨 AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "告别「Codex能做什么」的困惑，直接告诉它你的需求 积墨 AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "积墨 AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CU0FPbGRvWjNEcmNOaXppekx6NGxUWkw0U0VQS2NKZEtUa3M0ZzBYSlFXbkJlbzd2ZmJSVERqTWNJQk5OeTBQQmYtZFEyQWo2aUNDNjdPNXV3S1o2YkN2ZGM2Sk1YY182cEpxU2tlOUxqZXRWbUE?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：Microsoft Copilot Leaked Its Own Secret Parameter, Enabling One-Click ",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zLURUWUtOdktnakt3OEVUd1NNNG83ZUdYNGdWNGJ2c0JhbUFlcl9ZdXlucnR3OG0tZUNRRjg3aGZUV01udUpPZENuNVdvRkFwZVU2cV82aENSeklpR0xBZk05QmJreDJ0aEpkNmNPc3daMFpsaUE?oc=5"
+          },
+          {
+            "label": "TechPP：14 Best Claude Skills You Should Use in 2026 - TechPP",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4WUgzVmVJdlMyZl9yUER3ZUdsenlEcWI2Q3A1ODRpa1N1ZWI2LTZDbE1EeVpWSUtWYmNacWJsY09mTXBfUlNPRFJQVUstRkpzLUZXRHg1T2FSZWJHSVE?oc=5"
+          }
+        ],
+        "source": "积墨 AI",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CU0FPbGRvWjNEcmNOaXppekx6NGxUWkw0U0VQS2NKZEtUa3M0ZzBYSlFXbkJlbzd2ZmJSVERqTWNJQk5OeTBQQmYtZFEyQWo2aUNDNjdPNXV3S1o2YkN2ZGM2Sk1YY182cEpxU2tlOUxqZXRWbUE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260818-auto-1-5665c6",
         "title": "Semantic XEO Launc",
         "category": "AI使用教程",
@@ -23685,6 +23859,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260819-auto-1-7275cd",
+        "title": "Elon Musk Makes a",
+        "category": "开源项目",
+        "date": "2026-08-19",
+        "summary": "Elon Musk Makes a Strategic Move in AI Programming",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Elon Musk Makes a 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Elon Musk Makes a Strategic Move in AI Programming",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Elon Musk Makes a Strategic Move in AI Programming",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "eu.36kr.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhblhEU3ViX2YxRUdGRDRGOTdtVndNaXFwdUlWSzdGU2E3dzNZV2R1aUIwcVpmM0ZZREVXNFBJQmhHNEhreEV1OVNVVnNxRmx1b0tz?oc=5"
+          },
+          {
+            "label": "sohu.com：【Anthropic】推出AI文本隐形水印，相关去水印开源项目获超1.4万GitHub星 - sohu.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkVpdzNoM0wwYlpESnE4LTZ3WTRGZGdjd3Jtc1drbW8xZVl1a0VuZVk1LW9yWnpvQ0t6cWFrTW5aMGYtQzRVV0YtaEJaUC00YmdYTnZYU0VuRmpSbUo1V0FORnhCLUpObGFjQVh2MF9nRXNQUUNWUFlnZWtrelpweEl5SU5ycGFjQXI0Qw?oc=5"
+          },
+          {
+            "label": "sohu.com：【Anthropic】推出AI文本隐形水印，相关去水印工具GitHub获超1.4万星 - sohu.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTRJNFN5QXlhamlwVHM5NHFGb2NVMXMwZ0JNZ0l1MncxNmU5amxacWxJV1BHY0Y1X2NPcEdUbXA0eTF0NFc3Y2tuaG9rN2hVLTdzSF9ZSUxrSTBHQVhKM1l6ZUowS0dLdFBzSXA3M1BZdEtOUF9HNHIzeWRnTnBHRDlqLV8wbWxpZk5nUQ?oc=5"
+          }
+        ],
+        "source": "eu.36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhblhEU3ViX2YxRUdGRDRGOTdtVndNaXFwdUlWSzdGU2E3dzNZV2R1aUIwcVpmM0ZZREVXNFBJQmhHNEhreEV1OVNVVnNxRmx1b0tz?oc=5"
+      },
+      {
+        "slug": "open-source-20260819-auto-2-d77d66",
+        "title": "【Anthropic】推出AI文本隐",
+        "category": "开源项目",
+        "date": "2026-08-19",
+        "summary": "【Anthropic】推出AI文本隐形水印，相关去水印开源项目获超1.4万GitHub星 sohu.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【Anthropic】推出AI文本隐 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "【Anthropic】推出AI文本隐形水印，相关去水印开源项目获超1.4万GitHub星 sohu.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【Anthropic】推出AI文本隐形水印，相关去水印开源项目获超1.4万GitHub星 sohu.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "sohu.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkVpdzNoM0wwYlpESnE4LTZ3WTRGZGdjd3Jtc1drbW8xZVl1a0VuZVk1LW9yWnpvQ0t6cWFrTW5aMGYtQzRVV0YtaEJaUC00YmdYTnZYU0VuRmpSbUo1V0FORnhCLUpObGFjQVh2MF9nRXNQUUNWUFlnZWtrelpweEl5SU5ycGFjQXI0Qw?oc=5"
+          },
+          {
+            "label": "eu.36kr.com：Elon Musk Makes a Strategic Move in AI Programming: Latest Development",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhblhEU3ViX2YxRUdGRDRGOTdtVndNaXFwdUlWSzdGU2E3dzNZV2R1aUIwcVpmM0ZZREVXNFBJQmhHNEhreEV1OVNVVnNxRmx1b0tz?oc=5"
+          },
+          {
+            "label": "sohu.com：【Anthropic】推出AI文本隐形水印，相关去水印工具GitHub获超1.4万星 - sohu.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTRJNFN5QXlhamlwVHM5NHFGb2NVMXMwZ0JNZ0l1MncxNmU5amxacWxJV1BHY0Y1X2NPcEdUbXA0eTF0NFc3Y2tuaG9rN2hVLTdzSF9ZSUxrSTBHQVhKM1l6ZUowS0dLdFBzSXA3M1BZdEtOUF9HNHIzeWRnTnBHRDlqLV8wbWxpZk5nUQ?oc=5"
+          }
+        ],
+        "source": "sohu.com",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkVpdzNoM0wwYlpESnE4LTZ3WTRGZGdjd3Jtc1drbW8xZVl1a0VuZVk1LW9yWnpvQ0t6cWFrTW5aMGYtQzRVV0YtaEJaUC00YmdYTnZYU0VuRmpSbUo1V0FORnhCLUpObGFjQVh2MF9nRXNQUUNWUFlnZWtrelpweEl5SU5ycGFjQXI0Qw?oc=5"
+      },
       {
         "slug": "open-source-20260818-auto-1-b8d9b9",
         "title": "Why Coding Agents",
