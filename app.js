@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260820-auto-1-cbe94c",
+        "title": "机械身躯代替人类奔赴危险，人工智能守",
+        "category": "AI新闻",
+        "date": "2026-08-20",
+        "summary": "机械身躯代替人类奔赴危险，人工智能守护城市安全 t.cj.sina.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "机械身躯代替人类奔赴危险，人工智能守 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "机械身躯代替人类奔赴危险，人工智能守护城市安全 t.cj.sina.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "机械身躯代替人类奔赴危险，人工智能守护城市安全 t.cj.sina.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "t.cj.sina.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ28wTzlWQWpqajJzNE9VWU1adWJjTWowakYwSktsYnRmb0tQaTFyc0Q2MkFDcE9WdmRYdHc0dUZ0bEFBWnVOMFRGckliNGt2cE1ZbzZhbG14OHJqQVFBeFo4eGt5TWhaekNSMVp2YXl2azFtbEk5cFFkTmtZME15QW1IUzQ0QmM?oc=5"
+          },
+          {
+            "label": "Reuters：Citi, HSBC, StanChart adopt Ant International’s forex AI tool - Reuter",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5"
+          },
+          {
+            "label": "新浪网：云南水利水电职业学院人工智能学院开展勤俭节约主题宣讲志愿服务活动 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0aTlzTm0xZnZwR2t0Mm5fMUFKUmpjeEVSbnprVlBWMThhZVZuNVBFTjQ4NERqNkxhWFVDSnBsdFRRdWphZ3FOZmkzeW5FSVhrbkRicGlmVFRVVXd6Y3hFWkg3Z0JKX18yYkV4cFpkRmtZOWI4X3ktcGdMZUR6QQ?oc=5"
+          }
+        ],
+        "source": "t.cj.sina.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ28wTzlWQWpqajJzNE9VWU1adWJjTWowakYwSktsYnRmb0tQaTFyc0Q2MkFDcE9WdmRYdHc0dUZ0bEFBWnVOMFRGckliNGt2cE1ZbzZhbG14OHJqQVFBeFo4eGt5TWhaekNSMVp2YXl2azFtbEk5cFFkTmtZME15QW1IUzQ0QmM?oc=5"
+      },
+      {
+        "slug": "ai-news-20260820-auto-2-622def",
+        "title": "Citi, HSBC, StanCh",
+        "category": "AI新闻",
+        "date": "2026-08-20",
+        "summary": "Citi, HSBC, StanChart adopt Ant International’s fo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Citi, HSBC, StanCh 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Citi, HSBC, StanChart adopt Ant International’s fo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Citi, HSBC, StanChart adopt Ant International’s fo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Reuters：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5"
+          },
+          {
+            "label": "t.cj.sina.cn：机械身躯代替人类奔赴危险，人工智能守护城市安全 - t.cj.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ28wTzlWQWpqajJzNE9VWU1adWJjTWowakYwSktsYnRmb0tQaTFyc0Q2MkFDcE9WdmRYdHc0dUZ0bEFBWnVOMFRGckliNGt2cE1ZbzZhbG14OHJqQVFBeFo4eGt5TWhaekNSMVp2YXl2azFtbEk5cFFkTmtZME15QW1IUzQ0QmM?oc=5"
+          },
+          {
+            "label": "新浪网：云南水利水电职业学院人工智能学院开展勤俭节约主题宣讲志愿服务活动 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0aTlzTm0xZnZwR2t0Mm5fMUFKUmpjeEVSbnprVlBWMThhZVZuNVBFTjQ4NERqNkxhWFVDSnBsdFRRdWphZ3FOZmkzeW5FSVhrbkRicGlmVFRVVXd6Y3hFWkg3Z0JKX18yYkV4cFpkRmtZOWI4X3ktcGdMZUR6QQ?oc=5"
+          }
+        ],
+        "source": "Reuters",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5"
+      },
+      {
         "slug": "ai-news-20260819-auto-1-72f395",
         "title": "可达智灵参展AI Hangzhou2",
         "category": "AI新闻",
@@ -16291,6 +16407,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260820-auto-1-813466",
+        "title": "把AI视频的提示词写成「永乐大典」，",
+        "category": "AI使用教程",
+        "date": "2026-08-20",
+        "summary": "把AI视频的提示词写成「永乐大典」，这对吗？ 风闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "把AI视频的提示词写成「永乐大典」， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "把AI视频的提示词写成「永乐大典」，这对吗？ 风闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "把AI视频的提示词写成「永乐大典」，这对吗？ 风闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "风闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WG1fNzZ5d3ZwNS1FdmQ1Rzk0b0xlbXpmMzdYb1FGUjZCQUVMay03bnhyQ0FodkdXelZoUlk0OHEzN2RqbmJZZlFZSEg5WHB3U0cwdXJjU0lvSlU?oc=5"
+          },
+          {
+            "label": "developer.nvidia.com：Building Federated Multimodal AI Workflows with NVIDIA FLARE - develop",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGQwWlNNZkhNNlRUMkR6Mnc3aEc2Y182VnA4b0c2elFraGNKX1VNOUhOM25jQmFFMkpGbzdfTlhLVXFKMUZrajhOWnIxa0RkTDVGNEdiZmlVTXVZRkVaWDVfVktmSzlMelEtcFJiSHRFQTM2WHVORFY5YkN2TlE3RGpBbDNoY0JsOTJEQW12WnUzckZVUmhNdDJQNA?oc=5"
+          },
+          {
+            "label": "accessnewswire.com：Perplexity AI Search Guide | Professional Services - accessnewswire.co",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5QVFZ2c25Ma2ZSVXNJWHljR1I2Y1NGOHltR19hNWUwak4ySU1UUlhtMzNLcUxfaUoxQWxFRWZUcms4dlRUcjNzOUt2X2xfNlpQRWx3Y2JvS0pfUUxfdHNVUWo5RXdxQ3VmWWlucTRtNDVWOW11c28wcjFjaWFJVEhqdFhyNjd4WGhsb3d1Tm1SYlNrbV9YM2tVbVQweVZQSXVibTFpdFllOE5MUnAtVWQ1NDFfczlpN3VldENTQ29mN1Rha19CbUl3Z2RHUElRZXd0YkNRRGM2OTlyRS1Kcm5Lc0M?oc=5"
+          }
+        ],
+        "source": "风闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WG1fNzZ5d3ZwNS1FdmQ1Rzk0b0xlbXpmMzdYb1FGUjZCQUVMay03bnhyQ0FodkdXelZoUlk0OHEzN2RqbmJZZlFZSEg5WHB3U0cwdXJjU0lvSlU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260819-auto-1-6b398e",
         "title": "告别「Codex能做什么」的困惑，直",
         "category": "AI使用教程",
@@ -23859,6 +24033,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260820-auto-1-392488",
+        "title": "TrueFoundry's open",
+        "category": "开源项目",
+        "date": "2026-08-20",
+        "summary": "TrueFoundry's open source AI agent harness TrueFor",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "TrueFoundry's open 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "TrueFoundry's open source AI agent harness TrueFor",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "TrueFoundry's open source AI agent harness TrueFor",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "VentureBeat：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0g2WTU3OHI0VHBrTmtLUWQtTFFNcUdRSWliSW9VTWZqR1JFOVhieS0tU0hjdUV2V2ZCUk15SFpFeHJSU2YyRU5TVkNLY1lNSzBMYzBDa0RfdmxxSWk5Sk9zaVNUaGJQS01FQks4OU1wYUw2ZWxERDJScVEzXzRvOHZXSE81YU5ieFY1NHBodnpSa1RkcUZteEx1djRHR2RlRm9QYTFSVVJILUZ6eTQ2bkpVZ0V0bFJNd0syZFBJSjUzM19yRWhkTk9BWkhDVkN6VF8wOEg5TTY3Und5c0NwQ1NUdjRBbjNJ?oc=5"
+          },
+          {
+            "label": "thelec.net：Cursor Launches Beta of GitHub Rival Origin - thelec.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2TW1hOGQ0SzZlQnJHLVN4TVVFZHRaZkdBV2RYR25QZG9TX2lSbDExMDI0QUZLOUE1OERaUU9PNUVsNWZhZkVVcjRfWUpIUS1JdlprdHlJY2EwR2pxODNfd29nSEdLcXc?oc=5"
+          },
+          {
+            "label": "36kr.com：Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式 - 36kr.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          }
+        ],
+        "source": "VentureBeat",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0g2WTU3OHI0VHBrTmtLUWQtTFFNcUdRSWliSW9VTWZqR1JFOVhieS0tU0hjdUV2V2ZCUk15SFpFeHJSU2YyRU5TVkNLY1lNSzBMYzBDa0RfdmxxSWk5Sk9zaVNUaGJQS01FQks4OU1wYUw2ZWxERDJScVEzXzRvOHZXSE81YU5ieFY1NHBodnpSa1RkcUZteEx1djRHR2RlRm9QYTFSVVJILUZ6eTQ2bkpVZ0V0bFJNd0syZFBJSjUzM19yRWhkTk9BWkhDVkN6VF8wOEg5TTY3Und5c0NwQ1NUdjRBbjNJ?oc=5"
+      },
+      {
+        "slug": "open-source-20260820-auto-2-dcff82",
+        "title": "Cursor Launches Be",
+        "category": "开源项目",
+        "date": "2026-08-20",
+        "summary": "Cursor Launches Beta of GitHub Rival Origin thelec",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cursor Launches Be 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Cursor Launches Beta of GitHub Rival Origin thelec",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cursor Launches Beta of GitHub Rival Origin thelec",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thelec.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2TW1hOGQ0SzZlQnJHLVN4TVVFZHRaZkdBV2RYR25QZG9TX2lSbDExMDI0QUZLOUE1OERaUU9PNUVsNWZhZkVVcjRfWUpIUS1JdlprdHlJY2EwR2pxODNfd29nSEdLcXc?oc=5"
+          },
+          {
+            "label": "VentureBeat：TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% ch",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN0g2WTU3OHI0VHBrTmtLUWQtTFFNcUdRSWliSW9VTWZqR1JFOVhieS0tU0hjdUV2V2ZCUk15SFpFeHJSU2YyRU5TVkNLY1lNSzBMYzBDa0RfdmxxSWk5Sk9zaVNUaGJQS01FQks4OU1wYUw2ZWxERDJScVEzXzRvOHZXSE81YU5ieFY1NHBodnpSa1RkcUZteEx1djRHR2RlRm9QYTFSVVJILUZ6eTQ2bkpVZ0V0bFJNd0syZFBJSjUzM19yRWhkTk9BWkhDVkN6VF8wOEg5TTY3Und5c0NwQ1NUdjRBbjNJ?oc=5"
+          },
+          {
+            "label": "36kr.com：Altman 投的Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式 - 36kr.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ET2Q1OFZYQXUzNUdTT0NId21Fei1pY0tLUlJDZUU1VE1ubHlQYl9nNjg2OHBqX2c5c2x3bzFGeGcwV1JPUmRCTFdpNmpXdw?oc=5"
+          }
+        ],
+        "source": "thelec.net",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2TW1hOGQ0SzZlQnJHLVN4TVVFZHRaZkdBV2RYR25QZG9TX2lSbDExMDI0QUZLOUE1OERaUU9PNUVsNWZhZkVVcjRfWUpIUS1JdlprdHlJY2EwR2pxODNfd29nSEdLcXc?oc=5"
+      },
       {
         "slug": "open-source-20260819-auto-1-7275cd",
         "title": "Elon Musk Makes a",
