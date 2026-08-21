@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260821-auto-1-0e5648",
+        "title": "Kentucky leaders d",
+        "category": "AI新闻",
+        "date": "2026-08-21",
+        "summary": "Kentucky leaders debate role in AI data center boo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Kentucky leaders d 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Kentucky leaders debate role in AI data center boo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Kentucky leaders debate role in AI data center boo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WKYT：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3VJdWR1bVJhWVdlU1hQUHh1a1pNVlVqN3VXTV9scFJ3VU5lZU5aQ3c2UFRWRHdSXzY3ejhlRGd1VEtJYUxwd25lb0RmM2llcGx2eXZvdWpWUDNPZTBUWjVFNWJEV3ItZmVUUVFxQVZwZ2ZuMGVXb2ttYnV0dmVsaHRxajZZRW1k?oc=5"
+          },
+          {
+            "label": "观点网：盛景微参与设立盛景智算科技有限公司 经营范围含AI相关业务 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LSTlwZnhwTlVRQUdjZF9wSVNIZU50YzNYT2JOZVRrZVFwZV9TYTg3U09odDlHSnNyU2JfTVV1XzAzeFd4S1pVTEF1XzBIZkxJZ2x3U1AxSTJob2JYUmtuSUlR?oc=5"
+          },
+          {
+            "label": "The Washington Post：Opinion | How data centers can stanch the political bleeding - The Was",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3dYMFFQakdyUUszbDg3emloS1pMY3dRWkM2akhhUXp1TVRXRkZuZlVXbEZnMVpLWXNKclltb3F1VXRZMHpKNWFJZnQ0ajRiM05aT253RTF0TGxacnV6Q1R5bXNGWG1aNEhrTWViNDNLWW5mNjZVNGdKVWxNZlNPUDVYWmZ1YmpMY2M0WkxWdHY3Zw?oc=5"
+          }
+        ],
+        "source": "WKYT",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3VJdWR1bVJhWVdlU1hQUHh1a1pNVlVqN3VXTV9scFJ3VU5lZU5aQ3c2UFRWRHdSXzY3ejhlRGd1VEtJYUxwd25lb0RmM2llcGx2eXZvdWpWUDNPZTBUWjVFNWJEV3ItZmVUUVFxQVZwZ2ZuMGVXb2ttYnV0dmVsaHRxajZZRW1k?oc=5"
+      },
+      {
+        "slug": "ai-news-20260821-auto-2-9ca72e",
+        "title": "盛景微参与设立盛景智算科技有限公司",
+        "category": "AI新闻",
+        "date": "2026-08-21",
+        "summary": "盛景微参与设立盛景智算科技有限公司 经营范围含AI相关业务 观点网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "盛景微参与设立盛景智算科技有限公司 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "盛景微参与设立盛景智算科技有限公司 经营范围含AI相关业务 观点网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "盛景微参与设立盛景智算科技有限公司 经营范围含AI相关业务 观点网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "观点网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LSTlwZnhwTlVRQUdjZF9wSVNIZU50YzNYT2JOZVRrZVFwZV9TYTg3U09odDlHSnNyU2JfTVV1XzAzeFd4S1pVTEF1XzBIZkxJZ2x3U1AxSTJob2JYUmtuSUlR?oc=5"
+          },
+          {
+            "label": "WKYT：Kentucky leaders debate role in AI data center boom - WKYT",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3VJdWR1bVJhWVdlU1hQUHh1a1pNVlVqN3VXTV9scFJ3VU5lZU5aQ3c2UFRWRHdSXzY3ejhlRGd1VEtJYUxwd25lb0RmM2llcGx2eXZvdWpWUDNPZTBUWjVFNWJEV3ItZmVUUVFxQVZwZ2ZuMGVXb2ttYnV0dmVsaHRxajZZRW1k?oc=5"
+          },
+          {
+            "label": "The Washington Post：Opinion | How data centers can stanch the political bleeding - The Was",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3dYMFFQakdyUUszbDg3emloS1pMY3dRWkM2akhhUXp1TVRXRkZuZlVXbEZnMVpLWXNKclltb3F1VXRZMHpKNWFJZnQ0ajRiM05aT253RTF0TGxacnV6Q1R5bXNGWG1aNEhrTWViNDNLWW5mNjZVNGdKVWxNZlNPUDVYWmZ1YmpMY2M0WkxWdHY3Zw?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LSTlwZnhwTlVRQUdjZF9wSVNIZU50YzNYT2JOZVRrZVFwZV9TYTg3U09odDlHSnNyU2JfTVV1XzAzeFd4S1pVTEF1XzBIZkxJZ2x3U1AxSTJob2JYUmtuSUlR?oc=5"
+      },
+      {
         "slug": "ai-news-20260820-auto-1-cbe94c",
         "title": "机械身躯代替人类奔赴危险，人工智能守",
         "category": "AI新闻",
@@ -16407,6 +16523,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260821-auto-1-d40ff4",
+        "title": "Adobe Firefly扩充AI音",
+        "category": "AI使用教程",
+        "date": "2026-08-21",
+        "summary": "Adobe Firefly扩充AI音频服务，可生成音乐、配音和音效 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Adobe Firefly扩充AI音 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Adobe Firefly扩充AI音频服务，可生成音乐、配音和音效 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Adobe Firefly扩充AI音频服务，可生成音乐、配音和音效 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13SUVYRkVoRnVVWURFMTF1TXRtQmNOWFdWLVJWTWpOOHh3U1p5d2dVWGV3RGJrQVNGXzhBSzZBRHBmZGdFMURURHk5NFJzZ0kxbmctY1NPOHlTWGZYbzFoSy1LTjRJallOLTJlOEsyRnRuQQ?oc=5"
+          },
+          {
+            "label": "FX168财经：AI正在制造职场信任危机：员工怕“用AI被看低”，创意人沦为“AI审稿员” - FX168财经",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzFidDBKS0F0R0VicXQ1LUt2ZTJ4dDRYbmZOZk9nRVV0Y3MzLVJhWVcwTGFBLWNTQ2dsTVV2MTdfMUg3QWVvRE9fNi1ZaHRqUk8zUDlIZGdDd2YzemxhTmR2ZEtrQ3ZMWlFKSWJZRkdqOG1lcVNkQmwtaWlmanFXRlRBYlk?oc=5"
+          },
+          {
+            "label": "thepaper.cn：AI做电影，远比想象中难 - thepaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMb3BFbEp5UWJfOGtaTkNwdGx1c2ZNcUU0SmpORXV6WmtoalZiaU9TTzVLTC1wU1ctUjN3UmJHWldhbE5NTGtaU3JxQWtwQQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13SUVYRkVoRnVVWURFMTF1TXRtQmNOWFdWLVJWTWpOOHh3U1p5d2dVWGV3RGJrQVNGXzhBSzZBRHBmZGdFMURURHk5NFJzZ0kxbmctY1NPOHlTWGZYbzFoSy1LTjRJallOLTJlOEsyRnRuQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260820-auto-1-813466",
         "title": "把AI视频的提示词写成「永乐大典」，",
         "category": "AI使用教程",
@@ -24033,6 +24207,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260821-auto-1-a9bf41",
+        "title": "内容出海 算力进山 龙湾文化“新三样",
+        "category": "开源项目",
+        "date": "2026-08-21",
+        "summary": "内容出海 算力进山 龙湾文化“新三样”的破题之路 温州新闻网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "内容出海 算力进山 龙湾文化“新三样 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "内容出海 算力进山 龙湾文化“新三样”的破题之路 温州新闻网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "内容出海 算力进山 龙湾文化“新三样”的破题之路 温州新闻网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "温州新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94dDViOGZhWFF6V0FEamNIWjUxNlJjMUptTzdreUxscnVySGxEUUNCUTVDT0xLUW9oektWZUt6LWV3aFNBQkZFTXJ5ZXRrNWZaWVhCNnROUThSMGxyMTJ0RzRFcUM3Zw?oc=5"
+          },
+          {
+            "label": "华尔街见闻：大手笔！OpenAI全面开源Codex Harness - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rNVRjTjJtTTJVZjM4SlJqMDJfT0xMaXIyY3A2eVRlWnVWc1BKUVNRb1dxcE1CS2g5aWZDc0pINk56MUJ2dnBDOUc4bWlWaDRKaGFR?oc=5"
+          },
+          {
+            "label": "电子工程专辑：英伟达开源AI存储技术！ - 电子工程专辑",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOMEFVQ3dmaUt2dlFENnlTajRmNG13cy05X0ZYdC1JYWZxWE5hRkY2WDRxUDhQdkl1WHp5ajhEZkU3WEEtLVdabzFROXF4d1lyRGlV?oc=5"
+          }
+        ],
+        "source": "温州新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94dDViOGZhWFF6V0FEamNIWjUxNlJjMUptTzdreUxscnVySGxEUUNCUTVDT0xLUW9oektWZUt6LWV3aFNBQkZFTXJ5ZXRrNWZaWVhCNnROUThSMGxyMTJ0RzRFcUM3Zw?oc=5"
+      },
+      {
+        "slug": "open-source-20260821-auto-2-e6264a",
+        "title": "大手笔！OpenAI全面开源Code",
+        "category": "开源项目",
+        "date": "2026-08-21",
+        "summary": "大手笔！OpenAI全面开源Codex Harness 华尔街见闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "大手笔！OpenAI全面开源Code 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "大手笔！OpenAI全面开源Codex Harness 华尔街见闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "大手笔！OpenAI全面开源Codex Harness 华尔街见闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华尔街见闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rNVRjTjJtTTJVZjM4SlJqMDJfT0xMaXIyY3A2eVRlWnVWc1BKUVNRb1dxcE1CS2g5aWZDc0pINk56MUJ2dnBDOUc4bWlWaDRKaGFR?oc=5"
+          },
+          {
+            "label": "温州新闻网：内容出海 算力进山 龙湾文化“新三样”的破题之路 - 温州新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94dDViOGZhWFF6V0FEamNIWjUxNlJjMUptTzdreUxscnVySGxEUUNCUTVDT0xLUW9oektWZUt6LWV3aFNBQkZFTXJ5ZXRrNWZaWVhCNnROUThSMGxyMTJ0RzRFcUM3Zw?oc=5"
+          },
+          {
+            "label": "电子工程专辑：英伟达开源AI存储技术！ - 电子工程专辑",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOMEFVQ3dmaUt2dlFENnlTajRmNG13cy05X0ZYdC1JYWZxWE5hRkY2WDRxUDhQdkl1WHp5ajhEZkU3WEEtLVdabzFROXF4d1lyRGlV?oc=5"
+          }
+        ],
+        "source": "华尔街见闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rNVRjTjJtTTJVZjM4SlJqMDJfT0xMaXIyY3A2eVRlWnVWc1BKUVNRb1dxcE1CS2g5aWZDc0pINk56MUJ2dnBDOUc4bWlWaDRKaGFR?oc=5"
+      },
       {
         "slug": "open-source-20260820-auto-1-392488",
         "title": "TrueFoundry's open",
