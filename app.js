@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260822-auto-1-1b52c9",
+        "title": "How Uber's AI Char",
+        "category": "AI新闻",
+        "date": "2026-08-22",
+        "summary": "How Uber's AI Charges You More And Keeps You Comin",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How Uber's AI Char 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How Uber's AI Charges You More And Keeps You Comin",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How Uber's AI Charges You More And Keeps You Comin",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NDTV：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEFvN211U3hUWlFXN1NmWjc0aE9hcXIwQnlxYXZuWU9ZeFREQnZnbHprcW9Ka3BGZTlhMWNYRWFobWVVajJobWpsT1IyNkpyVk10ZHloNlJ1cThwM1lXcFlfOVpiVHNQV2RaM2xISHN5Sm9SSWxQb3lUOHN2OXBiUmI2dUFxZUN0VFE2ZG9IMFNNc0JMb3l2UGRjTWZmVDNwQmhydlRweWxFQXQxOEdOTVdyRFlFZ0XSAb8BQVVfeXFMTjQxaGdDWnYxaHlMZUpKUFFUdE5BSGtfcDRlSktfTERTLTh4dG1pdnpsY051OFhwdUZOdGdFb2piRmpoX2ZWN3FwZjZ5TUZXTE81NFdONXUta2U2SmFfeklZdjg4eURsbXpoRzNSeTI3Y0djVnBwUGFheVlRUndEM2Z4TURRYnNyOWRqb0NVM0hmMWlBZGxxcGg1T3BoSjNQcm5wVEMtTjVhbmpMR2o4V3Zzd0ZNaklORExuY1lVMDQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：智汇京华，AI启新！这场学术盛会相约北石化 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50eklvSmk3eVo1UkFPMjZjSHNvVUdwQ3ZaRzRERmNZTzlTcWdscmdmRHNUU2d1bDMtR3R2T05GR0h5QWVQYlpyR0oxOTF1eFFweXZNaE1jeTJkY2tLS092TXlXTm9sTzFfTDBla3l1U2N3ekdQb1VoMXpoNjNvUQ?oc=5"
+          },
+          {
+            "label": "UN News：AI for Good: How the UN uses AI to advance human rights - UN News",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vcHU2S3l3b05VY2xpdnFPQWFqN2QzTi1ZNDVWZF82S2FubjRZSnZjaFg1Qmh4NmpSa1R3Yk1KelpYWWw2V2dFZkc3LTFaVkpDbE1QV1FvTQ?oc=5"
+          }
+        ],
+        "source": "NDTV",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEFvN211U3hUWlFXN1NmWjc0aE9hcXIwQnlxYXZuWU9ZeFREQnZnbHprcW9Ka3BGZTlhMWNYRWFobWVVajJobWpsT1IyNkpyVk10ZHloNlJ1cThwM1lXcFlfOVpiVHNQV2RaM2xISHN5Sm9SSWxQb3lUOHN2OXBiUmI2dUFxZUN0VFE2ZG9IMFNNc0JMb3l2UGRjTWZmVDNwQmhydlRweWxFQXQxOEdOTVdyRFlFZ0XSAb8BQVVfeXFMTjQxaGdDWnYxaHlMZUpKUFFUdE5BSGtfcDRlSktfTERTLTh4dG1pdnpsY051OFhwdUZOdGdFb2piRmpoX2ZWN3FwZjZ5TUZXTE81NFdONXUta2U2SmFfeklZdjg4eURsbXpoRzNSeTI3Y0djVnBwUGFheVlRUndEM2Z4TURRYnNyOWRqb0NVM0hmMWlBZGxxcGg1T3BoSjNQcm5wVEMtTjVhbmpMR2o4V3Zzd0ZNaklORExuY1lVMDQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260822-auto-2-87474e",
+        "title": "智汇京华，AI启新！这场学术盛会相约",
+        "category": "AI新闻",
+        "date": "2026-08-22",
+        "summary": "智汇京华，AI启新！这场学术盛会相约北石化 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智汇京华，AI启新！这场学术盛会相约 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "智汇京华，AI启新！这场学术盛会相约北石化 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智汇京华，AI启新！这场学术盛会相约北石化 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50eklvSmk3eVo1UkFPMjZjSHNvVUdwQ3ZaRzRERmNZTzlTcWdscmdmRHNUU2d1bDMtR3R2T05GR0h5QWVQYlpyR0oxOTF1eFFweXZNaE1jeTJkY2tLS092TXlXTm9sTzFfTDBla3l1U2N3ekdQb1VoMXpoNjNvUQ?oc=5"
+          },
+          {
+            "label": "NDTV：How Uber's AI Charges You More And Keeps You Coming Back: Report - NDT",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEFvN211U3hUWlFXN1NmWjc0aE9hcXIwQnlxYXZuWU9ZeFREQnZnbHprcW9Ka3BGZTlhMWNYRWFobWVVajJobWpsT1IyNkpyVk10ZHloNlJ1cThwM1lXcFlfOVpiVHNQV2RaM2xISHN5Sm9SSWxQb3lUOHN2OXBiUmI2dUFxZUN0VFE2ZG9IMFNNc0JMb3l2UGRjTWZmVDNwQmhydlRweWxFQXQxOEdOTVdyRFlFZ0XSAb8BQVVfeXFMTjQxaGdDWnYxaHlMZUpKUFFUdE5BSGtfcDRlSktfTERTLTh4dG1pdnpsY051OFhwdUZOdGdFb2piRmpoX2ZWN3FwZjZ5TUZXTE81NFdONXUta2U2SmFfeklZdjg4eURsbXpoRzNSeTI3Y0djVnBwUGFheVlRUndEM2Z4TURRYnNyOWRqb0NVM0hmMWlBZGxxcGg1T3BoSjNQcm5wVEMtTjVhbmpMR2o4V3Zzd0ZNaklORExuY1lVMDQ?oc=5"
+          },
+          {
+            "label": "UN News：AI for Good: How the UN uses AI to advance human rights - UN News",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vcHU2S3l3b05VY2xpdnFPQWFqN2QzTi1ZNDVWZF82S2FubjRZSnZjaFg1Qmh4NmpSa1R3Yk1KelpYWWw2V2dFZkc3LTFaVkpDbE1QV1FvTQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50eklvSmk3eVo1UkFPMjZjSHNvVUdwQ3ZaRzRERmNZTzlTcWdscmdmRHNUU2d1bDMtR3R2T05GR0h5QWVQYlpyR0oxOTF1eFFweXZNaE1jeTJkY2tLS092TXlXTm9sTzFfTDBla3l1U2N3ekdQb1VoMXpoNjNvUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260821-auto-1-0e5648",
         "title": "Kentucky leaders d",
         "category": "AI新闻",
@@ -16523,6 +16639,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260822-auto-1-c4aca8",
+        "title": "时代缩影：AI 迭代变化的太快！ -",
+        "category": "AI使用教程",
+        "date": "2026-08-22",
+        "summary": "时代缩影：AI 迭代变化的太快！ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "时代缩影：AI 迭代变化的太快！ - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "时代缩影：AI 迭代变化的太快！ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "时代缩影：AI 迭代变化的太快！ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESTk3bWk0UnFSWmt4Z1dqancteHBSU3lVczBMd1VBNWtDcGhjcXFDdlhsQ3NKZ2JORksxemVrVl90ejFpdS1GQnFkYk5KT0h2eW93bXIzdmwyUnMzUzY5cmdQNmU2Z1oxNF9kVDg3ZWEta1l2T2ZDNzUza214Z2c?oc=5"
+          },
+          {
+            "label": "Trend Hunter：Personal Agent Training Platforms: River AI Launches Its River Neoclou",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tSWFnQzNDaENWdVpna0N0dnhMQnVpMDBJTm56QWptcmszOTYyblh3WGRiZFU0MzBwNDNlbGpKcnI1d0pEYjdibkp1TzNfSmloV1RtaEdB?oc=5"
+          },
+          {
+            "label": "新浪财经：AI忙落地，Harness能否成为“终极武器”？ - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pbnl4WHVBNkpHU09HNThsQTczUXFWMnBJeWZ4ekVNcnVuLUNnTG1tYXpHSlJEcHlScHFuWUJ2aFRaOUZ5djJKRFBiYThYQUptQW13elBOT2gxajRmNl80MFVkRE1kNWdhLUdsZWd1NWlVRW02bXY0bQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESTk3bWk0UnFSWmt4Z1dqancteHBSU3lVczBMd1VBNWtDcGhjcXFDdlhsQ3NKZ2JORksxemVrVl90ejFpdS1GQnFkYk5KT0h2eW93bXIzdmwyUnMzUzY5cmdQNmU2Z1oxNF9kVDg3ZWEta1l2T2ZDNzUza214Z2c?oc=5"
+      },
+      {
         "slug": "ai-guide-20260821-auto-1-d40ff4",
         "title": "Adobe Firefly扩充AI音",
         "category": "AI使用教程",
@@ -24207,6 +24381,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260822-auto-1-3fb0ce",
+        "title": "DeepSeek launches",
+        "category": "开源项目",
+        "date": "2026-08-22",
+        "summary": "DeepSeek launches vision model: 1,000 images cost",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek launches 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek launches vision model: 1,000 images cost",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek launches vision model: 1,000 images cost",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.biggo.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVER4M2xnV2NlNm5qUWF0VWJ1ZXFzc05tdXhCWVZfRlNhb0FxMFVZSlhfcWhxZm5tdkpVOU1PdW81R3dlNjV2aGZ5aGZjbWRsN3BhbUZfVnl5VGswLUxjeWxIQmFvSGZRWTZwU2F3QkhUZ1U5Umc?oc=5"
+          },
+          {
+            "label": "36 Kr：OpenClaw，崩了 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "80aj.com：OzBrain：构建连接AI Agent与团队的共享知识大脑 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybGEyY2RrT3o2SjFIZTcxQzBTRmQ1a2kzUVFQMEVWNDFqRHlPalBTVTh6U2wyam0waHVJUzNTbklTcnVheWNGcVMzZmdXbklSMndTUm95VlRjSTROWFpXbG9oeG1hSW5R?oc=5"
+          }
+        ],
+        "source": "finance.biggo.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVER4M2xnV2NlNm5qUWF0VWJ1ZXFzc05tdXhCWVZfRlNhb0FxMFVZSlhfcWhxZm5tdkpVOU1PdW81R3dlNjV2aGZ5aGZjbWRsN3BhbUZfVnl5VGswLUxjeWxIQmFvSGZRWTZwU2F3QkhUZ1U5Umc?oc=5"
+      },
+      {
+        "slug": "open-source-20260822-auto-2-7f72bf",
+        "title": "OpenClaw，崩了 - 36 K",
+        "category": "开源项目",
+        "date": "2026-08-22",
+        "summary": "OpenClaw，崩了 36 Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw，崩了 - 36 K 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenClaw，崩了 36 Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenClaw，崩了 36 Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：DeepSeek launches vision model: 1,000 images cost as little as 1 yuan,",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RVER4M2xnV2NlNm5qUWF0VWJ1ZXFzc05tdXhCWVZfRlNhb0FxMFVZSlhfcWhxZm5tdkpVOU1PdW81R3dlNjV2aGZ5aGZjbWRsN3BhbUZfVnl5VGswLUxjeWxIQmFvSGZRWTZwU2F3QkhUZ1U5Umc?oc=5"
+          },
+          {
+            "label": "80aj.com：OzBrain：构建连接AI Agent与团队的共享知识大脑 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAybGEyY2RrT3o2SjFIZTcxQzBTRmQ1a2kzUVFQMEVWNDFqRHlPalBTVTh6U2wyam0waHVJUzNTbklTcnVheWNGcVMzZmdXbklSMndTUm95VlRjSTROWFpXbG9oeG1hSW5R?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJWVhjMmxhYVhacHk1bUlXQzlHUDdrMmRkd0F0d2JOM1J2bGxOckdNNGVlSFRieDZrZFdPckIza0RRb3JpdzVtUTdRbHlSdw?oc=5"
+      },
       {
         "slug": "open-source-20260821-auto-1-a9bf41",
         "title": "内容出海 算力进山 龙湾文化“新三样",
