@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260823-auto-1-3a7b73",
+        "title": "科大讯飞与中国药科大学举行战略合作签",
+        "category": "AI新闻",
+        "date": "2026-08-23",
+        "summary": "科大讯飞与中国药科大学举行战略合作签约仪式 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科大讯飞与中国药科大学举行战略合作签 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "科大讯飞与中国药科大学举行战略合作签约仪式 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科大讯飞与中国药科大学举行战略合作签约仪式 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MNXBLcDhaMEJNUzBDTEdyQlNYWENENTl5SUNWaHFxSW85Y1JDb2U1MHlRSjRCcFdXTHpISWNUbU5KWUI2YTlMSnctc0hjOEQ4RFY5YXhJUzczbF9td0hBT0xPZ3VLWUpMcUF2ZGI4dzNsZw?oc=5"
+          },
+          {
+            "label": "手机新浪网：全球AI创业团队在湖南长沙“赛”出产业新机遇 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzlaVHR1ZFV3d05ub20zMFVRVTdkTFh3aThzbmc4eDBOUlB6ZjRWSXhjWm9xNzhFc2NQMlc3OFJKM0gtU21QeHp6THJLWUdiRXlDWXB2TUhQZXBaYkNGQ2hFR29BMWE4SGpmejNTRkZoMG41SzJrb2pzRnJ0TXR1cmdQN290d2hnT25Ddlln?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：全球AI创业团队在湖南长沙“赛”出产业新机遇 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Od2xBWkxwZlo4dFBJaDRvSzdvdDg2UE1hSE4zUHc4VGQyX0I0TG4xT1BBZXc2T2RoenhGcXRqOXZWdmg3VDUxNXRhclpOZ3FkcUQ5ZGxwcjJ3T1FuUUxsZlRZTFJzeG9J?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MNXBLcDhaMEJNUzBDTEdyQlNYWENENTl5SUNWaHFxSW85Y1JDb2U1MHlRSjRCcFdXTHpISWNUbU5KWUI2YTlMSnctc0hjOEQ4RFY5YXhJUzczbF9td0hBT0xPZ3VLWUpMcUF2ZGI4dzNsZw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260823-auto-2-5862c7",
+        "title": "全球AI创业团队在湖南长沙“赛”出产",
+        "category": "AI新闻",
+        "date": "2026-08-23",
+        "summary": "全球AI创业团队在湖南长沙“赛”出产业新机遇 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全球AI创业团队在湖南长沙“赛”出产 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "全球AI创业团队在湖南长沙“赛”出产业新机遇 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全球AI创业团队在湖南长沙“赛”出产业新机遇 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzlaVHR1ZFV3d05ub20zMFVRVTdkTFh3aThzbmc4eDBOUlB6ZjRWSXhjWm9xNzhFc2NQMlc3OFJKM0gtU21QeHp6THJLWUdiRXlDWXB2TUhQZXBaYkNGQ2hFR29BMWE4SGpmejNTRkZoMG41SzJrb2pzRnJ0TXR1cmdQN290d2hnT25Ddlln?oc=5"
+          },
+          {
+            "label": "手机新浪网：科大讯飞与中国药科大学举行战略合作签约仪式 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MNXBLcDhaMEJNUzBDTEdyQlNYWENENTl5SUNWaHFxSW85Y1JDb2U1MHlRSjRCcFdXTHpISWNUbU5KWUI2YTlMSnctc0hjOEQ4RFY5YXhJUzczbF9td0hBT0xPZ3VLWUpMcUF2ZGI4dzNsZw?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：全球AI创业团队在湖南长沙“赛”出产业新机遇 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Od2xBWkxwZlo4dFBJaDRvSzdvdDg2UE1hSE4zUHc4VGQyX0I0TG4xT1BBZXc2T2RoenhGcXRqOXZWdmg3VDUxNXRhclpOZ3FkcUQ5ZGxwcjJ3T1FuUUxsZlRZTFJzeG9J?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzlaVHR1ZFV3d05ub20zMFVRVTdkTFh3aThzbmc4eDBOUlB6ZjRWSXhjWm9xNzhFc2NQMlc3OFJKM0gtU21QeHp6THJLWUdiRXlDWXB2TUhQZXBaYkNGQ2hFR29BMWE4SGpmejNTRkZoMG41SzJrb2pzRnJ0TXR1cmdQN290d2hnT25Ddlln?oc=5"
+      },
+      {
         "slug": "ai-news-20260822-auto-1-1b52c9",
         "title": "How Uber's AI Char",
         "category": "AI新闻",
@@ -16639,6 +16755,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260823-auto-1-5b7a26",
+        "title": "AI做电影，远比想象中难 - 搜狐网",
+        "category": "AI使用教程",
+        "date": "2026-08-23",
+        "summary": "AI做电影，远比想象中难 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI做电影，远比想象中难 - 搜狐网 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI做电影，远比想象中难 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI做电影，远比想象中难 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzB2b1Fibkp3TDJiRnZVQmN2bUNzSUkxenZQTEI3SnhHXzB1Uy02RFZ1UFN6REhyNS1OSE9Ic1lCRll1d0tRZ1lWTVB4UlQxZEFzNWM3eUpYYkE5OEg2bHo5b18ydUIwQ3RzdEI4YmJTLVVmRENZbEdtUUhRYUJ0YTF4aVNiXzZu?oc=5"
+          },
+          {
+            "label": "MarkTechPost：The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety - Ma",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjJyQjBDY0tRSFV6eWZRTk1SWGhkT2hIVXZUTm5YS0JrT2lQcm51NVhYZEZzNTNXUkRfNFlYX19ldGJIOTlDYUxTeGRSQkJ0V1RMQzhyS3BOS21VazB2alk0enNiWGIwcUNnaS1PM3ZqSF9OM1BjakI4WmczZVZTVzdWNU5hY3NVMkdVTDJfRHN2R2JVd3pCaTl2WmhJSjAtcklhY3BLMnlLbUlUZkHSAa4BQVVfeXFMTUoyckIwQ2NLUUhVenlmUU5NUlhoZE9oSFV2VE5uWEtCa09pUHJudTVYWGRGczUzV1JEXzRZWF9fZXRiSDk5Q2FMU3hkUkJCdFdUTEM4cktwTkttVWswdmpZNHpzYlhiMHFDZ2ktTzN2akhfTjNQY2pCOFpnM2VWU1c3VjVOYWNzVTJHVUwyX0RzdkdiVXd6Qmk5dlpoSUowLXJJYWNwSzJ5S21JVGZB?oc=5"
+          },
+          {
+            "label": "手机新浪网：零基础如何快速入门AI剪辑师岗位？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWlNNbTBwYUNiTUpCbmE4S3dsT2pza1dWb19YX3BHakVzMFd3MlFjakIyc0kxV01FemQ3b1JxUjU4UGNrdXpSQ2RMRFBDS0JpZmZVbU1YT01rdFZIanYxRFZsSVp0bzZQdmZoNU1qMDcyemJFNi1UNzB3ckdOOTg?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzB2b1Fibkp3TDJiRnZVQmN2bUNzSUkxenZQTEI3SnhHXzB1Uy02RFZ1UFN6REhyNS1OSE9Ic1lCRll1d0tRZ1lWTVB4UlQxZEFzNWM3eUpYYkE5OEg2bHo5b18ydUIwQ3RzdEI4YmJTLVVmRENZbEdtUUhRYUJ0YTF4aVNiXzZu?oc=5"
+      },
+      {
         "slug": "ai-guide-20260822-auto-1-c4aca8",
         "title": "时代缩影：AI 迭代变化的太快！ -",
         "category": "AI使用教程",
@@ -24381,6 +24555,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260823-auto-1-69e653",
+        "title": "北大研究发现：自主编程代理普遍无视开",
+        "category": "开源项目",
+        "date": "2026-08-23",
+        "summary": "北大研究发现：自主编程代理普遍无视开源贡献规则 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北大研究发现：自主编程代理普遍无视开 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北大研究发现：自主编程代理普遍无视开源贡献规则 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "北大研究发现：自主编程代理普遍无视开源贡献规则 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFc1N1hhWmE5Ty1oZjEteGpUb21la3BLbWdyZGhYbW5FUlpobkQ2Vmt1b18taFN6TlZmcnZfT2V2eDJwdTNXT0VUVUZSZkVmZ0ZJenNxNWtPaTFLODdndFUxaDNLQmwtUk5hZXc3WkdoQTl5VGl6cmlIR0Itd3JZdVFfTjI4SV9wT2lIQkhaTDFiTjVhWEhyRGlIWWhGdUNvLXgxRDZiUTVmdnJwSDNoMk1nWDZqMWF2V2c?oc=5"
+          },
+          {
+            "label": "CryptoRank：Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Str",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEctRUp6dkY3YTBnWDZmUTFqa2VsUjNQelBwWWsxQWdfNTJRNk4yMEp1V0lqRUFiWlFNS0dEeWllTUp5VUVCenNubmRsX0FfQXNmcWU0WXhaUnpiV0s2THZsREZCVEU1azEyLUZDRXN6ZGRzNFFQSG1mZEVuZXFCRXE3V3lBRzM1OWNuZzlSWW5vQThqNThnLVJtRjZyUDVLUkNzZXBESENRaW1TRmZKSnNCX1I?oc=5"
+          },
+          {
+            "label": "StreetInsider：Bitcoin News Today: BTC Breaks $79K as Traders Watch AI Crypto Presale",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXR3ajVxbUw5NTU1V3lnWE5CTExKNTdaTlBXN1hZWDg3S3lPQUprb0pQRU5Hc2doSmZ2YUxDQ01NTENjd1NreWV0bm9FTXpLLVRxR1dfbFVXYUxySm44WE1IckNpZEE1UmNKSFBBS2gwTVl0VkRrZHB3VjBXZ01pX0R4RUhoYmdGR0o0MW0yZkdYQ0pPQzhLMXNCOEpNS2RpRGhYYkhtai1naXI5N1d1dWVuVlNNekRjSk83akFHWXYwN3ZlWUdFTWdpa1V6clZvNDl2YzZsSDM0b1ZqMG5HZ09XRnRORWdqSWtQR0U3Q3h0dEU?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFc1N1hhWmE5Ty1oZjEteGpUb21la3BLbWdyZGhYbW5FUlpobkQ2Vmt1b18taFN6TlZmcnZfT2V2eDJwdTNXT0VUVUZSZkVmZ0ZJenNxNWtPaTFLODdndFUxaDNLQmwtUk5hZXc3WkdoQTl5VGl6cmlIR0Itd3JZdVFfTjI4SV9wT2lIQkhaTDFiTjVhWEhyRGlIWWhGdUNvLXgxRDZiUTVmdnJwSDNoMk1nWDZqMWF2V2c?oc=5"
+      },
+      {
+        "slug": "open-source-20260823-auto-2-2787b9",
+        "title": "Qwen 3.8 Closes th",
+        "category": "开源项目",
+        "date": "2026-08-23",
+        "summary": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Cod",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen 3.8 Closes th 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Cod",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Qwen 3.8 Closes the Reasoning Gap, but Agentic Cod",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CryptoRank：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEctRUp6dkY3YTBnWDZmUTFqa2VsUjNQelBwWWsxQWdfNTJRNk4yMEp1V0lqRUFiWlFNS0dEeWllTUp5VUVCenNubmRsX0FfQXNmcWU0WXhaUnpiV0s2THZsREZCVEU1azEyLUZDRXN6ZGRzNFFQSG1mZEVuZXFCRXE3V3lBRzM1OWNuZzlSWW5vQThqNThnLVJtRjZyUDVLUkNzZXBESENRaW1TRmZKSnNCX1I?oc=5"
+          },
+          {
+            "label": "디지털투데이：北大研究发现：自主编程代理普遍无视开源贡献规则 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFc1N1hhWmE5Ty1oZjEteGpUb21la3BLbWdyZGhYbW5FUlpobkQ2Vmt1b18taFN6TlZmcnZfT2V2eDJwdTNXT0VUVUZSZkVmZ0ZJenNxNWtPaTFLODdndFUxaDNLQmwtUk5hZXc3WkdoQTl5VGl6cmlIR0Itd3JZdVFfTjI4SV9wT2lIQkhaTDFiTjVhWEhyRGlIWWhGdUNvLXgxRDZiUTVmdnJwSDNoMk1nWDZqMWF2V2c?oc=5"
+          },
+          {
+            "label": "StreetInsider：Bitcoin News Today: BTC Breaks $79K as Traders Watch AI Crypto Presale",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXR3ajVxbUw5NTU1V3lnWE5CTExKNTdaTlBXN1hZWDg3S3lPQUprb0pQRU5Hc2doSmZ2YUxDQ01NTENjd1NreWV0bm9FTXpLLVRxR1dfbFVXYUxySm44WE1IckNpZEE1UmNKSFBBS2gwTVl0VkRrZHB3VjBXZ01pX0R4RUhoYmdGR0o0MW0yZkdYQ0pPQzhLMXNCOEpNS2RpRGhYYkhtai1naXI5N1d1dWVuVlNNekRjSk83akFHWXYwN3ZlWUdFTWdpa1V6clZvNDl2YzZsSDM0b1ZqMG5HZ09XRnRORWdqSWtQR0U3Q3h0dEU?oc=5"
+          }
+        ],
+        "source": "CryptoRank",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEctRUp6dkY3YTBnWDZmUTFqa2VsUjNQelBwWWsxQWdfNTJRNk4yMEp1V0lqRUFiWlFNS0dEeWllTUp5VUVCenNubmRsX0FfQXNmcWU0WXhaUnpiV0s2THZsREZCVEU1azEyLUZDRXN6ZGRzNFFQSG1mZEVuZXFCRXE3V3lBRzM1OWNuZzlSWW5vQThqNThnLVJtRjZyUDVLUkNzZXBESENRaW1TRmZKSnNCX1I?oc=5"
+      },
       {
         "slug": "open-source-20260822-auto-1-3fb0ce",
         "title": "DeepSeek launches",
