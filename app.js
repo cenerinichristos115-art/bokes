@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260824-auto-1-bfcd2f",
+        "title": "Callosum Raises $1",
+        "category": "AI新闻",
+        "date": "2026-08-24",
+        "summary": "Callosum Raises $100 Million Seed Funding To Build",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Callosum Raises $1 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Callosum Raises $100 Million Seed Funding To Build",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Callosum Raises $100 Million Seed Funding To Build",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pulse 2.0：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMndIeDZIU01TV2s5T0pWSFk2YmsxQS05c0NIcDJZN1EtbW04SThGOUZHVGRhaUdrYWJTTHZoSjJTRlNHQVVTMmFneS15U2VTaTRVVnhhUHY1V0hXeGZveTBSOVpKZkdrd256WEtfWW5BUmhGS21hNFRLcnlhTUd4MzRkbkk3ZU96VGRXdWlycUNfbXliR0R0MXdmXzR1LUdVOWZTOGNB0gGrAUFVX3lxTE1namtJQ3ByR2N0c2l0ZzRRWTZrb01XVmhvMDdzZm9lV2hrd2EtbHlwUWxQZmh2bnA2M21neS1yUHYwNzJ1MHlLTlNLb01JTktVU2VsZGRnTlhkajVkdElGSm5QUEZhQ2JWc3E0Wl9zcG15djAxZ2NQa3JvYzJNRFRhMzJJT0JBeklzRE1DZkdWRG1hanNBWUZKT21rSWFGRE0weTE4YjgtYXh5TQ?oc=5"
+          },
+          {
+            "label": "The Korea Herald：Google rolls out Gemini campaign featuring BTS’ Jimin - The Korea Hera",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcnFKUWRRdDZyNjVxY3NkV1laa0NYYm5FVmVielNxNWphZjhNUnVCU2ktZEZfc1oyVzM2QllxZU8tU2hsdEdQU2w0dGVnZjdHWjdxcWR4VQ?oc=5"
+          },
+          {
+            "label": "AZoNano：AI Guides Nanomedicine Design for More Precise Cancer Drug Delivery - ",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tNzcwQkZNdnczVGpBRFA5a3F5cmMtU0ZyM1NIUUdmWndyQXpoaVExSTJYVGVUM3hWVWxCT09VYnpSbFozb204THhkek1iZmdnTGd4T3VNcGJPZw?oc=5"
+          }
+        ],
+        "source": "Pulse 2.0",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMndIeDZIU01TV2s5T0pWSFk2YmsxQS05c0NIcDJZN1EtbW04SThGOUZHVGRhaUdrYWJTTHZoSjJTRlNHQVVTMmFneS15U2VTaTRVVnhhUHY1V0hXeGZveTBSOVpKZkdrd256WEtfWW5BUmhGS21hNFRLcnlhTUd4MzRkbkk3ZU96VGRXdWlycUNfbXliR0R0MXdmXzR1LUdVOWZTOGNB0gGrAUFVX3lxTE1namtJQ3ByR2N0c2l0ZzRRWTZrb01XVmhvMDdzZm9lV2hrd2EtbHlwUWxQZmh2bnA2M21neS1yUHYwNzJ1MHlLTlNLb01JTktVU2VsZGRnTlhkajVkdElGSm5QUEZhQ2JWc3E0Wl9zcG15djAxZ2NQa3JvYzJNRFRhMzJJT0JBeklzRE1DZkdWRG1hanNBWUZKT21rSWFGRE0weTE4YjgtYXh5TQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260824-auto-2-c00efc",
+        "title": "Google rolls out G",
+        "category": "AI新闻",
+        "date": "2026-08-24",
+        "summary": "Google rolls out Gemini campaign featuring BTS’ Ji",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google rolls out G 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google rolls out Gemini campaign featuring BTS’ Ji",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google rolls out Gemini campaign featuring BTS’ Ji",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Korea Herald：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcnFKUWRRdDZyNjVxY3NkV1laa0NYYm5FVmVielNxNWphZjhNUnVCU2ktZEZfc1oyVzM2QllxZU8tU2hsdEdQU2w0dGVnZjdHWjdxcWR4VQ?oc=5"
+          },
+          {
+            "label": "Pulse 2.0：Callosum Raises $100 Million Seed Funding To Build Heterogeneous AI Co",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMndIeDZIU01TV2s5T0pWSFk2YmsxQS05c0NIcDJZN1EtbW04SThGOUZHVGRhaUdrYWJTTHZoSjJTRlNHQVVTMmFneS15U2VTaTRVVnhhUHY1V0hXeGZveTBSOVpKZkdrd256WEtfWW5BUmhGS21hNFRLcnlhTUd4MzRkbkk3ZU96VGRXdWlycUNfbXliR0R0MXdmXzR1LUdVOWZTOGNB0gGrAUFVX3lxTE1namtJQ3ByR2N0c2l0ZzRRWTZrb01XVmhvMDdzZm9lV2hrd2EtbHlwUWxQZmh2bnA2M21neS1yUHYwNzJ1MHlLTlNLb01JTktVU2VsZGRnTlhkajVkdElGSm5QUEZhQ2JWc3E0Wl9zcG15djAxZ2NQa3JvYzJNRFRhMzJJT0JBeklzRE1DZkdWRG1hanNBWUZKT21rSWFGRE0weTE4YjgtYXh5TQ?oc=5"
+          },
+          {
+            "label": "AZoNano：AI Guides Nanomedicine Design for More Precise Cancer Drug Delivery - ",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tNzcwQkZNdnczVGpBRFA5a3F5cmMtU0ZyM1NIUUdmWndyQXpoaVExSTJYVGVUM3hWVWxCT09VYnpSbFozb204THhkek1iZmdnTGd4T3VNcGJPZw?oc=5"
+          }
+        ],
+        "source": "The Korea Herald",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRcnFKUWRRdDZyNjVxY3NkV1laa0NYYm5FVmVielNxNWphZjhNUnVCU2ktZEZfc1oyVzM2QllxZU8tU2hsdEdQU2w0dGVnZjdHWjdxcWR4VQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260823-auto-1-3a7b73",
         "title": "科大讯飞与中国药科大学举行战略合作签",
         "category": "AI新闻",
@@ -16755,6 +16871,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260824-auto-1-ec11f9",
+        "title": "Ask what AI can do",
+        "category": "AI使用教程",
+        "date": "2026-08-24",
+        "summary": "Ask what AI can do for you, not what it will do to",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ask what AI can do 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ask what AI can do for you, not what it will do to",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ask what AI can do for you, not what it will do to",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Straits Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1hjamhjX1JvMk5PX3V0UEhiMEFydmxuUkxEVGNpT214Wk1WVkpVbERqSUVyNW96TUlieURhaFhZa1R6RmJMbmhUeUpXLWM3dnF0a1RCZHZaSDRhUkFVdFkxbEliQWpIMy15aDMtYXFtUU5GaHM4elU1d09Oekx4c1ZPV1g4QTlDbmY0TmVYVUVGTUFiaWVSTENYUFBuU0wzY0EyOGxWU0VjRUJ6MGhVVnkxRnE5MldN?oc=5"
+          },
+          {
+            "label": "搜狐网：Anthropic免费开源内部AI培训平台Claude Academy ｜#AI资讯# #Anthropic# #AI协作# - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEVtdW9wejZBNWQzNHhYWVF2QW9RVlpyMTlBcG1ZQU9haTJIMUJaTnI0TzBJWDRhLUZqenJoc3lJSy1KbkRPS1B4ZDI2a1VqVFN4cmF6dHJGS2lJWFF0eTZ0WDRzTGwxVl9QRURJMkd4NXc2UWdfQjhXTko3aHdONnFaQjNMenJpZ2NtSg?oc=5"
+          },
+          {
+            "label": "搜狐网：Anthropic 免费开放内部 AI 培训平台 Claude Academy ｜#AI资讯# #Anthropic# #开源培训# - 搜",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFV1UjdZZG56WlhuN2U4emRGVGdMN19OdThyOTgxdUkzMW00YjU3YlZvY1Y0U2gzY09FRTlqQ0p1OUhTbHFDRlV3UlRyYTBzTlFYeTFEMnJfeXF2clpDT2c2b3g3bTgtSWk1TEd0TFF1ZlhDNWJDM0RzRXE1dExSdFZfWEZwU3E3WWJQdQ?oc=5"
+          }
+        ],
+        "source": "The Straits Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1hjamhjX1JvMk5PX3V0UEhiMEFydmxuUkxEVGNpT214Wk1WVkpVbERqSUVyNW96TUlieURhaFhZa1R6RmJMbmhUeUpXLWM3dnF0a1RCZHZaSDRhUkFVdFkxbEliQWpIMy15aDMtYXFtUU5GaHM4elU1d09Oekx4c1ZPV1g4QTlDbmY0TmVYVUVGTUFiaWVSTENYUFBuU0wzY0EyOGxWU0VjRUJ6MGhVVnkxRnE5MldN?oc=5"
+      },
+      {
         "slug": "ai-guide-20260823-auto-1-5b7a26",
         "title": "AI做电影，远比想象中难 - 搜狐网",
         "category": "AI使用教程",
@@ -24555,6 +24729,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260824-auto-1-887fac",
+        "title": "UK's AI safety tes",
+        "category": "开源项目",
+        "date": "2026-08-24",
+        "summary": "UK's AI safety test exposes how agents insert mali",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "UK's AI safety tes 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "UK's AI safety test exposes how agents insert mali",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "UK's AI safety test exposes how agents insert mali",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Khaleej Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjFtTEd6UHhzc0s2QTFvT3l4OTVwanJPbC1rY1NoaUFHTnhNaGdyTFJQdm80dEJzdGFPUlBkeVAwSDBvUVBrNlhJVExzUW9GaWdCWlQtZEpSQk1lS0V2WFhCSURjaFZ2bW5nUkc0RDhDSmVjZlN1bU9jZlc0N1BLREViX2xHNTB5NXlETHZtaDFMd08yd3V2Rkw1dVVrRXFiZHFWQzJvay1RVmdPb0hROFl0aTFoTjhIWXfSAcIBQVVfeXFMUDVVbGNiLXREckpsUHlUSUxfZmY0NFFONnFLRW81M0FSbTNud2xwRjVsMnU5T0tobG1welJQQU9PYU1nT3BfM2o3WXltbmlENFpYaVhuUURIMUtZMFpxeHMyUWV2ZXNZUlZ2X05HSnhhbmF3VmgyUTMxb1ZfcFRKc3pEN0xHTjFpNkxpWi1hWlVLYlBoV2ZZT3BTT3VfQXZUS1Y0b3MwU2puY1JVdlFQZVNTQjdabl9IelJnZnpNX3VMTVE?oc=5"
+          },
+          {
+            "label": "OMG! Ubuntu：Postcard is a new email client for GNOME, built with AI - OMG! Ubuntu",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+          },
+          {
+            "label": "SiliconANGLE：Sam Altman voices fears that control of AI could be centered in too fe",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzcyZUVsVmlZV0RUamJDV1NVTXhVQ3l3UDIyZjlYRU85TlpBSVlRblFGLTlobDFfTWo1TTJqTV94bS16RnhOcE82Ukc5T2I3UUxDYW9xbkJZdlg3dF9OTHA5Y0pzazVCa0ZpRGVMNmwzMWZEWkdFUFVLYUV4WmhVcWFGYk4wdzlhbkRfdmlBNkRVdmhUQUZUWXk2d2hQVnI0RnI1aWNZLU5pTlhkV2lia1pnaVY?oc=5"
+          }
+        ],
+        "source": "Khaleej Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjFtTEd6UHhzc0s2QTFvT3l4OTVwanJPbC1rY1NoaUFHTnhNaGdyTFJQdm80dEJzdGFPUlBkeVAwSDBvUVBrNlhJVExzUW9GaWdCWlQtZEpSQk1lS0V2WFhCSURjaFZ2bW5nUkc0RDhDSmVjZlN1bU9jZlc0N1BLREViX2xHNTB5NXlETHZtaDFMd08yd3V2Rkw1dVVrRXFiZHFWQzJvay1RVmdPb0hROFl0aTFoTjhIWXfSAcIBQVVfeXFMUDVVbGNiLXREckpsUHlUSUxfZmY0NFFONnFLRW81M0FSbTNud2xwRjVsMnU5T0tobG1welJQQU9PYU1nT3BfM2o3WXltbmlENFpYaVhuUURIMUtZMFpxeHMyUWV2ZXNZUlZ2X05HSnhhbmF3VmgyUTMxb1ZfcFRKc3pEN0xHTjFpNkxpWi1hWlVLYlBoV2ZZT3BTT3VfQXZUS1Y0b3MwU2puY1JVdlFQZVNTQjdabl9IelJnZnpNX3VMTVE?oc=5"
+      },
+      {
+        "slug": "open-source-20260824-auto-2-29e2fb",
+        "title": "Postcard is a new",
+        "category": "开源项目",
+        "date": "2026-08-24",
+        "summary": "Postcard is a new email client for GNOME, built wi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Postcard is a new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Postcard is a new email client for GNOME, built wi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Postcard is a new email client for GNOME, built wi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OMG! Ubuntu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+          },
+          {
+            "label": "Khaleej Times：UK's AI safety test exposes how agents insert malicious codes, create ",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjFtTEd6UHhzc0s2QTFvT3l4OTVwanJPbC1rY1NoaUFHTnhNaGdyTFJQdm80dEJzdGFPUlBkeVAwSDBvUVBrNlhJVExzUW9GaWdCWlQtZEpSQk1lS0V2WFhCSURjaFZ2bW5nUkc0RDhDSmVjZlN1bU9jZlc0N1BLREViX2xHNTB5NXlETHZtaDFMd08yd3V2Rkw1dVVrRXFiZHFWQzJvay1RVmdPb0hROFl0aTFoTjhIWXfSAcIBQVVfeXFMUDVVbGNiLXREckpsUHlUSUxfZmY0NFFONnFLRW81M0FSbTNud2xwRjVsMnU5T0tobG1welJQQU9PYU1nT3BfM2o3WXltbmlENFpYaVhuUURIMUtZMFpxeHMyUWV2ZXNZUlZ2X05HSnhhbmF3VmgyUTMxb1ZfcFRKc3pEN0xHTjFpNkxpWi1hWlVLYlBoV2ZZT3BTT3VfQXZUS1Y0b3MwU2puY1JVdlFQZVNTQjdabl9IelJnZnpNX3VMTVE?oc=5"
+          },
+          {
+            "label": "SiliconANGLE：Sam Altman voices fears that control of AI could be centered in too fe",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzcyZUVsVmlZV0RUamJDV1NVTXhVQ3l3UDIyZjlYRU85TlpBSVlRblFGLTlobDFfTWo1TTJqTV94bS16RnhOcE82Ukc5T2I3UUxDYW9xbkJZdlg3dF9OTHA5Y0pzazVCa0ZpRGVMNmwzMWZEWkdFUFVLYUV4WmhVcWFGYk4wdzlhbkRfdmlBNkRVdmhUQUZUWXk2d2hQVnI0RnI1aWNZLU5pTlhkV2lia1pnaVY?oc=5"
+          }
+        ],
+        "source": "OMG! Ubuntu",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+      },
       {
         "slug": "open-source-20260823-auto-1-69e653",
         "title": "北大研究发现：自主编程代理普遍无视开",
