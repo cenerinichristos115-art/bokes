@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260825-auto-1-a4dc4c",
+        "title": "正裕工业等成立科技新公司，含多项AI",
+        "category": "AI新闻",
+        "date": "2026-08-25",
+        "summary": "正裕工业等成立科技新公司，含多项AI业务 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "正裕工业等成立科技新公司，含多项AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "正裕工业等成立科技新公司，含多项AI业务 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "正裕工业等成立科技新公司，含多项AI业务 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNXdta1Z2VmRXYThNY2VIaDR4a1NoQ1N0SnJuTlpRTFNnZTlTM3NPYy1qMkNxQmJaMFVLY2FVMUVLS1VBM1BZTTdFeXp3NmtkU2xwSXFuQXRfTlRjMkNwT2xCN25mR3RyWHdBZGlZWTNBNU4yQkREVFE1bEZsU2M?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：中消协发布消费提示：使用人工智能服务需谨防误导 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORjNQY1lpTEpvbVZzdmRXY3VRZ0ZaR1RWNFJnbjE0dDFacVR1dXRZZ1UyT1kzOU9OdDNZSUdjN0k4ekpjZDBfYUJnclVXRVlLTng2bjFrN2thMGtNeWl3R3ZpdlBfNFE4bnIwTmstRkQ?oc=5"
+          },
+          {
+            "label": "ncsti.gov.cn：海淀这家人工智能企业，让国产AI算力随用随取！ - ncsti.gov.cn",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ieXlnMGZ6UzFQTWVxU0t2Y2JQbTlwV1BRWElySlFZTEh2YzNBQURfdWg5NjVjNTdYQTRSR2U5VDhuQ2NSeF9xOFNjMEpmamN1UVJQVGlXY1gxb090SFd5bElFLWdLN2RyMzRsS010M2xGLW9MR1lB?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNXdta1Z2VmRXYThNY2VIaDR4a1NoQ1N0SnJuTlpRTFNnZTlTM3NPYy1qMkNxQmJaMFVLY2FVMUVLS1VBM1BZTTdFeXp3NmtkU2xwSXFuQXRfTlRjMkNwT2xCN25mR3RyWHdBZGlZWTNBNU4yQkREVFE1bEZsU2M?oc=5"
+      },
+      {
+        "slug": "ai-news-20260825-auto-2-095d89",
+        "title": "中消协发布消费提示：使用人工智能服务",
+        "category": "AI新闻",
+        "date": "2026-08-25",
+        "summary": "中消协发布消费提示：使用人工智能服务需谨防误导 新浪新闻_手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中消协发布消费提示：使用人工智能服务 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "中消协发布消费提示：使用人工智能服务需谨防误导 新浪新闻_手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "中消协发布消费提示：使用人工智能服务需谨防误导 新浪新闻_手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪新闻_手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORjNQY1lpTEpvbVZzdmRXY3VRZ0ZaR1RWNFJnbjE0dDFacVR1dXRZZ1UyT1kzOU9OdDNZSUdjN0k4ekpjZDBfYUJnclVXRVlLTng2bjFrN2thMGtNeWl3R3ZpdlBfNFE4bnIwTmstRkQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：正裕工业等成立科技新公司，含多项AI业务 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WNXdta1Z2VmRXYThNY2VIaDR4a1NoQ1N0SnJuTlpRTFNnZTlTM3NPYy1qMkNxQmJaMFVLY2FVMUVLS1VBM1BZTTdFeXp3NmtkU2xwSXFuQXRfTlRjMkNwT2xCN25mR3RyWHdBZGlZWTNBNU4yQkREVFE1bEZsU2M?oc=5"
+          },
+          {
+            "label": "ncsti.gov.cn：海淀这家人工智能企业，让国产AI算力随用随取！ - ncsti.gov.cn",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ieXlnMGZ6UzFQTWVxU0t2Y2JQbTlwV1BRWElySlFZTEh2YzNBQURfdWg5NjVjNTdYQTRSR2U5VDhuQ2NSeF9xOFNjMEpmamN1UVJQVGlXY1gxb090SFd5bElFLWdLN2RyMzRsS010M2xGLW9MR1lB?oc=5"
+          }
+        ],
+        "source": "新浪新闻_手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ORjNQY1lpTEpvbVZzdmRXY3VRZ0ZaR1RWNFJnbjE0dDFacVR1dXRZZ1UyT1kzOU9OdDNZSUdjN0k4ekpjZDBfYUJnclVXRVlLTng2bjFrN2thMGtNeWl3R3ZpdlBfNFE4bnIwTmstRkQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260824-auto-1-bfcd2f",
         "title": "Callosum Raises $1",
         "category": "AI新闻",
@@ -16871,6 +16987,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260825-auto-1-a4c0f2",
+        "title": "NIST Releases Draf",
+        "category": "AI使用教程",
+        "date": "2026-08-25",
+        "summary": "NIST Releases Draft AI Guide for CSF Analysis Exec",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NIST Releases Draf 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NIST Releases Draft AI Guide for CSF Analysis Exec",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NIST Releases Draft AI Guide for CSF Analysis Exec",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ExecutiveGov：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzhmME5IVDlGMzlXaGM4ZmhpekpEckJ2QmJNeEZOcjdlSFpOWkRmUlprQVhQdEthRUhDOWJSc3VUWmFNMWVzUmtxZTQ3NnNOUUl6TEE5bU9OejZwTzBHZmtDa2FwSno4U1ZoVEQ3c2RrUURfdlJfZ2RFSHh2dGVqbDlqUm9KYWc?oc=5"
+          },
+          {
+            "label": "PCMag：Learn With 6 Multi-Lesson Claude and ChatGPT Courses for Just $30 Righ",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWU9YOGNYNDNpbGJpYnozTnNQeWRwRi1yVXl4YXdQSDR4dGJ5YUw5bmRHaUd2bEQxRE8wOURHZGpGY1dPR1I5ajRWMlB3T0xHcmNqaWo3MVgwMl9LcTZZV19tMTdaM1VlU2dLclQ4ZmNRRHFUbW1nOW1QOFF4NE9IQkUzaVllS3gwa0dmLU82RENTZnhsSFhCTmMtc2FLYUk?oc=5"
+          },
+          {
+            "label": "tech-insider.org：How to Use GPT Image 2 in ChatGPT: 12 Steps, 90 Min [2026] - tech-insi",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WMk1RN2FyT2dZcGYwVDhOTFBJaHNfbUItTUpfSk9NUFZsRko0UWpmSGxYREFkRnZsUnMyX19ndjkyVXRhUUZHYWwyY3k0cEtpS0VpdlJZUjBwVkpIS0tCZnBqSWFyRzRRVGRyUFh3?oc=5"
+          }
+        ],
+        "source": "ExecutiveGov",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzhmME5IVDlGMzlXaGM4ZmhpekpEckJ2QmJNeEZOcjdlSFpOWkRmUlprQVhQdEthRUhDOWJSc3VUWmFNMWVzUmtxZTQ3NnNOUUl6TEE5bU9OejZwTzBHZmtDa2FwSno4U1ZoVEQ3c2RrUURfdlJfZ2RFSHh2dGVqbDlqUm9KYWc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260824-auto-1-ec11f9",
         "title": "Ask what AI can do",
         "category": "AI使用教程",
@@ -24729,6 +24903,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260825-auto-1-a70fc4",
+        "title": "Nvidia Is Spending",
+        "category": "开源项目",
+        "date": "2026-08-25",
+        "summary": "Nvidia Is Spending $6 Billion to Build a Powerful",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Nvidia Is Spending 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Nvidia Is Spending $6 Billion to Build a Powerful",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Nvidia Is Spending $6 Billion to Build a Powerful",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WSJ：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5"
+          },
+          {
+            "label": "OMG! Ubuntu：Postcard is a new email client for GNOME, built with AI - OMG! Ubuntu",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Nvidia gives away AI models for free to boost GPU sales - Crypto Brief",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BdVNUc0JhUWpqNTdaa1N0TWhqVE15aWlMVTMzeTBWTUwtdWVrcmpKWVl4cm52bjZBc2lSeG05LWlSVi1QT2VGbmMwSWZVUGRZbXducl9GQzFrLUVxa2s0U3dzZEQtcmg3SlhF?oc=5"
+          }
+        ],
+        "source": "WSJ",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260825-auto-2-116815",
+        "title": "Postcard is a new",
+        "category": "开源项目",
+        "date": "2026-08-25",
+        "summary": "Postcard is a new email client for GNOME, built wi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Postcard is a new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Postcard is a new email client for GNOME, built wi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Postcard is a new email client for GNOME, built wi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OMG! Ubuntu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+          },
+          {
+            "label": "WSJ：Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to ",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5"
+          },
+          {
+            "label": "Crypto Briefing：Nvidia gives away AI models for free to boost GPU sales - Crypto Brief",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BdVNUc0JhUWpqNTdaa1N0TWhqVE15aWlMVTMzeTBWTUwtdWVrcmpKWVl4cm52bjZBc2lSeG05LWlSVi1QT2VGbmMwSWZVUGRZbXducl9GQzFrLUVxa2s0U3dzZEQtcmg3SlhF?oc=5"
+          }
+        ],
+        "source": "OMG! Ubuntu",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TnFqSFA4SGhHaktCNm5qOGx5SUw0bjBhR0ZlVGthaTRmVHJ5M1NudDJBZndfY1kwcm8xaTlad0tjNENMMjA5U1JtVkdham9jRUlOVTUtSXhJc1hTMENmM1hqTktoa1Z1ZE1UNGJEaGbSAXZBVV95cUxPOTBTenBhaHJ4SEUyLWtfa2tocEhBZzFFanlVXy1uMlF1VlJlVkkyOF9QS0h5Z1JuZFBOYTFrbDdad051SWlpWUw4eWlQODJsT2dqcnZucV9JdUdOSVFhclZSMGxmOUdzaS1vdkIwMndnVXJvNkR3?oc=5"
+      },
       {
         "slug": "open-source-20260824-auto-1-887fac",
         "title": "UK's AI safety tes",
