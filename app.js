@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260826-auto-1-1485f4",
+        "title": "全国农产品产地市场体系发展“十五五”",
+        "category": "AI新闻",
+        "date": "2026-08-26",
+        "summary": "全国农产品产地市场体系发展“十五五”规划：推进“人工智能+”农产品流通发展 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全国农产品产地市场体系发展“十五五” 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "全国农产品产地市场体系发展“十五五”规划：推进“人工智能+”农产品流通发展 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全国农产品产地市场体系发展“十五五”规划：推进“人工智能+”农产品流通发展 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWxFRElPLWMyaGdnQWY5LUpJMmdoS0t6SXYtUHhzYXVZRHhXQkpYQ2UtRlp3dl9Yb08wU0VnTWo2Zi0zN2tNRnVHazRIYkxwNFlZU1NxV0o0WHFHajdYZ2ZvQVpHcV84N28wbTlTdzRWb3M3NEM5bXBJa3pQV1RCMy04UmVTYU50VlRRUl9qMTNZeVZxbHVfZA?oc=5"
+          },
+          {
+            "label": "21财经：智赋中小 数启未来——人工智能赋能中小企业数智化转型活动 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54aFRoTndpbTNrZjhVZFFvaFhfdldEY3h3NWhJM21TSlVUTDdPOGY5SEtRamdOQjU3R0RNc3QwRjExdER6OTV2V1NUb1EwT3VKMWNB?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：工信部：我国已经有近200项人工智能关键标准成功研制 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZWV2aFdSZTM2RWkzbkc3ejhHSHhXeUtleWVVaFFidjJpbllERG9BbzAyaDE1QVgtX2pyV3hQT0hfVkxYblNEbWliempfMnE2QnBKdmJQSHExVkNEc2podHYxOVNWdXIw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWxFRElPLWMyaGdnQWY5LUpJMmdoS0t6SXYtUHhzYXVZRHhXQkpYQ2UtRlp3dl9Yb08wU0VnTWo2Zi0zN2tNRnVHazRIYkxwNFlZU1NxV0o0WHFHajdYZ2ZvQVpHcV84N28wbTlTdzRWb3M3NEM5bXBJa3pQV1RCMy04UmVTYU50VlRRUl9qMTNZeVZxbHVfZA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260826-auto-2-5c9c17",
+        "title": "智赋中小 数启未来——人工智能赋能中",
+        "category": "AI新闻",
+        "date": "2026-08-26",
+        "summary": "智赋中小 数启未来——人工智能赋能中小企业数智化转型活动 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智赋中小 数启未来——人工智能赋能中 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "智赋中小 数启未来——人工智能赋能中小企业数智化转型活动 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智赋中小 数启未来——人工智能赋能中小企业数智化转型活动 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54aFRoTndpbTNrZjhVZFFvaFhfdldEY3h3NWhJM21TSlVUTDdPOGY5SEtRamdOQjU3R0RNc3QwRjExdER6OTV2V1NUb1EwT3VKMWNB?oc=5"
+          },
+          {
+            "label": "新浪财经：全国农产品产地市场体系发展“十五五”规划：推进“人工智能+”农产品流通发展 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWxFRElPLWMyaGdnQWY5LUpJMmdoS0t6SXYtUHhzYXVZRHhXQkpYQ2UtRlp3dl9Yb08wU0VnTWo2Zi0zN2tNRnVHazRIYkxwNFlZU1NxV0o0WHFHajdYZ2ZvQVpHcV84N28wbTlTdzRWb3M3NEM5bXBJa3pQV1RCMy04UmVTYU50VlRRUl9qMTNZeVZxbHVfZA?oc=5"
+          },
+          {
+            "label": "chinanews.com.cn：工信部：我国已经有近200项人工智能关键标准成功研制 - chinanews.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZWV2aFdSZTM2RWkzbkc3ejhHSHhXeUtleWVVaFFidjJpbllERG9BbzAyaDE1QVgtX2pyV3hQT0hfVkxYblNEbWliempfMnE2QnBKdmJQSHExVkNEc2podHYxOVNWdXIw?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54aFRoTndpbTNrZjhVZFFvaFhfdldEY3h3NWhJM21TSlVUTDdPOGY5SEtRamdOQjU3R0RNc3QwRjExdER6OTV2V1NUb1EwT3VKMWNB?oc=5"
+      },
+      {
         "slug": "ai-news-20260825-auto-1-a4dc4c",
         "title": "正裕工业等成立科技新公司，含多项AI",
         "category": "AI新闻",
@@ -16987,6 +17103,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260826-auto-1-da5b93",
+        "title": "从Prompt到Harness，给反",
+        "category": "AI使用教程",
+        "date": "2026-08-26",
+        "summary": "从Prompt到Harness，给反馈分类装上方向盘 53AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从Prompt到Harness，给反 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从Prompt到Harness，给反馈分类装上方向盘 53AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从Prompt到Harness，给反馈分类装上方向盘 53AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "53AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SlNzWHRDbnVyYmpVcWNOZ3VpOGZ3MktxZlZVVXNxdDJVOF9rTnRLRjJjQWFuVnFUbTV6ek81Y05KWnphNk1YVm1sSy1RVmNxMVo2aG03SkRNUVBROTV2T2g2SXBNMFY4aXc?oc=5"
+          },
+          {
+            "label": "PCMag：It's the Last Day to Get ChatGPT, Gemini, & More in One $60 Lifetime A",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUFRCcTV5bl9ucVJtN09UZWJLd01vdTVTVVpMODN2YWdLbVNKVlduZE9oZVB0ZGNlcG5BWFFWWkY5R0hwMnBZYXl2bWpmX245SDRfdEhGRVp4TDdGejNzVGg5OFdpbmVCX3JYdWNjZWpoMmdpWFg5cURYMjdBaklJMlVSWk16VDVPZHVicndzTXlTMmMzYUdWQzhiRlJ4aE0?oc=5"
+          },
+          {
+            "label": "新浪网：大学生应该培养哪些AI无法替代的能力？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ubi1HTUx1TlVWN3ozVkMyUk1rM0xpcFhwcVhhcFBBY09oSlh6XzV3SWxMV1lrZER1SDN3S1ZwV3lXOGFCQ1BHUWx0VlM0NHdUOTFvNmJfSmtQSW5HMnpfeGVmMXhySG4yeWUtUFNfT19oenJXd2ZwTHhzc1JvOWs?oc=5"
+          }
+        ],
+        "source": "53AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53SlNzWHRDbnVyYmpVcWNOZ3VpOGZ3MktxZlZVVXNxdDJVOF9rTnRLRjJjQWFuVnFUbTV6ek81Y05KWnphNk1YVm1sSy1RVmNxMVo2aG03SkRNUVBROTV2T2g2SXBNMFY4aXc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260825-auto-1-a4c0f2",
         "title": "NIST Releases Draf",
         "category": "AI使用教程",
@@ -24903,6 +25077,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260826-auto-1-8068b7",
+        "title": "英伟达联手Poolside加码开源A",
+        "category": "开源项目",
+        "date": "2026-08-26",
+        "summary": "英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家 artic",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达联手Poolside加码开源A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家 artic",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家 artic",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "article.9466.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTVpPazU4UDRZWkhndzNIUzNWWWVPWEZYZUc0VFBCZkdWYTdERy1vV3ZSbjFrcXZTYjAyYm51TmZsbVNoMUJRTnlxd3dSdkk?oc=5"
+          },
+          {
+            "label": "80aj.com：独立开发复盘：AI 时代的“60分陷阱”与 3D 场景优化实践 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeHR5T1pZLThmamVnR1RLSi1JdUtrVXFoXzVyZ1ZiYno0b0d5YnlIaGM4RFM3ai0wQjFQX0h1blZQcEdyN2pDaDEzbDBITW5sMWRoVnJFNk5EbnpfZE16Qg?oc=5"
+          },
+          {
+            "label": "80aj.com：开源工具 Maiao：为 GitHub/GitLab 引入 Gerrit 风格的堆叠式代码审查流 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVlRSTXpfNFFqSTdvX0xiTGdmV2xpZ1NRcEtUV2ZqNlhySTl2c0RGVWxqMEFRQjBkVlppRl8xblhJb0pldE1lbzY3bkhGMFdxR01IOHdCNGhvRkxlYzhGcjVxcTRQR1BT?oc=5"
+          }
+        ],
+        "source": "article.9466.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTVpPazU4UDRZWkhndzNIUzNWWWVPWEZYZUc0VFBCZkdWYTdERy1vV3ZSbjFrcXZTYjAyYm51TmZsbVNoMUJRTnlxd3dSdkk?oc=5"
+      },
+      {
+        "slug": "open-source-20260826-auto-2-30ece7",
+        "title": "独立开发复盘：AI 时代的“60分陷",
+        "category": "开源项目",
+        "date": "2026-08-26",
+        "summary": "独立开发复盘：AI 时代的“60分陷阱”与 3D 场景优化实践 80aj.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "独立开发复盘：AI 时代的“60分陷 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "独立开发复盘：AI 时代的“60分陷阱”与 3D 场景优化实践 80aj.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "独立开发复盘：AI 时代的“60分陷阱”与 3D 场景优化实践 80aj.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "80aj.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeHR5T1pZLThmamVnR1RLSi1JdUtrVXFoXzVyZ1ZiYno0b0d5YnlIaGM4RFM3ai0wQjFQX0h1blZQcEdyN2pDaDEzbDBITW5sMWRoVnJFNk5EbnpfZE16Qg?oc=5"
+          },
+          {
+            "label": "article.9466.com：英伟达联手Poolside加码开源AI 目标直指DeepSeek与OpenAI等前沿玩家 - article.9466.com",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTVpPazU4UDRZWkhndzNIUzNWWWVPWEZYZUc0VFBCZkdWYTdERy1vV3ZSbjFrcXZTYjAyYm51TmZsbVNoMUJRTnlxd3dSdkk?oc=5"
+          },
+          {
+            "label": "80aj.com：开源工具 Maiao：为 GitHub/GitLab 引入 Gerrit 风格的堆叠式代码审查流 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVlRSTXpfNFFqSTdvX0xiTGdmV2xpZ1NRcEtUV2ZqNlhySTl2c0RGVWxqMEFRQjBkVlppRl8xblhJb0pldE1lbzY3bkhGMFdxR01IOHdCNGhvRkxlYzhGcjVxcTRQR1BT?oc=5"
+          }
+        ],
+        "source": "80aj.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XeHR5T1pZLThmamVnR1RLSi1JdUtrVXFoXzVyZ1ZiYno0b0d5YnlIaGM4RFM3ai0wQjFQX0h1blZQcEdyN2pDaDEzbDBITW5sMWRoVnJFNk5EbnpfZE16Qg?oc=5"
+      },
       {
         "slug": "open-source-20260825-auto-1-a70fc4",
         "title": "Nvidia Is Spending",
