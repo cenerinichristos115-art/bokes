@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260827-auto-1-8b0421",
+        "title": "Artificial Intelli",
+        "category": "AI新闻",
+        "date": "2026-08-27",
+        "summary": "Artificial Intelligence – part 3: The Hype, the Da",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial Intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Artificial Intelligence – part 3: The Hype, the Da",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial Intelligence – part 3: The Hype, the Da",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Socialist Project：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RRC1HZmZ6akljSW1Ic3FlbW93NkNERkZOcGFlSUR0SU9oVklGVlhIY3F6a2pnYm16QmNzcnkyaDZKb1Q5aVlZOWJGbGNIZ0VoLU5pOWFTeUF0bVRveFc4c2FEdkFxV00xMW50RkQ3Z2ZFWWczYkE?oc=5"
+          },
+          {
+            "label": "theins.press：General AI: How artificial intelligence became a key tool for the Ukra",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdW5EdEtNaEtfVDZvZkw5eW9jUjhsMHRzQnF6RHAxeXZQWGxiaTgtSGc0YlZBcGRUeFVqdFlVby1ERlByVkRtOUwwTFhmc2J6?oc=5"
+          },
+          {
+            "label": "The Parliament Magazine：Europe's AI lesson can't wait - The Parliament Magazine",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0otbmtveWIzVkNhMENTNVhHLUk3bEJUalBXMHdINzBsRmJFLVVNeEtzcTVONkVLcXVCWklCa3VCYlkzU2JVR1FLMWNKd2tDLVN6ZkpCZzF6WjloMlVrT2M5YWNBb1E5OXNTTnZkeklPM1ZhSFRpZEx1TTUzOWdLcEo1TUQ5MnBJWmZyM24xSXdjTkVzTjVkY0x1SHlFSXpkTVVrVjhoWDlaM2NhMUE?oc=5"
+          }
+        ],
+        "source": "Socialist Project",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RRC1HZmZ6akljSW1Ic3FlbW93NkNERkZOcGFlSUR0SU9oVklGVlhIY3F6a2pnYm16QmNzcnkyaDZKb1Q5aVlZOWJGbGNIZ0VoLU5pOWFTeUF0bVRveFc4c2FEdkFxV00xMW50RkQ3Z2ZFWWczYkE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260827-auto-2-16da08",
+        "title": "General AI: How ar",
+        "category": "AI新闻",
+        "date": "2026-08-27",
+        "summary": "General AI: How artificial intelligence became a k",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "General AI: How ar 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "General AI: How artificial intelligence became a k",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "General AI: How artificial intelligence became a k",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "theins.press：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdW5EdEtNaEtfVDZvZkw5eW9jUjhsMHRzQnF6RHAxeXZQWGxiaTgtSGc0YlZBcGRUeFVqdFlVby1ERlByVkRtOUwwTFhmc2J6?oc=5"
+          },
+          {
+            "label": "Socialist Project：Artificial Intelligence – part 3: The Hype, the Dangers, and the Resis",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RRC1HZmZ6akljSW1Ic3FlbW93NkNERkZOcGFlSUR0SU9oVklGVlhIY3F6a2pnYm16QmNzcnkyaDZKb1Q5aVlZOWJGbGNIZ0VoLU5pOWFTeUF0bVRveFc4c2FEdkFxV00xMW50RkQ3Z2ZFWWczYkE?oc=5"
+          },
+          {
+            "label": "The Parliament Magazine：Europe's AI lesson can't wait - The Parliament Magazine",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0otbmtveWIzVkNhMENTNVhHLUk3bEJUalBXMHdINzBsRmJFLVVNeEtzcTVONkVLcXVCWklCa3VCYlkzU2JVR1FLMWNKd2tDLVN6ZkpCZzF6WjloMlVrT2M5YWNBb1E5OXNTTnZkeklPM1ZhSFRpZEx1TTUzOWdLcEo1TUQ5MnBJWmZyM24xSXdjTkVzTjVkY0x1SHlFSXpkTVVrVjhoWDlaM2NhMUE?oc=5"
+          }
+        ],
+        "source": "theins.press",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tdW5EdEtNaEtfVDZvZkw5eW9jUjhsMHRzQnF6RHAxeXZQWGxiaTgtSGc0YlZBcGRUeFVqdFlVby1ERlByVkRtOUwwTFhmc2J6?oc=5"
+      },
+      {
         "slug": "ai-news-20260826-auto-1-1485f4",
         "title": "全国农产品产地市场体系发展“十五五”",
         "category": "AI新闻",
@@ -17103,6 +17219,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260827-auto-1-3238d2",
+        "title": "薛澜：以前读10年书积累的知识 如今",
+        "category": "AI使用教程",
+        "date": "2026-08-27",
+        "summary": "薛澜：以前读10年书积累的知识 如今输入几个AI提示词就能获得 未来文理分科会逐渐淡化 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "薛澜：以前读10年书积累的知识 如今 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "薛澜：以前读10年书积累的知识 如今输入几个AI提示词就能获得 未来文理分科会逐渐淡化 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "薛澜：以前读10年书积累的知识 如今输入几个AI提示词就能获得 未来文理分科会逐渐淡化 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjkycGNEbFZSMlF3LU9QQmRwN3hPUnF2WWdmUEJkUjhicUFiSHBmZW9OS3Y5dHM5aU1GRlRVZjBKV2hMdF9XNUZEbVZMOUZLbDdlM0lvcXpITHhpdndpczFteGNweklPOHpvZXlsbWxLTll5RkZSa1dMdEc1OHVLbGZQN01NWk5L?oc=5"
+          },
+          {
+            "label": "第一财经：薛澜：以前读10年书积累的知识 如今输入几个AI提示词就能获得 未来文理分科会逐渐淡化 - 第一财经",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUMXZpNUZHZjhTY1pkX3FTcTlSQWxEN2pkM01jWVRFZU9qd1haTUFYZWdNWTZISGJjaFRGWTZ0Ymlzak9sVElyZko4dEctbENySEI5Yg?oc=5"
+          },
+          {
+            "label": "至顶网：OpenAI推出\"私密安全处理\"功能，在零数据留存前提下检测企业AI滥用行为-AI应用 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0OHhIcG1pLUlmSVVJTUNLS2xteFFZaVo5VHpWUG5hQUp5UXJTNWtFSGs3UzZYVWpTa2ZUdzBSWmJXOFZQWlZjZmNPM24yLU1qaFNBUjZzWDdRYzZjcHA4VGpPaTJRaFZwUnlCOGRwbw?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjkycGNEbFZSMlF3LU9QQmRwN3hPUnF2WWdmUEJkUjhicUFiSHBmZW9OS3Y5dHM5aU1GRlRVZjBKV2hMdF9XNUZEbVZMOUZLbDdlM0lvcXpITHhpdndpczFteGNweklPOHpvZXlsbWxLTll5RkZSa1dMdEc1OHVLbGZQN01NWk5L?oc=5"
+      },
+      {
         "slug": "ai-guide-20260826-auto-1-da5b93",
         "title": "从Prompt到Harness，给反",
         "category": "AI使用教程",
@@ -25077,6 +25251,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260827-auto-1-61d114",
+        "title": "AIRSEAI Joins Linu",
+        "category": "开源项目",
+        "date": "2026-08-27",
+        "summary": "AIRSEAI Joins Linux Foundation for Open Embodied A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AIRSEAI Joins Linu 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AIRSEAI Joins Linux Foundation for Open Embodied A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AIRSEAI Joins Linux Foundation for Open Embodied A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Open Source For You：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXlFRFU5eHVkMEREcFpQd3N2eFBEUk9rR2d2RnhzMEw4TnlyRVozNDctMmptZmVETDA1MXdGaWhzc0NhMkZTTmZjbWtHWWVta0hxVnZjMzVLNnRVdktreFpINERWWTFYd0V1VGRXOEZybGJaRHpXYXgyVVB3V2xGSjNWNEE0d3VXM0ZpVjRwQU1kUmczSEE?oc=5"
+          },
+          {
+            "label": "24/7 Wall St.：Nvidia Reportedly Agrees to Pay $12.9 Billion for the Central Hub of t",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRldfTHljS0Z1YW9tWGtlanJ2MVVGLXVhdGxJNERZU012bkpIYUpoc01scktRNUxuY084cjJzeTFMSEdkSXlHaEljRjRKTnI4ME5pYnRpSEN5bURFWTJWcnVWbHdCU1JpYjFSNVBwVWNDSmdaNU1QSXZtcmtTUGpNeERPaXdyekVhYmpJZ1pUZXZ5RUtnN0dfbUtsTXhDSDU0Y2pnWFdLSnYwTEZsRmJRZ2ZlempfT0E5emNuYVg0OUVYRGhyTXVlRi1qYURkVEVOUUxGdk03Y2c3WjhVeTlxbWhCQWVDR09kQ1J6MEFwQW1vNVV5RVo2OWdtbno2SnE4ZnRHWW5TUi0wS0E?oc=5"
+          },
+          {
+            "label": "搜狐网：英伟达同意斥资129亿美元收购开源AI平台Hugging Face - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUYtRTFZSTVpYU9LemhYeVlpd0UzS3ByWkVhbUY5UThHZDJjdFpVLWhvdzJhUFJRaEpTYzRGYW5DaGROcjZOdGtiREx2MHplRUhwXzhnRFdERjdkZC1wRm9RendIVjVjRUlTZ1BkRzhEcW9NMHZ3RUVqaDdCVzlqWFRITDZXRU5vNTFweg?oc=5"
+          }
+        ],
+        "source": "Open Source For You",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXlFRFU5eHVkMEREcFpQd3N2eFBEUk9rR2d2RnhzMEw4TnlyRVozNDctMmptZmVETDA1MXdGaWhzc0NhMkZTTmZjbWtHWWVta0hxVnZjMzVLNnRVdktreFpINERWWTFYd0V1VGRXOEZybGJaRHpXYXgyVVB3V2xGSjNWNEE0d3VXM0ZpVjRwQU1kUmczSEE?oc=5"
+      },
+      {
+        "slug": "open-source-20260827-auto-2-eb155b",
+        "title": "Nvidia Reportedly",
+        "category": "开源项目",
+        "date": "2026-08-27",
+        "summary": "Nvidia Reportedly Agrees to Pay $12.9 Billion for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Nvidia Reportedly 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Nvidia Reportedly Agrees to Pay $12.9 Billion for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Nvidia Reportedly Agrees to Pay $12.9 Billion for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "24/7 Wall St.：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRldfTHljS0Z1YW9tWGtlanJ2MVVGLXVhdGxJNERZU012bkpIYUpoc01scktRNUxuY084cjJzeTFMSEdkSXlHaEljRjRKTnI4ME5pYnRpSEN5bURFWTJWcnVWbHdCU1JpYjFSNVBwVWNDSmdaNU1QSXZtcmtTUGpNeERPaXdyekVhYmpJZ1pUZXZ5RUtnN0dfbUtsTXhDSDU0Y2pnWFdLSnYwTEZsRmJRZ2ZlempfT0E5emNuYVg0OUVYRGhyTXVlRi1qYURkVEVOUUxGdk03Y2c3WjhVeTlxbWhCQWVDR09kQ1J6MEFwQW1vNVV5RVo2OWdtbno2SnE4ZnRHWW5TUi0wS0E?oc=5"
+          },
+          {
+            "label": "Open Source For You：AIRSEAI Joins Linux Foundation for Open Embodied AI - Open Source For ",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXlFRFU5eHVkMEREcFpQd3N2eFBEUk9rR2d2RnhzMEw4TnlyRVozNDctMmptZmVETDA1MXdGaWhzc0NhMkZTTmZjbWtHWWVta0hxVnZjMzVLNnRVdktreFpINERWWTFYd0V1VGRXOEZybGJaRHpXYXgyVVB3V2xGSjNWNEE0d3VXM0ZpVjRwQU1kUmczSEE?oc=5"
+          },
+          {
+            "label": "搜狐网：英伟达同意斥资129亿美元收购开源AI平台Hugging Face - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUYtRTFZSTVpYU9LemhYeVlpd0UzS3ByWkVhbUY5UThHZDJjdFpVLWhvdzJhUFJRaEpTYzRGYW5DaGROcjZOdGtiREx2MHplRUhwXzhnRFdERjdkZC1wRm9RendIVjVjRUlTZ1BkRzhEcW9NMHZ3RUVqaDdCVzlqWFRITDZXRU5vNTFweg?oc=5"
+          }
+        ],
+        "source": "24/7 Wall St.",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRldfTHljS0Z1YW9tWGtlanJ2MVVGLXVhdGxJNERZU012bkpIYUpoc01scktRNUxuY084cjJzeTFMSEdkSXlHaEljRjRKTnI4ME5pYnRpSEN5bURFWTJWcnVWbHdCU1JpYjFSNVBwVWNDSmdaNU1QSXZtcmtTUGpNeERPaXdyekVhYmpJZ1pUZXZ5RUtnN0dfbUtsTXhDSDU0Y2pnWFdLSnYwTEZsRmJRZ2ZlempfT0E5emNuYVg0OUVYRGhyTXVlRi1qYURkVEVOUUxGdk03Y2c3WjhVeTlxbWhCQWVDR09kQ1J6MEFwQW1vNVV5RVo2OWdtbno2SnE4ZnRHWW5TUi0wS0E?oc=5"
+      },
       {
         "slug": "open-source-20260826-auto-1-8068b7",
         "title": "英伟达联手Poolside加码开源A",
