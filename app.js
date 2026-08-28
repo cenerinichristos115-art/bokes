@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260828-auto-1-b106e3",
+        "title": "How AI is quietly",
+        "category": "AI新闻",
+        "date": "2026-08-28",
+        "summary": "How AI is quietly reshaping chemical sciences Chem",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How AI is quietly 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How AI is quietly reshaping chemical sciences Chem",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How AI is quietly reshaping chemical sciences Chem",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Chemical & Engineering News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG5BZTdaQ2ZrR3h3WkhJZGQ2VEhEdlpxUmNRNGhQWUo2TU5PeHVNTlYwWm1sRldnaThSWmxrR2RhaEpab0hpVlhmX2tLSG13dWIwc1MwZk1kWDdVRGJ1czl4SEZETV8zZy0yeDdWYWd0YW9mRTlGMVJKeGR6Q0dWOUIyb2ViZ1YwRWc?oc=5"
+          },
+          {
+            "label": "新华网：新华鲜报丨6.78万亿元 我国数据产业稳健增长 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SQmY4QXJMQzVmV0xLd01vU3BXRUZSd3JJeHEweFotLU9tLXlPbW1BeGVsM09yNW1mZ2RDdEZ2U3FUTFdiS0dTUmhTNHhXNk9KUHZLUlpCN3FtZk9NWEE5bXFkbEFrUTl3RW9URS1WNU9xYXRFS0NJ?oc=5"
+          },
+          {
+            "label": "HRTech Series：PMI U.S. Issues Call to Rebuild America’s Talent Pipeline in New AI-Er",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUtNVzc0VTJhNHVVWmcxVG1CVWdHeDNnSzhHY2JheHlNTlZiS0NXZnpndXZFOVFxUnEtODg2WG9Dc0E5WnMtX3F6anlZdE9Qa1ZMcGFTR2NSNnNUcGhtbjBNeXFSUldCSzU2dHJfQUpmck05MXNNQldpV1dQdERBUDF5MjltUkZocFZnMG1OWnFBcGZobjNTOFdMRXhTQ0JXTktRMlN0SzRfdG81QnpSZDUyMUxHRWlxTjdDS096LUR3RnpMdG1aLXUyWQ?oc=5"
+          }
+        ],
+        "source": "Chemical & Engineering News",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG5BZTdaQ2ZrR3h3WkhJZGQ2VEhEdlpxUmNRNGhQWUo2TU5PeHVNTlYwWm1sRldnaThSWmxrR2RhaEpab0hpVlhmX2tLSG13dWIwc1MwZk1kWDdVRGJ1czl4SEZETV8zZy0yeDdWYWd0YW9mRTlGMVJKeGR6Q0dWOUIyb2ViZ1YwRWc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260828-auto-2-46410e",
+        "title": "新华鲜报丨6.78万亿元 我国数据产",
+        "category": "AI新闻",
+        "date": "2026-08-28",
+        "summary": "新华鲜报丨6.78万亿元 我国数据产业稳健增长 新华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "新华鲜报丨6.78万亿元 我国数据产 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "新华鲜报丨6.78万亿元 我国数据产业稳健增长 新华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "新华鲜报丨6.78万亿元 我国数据产业稳健增长 新华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SQmY4QXJMQzVmV0xLd01vU3BXRUZSd3JJeHEweFotLU9tLXlPbW1BeGVsM09yNW1mZ2RDdEZ2U3FUTFdiS0dTUmhTNHhXNk9KUHZLUlpCN3FtZk9NWEE5bXFkbEFrUTl3RW9URS1WNU9xYXRFS0NJ?oc=5"
+          },
+          {
+            "label": "Chemical & Engineering News：How AI is quietly reshaping chemical sciences - Chemical & Engineering",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG5BZTdaQ2ZrR3h3WkhJZGQ2VEhEdlpxUmNRNGhQWUo2TU5PeHVNTlYwWm1sRldnaThSWmxrR2RhaEpab0hpVlhmX2tLSG13dWIwc1MwZk1kWDdVRGJ1czl4SEZETV8zZy0yeDdWYWd0YW9mRTlGMVJKeGR6Q0dWOUIyb2ViZ1YwRWc?oc=5"
+          },
+          {
+            "label": "HRTech Series：PMI U.S. Issues Call to Rebuild America’s Talent Pipeline in New AI-Er",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUtNVzc0VTJhNHVVWmcxVG1CVWdHeDNnSzhHY2JheHlNTlZiS0NXZnpndXZFOVFxUnEtODg2WG9Dc0E5WnMtX3F6anlZdE9Qa1ZMcGFTR2NSNnNUcGhtbjBNeXFSUldCSzU2dHJfQUpmck05MXNNQldpV1dQdERBUDF5MjltUkZocFZnMG1OWnFBcGZobjNTOFdMRXhTQ0JXTktRMlN0SzRfdG81QnpSZDUyMUxHRWlxTjdDS096LUR3RnpMdG1aLXUyWQ?oc=5"
+          }
+        ],
+        "source": "新华网",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SQmY4QXJMQzVmV0xLd01vU3BXRUZSd3JJeHEweFotLU9tLXlPbW1BeGVsM09yNW1mZ2RDdEZ2U3FUTFdiS0dTUmhTNHhXNk9KUHZLUlpCN3FtZk9NWEE5bXFkbEFrUTl3RW9URS1WNU9xYXRFS0NJ?oc=5"
+      },
+      {
         "slug": "ai-news-20260827-auto-1-8b0421",
         "title": "Artificial Intelli",
         "category": "AI新闻",
@@ -17219,6 +17335,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260828-auto-1-bb46e8",
+        "title": "Environmental stew",
+        "category": "AI使用教程",
+        "date": "2026-08-28",
+        "summary": "Environmental stewardship for leaner AI agent syst",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Environmental stew 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Environmental stewardship for leaner AI agent syst",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Environmental stewardship for leaner AI agent syst",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Deloitte：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDVTeEFqa1J3bXc3SHV0RFJxUzNjbjBSOHdLSmJXTVI1Q1JOSXFYb0h0bUphRG1NQ0N5el93eHh2TTFXbmUzb1F6a1hqSF9tZ0lKNUN3ZkRtR0Y4X3poNi1OTms3Q3QxTkZjNGF4dUVucXUzZUNZa0E3ZFJub1JCS21udDNMWEF3MVhVMEJSOVdPblUzb3J6SWN6VDFEUlV6QWdxd0tLQQ?oc=5"
+          },
+          {
+            "label": "新浪财经：火速实测腾讯Hy4 preview：一条提示词直出3D开放世界游戏，缓存价格看齐DeepSeek|Qwen 3|GLM-5|大模型|Hy3|",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSERnM2VpdllWaFljd2lIeU1CZkZnSE9CVlliTUtFeEI2YTZrTlcxbGxpR3FTdFM1S3RwUE0zUDNQbWJ0WElDOTR5bUViNHhGVzFUYVN3U19xdG83TkJfZ0VuQW5rdGZnekVfZ0RsVy1NWmNCTEVwRS0xa0YtWHVRTlBwY3o0dlp0XzJLVk14bzJUSURyOEhPbkVDc0dVcDJoR3RIZHJRbFktenZGYkpsYkF3?oc=5"
+          },
+          {
+            "label": "至顶网：DeepSeek Harness被\"套路\"了：一份让AI智能体防线现形的安全体检报告 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3VGNqVl8xSkVsZnMxTkpFZmNoUE5sV2hiSFpPbXZxbnNRaGRndHp2eUxTV0Vza1g2U3JSNXdiOUpDLXZJaU1jUHo4ZmlScl9rOEE?oc=5"
+          }
+        ],
+        "source": "Deloitte",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDVTeEFqa1J3bXc3SHV0RFJxUzNjbjBSOHdLSmJXTVI1Q1JOSXFYb0h0bUphRG1NQ0N5el93eHh2TTFXbmUzb1F6a1hqSF9tZ0lKNUN3ZkRtR0Y4X3poNi1OTms3Q3QxTkZjNGF4dUVucXUzZUNZa0E3ZFJub1JCS21udDNMWEF3MVhVMEJSOVdPblUzb3J6SWN6VDFEUlV6QWdxd0tLQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260827-auto-1-3238d2",
         "title": "薛澜：以前读10年书积累的知识 如今",
         "category": "AI使用教程",
@@ -25251,6 +25425,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260828-auto-1-0eb3d5",
+        "title": "Meta Muse Glimmer:",
+        "category": "开源项目",
+        "date": "2026-08-28",
+        "summary": "Meta Muse Glimmer: 30B Open AI Model for Consumer",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta Muse Glimmer: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta Muse Glimmer: 30B Open AI Model for Consumer",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta Muse Glimmer: 30B Open AI Model for Consumer",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech-insider.org：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oT1NlaEo3bm14NndCTDRjaVBDZ052V3psSWFmMWk2TGRHWFh2MFdNbTNlSWJObDFLSEMtOTdRdmNGSW1YZUwyT3I0REFQdmdTeHBTTDZxRFJyQ2dYa3ZXa1VUc2NJaUtnWDZXdVFkbTA2UU5TclNzcw?oc=5"
+          },
+          {
+            "label": "中国江苏网：打造开源创新策源地，2026开源创新生态大会发布阶段性成果 - 中国江苏网",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFVFSUR6dkI2cmx5bU9DMFlOLVhHeUhKOXZ6WnFfOWxwYmlBSmR4OWVoQTY5S0YtcGxwSHBvdkdzSG9kUk1rVHpVWEdvZGNERW9VU0VCeWQxaDVSNHdaUGt2NldGa2QzckRlSVdmNDk5T0ktSlRyQ1BVWm92VG1hMGR3eGVOd3o5SmRN?oc=5"
+          },
+          {
+            "label": "blockchain.news：OpenClaw Reveals frontier build lessons in GitHub chat - blockchain.ne",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkdiaVZHdGJIUUlVT1FCbWJMLUdVMEVtTC1GN1hodE1BRFE5dTNrb05Mc21aRy0tNWdWRWpOWU56X0JDNUlKYUFLQ0VpNnZOblptVGZ5TFlEZG9DNjNRR2owMEVmUDBuUHM4TkJWaXRJc3F2NWxsV29RQUJiTkdwc1VKUUtRN2dTOGQzSGt3?oc=5"
+          }
+        ],
+        "source": "tech-insider.org",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oT1NlaEo3bm14NndCTDRjaVBDZ052V3psSWFmMWk2TGRHWFh2MFdNbTNlSWJObDFLSEMtOTdRdmNGSW1YZUwyT3I0REFQdmdTeHBTTDZxRFJyQ2dYa3ZXa1VUc2NJaUtnWDZXdVFkbTA2UU5TclNzcw?oc=5"
+      },
+      {
+        "slug": "open-source-20260828-auto-2-17fb5e",
+        "title": "打造开源创新策源地，2026开源创新",
+        "category": "开源项目",
+        "date": "2026-08-28",
+        "summary": "打造开源创新策源地，2026开源创新生态大会发布阶段性成果 中国江苏网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "打造开源创新策源地，2026开源创新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "打造开源创新策源地，2026开源创新生态大会发布阶段性成果 中国江苏网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "打造开源创新策源地，2026开源创新生态大会发布阶段性成果 中国江苏网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国江苏网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFVFSUR6dkI2cmx5bU9DMFlOLVhHeUhKOXZ6WnFfOWxwYmlBSmR4OWVoQTY5S0YtcGxwSHBvdkdzSG9kUk1rVHpVWEdvZGNERW9VU0VCeWQxaDVSNHdaUGt2NldGa2QzckRlSVdmNDk5T0ktSlRyQ1BVWm92VG1hMGR3eGVOd3o5SmRN?oc=5"
+          },
+          {
+            "label": "tech-insider.org：Meta Muse Glimmer: 30B Open AI Model for Consumer GPUs - tech-insider.",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oT1NlaEo3bm14NndCTDRjaVBDZ052V3psSWFmMWk2TGRHWFh2MFdNbTNlSWJObDFLSEMtOTdRdmNGSW1YZUwyT3I0REFQdmdTeHBTTDZxRFJyQ2dYa3ZXa1VUc2NJaUtnWDZXdVFkbTA2UU5TclNzcw?oc=5"
+          },
+          {
+            "label": "blockchain.news：OpenClaw Reveals frontier build lessons in GitHub chat - blockchain.ne",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkdiaVZHdGJIUUlVT1FCbWJMLUdVMEVtTC1GN1hodE1BRFE5dTNrb05Mc21aRy0tNWdWRWpOWU56X0JDNUlKYUFLQ0VpNnZOblptVGZ5TFlEZG9DNjNRR2owMEVmUDBuUHM4TkJWaXRJc3F2NWxsV29RQUJiTkdwc1VKUUtRN2dTOGQzSGt3?oc=5"
+          }
+        ],
+        "source": "中国江苏网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFVFSUR6dkI2cmx5bU9DMFlOLVhHeUhKOXZ6WnFfOWxwYmlBSmR4OWVoQTY5S0YtcGxwSHBvdkdzSG9kUk1rVHpVWEdvZGNERW9VU0VCeWQxaDVSNHdaUGt2NldGa2QzckRlSVdmNDk5T0ktSlRyQ1BVWm92VG1hMGR3eGVOd3o5SmRN?oc=5"
+      },
       {
         "slug": "open-source-20260827-auto-1-61d114",
         "title": "AIRSEAI Joins Linu",
