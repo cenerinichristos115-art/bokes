@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260829-auto-1-33fd51",
+        "title": "智能近在咫尺——新加坡医疗从业者在华",
+        "category": "AI新闻",
+        "date": "2026-08-29",
+        "summary": "智能近在咫尺——新加坡医疗从业者在华“看见”未来 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "智能近在咫尺——新加坡医疗从业者在华 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "智能近在咫尺——新加坡医疗从业者在华“看见”未来 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "智能近在咫尺——新加坡医疗从业者在华“看见”未来 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HZzZxaklmS0txVG03Z0FSVlFLamtDWUN1LXpMTWQzZVRYcHJsclpzcHF6djZ6Yld3QVpJTDRFM3dmMzl4d0hSSlJnSUFkY3EwNDFWV3dJSmZGeVgwSFJLMmdwYXp4Z2wzN29ER2p4b3gzYUhFblZJdjYtZGRRQQ?oc=5"
+          },
+          {
+            "label": "搜狐网：科技馆里搬进一个“家”：一场关于AI与家庭教育的科普实验 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMl9zQUZCVGY3UGZaMjAwSzRrQWVUR29ibUlJS0xEcWJZZkEtaEhBUi05MzJldFpPWlN4WUx6WWVKLTRYM2ZqSWJZa0NoSTBkeDVVTjhvWWFvRmgzYWVaVEpPdGNqc281SWw1V2paenJaLXBMemxWNV9WSTRaM0U3MWloNjlqanFLSnY2cQ?oc=5"
+          },
+          {
+            "label": "新浪网：国家数据局将加快构建全国一体化数据市场 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zTVBpNE5Rb0Y4ZG4ydDlUcjZyQkk5WVpQTk1FT19VWmN4QUdtUktkMzV0NXpuWjM0cWxaeDhVUlpSUkdRSktlVXVUeGZXQW1vUktSS2RsSEJCUnViZVpoWExFY2ZtNzJiVFctRE1tZXExUQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HZzZxaklmS0txVG03Z0FSVlFLamtDWUN1LXpMTWQzZVRYcHJsclpzcHF6djZ6Yld3QVpJTDRFM3dmMzl4d0hSSlJnSUFkY3EwNDFWV3dJSmZGeVgwSFJLMmdwYXp4Z2wzN29ER2p4b3gzYUhFblZJdjYtZGRRQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260829-auto-2-a1af95",
+        "title": "科技馆里搬进一个“家”：一场关于AI",
+        "category": "AI新闻",
+        "date": "2026-08-29",
+        "summary": "科技馆里搬进一个“家”：一场关于AI与家庭教育的科普实验 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科技馆里搬进一个“家”：一场关于AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "科技馆里搬进一个“家”：一场关于AI与家庭教育的科普实验 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科技馆里搬进一个“家”：一场关于AI与家庭教育的科普实验 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMl9zQUZCVGY3UGZaMjAwSzRrQWVUR29ibUlJS0xEcWJZZkEtaEhBUi05MzJldFpPWlN4WUx6WWVKLTRYM2ZqSWJZa0NoSTBkeDVVTjhvWWFvRmgzYWVaVEpPdGNqc281SWw1V2paenJaLXBMemxWNV9WSTRaM0U3MWloNjlqanFLSnY2cQ?oc=5"
+          },
+          {
+            "label": "新浪网：智能近在咫尺——新加坡医疗从业者在华“看见”未来 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HZzZxaklmS0txVG03Z0FSVlFLamtDWUN1LXpMTWQzZVRYcHJsclpzcHF6djZ6Yld3QVpJTDRFM3dmMzl4d0hSSlJnSUFkY3EwNDFWV3dJSmZGeVgwSFJLMmdwYXp4Z2wzN29ER2p4b3gzYUhFblZJdjYtZGRRQQ?oc=5"
+          },
+          {
+            "label": "新浪网：国家数据局将加快构建全国一体化数据市场 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zTVBpNE5Rb0Y4ZG4ydDlUcjZyQkk5WVpQTk1FT19VWmN4QUdtUktkMzV0NXpuWjM0cWxaeDhVUlpSUkdRSktlVXVUeGZXQW1vUktSS2RsSEJCUnViZVpoWExFY2ZtNzJiVFctRE1tZXExUQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMl9zQUZCVGY3UGZaMjAwSzRrQWVUR29ibUlJS0xEcWJZZkEtaEhBUi05MzJldFpPWlN4WUx6WWVKLTRYM2ZqSWJZa0NoSTBkeDVVTjhvWWFvRmgzYWVaVEpPdGNqc281SWw1V2paenJaLXBMemxWNV9WSTRaM0U3MWloNjlqanFLSnY2cQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260828-auto-1-b106e3",
         "title": "How AI is quietly",
         "category": "AI新闻",
@@ -17335,6 +17451,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260829-auto-1-d9c935",
+        "title": "AI催生大量新就业机会‌！这三个省人",
+        "category": "AI使用教程",
+        "date": "2026-08-29",
+        "summary": "AI催生大量新就业机会‌！这三个省人工智能企业最多 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI催生大量新就业机会‌！这三个省人 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI催生大量新就业机会‌！这三个省人工智能企业最多 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI催生大量新就业机会‌！这三个省人工智能企业最多 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nM2RfYzdLNUxkUUoxMHFVVlRNajRzQktsLWpEMFdQN3lGbXVCM1NORUptS2lwUmdsclRFMEpxWHI1amsxTzFjdXQyaGpDOGM4eDhJNXk0M1UtbWx4ZEVQdUd5enNMVnNoMWhraFBSVnlyTU5fRy1Wek53Nm4yQQ?oc=5"
+          },
+          {
+            "label": "36 Kr：Hottest New Silicon Valley AI Era Jobs: Clear Workplace Elimination Th",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42cGtmWlRsLW1KRlRFMUs1ei0yTmQ2N21nRTRaOXh5QWg3anVJWndKTWNRMlBwdWxxX0hCdVJoUndFOS00NEZWamJXeVNoenVubTNn?oc=5"
+          },
+          {
+            "label": "80aj.com：全栈开发新范式：从Vibe Coding到Claude Code与驾驭工程实战教程 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zOEwxTVBuTll2OV9qWUlYNV80bXl6SWVvTUNwaUpNYW51ZURJQzdUQk5pWEc0UEFFVmM2VW1WdlEtWHpMRjlPQUltZzRzRjd2QlVheWh0LTF3YXZzWG9nQUJwRjRTTWJNRnc?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nM2RfYzdLNUxkUUoxMHFVVlRNajRzQktsLWpEMFdQN3lGbXVCM1NORUptS2lwUmdsclRFMEpxWHI1amsxTzFjdXQyaGpDOGM4eDhJNXk0M1UtbWx4ZEVQdUd5enNMVnNoMWhraFBSVnlyTU5fRy1Wek53Nm4yQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260828-auto-1-bb46e8",
         "title": "Environmental stew",
         "category": "AI使用教程",
@@ -25425,6 +25599,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260829-auto-1-71a09a",
+        "title": "GitHub Trending 榜首",
+        "category": "开源项目",
+        "date": "2026-08-29",
+        "summary": "GitHub Trending 榜首：AI Agent 架构生成项目 Archify 重返第一，获",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub Trending 榜首 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GitHub Trending 榜首：AI Agent 架构生成项目 Archify 重返第一，获",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub Trending 榜首：AI Agent 架构生成项目 Archify 重返第一，获",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "80aj.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zdHlzQXZaVmVPbEx3c2RfbzU4WWMtOUZkZndqRGlqaUotZlN2a1pCZUZ4VGtRM0FjNV9lT05xWG1pRHluSDZFWHRFT0ZZM1VXQ0I5SGo1TEtoVmlfZmhXZllCaFNacXM?oc=5"
+          },
+          {
+            "label": "智源社区：HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄 - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1heThlVGw0c0NCcUZ6UWdBdFZNdmxKeGwyRVNLSURVMkpvcm9GZkdaWVBFcFd2UEJpTGprbzJ6Y3pucjR0SnlpVA?oc=5"
+          },
+          {
+            "label": "TechGig：Gnani Unveils Sovereign AI Stack for Indian Enterprises with Open-Weig",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmI0LXFsOEdjOTd3Q0xGanZIREtpcmd6VXU4TkpLa3VGcGtJSEk2Z2xzNXd2c0RLdU0ySlh6TGV3VzZpaEdkSXdfeGxldmlZSndYUUEySHFSQm8xME9YaXpuc2FjaW5VQUpBUWR2Umx0VzhBWEd0V1FKcXpiZWJXaUFVOFdfaVNTaUdrMFdUN1AwMGhOR001NzdKS0ZiWENERVVXd0M4emtpdFdBZHh4bDhsWFrSAboBQVVfeXFMUEhONjc2VVl1RURUY0Z2RFZta05HVDlvZFNROThqWThKT0txOUlJTG4teTNrTnRKUFdNZ1NJUGF5NWdHZUFSZEwxSHQxcU5zYTE0VzZtaHIxcE1QbDI2LVBHdnNETldicDRlZ3hnc29DUzlWQkNCUXdWVEtqN1JKR0VZLXBxMHlTMk1Tajg5cU5jaWdKQndsZEhxUngybDZvcjkyRHk0Z3dxT3BPWFcxSlRTM0szc2l5YjRR?oc=5"
+          }
+        ],
+        "source": "80aj.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zdHlzQXZaVmVPbEx3c2RfbzU4WWMtOUZkZndqRGlqaUotZlN2a1pCZUZ4VGtRM0FjNV9lT05xWG1pRHluSDZFWHRFT0ZZM1VXQ0I5SGo1TEtoVmlfZmhXZllCaFNacXM?oc=5"
+      },
+      {
+        "slug": "open-source-20260829-auto-2-b867a2",
+        "title": "HuggingFace被曝卖身英伟达",
+        "category": "开源项目",
+        "date": "2026-08-29",
+        "summary": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "HuggingFace被曝卖身英伟达 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1heThlVGw0c0NCcUZ6UWdBdFZNdmxKeGwyRVNLSURVMkpvcm9GZkdaWVBFcFd2UEJpTGprbzJ6Y3pucjR0SnlpVA?oc=5"
+          },
+          {
+            "label": "80aj.com：GitHub Trending 榜首：AI Agent 架构生成项目 Archify 重返第一，获 2.8 万星 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zdHlzQXZaVmVPbEx3c2RfbzU4WWMtOUZkZndqRGlqaUotZlN2a1pCZUZ4VGtRM0FjNV9lT05xWG1pRHluSDZFWHRFT0ZZM1VXQ0I5SGo1TEtoVmlfZmhXZllCaFNacXM?oc=5"
+          },
+          {
+            "label": "TechGig：Gnani Unveils Sovereign AI Stack for Indian Enterprises with Open-Weig",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmI0LXFsOEdjOTd3Q0xGanZIREtpcmd6VXU4TkpLa3VGcGtJSEk2Z2xzNXd2c0RLdU0ySlh6TGV3VzZpaEdkSXdfeGxldmlZSndYUUEySHFSQm8xME9YaXpuc2FjaW5VQUpBUWR2Umx0VzhBWEd0V1FKcXpiZWJXaUFVOFdfaVNTaUdrMFdUN1AwMGhOR001NzdKS0ZiWENERVVXd0M4emtpdFdBZHh4bDhsWFrSAboBQVVfeXFMUEhONjc2VVl1RURUY0Z2RFZta05HVDlvZFNROThqWThKT0txOUlJTG4teTNrTnRKUFdNZ1NJUGF5NWdHZUFSZEwxSHQxcU5zYTE0VzZtaHIxcE1QbDI2LVBHdnNETldicDRlZ3hnc29DUzlWQkNCUXdWVEtqN1JKR0VZLXBxMHlTMk1Tajg5cU5jaWdKQndsZEhxUngybDZvcjkyRHk0Z3dxT3BPWFcxSlRTM0szc2l5YjRR?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1heThlVGw0c0NCcUZ6UWdBdFZNdmxKeGwyRVNLSURVMkpvcm9GZkdaWVBFcFd2UEJpTGprbzJ6Y3pucjR0SnlpVA?oc=5"
+      },
       {
         "slug": "open-source-20260828-auto-1-0eb3d5",
         "title": "Meta Muse Glimmer:",
