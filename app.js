@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260830-auto-1-5f6fd1",
+        "title": "《七弈万象》：棋局胜负之上，人与AI",
+        "category": "AI新闻",
+        "date": "2026-08-30",
+        "summary": "《七弈万象》：棋局胜负之上，人与AI的智力对望丨书评- 21世纪经济报道 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《七弈万象》：棋局胜负之上，人与AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "《七弈万象》：棋局胜负之上，人与AI的智力对望丨书评- 21世纪经济报道 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《七弈万象》：棋局胜负之上，人与AI的智力对望丨书评- 21世纪经济报道 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjlBNU1oQ000aGRPYm1jNFNfMFlodWdSMGxSTlFfRTZ4TWh5dy1EUWtybzNNTTA0b3hILTJZMGFfNk1qWTdxVm1qQXZaU2hFVlZ5dE84c3JMM2VfS3p6U0JaZ1lzRHZzWWUzNnFxdERVSVFyd1BWdGNSSGxPTHVmcC1zWUFPczVhLU9z?oc=5"
+          },
+          {
+            "label": "Yahoo Finance Singapore：The HKAGE Programme Showcase Day - From AI Robotic Arms to Star Charts",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWJCbmRYaDB5U2tuYmdsOHp1RllZb3JCM08yOWRvQnJIeGduMmlMWG5jUl9XcWpxWEJpaktVOGpaZWNyV3d2cGpaU1F2NVVoeFdxSG5xMlRhU0wtbXhtbnFTdnZCeHM5dG5OQ1BwZmtuU0tZOXZ1RV9lUEJMVl80czh6Z1c4VXc?oc=5"
+          },
+          {
+            "label": "新浪财经：“2026数博会DATA之夜”：数聚具身 激活智赋实体“新动能” - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84ZXYxVHR6dUJNUDd0MTl2aWpBUjlmWm1Vd0hJZHY5N3FKc3prdTBtOFlXZWNRV3JfM05qT0lsNWRvd3k5VGxiYW83NmEtLWwzdmY5a0g2c184cFpjTVF4MmFRejJWZlo5Y0xCc3ZTNENTVm4yYW9DOQ?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjlBNU1oQ000aGRPYm1jNFNfMFlodWdSMGxSTlFfRTZ4TWh5dy1EUWtybzNNTTA0b3hILTJZMGFfNk1qWTdxVm1qQXZaU2hFVlZ5dE84c3JMM2VfS3p6U0JaZ1lzRHZzWWUzNnFxdERVSVFyd1BWdGNSSGxPTHVmcC1zWUFPczVhLU9z?oc=5"
+      },
+      {
+        "slug": "ai-news-20260830-auto-2-502115",
+        "title": "The HKAGE Programm",
+        "category": "AI新闻",
+        "date": "2026-08-30",
+        "summary": "The HKAGE Programme Showcase Day - From AI Robotic",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The HKAGE Programm 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "The HKAGE Programme Showcase Day - From AI Robotic",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The HKAGE Programme Showcase Day - From AI Robotic",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Yahoo Finance Singapore：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWJCbmRYaDB5U2tuYmdsOHp1RllZb3JCM08yOWRvQnJIeGduMmlMWG5jUl9XcWpxWEJpaktVOGpaZWNyV3d2cGpaU1F2NVVoeFdxSG5xMlRhU0wtbXhtbnFTdnZCeHM5dG5OQ1BwZmtuU0tZOXZ1RV9lUEJMVl80czh6Z1c4VXc?oc=5"
+          },
+          {
+            "label": "21财经：《七弈万象》：棋局胜负之上，人与AI的智力对望丨书评- 21世纪经济报道 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjlBNU1oQ000aGRPYm1jNFNfMFlodWdSMGxSTlFfRTZ4TWh5dy1EUWtybzNNTTA0b3hILTJZMGFfNk1qWTdxVm1qQXZaU2hFVlZ5dE84c3JMM2VfS3p6U0JaZ1lzRHZzWWUzNnFxdERVSVFyd1BWdGNSSGxPTHVmcC1zWUFPczVhLU9z?oc=5"
+          },
+          {
+            "label": "新浪财经：“2026数博会DATA之夜”：数聚具身 激活智赋实体“新动能” - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84ZXYxVHR6dUJNUDd0MTl2aWpBUjlmWm1Vd0hJZHY5N3FKc3prdTBtOFlXZWNRV3JfM05qT0lsNWRvd3k5VGxiYW83NmEtLWwzdmY5a0g2c184cFpjTVF4MmFRejJWZlo5Y0xCc3ZTNENTVm4yYW9DOQ?oc=5"
+          }
+        ],
+        "source": "Yahoo Finance Singapore",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWJCbmRYaDB5U2tuYmdsOHp1RllZb3JCM08yOWRvQnJIeGduMmlMWG5jUl9XcWpxWEJpaktVOGpaZWNyV3d2cGpaU1F2NVVoeFdxSG5xMlRhU0wtbXhtbnFTdnZCeHM5dG5OQ1BwZmtuU0tZOXZ1RV9lUEJMVl80czh6Z1c4VXc?oc=5"
+      },
+      {
         "slug": "ai-news-20260829-auto-1-33fd51",
         "title": "智能近在咫尺——新加坡医疗从业者在华",
         "category": "AI新闻",
@@ -17451,6 +17567,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260830-auto-1-5d3b3b",
+        "title": "How to Work with A",
+        "category": "AI使用教程",
+        "date": "2026-08-30",
+        "summary": "How to Work with AI Coding Agents Towards Data Sci",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How to Work with A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How to Work with AI Coding Agents Towards Data Sci",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How to Work with AI Coding Agents Towards Data Sci",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Towards Data Science：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ZlB4Umw0dFR6LWlJZGhqallIenFqMFdGUUJaajd2RWtxUjBPYjZRQmN5dHc4d3paZVpKdm1aMHV0UlA5aWZWQk5YM3V6RG03M0tuWm82bUFxb0xWWDh3RWhHV1A5VFA0U09RSXlnYWxRZFU?oc=5"
+          },
+          {
+            "label": "Tom's Guide：I gave Claude one app and asked it to act like four different senior d",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0FFa2FwV3Rpb01HdW1yVTd1bVBFYUFrZTVBNUxtOHlYUzFGbXdNTTN2dnZGekZfZ0hnR2FVSFZVbS1jQS1BbldOcVY5eVhZLU9XaGRBVnpvd2lXdzNINWFZRlpwWkNmd0RHYTczUE9pVXVUVlRXbmxuXzBtTDJLQXdpRnRwX3dWZlFzaEplRkZaOUxkaHByaWpEVThaVDRBZjczMWNKbEJsN3k4eFZnRmd3LWVhRzdGTWprVVBDSzhCQVFhbk5nUGQ0eHdyeFZ1?oc=5"
+          },
+          {
+            "label": "澳門特別行政區政府入口網站：首期澳门公务员“AI赋能行政能力提升培训”顺利结课，助推琴澳人才协同发展– 澳门特别行政区政府入口网站 - 澳門特別行政區政府入口網站",
+            "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPci1IRjhoMFpsUHZoU05SU3pWY3Q3RDNOV1hfNmdwS3RqSmFxRE5nRW1EQ2UzN2dSOU9hQ2w4MW8yX0JuYU1TbUF4VXE3Y2d6S1N1NkJlQy1GRGJpdG1pSEJHNW9hM1lVSFBXZVFFVk5iTDRmbkE2MXdNcUZjLUhoalI4RGhSMnBJWjd0eWkyd2FEMEtDTXU3WWlmN1NDTnpVWUNWd0Q2NTJiU3FDUm94cDRUTW1ZaEREY3FqUkZ5N2ZGMF95N3AzZ19RTGNoZEUtS05RM1cyTTNXNEtEZmJ0WkhoSzhuV3BiYUp6NjhBTzRVamM5b3RKWXl5U3hVbWVVTWhSSGpwN2FQSTZfVmJ1am1yQklyVlRRdlY2LUVyYzBvWHY4MTQ0d1puZ2ktZjJfazFueGs0ajFIWVU?oc=5"
+          }
+        ],
+        "source": "Towards Data Science",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5ZlB4Umw0dFR6LWlJZGhqallIenFqMFdGUUJaajd2RWtxUjBPYjZRQmN5dHc4d3paZVpKdm1aMHV0UlA5aWZWQk5YM3V6RG03M0tuWm82bUFxb0xWWDh3RWhHV1A5VFA0U09RSXlnYWxRZFU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260829-auto-1-d9c935",
         "title": "AI催生大量新就业机会‌！这三个省人",
         "category": "AI使用教程",
@@ -25599,6 +25773,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260830-auto-1-2856c4",
+        "title": "Why Nvidia May Spe",
+        "category": "开源项目",
+        "date": "2026-08-30",
+        "summary": "Why Nvidia May Spend $13bn on Hugging Face’s Doorw",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why Nvidia May Spe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Why Nvidia May Spend $13bn on Hugging Face’s Doorw",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why Nvidia May Spend $13bn on Hugging Face’s Doorw",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "semivision：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTNsSGdNVUV4VjdVZG1VdVl0dkNuZWU2TUw4eEdUV250S2lYaEVOekh5X0t3NzRnclh3OWkyMmxDY2JkanZTUG5CWkpMelZyLXRCT1ZCYWt0amtSWF8tUzJTYWtJSEVlX0FCVUlQVTRUUm5GbXBRdXA5eS15U3Q2QjBBNWJvSHlNSGp0SHo0R2o1Nnh2MTBzWm1UQ3laRzhfVU9sRjN2WXFJM1hwNnp4a25zMUNEZEw1UDBkMmNKM2t5RUFCeWdWSnVOYWhnRXF3bE9ZeFBoZ3hVVzFSa0E?oc=5"
+          },
+          {
+            "label": "It's FOSS：Debian AI Vote has Divided the Community - It's FOSS",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WHQ2WVlyeEFlTl9VUlZiRUUzM0ZFeTNSUHp5UXlFdHdZR3NIVzVzeENRVlFBMVBkZFh0MFNrV3FXY0ZIOFZiQWlRTHVzaXpnYUozRGcxcFYwR2pIX0tUaHBzU1F4QQ?oc=5"
+          },
+          {
+            "label": "Mail & Guardian：Open source ecosystems defeat Washington’s attempts at technological p",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0dpbDF1WktnZ3hHeEQ4TUt0bXlKSGpwazNJZ1B5SGdkaGlrQ1hlYUxVSjJPX21zenlNV0JJVDkzTWk5M1RDdTNnbkNXSktDRVZNYTlhMXJNbVBCQXdxVUtnZHdoR1c0TXVaUXZOeEdLb0wySm1WV3c0Nnp5dVFRSHlnWkRPRVc4bEZuZ3JObl9vU3B5eW9SRFVFZk9tbzhoa3lLLVFqRnRUNDVFS0FSeW5WaHNFdlJhREhiUGYtbw?oc=5"
+          }
+        ],
+        "source": "semivision",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTNsSGdNVUV4VjdVZG1VdVl0dkNuZWU2TUw4eEdUV250S2lYaEVOekh5X0t3NzRnclh3OWkyMmxDY2JkanZTUG5CWkpMelZyLXRCT1ZCYWt0amtSWF8tUzJTYWtJSEVlX0FCVUlQVTRUUm5GbXBRdXA5eS15U3Q2QjBBNWJvSHlNSGp0SHo0R2o1Nnh2MTBzWm1UQ3laRzhfVU9sRjN2WXFJM1hwNnp4a25zMUNEZEw1UDBkMmNKM2t5RUFCeWdWSnVOYWhnRXF3bE9ZeFBoZ3hVVzFSa0E?oc=5"
+      },
+      {
+        "slug": "open-source-20260830-auto-2-bb02d6",
+        "title": "Debian AI Vote has",
+        "category": "开源项目",
+        "date": "2026-08-30",
+        "summary": "Debian AI Vote has Divided the Community It's FOSS",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Debian AI Vote has 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Debian AI Vote has Divided the Community It's FOSS",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Debian AI Vote has Divided the Community It's FOSS",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "It's FOSS：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WHQ2WVlyeEFlTl9VUlZiRUUzM0ZFeTNSUHp5UXlFdHdZR3NIVzVzeENRVlFBMVBkZFh0MFNrV3FXY0ZIOFZiQWlRTHVzaXpnYUozRGcxcFYwR2pIX0tUaHBzU1F4QQ?oc=5"
+          },
+          {
+            "label": "semivision：Why Nvidia May Spend $13bn on Hugging Face’s Doorway to AI Demand - se",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTNsSGdNVUV4VjdVZG1VdVl0dkNuZWU2TUw4eEdUV250S2lYaEVOekh5X0t3NzRnclh3OWkyMmxDY2JkanZTUG5CWkpMelZyLXRCT1ZCYWt0amtSWF8tUzJTYWtJSEVlX0FCVUlQVTRUUm5GbXBRdXA5eS15U3Q2QjBBNWJvSHlNSGp0SHo0R2o1Nnh2MTBzWm1UQ3laRzhfVU9sRjN2WXFJM1hwNnp4a25zMUNEZEw1UDBkMmNKM2t5RUFCeWdWSnVOYWhnRXF3bE9ZeFBoZ3hVVzFSa0E?oc=5"
+          },
+          {
+            "label": "Mail & Guardian：Open source ecosystems defeat Washington’s attempts at technological p",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0dpbDF1WktnZ3hHeEQ4TUt0bXlKSGpwazNJZ1B5SGdkaGlrQ1hlYUxVSjJPX21zenlNV0JJVDkzTWk5M1RDdTNnbkNXSktDRVZNYTlhMXJNbVBCQXdxVUtnZHdoR1c0TXVaUXZOeEdLb0wySm1WV3c0Nnp5dVFRSHlnWkRPRVc4bEZuZ3JObl9vU3B5eW9SRFVFZk9tbzhoa3lLLVFqRnRUNDVFS0FSeW5WaHNFdlJhREhiUGYtbw?oc=5"
+          }
+        ],
+        "source": "It's FOSS",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41WHQ2WVlyeEFlTl9VUlZiRUUzM0ZFeTNSUHp5UXlFdHdZR3NIVzVzeENRVlFBMVBkZFh0MFNrV3FXY0ZIOFZiQWlRTHVzaXpnYUozRGcxcFYwR2pIX0tUaHBzU1F4QQ?oc=5"
+      },
       {
         "slug": "open-source-20260829-auto-1-71a09a",
         "title": "GitHub Trending 榜首",
