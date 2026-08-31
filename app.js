@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260831-auto-1-6304a0",
+        "title": "门头沟AI大赛落幕，为“一人创业”铺",
+        "category": "AI新闻",
+        "date": "2026-08-31",
+        "summary": "门头沟AI大赛落幕，为“一人创业”铺就体系化通道_投促活动 北京市投资促进服务中心",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "门头沟AI大赛落幕，为“一人创业”铺 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "门头沟AI大赛落幕，为“一人创业”铺就体系化通道_投促活动 北京市投资促进服务中心",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "门头沟AI大赛落幕，为“一人创业”铺就体系化通道_投促活动 北京市投资促进服务中心",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "北京市投资促进服务中心：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53T2Q2emd4Y2V6dVR3X1VKQWI4d2dpWUF0ZmpheVVPLXVub0FtRldjY1B6VEtMcFhHaTQ0a1RLT1ZzejY2SWxCb0N0NXMtRUZGR2ViUUc4SFJjWE81Y2NGQ2I0TmN5enQ1bjF5YlBTWXZMLU5Yd0dERA?oc=5"
+          },
+          {
+            "label": "新浪网：AI相关专业密集“上新”，职业教育迎来哪些“变量”？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZWRnTzlqNTZOWXo4Nk1DWVhBS2xjckgwZ1hCamYtZmt2VjVwb0ROTThuTUtYMmJiNUhpd0JhNmRQeTEtcXBQcGo2eW1aampqTWF4dkFiZnpLTGVtb3h0dFBkb0l0THRtQlVYUkpfT2tUM3RfN2lMWmZmTHN3UQ?oc=5"
+          },
+          {
+            "label": "AZoM：New Machine Learning Models Improve Real-Time Nuclear Chemical Monitor",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRaHBUWEcyczVTblEzNFNwbnVfRElmRlNoUm5abDRxRU1janhyM1JyNHFxNXR6dDVYQ2lYeDE4TlJHNXFPVmc0MUFXcGk4YVJRNThyM3NB?oc=5"
+          }
+        ],
+        "source": "北京市投资促进服务中心",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53T2Q2emd4Y2V6dVR3X1VKQWI4d2dpWUF0ZmpheVVPLXVub0FtRldjY1B6VEtMcFhHaTQ0a1RLT1ZzejY2SWxCb0N0NXMtRUZGR2ViUUc4SFJjWE81Y2NGQ2I0TmN5enQ1bjF5YlBTWXZMLU5Yd0dERA?oc=5"
+      },
+      {
+        "slug": "ai-news-20260831-auto-2-752228",
+        "title": "AI相关专业密集“上新”，职业教育迎",
+        "category": "AI新闻",
+        "date": "2026-08-31",
+        "summary": "AI相关专业密集“上新”，职业教育迎来哪些“变量”？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI相关专业密集“上新”，职业教育迎 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI相关专业密集“上新”，职业教育迎来哪些“变量”？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI相关专业密集“上新”，职业教育迎来哪些“变量”？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZWRnTzlqNTZOWXo4Nk1DWVhBS2xjckgwZ1hCamYtZmt2VjVwb0ROTThuTUtYMmJiNUhpd0JhNmRQeTEtcXBQcGo2eW1aampqTWF4dkFiZnpLTGVtb3h0dFBkb0l0THRtQlVYUkpfT2tUM3RfN2lMWmZmTHN3UQ?oc=5"
+          },
+          {
+            "label": "北京市投资促进服务中心：门头沟AI大赛落幕，为“一人创业”铺就体系化通道_投促活动 - 北京市投资促进服务中心",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53T2Q2emd4Y2V6dVR3X1VKQWI4d2dpWUF0ZmpheVVPLXVub0FtRldjY1B6VEtMcFhHaTQ0a1RLT1ZzejY2SWxCb0N0NXMtRUZGR2ViUUc4SFJjWE81Y2NGQ2I0TmN5enQ1bjF5YlBTWXZMLU5Yd0dERA?oc=5"
+          },
+          {
+            "label": "AZoM：New Machine Learning Models Improve Real-Time Nuclear Chemical Monitor",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRaHBUWEcyczVTblEzNFNwbnVfRElmRlNoUm5abDRxRU1janhyM1JyNHFxNXR6dDVYQ2lYeDE4TlJHNXFPVmc0MUFXcGk4YVJRNThyM3NB?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZWRnTzlqNTZOWXo4Nk1DWVhBS2xjckgwZ1hCamYtZmt2VjVwb0ROTThuTUtYMmJiNUhpd0JhNmRQeTEtcXBQcGo2eW1aampqTWF4dkFiZnpLTGVtb3h0dFBkb0l0THRtQlVYUkpfT2tUM3RfN2lMWmZmTHN3UQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260830-auto-1-5f6fd1",
         "title": "《七弈万象》：棋局胜负之上，人与AI",
         "category": "AI新闻",
@@ -17567,6 +17683,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260831-auto-1-3992a9",
+        "title": "AI短剧需要门槛吗？丨对话《非妖哉》",
+        "category": "AI使用教程",
+        "date": "2026-08-31",
+        "summary": "AI短剧需要门槛吗？丨对话《非妖哉》导演 风闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧需要门槛吗？丨对话《非妖哉》 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI短剧需要门槛吗？丨对话《非妖哉》导演 风闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI短剧需要门槛吗？丨对话《非妖哉》导演 风闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "风闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90T2UzQks1bGUxTDl2c1NEWXg3R3hlT3FESU9mVEpmN0RybEx6U25hdzZYYnNWNV95am1WRkRKbGh4QjRxem9QOTZuWVNhM1ZMZk9xVUFXakZsYnc?oc=5"
+          },
+          {
+            "label": "搜狐网：刚刚，我们用千问创作做了一部「JoJo的奇幻买瓜」 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUkyR1M4UGFaWVdYLXh0cTdZRVVNWkNfNmdNRUJ4LTNpck9VaE9YeEJFSi1Ud3ZsYnp2a1lFOXVaTWZNZEdvMUJkbEFhVzRoeXRqZEtxNG5rMWZaUFRTbHUxV1ZZZHpDeEx1VU50WVhaajBLazA0Tmg5YmdPLWJGVDdfUm5HX2VE?oc=5"
+          },
+          {
+            "label": "nerdbot：Gen AI Career Guide: Skills, Jobs, Salary and Career Opportunities - n",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0VmQ2pGcUlmYkU2SThKU1NWbm5jUldjTzBDR3NVbEs5Y05rUTZjRk0yVzl3V29icGN5SGJHeHVPVFRUbi1OTkJ3V0tZbjExSlpEaVdGNVVXNTlIdmk2ZVF2MkxTUGItUXBBX1F4LWQycUtnQ1VSbkVidXEwd3FKbWxqa0xGb2xQcWhTRnktQjBGM2V0elg3N3EwVQ?oc=5"
+          }
+        ],
+        "source": "风闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90T2UzQks1bGUxTDl2c1NEWXg3R3hlT3FESU9mVEpmN0RybEx6U25hdzZYYnNWNV95am1WRkRKbGh4QjRxem9QOTZuWVNhM1ZMZk9xVUFXakZsYnc?oc=5"
+      },
+      {
         "slug": "ai-guide-20260830-auto-1-5d3b3b",
         "title": "How to Work with A",
         "category": "AI使用教程",
@@ -25773,6 +25947,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260831-auto-1-a9d723",
+        "title": "抢占AI时代战略制高点开源平台成为资",
+        "category": "开源项目",
+        "date": "2026-08-31",
+        "summary": "抢占AI时代战略制高点开源平台成为资本追逐焦点|大模型|闭源模型|开源模型|Qwen|AI代码生成_",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "抢占AI时代战略制高点开源平台成为资 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "抢占AI时代战略制高点开源平台成为资本追逐焦点|大模型|闭源模型|开源模型|Qwen|AI代码生成_",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "抢占AI时代战略制高点开源平台成为资本追逐焦点|大模型|闭源模型|开源模型|Qwen|AI代码生成_",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNdGlhR1VQN1hZMDJNT01sX3hUMk1EQ3VsWURFR2JQMjFfWTN4ZHJBRUhnRWhzUmtpaHBEZEQyQlpuNi05OEpGajFXM1NCaldKbnZJcUR1UzR1Zmk5aE93dm15Zm0zcWVYd0o3bER0dUFhLTNYdVpsbw?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：FSB Warns AI-Driven Cyberattacks Are Biggest Near-Term Threat to Globa",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiRDdqanlKclEwLXdQQURwWDVEdlI0ZFpOejlOQlAzTlowNFF5WmhTbXBUc05UOGZFZkNvRmtZT3dYZk9UVDJvWjJHaGw3Ukh5WHEyNnVNOTFxVkhYR19oRHBfcUpWN1dua3RmTk9WYXhLZmJtZmc?oc=5"
+          },
+          {
+            "label": "India Today：We beat GTA 6: OpenClaw launches version 2.0, calls it biggest update ",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3F1Zzk4YVlJZDdaNlpYeW90U2d1dzNmQTRZUG56VnZiZEViemtucVVWbXBPN3BLeU1zVHpReWd4YWhoYWJ0WWg1QWs4V2d1NFRKT1ByZVBrdjBOd1hMTW8zR0FyR0RQd01qbjRUbjdqeXVTb0VWNzdHWDF5NHdkekxTbTFneklhc21QSDktT1NUN1BUNFIxMXlTT3FXdmpUUEtVODBFcWNMN2hzWktXVTdpWHBrME85MXZyRzJ5ZXE2cFJwYTZsMTFXTVdKOTBvMGJnR2dIVzNMMUtERGU1Z05ZcDbSAeQBQVVfeXFMTUtxdWc5OGFZSWQ3WjZaWHlvdFNndXczZkE0WVBuelZ2YmRFYnprbnFVVm1wTzdwS3lNc1R6UXlneGFoaGFidFloNUFrOFdndTRUSk9QcmVQa3YwTndYTE1vM0dBckdEUHdNam40VG43anl1U29FVjc3R1gxeTR3ZHpMU20xZ3pJYXNtUEg5LU9TVDdQVDRSMTF5U09xV3ZqVFBLVTgwRXFjTDdoc1pLV1U3aVhwazBPOTF2ckcyeWVxNnBScGE2bDExV01XSjkwbzBiZ0dnSFczTDFLRERlNWdOWXA2?oc=5"
+          }
+        ],
+        "source": "finance.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNdGlhR1VQN1hZMDJNT01sX3hUMk1EQ3VsWURFR2JQMjFfWTN4ZHJBRUhnRWhzUmtpaHBEZEQyQlpuNi05OEpGajFXM1NCaldKbnZJcUR1UzR1Zmk5aE93dm15Zm0zcWVYd0o3bER0dUFhLTNYdVpsbw?oc=5"
+      },
+      {
+        "slug": "open-source-20260831-auto-2-64469f",
+        "title": "FSB Warns AI-Drive",
+        "category": "开源项目",
+        "date": "2026-08-31",
+        "summary": "FSB Warns AI-Driven Cyberattacks Are Biggest Near-",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FSB Warns AI-Drive 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "FSB Warns AI-Driven Cyberattacks Are Biggest Near-",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "FSB Warns AI-Driven Cyberattacks Are Biggest Near-",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.biggo.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiRDdqanlKclEwLXdQQURwWDVEdlI0ZFpOejlOQlAzTlowNFF5WmhTbXBUc05UOGZFZkNvRmtZT3dYZk9UVDJvWjJHaGw3Ukh5WHEyNnVNOTFxVkhYR19oRHBfcUpWN1dua3RmTk9WYXhLZmJtZmc?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：抢占AI时代战略制高点开源平台成为资本追逐焦点|大模型|闭源模型|开源模型|Qwen|AI代码生成_手机新浪网 - finance.sina",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNdGlhR1VQN1hZMDJNT01sX3hUMk1EQ3VsWURFR2JQMjFfWTN4ZHJBRUhnRWhzUmtpaHBEZEQyQlpuNi05OEpGajFXM1NCaldKbnZJcUR1UzR1Zmk5aE93dm15Zm0zcWVYd0o3bER0dUFhLTNYdVpsbw?oc=5"
+          },
+          {
+            "label": "India Today：We beat GTA 6: OpenClaw launches version 2.0, calls it biggest update ",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3F1Zzk4YVlJZDdaNlpYeW90U2d1dzNmQTRZUG56VnZiZEViemtucVVWbXBPN3BLeU1zVHpReWd4YWhoYWJ0WWg1QWs4V2d1NFRKT1ByZVBrdjBOd1hMTW8zR0FyR0RQd01qbjRUbjdqeXVTb0VWNzdHWDF5NHdkekxTbTFneklhc21QSDktT1NUN1BUNFIxMXlTT3FXdmpUUEtVODBFcWNMN2hzWktXVTdpWHBrME85MXZyRzJ5ZXE2cFJwYTZsMTFXTVdKOTBvMGJnR2dIVzNMMUtERGU1Z05ZcDbSAeQBQVVfeXFMTUtxdWc5OGFZSWQ3WjZaWHlvdFNndXczZkE0WVBuelZ2YmRFYnprbnFVVm1wTzdwS3lNc1R6UXlneGFoaGFidFloNUFrOFdndTRUSk9QcmVQa3YwTndYTE1vM0dBckdEUHdNam40VG43anl1U29FVjc3R1gxeTR3ZHpMU20xZ3pJYXNtUEg5LU9TVDdQVDRSMTF5U09xV3ZqVFBLVTgwRXFjTDdoc1pLV1U3aVhwazBPOTF2ckcyeWVxNnBScGE2bDExV01XSjkwbzBiZ0dnSFczTDFLRERlNWdOWXA2?oc=5"
+          }
+        ],
+        "source": "finance.biggo.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiRDdqanlKclEwLXdQQURwWDVEdlI0ZFpOejlOQlAzTlowNFF5WmhTbXBUc05UOGZFZkNvRmtZT3dYZk9UVDJvWjJHaGw3Ukh5WHEyNnVNOTFxVkhYR19oRHBfcUpWN1dua3RmTk9WYXhLZmJtZmc?oc=5"
+      },
       {
         "slug": "open-source-20260830-auto-1-2856c4",
         "title": "Why Nvidia May Spe",
