@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260901-auto-1-da3bfe",
+        "title": "The Faceless War:",
+        "category": "AI新闻",
+        "date": "2026-09-01",
+        "summary": "The Faceless War: How Artificial Intelligence Rewr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The Faceless War: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The Faceless War: How Artificial Intelligence Rewr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The Faceless War: How Artificial Intelligence Rewr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Small Wars Journal：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5"
+          },
+          {
+            "label": "PhocusWire：AI isn’t just for research anymore: What European travelers are actual",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFpXbUczTlFtM3F1eFZxSGR1TkNPejhDVzNjWkFXVnJBbHV2TlRTdXJRTVlaUXdZcjYtZWR4SGRJQ0ZYSkVRYVdTSDBRUFdMd0lEMjh4dzRzZWpyNGUxcHZmcVRBUGI3Y1ZqazBma19jOERmakFHTlN2MGdtcE1yNURUSmdFd1g0OFNOQmlBNnA4dFR6U1lnOTgxbw?oc=5"
+          },
+          {
+            "label": "KED Global：Rebellions, Nvidia discuss tie-up, testing S.Korea’s sovereign AI ambi",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaHpVdmU4Q3IxYVZuRHJoSUUyaEVIM1ZtX3ZzWGFzSExfTnY2WVFZN25yVnUwMm1odE1pMU5raXE3eWNiTzV5c29pcFB3aVpic2RBTGhDQ0lDdV9xU3VjSzF5UEFrS3drMXBPdlVyeVFETEZlNjB6WC1SaG1KNWc?oc=5"
+          }
+        ],
+        "source": "Small Wars Journal",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260901-auto-2-73d79e",
+        "title": "AI isn’t just for",
+        "category": "AI新闻",
+        "date": "2026-09-01",
+        "summary": "AI isn’t just for research anymore: What European",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI isn’t just for 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI isn’t just for research anymore: What European",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI isn’t just for research anymore: What European",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PhocusWire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFpXbUczTlFtM3F1eFZxSGR1TkNPejhDVzNjWkFXVnJBbHV2TlRTdXJRTVlaUXdZcjYtZWR4SGRJQ0ZYSkVRYVdTSDBRUFdMd0lEMjh4dzRzZWpyNGUxcHZmcVRBUGI3Y1ZqazBma19jOERmakFHTlN2MGdtcE1yNURUSmdFd1g0OFNOQmlBNnA4dFR6U1lnOTgxbw?oc=5"
+          },
+          {
+            "label": "Small Wars Journal：The Faceless War: How Artificial Intelligence Rewrote the Map of Power",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FOXZPa3A0ZV95bG9XUUhLTkRrSVJSREViNGcwUWpWUGdGTHJkZkJwUlA2aUZ0TWZxX0d0U2pPVFlzWkdZMDFjVDd5TkNnUkFfUUVGLTBHd3V2UU9YUEZUdFlJNzBFMnBIaGJoMXMtd3l0cWRxT2U4SGpRZw?oc=5"
+          },
+          {
+            "label": "KED Global：Rebellions, Nvidia discuss tie-up, testing S.Korea’s sovereign AI ambi",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BaHpVdmU4Q3IxYVZuRHJoSUUyaEVIM1ZtX3ZzWGFzSExfTnY2WVFZN25yVnUwMm1odE1pMU5raXE3eWNiTzV5c29pcFB3aVpic2RBTGhDQ0lDdV9xU3VjSzF5UEFrS3drMXBPdlVyeVFETEZlNjB6WC1SaG1KNWc?oc=5"
+          }
+        ],
+        "source": "PhocusWire",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOFpXbUczTlFtM3F1eFZxSGR1TkNPejhDVzNjWkFXVnJBbHV2TlRTdXJRTVlaUXdZcjYtZWR4SGRJQ0ZYSkVRYVdTSDBRUFdMd0lEMjh4dzRzZWpyNGUxcHZmcVRBUGI3Y1ZqazBma19jOERmakFHTlN2MGdtcE1yNURUSmdFd1g0OFNOQmlBNnA4dFR6U1lnOTgxbw?oc=5"
+      },
+      {
         "slug": "ai-news-20260831-auto-1-6304a0",
         "title": "门头沟AI大赛落幕，为“一人创业”铺",
         "category": "AI新闻",
@@ -17683,6 +17799,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260901-auto-1-3936f0",
+        "title": "AI 读过一切，却没经历过任何事：R",
+        "category": "AI使用教程",
+        "date": "2026-09-01",
+        "summary": "AI 读过一切，却没经历过任何事：Ropedia 发布 HOMIE Gen2，给具身智能补「经验」这",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI 读过一切，却没经历过任何事：R 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI 读过一切，却没经历过任何事：Ropedia 发布 HOMIE Gen2，给具身智能补「经验」这",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI 读过一切，却没经历过任何事：Ropedia 发布 HOMIE Gen2，给具身智能补「经验」这",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkJjXzRFUS1DRHFyNVE5akQ3cGFRbUdvWFY2a1h2UmZIV1N2UWh4ZDktd2VYYmEzUTNTTE8xbTNpM2ZKN0M5ZXM3bTBBVGxsdEFjaENORTduREx5M0s0c2xjOXFRMDBuXzBfMkJUUk1hLVZqdVlUS01kVGRoN2tyU1JTM3V4QjJy?oc=5"
+          },
+          {
+            "label": "HackerNoon：Agent CX Is the Missing Layer in AI Search - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWGJObTZNVTYyRHZIaDBSV0xYYWNhTHFraTQtN3R4LVhmUjJ3SmFMY0dRalhHMUZPTndyUDNQY2EtazFyMTBkaW9fT0pfWW5iSWpCYUJxLW1HbFVqT1lLOTRraWNfWUV6NmVDR0tSY3dpM00?oc=5"
+          },
+          {
+            "label": "Sohu：调查|有人造梦、有人入戏、有人寻宠，那些悄然兴起的新职业 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVFneGtFNkZZUHdpQnotZjliSVV6OFVMZWxseFNLeEVYMGptSFR6SUZ2enl3SjlBMExzNUZ5Wi12OFY3c1hLM3dlZERUaEQydDQwUnpDb084b0dsMnIyU1BWdi12YUkzR3dOeVlncWRHdkU2VllkNWI0cWdxcTBoUDh2dk9ROXg4?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkJjXzRFUS1DRHFyNVE5akQ3cGFRbUdvWFY2a1h2UmZIV1N2UWh4ZDktd2VYYmEzUTNTTE8xbTNpM2ZKN0M5ZXM3bTBBVGxsdEFjaENORTduREx5M0s0c2xjOXFRMDBuXzBfMkJUUk1hLVZqdVlUS01kVGRoN2tyU1JTM3V4QjJy?oc=5"
+      },
+      {
         "slug": "ai-guide-20260831-auto-1-3992a9",
         "title": "AI短剧需要门槛吗？丨对话《非妖哉》",
         "category": "AI使用教程",
@@ -25947,6 +26121,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260901-auto-1-e764ad",
+        "title": "Vice President Lau",
+        "category": "开源项目",
+        "date": "2026-09-01",
+        "summary": "Vice President Launches Gnani Artha Sovereign AI S",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Vice President Lau 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Vice President Launches Gnani Artha Sovereign AI S",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Vice President Launches Gnani Artha Sovereign AI S",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GK Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEQwUVNZOXRaMkUxcHdxMW9DTnJlbi0xaFFQa2VQNUV5bVVxdW5pVktaUTliVHpuWXF4cFBxMV9uZmpHalliZEc0MnN4cGN5N1JoWHNLSE1LNDEtNHNGcE9HR2ZLM0kwYV9POVBoaE44eHd6WWJLUXN1UDdvY1N5Tk5oZFo?oc=5"
+          },
+          {
+            "label": "21财经：英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVkwdDhGQktNMHVld3ZYWGtWRzdHaGRPbGxRZWJkWFdhNVI1cXdhMElYTEQ2N0lPTlpXdmp6UXhwUGs2NDZZdnluRFl1RFhBa1FCWDl5aVVkYUFNY29hLVlSZ1N0OVB6cGUzTUI0aXc4bXZOZHY0cFZHT1NxVF9FQTdyT24yUmp0ajlWdw?oc=5"
+          },
+          {
+            "label": "Newswire.com：Waken AI - ClineFlow Makes AI Context Portable Across Chats, Agents, a",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVZ0XzV0eVVxT0EwT01VbVE0OVA0a0FoT0tobU1CMnZXc3libEttcUplNXpwTmFuWWRwQmpQZTBpR2U4MDdBUFFGVDBveUYyTk02TU1rV05iby1XbHJtaWZsMDRuRmdyX3FQU2M3UFlmTEdDSmxFOWdKM1NhajdlT3hCQTFhZ09QblFvbkFQMWZESEczSzBudlFrODM2TEhEUkZtNFB3bw?oc=5"
+          }
+        ],
+        "source": "GK Today",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEQwUVNZOXRaMkUxcHdxMW9DTnJlbi0xaFFQa2VQNUV5bVVxdW5pVktaUTliVHpuWXF4cFBxMV9uZmpHalliZEc0MnN4cGN5N1JoWHNLSE1LNDEtNHNGcE9HR2ZLM0kwYV9POVBoaE44eHd6WWJLUXN1UDdvY1N5Tk5oZFo?oc=5"
+      },
+      {
+        "slug": "open-source-20260901-auto-2-85547f",
+        "title": "英伟达拟129亿美元买下“AI界Gi",
+        "category": "开源项目",
+        "date": "2026-09-01",
+        "summary": "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达拟129亿美元买下“AI界Gi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达拟129亿美元买下“AI界GitHub”，小鹏机器人掀起资本竞赛 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVkwdDhGQktNMHVld3ZYWGtWRzdHaGRPbGxRZWJkWFdhNVI1cXdhMElYTEQ2N0lPTlpXdmp6UXhwUGs2NDZZdnluRFl1RFhBa1FCWDl5aVVkYUFNY29hLVlSZ1N0OVB6cGUzTUI0aXc4bXZOZHY0cFZHT1NxVF9FQTdyT24yUmp0ajlWdw?oc=5"
+          },
+          {
+            "label": "GK Today：Vice President Launches Gnani Artha Sovereign AI Stack - GK Today",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEQwUVNZOXRaMkUxcHdxMW9DTnJlbi0xaFFQa2VQNUV5bVVxdW5pVktaUTliVHpuWXF4cFBxMV9uZmpHalliZEc0MnN4cGN5N1JoWHNLSE1LNDEtNHNGcE9HR2ZLM0kwYV9POVBoaE44eHd6WWJLUXN1UDdvY1N5Tk5oZFo?oc=5"
+          },
+          {
+            "label": "Newswire.com：Waken AI - ClineFlow Makes AI Context Portable Across Chats, Agents, a",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVZ0XzV0eVVxT0EwT01VbVE0OVA0a0FoT0tobU1CMnZXc3libEttcUplNXpwTmFuWWRwQmpQZTBpR2U4MDdBUFFGVDBveUYyTk02TU1rV05iby1XbHJtaWZsMDRuRmdyX3FQU2M3UFlmTEdDSmxFOWdKM1NhajdlT3hCQTFhZ09QblFvbkFQMWZESEczSzBudlFrODM2TEhEUkZtNFB3bw?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMVkwdDhGQktNMHVld3ZYWGtWRzdHaGRPbGxRZWJkWFdhNVI1cXdhMElYTEQ2N0lPTlpXdmp6UXhwUGs2NDZZdnluRFl1RFhBa1FCWDl5aVVkYUFNY29hLVlSZ1N0OVB6cGUzTUI0aXc4bXZOZHY0cFZHT1NxVF9FQTdyT24yUmp0ajlWdw?oc=5"
+      },
       {
         "slug": "open-source-20260831-auto-1-a9d723",
         "title": "抢占AI时代战略制高点开源平台成为资",
