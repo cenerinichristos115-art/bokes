@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260902-auto-1-e4f081",
+        "title": "国家AI基金入局可灵AI，快手子公司",
+        "category": "AI新闻",
+        "date": "2026-09-02",
+        "summary": "国家AI基金入局可灵AI，快手子公司完成增资，一级市场估值直逼母公司 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "国家AI基金入局可灵AI，快手子公司 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "国家AI基金入局可灵AI，快手子公司完成增资，一级市场估值直逼母公司 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "国家AI基金入局可灵AI，快手子公司完成增资，一级市场估值直逼母公司 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEEyR2hNWWZQN19zcU5JaHc4c0NLbDBqbUx6YTZwSDlZVi1FazVBTDNCajRDbzc3NnlfZ3U3OWtZeURtZE9pVlJSU09UOHRqakhrdE5qM1NRVjR1TDFBdFdGRXkwaER2d0phYlZKVF9fbURQYlJ3ZWVMNGp4Mm9acGFSTQ?oc=5"
+          },
+          {
+            "label": "共同网：日本与奥地利外长会谈 确认深化供应链与AI合作 - 共同网",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DUUtsUkMybGp0UkpIbGw3VExnRl91YVBrZlZpNGh1aFhIMmtqSFpmN3pnRklHS1YwQjlRcW9fZXF4VTFGdm04SzhUSnNRRXpVZWdBY2NEWQ?oc=5"
+          },
+          {
+            "label": "NOLA.com：Letters: With AI, how much more intrusion are we supposed to tolerate?",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk0ydEtRS2V6V0x0V0NTYWF0UXUybTRSXzBURnRmSjhBVzBNR2tmejZETEM2ME5UV19CajlLdl9tRFd0LWVJVGRFRUt0TTJkeGR3eml3emJ4Vm9DMnV4d3Jvd3hGYXhra2FCdXg4eEFwdk9rSTEyT2Q4SU80TVpqS3Z6YWoyaVdmeDJFSV9HLUFiSHF6Q3NRSGs0NFJWTzgtMDVoQTFDdFR0Z2Z2VkHSAbMBQVVfeXFMT2RJOEpGZk9XNVhfQmZZemJCSGpVWDEzM3E4ZDhiQ1dmRnYtdm8xbUhXSkx2UjJMQk5fbHRIdkJWYVU5U0R2b2dDLXlKbzdia3NDbTB4RzVFZmg4WllfQmE4TmpxbkJKSzNHNTdIak9fZzRXYzlwdXdMTVhZRXZnd1BMMmdhNVc5MGNEaVhKdld2MFhHYlB5bDNkYndYQ1hNVnlUaTJrVGdBRzhZV0JJY3RDeGc?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEEyR2hNWWZQN19zcU5JaHc4c0NLbDBqbUx6YTZwSDlZVi1FazVBTDNCajRDbzc3NnlfZ3U3OWtZeURtZE9pVlJSU09UOHRqakhrdE5qM1NRVjR1TDFBdFdGRXkwaER2d0phYlZKVF9fbURQYlJ3ZWVMNGp4Mm9acGFSTQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260902-auto-2-0bb3e4",
+        "title": "日本与奥地利外长会谈 确认深化供应链",
+        "category": "AI新闻",
+        "date": "2026-09-02",
+        "summary": "日本与奥地利外长会谈 确认深化供应链与AI合作 共同网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "日本与奥地利外长会谈 确认深化供应链 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "日本与奥地利外长会谈 确认深化供应链与AI合作 共同网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "日本与奥地利外长会谈 确认深化供应链与AI合作 共同网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "共同网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DUUtsUkMybGp0UkpIbGw3VExnRl91YVBrZlZpNGh1aFhIMmtqSFpmN3pnRklHS1YwQjlRcW9fZXF4VTFGdm04SzhUSnNRRXpVZWdBY2NEWQ?oc=5"
+          },
+          {
+            "label": "新浪网：国家AI基金入局可灵AI，快手子公司完成增资，一级市场估值直逼母公司 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEEyR2hNWWZQN19zcU5JaHc4c0NLbDBqbUx6YTZwSDlZVi1FazVBTDNCajRDbzc3NnlfZ3U3OWtZeURtZE9pVlJSU09UOHRqakhrdE5qM1NRVjR1TDFBdFdGRXkwaER2d0phYlZKVF9fbURQYlJ3ZWVMNGp4Mm9acGFSTQ?oc=5"
+          },
+          {
+            "label": "NOLA.com：Letters: With AI, how much more intrusion are we supposed to tolerate?",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVk0ydEtRS2V6V0x0V0NTYWF0UXUybTRSXzBURnRmSjhBVzBNR2tmejZETEM2ME5UV19CajlLdl9tRFd0LWVJVGRFRUt0TTJkeGR3eml3emJ4Vm9DMnV4d3Jvd3hGYXhra2FCdXg4eEFwdk9rSTEyT2Q4SU80TVpqS3Z6YWoyaVdmeDJFSV9HLUFiSHF6Q3NRSGs0NFJWTzgtMDVoQTFDdFR0Z2Z2VkHSAbMBQVVfeXFMT2RJOEpGZk9XNVhfQmZZemJCSGpVWDEzM3E4ZDhiQ1dmRnYtdm8xbUhXSkx2UjJMQk5fbHRIdkJWYVU5U0R2b2dDLXlKbzdia3NDbTB4RzVFZmg4WllfQmE4TmpxbkJKSzNHNTdIak9fZzRXYzlwdXdMTVhZRXZnd1BMMmdhNVc5MGNEaVhKdld2MFhHYlB5bDNkYndYQ1hNVnlUaTJrVGdBRzhZV0JJY3RDeGc?oc=5"
+          }
+        ],
+        "source": "共同网",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DUUtsUkMybGp0UkpIbGw3VExnRl91YVBrZlZpNGh1aFhIMmtqSFpmN3pnRklHS1YwQjlRcW9fZXF4VTFGdm04SzhUSnNRRXpVZWdBY2NEWQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260901-auto-1-da3bfe",
         "title": "The Faceless War:",
         "category": "AI新闻",
@@ -17799,6 +17915,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260902-auto-1-8e3f8c",
+        "title": "不用设计直接“一句成图”！谷歌推出最",
+        "category": "AI使用教程",
+        "date": "2026-09-02",
+        "summary": "不用设计直接“一句成图”！谷歌推出最强Canva杀手Google Pics AIBase",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "不用设计直接“一句成图”！谷歌推出最 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "不用设计直接“一句成图”！谷歌推出最强Canva杀手Google Pics AIBase",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "不用设计直接“一句成图”！谷歌推出最强Canva杀手Google Pics AIBase",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AIBase：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUHlQeXNrZjNZbHZoRlkxazlWMG92YXdiSEh3YzBEYWQ4Uy0xZm5NRHY0R0NZcEcxOUVta0xtQjc2TDh0dDYyNHpLaFdYZw?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：如何让数据库更容易暴露 Bug？ - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNkcwWHZlOXhLeVhJM0NMOGtWS3N6TUh1M1JaRTNLNER4VWZCMHVEaE9oejFWdVlRcGx2aTU2Ymt2S2xzaVkzMGw5b0ZnZUY0UVRNcV84aUdHOXM?oc=5"
+          },
+          {
+            "label": "HackerNoon：Why I Turned 25 Pipeline Runbooks Into a Queryable Knowledge Base - Ha",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc004TllkdkRxN1N4T0hzUlNpb09sRzFIY2NZZUVUR1oyRUxrVWpjQmxkNWNabXpqZ0MyMngydnppUlNCYU0zY0R0SmJ5c3A0RGNiMktHNzB3RUJoUHJ0TzB6WF9aejUwRVhKTTFJdVhXUnJOalFVZjRRWU9WaGNmUXBsTHUzZERCcm5zWGhxbW9pZw?oc=5"
+          }
+        ],
+        "source": "AIBase",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUHlQeXNrZjNZbHZoRlkxazlWMG92YXdiSEh3YzBEYWQ4Uy0xZm5NRHY0R0NZcEcxOUVta0xtQjc2TDh0dDYyNHpLaFdYZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260901-auto-1-3936f0",
         "title": "AI 读过一切，却没经历过任何事：R",
         "category": "AI使用教程",
@@ -26121,6 +26295,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260902-auto-1-4b0404",
+        "title": "Z.ai开源GLM-5.3权重，新授",
+        "category": "开源项目",
+        "date": "2026-09-02",
+        "summary": "Z.ai开源GLM-5.3权重，新授权条款剑指云计算巨头-模型 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Z.ai开源GLM-5.3权重，新授 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Z.ai开源GLM-5.3权重，新授权条款剑指云计算巨头-模型 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Z.ai开源GLM-5.3权重，新授权条款剑指云计算巨头-模型 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tU1lEOXpXZGQzc3B4c09YV3J3QjZtMTI3SFc0bnk0MlpTNWNua0JOZmhKUW9YN0FJQUF0REdHNk8yZ1ZUVkc4TWJpSFVKVFVzbGFRdF9rQXJOYWtUQzZaWFdWcw?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：如何让数据库更容易暴露 Bug？ - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNkcwWHZlOXhLeVhJM0NMOGtWS3N6TUh1M1JaRTNLNER4VWZCMHVEaE9oejFWdVlRcGx2aTU2Ymt2S2xzaVkzMGw5b0ZnZUY0UVRNcV84aUdHOXM?oc=5"
+          },
+          {
+            "label": "WKZO：US urges hands-off approach to AI regulation at G20 tech meeting - WKZ",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpYRmRRV2xZYm5MbHdjWUNCbGwwaEVvXzdFalBRLXpUeFZwdDVTMnFmQ0FXZTEwQWI0Y0gwdS1kaWVQM2IwYjlkRGtRY0YyTGhndDAtRzBWNFBta0ZpRFBVWC1LdmMtenF0MEVLMXlVVHJkXy00aVIyNG9DS3d5c0lNZndXLWFfMm4yQThmTTFNVmZnSVpmLQ?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tU1lEOXpXZGQzc3B4c09YV3J3QjZtMTI3SFc0bnk0MlpTNWNua0JOZmhKUW9YN0FJQUF0REdHNk8yZ1ZUVkc4TWJpSFVKVFVzbGFRdF9rQXJOYWtUQzZaWFdWcw?oc=5"
+      },
+      {
+        "slug": "open-source-20260902-auto-2-cb069f",
+        "title": "如何让数据库更容易暴露 Bug？ -",
+        "category": "开源项目",
+        "date": "2026-09-02",
+        "summary": "如何让数据库更容易暴露 Bug？ InfoQ-CN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "如何让数据库更容易暴露 Bug？ - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "如何让数据库更容易暴露 Bug？ InfoQ-CN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "如何让数据库更容易暴露 Bug？ InfoQ-CN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ-CN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNkcwWHZlOXhLeVhJM0NMOGtWS3N6TUh1M1JaRTNLNER4VWZCMHVEaE9oejFWdVlRcGx2aTU2Ymt2S2xzaVkzMGw5b0ZnZUY0UVRNcV84aUdHOXM?oc=5"
+          },
+          {
+            "label": "至顶网：Z.ai开源GLM-5.3权重，新授权条款剑指云计算巨头-模型 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tU1lEOXpXZGQzc3B4c09YV3J3QjZtMTI3SFc0bnk0MlpTNWNua0JOZmhKUW9YN0FJQUF0REdHNk8yZ1ZUVkc4TWJpSFVKVFVzbGFRdF9rQXJOYWtUQzZaWFdWcw?oc=5"
+          },
+          {
+            "label": "WKZO：US urges hands-off approach to AI regulation at G20 tech meeting - WKZ",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVpYRmRRV2xZYm5MbHdjWUNCbGwwaEVvXzdFalBRLXpUeFZwdDVTMnFmQ0FXZTEwQWI0Y0gwdS1kaWVQM2IwYjlkRGtRY0YyTGhndDAtRzBWNFBta0ZpRFBVWC1LdmMtenF0MEVLMXlVVHJkXy00aVIyNG9DS3d5c0lNZndXLWFfMm4yQThmTTFNVmZnSVpmLQ?oc=5"
+          }
+        ],
+        "source": "InfoQ-CN",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNkcwWHZlOXhLeVhJM0NMOGtWS3N6TUh1M1JaRTNLNER4VWZCMHVEaE9oejFWdVlRcGx2aTU2Ymt2S2xzaVkzMGw5b0ZnZUY0UVRNcV84aUdHOXM?oc=5"
+      },
       {
         "slug": "open-source-20260901-auto-1-e764ad",
         "title": "Vice President Lau",
