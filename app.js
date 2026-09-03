@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260903-auto-1-4dc256",
+        "title": "英伟达真正的变化并不在于它卖出了更多",
+        "category": "AI新闻",
+        "date": "2026-09-03",
+        "summary": "英伟达真正的变化并不在于它卖出了更多GPU：英伟达正开始为整个AI资本开支周期提供资金支持 Moom",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达真正的变化并不在于它卖出了更多 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "英伟达真正的变化并不在于它卖出了更多GPU：英伟达正开始为整个AI资本开支周期提供资金支持 Moom",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达真正的变化并不在于它卖出了更多GPU：英伟达正开始为整个AI资本开支周期提供资金支持 Moom",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Moomoo：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYk5ESE1YTzVILVkwb0l1R3BGd285RkdveDc5NDhkLURISEM4NmI5dmdmN25xMWIxM3ctSExscm9FNmtMLUdMLTlvSDJxRlJ0QWQ0eVI1WVNnMDJYQzJYUVduYTZ1WkMzQ0VucFN4SmdrY2RSVms5eE9EYXVTY3dhWXg1eElVUkZVZjNqbEdWbXhhXzh3VVFybkVnbEU5QXdGcUE?oc=5"
+          },
+          {
+            "label": "chinese.joins.com：NAVER云获选韩政府\"安全专用AI模型\"开发商 - chinese.joins.com",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZ3dOcjNDalVGTm92blRfdFZveG5VdVhaRlIwR01hTVlPNUJBUzB4cVVEbGcxMGRhSk9GYk1XQ2NENkNDNERIV3F1WFgxREdZdy1KN0RnbW51ejRKSzBGVjNOaVdyak1rUlUybA?oc=5"
+          },
+          {
+            "label": "新浪网：第十五届中国知识产权年会将围绕人工智能与知识产权设置多个议题 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Wd3VWMm5YZjJ4S1c0by1tbDdXbGI2UERfbTFTSmFzRzFNeWZqUXNBeGFjOG45VkJwSzVUbGFzeV9SU2VvakxhanEtc2Z1MjVJWkEyUW9zRjRWajhRVmpKaml6S0FZM1NheE1UZkxxR1JGNTBfdDFPaEtVNndmQQ?oc=5"
+          }
+        ],
+        "source": "Moomoo",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYk5ESE1YTzVILVkwb0l1R3BGd285RkdveDc5NDhkLURISEM4NmI5dmdmN25xMWIxM3ctSExscm9FNmtMLUdMLTlvSDJxRlJ0QWQ0eVI1WVNnMDJYQzJYUVduYTZ1WkMzQ0VucFN4SmdrY2RSVms5eE9EYXVTY3dhWXg1eElVUkZVZjNqbEdWbXhhXzh3VVFybkVnbEU5QXdGcUE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260903-auto-2-c1f1b5",
+        "title": "NAVER云获选韩政府\"安全专用AI",
+        "category": "AI新闻",
+        "date": "2026-09-03",
+        "summary": "NAVER云获选韩政府\"安全专用AI模型\"开发商 chinese.joins.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NAVER云获选韩政府\"安全专用AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "NAVER云获选韩政府\"安全专用AI模型\"开发商 chinese.joins.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NAVER云获选韩政府\"安全专用AI模型\"开发商 chinese.joins.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "chinese.joins.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZ3dOcjNDalVGTm92blRfdFZveG5VdVhaRlIwR01hTVlPNUJBUzB4cVVEbGcxMGRhSk9GYk1XQ2NENkNDNERIV3F1WFgxREdZdy1KN0RnbW51ejRKSzBGVjNOaVdyak1rUlUybA?oc=5"
+          },
+          {
+            "label": "Moomoo：英伟达真正的变化并不在于它卖出了更多GPU：英伟达正开始为整个AI资本开支周期提供资金支持 - Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYk5ESE1YTzVILVkwb0l1R3BGd285RkdveDc5NDhkLURISEM4NmI5dmdmN25xMWIxM3ctSExscm9FNmtMLUdMLTlvSDJxRlJ0QWQ0eVI1WVNnMDJYQzJYUVduYTZ1WkMzQ0VucFN4SmdrY2RSVms5eE9EYXVTY3dhWXg1eElVUkZVZjNqbEdWbXhhXzh3VVFybkVnbEU5QXdGcUE?oc=5"
+          },
+          {
+            "label": "新浪网：第十五届中国知识产权年会将围绕人工智能与知识产权设置多个议题 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Wd3VWMm5YZjJ4S1c0by1tbDdXbGI2UERfbTFTSmFzRzFNeWZqUXNBeGFjOG45VkJwSzVUbGFzeV9SU2VvakxhanEtc2Z1MjVJWkEyUW9zRjRWajhRVmpKaml6S0FZM1NheE1UZkxxR1JGNTBfdDFPaEtVNndmQQ?oc=5"
+          }
+        ],
+        "source": "chinese.joins.com",
+        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZ3dOcjNDalVGTm92blRfdFZveG5VdVhaRlIwR01hTVlPNUJBUzB4cVVEbGcxMGRhSk9GYk1XQ2NENkNDNERIV3F1WFgxREdZdy1KN0RnbW51ejRKSzBGVjNOaVdyak1rUlUybA?oc=5"
+      },
+      {
         "slug": "ai-news-20260902-auto-1-e4f081",
         "title": "国家AI基金入局可灵AI，快手子公司",
         "category": "AI新闻",
@@ -17915,6 +18031,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260903-auto-1-cb957d",
+        "title": "Meta调整员工考核：不再看AI工具",
+        "category": "AI使用教程",
+        "date": "2026-09-03",
+        "summary": "Meta调整员工考核：不再看AI工具用量 网易新闻客户端",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta调整员工考核：不再看AI工具 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta调整员工考核：不再看AI工具用量 网易新闻客户端",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta调整员工考核：不再看AI工具用量 网易新闻客户端",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "网易新闻客户端：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSU83NUg4NmdabkgxZjJsQW5vX1JBTHpJdlVnZzdEUTN2cEk2Mk8zNzcwMHhxVEVnRWFLWkxNWmF3aGlOLWl2THVVZDhsdEVtWWJFSkFqUHV0d3NKUUJUM0xfN1BGRk9pWUFCV2o3Nkl4UFpEX3hVU3FMUW1oOUF5Umtn?oc=5"
+          },
+          {
+            "label": "至顶网：Adobe收购印度市场智能初创公司Rilo-AI应用 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Lcmt0eFBHNmR0ZFhIYVV0Znc4d3k2TWYxNGxPNnVWOV9hSTRadkIwQWJramh0WXN3WWZZZk11ZUZSd3hSc0kxbHVib2g3NzUyckZQSTMtOFNLZU9qNnRQQzkwVHphMlVwNl9Ec0Fxdw?oc=5"
+          },
+          {
+            "label": "潮起网：AI的两个世界：高门槛的产业，低门槛的致富故事 - 潮起网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FS2FTR3JIamktQWkzb1JSVFFIcGVEMzRHQUZNZDhHYTFtU1AzdWZrYUtjMEtOSksyd3BjeDN5TWFMcjFYRTB4dHZMbXlpTVBpSXl2ME1FeDQ0R1FsSHhwVmdxNA?oc=5"
+          }
+        ],
+        "source": "网易新闻客户端",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSU83NUg4NmdabkgxZjJsQW5vX1JBTHpJdlVnZzdEUTN2cEk2Mk8zNzcwMHhxVEVnRWFLWkxNWmF3aGlOLWl2THVVZDhsdEVtWWJFSkFqUHV0d3NKUUJUM0xfN1BGRk9pWUFCV2o3Nkl4UFpEX3hVU3FMUW1oOUF5Umtn?oc=5"
+      },
+      {
         "slug": "ai-guide-20260902-auto-1-8e3f8c",
         "title": "不用设计直接“一句成图”！谷歌推出最",
         "category": "AI使用教程",
@@ -26295,6 +26469,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260903-auto-1-64b06d",
+        "title": "Naver Cloud to dev",
+        "category": "开源项目",
+        "date": "2026-09-03",
+        "summary": "Naver Cloud to develop 700B cybersecurity AI model",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Naver Cloud to dev 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Naver Cloud to develop 700B cybersecurity AI model",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Naver Cloud to develop 700B cybersecurity AI model",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkxhZUpJaExVa1Y0UHlPR0Izek5YUjkwMml1b2xRd1k3SWlDOW04MThvcFQwTmlwXzcySWZtZ2FybWFoMlFKNG1VTm1IV3EyMV9hczVCR29wZ2VxVmtSSWJHTUU1aGRDcTNHa2o3Mm1Idi15OGxfaDUyT1dXOG1nRVV0NUhOSG1XVEFWaHhQRWtjdUZUaE1jd1pGWmtpUlExUDRSYVd2THhmNGN6eXhybl85U1o?oc=5"
+          },
+          {
+            "label": "华尔街见闻：英伟达补齐推理侧闭环：联手Equinix与Together AI，向企业开放模型推理 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWlljVUV6bkJsWjRmcndCODFZdVVEOVNNZXoyVV8wNkJpTG9waVV6SjJkTG9RNVdtRUN2S2dCd1EtczNlQWZFcml2TW90RGJXZEN3?oc=5"
+          },
+          {
+            "label": "新华报业网：嘉立创IPO：半年报净利增超七成，黑客松里的AI创意正加速变成实物 - 新华报业网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hN2tmQmV5bGs3RlhzeTNNUnF3NGd6NkdubmwzaWlMTC1Da3Y2M1VNTHcxN0R4OUNpWkZENHdsQThoSkVFR2RzVmdSZ2wwWl9OazNkS0RNSHlDNGVjNnlzcHJQb2Q1cGJSNjFZ?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkxhZUpJaExVa1Y0UHlPR0Izek5YUjkwMml1b2xRd1k3SWlDOW04MThvcFQwTmlwXzcySWZtZ2FybWFoMlFKNG1VTm1IV3EyMV9hczVCR29wZ2VxVmtSSWJHTUU1aGRDcTNHa2o3Mm1Idi15OGxfaDUyT1dXOG1nRVV0NUhOSG1XVEFWaHhQRWtjdUZUaE1jd1pGWmtpUlExUDRSYVd2THhmNGN6eXhybl85U1o?oc=5"
+      },
+      {
+        "slug": "open-source-20260903-auto-2-1e5140",
+        "title": "英伟达补齐推理侧闭环：联手Equin",
+        "category": "开源项目",
+        "date": "2026-09-03",
+        "summary": "英伟达补齐推理侧闭环：联手Equinix与Together AI，向企业开放模型推理 华尔街见闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达补齐推理侧闭环：联手Equin 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "英伟达补齐推理侧闭环：联手Equinix与Together AI，向企业开放模型推理 华尔街见闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达补齐推理侧闭环：联手Equinix与Together AI，向企业开放模型推理 华尔街见闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华尔街见闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWlljVUV6bkJsWjRmcndCODFZdVVEOVNNZXoyVV8wNkJpTG9waVV6SjJkTG9RNVdtRUN2S2dCd1EtczNlQWZFcml2TW90RGJXZEN3?oc=5"
+          },
+          {
+            "label": "디지털투데이：Naver Cloud to develop 700B cybersecurity AI model, preloads 4,000 GPU",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkxhZUpJaExVa1Y0UHlPR0Izek5YUjkwMml1b2xRd1k3SWlDOW04MThvcFQwTmlwXzcySWZtZ2FybWFoMlFKNG1VTm1IV3EyMV9hczVCR29wZ2VxVmtSSWJHTUU1aGRDcTNHa2o3Mm1Idi15OGxfaDUyT1dXOG1nRVV0NUhOSG1XVEFWaHhQRWtjdUZUaE1jd1pGWmtpUlExUDRSYVd2THhmNGN6eXhybl85U1o?oc=5"
+          },
+          {
+            "label": "新华报业网：嘉立创IPO：半年报净利增超七成，黑客松里的AI创意正加速变成实物 - 新华报业网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hN2tmQmV5bGs3RlhzeTNNUnF3NGd6NkdubmwzaWlMTC1Da3Y2M1VNTHcxN0R4OUNpWkZENHdsQThoSkVFR2RzVmdSZ2wwWl9OazNkS0RNSHlDNGVjNnlzcHJQb2Q1cGJSNjFZ?oc=5"
+          }
+        ],
+        "source": "华尔街见闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWlljVUV6bkJsWjRmcndCODFZdVVEOVNNZXoyVV8wNkJpTG9waVV6SjJkTG9RNVdtRUN2S2dCd1EtczNlQWZFcml2TW90RGJXZEN3?oc=5"
+      },
       {
         "slug": "open-source-20260902-auto-1-4b0404",
         "title": "Z.ai开源GLM-5.3权重，新授",
