@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260904-auto-1-1c303b",
+        "title": "OpenAI发布GPT-6 Astr",
+        "category": "AI新闻",
+        "date": "2026-09-04",
+        "summary": "OpenAI发布GPT-6 Astra 次日A股AI应用板块多股涨停 观点网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI发布GPT-6 Astr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI发布GPT-6 Astra 次日A股AI应用板块多股涨停 观点网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI发布GPT-6 Astra 次日A股AI应用板块多股涨停 观点网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "观点网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUTJaVkNqTGV6U3JNN0F5LU1NT1U0Rk9xZjQwT09LZURXSmtHSFlaYVRFOC1TZjkwb1lwOTlJZEx2c0NFZjhjbTNnNHFKX21aTy1yUkIxUUNjQldQNks2YnNB?oc=5"
+          },
+          {
+            "label": "k.sina.com.cn：摩根士丹利：银行跻身亚洲人工智能受益行列 - k.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1QwbUN4S09MN0x5eGNMNDJrRm41QmVxaWVyV1A5UE5EandscURiNDBWS245ZzlWTThucXFmVTRVWGp6eW44bUVxTVhIX1MzLU9xWFQtRWxyanlXT1hxRWwweWlxcjJKZlh4MWF5a1A0QnBwTnE5bHpjeEd4aFFoc1J3?oc=5"
+          },
+          {
+            "label": "The Alpena News：Presque Isle CSAM case highlights increasing prevalence of AI pornogra",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnFhbFJBV0lRamlhTGMtOEY1WUdGVWxhNFY0cWFaa0FNUDhzZHZkNW5TejF0QW05QVpLMk9ZRTl4Sy1SQU0xR1pqcEhSWWNRemN0T0hoM0dDejM5VXlRekhybmEtSUV3ZFdpNmhDS0tnN0p4NWpsZ0RKSFRGM0VOWnp0SW5JYzNkTVdVSEZ3aWpyWU10bXlCdTdBSzlVbmtoeF80R3QxVklENGMzbW5RRWJGVFhlRjd0RldzUFREOWdSQk5taVM0?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUTJaVkNqTGV6U3JNN0F5LU1NT1U0Rk9xZjQwT09LZURXSmtHSFlaYVRFOC1TZjkwb1lwOTlJZEx2c0NFZjhjbTNnNHFKX21aTy1yUkIxUUNjQldQNks2YnNB?oc=5"
+      },
+      {
+        "slug": "ai-news-20260904-auto-2-dc2626",
+        "title": "摩根士丹利：银行跻身亚洲人工智能受益",
+        "category": "AI新闻",
+        "date": "2026-09-04",
+        "summary": "摩根士丹利：银行跻身亚洲人工智能受益行列 k.sina.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "摩根士丹利：银行跻身亚洲人工智能受益 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "摩根士丹利：银行跻身亚洲人工智能受益行列 k.sina.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "摩根士丹利：银行跻身亚洲人工智能受益行列 k.sina.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "k.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1QwbUN4S09MN0x5eGNMNDJrRm41QmVxaWVyV1A5UE5EandscURiNDBWS245ZzlWTThucXFmVTRVWGp6eW44bUVxTVhIX1MzLU9xWFQtRWxyanlXT1hxRWwweWlxcjJKZlh4MWF5a1A0QnBwTnE5bHpjeEd4aFFoc1J3?oc=5"
+          },
+          {
+            "label": "观点网：OpenAI发布GPT-6 Astra 次日A股AI应用板块多股涨停 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KUTJaVkNqTGV6U3JNN0F5LU1NT1U0Rk9xZjQwT09LZURXSmtHSFlaYVRFOC1TZjkwb1lwOTlJZEx2c0NFZjhjbTNnNHFKX21aTy1yUkIxUUNjQldQNks2YnNB?oc=5"
+          },
+          {
+            "label": "The Alpena News：Presque Isle CSAM case highlights increasing prevalence of AI pornogra",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnFhbFJBV0lRamlhTGMtOEY1WUdGVWxhNFY0cWFaa0FNUDhzZHZkNW5TejF0QW05QVpLMk9ZRTl4Sy1SQU0xR1pqcEhSWWNRemN0T0hoM0dDejM5VXlRekhybmEtSUV3ZFdpNmhDS0tnN0p4NWpsZ0RKSFRGM0VOWnp0SW5JYzNkTVdVSEZ3aWpyWU10bXlCdTdBSzlVbmtoeF80R3QxVklENGMzbW5RRWJGVFhlRjd0RldzUFREOWdSQk5taVM0?oc=5"
+          }
+        ],
+        "source": "k.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1QwbUN4S09MN0x5eGNMNDJrRm41QmVxaWVyV1A5UE5EandscURiNDBWS245ZzlWTThucXFmVTRVWGp6eW44bUVxTVhIX1MzLU9xWFQtRWxyanlXT1hxRWwweWlxcjJKZlh4MWF5a1A0QnBwTnE5bHpjeEd4aFFoc1J3?oc=5"
+      },
+      {
         "slug": "ai-news-20260903-auto-1-4dc256",
         "title": "英伟达真正的变化并不在于它卖出了更多",
         "category": "AI新闻",
@@ -18031,6 +18147,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260904-auto-1-4739e0",
+        "title": "“你用AI取代我？我就用AI取代你！",
+        "category": "AI使用教程",
+        "date": "2026-09-04",
+        "summary": "“你用AI取代我？我就用AI取代你！”被CEO用AI裁掉后，他们反手造了个“AI CEO”：已狂揽3",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“你用AI取代我？我就用AI取代你！ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“你用AI取代我？我就用AI取代你！”被CEO用AI裁掉后，他们反手造了个“AI CEO”：已狂揽3",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“你用AI取代我？我就用AI取代你！”被CEO用AI裁掉后，他们反手造了个“AI CEO”：已狂揽3",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "blog.csdn.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUTVlRE82Q2l3Vk1sQk1kVEVkN0pueVM3d0FSUnQtYWo4NW1PZTdIQ3VBVWIzdTNEY3p1a1lyak1ESHNaaGhIQWtxTUlCdGNaU3hjX0d0WG9pVGdLRFJPQ1dON2dhMVE?oc=5"
+          },
+          {
+            "label": "sina.cn：新浪网· - sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PM20tYkdEOExFVDZpMzJCNnBEM0JOUUVldldaTUp5QzlGampwVHZxZ1dDN29tay1tM21VdVotbDVpdFg2SjNjUG5vWWJLUjZqdWQ3MUE2Q0ZlLVBOYnFfU2dTbw?oc=5"
+          },
+          {
+            "label": "新浪财经：起底医美“爆改”背后骗局：“素人种草”贴全靠AI生成，第三方机构养号引流，线下医生“将错就错” - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WVNsVnFxMkNNa181aTRHakc1ODhUR05aOHVVbGJDSVhDQzUwMGYyVFN0VHpfMVM0T3dBYTAzQTBFVXAzd3QwbktQY3RjS1pDdVg2R1ZUN0c0YXMxaElfMzNtMGhEMzRidkw5ak9IT3NZUGJnNDNPbg?oc=5"
+          }
+        ],
+        "source": "blog.csdn.net",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUTVlRE82Q2l3Vk1sQk1kVEVkN0pueVM3d0FSUnQtYWo4NW1PZTdIQ3VBVWIzdTNEY3p1a1lyak1ESHNaaGhIQWtxTUlCdGNaU3hjX0d0WG9pVGdLRFJPQ1dON2dhMVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260903-auto-1-cb957d",
         "title": "Meta调整员工考核：不再看AI工具",
         "category": "AI使用教程",
@@ -26469,6 +26643,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260904-auto-1-cb6d3f",
+        "title": "Google has release",
+        "category": "开源项目",
+        "date": "2026-09-04",
+        "summary": "Google has released details on 'Mantis,' an open-s",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google has release 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google has released details on 'Mantis,' an open-s",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google has released details on 'Mantis,' an open-s",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GIGAZINE：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NVkNBblMya0s0X0MxTzliNlpaNEJFSWNoTkp2MjA4NnY4MjBHYm5kV0tuUG00MmpRaXVzU0ZZVFVBWmJtMEdqelJHRXdCcG1kM0xsRWJVekNaUnZVZlUwY01kMmxmb2VEVFNMLVlORW9jS19mS1Iw?oc=5"
+          },
+          {
+            "label": "Open Source For You：“Agentic AI is shifting developers from being coders to problem solver",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXZDajJyZnBDa3BxQVRhb3VGMmdjZTBVOFR6VmZpWmdGaE11Q09LRExaZDR2bHhjenQtUzI4eGhJX2trNnZXT2RTazJLa2hxeFFkdDFkRC1IaVdCMVI2VHotNy1DdFVJQTFnM3FfTEF1QXI2X3NBcC16dU9pbm9NbVBzWkc5YVhkYTJ0M0VqaFZ6Tm5UbFd2OThGb1laVUJ6S3BtQmlUX2RrSnRyN1A4QWRxbVdwSmI2cVFYUkZZZThUM2hqeU1kM3pwdlRQNUVQTFBWV0hQYWlGeXpJUFR4eXpjUDc?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：英伟达推出开源个人AI路由器PAIR 让家中多台电脑协同运行本地AI - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mMk9IcUlfa2VWLUhtMXlqclI3b0M5eHRMZ3dCY2VFRkkyaEx0RldmT203dHVSbnZtSl8yekRCeEtIX2dhTVM3MEVCb1FoSU5EVlhlVXZ6TUFYWHB2MmtvcA?oc=5"
+          }
+        ],
+        "source": "GIGAZINE",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NVkNBblMya0s0X0MxTzliNlpaNEJFSWNoTkp2MjA4NnY4MjBHYm5kV0tuUG00MmpRaXVzU0ZZVFVBWmJtMEdqelJHRXdCcG1kM0xsRWJVekNaUnZVZlUwY01kMmxmb2VEVFNMLVlORW9jS19mS1Iw?oc=5"
+      },
+      {
+        "slug": "open-source-20260904-auto-2-463d4d",
+        "title": "“Agentic AI is shi",
+        "category": "开源项目",
+        "date": "2026-09-04",
+        "summary": "“Agentic AI is shifting developers from being code",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“Agentic AI is shi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“Agentic AI is shifting developers from being code",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“Agentic AI is shifting developers from being code",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Open Source For You：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXZDajJyZnBDa3BxQVRhb3VGMmdjZTBVOFR6VmZpWmdGaE11Q09LRExaZDR2bHhjenQtUzI4eGhJX2trNnZXT2RTazJLa2hxeFFkdDFkRC1IaVdCMVI2VHotNy1DdFVJQTFnM3FfTEF1QXI2X3NBcC16dU9pbm9NbVBzWkc5YVhkYTJ0M0VqaFZ6Tm5UbFd2OThGb1laVUJ6S3BtQmlUX2RrSnRyN1A4QWRxbVdwSmI2cVFYUkZZZThUM2hqeU1kM3pwdlRQNUVQTFBWV0hQYWlGeXpJUFR4eXpjUDc?oc=5"
+          },
+          {
+            "label": "GIGAZINE：Google has released details on 'Mantis,' an open-source framework that",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NVkNBblMya0s0X0MxTzliNlpaNEJFSWNoTkp2MjA4NnY4MjBHYm5kV0tuUG00MmpRaXVzU0ZZVFVBWmJtMEdqelJHRXdCcG1kM0xsRWJVekNaUnZVZlUwY01kMmxmb2VEVFNMLVlORW9jS19mS1Iw?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：英伟达推出开源个人AI路由器PAIR 让家中多台电脑协同运行本地AI - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mMk9IcUlfa2VWLUhtMXlqclI3b0M5eHRMZ3dCY2VFRkkyaEx0RldmT203dHVSbnZtSl8yekRCeEtIX2dhTVM3MEVCb1FoSU5EVlhlVXZ6TUFYWHB2MmtvcA?oc=5"
+          }
+        ],
+        "source": "Open Source For You",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeXZDajJyZnBDa3BxQVRhb3VGMmdjZTBVOFR6VmZpWmdGaE11Q09LRExaZDR2bHhjenQtUzI4eGhJX2trNnZXT2RTazJLa2hxeFFkdDFkRC1IaVdCMVI2VHotNy1DdFVJQTFnM3FfTEF1QXI2X3NBcC16dU9pbm9NbVBzWkc5YVhkYTJ0M0VqaFZ6Tm5UbFd2OThGb1laVUJ6S3BtQmlUX2RrSnRyN1A4QWRxbVdwSmI2cVFYUkZZZThUM2hqeU1kM3pwdlRQNUVQTFBWV0hQYWlGeXpJUFR4eXpjUDc?oc=5"
+      },
       {
         "slug": "open-source-20260903-auto-1-64b06d",
         "title": "Naver Cloud to dev",
