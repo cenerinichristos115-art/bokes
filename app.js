@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260905-auto-1-a68a74",
+        "title": "从动画师到人工智能视频设计师：一段提",
+        "category": "AI新闻",
+        "date": "2026-09-05",
+        "summary": "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从动画师到人工智能视频设计师：一段提 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "京报网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tb2Rwd0VMVnE0eHdDdzN3c3ZHYTNCVVpBc0xCeUVmbG5idW04Ym53dGxjLXRKWXNBSDhXeHJab2MyaWFtcmNoc2lmVkNSb3VsRTNfNDVNS1djUXYwM1E?oc=5"
+          },
+          {
+            "label": "新浪财经：科创未来（人工智能）金银纪念币正式发行 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84OXZOUVhtUEUwa2RfQXZVamZBemlSdTJVblU4SE1GUmFWRExGVHN1blVCUW0zNEJnWVZiUXYzWFJaZTdSTTJHcS1KU3BoQ3l5Uk82Yk9vZnJaX3hyOXhKZnlQT1NHc1JLVDhqdWRnWTBYNVRyR0oxMg?oc=5"
+          },
+          {
+            "label": "t.cj.sina.cn：从动画师到人工智能视频设计师：一段提示词取代数小时手工 - t.cj.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRU16bHNKRjl5ZDRiQlJkd1hhQ055QUc0ZjJHTjBZQmJfU0k0X0V0cEpwdy1hWlMtSzJVYnNwWE1aX0dVT3JRY0NsMHJWOVBDVGpXcGtrV1VMU1lqWmw5alFyN0MycmtNUlVmbTF6Z24yRHNvaTNXY3BWYmpoYkJ2SlBWUnN3UQ?oc=5"
+          }
+        ],
+        "source": "京报网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tb2Rwd0VMVnE0eHdDdzN3c3ZHYTNCVVpBc0xCeUVmbG5idW04Ym53dGxjLXRKWXNBSDhXeHJab2MyaWFtcmNoc2lmVkNSb3VsRTNfNDVNS1djUXYwM1E?oc=5"
+      },
+      {
+        "slug": "ai-news-20260905-auto-2-8b4a54",
+        "title": "科创未来（人工智能）金银纪念币正式发",
+        "category": "AI新闻",
+        "date": "2026-09-05",
+        "summary": "科创未来（人工智能）金银纪念币正式发行 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科创未来（人工智能）金银纪念币正式发 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "科创未来（人工智能）金银纪念币正式发行 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科创未来（人工智能）金银纪念币正式发行 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84OXZOUVhtUEUwa2RfQXZVamZBemlSdTJVblU4SE1GUmFWRExGVHN1blVCUW0zNEJnWVZiUXYzWFJaZTdSTTJHcS1KU3BoQ3l5Uk82Yk9vZnJaX3hyOXhKZnlQT1NHc1JLVDhqdWRnWTBYNVRyR0oxMg?oc=5"
+          },
+          {
+            "label": "京报网：从动画师到人工智能视频设计师：一段提示词取代数小时手工 - 京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tb2Rwd0VMVnE0eHdDdzN3c3ZHYTNCVVpBc0xCeUVmbG5idW04Ym53dGxjLXRKWXNBSDhXeHJab2MyaWFtcmNoc2lmVkNSb3VsRTNfNDVNS1djUXYwM1E?oc=5"
+          },
+          {
+            "label": "t.cj.sina.cn：从动画师到人工智能视频设计师：一段提示词取代数小时手工 - t.cj.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRU16bHNKRjl5ZDRiQlJkd1hhQ055QUc0ZjJHTjBZQmJfU0k0X0V0cEpwdy1hWlMtSzJVYnNwWE1aX0dVT3JRY0NsMHJWOVBDVGpXcGtrV1VMU1lqWmw5alFyN0MycmtNUlVmbTF6Z24yRHNvaTNXY3BWYmpoYkJ2SlBWUnN3UQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84OXZOUVhtUEUwa2RfQXZVamZBemlSdTJVblU4SE1GUmFWRExGVHN1blVCUW0zNEJnWVZiUXYzWFJaZTdSTTJHcS1KU3BoQ3l5Uk82Yk9vZnJaX3hyOXhKZnlQT1NHc1JLVDhqdWRnWTBYNVRyR0oxMg?oc=5"
+      },
+      {
         "slug": "ai-news-20260904-auto-1-1c303b",
         "title": "OpenAI发布GPT-6 Astr",
         "category": "AI新闻",
@@ -18147,6 +18263,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260905-auto-1-a68a74",
+        "title": "从动画师到人工智能视频设计师：一段提",
+        "category": "AI使用教程",
+        "date": "2026-09-05",
+        "summary": "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从动画师到人工智能视频设计师：一段提 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从动画师到人工智能视频设计师：一段提示词取代数小时手工 京报网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "京报网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tb2Rwd0VMVnE0eHdDdzN3c3ZHYTNCVVpBc0xCeUVmbG5idW04Ym53dGxjLXRKWXNBSDhXeHJab2MyaWFtcmNoc2lmVkNSb3VsRTNfNDVNS1djUXYwM1E?oc=5"
+          },
+          {
+            "label": "t.cj.sina.cn：从动画师到人工智能视频设计师：一段提示词取代数小时手工 - t.cj.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRU16bHNKRjl5ZDRiQlJkd1hhQ055QUc0ZjJHTjBZQmJfU0k0X0V0cEpwdy1hWlMtSzJVYnNwWE1aX0dVT3JRY0NsMHJWOVBDVGpXcGtrV1VMU1lqWmw5alFyN0MycmtNUlVmbTF6Z24yRHNvaTNXY3BWYmpoYkJ2SlBWUnN3UQ?oc=5"
+          },
+          {
+            "label": "区块周刊BlockWeeks：疯魔化的AI对赌事件 - 区块周刊BlockWeeks",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxZXBUaHkyT3c5QTltNklRU1JNemxDSXhTT0Jncm5UQU5ITFJmeXVZY2JCd3NVV2JHSmY4QWtsQWUtcXpQZlVEbnpR?oc=5"
+          }
+        ],
+        "source": "京报网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tb2Rwd0VMVnE0eHdDdzN3c3ZHYTNCVVpBc0xCeUVmbG5idW04Ym53dGxjLXRKWXNBSDhXeHJab2MyaWFtcmNoc2lmVkNSb3VsRTNfNDVNS1djUXYwM1E?oc=5"
+      },
+      {
         "slug": "ai-guide-20260904-auto-1-4739e0",
         "title": "“你用AI取代我？我就用AI取代你！",
         "category": "AI使用教程",
@@ -26643,6 +26817,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260905-auto-1-5b332e",
+        "title": "英伟达证实129.3亿美元收购开源人",
+        "category": "开源项目",
+        "date": "2026-09-05",
+        "summary": "英伟达证实129.3亿美元收购开源人工智能平台Hugging Face 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达证实129.3亿美元收购开源人 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "英伟达证实129.3亿美元收购开源人工智能平台Hugging Face 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达证实129.3亿美元收购开源人工智能平台Hugging Face 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zcHpuWDZndlkyd3F1eDBIaWNXVEV4dGxiRWpZM1ktb21tcDI4Tms2enZ4Q2NDcDN2QzltT1h6VXJZRHd3NVRSeVNGcEw1dUZXYWJ0SUlZbWoyV2dzTHdqZnRQNmR6aGZXdHlENXhkck1tZw?oc=5"
+          },
+          {
+            "label": "MarkTechPost：NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Infe",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaHlFS2RjZXdkYnhjR2U0bENyemJWZWxpM1hzd25tUHU1NFBxRVJTeU1haGNmUDVKaGF5d3pvOWQ4MlpjOW1kSjAtWk1JWHRGMlFxc3FEbUxFOHoyTkVUYjk4eWtGel84N0hOV19vWTEwVDZMUnQ4NVpNZkhVa2t4MjVJT05JSmEtZzBiSHo1WHdHXzAxWThaVXZCQ0JuR0w5WlRDUFBKNlpTeWZJTl9uUFplNk5qY0daQkh1VVJqWHRLNTZubWYtLUVVLW9rOUl1Nk1Fem0tR0xtcjdtYXhibi1lYURFRkU4Zl9XQmFGcklpUWxFOF8xZlU0TlBna1YxV3J4a2RYbGhQZUVfbExNcHBXTkRJVFR6NXfSAZ8CQVVfeXFMTXNuZXN3bmZLZjg0WDJiZWJrT2N6bWdHbEpJVXdjQjUwUW8yT0NpN1J1TmEzR1ctNkxoWS1md1B6eEFBS3VRcEkwQ2FTdHhmOVYtYzc4a2dLWVVkbUl6ZUF2VDVlbzI3eFdFYnlOeU5ZZ2VFaHgwakcySkxveFRtbjdGcVJyQUxNUGJYSURJTmMyR1Nva1FmQXI0VmVyQ1ZRWGg4d2wyaFdxWE5jSVJvcGIzUmZsQjh0OWdVUDN6YXBLdmM4RTNQSHJTZ05YeGt2NmZSSEptN2lWM3QyblRYTXl2aFR3TmJjVnBoTzduRkV2LThiWWRVcUV4TzNiN0xtd3RyeGxjcFk0RFR1QzR4dGlOem9IRWhWaG9Lc2NxUnM?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：英伟达129亿美元收购Hugging Face，开源AI未来走向几何？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTVhhMGxDelNkSjhHcVAzWm8zVVpCbnJQdzU5TGl3NGIyNWl6djRKRnJBdUtUZk5GX21nOGRuVl9IR25mS2w0YzJLeXk2TjVIenlOdnlBbVdCSmp6NllZQUVSZ2xfX0RPYWFN?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zcHpuWDZndlkyd3F1eDBIaWNXVEV4dGxiRWpZM1ktb21tcDI4Tms2enZ4Q2NDcDN2QzltT1h6VXJZRHd3NVRSeVNGcEw1dUZXYWJ0SUlZbWoyV2dzTHdqZnRQNmR6aGZXdHlENXhkck1tZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260905-auto-2-8eaf60",
+        "title": "NVIDIA Releases Pe",
+        "category": "开源项目",
+        "date": "2026-09-05",
+        "summary": "NVIDIA Releases Personal AI Router (PAIR): An Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA Releases Pe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "NVIDIA Releases Personal AI Router (PAIR): An Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA Releases Personal AI Router (PAIR): An Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaHlFS2RjZXdkYnhjR2U0bENyemJWZWxpM1hzd25tUHU1NFBxRVJTeU1haGNmUDVKaGF5d3pvOWQ4MlpjOW1kSjAtWk1JWHRGMlFxc3FEbUxFOHoyTkVUYjk4eWtGel84N0hOV19vWTEwVDZMUnQ4NVpNZkhVa2t4MjVJT05JSmEtZzBiSHo1WHdHXzAxWThaVXZCQ0JuR0w5WlRDUFBKNlpTeWZJTl9uUFplNk5qY0daQkh1VVJqWHRLNTZubWYtLUVVLW9rOUl1Nk1Fem0tR0xtcjdtYXhibi1lYURFRkU4Zl9XQmFGcklpUWxFOF8xZlU0TlBna1YxV3J4a2RYbGhQZUVfbExNcHBXTkRJVFR6NXfSAZ8CQVVfeXFMTXNuZXN3bmZLZjg0WDJiZWJrT2N6bWdHbEpJVXdjQjUwUW8yT0NpN1J1TmEzR1ctNkxoWS1md1B6eEFBS3VRcEkwQ2FTdHhmOVYtYzc4a2dLWVVkbUl6ZUF2VDVlbzI3eFdFYnlOeU5ZZ2VFaHgwakcySkxveFRtbjdGcVJyQUxNUGJYSURJTmMyR1Nva1FmQXI0VmVyQ1ZRWGg4d2wyaFdxWE5jSVJvcGIzUmZsQjh0OWdVUDN6YXBLdmM4RTNQSHJTZ05YeGt2NmZSSEptN2lWM3QyblRYTXl2aFR3TmJjVnBoTzduRkV2LThiWWRVcUV4TzNiN0xtd3RyeGxjcFk0RFR1QzR4dGlOem9IRWhWaG9Lc2NxUnM?oc=5"
+          },
+          {
+            "label": "新浪网：英伟达证实129.3亿美元收购开源人工智能平台Hugging Face - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zcHpuWDZndlkyd3F1eDBIaWNXVEV4dGxiRWpZM1ktb21tcDI4Tms2enZ4Q2NDcDN2QzltT1h6VXJZRHd3NVRSeVNGcEw1dUZXYWJ0SUlZbWoyV2dzTHdqZnRQNmR6aGZXdHlENXhkck1tZw?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：英伟达129亿美元收购Hugging Face，开源AI未来走向几何？ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNTVhhMGxDelNkSjhHcVAzWm8zVVpCbnJQdzU5TGl3NGIyNWl6djRKRnJBdUtUZk5GX21nOGRuVl9IR25mS2w0YzJLeXk2TjVIenlOdnlBbVdCSmp6NllZQUVSZ2xfX0RPYWFN?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaHlFS2RjZXdkYnhjR2U0bENyemJWZWxpM1hzd25tUHU1NFBxRVJTeU1haGNmUDVKaGF5d3pvOWQ4MlpjOW1kSjAtWk1JWHRGMlFxc3FEbUxFOHoyTkVUYjk4eWtGel84N0hOV19vWTEwVDZMUnQ4NVpNZkhVa2t4MjVJT05JSmEtZzBiSHo1WHdHXzAxWThaVXZCQ0JuR0w5WlRDUFBKNlpTeWZJTl9uUFplNk5qY0daQkh1VVJqWHRLNTZubWYtLUVVLW9rOUl1Nk1Fem0tR0xtcjdtYXhibi1lYURFRkU4Zl9XQmFGcklpUWxFOF8xZlU0TlBna1YxV3J4a2RYbGhQZUVfbExNcHBXTkRJVFR6NXfSAZ8CQVVfeXFMTXNuZXN3bmZLZjg0WDJiZWJrT2N6bWdHbEpJVXdjQjUwUW8yT0NpN1J1TmEzR1ctNkxoWS1md1B6eEFBS3VRcEkwQ2FTdHhmOVYtYzc4a2dLWVVkbUl6ZUF2VDVlbzI3eFdFYnlOeU5ZZ2VFaHgwakcySkxveFRtbjdGcVJyQUxNUGJYSURJTmMyR1Nva1FmQXI0VmVyQ1ZRWGg4d2wyaFdxWE5jSVJvcGIzUmZsQjh0OWdVUDN6YXBLdmM4RTNQSHJTZ05YeGt2NmZSSEptN2lWM3QyblRYTXl2aFR3TmJjVnBoTzduRkV2LThiWWRVcUV4TzNiN0xtd3RyeGxjcFk0RFR1QzR4dGlOem9IRWhWaG9Lc2NxUnM?oc=5"
+      },
       {
         "slug": "open-source-20260904-auto-1-cb6d3f",
         "title": "Google has release",
