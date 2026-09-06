@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260906-auto-1-6b0d4e",
+        "title": "OpenAI acknowledge",
+        "category": "AI新闻",
+        "date": "2026-09-06",
+        "summary": "OpenAI acknowledges 'wiki incident' and need for m",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI acknowledge 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI acknowledges 'wiki incident' and need for m",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI acknowledges 'wiki incident' and need for m",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Citizen Digital：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTVVUk5lQk5ZbjdVbl82SkFjRkhuRk5CUzA3LTJBY05WOWdiR2lHMlhXSG80cVdiUTRNT1k2RUxCQml6Q0kxZHpNNHhPUFpLOVRWS3VHenp4bU1aUGtmUzFuaU9uV2tzNDJJR1lRejhFNmxnSVJ3dzJNNmtlb1MtTzZpS0xTM3dOYmN2dFhsc2s3NlNxY3pFTDR1M1VTdHJGNkZ5NjhpZ1FhZ2xkWFotV0RqYWtsbUdBQklpeEJSWkxGalN2Y2ZqUjZqTGk?oc=5"
+          },
+          {
+            "label": "MorungExpress：Rogue AI agents: OpenAI says working on framework to address such conc",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWC16bW9paWo0QTJiUEQwMm1UeWpBUlhXOE9ySGU1NHp5V1o2ZGRCV0JXWkdwNXVPeG9BUEdSc2hmcmVCSjI0SlJpVUstTy1UZkFQVHlINnJhUG9tWndidi1ZRkcwSnNlZ05ZbE9hUkp3ZVI4Y3VGcnR3M0MxUExhbEV0R1ZaOWdRSExEcGFMaENfcVg5RGc2YThKWTdDM09I?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：New York is cracking down on artificial intelligence in schools - صوت ",
+            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOFRmbExIdmd5dHZtVmxWSGx2TTNsaVdNejdJY2cyOVRtcVphVDF0UFN2eExNaUpnTFN0MUprckVkRXJsUXR0YnkyR1A2UTVtMnhyNVpHWFM1N1ZWanpRc1FKRmI3VGVwNWxFdm5QczlnUl85cW5BdGxKN1hNbnEzcVhXTGxsdW9tckRhLUg0UkhScjRXM1BUa2JRMnR0ajI5WUx2ekI1dnM5Y0hMOGYwTElHdWJMNkMyM0xKTzBmaHhSeFF6N3hwV3g1Zi1KeWY3dGs4UTdIejVSWlcwM29aZjBXbVV5ZGVlZlZ3WmNmR3VKb0hRekdab09KVzVSWlh1Q1AwNzVrWlJXWTdzMlBXbmpyM3lZUktRV2c1aWx3?oc=5"
+          }
+        ],
+        "source": "Citizen Digital",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTVVUk5lQk5ZbjdVbl82SkFjRkhuRk5CUzA3LTJBY05WOWdiR2lHMlhXSG80cVdiUTRNT1k2RUxCQml6Q0kxZHpNNHhPUFpLOVRWS3VHenp4bU1aUGtmUzFuaU9uV2tzNDJJR1lRejhFNmxnSVJ3dzJNNmtlb1MtTzZpS0xTM3dOYmN2dFhsc2s3NlNxY3pFTDR1M1VTdHJGNkZ5NjhpZ1FhZ2xkWFotV0RqYWtsbUdBQklpeEJSWkxGalN2Y2ZqUjZqTGk?oc=5"
+      },
+      {
+        "slug": "ai-news-20260906-auto-2-f63535",
+        "title": "Rogue AI agents: O",
+        "category": "AI新闻",
+        "date": "2026-09-06",
+        "summary": "Rogue AI agents: OpenAI says working on framework",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Rogue AI agents: O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Rogue AI agents: OpenAI says working on framework",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Rogue AI agents: OpenAI says working on framework",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MorungExpress：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWC16bW9paWo0QTJiUEQwMm1UeWpBUlhXOE9ySGU1NHp5V1o2ZGRCV0JXWkdwNXVPeG9BUEdSc2hmcmVCSjI0SlJpVUstTy1UZkFQVHlINnJhUG9tWndidi1ZRkcwSnNlZ05ZbE9hUkp3ZVI4Y3VGcnR3M0MxUExhbEV0R1ZaOWdRSExEcGFMaENfcVg5RGc2YThKWTdDM09I?oc=5"
+          },
+          {
+            "label": "Citizen Digital：OpenAI acknowledges 'wiki incident' and need for more transparency aro",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTVVUk5lQk5ZbjdVbl82SkFjRkhuRk5CUzA3LTJBY05WOWdiR2lHMlhXSG80cVdiUTRNT1k2RUxCQml6Q0kxZHpNNHhPUFpLOVRWS3VHenp4bU1aUGtmUzFuaU9uV2tzNDJJR1lRejhFNmxnSVJ3dzJNNmtlb1MtTzZpS0xTM3dOYmN2dFhsc2s3NlNxY3pFTDR1M1VTdHJGNkZ5NjhpZ1FhZ2xkWFotV0RqYWtsbUdBQklpeEJSWkxGalN2Y2ZqUjZqTGk?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：New York is cracking down on artificial intelligence in schools - صوت ",
+            "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOFRmbExIdmd5dHZtVmxWSGx2TTNsaVdNejdJY2cyOVRtcVphVDF0UFN2eExNaUpnTFN0MUprckVkRXJsUXR0YnkyR1A2UTVtMnhyNVpHWFM1N1ZWanpRc1FKRmI3VGVwNWxFdm5QczlnUl85cW5BdGxKN1hNbnEzcVhXTGxsdW9tckRhLUg0UkhScjRXM1BUa2JRMnR0ajI5WUx2ekI1dnM5Y0hMOGYwTElHdWJMNkMyM0xKTzBmaHhSeFF6N3hwV3g1Zi1KeWY3dGs4UTdIejVSWlcwM29aZjBXbVV5ZGVlZlZ3WmNmR3VKb0hRekdab09KVzVSWlh1Q1AwNzVrWlJXWTdzMlBXbmpyM3lZUktRV2c1aWx3?oc=5"
+          }
+        ],
+        "source": "MorungExpress",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWC16bW9paWo0QTJiUEQwMm1UeWpBUlhXOE9ySGU1NHp5V1o2ZGRCV0JXWkdwNXVPeG9BUEdSc2hmcmVCSjI0SlJpVUstTy1UZkFQVHlINnJhUG9tWndidi1ZRkcwSnNlZ05ZbE9hUkp3ZVI4Y3VGcnR3M0MxUExhbEV0R1ZaOWdRSExEcGFMaENfcVg5RGc2YThKWTdDM09I?oc=5"
+      },
+      {
         "slug": "ai-news-20260905-auto-1-a68a74",
         "title": "从动画师到人工智能视频设计师：一段提",
         "category": "AI新闻",
@@ -18263,6 +18379,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260906-auto-1-5a1556",
+        "title": "\"看到脸了”……美延被 AI 选为“",
+        "category": "AI使用教程",
+        "date": "2026-09-06",
+        "summary": "\"看到脸了”……美延被 AI 选为“最具明星相的人”[Running Man] starnewsko",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "\"看到脸了”……美延被 AI 选为“ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "\"看到脸了”……美延被 AI 选为“最具明星相的人”[Running Man] starnewsko",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "\"看到脸了”……美延被 AI 选为“最具明星相的人”[Running Man] starnewsko",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "starnewskorea.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHFOVmRhdWVEbGZjUkVRbWtjSWtDZGFSNmpPRXdIMWZoN21ud1RmZi02RF9TRE5qN19ldkpQZ3ZwenRSYnd4REtWekUtS080akRZaXM1bkd1X1N5bWtHb3huMnRocW1IN2JPVmVVVUxQVWpUNGpRTkM2R2ltRjdQeWV5WVQ?oc=5"
+          },
+          {
+            "label": "Poets&Quants：2026 MBA To Watch: Chavah Greene, University of Rochester (Simon) - Po",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVU9QX2JPeE5hd2NZdE94dlVxa0pIRW5wZzI2cjdXVjYzdzhfcUUtSHQxN2h5UkNDZWVEQ0h1QnNocTVPWnRmNHNFMlZLRldoeG1PSnhLNjg1LUtqRUN4YnZPbnJEOHZTbWVVTmZDQXAwZUFpVWpwQkhYRVFDenp1Ty1nNlNuMjIxVXRaU2Zjdnk5d0NpSXpsWEEtb2ZGLVlpZkE?oc=5"
+          },
+          {
+            "label": "ttplus.cn：manbetx体育注册教程：重新定义移动端观赛体验-体坛网_体坛+ - ttplus.cn",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWjlGSWlkZE1jSENpbWFmNTRlQlczdTROR045Z0ZubEdBX0J2MjhZM2JiSzRLLWxkdnhrSDBCMzF4czJxTnllV1dyV1VuZHAtTHZEVQ?oc=5"
+          }
+        ],
+        "source": "starnewskorea.com",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRHFOVmRhdWVEbGZjUkVRbWtjSWtDZGFSNmpPRXdIMWZoN21ud1RmZi02RF9TRE5qN19ldkpQZ3ZwenRSYnd4REtWekUtS080akRZaXM1bkd1X1N5bWtHb3huMnRocW1IN2JPVmVVVUxQVWpUNGpRTkM2R2ltRjdQeWV5WVQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260905-auto-1-a68a74",
         "title": "从动画师到人工智能视频设计师：一段提",
         "category": "AI使用教程",
@@ -26817,6 +26991,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260906-auto-1-041566",
+        "title": "开源模型逆袭：编码智能体让Ollam",
+        "category": "开源项目",
+        "date": "2026-09-06",
+        "summary": "开源模型逆袭：编码智能体让Ollama的token用量一年暴涨150倍 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开源模型逆袭：编码智能体让Ollam 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "开源模型逆袭：编码智能体让Ollama的token用量一年暴涨150倍 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开源模型逆袭：编码智能体让Ollama的token用量一年暴涨150倍 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dFZQVFBrU3VlS2w3RTNQNXpkc1pMMzJ1X3kyZzhUVjM2YUttdEdwcHA4VUp1SFEyb3JlLUFvc2gzYjZZdU5ObWdZckZUVXNicUE?oc=5"
+          },
+          {
+            "label": "The Indian Express：Corporate America is getting hooked on open-source AI - The Indian Exp",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHRURWxvakMwS3ZaR3ZISHFFaHh4RDVDd241M3BPQ1RqVnBlX2JFck5fUDRNRW9mcDh4NnZGWlRuYzFOYlItZEpYRkRsb1h6dWhNYVllbHhLanM3VXFpc3c5Qk5DMmdtMVdmcGNaOTdubG9yeHdCNUhPOEJTS25JTjhIOTU2dHgwWURZTUc2ZkV2TGd3cWlKZHVUOW5XdEFGUE5KdmpPUl92dDNvb3pVQnNENk1vTlphb0pKX3lLeVB4UGJodTE0ck1JWS1DSG1BZGZz0gHTAUFVX3lxTE04dFRFbG9qQzBLdlpHdkhIcUVoeHhENUN3bjUzcE9DVGpWcGVfYkVyTl9QNE1Fb2ZwOHg2dkZaVG5jMU5iUi1kSlhGRGxvWHp1aE1hWWVseEtqczdVcWlzdzlCTkMyZ20xV2ZwY1o5N25sb3J4d0I1SE84QlNLbklOOEg5NTZ0eDBZRFlNRzZmRXZMZ3dxaUpkdVQ5bld0QUZQTkp2ak9SX3Z0M29velVCc0Q2TW9OWmFvSkpfeUt5UHhQYmh1MTRyTUlZLUNIbUFkZnM?oc=5"
+          },
+          {
+            "label": "80aj.com：开源项目 Davflare 更新：Chrome 书签库上线，数据自持存 WebDAV - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93WWE2cEVUSnhWX3NKeU5Bc1Y2TVVtc3FhdzZObTdBQ0YyQl84QzRwckdJNWJuTFJUWlJGYUR3dFlmQ0ZZOTJWZDFsNWsyWmVra2VIeF9seTlDMjRvbWRsck02Y2xta3ZrMzFDbU5HN05rOFk?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dFZQVFBrU3VlS2w3RTNQNXpkc1pMMzJ1X3kyZzhUVjM2YUttdEdwcHA4VUp1SFEyb3JlLUFvc2gzYjZZdU5ObWdZckZUVXNicUE?oc=5"
+      },
+      {
+        "slug": "open-source-20260906-auto-2-1d963b",
+        "title": "Corporate America",
+        "category": "开源项目",
+        "date": "2026-09-06",
+        "summary": "Corporate America is getting hooked on open-source",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Corporate America 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Corporate America is getting hooked on open-source",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Corporate America is getting hooked on open-source",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Indian Express：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHRURWxvakMwS3ZaR3ZISHFFaHh4RDVDd241M3BPQ1RqVnBlX2JFck5fUDRNRW9mcDh4NnZGWlRuYzFOYlItZEpYRkRsb1h6dWhNYVllbHhLanM3VXFpc3c5Qk5DMmdtMVdmcGNaOTdubG9yeHdCNUhPOEJTS25JTjhIOTU2dHgwWURZTUc2ZkV2TGd3cWlKZHVUOW5XdEFGUE5KdmpPUl92dDNvb3pVQnNENk1vTlphb0pKX3lLeVB4UGJodTE0ck1JWS1DSG1BZGZz0gHTAUFVX3lxTE04dFRFbG9qQzBLdlpHdkhIcUVoeHhENUN3bjUzcE9DVGpWcGVfYkVyTl9QNE1Fb2ZwOHg2dkZaVG5jMU5iUi1kSlhGRGxvWHp1aE1hWWVseEtqczdVcWlzdzlCTkMyZ20xV2ZwY1o5N25sb3J4d0I1SE84QlNLbklOOEg5NTZ0eDBZRFlNRzZmRXZMZ3dxaUpkdVQ5bld0QUZQTkp2ak9SX3Z0M29velVCc0Q2TW9OWmFvSkpfeUt5UHhQYmh1MTRyTUlZLUNIbUFkZnM?oc=5"
+          },
+          {
+            "label": "至顶网：开源模型逆袭：编码智能体让Ollama的token用量一年暴涨150倍 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dFZQVFBrU3VlS2w3RTNQNXpkc1pMMzJ1X3kyZzhUVjM2YUttdEdwcHA4VUp1SFEyb3JlLUFvc2gzYjZZdU5ObWdZckZUVXNicUE?oc=5"
+          },
+          {
+            "label": "80aj.com：开源项目 Davflare 更新：Chrome 书签库上线，数据自持存 WebDAV - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93WWE2cEVUSnhWX3NKeU5Bc1Y2TVVtc3FhdzZObTdBQ0YyQl84QzRwckdJNWJuTFJUWlJGYUR3dFlmQ0ZZOTJWZDFsNWsyWmVra2VIeF9seTlDMjRvbWRsck02Y2xta3ZrMzFDbU5HN05rOFk?oc=5"
+          }
+        ],
+        "source": "The Indian Express",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHRURWxvakMwS3ZaR3ZISHFFaHh4RDVDd241M3BPQ1RqVnBlX2JFck5fUDRNRW9mcDh4NnZGWlRuYzFOYlItZEpYRkRsb1h6dWhNYVllbHhLanM3VXFpc3c5Qk5DMmdtMVdmcGNaOTdubG9yeHdCNUhPOEJTS25JTjhIOTU2dHgwWURZTUc2ZkV2TGd3cWlKZHVUOW5XdEFGUE5KdmpPUl92dDNvb3pVQnNENk1vTlphb0pKX3lLeVB4UGJodTE0ck1JWS1DSG1BZGZz0gHTAUFVX3lxTE04dFRFbG9qQzBLdlpHdkhIcUVoeHhENUN3bjUzcE9DVGpWcGVfYkVyTl9QNE1Fb2ZwOHg2dkZaVG5jMU5iUi1kSlhGRGxvWHp1aE1hWWVseEtqczdVcWlzdzlCTkMyZ20xV2ZwY1o5N25sb3J4d0I1SE84QlNLbklOOEg5NTZ0eDBZRFlNRzZmRXZMZ3dxaUpkdVQ5bld0QUZQTkp2ak9SX3Z0M29velVCc0Q2TW9OWmFvSkpfeUt5UHhQYmh1MTRyTUlZLUNIbUFkZnM?oc=5"
+      },
       {
         "slug": "open-source-20260905-auto-1-5b332e",
         "title": "英伟达证实129.3亿美元收购开源人",
