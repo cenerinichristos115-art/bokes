@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260907-auto-1-5fdab1",
+        "title": "光模块爆发！高“光”创业板人工智能涨",
+        "category": "AI新闻",
+        "date": "2026-09-07",
+        "summary": "光模块爆发！高“光”创业板人工智能涨超4.5% 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "光模块爆发！高“光”创业板人工智能涨 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "光模块爆发！高“光”创业板人工智能涨超4.5% 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "光模块爆发！高“光”创业板人工智能涨超4.5% 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWW9Za1hMZHJmSnF4Z2JlVlhqNTg3RkgtbXlIVGdibTNMSkcyRk1uMVI5bnpCUXBVQjVxT0pxd0hxR1BCZi1OVlJQU3pIaXZ0bmFrY0cwNEhySWFwc2VzQnREaTBzdVdoYnlTRC1zLTk0enQtMW53UXVkYnFZekY2cmNNWUYtekZMelpaNXVYQkJMNTdMY0E?oc=5"
+          },
+          {
+            "label": "京报网：成立三年，这家中国公司缘何与英伟达“同列” - 京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MblhYQkI1a1FJYUhHb0ExZ0JMQ3NSOUZMaEJDS0c5VmFveWxibGgtczI4UVVXRkRwMXNKVHYwWEg3WWJpR0JLWHFEMVpjREN3LU1sZlZlb2Q0MFpWZVE?oc=5"
+          },
+          {
+            "label": "CustomerThink：PUCPR and 404 Innovation Studio Launch ‘Never Stop Thinking’ Campaign ",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeUUtVkxReHFqZTNEWVNQUm5NdlFuck4xeXBUVmN1aHgwb3B3R2FUQkJvbjVTSWk3Q0dWVmdFTGJzLUwzVGVxT2NrSUVKZFdfdm04WTQ3WHJ1cDBQLUUyMFVMOWhFSlp5QS1tN0p5dXhmSjFrb0s1bFdUMGM0OUFqU3JuZVZyVFR6MGdhZm16M3VFNTJKcW1Nc0ExbFU4WkEwbzFXUGozQTdnckNMMEhtdGhIVkZCZWhxc19YcU9qMkk0VHBkakU0NU16VjBZXy1NMzhWNTBWVXVPbFBlVVVCNzU4ZVdPMXF1TDVVTmVMZjE0eTlLMWcwSjBjdFdvdHQzN2hJUC1tM0pUUmtPNWN0T3huQQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWW9Za1hMZHJmSnF4Z2JlVlhqNTg3RkgtbXlIVGdibTNMSkcyRk1uMVI5bnpCUXBVQjVxT0pxd0hxR1BCZi1OVlJQU3pIaXZ0bmFrY0cwNEhySWFwc2VzQnREaTBzdVdoYnlTRC1zLTk0enQtMW53UXVkYnFZekY2cmNNWUYtekZMelpaNXVYQkJMNTdMY0E?oc=5"
+      },
+      {
+        "slug": "ai-news-20260907-auto-2-a0f4a7",
+        "title": "成立三年，这家中国公司缘何与英伟达“",
+        "category": "AI新闻",
+        "date": "2026-09-07",
+        "summary": "成立三年，这家中国公司缘何与英伟达“同列” 京报网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "成立三年，这家中国公司缘何与英伟达“ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "成立三年，这家中国公司缘何与英伟达“同列” 京报网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "成立三年，这家中国公司缘何与英伟达“同列” 京报网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "京报网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MblhYQkI1a1FJYUhHb0ExZ0JMQ3NSOUZMaEJDS0c5VmFveWxibGgtczI4UVVXRkRwMXNKVHYwWEg3WWJpR0JLWHFEMVpjREN3LU1sZlZlb2Q0MFpWZVE?oc=5"
+          },
+          {
+            "label": "新浪网：光模块爆发！高“光”创业板人工智能涨超4.5% - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWW9Za1hMZHJmSnF4Z2JlVlhqNTg3RkgtbXlIVGdibTNMSkcyRk1uMVI5bnpCUXBVQjVxT0pxd0hxR1BCZi1OVlJQU3pIaXZ0bmFrY0cwNEhySWFwc2VzQnREaTBzdVdoYnlTRC1zLTk0enQtMW53UXVkYnFZekY2cmNNWUYtekZMelpaNXVYQkJMNTdMY0E?oc=5"
+          },
+          {
+            "label": "CustomerThink：PUCPR and 404 Innovation Studio Launch ‘Never Stop Thinking’ Campaign ",
+            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeUUtVkxReHFqZTNEWVNQUm5NdlFuck4xeXBUVmN1aHgwb3B3R2FUQkJvbjVTSWk3Q0dWVmdFTGJzLUwzVGVxT2NrSUVKZFdfdm04WTQ3WHJ1cDBQLUUyMFVMOWhFSlp5QS1tN0p5dXhmSjFrb0s1bFdUMGM0OUFqU3JuZVZyVFR6MGdhZm16M3VFNTJKcW1Nc0ExbFU4WkEwbzFXUGozQTdnckNMMEhtdGhIVkZCZWhxc19YcU9qMkk0VHBkakU0NU16VjBZXy1NMzhWNTBWVXVPbFBlVVVCNzU4ZVdPMXF1TDVVTmVMZjE0eTlLMWcwSjBjdFdvdHQzN2hJUC1tM0pUUmtPNWN0T3huQQ?oc=5"
+          }
+        ],
+        "source": "京报网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MblhYQkI1a1FJYUhHb0ExZ0JMQ3NSOUZMaEJDS0c5VmFveWxibGgtczI4UVVXRkRwMXNKVHYwWEg3WWJpR0JLWHFEMVpjREN3LU1sZlZlb2Q0MFpWZVE?oc=5"
+      },
+      {
         "slug": "ai-news-20260906-auto-1-6b0d4e",
         "title": "OpenAI acknowledge",
         "category": "AI新闻",
@@ -18379,6 +18495,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260907-auto-1-be2a2e",
+        "title": "GPT-6 Astra: A new",
+        "category": "AI使用教程",
+        "date": "2026-09-07",
+        "summary": "GPT-6 Astra: A new generation of intelligence Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: A new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra: A new generation of intelligence Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: A new generation of intelligence Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "디지털투데이：Animorph推出GEO API“querying.ai”，获取生成式AI搜索页实际回答及引用来源 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON09hLV9EcDgyV0tZMHVvcXlITWJLU0xRSzNMTzhHa0Zmc09EdkRzSzR6bFN4elVFRy0wSXo3cGJIN0VCMFBCWWNnaEZBazRiNXp0QmhHbEUxLTREdEFZb0xIcjNEbkNBMFZtb21Hb1drcVBXLUo5S3lwSGtHMzB5RFpCYV83UnJ4VkJQSmdSRmVvUHAxbGtILXdaQjB1YzE1Q2RTT2FrYm1IOVkwXzhhN1RESkJqYXhJLTEzdkktRVVSclJTOHBVakd4dGN2S1BTNnc?oc=5"
+          },
+          {
+            "label": "Sohu：疯魔化的AI对赌事件 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3czNDV2WEg4Qk96d3dlVC1JU1J0UHRRYzFuSi1qb3hrQVBNR0tDSnlrOXE0Q2RIQ1lKRXl6aHV6VXhYclFOLXpGZFdyajV6NGhDYU5pUGUzVWR6Y3hJUVpRMTU4X1JGZ3JFX1k5ZEZ3WVI0THk4cThWVUJHaGRNRmFKSDB3TlJy?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260906-auto-1-5a1556",
         "title": "\"看到脸了”……美延被 AI 选为“",
         "category": "AI使用教程",
@@ -26991,6 +27165,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260907-auto-1-be2a2e",
+        "title": "GPT-6 Astra: A new",
+        "category": "开源项目",
+        "date": "2026-09-07",
+        "summary": "GPT-6 Astra: A new generation of intelligence Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: A new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra: A new generation of intelligence Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: A new generation of intelligence Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "HackerNoon：5 Open-Source and Free ChatGPT Alternatives You Can Support with Kivac",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RnZWVFeTZROEYtMWtydW1wdGw0dGM0TTBQWVBDRE0zTUpIdFNWWHFZSVZ6bFhZSmY4UVpTVWEtb0lyWGs4SXFrYUFsZElhSUU3a1dsR3VVOVgtQWZ0RlcwZlc0anZ6MlYwLV9SM0hqNjNSZF9mMVVtMTRRQk1YSVM1aEtzdy1mcURodXFqa2ZGX2dtdWFPVmZ3?oc=5"
+          },
+          {
+            "label": "Help Net Security：ToolHive: The open-source way to run any MCP server securely - Help Ne",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmFwaUJCMlFOQThnS1RpSmc4SkFLUEpiUHRlRllfcnB0SU41ZkZqWEJyemxIYjhYWHN5RGU1Z0JnTDFVTkdLaWJWQ093SlRRdnVScDdoYk1Jd0tlWmxKaElpbmlMQkwtb3M4YVVLVmVOdVVkajFCdlljR2kzNVlnSFBWTG1NOUk0TXFmTg?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260907-auto-2-524604",
+        "title": "5 Open-Source and",
+        "category": "开源项目",
+        "date": "2026-09-07",
+        "summary": "5 Open-Source and Free ChatGPT Alternatives You Ca",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "5 Open-Source and 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "5 Open-Source and Free ChatGPT Alternatives You Ca",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "5 Open-Source and Free ChatGPT Alternatives You Ca",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RnZWVFeTZROEYtMWtydW1wdGw0dGM0TTBQWVBDRE0zTUpIdFNWWHFZSVZ6bFhZSmY4UVpTVWEtb0lyWGs4SXFrYUFsZElhSUU3a1dsR3VVOVgtQWZ0RlcwZlc0anZ6MlYwLV9SM0hqNjNSZF9mMVVtMTRRQk1YSVM1aEtzdy1mcURodXFqa2ZGX2dtdWFPVmZ3?oc=5"
+          },
+          {
+            "label": "OpenAI：GPT-6 Astra: A new generation of intelligence - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "Help Net Security：ToolHive: The open-source way to run any MCP server securely - Help Ne",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmFwaUJCMlFOQThnS1RpSmc4SkFLUEpiUHRlRllfcnB0SU41ZkZqWEJyemxIYjhYWHN5RGU1Z0JnTDFVTkdLaWJWQ093SlRRdnVScDdoYk1Jd0tlWmxKaElpbmlMQkwtb3M4YVVLVmVOdVVkajFCdlljR2kzNVlnSFBWTG1NOUk0TXFmTg?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RnZWVFeTZROEYtMWtydW1wdGw0dGM0TTBQWVBDRE0zTUpIdFNWWHFZSVZ6bFhZSmY4UVpTVWEtb0lyWGs4SXFrYUFsZElhSUU3a1dsR3VVOVgtQWZ0RlcwZlc0anZ6MlYwLV9SM0hqNjNSZF9mMVVtMTRRQk1YSVM1aEtzdy1mcURodXFqa2ZGX2dtdWFPVmZ3?oc=5"
+      },
       {
         "slug": "open-source-20260906-auto-1-041566",
         "title": "开源模型逆袭：编码智能体让Ollam",
