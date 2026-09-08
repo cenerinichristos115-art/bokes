@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260908-auto-1-37d996",
+        "title": "中兴首款AI智能体手机9月16日上市",
+        "category": "AI新闻",
+        "date": "2026-09-08",
+        "summary": "中兴首款AI智能体手机9月16日上市 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中兴首款AI智能体手机9月16日上市 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "中兴首款AI智能体手机9月16日上市 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "中兴首款AI智能体手机9月16日上市 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90aGYtWVVBNHl4NE9CdXNVbG8zS0h0ZXZYSDJjWGZSZzg0TjJQWlBTLW5DQzJtcy1WdVNsYU1RdkVVTmNjTm92ZkhtYWhhcmZZWUk5cjVLNXU5cTlwek5vZzgxOEYyNVpzZ0VMQlBfSjQ2MnZYa2tUcndfT01KUQ?oc=5"
+          },
+          {
+            "label": "The Concordian |：AI Is Making You Dumb | - The Concordian |",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5seS1iOXliX3BCR1FjM0hrVGFSOHJPMUtuQzNnQjNFQjdfbnlVaGZKUkVUdFYyeVVoZmRIUlZsYnl2WHI4S1R6VUhHa280M2FWeTh5QUx5Skx5eFFUYkRKVVRPWnQ1ZjA?oc=5"
+          },
+          {
+            "label": "WSJ：Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDloWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90aGYtWVVBNHl4NE9CdXNVbG8zS0h0ZXZYSDJjWGZSZzg0TjJQWlBTLW5DQzJtcy1WdVNsYU1RdkVVTmNjTm92ZkhtYWhhcmZZWUk5cjVLNXU5cTlwek5vZzgxOEYyNVpzZ0VMQlBfSjQ2MnZYa2tUcndfT01KUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260908-auto-2-d78761",
+        "title": "AI Is Making You D",
+        "category": "AI新闻",
+        "date": "2026-09-08",
+        "summary": "AI Is Making You Dumb | The Concordian |",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Is Making You D 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Is Making You Dumb | The Concordian |",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Is Making You Dumb | The Concordian |",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Concordian |：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5seS1iOXliX3BCR1FjM0hrVGFSOHJPMUtuQzNnQjNFQjdfbnlVaGZKUkVUdFYyeVVoZmRIUlZsYnl2WHI4S1R6VUhHa280M2FWeTh5QUx5Skx5eFFUYkRKVVRPWnQ1ZjA?oc=5"
+          },
+          {
+            "label": "新浪网：中兴首款AI智能体手机9月16日上市 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90aGYtWVVBNHl4NE9CdXNVbG8zS0h0ZXZYSDJjWGZSZzg0TjJQWlBTLW5DQzJtcy1WdVNsYU1RdkVVTmNjTm92ZkhtYWhhcmZZWUk5cjVLNXU5cTlwek5vZzgxOEYyNVpzZ0VMQlBfSjQ2MnZYa2tUcndfT01KUQ?oc=5"
+          },
+          {
+            "label": "WSJ：Mistral AI Exceeds $24 Billion Valuation After Samsung-Led Investment ",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJnSk5fZG5tQ18ydkxneV9ORkc3M0FsS0xLYW5xS192eDUtYVE1TXpNdW1kS0lHWUh3dmVCQVFrYmpGSlIyVm9iXzhVdDVWZUlkd0x6X0F0MWNoS2RIZXMxS24yeDVsOVFBeVdMclVPZ1g0eVY5UWVGX1BfcUQ4Rk9aenNjMnR6UXI2WEF2Q0Ezb1RsZDloWEJZZlJUZ3lWaENQd01iS3YwbkNHWXNIZw?oc=5"
+          }
+        ],
+        "source": "The Concordian |",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5seS1iOXliX3BCR1FjM0hrVGFSOHJPMUtuQzNnQjNFQjdfbnlVaGZKUkVUdFYyeVVoZmRIUlZsYnl2WHI4S1R6VUhHa280M2FWeTh5QUx5Skx5eFFUYkRKVVRPWnQ1ZjA?oc=5"
+      },
+      {
         "slug": "ai-news-20260907-auto-1-5fdab1",
         "title": "光模块爆发！高“光”创业板人工智能涨",
         "category": "AI新闻",
@@ -18495,6 +18611,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260908-auto-1-a6ddad",
+        "title": "李飞飞最新访谈：苏格拉底是史上最好的",
+        "category": "AI使用教程",
+        "date": "2026-09-08",
+        "summary": "李飞飞最新访谈：苏格拉底是史上最好的“提示词工程师” thepaper.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "李飞飞最新访谈：苏格拉底是史上最好的 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "李飞飞最新访谈：苏格拉底是史上最好的“提示词工程师” thepaper.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "李飞飞最新访谈：苏格拉底是史上最好的“提示词工程师” thepaper.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thepaper.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0UVhCRlpnR0lTckp5dE4wVXJFS2xiS3lkQVl0WFFIVXFqNlowaThZN3E4VEhPSF9mQzA4aGwtN0VnQU92b0EtTTRESGUwWGVpVjNZWHNHV3NqZjRjdWRuVXNGcHlkUTJUaFF1X29DWGUwUQ?oc=5"
+          },
+          {
+            "label": "jinantimes.com.cn：AI生成内容侵权，责任谁来担？最高法发文明确 - jinantimes.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54cnIybW5TWlMtaGNMYnVUcWQxaXR0Ukd3TUQ4Rl9jVGlDNXQ5WnBYdjVFVThZaExZUUZPNE9HX3pDQXJmN0FDSXJITUZNTmc1Y3ZYMDdiOG5IcEpmeElN?oc=5"
+          },
+          {
+            "label": "爱范儿：500 万人围观，AI 终于造出了「无限泔水机」 - 爱范儿",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tZi10cU1YVHRiblFPSU9CTGxaMHUxQnduX1V3dTNHR0ZIaWo5dnJDLTgxTXFaVnEzQjlOVlpWWlBkM00?oc=5"
+          }
+        ],
+        "source": "thepaper.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0UVhCRlpnR0lTckp5dE4wVXJFS2xiS3lkQVl0WFFIVXFqNlowaThZN3E4VEhPSF9mQzA4aGwtN0VnQU92b0EtTTRESGUwWGVpVjNZWHNHV3NqZjRjdWRuVXNGcHlkUTJUaFF1X29DWGUwUQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260907-auto-1-be2a2e",
         "title": "GPT-6 Astra: A new",
         "category": "AI使用教程",
@@ -27165,6 +27339,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260908-auto-1-49332e",
+        "title": "寒武纪加入PyTorch基金会 成为",
+        "category": "开源项目",
+        "date": "2026-09-08",
+        "summary": "寒武纪加入PyTorch基金会 成为最高级别白金成员 微博",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "寒武纪加入PyTorch基金会 成为 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "寒武纪加入PyTorch基金会 成为最高级别白金成员 微博",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "寒武纪加入PyTorch基金会 成为最高级别白金成员 微博",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "微博：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMGppTU55TVFkcXN1ZUxwY09UZTdUWnhuMXhGQnN3VGlHVGQ5NVRMem9yNThyZGZ1WnNSVkQxR2hoQXQ3NV9hQ01xWDRjLXpEbVlNWml3?oc=5"
+          },
+          {
+            "label": "finet.com.cn：从单一Agent到组织智能：iPolloWork开源OPC协作平台正式发布 - finet.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMXk1OGpEclRjc3BQX1NJTzdlNWRsSHpDeUlaVXhfWWNkY1BIMEI4SzlRYWZEZ1hUbllCYlNIWmJfNkctM1l5TUhSM21qZi14ek9LSXFYLTVfSnc2N25yX1llSTFDLVd5TVow?oc=5"
+          },
+          {
+            "label": "Help Net Security：Microsoft’s Project Zenith puts large AI models directly on developer ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLW52X3gzdHJETElKVXRqSmhYV2dJUXRFdE1uQXQ5V19adlh0NTQ3Z2c3YS1YcjlOc2I2LXBkOW14ZEZudXlNUXE0ZUpHTlR6U1NOaE91eml6Y0EzMU83Z0lWWDFyUTVCOEZ0S3NyRzYzZDhJcnFkcElJVUh6VWlIWWZ3MXpqd3pkTjZBZUdPMkx5TS1G?oc=5"
+          }
+        ],
+        "source": "微博",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMGppTU55TVFkcXN1ZUxwY09UZTdUWnhuMXhGQnN3VGlHVGQ5NVRMem9yNThyZGZ1WnNSVkQxR2hoQXQ3NV9hQ01xWDRjLXpEbVlNWml3?oc=5"
+      },
+      {
+        "slug": "open-source-20260908-auto-2-0bcc21",
+        "title": "从单一Agent到组织智能：iPol",
+        "category": "开源项目",
+        "date": "2026-09-08",
+        "summary": "从单一Agent到组织智能：iPolloWork开源OPC协作平台正式发布 finet.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从单一Agent到组织智能：iPol 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "从单一Agent到组织智能：iPolloWork开源OPC协作平台正式发布 finet.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从单一Agent到组织智能：iPolloWork开源OPC协作平台正式发布 finet.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finet.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMXk1OGpEclRjc3BQX1NJTzdlNWRsSHpDeUlaVXhfWWNkY1BIMEI4SzlRYWZEZ1hUbllCYlNIWmJfNkctM1l5TUhSM21qZi14ek9LSXFYLTVfSnc2N25yX1llSTFDLVd5TVow?oc=5"
+          },
+          {
+            "label": "微博：寒武纪加入PyTorch基金会 成为最高级别白金成员 - 微博",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtMGppTU55TVFkcXN1ZUxwY09UZTdUWnhuMXhGQnN3VGlHVGQ5NVRMem9yNThyZGZ1WnNSVkQxR2hoQXQ3NV9hQ01xWDRjLXpEbVlNWml3?oc=5"
+          },
+          {
+            "label": "Help Net Security：Microsoft’s Project Zenith puts large AI models directly on developer ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLW52X3gzdHJETElKVXRqSmhYV2dJUXRFdE1uQXQ5V19adlh0NTQ3Z2c3YS1YcjlOc2I2LXBkOW14ZEZudXlNUXE0ZUpHTlR6U1NOaE91eml6Y0EzMU83Z0lWWDFyUTVCOEZ0S3NyRzYzZDhJcnFkcElJVUh6VWlIWWZ3MXpqd3pkTjZBZUdPMkx5TS1G?oc=5"
+          }
+        ],
+        "source": "finet.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JMXk1OGpEclRjc3BQX1NJTzdlNWRsSHpDeUlaVXhfWWNkY1BIMEI4SzlRYWZEZ1hUbllCYlNIWmJfNkctM1l5TUhSM21qZi14ek9LSXFYLTVfSnc2N25yX1llSTFDLVd5TVow?oc=5"
+      },
       {
         "slug": "open-source-20260907-auto-1-be2a2e",
         "title": "GPT-6 Astra: A new",
