@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260909-auto-1-bea210",
+        "title": "In Pakistan, Anthr",
+        "category": "AI新闻",
+        "date": "2026-09-09",
+        "summary": "In Pakistan, Anthropic researcher Jacob Coxon says",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "In Pakistan, Anthr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "In Pakistan, Anthropic researcher Jacob Coxon says",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "In Pakistan, Anthropic researcher Jacob Coxon says",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "UA.NEWS：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdIUUZTTFVfOWxpV0Z4SzN3Q0k4UEZreUdZMm9SRlZpMG14V1RTVkc0X1o2dEphN29LdnF0R1JFM0N3WHZ4cjl6NER1SERLOU9ua0stU3lrMXZVVXV0MllucE96aW90SHNfN19hZzE3WW0taEFUZVpLVVBoVkdvM0dYUHluSVZpbGxNZFVSSXV5ZW1RSERfT181bU44RUZVNXZaaWc3TEc5enpidW1EQ3g2TQ?oc=5"
+          },
+          {
+            "label": "Forbes：Anthropic Alignment Lead Warns There’s ‘>10% Chance’ AI Could ‘Kill Al",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5"
+          },
+          {
+            "label": "Dawn：Anthropic researcher resigns, says AI labs are ‘gambling with our live",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0hEWWgwODltd0l6VGhJVDA1RlozdTBvTUpBM0FHdGZHWE9hSllWRWxUSFNJcVdOUm15cTFoZnFWUDN4SklwUkczR3dqR0FQUGhlTzZLcHVGM2plYVN1d0dUb3ZEV0pHRkdEM2RNNXVTMEVNeDR2eDViTjN5eW0teVVXUHpZa1IySzZYd252MGcyN0U1dW9qZnhUTEpFQjUyV185TFFR0gFOQVVfeXFMUDZfVUdnWkd6dVdadk54Wm05VW1Zd1NLOHhETUpld1RJemFOekkyVDZMU3dvOEZRWUZPYjJVSExBaTlReXNHM2s5S2NkX3F3?oc=5"
+          }
+        ],
+        "source": "UA.NEWS",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdIUUZTTFVfOWxpV0Z4SzN3Q0k4UEZreUdZMm9SRlZpMG14V1RTVkc0X1o2dEphN29LdnF0R1JFM0N3WHZ4cjl6NER1SERLOU9ua0stU3lrMXZVVXV0MllucE96aW90SHNfN19hZzE3WW0taEFUZVpLVVBoVkdvM0dYUHluSVZpbGxNZFVSSXV5ZW1RSERfT181bU44RUZVNXZaaWc3TEc5enpidW1EQ3g2TQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260909-auto-2-6914e9",
+        "title": "Anthropic Alignmen",
+        "category": "AI新闻",
+        "date": "2026-09-09",
+        "summary": "Anthropic Alignment Lead Warns There’s ‘>10% Chanc",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic Alignmen 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic Alignment Lead Warns There’s ‘>10% Chanc",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic Alignment Lead Warns There’s ‘>10% Chanc",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Forbes：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5"
+          },
+          {
+            "label": "UA.NEWS：In Pakistan, Anthropic researcher Jacob Coxon says he resigned over AI",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdIUUZTTFVfOWxpV0Z4SzN3Q0k4UEZreUdZMm9SRlZpMG14V1RTVkc0X1o2dEphN29LdnF0R1JFM0N3WHZ4cjl6NER1SERLOU9ua0stU3lrMXZVVXV0MllucE96aW90SHNfN19hZzE3WW0taEFUZVpLVVBoVkdvM0dYUHluSVZpbGxNZFVSSXV5ZW1RSERfT181bU44RUZVNXZaaWc3TEc5enpidW1EQ3g2TQ?oc=5"
+          },
+          {
+            "label": "Dawn：Anthropic researcher resigns, says AI labs are ‘gambling with our live",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0hEWWgwODltd0l6VGhJVDA1RlozdTBvTUpBM0FHdGZHWE9hSllWRWxUSFNJcVdOUm15cTFoZnFWUDN4SklwUkczR3dqR0FQUGhlTzZLcHVGM2plYVN1d0dUb3ZEV0pHRkdEM2RNNXVTMEVNeDR2eDViTjN5eW0teVVXUHpZa1IySzZYd252MGcyN0U1dW9qZnhUTEpFQjUyV185TFFR0gFOQVVfeXFMUDZfVUdnWkd6dVdadk54Wm05VW1Zd1NLOHhETUpld1RJemFOekkyVDZMU3dvOEZRWUZPYjJVSExBaTlReXNHM2s5S2NkX3F3?oc=5"
+          }
+        ],
+        "source": "Forbes",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNGR3VGtaTUx1aGtucjctWGt6WG1FMzRMTVh1TVY5TGVIT2tYSldyaXplWEFGTUdaU0ZFbkVQbG5UVGZ5T2JnVi1rX2ZQRTQ3RHFzWms4WVA1czRmVmhRN09OX0lCR0dVSUxheDQ0T0RDQXYwQUZtS240dHJmaThUczY1SC11QXR4ZFB3Tjg1WFpfakwzRUNPbU9KVmREMEs5czB6NXRrWGNfWEVEdkdHdThlVFhES1RxdThCbGZNV0dEbnFHYjhfQg?oc=5"
+      },
+      {
         "slug": "ai-news-20260908-auto-1-37d996",
         "title": "中兴首款AI智能体手机9月16日上市",
         "category": "AI新闻",
@@ -18611,6 +18727,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260909-auto-1-3242f2",
+        "title": "谷歌称攻击者利用AI智能体在六小时内",
+        "category": "AI使用教程",
+        "date": "2026-09-09",
+        "summary": "谷歌称攻击者利用AI智能体在六小时内窃取大量凭证 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌称攻击者利用AI智能体在六小时内 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "谷歌称攻击者利用AI智能体在六小时内窃取大量凭证 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "谷歌称攻击者利用AI智能体在六小时内窃取大量凭证 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xcnMtSmNDX1IwU1pHRkdfQUZ4TGZzMWtqWjRqWFNPczJMSC1vRHl4cEIwcmlpXzc0aUtzSWR0VTlSVENyQVpIWndueC0yajU3dmlaekVTWTBwT1VIdHNOc2VIdWEtajNMM0xSWjRNWTU?oc=5"
+          },
+          {
+            "label": "至顶网：Adobe试图让Premiere中的AI生成器更加傻瓜化-AI应用 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GQ3J2M3BRRW5NdTRYMnpLdUdrVlVTMmNWY1M4aHN5SGxmUXBKT3lwemg3UUdaSFhxX3dCRW8tQm4zc2JndUFUVWVBdVgwT09nNld0RVJvZTFDMGlCZ2Q3aWhmUVNzUkNkc0dvalhGUQ?oc=5"
+          },
+          {
+            "label": "AIBase：​OpenAI 推出 ChatGPT Images 2.5，延迟砍半并解锁草图微调 - AIBase",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HSi0zc2lmeklFMFpvYkp0WXM2WF9UQm9YOFprb1lLb0RMekhCU0czREFFV0x1SDQ1Vlp4aUNQSFkwTkxVckIyd09FSElaUQ?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xcnMtSmNDX1IwU1pHRkdfQUZ4TGZzMWtqWjRqWFNPczJMSC1vRHl4cEIwcmlpXzc0aUtzSWR0VTlSVENyQVpIWndueC0yajU3dmlaekVTWTBwT1VIdHNOc2VIdWEtajNMM0xSWjRNWTU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260908-auto-1-a6ddad",
         "title": "李飞飞最新访谈：苏格拉底是史上最好的",
         "category": "AI使用教程",
@@ -27339,6 +27513,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260909-auto-1-108f9e",
+        "title": "French Founders of",
+        "category": "开源项目",
+        "date": "2026-09-09",
+        "summary": "French Founders of Hugging Face Live the American",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "French Founders of 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "French Founders of Hugging Face Live the American",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "French Founders of Hugging Face Live the American",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WSJ：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWxhaERjeTRVcmdaU1lUUjN6aEhyLUpMV1NEc0t1eFpGYlZNVmgwbzYxWlVYR1JRd2trMzdWRFFPaVdxYU9Db0lYQnpReG90dFc2eVI5SDltQm5RTy1rWkRWdldneFdTVkhsVmJnQ2FpcnVZcHZvQWw0WlV6SmVyTWtnLUNZd0d6bW9LaWhtR1ZDM25pU1JQQVFjZ2o?oc=5"
+          },
+          {
+            "label": "IT Brief Asia：Open source is powering the next generation of frontier AI - IT Brief ",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZW84dDZGaG1CZzJxcjR4Q0w2ZFpEVWpNR0ZISzdtbDg0M0xzZ0tjUWR5aXFBTFpLSzh4LTdFQW85TmtFT00zd3BXUE93cTNjZWVMS2g3M2p4SlFxalJQMFJHNm5WcVpBZGtMYXV5ZDBUcnAwdlhkMTQwbU9OSS1RWkpSanphTEFZU1M2dGp3?oc=5"
+          },
+          {
+            "label": "中青在线：开源共创，携手迈向Agent-Native新时代 - 中青在线",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRE9TNUhTY2ZSamc5Nk4ta24wLUV3Ylc1X3Q0SjFNM0lWX0FpZVZaSEY5czgwZzJpdlp6alE3RFhSdjFYZlk3R0tBcnBnRHJlc2JuLUtGU2NBYzRNY3RZSFl5SkpoS0pFMDJ1V2Fqb2FUYTl3RC1VTQ?oc=5"
+          }
+        ],
+        "source": "WSJ",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWxhaERjeTRVcmdaU1lUUjN6aEhyLUpMV1NEc0t1eFpGYlZNVmgwbzYxWlVYR1JRd2trMzdWRFFPaVdxYU9Db0lYQnpReG90dFc2eVI5SDltQm5RTy1rWkRWdldneFdTVkhsVmJnQ2FpcnVZcHZvQWw0WlV6SmVyTWtnLUNZd0d6bW9LaWhtR1ZDM25pU1JQQVFjZ2o?oc=5"
+      },
+      {
+        "slug": "open-source-20260909-auto-2-08b048",
+        "title": "Open source is pow",
+        "category": "开源项目",
+        "date": "2026-09-09",
+        "summary": "Open source is powering the next generation of fro",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Open source is pow 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Open source is powering the next generation of fro",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Open source is powering the next generation of fro",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IT Brief Asia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZW84dDZGaG1CZzJxcjR4Q0w2ZFpEVWpNR0ZISzdtbDg0M0xzZ0tjUWR5aXFBTFpLSzh4LTdFQW85TmtFT00zd3BXUE93cTNjZWVMS2g3M2p4SlFxalJQMFJHNm5WcVpBZGtMYXV5ZDBUcnAwdlhkMTQwbU9OSS1RWkpSanphTEFZU1M2dGp3?oc=5"
+          },
+          {
+            "label": "WSJ：French Founders of Hugging Face Live the American Dream - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWxhaERjeTRVcmdaU1lUUjN6aEhyLUpMV1NEc0t1eFpGYlZNVmgwbzYxWlVYR1JRd2trMzdWRFFPaVdxYU9Db0lYQnpReG90dFc2eVI5SDltQm5RTy1rWkRWdldneFdTVkhsVmJnQ2FpcnVZcHZvQWw0WlV6SmVyTWtnLUNZd0d6bW9LaWhtR1ZDM25pU1JQQVFjZ2o?oc=5"
+          },
+          {
+            "label": "中青在线：开源共创，携手迈向Agent-Native新时代 - 中青在线",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aRE9TNUhTY2ZSamc5Nk4ta24wLUV3Ylc1X3Q0SjFNM0lWX0FpZVZaSEY5czgwZzJpdlp6alE3RFhSdjFYZlk3R0tBcnBnRHJlc2JuLUtGU2NBYzRNY3RZSFl5SkpoS0pFMDJ1V2Fqb2FUYTl3RC1VTQ?oc=5"
+          }
+        ],
+        "source": "IT Brief Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZW84dDZGaG1CZzJxcjR4Q0w2ZFpEVWpNR0ZISzdtbDg0M0xzZ0tjUWR5aXFBTFpLSzh4LTdFQW85TmtFT00zd3BXUE93cTNjZWVMS2g3M2p4SlFxalJQMFJHNm5WcVpBZGtMYXV5ZDBUcnAwdlhkMTQwbU9OSS1RWkpSanphTEFZU1M2dGp3?oc=5"
+      },
       {
         "slug": "open-source-20260908-auto-1-49332e",
         "title": "寒武纪加入PyTorch基金会 成为",
