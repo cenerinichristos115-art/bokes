@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260910-auto-1-0a189c",
+        "title": "Anthropic disclose",
+        "category": "AI新闻",
+        "date": "2026-09-10",
+        "summary": "Anthropic discloses 4th AI hacking incident as res",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic disclose 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic discloses 4th AI hacking incident as res",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic discloses 4th AI hacking incident as res",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Al Jazeera：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5"
+          },
+          {
+            "label": "mediaselangor.com：AI治理法案拟本季或明年首季呈国会 - mediaselangor.com",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aVREMzhKdW5WNEFPczNOaVZpY3llNTRHeWRiMmhXdlBDRHdnSW5xY3FDRlJkSTVqX1MxRTB2Tk4yWHhTY2Z1S2pQYUxsR2V6NGE4TWZR?oc=5"
+          },
+          {
+            "label": "观点网：阿里巴巴据悉领投AI初创UniPat 估值25亿美元 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SmZCaGhSMlh6X1FYLTBHTlRWQ0NNOWpBR2NEdDhXQnoxM2pLQTZGb21XV2JKWEM3cV9zbXZHTDdRTi12SjFFZUo0c2xjOGRTejZTSnNvemFpMW0wSzFFT3pB?oc=5"
+          }
+        ],
+        "source": "Al Jazeera",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260910-auto-2-fac80d",
+        "title": "AI治理法案拟本季或明年首季呈国会",
+        "category": "AI新闻",
+        "date": "2026-09-10",
+        "summary": "AI治理法案拟本季或明年首季呈国会 mediaselangor.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI治理法案拟本季或明年首季呈国会 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI治理法案拟本季或明年首季呈国会 mediaselangor.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI治理法案拟本季或明年首季呈国会 mediaselangor.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "mediaselangor.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aVREMzhKdW5WNEFPczNOaVZpY3llNTRHeWRiMmhXdlBDRHdnSW5xY3FDRlJkSTVqX1MxRTB2Tk4yWHhTY2Z1S2pQYUxsR2V6NGE4TWZR?oc=5"
+          },
+          {
+            "label": "Al Jazeera：Anthropic discloses 4th AI hacking incident as researcher quits over s",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVNvS2NCLTIzRG1JMUtKZnd2NGpScTIwVUoyYnlNODUybTMxUGdyeGE5WVFkOWtraTJYNXp2RmhpVVh1S3E4QTZOVkFCOHFtR2FJTFlfc0YzNVVYX1lzOTRyODlEWGxncUJXOVc0MmdsQ19mTkNiRkV0T2kwNUFSRGlnMWhTeTlDWWs1V005Zy11NUNWRUFUVmtHdmdaRld6UmgySjNGY1h2ckRWSEHSAbMBQVVfeXFMUE4xcjB6OEJPZHZrZExQWUZqRU9GZk5zeFBjS0tGeHdWckFUWUpaTkNyRWpMN1VaUXY0bllQbGpvV1BIb01zNUdtdEJxaVRyLUMxSnRTV2RHVWozcVJwUklabkpWYllWTGhrQWpRcUVESmRCZkRCdy11aUlVMEdGdkljejRrS2VIbnQ5cmE2dmYySFdKWDI3dm5zT0tZakp3WVVpUjV6cTNBX2ptamtaLWphNjQ?oc=5"
+          },
+          {
+            "label": "观点网：阿里巴巴据悉领投AI初创UniPat 估值25亿美元 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1SmZCaGhSMlh6X1FYLTBHTlRWQ0NNOWpBR2NEdDhXQnoxM2pLQTZGb21XV2JKWEM3cV9zbXZHTDdRTi12SjFFZUo0c2xjOGRTejZTSnNvemFpMW0wSzFFT3pB?oc=5"
+          }
+        ],
+        "source": "mediaselangor.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45aVREMzhKdW5WNEFPczNOaVZpY3llNTRHeWRiMmhXdlBDRHdnSW5xY3FDRlJkSTVqX1MxRTB2Tk4yWHhTY2Z1S2pQYUxsR2V6NGE4TWZR?oc=5"
+      },
+      {
         "slug": "ai-news-20260909-auto-1-bea210",
         "title": "In Pakistan, Anthr",
         "category": "AI新闻",
@@ -18727,6 +18843,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260910-auto-1-f76dd4",
+        "title": "把厨师放进公园里，AI还是给他穿上了",
+        "category": "AI使用教程",
+        "date": "2026-09-10",
+        "summary": "把厨师放进公园里，AI还是给他穿上了白色厨师服 科技行者",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "把厨师放进公园里，AI还是给他穿上了 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "把厨师放进公园里，AI还是给他穿上了白色厨师服 科技行者",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "把厨师放进公园里，AI还是给他穿上了白色厨师服 科技行者",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "科技行者：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RXzhoX29tZmdiNFpDaXp0T2o4SV9JemRRUHQ2VDAyVHE1Snh2ckRqV1NTNjROREN0cXZhenJmV05USlI1TnJNcFN6TFE2UjlMR09oTUp0NWc0bUVrdjVV?oc=5"
+          },
+          {
+            "label": "OpenAI：GPT-6 Astra: A new generation of intelligence - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "36 Kr：AI图秒变iPhone直出 只需一段提示词 让AI图告别一眼假_精彩视频为您呈现_36氪 - 36 Kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hQWUtSTQ2Ujg3d25CVk45emdWeVoxUVVaV3VQTk5hUzFUUjVBdktxclZJWHpxU1JZamEtdmJtbExDRDAtZmRqa1d2WkcxalQ5TEF6Q3ZB?oc=5"
+          }
+        ],
+        "source": "科技行者",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RXzhoX29tZmdiNFpDaXp0T2o4SV9JemRRUHQ2VDAyVHE1Snh2ckRqV1NTNjROREN0cXZhenJmV05USlI1TnJNcFN6TFE2UjlMR09oTUp0NWc0bUVrdjVV?oc=5"
+      },
+      {
         "slug": "ai-guide-20260909-auto-1-3242f2",
         "title": "谷歌称攻击者利用AI智能体在六小时内",
         "category": "AI使用教程",
@@ -27513,6 +27687,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260910-auto-1-753e07",
+        "title": "GPT-6 Astra: A new",
+        "category": "开源项目",
+        "date": "2026-09-10",
+        "summary": "GPT-6 Astra: A new generation of intelligence Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: A new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra: A new generation of intelligence Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: A new generation of intelligence Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "k.sina.com.cn：重磅！力压Gemini，中国开源全新交互AI模型 - k.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQlpjVVFONlFmWWV5SndTSFRGcmszYVYzVENKemxsM2Q5MzBCMi1GU1BxUHhidlFhVGtzOVVFbzFVRnFxVXVsVXNXaGR6T292SWlDMGs5QnpfQ0VZNGdUUGQtRElyc0k4WlRIeGZwNVV1Z1NFRko0eWpyeUgxdlE?oc=5"
+          },
+          {
+            "label": "Open Source For You：AI Model Targets Financial Electronics - Open Source For You",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWpjcllrdnItOEZMcTVBVW56ZmdnV3hvbU5KREY0RDFQQTVrc0ZzN1l6UE1SeEZLQk1oTDUyMzRFMmVlOEF0QjVLSXZPS1ZpNWNlZEpSYml0YVR0RjZad3FSMWxHZGtjTGpkT1BEbmU0bi11VzlBdDd4OXQwa190bEg5ZTc?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260910-auto-2-d7522f",
+        "title": "重磅！力压Gemini，中国开源全新",
+        "category": "开源项目",
+        "date": "2026-09-10",
+        "summary": "重磅！力压Gemini，中国开源全新交互AI模型 k.sina.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "重磅！力压Gemini，中国开源全新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "重磅！力压Gemini，中国开源全新交互AI模型 k.sina.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "重磅！力压Gemini，中国开源全新交互AI模型 k.sina.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "k.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQlpjVVFONlFmWWV5SndTSFRGcmszYVYzVENKemxsM2Q5MzBCMi1GU1BxUHhidlFhVGtzOVVFbzFVRnFxVXVsVXNXaGR6T292SWlDMGs5QnpfQ0VZNGdUUGQtRElyc0k4WlRIeGZwNVV1Z1NFRko0eWpyeUgxdlE?oc=5"
+          },
+          {
+            "label": "OpenAI：GPT-6 Astra: A new generation of intelligence - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "Open Source For You：AI Model Targets Financial Electronics - Open Source For You",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWpjcllrdnItOEZMcTVBVW56ZmdnV3hvbU5KREY0RDFQQTVrc0ZzN1l6UE1SeEZLQk1oTDUyMzRFMmVlOEF0QjVLSXZPS1ZpNWNlZEpSYml0YVR0RjZad3FSMWxHZGtjTGpkT1BEbmU0bi11VzlBdDd4OXQwa190bEg5ZTc?oc=5"
+          }
+        ],
+        "source": "k.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQlpjVVFONlFmWWV5SndTSFRGcmszYVYzVENKemxsM2Q5MzBCMi1GU1BxUHhidlFhVGtzOVVFbzFVRnFxVXVsVXNXaGR6T292SWlDMGs5QnpfQ0VZNGdUUGQtRElyc0k4WlRIeGZwNVV1Z1NFRko0eWpyeUgxdlE?oc=5"
+      },
       {
         "slug": "open-source-20260909-auto-1-108f9e",
         "title": "French Founders of",
