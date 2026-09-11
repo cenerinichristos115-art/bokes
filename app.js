@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260911-auto-1-26dfc1",
+        "title": "How Yemeni rebels",
+        "category": "AI新闻",
+        "date": "2026-09-11",
+        "summary": "How Yemeni rebels used Anthropic's AI software to",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How Yemeni rebels 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How Yemeni rebels used Anthropic's AI software to",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How Yemeni rebels used Anthropic's AI software to",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "thenationalnews.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYWlhUFFxSHN2UnIyYndrQ1pNWGIwdDRmUmJRVW9yNVhjSU9RZFVvRWdScHJQOUNFWVp3Uy1nd3N5ZE1BamdNRWxmSE53b2wzQWdTT3NHUTEwZWxkVVp2LXc1QU9WbHBZcGI5VkdIOXJFMlR1eHU4WnBKTHRJcy1JU2Y1c2FxYzdIQmstMFp1Ukh3ZFRibVlydGFkS2lSN2VQSFBqdWNTdkV4QUxqQXlyaTh1TjFpQVhlNHhtTmlCUWF1MWFCUWxWQUhCLVJtOUU?oc=5"
+          },
+          {
+            "label": "CounterPunch.org：Artificial Intelligence: Myth and Danger - CounterPunch.org",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVC1wY2pOUTJrTEUydjd0NGZadzRoMm5fdWh1aU0ydGdabzhTLTlicWE5S3dzMV9qR0xQaUl4Z2FEUV94ZXg3MzFVOGRqalMzTGFtYVFjeWVoNWRmOWpwN0tVSGpCanNJZ0tVRGl3d1RMR3F6YVAtSEt2cDRWN0x5bXczZTRnU0E?oc=5"
+          },
+          {
+            "label": "Modern Diplomacy：Could AI Pose an Existential Threat as US Lawmakers Push for New Rules",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEhyYnNVX3JBS1BfQ25MOG5oS0pIWXUtVmVGMDhhT21kUUQwTXVDOEZCZ1FybGszbXc0YVlmdUx0alIxdlJHWWlRSGxldGtJNHlfOXBBVUQwY1VoTFJ3OGxscWlwRXdzTHlWUXROWlE2QzRxb1dlY2FnbWhMbzdrX1k5NVFKQmI2VVlIcGRYZ0dRUW9pYUVSNVA0VE55MVJtT0staEZhT3JoX3ZhTkE?oc=5"
+          }
+        ],
+        "source": "thenationalnews.com",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYWlhUFFxSHN2UnIyYndrQ1pNWGIwdDRmUmJRVW9yNVhjSU9RZFVvRWdScHJQOUNFWVp3Uy1nd3N5ZE1BamdNRWxmSE53b2wzQWdTT3NHUTEwZWxkVVp2LXc1QU9WbHBZcGI5VkdIOXJFMlR1eHU4WnBKTHRJcy1JU2Y1c2FxYzdIQmstMFp1Ukh3ZFRibVlydGFkS2lSN2VQSFBqdWNTdkV4QUxqQXlyaTh1TjFpQVhlNHhtTmlCUWF1MWFCUWxWQUhCLVJtOUU?oc=5"
+      },
+      {
+        "slug": "ai-news-20260911-auto-2-89afa0",
+        "title": "Artificial Intelli",
+        "category": "AI新闻",
+        "date": "2026-09-11",
+        "summary": "Artificial Intelligence: Myth and Danger CounterPu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial Intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Artificial Intelligence: Myth and Danger CounterPu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial Intelligence: Myth and Danger CounterPu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CounterPunch.org：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVC1wY2pOUTJrTEUydjd0NGZadzRoMm5fdWh1aU0ydGdabzhTLTlicWE5S3dzMV9qR0xQaUl4Z2FEUV94ZXg3MzFVOGRqalMzTGFtYVFjeWVoNWRmOWpwN0tVSGpCanNJZ0tVRGl3d1RMR3F6YVAtSEt2cDRWN0x5bXczZTRnU0E?oc=5"
+          },
+          {
+            "label": "thenationalnews.com：How Yemeni rebels used Anthropic's AI software to design and build gui",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYWlhUFFxSHN2UnIyYndrQ1pNWGIwdDRmUmJRVW9yNVhjSU9RZFVvRWdScHJQOUNFWVp3Uy1nd3N5ZE1BamdNRWxmSE53b2wzQWdTT3NHUTEwZWxkVVp2LXc1QU9WbHBZcGI5VkdIOXJFMlR1eHU4WnBKTHRJcy1JU2Y1c2FxYzdIQmstMFp1Ukh3ZFRibVlydGFkS2lSN2VQSFBqdWNTdkV4QUxqQXlyaTh1TjFpQVhlNHhtTmlCUWF1MWFCUWxWQUhCLVJtOUU?oc=5"
+          },
+          {
+            "label": "Modern Diplomacy：Could AI Pose an Existential Threat as US Lawmakers Push for New Rules",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEhyYnNVX3JBS1BfQ25MOG5oS0pIWXUtVmVGMDhhT21kUUQwTXVDOEZCZ1FybGszbXc0YVlmdUx0alIxdlJHWWlRSGxldGtJNHlfOXBBVUQwY1VoTFJ3OGxscWlwRXdzTHlWUXROWlE2QzRxb1dlY2FnbWhMbzdrX1k5NVFKQmI2VVlIcGRYZ0dRUW9pYUVSNVA0VE55MVJtT0staEZhT3JoX3ZhTkE?oc=5"
+          }
+        ],
+        "source": "CounterPunch.org",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVC1wY2pOUTJrTEUydjd0NGZadzRoMm5fdWh1aU0ydGdabzhTLTlicWE5S3dzMV9qR0xQaUl4Z2FEUV94ZXg3MzFVOGRqalMzTGFtYVFjeWVoNWRmOWpwN0tVSGpCanNJZ0tVRGl3d1RMR3F6YVAtSEt2cDRWN0x5bXczZTRnU0E?oc=5"
+      },
+      {
         "slug": "ai-news-20260910-auto-1-0a189c",
         "title": "Anthropic disclose",
         "category": "AI新闻",
@@ -18843,6 +18959,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260911-auto-1-b84c05",
+        "title": "GPT-6 Astra: A new",
+        "category": "AI使用教程",
+        "date": "2026-09-11",
+        "summary": "GPT-6 Astra: A new generation of intelligence Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: A new 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra: A new generation of intelligence Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: A new generation of intelligence Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+          },
+          {
+            "label": "HackerNoon：The End of Prompt-and-Hope AI Development - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80d3R6VTN5UzVETU9ic2R0ZDlPRk5Pd3FWYk4xR1h3c2RiQU8zaUFvNnFBcDFhXzdYVFkzY1ZfUHhrWWRpYVR4dTQ4enhISUNGQXBuMDBpWXBPUzcyQnE4Zk50NldrQW5pWXM1bTNHWXdJQQ?oc=5"
+          },
+          {
+            "label": "温州新闻：小偷竟找AI当“军师”？离谱操作没能逃过法网 - 温州新闻",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16SFAtclVQVlE4a0dSQTgtWWhiRmNDWGZRcUxQWUZ5cmZKeGRLVDc4Y3lSMEstNUd2LUtwdVl3VUduM2lqNkxJWE94ZjJYS2Q0YjNpRWE2M3VGSl84N0YtUkt1bzdCZw?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260910-auto-1-f76dd4",
         "title": "把厨师放进公园里，AI还是给他穿上了",
         "category": "AI使用教程",
@@ -27687,6 +27861,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260911-auto-1-976b4b",
+        "title": "How big is the ope",
+        "category": "开源项目",
+        "date": "2026-09-11",
+        "summary": "How big is the open-model threat to AI hyperscaler",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How big is the ope 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How big is the open-model threat to AI hyperscaler",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How big is the open-model threat to AI hyperscaler",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ft.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOFlzbVlVbUFRV19icThTZDA5bXdWNXVUbFFIbWFOOENXS2MzOU5OWlVDbjRaQ29zNXVCaDlPNllWdWpxS3VMT29vcmlZTmZpT1JoZktJNTJpd1MwYlV6VXJmMVJiUGdaRDJQWVVvRDA?oc=5"
+          },
+          {
+            "label": "Bitcoin Sistemi：Zcash Price Prediction 2026: Can ZEC Reach $2,200 After 2,000% Rally a",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUE5VSE9XT3pZVWhhX196TVZvWmd1M3hqZmhIdDBhbGg5Sk5SOWlXM1VSNVRMMXpYQXJmbDR0d0dScjBKQ3hsZy15U3UxcTNFYmd1aWhiR0tsUUlJeDhFb1ZOeGtRSG5CdzlvN1k4VDVkSEFyLUF0WEh2MDRyT0gzZU5wdUlYTmI4R05PeXR5eWtkeWJ1R3ljbFRCZlVJWExuYjhUWkIzQmkyOVN5aS1XREpEcTB1LXdjZVZpWDNTdkEyWjhCdGpOV3BDYw?oc=5"
+          },
+          {
+            "label": "Bitcoin Sistemi：Best Memecoin To Buy Right Now: USELESS Jumps Over 500% in a Month as ",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGNyZzNqNEE2ZVVvZUpJOWVwdFBaRHZfTWdyUkdGcVU2SDdPbW9vUHJKUjdRVVk1S2xGSVc5M1UzaEVzU0dfNHJON3NUTjc1OTkycGxwVFNhR21RS0F4U1cycEJEeXdNUHpqd1Q2T3hFWm9jdmxYaTZFWVEtV0hnQ2xIcWVHTXY2c3RsSHo1bWVBQmhjeXJWTmxiNlRGRXZ4ellrR1lyTmQ2U2lrNkJPNXUzOXZRQWpZNUNFdVFrUjlOSHVjM0xLaWRxUVNjZTZndHhublJiaHRWSjBXZVE?oc=5"
+          }
+        ],
+        "source": "ft.com",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOFlzbVlVbUFRV19icThTZDA5bXdWNXVUbFFIbWFOOENXS2MzOU5OWlVDbjRaQ29zNXVCaDlPNllWdWpxS3VMT29vcmlZTmZpT1JoZktJNTJpd1MwYlV6VXJmMVJiUGdaRDJQWVVvRDA?oc=5"
+      },
+      {
+        "slug": "open-source-20260911-auto-2-4f7f39",
+        "title": "Zcash Price Predic",
+        "category": "开源项目",
+        "date": "2026-09-11",
+        "summary": "Zcash Price Prediction 2026: Can ZEC Reach $2,200",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Zcash Price Predic 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Zcash Price Prediction 2026: Can ZEC Reach $2,200",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Zcash Price Prediction 2026: Can ZEC Reach $2,200",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Bitcoin Sistemi：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUE5VSE9XT3pZVWhhX196TVZvWmd1M3hqZmhIdDBhbGg5Sk5SOWlXM1VSNVRMMXpYQXJmbDR0d0dScjBKQ3hsZy15U3UxcTNFYmd1aWhiR0tsUUlJeDhFb1ZOeGtRSG5CdzlvN1k4VDVkSEFyLUF0WEh2MDRyT0gzZU5wdUlYTmI4R05PeXR5eWtkeWJ1R3ljbFRCZlVJWExuYjhUWkIzQmkyOVN5aS1XREpEcTB1LXdjZVZpWDNTdkEyWjhCdGpOV3BDYw?oc=5"
+          },
+          {
+            "label": "ft.com：How big is the open-model threat to AI hyperscalers? - ft.com",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tOFlzbVlVbUFRV19icThTZDA5bXdWNXVUbFFIbWFOOENXS2MzOU5OWlVDbjRaQ29zNXVCaDlPNllWdWpxS3VMT29vcmlZTmZpT1JoZktJNTJpd1MwYlV6VXJmMVJiUGdaRDJQWVVvRDA?oc=5"
+          },
+          {
+            "label": "Bitcoin Sistemi：Best Memecoin To Buy Right Now: USELESS Jumps Over 500% in a Month as ",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGNyZzNqNEE2ZVVvZUpJOWVwdFBaRHZfTWdyUkdGcVU2SDdPbW9vUHJKUjdRVVk1S2xGSVc5M1UzaEVzU0dfNHJON3NUTjc1OTkycGxwVFNhR21RS0F4U1cycEJEeXdNUHpqd1Q2T3hFWm9jdmxYaTZFWVEtV0hnQ2xIcWVHTXY2c3RsSHo1bWVBQmhjeXJWTmxiNlRGRXZ4ellrR1lyTmQ2U2lrNkJPNXUzOXZRQWpZNUNFdVFrUjlOSHVjM0xLaWRxUVNjZTZndHhublJiaHRWSjBXZVE?oc=5"
+          }
+        ],
+        "source": "Bitcoin Sistemi",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUE5VSE9XT3pZVWhhX196TVZvWmd1M3hqZmhIdDBhbGg5Sk5SOWlXM1VSNVRMMXpYQXJmbDR0d0dScjBKQ3hsZy15U3UxcTNFYmd1aWhiR0tsUUlJeDhFb1ZOeGtRSG5CdzlvN1k4VDVkSEFyLUF0WEh2MDRyT0gzZU5wdUlYTmI4R05PeXR5eWtkeWJ1R3ljbFRCZlVJWExuYjhUWkIzQmkyOVN5aS1XREpEcTB1LXdjZVZpWDNTdkEyWjhCdGpOV3BDYw?oc=5"
+      },
       {
         "slug": "open-source-20260910-auto-1-753e07",
         "title": "GPT-6 Astra: A new",
