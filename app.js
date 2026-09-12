@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260912-auto-1-2f33e8",
+        "title": "北京通管局召开人工智能企业座谈会 部",
+        "category": "AI新闻",
+        "date": "2026-09-12",
+        "summary": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "北京通管局召开人工智能企业座谈会 部 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDJTeU9Gbm9qazFYWi01RzhMT1V1VUtNMFJWTmc0RWowQmFOOHpIQWdkVGc0aHZjNjkxbmg2VlBfaFdQazhGbFppOGxWclJKVGoyM0VJa2tDVmVvVlJnZTdBWG5QSEtfangtS1NLLWt4UnB4bkoyUi1zOU1ENXdnNVNEUFpTblo5?oc=5"
+          },
+          {
+            "label": "Sohu：#其它# 人工智能的“口粮”从哪来？算电协同助力新型能源体系建设 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McHlySUhHM0JnanVVbWlPZDJ1dUUwNFZ2ZktqRjg5S3c3M3lRdFJRdklSbEN2U1BFMUVrekQybHJvdmQ2b0FWS3N3OTg5QmNVc0lIWlNYX21WTFl3UmI2cHF3SFRvV1E?oc=5"
+          },
+          {
+            "label": "The Guardian：Can chatbots feel – or even dream? Meet the man leading the fight for ",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGdCaXFTWE9yaTBwa2loWGU2c2JiSHRoUXJZSURLUmJHRmtmMDh2VlNRQXRLZTQzYVl2RkM4Y2hxem5vbWcxN3VDN0gyb2FjUnluR24tTHZGZ1RpNGNDZGh2RmY3b1JXa2J2NmpRaE43cEZqLV9maEdzS1dfSy04cnJrU2liRjFFaGEtUV9rWEY1OFluanVFZ3N5anBPRXRISjllZUNGSk9hck5uRzZoQzJhSjRvcV8zS1hacWdXbExsb1hUMmc?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDJTeU9Gbm9qazFYWi01RzhMT1V1VUtNMFJWTmc0RWowQmFOOHpIQWdkVGc0aHZjNjkxbmg2VlBfaFdQazhGbFppOGxWclJKVGoyM0VJa2tDVmVvVlJnZTdBWG5QSEtfangtS1NLLWt4UnB4bkoyUi1zOU1ENXdnNVNEUFpTblo5?oc=5"
+      },
+      {
+        "slug": "ai-news-20260912-auto-2-e1284e",
+        "title": "#其它# 人工智能的“口粮”从哪来？",
+        "category": "AI新闻",
+        "date": "2026-09-12",
+        "summary": "#其它# 人工智能的“口粮”从哪来？算电协同助力新型能源体系建设 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "#其它# 人工智能的“口粮”从哪来？ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "#其它# 人工智能的“口粮”从哪来？算电协同助力新型能源体系建设 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "#其它# 人工智能的“口粮”从哪来？算电协同助力新型能源体系建设 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McHlySUhHM0JnanVVbWlPZDJ1dUUwNFZ2ZktqRjg5S3c3M3lRdFJRdklSbEN2U1BFMUVrekQybHJvdmQ2b0FWS3N3OTg5QmNVc0lIWlNYX21WTFl3UmI2cHF3SFRvV1E?oc=5"
+          },
+          {
+            "label": "Sohu：北京通管局召开人工智能企业座谈会 部署融合创新发展 北京通管局召开人工智能企业座谈会 部署融合创新发展*北京市通信管理局近日召开人工智能企业",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDJTeU9Gbm9qazFYWi01RzhMT1V1VUtNMFJWTmc0RWowQmFOOHpIQWdkVGc0aHZjNjkxbmg2VlBfaFdQazhGbFppOGxWclJKVGoyM0VJa2tDVmVvVlJnZTdBWG5QSEtfangtS1NLLWt4UnB4bkoyUi1zOU1ENXdnNVNEUFpTblo5?oc=5"
+          },
+          {
+            "label": "The Guardian：Can chatbots feel – or even dream? Meet the man leading the fight for ",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGdCaXFTWE9yaTBwa2loWGU2c2JiSHRoUXJZSURLUmJHRmtmMDh2VlNRQXRLZTQzYVl2RkM4Y2hxem5vbWcxN3VDN0gyb2FjUnluR24tTHZGZ1RpNGNDZGh2RmY3b1JXa2J2NmpRaE43cEZqLV9maEdzS1dfSy04cnJrU2liRjFFaGEtUV9rWEY1OFluanVFZ3N5anBPRXRISjllZUNGSk9hck5uRzZoQzJhSjRvcV8zS1hacWdXbExsb1hUMmc?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5McHlySUhHM0JnanVVbWlPZDJ1dUUwNFZ2ZktqRjg5S3c3M3lRdFJRdklSbEN2U1BFMUVrekQybHJvdmQ2b0FWS3N3OTg5QmNVc0lIWlNYX21WTFl3UmI2cHF3SFRvV1E?oc=5"
+      },
+      {
         "slug": "ai-news-20260911-auto-1-26dfc1",
         "title": "How Yemeni rebels",
         "category": "AI新闻",
@@ -18959,6 +19075,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260912-auto-1-c38819",
+        "title": "Arm的“统一平台”与“多种选择”：",
+        "category": "AI使用教程",
+        "date": "2026-09-12",
+        "summary": "Arm的“统一平台”与“多种选择”：智能体AI时代，如何押注中国生态 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Arm的“统一平台”与“多种选择”： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Arm的“统一平台”与“多种选择”：智能体AI时代，如何押注中国生态 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Arm的“统一平台”与“多种选择”：智能体AI时代，如何押注中国生态 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKbU5Dc3J3SEZiejQ2YTJPZ2lCYzlram5BMl82N2VzU21XQ05uZnpfYlZLYVJ3UnZWenV3a0lleXRCRGV5T3I0Zl9EbzBXUWpKN3RwMnpmNUxPZndLM25zdW83Sl9IQ0VpTG8zMzRnRkUyQlRXMHFrVQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hVWNoZ3F4Tkkydk1rdk55T0RfSjVTNHJucldDTzUwSG5KY3ZnOHpUZWN3andjX2xVNTYxMnBLUVA1UmM3SGM2QkllZGNKWXdIeVR6MHNqR3NFdW1maUE?oc=5"
+          },
+          {
+            "label": "Thomson Reuters Legal Solutions：Intro to writing effective AI legal prompts - Thomson Reuters Legal So",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FeGNoenctdGFjUHppbHMzU3hmUmpJajEwcElfWnZfY2s3ZS1OYzdEZWh2aXppRXNNWGp6aGtFeFYxcDIxbTk3dFJBQTY1cUZEQmpnb2YwcWNfX09Ud0VFTzQzS1l6ajN6aVNBV2lJRDNFd0VhLTVNVDh4cDIzUQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKbU5Dc3J3SEZiejQ2YTJPZ2lCYzlram5BMl82N2VzU21XQ05uZnpfYlZLYVJ3UnZWenV3a0lleXRCRGV5T3I0Zl9EbzBXUWpKN3RwMnpmNUxPZndLM25zdW83Sl9IQ0VpTG8zMzRnRkUyQlRXMHFrVQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260911-auto-1-b84c05",
         "title": "GPT-6 Astra: A new",
         "category": "AI使用教程",
@@ -27861,6 +28035,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260912-auto-1-73d3c2",
+        "title": "AI: Nvidia Buys Hu",
+        "category": "开源项目",
+        "date": "2026-09-12",
+        "summary": "AI: Nvidia Buys Hugging Face, $1T+ Compute Race, ‘",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: Nvidia Buys Hu 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI: Nvidia Buys Hugging Face, $1T+ Compute Race, ‘",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: Nvidia Buys Hugging Face, $1T+ Compute Race, ‘",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmxZWFlKdGNmaVBUM0ZqcGdpbDZ3SklrT2dyUnJJbjFvSEMtaE4xcW5rMDcxVEg0SGltMUhTUmJINnc2cld6V21mekFrVmJUYWY0ZF92ZjNjUHgtd2h1a2VtQ2JORFUxUUFTWUNIT0taTk1iTzVvTHZEdVR6Zjl0Ng?oc=5"
+          },
+          {
+            "label": "OpenAI：GPT-6 Astra: The next generation in intelligence for work - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：Sacks: Anthropic Whistleblower Is a \"Doomer Psyop\" to Kill Open Source",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybFNDdUxiNVZ5ZF81b0FLdkZwa2N4Mm43RllORjZHVVh0WnFNcU1MMGpDUVdnX1FyQUYyWFhwNVdjR2x4UmNzSjl1RjY4bS1TSVlTbjc3b1RLRzQ?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmxZWFlKdGNmaVBUM0ZqcGdpbDZ3SklrT2dyUnJJbjFvSEMtaE4xcW5rMDcxVEg0SGltMUhTUmJINnc2cld6V21mekFrVmJUYWY0ZF92ZjNjUHgtd2h1a2VtQ2JORFUxUUFTWUNIT0taTk1iTzVvTHZEdVR6Zjl0Ng?oc=5"
+      },
+      {
+        "slug": "open-source-20260912-auto-2-59487f",
+        "title": "GPT-6 Astra: The n",
+        "category": "开源项目",
+        "date": "2026-09-12",
+        "summary": "GPT-6 Astra: The next generation in intelligence f",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: The n 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GPT-6 Astra: The next generation in intelligence f",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: The next generation in intelligence f",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: Nvidia Buys Hugging Face, $1T+ Compute Race, ‘Alien Mind’, & More.",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWmxZWFlKdGNmaVBUM0ZqcGdpbDZ3SklrT2dyUnJJbjFvSEMtaE4xcW5rMDcxVEg0SGltMUhTUmJINnc2cld6V21mekFrVmJUYWY0ZF92ZjNjUHgtd2h1a2VtQ2JORFUxUUFTWUNIT0taTk1iTzVvTHZEdVR6Zjl0Ng?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：Sacks: Anthropic Whistleblower Is a \"Doomer Psyop\" to Kill Open Source",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybFNDdUxiNVZ5ZF81b0FLdkZwa2N4Mm43RllORjZHVVh0WnFNcU1MMGpDUVdnX1FyQUYyWFhwNVdjR2x4UmNzSjl1RjY4bS1TSVlTbjc3b1RLRzQ?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+      },
       {
         "slug": "open-source-20260911-auto-1-976b4b",
         "title": "How big is the ope",
