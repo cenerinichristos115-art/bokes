@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260913-auto-1-6ada62",
+        "title": "开辟改革试验空间，北京海淀自贸联动发",
+        "category": "AI新闻",
+        "date": "2026-09-13",
+        "summary": "开辟改革试验空间，北京海淀自贸联动发展区启动建设 sohu.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开辟改革试验空间，北京海淀自贸联动发 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "开辟改革试验空间，北京海淀自贸联动发展区启动建设 sohu.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开辟改革试验空间，北京海淀自贸联动发展区启动建设 sohu.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "sohu.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fT1Y5T0U2UERHeWNMQVpzeV9uS0htRTFacktaSHpOZmp6emplZkttSFlQUDU0LU01eWNjVzUwSnZzaWNwTzFnT1d4UmNmVUJQOEE?oc=5"
+          },
+          {
+            "label": "华龙网：多起AI失控事件后，OpenAI CEO最新发声：2026年不会上市，将推迟到明年，或放缓AI开发 - 华龙网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sOGtBNVZBcGtHZnhEdDVYRWhZRVVPNExlem1yVkh1N1VPZ21zYU1wbUV5Xzc3NGhadDlnTFZWNlEwNlF5Q0RoUlpxejE1SmswZWlycmZxQVdDSm1GQmxtUHNZU1pyeGtmWm5V?oc=5"
+          },
+          {
+            "label": "The Motley Fool：C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelli",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
+          }
+        ],
+        "source": "sohu.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fT1Y5T0U2UERHeWNMQVpzeV9uS0htRTFacktaSHpOZmp6emplZkttSFlQUDU0LU01eWNjVzUwSnZzaWNwTzFnT1d4UmNmVUJQOEE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260913-auto-2-d2da6d",
+        "title": "多起AI失控事件后，OpenAI C",
+        "category": "AI新闻",
+        "date": "2026-09-13",
+        "summary": "多起AI失控事件后，OpenAI CEO最新发声：2026年不会上市，将推迟到明年，或放缓AI开发",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "多起AI失控事件后，OpenAI C 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "多起AI失控事件后，OpenAI CEO最新发声：2026年不会上市，将推迟到明年，或放缓AI开发",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "多起AI失控事件后，OpenAI CEO最新发声：2026年不会上市，将推迟到明年，或放缓AI开发",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华龙网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sOGtBNVZBcGtHZnhEdDVYRWhZRVVPNExlem1yVkh1N1VPZ21zYU1wbUV5Xzc3NGhadDlnTFZWNlEwNlF5Q0RoUlpxejE1SmswZWlycmZxQVdDSm1GQmxtUHNZU1pyeGtmWm5V?oc=5"
+          },
+          {
+            "label": "sohu.com：开辟改革试验空间，北京海淀自贸联动发展区启动建设 - sohu.com",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fT1Y5T0U2UERHeWNMQVpzeV9uS0htRTFacktaSHpOZmp6emplZkttSFlQUDU0LU01eWNjVzUwSnZzaWNwTzFnT1d4UmNmVUJQOEE?oc=5"
+          },
+          {
+            "label": "The Motley Fool：C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelli",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
+          }
+        ],
+        "source": "华龙网",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sOGtBNVZBcGtHZnhEdDVYRWhZRVVPNExlem1yVkh1N1VPZ21zYU1wbUV5Xzc3NGhadDlnTFZWNlEwNlF5Q0RoUlpxejE1SmswZWlycmZxQVdDSm1GQmxtUHNZU1pyeGtmWm5V?oc=5"
+      },
+      {
         "slug": "ai-news-20260912-auto-1-2f33e8",
         "title": "北京通管局召开人工智能企业座谈会 部",
         "category": "AI新闻",
@@ -19075,6 +19191,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260913-auto-1-f66000",
+        "title": "2人3天3万制作爆款短剧,AI生成特",
+        "category": "AI使用教程",
+        "date": "2026-09-13",
+        "summary": "2人3天3万制作爆款短剧,AI生成特效仅需30秒提示词 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "2人3天3万制作爆款短剧,AI生成特 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2人3天3万制作爆款短剧,AI生成特效仅需30秒提示词 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "2人3天3万制作爆款短剧,AI生成特效仅需30秒提示词 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2QUM3eFAtY3dLeEtsVFlRaVN1ZU5BZHpLOE1TTDJZUWdKc0lpOEZnTnFnQ3FBUjZubFJBVmdpakJUNkxDdE9OQ0kzT2FEZGFyUTU5ZjR0TVpjcHg2NkJUaVl5a0NLQ0JPaXdIdDZsRUFkZw?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "爱范儿：500 万人围观，AI 终于造出了「无限泔水机」 - 爱范儿",
+            "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8tZi10cU1YVHRiblFPSU9CTGxaMHUxQnduX1V3dTNHR0ZIaWo5dnJDLTgxTXFaVnEzQjlOVlpWWlBkM00?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2QUM3eFAtY3dLeEtsVFlRaVN1ZU5BZHpLOE1TTDJZUWdKc0lpOEZnTnFnQ3FBUjZubFJBVmdpakJUNkxDdE9OQ0kzT2FEZGFyUTU5ZjR0TVpjcHg2NkJUaVl5a0NLQ0JPaXdIdDZsRUFkZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260912-auto-1-c38819",
         "title": "Arm的“统一平台”与“多种选择”：",
         "category": "AI使用教程",
@@ -28035,6 +28209,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260913-auto-1-b1fd1e",
+        "title": "GPT-6 Astra: The n",
+        "category": "开源项目",
+        "date": "2026-09-13",
+        "summary": "GPT-6 Astra: The next generation in intelligence f",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra: The n 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra: The next generation in intelligence f",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra: The next generation in intelligence f",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+          },
+          {
+            "label": "finance.biggo.com：Anthropic Calls for Crackdown on Illegal Distillation by China; Y Comb",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZGFzVlFJanRCQmxjWnZxNzNnM0JLXzlraVpFVlQ5RWVBLTI4WF9fanpKa1d3SXBCek1sbVpCVXVtdVFMTG9lcXdRbzM1ci1PYWVrb0xvb2ZEUS1pcU9nRktnVWpEVEpJeXdyd2hoUFNmaV8tUHc?oc=5"
+          },
+          {
+            "label": "ИФЗ РАН：Why Nvidia Just Bought Hugging Face For 13 Billion Dollars - ИФЗ РАН",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93d1JlOGtFel80aEFrMWkzVzZSdWJDY0lUeHEzMjNhT0k2eFVxSWNGS0Mtc05pVFNQb3NvVjB2N0o1WHR5OUtlaWtYZm5JYUVNcDZkS2tRNHFXX0daNU5udUQtVWV0bnFTRmRIOXNqRkc4cUh1cHc0UzlR?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+      },
+      {
+        "slug": "open-source-20260913-auto-2-0999f3",
+        "title": "Anthropic Calls fo",
+        "category": "开源项目",
+        "date": "2026-09-13",
+        "summary": "Anthropic Calls for Crackdown on Illegal Distillat",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic Calls fo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic Calls for Crackdown on Illegal Distillat",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic Calls for Crackdown on Illegal Distillat",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.biggo.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZGFzVlFJanRCQmxjWnZxNzNnM0JLXzlraVpFVlQ5RWVBLTI4WF9fanpKa1d3SXBCek1sbVpCVXVtdVFMTG9lcXdRbzM1ci1PYWVrb0xvb2ZEUS1pcU9nRktnVWpEVEpJeXdyd2hoUFNmaV8tUHc?oc=5"
+          },
+          {
+            "label": "OpenAI：GPT-6 Astra: The next generation in intelligence for work - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5"
+          },
+          {
+            "label": "ИФЗ РАН：Why Nvidia Just Bought Hugging Face For 13 Billion Dollars - ИФЗ РАН",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93d1JlOGtFel80aEFrMWkzVzZSdWJDY0lUeHEzMjNhT0k2eFVxSWNGS0Mtc05pVFNQb3NvVjB2N0o1WHR5OUtlaWtYZm5JYUVNcDZkS2tRNHFXX0daNU5udUQtVWV0bnFTRmRIOXNqRkc4cUh1cHc0UzlR?oc=5"
+          }
+        ],
+        "source": "finance.biggo.com",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HZGFzVlFJanRCQmxjWnZxNzNnM0JLXzlraVpFVlQ5RWVBLTI4WF9fanpKa1d3SXBCek1sbVpCVXVtdVFMTG9lcXdRbzM1ci1PYWVrb0xvb2ZEUS1pcU9nRktnVWpEVEpJeXdyd2hoUFNmaV8tUHc?oc=5"
+      },
       {
         "slug": "open-source-20260912-auto-1-73d3c2",
         "title": "AI: Nvidia Buys Hu",
