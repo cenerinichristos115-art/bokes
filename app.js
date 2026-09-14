@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260914-auto-1-7e429f",
+        "title": "ST银江成立科技新公司，含多项AI相",
+        "category": "AI新闻",
+        "date": "2026-09-14",
+        "summary": "ST银江成立科技新公司，含多项AI相关业务 同花顺",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ST银江成立科技新公司，含多项AI相 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "ST银江成立科技新公司，含多项AI相关业务 同花顺",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ST银江成立科技新公司，含多项AI相关业务 同花顺",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "同花顺：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ESE02eUdGY3JBT3JYYXRGQ2dXRTdYNjM5Q0xhUVpVZi00YXFOcEdYUGtxWVBHbExaRGFXZVA4ZEJPMEpNNkhFUEdBdkZUOVFvTGphRWpfLURKX1U0cHc1VVN3?oc=5"
+          },
+          {
+            "label": "The Conversation：Big AI wants to slow down AI research. Is it a safety pause or a strat",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHBjYkI2NGc2SUxyMFJkaXUxSlZwc0xXcGswQ1MwUjJNT0dkMllFSjlFSHlocEFiTUtHdjJjT3RnZmNFUnRDNWxVVk42XzAtcmdmVzRlMzZMeS01V05kM1hOZ1ktNTlXd3BVY2p1SzBfRVNqYUdxVFVKaFlOQUphWVJwVkh2ZXI2ZkFTV1RBVDJyQmU3QW9BMnExODJrbTdOSlhMSlptaGc5QVkzS0w4UnlSQ2V1NlU?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：Obama warns of the repercussions of artificial intelligence and calls ",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSXd3a2gxSFAyZ3NfT0V4UkpjbHluV1lpcWhFdjhpaFZoa3d1OC1fcktYcHI1dE1JY25CX3lCWGpsMTZnbHVNT201WkIxaGc5UTlBWUR4Mi1lYzNSWG5jVV8wcHZxQU1rdFhlYzBGVUJRa1dJQ3N2dmJyQVJ6NHVINUl1VlVuTDFXN1VXaUxSSWRJRExjbXFFT2tXei1PaHU4M2ZqcmNCcTFYS0ZmU0Z6LXloTzZ2WEFvenI0aU1BSDFEbloxak5QRHJicVYyakRMYWMwYS0xeFNTbjhUdHd0Wk1JMDlTR1d6Wi1MdWhHcS1QMHhn?oc=5"
+          }
+        ],
+        "source": "同花顺",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ESE02eUdGY3JBT3JYYXRGQ2dXRTdYNjM5Q0xhUVpVZi00YXFOcEdYUGtxWVBHbExaRGFXZVA4ZEJPMEpNNkhFUEdBdkZUOVFvTGphRWpfLURKX1U0cHc1VVN3?oc=5"
+      },
+      {
+        "slug": "ai-news-20260914-auto-2-517680",
+        "title": "Big AI wants to sl",
+        "category": "AI新闻",
+        "date": "2026-09-14",
+        "summary": "Big AI wants to slow down AI research. Is it a saf",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Big AI wants to sl 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Big AI wants to slow down AI research. Is it a saf",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Big AI wants to slow down AI research. Is it a saf",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Conversation：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHBjYkI2NGc2SUxyMFJkaXUxSlZwc0xXcGswQ1MwUjJNT0dkMllFSjlFSHlocEFiTUtHdjJjT3RnZmNFUnRDNWxVVk42XzAtcmdmVzRlMzZMeS01V05kM1hOZ1ktNTlXd3BVY2p1SzBfRVNqYUdxVFVKaFlOQUphWVJwVkh2ZXI2ZkFTV1RBVDJyQmU3QW9BMnExODJrbTdOSlhMSlptaGc5QVkzS0w4UnlSQ2V1NlU?oc=5"
+          },
+          {
+            "label": "同花顺：ST银江成立科技新公司，含多项AI相关业务 - 同花顺",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ESE02eUdGY3JBT3JYYXRGQ2dXRTdYNjM5Q0xhUVpVZi00YXFOcEdYUGtxWVBHbExaRGFXZVA4ZEJPMEpNNkhFUEdBdkZUOVFvTGphRWpfLURKX1U0cHc1VVN3?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：Obama warns of the repercussions of artificial intelligence and calls ",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSXd3a2gxSFAyZ3NfT0V4UkpjbHluV1lpcWhFdjhpaFZoa3d1OC1fcktYcHI1dE1JY25CX3lCWGpsMTZnbHVNT201WkIxaGc5UTlBWUR4Mi1lYzNSWG5jVV8wcHZxQU1rdFhlYzBGVUJRa1dJQ3N2dmJyQVJ6NHVINUl1VlVuTDFXN1VXaUxSSWRJRExjbXFFT2tXei1PaHU4M2ZqcmNCcTFYS0ZmU0Z6LXloTzZ2WEFvenI0aU1BSDFEbloxak5QRHJicVYyakRMYWMwYS0xeFNTbjhUdHd0Wk1JMDlTR1d6Wi1MdWhHcS1QMHhn?oc=5"
+          }
+        ],
+        "source": "The Conversation",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHBjYkI2NGc2SUxyMFJkaXUxSlZwc0xXcGswQ1MwUjJNT0dkMllFSjlFSHlocEFiTUtHdjJjT3RnZmNFUnRDNWxVVk42XzAtcmdmVzRlMzZMeS01V05kM1hOZ1ktNTlXd3BVY2p1SzBfRVNqYUdxVFVKaFlOQUphWVJwVkh2ZXI2ZkFTV1RBVDJyQmU3QW9BMnExODJrbTdOSlhMSlptaGc5QVkzS0w4UnlSQ2V1NlU?oc=5"
+      },
+      {
         "slug": "ai-news-20260913-auto-1-6ada62",
         "title": "开辟改革试验空间，北京海淀自贸联动发",
         "category": "AI新闻",
@@ -19191,6 +19307,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260914-auto-1-3de1a8",
+        "title": "媒体刊文：高校漫剧专业，且慢 - 新",
+        "category": "AI使用教程",
+        "date": "2026-09-14",
+        "summary": "媒体刊文：高校漫剧专业，且慢 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "媒体刊文：高校漫剧专业，且慢 - 新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "媒体刊文：高校漫剧专业，且慢 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "媒体刊文：高校漫剧专业，且慢 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3NUJFckEwNFZDZlVPRjVVRS1CUldReVA0SFNOUnhUcXVtR2tzQ3ctdUEyOXZkWWlaN19NYnd0WkwtU3V1MmFueXBQUmRtSm9FSUhzdDl1cW5MYjlTS0pKRThFVTVnb21FQ0NvT2VQeG1qTGo0djRpOA?oc=5"
+          },
+          {
+            "label": "新浪网：新浪网· - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PMEpoLW5Ba2FFUFNvaHIzc2lGMXlmbUU0VnRtNmczSU1KSFJjbTVBZ2RJSFo0TFdEdU9oc1FDeFBITkNRV2JXT0lGT2JQdXZFeFVlclRXMXRNdFZmR1NYMm96aw?oc=5"
+          },
+          {
+            "label": "新浪网：北大学姐利用AI 整理大学经验帮新生避坑|北大学姐|skill_新浪新闻 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wNEJ3LU9YbFlvYVVWQW5yWEhEUEpISnpvTmVNLWJfckI5WFMtXzJlQl8wT29DNTAyaldnMDRRUkpIOHMtZlE0d0tWYnFEQ1NFSVd2dXF6YWxZNkVjYWQxdWpyRQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3NUJFckEwNFZDZlVPRjVVRS1CUldReVA0SFNOUnhUcXVtR2tzQ3ctdUEyOXZkWWlaN19NYnd0WkwtU3V1MmFueXBQUmRtSm9FSUhzdDl1cW5MYjlTS0pKRThFVTVnb21FQ0NvT2VQeG1qTGo0djRpOA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260913-auto-1-f66000",
         "title": "2人3天3万制作爆款短剧,AI生成特",
         "category": "AI使用教程",
@@ -28209,6 +28383,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260914-auto-1-fbebde",
+        "title": "‘All Together Now’",
+        "category": "开源项目",
+        "date": "2026-09-14",
+        "summary": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "‘All Together Now’ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "‘All Together Now’ in AI. Anthropic, OpenAI & Elon",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRFBHSTJ1ajhRZEIwanE1QVFWSFZYc3VHQ3h0eWFjN21oMUdDWUFUcGl4Rzl3WENJd01UQ0xuMFg5ejFsc0h1WlR3c1h5X0NEcmk0TjZuVjNsaXhldjEzNEVJMXpTVmc5a0ZKUHdSeDNxa3dUZGdqUA?oc=5"
+          },
+          {
+            "label": "People's Daily Online：Anthropic CEO's China-targeted AI curbs driven by commercial interests",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YRWxPVEZPeUJyb2czRFdlLWZCZ3hLQzA0elZnV05xdkY5aGlYTHdoNFpXd19kOVNTNkEzT0J6N3lfSEh5WjFyQm54d1BXY0tRMXlXNDg2UUNaTW5WQjBCSWdrdw?oc=5"
+          },
+          {
+            "label": "Memeburn：IBM and NASA's New Moon AI Is Really a Data Infrastructure Project - M",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXppNVNici1HWmVIUXAxV2owelRVX2NGeXBZcFZHUmYtclRubmkxcjBpYlZpVDQwS1R5LWsybjhDRHdfUzltdXljWFV3M1RaS1hUandXbGdpY1dhUllrbVNSV2xOUGFmc3VoanZhZ0lUbDZfdVNUZ2VMcHY5SmdNU2tBajdUNEU4em1DRUJWaE8?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRFBHSTJ1ajhRZEIwanE1QVFWSFZYc3VHQ3h0eWFjN21oMUdDWUFUcGl4Rzl3WENJd01UQ0xuMFg5ejFsc0h1WlR3c1h5X0NEcmk0TjZuVjNsaXhldjEzNEVJMXpTVmc5a0ZKUHdSeDNxa3dUZGdqUA?oc=5"
+      },
+      {
+        "slug": "open-source-20260914-auto-2-1ec163",
+        "title": "Anthropic CEO's Ch",
+        "category": "开源项目",
+        "date": "2026-09-14",
+        "summary": "Anthropic CEO's China-targeted AI curbs driven by",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic CEO's Ch 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic CEO's China-targeted AI curbs driven by",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic CEO's China-targeted AI curbs driven by",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "People's Daily Online：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YRWxPVEZPeUJyb2czRFdlLWZCZ3hLQzA0elZnV05xdkY5aGlYTHdoNFpXd19kOVNTNkEzT0J6N3lfSEh5WjFyQm54d1BXY0tRMXlXNDg2UUNaTW5WQjBCSWdrdw?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uRFBHSTJ1ajhRZEIwanE1QVFWSFZYc3VHQ3h0eWFjN21oMUdDWUFUcGl4Rzl3WENJd01UQ0xuMFg5ejFsc0h1WlR3c1h5X0NEcmk0TjZuVjNsaXhldjEzNEVJMXpTVmc5a0ZKUHdSeDNxa3dUZGdqUA?oc=5"
+          },
+          {
+            "label": "Memeburn：IBM and NASA's New Moon AI Is Really a Data Infrastructure Project - M",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXppNVNici1HWmVIUXAxV2owelRVX2NGeXBZcFZHUmYtclRubmkxcjBpYlZpVDQwS1R5LWsybjhDRHdfUzltdXljWFV3M1RaS1hUandXbGdpY1dhUllrbVNSV2xOUGFmc3VoanZhZ0lUbDZfdVNUZ2VMcHY5SmdNU2tBajdUNEU4em1DRUJWaE8?oc=5"
+          }
+        ],
+        "source": "People's Daily Online",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YRWxPVEZPeUJyb2czRFdlLWZCZ3hLQzA0elZnV05xdkY5aGlYTHdoNFpXd19kOVNTNkEzT0J6N3lfSEh5WjFyQm54d1BXY0tRMXlXNDg2UUNaTW5WQjBCSWdrdw?oc=5"
+      },
       {
         "slug": "open-source-20260913-auto-1-b1fd1e",
         "title": "GPT-6 Astra: The n",
