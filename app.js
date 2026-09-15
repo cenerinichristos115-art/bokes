@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260915-auto-1-0bf7e8",
+        "title": "比尔·盖茨：全球无政府做好应对AI准",
+        "category": "AI新闻",
+        "date": "2026-09-15",
+        "summary": "比尔·盖茨：全球无政府做好应对AI准备 中美各有四家机构模型保持最先进水平 观点网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "比尔·盖茨：全球无政府做好应对AI准 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "比尔·盖茨：全球无政府做好应对AI准备 中美各有四家机构模型保持最先进水平 观点网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "比尔·盖茨：全球无政府做好应对AI准备 中美各有四家机构模型保持最先进水平 观点网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "观点网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KeHVTdV94U3VOWG45SEc1ci0zemNHd1V1b2tCcDk5TG1IWTNmZXlFY2hLQVJoZ1QtdUY2bUZOSFotVElUc28xbmRkN3ZwOFJUcEd5Nzd5eFlrUVd1WkFDeWdR?oc=5"
+          },
+          {
+            "label": "WFMZ.com：Local professor shares thoughts on possible regulation of artificial i",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVFFnUC1YaWxSVC1KUm5wUWF6U0pWaUN4cXZKbWxmQ1paR2VtQ0k4S1Q3dHA1YkRjMWNwUzRCY1lLOG5nbzU4ZFRhN2MzM0NWMVNQOTR1ekExNEN5N2dBN1VBaHEzdk03THB5Q1RpdGNVcENMc3FOaHlHOFBKYWlwblhlVkFheE0tUS1XYmtkaWpWdlVJOC1YVWt0bmJyaTFGdUtCTnFZbXRVQ295aFBIeXNFa01MTUlYN3oxZGJaX0FaeUpNMUtOcVhoaHA2V0o5TW5pOUZOejdkVGN4ODliRzlxLWF2bkpSRXNyMVFJVWZGWlNOMUliSVlodXhVekU0SXhWQ0lPVUNZTkJTbGs4bktBM2JzRnNEQ0NhV1FFM2hmemxCZ1dKV3I0bGQtRWNRWHlhVWp6QWR5OS0tUi1UOElZRXZXcFZCeGVHNVI2UTlFV3V3Wkc1eUxIUmtFbU5naTlSLTFPNWoxYTlqcXVpblFjQ3hOWThJOUoxdXQ5QTJidlZLTUtSdkN5d3JJc0RRdVMxN0RxTQ?oc=5"
+          },
+          {
+            "label": "东方财富：特朗普公开致电黄仁勋：AI风险是骗局 数据中心是未来石油！ - 东方财富",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WY0FxU2ZuaHBMYWdCdzJ1NnZkMXc0Z3lPaGVBdTlKV2VHQ3ZodHlOTlFudEZjelkyX1h4VHhwdi1ZWFBNZVBBVVRxTWxsMjdyejJNellJSVBJenloUkx4ag?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KeHVTdV94U3VOWG45SEc1ci0zemNHd1V1b2tCcDk5TG1IWTNmZXlFY2hLQVJoZ1QtdUY2bUZOSFotVElUc28xbmRkN3ZwOFJUcEd5Nzd5eFlrUVd1WkFDeWdR?oc=5"
+      },
+      {
+        "slug": "ai-news-20260915-auto-2-822aa1",
+        "title": "Local professor sh",
+        "category": "AI新闻",
+        "date": "2026-09-15",
+        "summary": "Local professor shares thoughts on possible regula",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Local professor sh 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Local professor shares thoughts on possible regula",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Local professor shares thoughts on possible regula",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WFMZ.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVFFnUC1YaWxSVC1KUm5wUWF6U0pWaUN4cXZKbWxmQ1paR2VtQ0k4S1Q3dHA1YkRjMWNwUzRCY1lLOG5nbzU4ZFRhN2MzM0NWMVNQOTR1ekExNEN5N2dBN1VBaHEzdk03THB5Q1RpdGNVcENMc3FOaHlHOFBKYWlwblhlVkFheE0tUS1XYmtkaWpWdlVJOC1YVWt0bmJyaTFGdUtCTnFZbXRVQ295aFBIeXNFa01MTUlYN3oxZGJaX0FaeUpNMUtOcVhoaHA2V0o5TW5pOUZOejdkVGN4ODliRzlxLWF2bkpSRXNyMVFJVWZGWlNOMUliSVlodXhVekU0SXhWQ0lPVUNZTkJTbGs4bktBM2JzRnNEQ0NhV1FFM2hmemxCZ1dKV3I0bGQtRWNRWHlhVWp6QWR5OS0tUi1UOElZRXZXcFZCeGVHNVI2UTlFV3V3Wkc1eUxIUmtFbU5naTlSLTFPNWoxYTlqcXVpblFjQ3hOWThJOUoxdXQ5QTJidlZLTUtSdkN5d3JJc0RRdVMxN0RxTQ?oc=5"
+          },
+          {
+            "label": "观点网：比尔·盖茨：全球无政府做好应对AI准备 中美各有四家机构模型保持最先进水平 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KeHVTdV94U3VOWG45SEc1ci0zemNHd1V1b2tCcDk5TG1IWTNmZXlFY2hLQVJoZ1QtdUY2bUZOSFotVElUc28xbmRkN3ZwOFJUcEd5Nzd5eFlrUVd1WkFDeWdR?oc=5"
+          },
+          {
+            "label": "东方财富：特朗普公开致电黄仁勋：AI风险是骗局 数据中心是未来石油！ - 东方财富",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WY0FxU2ZuaHBMYWdCdzJ1NnZkMXc0Z3lPaGVBdTlKV2VHQ3ZodHlOTlFudEZjelkyX1h4VHhwdi1ZWFBNZVBBVVRxTWxsMjdyejJNellJSVBJenloUkx4ag?oc=5"
+          }
+        ],
+        "source": "WFMZ.com",
+        "source_url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVFFnUC1YaWxSVC1KUm5wUWF6U0pWaUN4cXZKbWxmQ1paR2VtQ0k4S1Q3dHA1YkRjMWNwUzRCY1lLOG5nbzU4ZFRhN2MzM0NWMVNQOTR1ekExNEN5N2dBN1VBaHEzdk03THB5Q1RpdGNVcENMc3FOaHlHOFBKYWlwblhlVkFheE0tUS1XYmtkaWpWdlVJOC1YVWt0bmJyaTFGdUtCTnFZbXRVQ295aFBIeXNFa01MTUlYN3oxZGJaX0FaeUpNMUtOcVhoaHA2V0o5TW5pOUZOejdkVGN4ODliRzlxLWF2bkpSRXNyMVFJVWZGWlNOMUliSVlodXhVekU0SXhWQ0lPVUNZTkJTbGs4bktBM2JzRnNEQ0NhV1FFM2hmemxCZ1dKV3I0bGQtRWNRWHlhVWp6QWR5OS0tUi1UOElZRXZXcFZCeGVHNVI2UTlFV3V3Wkc1eUxIUmtFbU5naTlSLTFPNWoxYTlqcXVpblFjQ3hOWThJOUoxdXQ5QTJidlZLTUtSdkN5d3JJc0RRdVMxN0RxTQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260914-auto-1-7e429f",
         "title": "ST银江成立科技新公司，含多项AI相",
         "category": "AI新闻",
@@ -19307,6 +19423,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260915-auto-1-d5e0ca",
+        "title": "从月入20万到集体停更，AI漫剧“赛",
+        "category": "AI使用教程",
+        "date": "2026-09-15",
+        "summary": "从月入20万到集体停更，AI漫剧“赛博淘金热”怎么凉了？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从月入20万到集体停更，AI漫剧“赛 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从月入20万到集体停更，AI漫剧“赛博淘金热”怎么凉了？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从月入20万到集体停更，AI漫剧“赛博淘金热”怎么凉了？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLW16MUFWaldLaE0wczJIdU9SdkhkaFdPZTdHanpzVU84TVpxZmVYZXJTYTFOc3I1bmVkZDZsaFpyZzZJMTBqSzl2QncwQ2ZmVC05MllFa3RYbU5yNXRDcHRiX2diSXY3bktyMGhLMDhLUFZ3MHM1SU5EVEEybXlMUEUzWFpvTDF1VkotenRPSWNnc3NLVGNSd0NERE5aZ2lXdmNjaUIyQQ?oc=5"
+          },
+          {
+            "label": "金融界：​盯盘这事，交给小金了 - 金融界",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TUDR4SnJXeEp3MEpuMllfSEh0d05tM1FYZXY1YUNkcUQtM0QySG9vTm1oLV9tcnhBSktRbUVGNW9wYU1tSGFScHJiUnpFVDBYaENTcW5DY09EOF9DWElEQlZZMkswRDNkdFREMWV5enZpam1r?oc=5"
+          },
+          {
+            "label": "sohu.com：AI 上天津，河东区这场新媒体充电“满格开课” - sohu.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWpqR3Q0TUdNc1N5cGF3NTJELXZ1cjF3bVl6ZGFoeXU2eTdjSnlIVTVWUDl4dUlsNmxWVV9JQnVfNDZXZ2llRzlDbncybzFjaE15NEw4TnpiQm5taENmVVlHQzhOTnBZdUJVUnM1OEk5dnhaQ3U0a2VidjVnU0NyMW8yU21IQUxPLU9OOA?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLW16MUFWaldLaE0wczJIdU9SdkhkaFdPZTdHanpzVU84TVpxZmVYZXJTYTFOc3I1bmVkZDZsaFpyZzZJMTBqSzl2QncwQ2ZmVC05MllFa3RYbU5yNXRDcHRiX2diSXY3bktyMGhLMDhLUFZ3MHM1SU5EVEEybXlMUEUzWFpvTDF1VkotenRPSWNnc3NLVGNSd0NERE5aZ2lXdmNjaUIyQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260914-auto-1-3de1a8",
         "title": "媒体刊文：高校漫剧专业，且慢 - 新",
         "category": "AI使用教程",
@@ -28383,6 +28557,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260915-auto-1-d7787d",
+        "title": "Hexaware Collabora",
+        "category": "开源项目",
+        "date": "2026-09-15",
+        "summary": "Hexaware Collaborates on Project NANDA Fellowship",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hexaware Collabora 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Hexaware Collaborates on Project NANDA Fellowship",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hexaware Collaborates on Project NANDA Fellowship",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Press Trust of India：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2tPekFzZk5xTm9nMUNVS2dINHpNeUxHbnZOYTdCZDlWWnEzUUwwSEJST1hxWGo4NUJZRkRGVm93RkZXQ0o4VlFKNVJYUE01NEF2NjhFak9Dc2NWeWZVNEVkX2FBZnY4djluZnNEX3J3azQ1NU9ESm55ZU8yamhLVk9KRjVEZXBJR0xXeFNLVnhibnc3VWVyVGwzTlJyRS1kNFhNaEpyWmVJVjI5VHhwaF9rcjRnOTF4aFhzTUNnTm9ZZ2RrU1Fj?oc=5"
+          },
+          {
+            "label": "Free Malaysia Today：How China is preparing for the risk of AI escaping human control - Fre",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGV2X091OXlvWHY0VGZ0Xy1GdmhUQnpEX1dDSVBlVDB4bENOWjhleEY2bHJlOFllVVlkVkRJdzBPZ0ZMT1V0SXYyUVp5UUFoMUZwRVhDa3V0Y2p4UjBOaU1yd2ZHV0x0bHZYTU5wNDRJMnZtcE0wR0Fta29BQzRSWHdJWllRSk15c1g5TzNqcVJYeU5rUjE0dEVodTJROEc1ODJ3VEVKWWJVWXhZODRyU243bXVERDZpZVIwazgyZHpVdw?oc=5"
+          },
+          {
+            "label": "36 Kr：NVIDIA's $12.9 Billion Historic Largest Acquisition Nears Finalization",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00OG9RN1RKeG90ZG5jUWx3QTd1SlpJVEJCVUF0empyQ1o3MFBRUDBFWk1kVFY5dlhfdGRGOGZwZjFWR2pjNjVYaXRZVUJQejNrSF93?oc=5"
+          }
+        ],
+        "source": "Press Trust of India",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2tPekFzZk5xTm9nMUNVS2dINHpNeUxHbnZOYTdCZDlWWnEzUUwwSEJST1hxWGo4NUJZRkRGVm93RkZXQ0o4VlFKNVJYUE01NEF2NjhFak9Dc2NWeWZVNEVkX2FBZnY4djluZnNEX3J3azQ1NU9ESm55ZU8yamhLVk9KRjVEZXBJR0xXeFNLVnhibnc3VWVyVGwzTlJyRS1kNFhNaEpyWmVJVjI5VHhwaF9rcjRnOTF4aFhzTUNnTm9ZZ2RrU1Fj?oc=5"
+      },
+      {
+        "slug": "open-source-20260915-auto-2-ef6217",
+        "title": "How China is prepa",
+        "category": "开源项目",
+        "date": "2026-09-15",
+        "summary": "How China is preparing for the risk of AI escaping",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How China is prepa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "How China is preparing for the risk of AI escaping",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How China is preparing for the risk of AI escaping",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Free Malaysia Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGV2X091OXlvWHY0VGZ0Xy1GdmhUQnpEX1dDSVBlVDB4bENOWjhleEY2bHJlOFllVVlkVkRJdzBPZ0ZMT1V0SXYyUVp5UUFoMUZwRVhDa3V0Y2p4UjBOaU1yd2ZHV0x0bHZYTU5wNDRJMnZtcE0wR0Fta29BQzRSWHdJWllRSk15c1g5TzNqcVJYeU5rUjE0dEVodTJROEc1ODJ3VEVKWWJVWXhZODRyU243bXVERDZpZVIwazgyZHpVdw?oc=5"
+          },
+          {
+            "label": "Press Trust of India：Hexaware Collaborates on Project NANDA Fellowship to Build the Future ",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2tPekFzZk5xTm9nMUNVS2dINHpNeUxHbnZOYTdCZDlWWnEzUUwwSEJST1hxWGo4NUJZRkRGVm93RkZXQ0o4VlFKNVJYUE01NEF2NjhFak9Dc2NWeWZVNEVkX2FBZnY4djluZnNEX3J3azQ1NU9ESm55ZU8yamhLVk9KRjVEZXBJR0xXeFNLVnhibnc3VWVyVGwzTlJyRS1kNFhNaEpyWmVJVjI5VHhwaF9rcjRnOTF4aFhzTUNnTm9ZZ2RrU1Fj?oc=5"
+          },
+          {
+            "label": "36 Kr：NVIDIA's $12.9 Billion Historic Largest Acquisition Nears Finalization",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00OG9RN1RKeG90ZG5jUWx3QTd1SlpJVEJCVUF0empyQ1o3MFBRUDBFWk1kVFY5dlhfdGRGOGZwZjFWR2pjNjVYaXRZVUJQejNrSF93?oc=5"
+          }
+        ],
+        "source": "Free Malaysia Today",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObGV2X091OXlvWHY0VGZ0Xy1GdmhUQnpEX1dDSVBlVDB4bENOWjhleEY2bHJlOFllVVlkVkRJdzBPZ0ZMT1V0SXYyUVp5UUFoMUZwRVhDa3V0Y2p4UjBOaU1yd2ZHV0x0bHZYTU5wNDRJMnZtcE0wR0Fta29BQzRSWHdJWllRSk15c1g5TzNqcVJYeU5rUjE0dEVodTJROEc1ODJ3VEVKWWJVWXhZODRyU243bXVERDZpZVIwazgyZHpVdw?oc=5"
+      },
       {
         "slug": "open-source-20260914-auto-1-fbebde",
         "title": "‘All Together Now’",
