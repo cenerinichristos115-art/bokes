@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260916-auto-1-8027e5",
+        "title": "Wednesday briefing",
+        "category": "AI新闻",
+        "date": "2026-09-16",
+        "summary": "Wednesday briefing: Why tech companies might be on",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Wednesday briefing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Wednesday briefing: Why tech companies might be on",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Wednesday briefing: Why tech companies might be on",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Guardian：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkRWNFV3VFJlVjJkMGs3U2oybThETS1mckZ0b3FCdmJmNUd0NXFad1RCdmxkblc0X1RpRk9JY2YxclRMQWc3SVJUc3g1ZVJkVjlqMll0MmhDV1BxdF83eG9PQ3A5N1Itb2Z5U1ZKNjFpMl9ocUpTcGZJUEhsMFFna2ZNTElkTV9zZDNOSDk1ZVNZSE5Bc2NuUHhfY3kzMWZJNGpPS2RkTThOUmJncVVmTUZ6TTZfZjRNaGNUMGlTQ184TWxwM0RDRC02dUM5Wk5KdnV1ZEVoY1p6eFB2eWc?oc=5"
+          },
+          {
+            "label": "qlwb.com.cn：这场国家级AI产业盛会，缘何选择山东 - qlwb.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Bc1hvT2pLYmpqelR6Qmhaa3RDV3g1ZXU2eFZPUG1jbHpiSHJmU0tucTBjTFljTkZCbUhOYnNWOEFiVFB0ckJsY0xWR3R1M0hPYVR5bm1pOA?oc=5"
+          },
+          {
+            "label": "手机新浪网：香港将推动全民AI培训、推进跨境自动驾驶发展 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaTBndlU5ZVhFRUFieUh1VDNfWlpGckVzU1dnWl9ITU9wOWc2dXZTRGxjRXdjM0xKcFlGN0R4d1UwMVBJVGJsb2JOYTFZSzVYVVVieHItZVdYbFhKcUdsa0J0Vm10UXdQUVZfWnlHYzNoZHZzYjQtNXdFaE10SkU?oc=5"
+          }
+        ],
+        "source": "The Guardian",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkRWNFV3VFJlVjJkMGs3U2oybThETS1mckZ0b3FCdmJmNUd0NXFad1RCdmxkblc0X1RpRk9JY2YxclRMQWc3SVJUc3g1ZVJkVjlqMll0MmhDV1BxdF83eG9PQ3A5N1Itb2Z5U1ZKNjFpMl9ocUpTcGZJUEhsMFFna2ZNTElkTV9zZDNOSDk1ZVNZSE5Bc2NuUHhfY3kzMWZJNGpPS2RkTThOUmJncVVmTUZ6TTZfZjRNaGNUMGlTQ184TWxwM0RDRC02dUM5Wk5KdnV1ZEVoY1p6eFB2eWc?oc=5"
+      },
+      {
+        "slug": "ai-news-20260916-auto-2-7cc67d",
+        "title": "这场国家级AI产业盛会，缘何选择山东",
+        "category": "AI新闻",
+        "date": "2026-09-16",
+        "summary": "这场国家级AI产业盛会，缘何选择山东 qlwb.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "这场国家级AI产业盛会，缘何选择山东 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "这场国家级AI产业盛会，缘何选择山东 qlwb.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "这场国家级AI产业盛会，缘何选择山东 qlwb.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "qlwb.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Bc1hvT2pLYmpqelR6Qmhaa3RDV3g1ZXU2eFZPUG1jbHpiSHJmU0tucTBjTFljTkZCbUhOYnNWOEFiVFB0ckJsY0xWR3R1M0hPYVR5bm1pOA?oc=5"
+          },
+          {
+            "label": "The Guardian：Wednesday briefing: Why tech companies might be only too happy for us ",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUkRWNFV3VFJlVjJkMGs3U2oybThETS1mckZ0b3FCdmJmNUd0NXFad1RCdmxkblc0X1RpRk9JY2YxclRMQWc3SVJUc3g1ZVJkVjlqMll0MmhDV1BxdF83eG9PQ3A5N1Itb2Z5U1ZKNjFpMl9ocUpTcGZJUEhsMFFna2ZNTElkTV9zZDNOSDk1ZVNZSE5Bc2NuUHhfY3kzMWZJNGpPS2RkTThOUmJncVVmTUZ6TTZfZjRNaGNUMGlTQ184TWxwM0RDRC02dUM5Wk5KdnV1ZEVoY1p6eFB2eWc?oc=5"
+          },
+          {
+            "label": "手机新浪网：香港将推动全民AI培训、推进跨境自动驾驶发展 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaTBndlU5ZVhFRUFieUh1VDNfWlpGckVzU1dnWl9ITU9wOWc2dXZTRGxjRXdjM0xKcFlGN0R4d1UwMVBJVGJsb2JOYTFZSzVYVVVieHItZVdYbFhKcUdsa0J0Vm10UXdQUVZfWnlHYzNoZHZzYjQtNXdFaE10SkU?oc=5"
+          }
+        ],
+        "source": "qlwb.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Bc1hvT2pLYmpqelR6Qmhaa3RDV3g1ZXU2eFZPUG1jbHpiSHJmU0tucTBjTFljTkZCbUhOYnNWOEFiVFB0ckJsY0xWR3R1M0hPYVR5bm1pOA?oc=5"
+      },
+      {
         "slug": "ai-news-20260915-auto-1-0bf7e8",
         "title": "比尔·盖茨：全球无政府做好应对AI准",
         "category": "AI新闻",
@@ -19423,6 +19539,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260916-auto-1-f2f00d",
+        "title": "番茄AI文占比74.5%，起点仅10",
+        "category": "AI使用教程",
+        "date": "2026-09-16",
+        "summary": "番茄AI文占比74.5%，起点仅10%，手搓创作会被AI工业淘汰吗？ 风闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "番茄AI文占比74.5%，起点仅10 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "番茄AI文占比74.5%，起点仅10%，手搓创作会被AI工业淘汰吗？ 风闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "番茄AI文占比74.5%，起点仅10%，手搓创作会被AI工业淘汰吗？ 风闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "风闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rOExudnBvdi1KVjJLOVN0VVFNdHg2SjRzYUItZkxvaUpvaVc2ZUJ5MXY5ZUhFcUhIdTd0VV9DRWRKTWRjN3Rya2pYSHBWcUJKSF8xRXBPOERZZ2tqTW4tRWJJVVFHYmpqRkg3ZFNPaFJpWldl?oc=5"
+          },
+          {
+            "label": "紫牛新闻：“给地球降温，守共同家园”江苏青少年绘画与AI创意作品征集活动启动 - 紫牛新闻",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRWRINWU4N2pNdU82Y1lEcHFnSm9obk94dXJ2Q3BsbUd5emNQQ2Y0SGlpOU5lU3A0WmtTY3RfVFdOY2tKaUtGdUJESnBOTjl2YS12ZXNKUDhCVXhvRlV4Y09kUVNsaGxicXpvc29Zcw?oc=5"
+          },
+          {
+            "label": "体坛加：球速app全新升级：AI驱动的智能导航平台引领技术变革 - 体坛加",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BV05EcHdwOGVVUjNuUGprRDRtWTFxOWkzM3NtTmRVU19BaVZ2d2pNaHJSdzBVVlh4dUl4Q2pVVnBlUW0wZ0YyZFkwaUFvaE5UT3BsV1RiZ2FzaGF6QnBLNFRR?oc=5"
+          }
+        ],
+        "source": "风闻",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rOExudnBvdi1KVjJLOVN0VVFNdHg2SjRzYUItZkxvaUpvaVc2ZUJ5MXY5ZUhFcUhIdTd0VV9DRWRKTWRjN3Rya2pYSHBWcUJKSF8xRXBPOERZZ2tqTW4tRWJJVVFHYmpqRkg3ZFNPaFJpWldl?oc=5"
+      },
+      {
         "slug": "ai-guide-20260915-auto-1-d5e0ca",
         "title": "从月入20万到集体停更，AI漫剧“赛",
         "category": "AI使用教程",
@@ -28557,6 +28731,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260916-auto-1-3e4547",
+        "title": "China's AI Adoptio",
+        "category": "开源项目",
+        "date": "2026-09-16",
+        "summary": "China's AI Adoption Rate Surpasses 50%: Key Statis",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China's AI Adoptio 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China's AI Adoption Rate Surpasses 50%: Key Statis",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China's AI Adoption Rate Surpasses 50%: Key Statis",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36 Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QMWhSR2R2ZVA1NzkzUER4eEJTckZBTzVyRHBNRFBBT0ZZM2cwZEFUSUtKTFFncVFDYUlqazQxOXhfU3RDSGs3MWJQXzBvcFpndVUw?oc=5"
+          },
+          {
+            "label": "53AI：Typefree 开源了，全新的 AI 语音输入法交互逻辑，丢掉键盘快捷键！ - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcUZFd3JoNVpSSDFyRWh1V0Q1R1pKejdiZ01SSUNiWGRJem5JZFZnWG5fbWNNN0lSYl9oRU0yT2ZWcmV6ejRYQXJPLUw5YThxTE01X1JNMTFocUl5bGZBZ0dqTGxCNEFFUEE?oc=5"
+          },
+          {
+            "label": "53AI：腾讯云自研 AI 助手 Octop 正式开源！ - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82c3lkTU1YTzdKZGZEMTd6UEFKM2xodXJUWnRJUEItZUdqOWxMNzh1VzNoS0xGOEtEVXJvSTJyMWw1QmVjdGYxUUptUlFXTy1SalZQYmlPaXE0bXRRemhuc3FzTEl1bTJUSnc?oc=5"
+          }
+        ],
+        "source": "36 Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QMWhSR2R2ZVA1NzkzUER4eEJTckZBTzVyRHBNRFBBT0ZZM2cwZEFUSUtKTFFncVFDYUlqazQxOXhfU3RDSGs3MWJQXzBvcFpndVUw?oc=5"
+      },
+      {
+        "slug": "open-source-20260916-auto-2-d76c00",
+        "title": "Typefree 开源了，全新的 A",
+        "category": "开源项目",
+        "date": "2026-09-16",
+        "summary": "Typefree 开源了，全新的 AI 语音输入法交互逻辑，丢掉键盘快捷键！ 53AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Typefree 开源了，全新的 A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Typefree 开源了，全新的 AI 语音输入法交互逻辑，丢掉键盘快捷键！ 53AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Typefree 开源了，全新的 AI 语音输入法交互逻辑，丢掉键盘快捷键！ 53AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "53AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcUZFd3JoNVpSSDFyRWh1V0Q1R1pKejdiZ01SSUNiWGRJem5JZFZnWG5fbWNNN0lSYl9oRU0yT2ZWcmV6ejRYQXJPLUw5YThxTE01X1JNMTFocUl5bGZBZ0dqTGxCNEFFUEE?oc=5"
+          },
+          {
+            "label": "36 Kr：China's AI Adoption Rate Surpasses 50%: Key Statistics and Industry In",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QMWhSR2R2ZVA1NzkzUER4eEJTckZBTzVyRHBNRFBBT0ZZM2cwZEFUSUtKTFFncVFDYUlqazQxOXhfU3RDSGs3MWJQXzBvcFpndVUw?oc=5"
+          },
+          {
+            "label": "53AI：腾讯云自研 AI 助手 Octop 正式开源！ - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82c3lkTU1YTzdKZGZEMTd6UEFKM2xodXJUWnRJUEItZUdqOWxMNzh1VzNoS0xGOEtEVXJvSTJyMWw1QmVjdGYxUUptUlFXTy1SalZQYmlPaXE0bXRRemhuc3FzTEl1bTJUSnc?oc=5"
+          }
+        ],
+        "source": "53AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TcUZFd3JoNVpSSDFyRWh1V0Q1R1pKejdiZ01SSUNiWGRJem5JZFZnWG5fbWNNN0lSYl9oRU0yT2ZWcmV6ejRYQXJPLUw5YThxTE01X1JNMTFocUl5bGZBZ0dqTGxCNEFFUEE?oc=5"
+      },
       {
         "slug": "open-source-20260915-auto-1-d7787d",
         "title": "Hexaware Collabora",
