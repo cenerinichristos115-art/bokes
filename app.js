@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260917-auto-1-863a9d",
+        "title": "AI machine 'helps",
+        "category": "AI新闻",
+        "date": "2026-09-17",
+        "summary": "AI machine 'helps save 25 million Lego bricks from",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI machine 'helps 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI machine 'helps save 25 million Lego bricks from",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI machine 'helps save 25 million Lego bricks from",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BBC：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcXlrNHR0RHhqQjdFNmRrOUFRMFUzYzBfcnNHeG1tcHRpVXIzWVZfVXRYb0ttTURqc1l6bGFBYmVoLXNfaTV6VUFzX0ZrVEpZSURJWWF1TlY2N1k?oc=5"
+          },
+          {
+            "label": "theguardian.com：OpenAI reveals cases of ‘concerning’ AI behaviour and promises new pla",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5"
+          },
+          {
+            "label": "手机新浪网：市级孵化器赋能！门头沟AI产业集群加速成型 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSThuWldFVlBqMUpvdnFVVUotdVU1clFtWF9zZFo5UDZJRUJKVDNXWmpCNFVtbk16ODhwY29zamZNaFQ2ZHdVVUxJaS1pUWMwYUdqQXdMSWtKTXB3UlZkVGI3TG1JUXRqV1FqUXdYalFIMjJ5WVo2Y3Jnd2w2VWZlODZn?oc=5"
+          }
+        ],
+        "source": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcXlrNHR0RHhqQjdFNmRrOUFRMFUzYzBfcnNHeG1tcHRpVXIzWVZfVXRYb0ttTURqc1l6bGFBYmVoLXNfaTV6VUFzX0ZrVEpZSURJWWF1TlY2N1k?oc=5"
+      },
+      {
+        "slug": "ai-news-20260917-auto-2-380fa0",
+        "title": "OpenAI reveals cas",
+        "category": "AI新闻",
+        "date": "2026-09-17",
+        "summary": "OpenAI reveals cases of ‘concerning’ AI behaviour",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI reveals cas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenAI reveals cases of ‘concerning’ AI behaviour",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI reveals cases of ‘concerning’ AI behaviour",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "theguardian.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5"
+          },
+          {
+            "label": "BBC：AI machine 'helps save 25 million Lego bricks from landfill' - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcXlrNHR0RHhqQjdFNmRrOUFRMFUzYzBfcnNHeG1tcHRpVXIzWVZfVXRYb0ttTURqc1l6bGFBYmVoLXNfaTV6VUFzX0ZrVEpZSURJWWF1TlY2N1k?oc=5"
+          },
+          {
+            "label": "手机新浪网：市级孵化器赋能！门头沟AI产业集群加速成型 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSThuWldFVlBqMUpvdnFVVUotdVU1clFtWF9zZFo5UDZJRUJKVDNXWmpCNFVtbk16ODhwY29zamZNaFQ2ZHdVVUxJaS1pUWMwYUdqQXdMSWtKTXB3UlZkVGI3TG1JUXRqV1FqUXdYalFIMjJ5WVo2Y3Jnd2w2VWZlODZn?oc=5"
+          }
+        ],
+        "source": "theguardian.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2xHb1VzUHk1ZUZJTWhQOXdsM0RKOXduMDI2a29fN3RmTFhTX3VIVGdyZmhaQWZsWTJzbG9hZUkwVGhrMGNiMTh6VjEwNWp4SlJSR1hsMTYxUXFOSDdDZDlJUWxza1NQZi1XbzRRd1RuYUloRHV4OHhYVDRnS1BkaGJWYTk5T0JjRzBDeGpqMFhRWjZLOEtPeUY0blRTSEtabTNoTDJJRUtqSzE5M3FCZHZaTElWVVhOaGZOT09GNHM?oc=5"
+      },
+      {
         "slug": "ai-news-20260916-auto-1-8027e5",
         "title": "Wednesday briefing",
         "category": "AI新闻",
@@ -19539,6 +19655,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260917-auto-1-c80dc9",
+        "title": "大批AI影视剧要上桌了 - 36氪",
+        "category": "AI使用教程",
+        "date": "2026-09-17",
+        "summary": "大批AI影视剧要上桌了 36氪",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "大批AI影视剧要上桌了 - 36氪 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "大批AI影视剧要上桌了 36氪",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "大批AI影视剧要上桌了 36氪",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36氪：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EUEVNOWR4TGZGWnhJZTE1RXRPa1ozOXdwWl8xSWVGVldNT2lVcEJ5TFpwZkR3ZTN3aHNnNHg3bmF6RENKa2YtTUMtWU9Vcy0t?oc=5"
+          },
+          {
+            "label": "中华网：平台1元卖DeepSeek涉黄教程 违规内容仍可生成 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FOF9XNU05ZUprNEpIQ0FxOVdMMi04MWRfQ1gwWGFUNlg2d0Uwa3dZWEg0dTh0Z3NWNDkwcDFaRTRTTm15VWprMUdJZ0ZaMjBCUnd3Y3ZLcUtLUlNEbUp5eTZTU3N6TGZQZlJOdHZRdFU?oc=5"
+          },
+          {
+            "label": "科技行者：AVA-Encoder：当AI终于学会看懂一部电影 - 科技行者",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aSFRrbXpKUWtIcGhfYnVkbkM5aWNta0l2X0R5alJidlhFSVhsYS1yWmE2WEg2VXIwTVBHaTIyZG5GaUdwQ091Z2ZXY2tKTmpUQXVJOXZmeEF3eFVIcEdz?oc=5"
+          }
+        ],
+        "source": "36氪",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EUEVNOWR4TGZGWnhJZTE1RXRPa1ozOXdwWl8xSWVGVldNT2lVcEJ5TFpwZkR3ZTN3aHNnNHg3bmF6RENKa2YtTUMtWU9Vcy0t?oc=5"
+      },
+      {
         "slug": "ai-guide-20260916-auto-1-f2f00d",
         "title": "番茄AI文占比74.5%，起点仅10",
         "category": "AI使用教程",
@@ -28731,6 +28905,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260917-auto-1-2fac23",
+        "title": "开源中国马越：Token 要管起来，",
+        "category": "开源项目",
+        "date": "2026-09-17",
+        "summary": "开源中国马越：Token 要管起来，AI 投入需要一本明白账 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开源中国马越：Token 要管起来， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "开源中国马越：Token 要管起来，AI 投入需要一本明白账 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开源中国马越：Token 要管起来，AI 投入需要一本明白账 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTJtU0NtR2dnZ2JPNmFnaUV2eFVLYU1IVzN4MElxZWlxVENkdjNsV3IxMTVXTHE0dFRjYWpqV18zTVZVUjJuaFdVY1VZLXR6NGh2UWdYUUxuOXpDWVpFakhUTUhmVjFJWVA5cXBCRllGay1wNVpqMXdHeFEzaWpEby1n?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: The AI ‘Security Dilemma’. China’s Open Weights & Nvidia. AI-RTZ #",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Lb2ppR05qR3RZRGRaZ3MtUFJySWNyTmhwVkxEME1tTTVUZ2pjRlVucnE4NF9uVWMxclhZT1dhWjloU1g5eEh1ZHpGLWJodzFLLWFCek5jRFJGZ0pBVEJUQWtyTVpoekRibWZrOUs0RTY0VVpURG8xaVlR?oc=5"
+          },
+          {
+            "label": "Intelligent Living：What Is OpenCode? The Free, Open-Source AI Coding Agent for Your Termi",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uY2VBcFlhMTdUb053U1JidDRIcEEzSEpBOHRFaXVfV2JRTHdHRHY0R2RnS21lRkE0MEFEbmR0ZWhfZkpvR01QZ0lRaE5mbkJ4UkdQRE1xT0otQ21SbWlFWHFWZEVQc0MwYUpBMEtTQmlCTkI1?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTJtU0NtR2dnZ2JPNmFnaUV2eFVLYU1IVzN4MElxZWlxVENkdjNsV3IxMTVXTHE0dFRjYWpqV18zTVZVUjJuaFdVY1VZLXR6NGh2UWdYUUxuOXpDWVpFakhUTUhmVjFJWVA5cXBCRllGay1wNVpqMXdHeFEzaWpEby1n?oc=5"
+      },
+      {
+        "slug": "open-source-20260917-auto-2-1b1704",
+        "title": "AI: The AI ‘Securi",
+        "category": "开源项目",
+        "date": "2026-09-17",
+        "summary": "AI: The AI ‘Security Dilemma’. China’s Open Weight",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: The AI ‘Securi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI: The AI ‘Security Dilemma’. China’s Open Weight",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: The AI ‘Security Dilemma’. China’s Open Weight",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Lb2ppR05qR3RZRGRaZ3MtUFJySWNyTmhwVkxEME1tTTVUZ2pjRlVucnE4NF9uVWMxclhZT1dhWjloU1g5eEh1ZHpGLWJodzFLLWFCek5jRFJGZ0pBVEJUQWtyTVpoekRibWZrOUs0RTY0VVpURG8xaVlR?oc=5"
+          },
+          {
+            "label": "手机新浪网：开源中国马越：Token 要管起来，AI 投入需要一本明白账 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcTJtU0NtR2dnZ2JPNmFnaUV2eFVLYU1IVzN4MElxZWlxVENkdjNsV3IxMTVXTHE0dFRjYWpqV18zTVZVUjJuaFdVY1VZLXR6NGh2UWdYUUxuOXpDWVpFakhUTUhmVjFJWVA5cXBCRllGay1wNVpqMXdHeFEzaWpEby1n?oc=5"
+          },
+          {
+            "label": "Intelligent Living：What Is OpenCode? The Free, Open-Source AI Coding Agent for Your Termi",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uY2VBcFlhMTdUb053U1JidDRIcEEzSEpBOHRFaXVfV2JRTHdHRHY0R2RnS21lRkE0MEFEbmR0ZWhfZkpvR01QZ0lRaE5mbkJ4UkdQRE1xT0otQ21SbWlFWHFWZEVQc0MwYUpBMEtTQmlCTkI1?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Lb2ppR05qR3RZRGRaZ3MtUFJySWNyTmhwVkxEME1tTTVUZ2pjRlVucnE4NF9uVWMxclhZT1dhWjloU1g5eEh1ZHpGLWJodzFLLWFCek5jRFJGZ0pBVEJUQWtyTVpoekRibWZrOUs0RTY0VVpURG8xaVlR?oc=5"
+      },
       {
         "slug": "open-source-20260916-auto-1-3e4547",
         "title": "China's AI Adoptio",
