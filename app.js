@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260918-auto-1-4468e2",
+        "title": "Anthropic says its",
+        "category": "AI新闻",
+        "date": "2026-09-18",
+        "summary": "Anthropic says its chatbot Claude is taking over t",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic says its 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic says its chatbot Claude is taking over t",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic says its chatbot Claude is taking over t",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5"
+          },
+          {
+            "label": "新浪财经_金融信息服务商：IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 - 新浪财经_金融信息服务商",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlBBRFVvejdIdEt3X3VLc3drWF80TVBqNEZCSUtqV0I5Q3NvVVh6NDVsaU9wZno0M0x5bFlTci1iVGZVajFYSGhwLTZYeGl6eHMwRWcycVNTYldkcXNBbTJtUk5BN1hvcVFLWThiRkczMGlKb3dtT1dySThFQVBfNVBZcEdhU2NfN25xUTV6SUdLbURjZHppUHc5V0FpTXNTY2NkMjhqSmpUY01SNlI3Rlp3?oc=5"
+          },
+          {
+            "label": "Pittsburgh Post-Gazette：Two promising developments amid the anxiety over artificial intelligen",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFFhcHhJTXFOQ3JTWmR0SUM2VmZhWGVITEFPS3hUalZqRnZsYlVkRUd2bGJRLUxDZnJkUTZ1dFROLS05QlVDb1pya3BlS0VYNEVSa250SjJuRV9lUGZ3b3hWMFJNeEhYeml1UnRZYlBHcGZVa21PUFVmVUEySGtmZnh4cWRuVi14cklkUVYzeFNLTTBITmpsR2E1TUZrMFlDUFFacDZLNWxOM1ZTR3NubGFJY1M2bjloQ1pDOHU1bFRKa0xKN2c?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5"
+      },
+      {
+        "slug": "ai-news-20260918-auto-2-3215c5",
+        "title": "IDC发布Agent评估报告 中国电",
+        "category": "AI新闻",
+        "date": "2026-09-18",
+        "summary": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 新浪财经_金融信息服务商",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "IDC发布Agent评估报告 中国电 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 新浪财经_金融信息服务商",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证 新浪财经_金融信息服务商",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经_金融信息服务商：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlBBRFVvejdIdEt3X3VLc3drWF80TVBqNEZCSUtqV0I5Q3NvVVh6NDVsaU9wZno0M0x5bFlTci1iVGZVajFYSGhwLTZYeGl6eHMwRWcycVNTYldkcXNBbTJtUk5BN1hvcVFLWThiRkczMGlKb3dtT1dySThFQVBfNVBZcEdhU2NfN25xUTV6SUdLbURjZHppUHc5V0FpTXNTY2NkMjhqSmpUY01SNlI3Rlp3?oc=5"
+          },
+          {
+            "label": "The Washington Post：Anthropic says its chatbot Claude is taking over the work of building ",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2lTT1pubVg3a2k2VUUzWmJEUUd4STN4UkZCLXRjb1hwcmNEUlRQYWdFQmkxeWkyR25FUEFwWXBWQWlwSUt1TldyVW1ncHhhNGpfRXhRVk9hZkk4YTBmV0RJcUpHb0dTLUZYRlF2TDRIUmd6OFpZdUpyMXlna2FGai1nNl83RDBxR1RIdjNGNnk1ZU5QSWNyUmgzREpLTTU4aU9KMkpQTXZpa3E0RjE1SEhsSk5oQmd3bEFNMkx3eVA4dXI1VDZkc3B5ZjhsbkU?oc=5"
+          },
+          {
+            "label": "Pittsburgh Post-Gazette：Two promising developments amid the anxiety over artificial intelligen",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFFhcHhJTXFOQ3JTWmR0SUM2VmZhWGVITEFPS3hUalZqRnZsYlVkRUd2bGJRLUxDZnJkUTZ1dFROLS05QlVDb1pya3BlS0VYNEVSa250SjJuRV9lUGZ3b3hWMFJNeEhYeml1UnRZYlBHcGZVa21PUFVmVUEySGtmZnh4cWRuVi14cklkUVYzeFNLTTBITmpsR2E1TUZrMFlDUFFacDZLNWxOM1ZTR3NubGFJY1M2bjloQ1pDOHU1bFRKa0xKN2c?oc=5"
+          }
+        ],
+        "source": "新浪财经_金融信息服务商",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlBBRFVvejdIdEt3X3VLc3drWF80TVBqNEZCSUtqV0I5Q3NvVVh6NDVsaU9wZno0M0x5bFlTci1iVGZVajFYSGhwLTZYeGl6eHMwRWcycVNTYldkcXNBbTJtUk5BN1hvcVFLWThiRkczMGlKb3dtT1dySThFQVBfNVBZcEdhU2NfN25xUTV6SUdLbURjZHppUHc5V0FpTXNTY2NkMjhqSmpUY01SNlI3Rlp3?oc=5"
+      },
+      {
         "slug": "ai-news-20260917-auto-1-863a9d",
         "title": "AI machine 'helps",
         "category": "AI新闻",
@@ -19655,6 +19771,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260918-auto-1-ace69c",
+        "title": "微软Azure CTO惊叹AI能力：",
+        "category": "AI使用教程",
+        "date": "2026-09-18",
+        "summary": "微软Azure CTO惊叹AI能力：30分钟跨平台移植基础功能 凤凰网科技",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微软Azure CTO惊叹AI能力： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "微软Azure CTO惊叹AI能力：30分钟跨平台移植基础功能 凤凰网科技",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "微软Azure CTO惊叹AI能力：30分钟跨平台移植基础功能 凤凰网科技",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网科技：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZekM0Z3ZiT1VEVjNGaDd3bVBFcF9reFBmN2J2THRFa01KWldZMUNGWV9TMy05VVhLOGliN055VjJBS2VlNkFIMVdObzE?oc=5"
+          },
+          {
+            "label": "iccsz.com：ECOC26 Tutoria：13场教程覆盖空芯光纤、AI通信、PON标准化与量子安全 - iccsz.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NRFRLQmZISFphYWJQOTh0eGxfWG9pX1FFNnNZa2lEa2VTZDIxMmZ3clhpUVVZV3MxQ2h4azdNVmtKOEVQcUswSHhJWG9yOUdVdlRXWGtFWUdjSFVmbTB3RmFfNzhTTlo5ZkotTDF0XzZkQlR2VlF1Vw?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：OpenAI报告：四个月跨岗位AI任务占比近翻倍，职场岗位边界正被重塑！ - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WdFNsc0p5VGUxdHhPblF5VkE0RVROV2RTa1JoamtTOGktZlRmVXBpSlBycWs4RHJ2U1l4dlNucktpRkx4MmpSeFZtTnlIN2syaFpLcjhFbUxGaXppV3plMm0zeWlrSS1Ra09N?oc=5"
+          }
+        ],
+        "source": "凤凰网科技",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZekM0Z3ZiT1VEVjNGaDd3bVBFcF9reFBmN2J2THRFa01KWldZMUNGWV9TMy05VVhLOGliN055VjJBS2VlNkFIMVdObzE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260917-auto-1-c80dc9",
         "title": "大批AI影视剧要上桌了 - 36氪",
         "category": "AI使用教程",
@@ -28905,6 +29079,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260918-auto-1-7b000d",
+        "title": "Hexaware Partners",
+        "category": "开源项目",
+        "date": "2026-09-18",
+        "summary": "Hexaware Partners with Project NANDA to Train Engi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hexaware Partners 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Hexaware Partners with Project NANDA to Train Engi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hexaware Partners with Project NANDA to Train Engi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "pc-tablet.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakNBbWxwNlk4TThGYnhQeE1lVXNRX2E4bTcxYWo4ekNKZFRMWHJHYTBkRDk2SFFWOTZVazFFd01kRzVvcVhQS2NHdU9rSVhycFB3OVVTeExvQVdfMHNqSDVSRDh6V21HdlFCbG5sMkVEeVAxWkVvbHppOE1uMGdkbzg1SWFuU3c0ZlpyWl9EYWhaWTh0TDVLa0hjMnF2Zk9kWGxUYlhaWEQydjFRMVdpOE10RlRpMHRqQWpZMWpKb1VUejg?oc=5"
+          },
+          {
+            "label": "tech.cnr.cn：全球首个3D算力芯片编程模型开源发布 下一代国产AI软硬件底座率先贯通 - tech.cnr.cn",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU1p5dklBcjdpcnhJTXlvOGFrXzZiMW40SnFkeW1iMS12R3Bla05XY2lOV0d5V2hrNElnV244RDVYcW11UUNQYnpJNFhMdUtVOHFLdF9vN2ZWN25yMWRoRDg3clNHbnItTzZJ?oc=5"
+          },
+          {
+            "label": "世界浙商网：全球首个专家级通用医疗影像AI登上Science，阿里宣布开源 - 世界浙商网",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTHNMUF9FZ21ncTd1OGdCMTFEWExmMzFVT01BMGVnSjNPUEFPQUljVWhnbXZ0RjB1VkRxS0gtOXozTjgwSjBrZndnY25heEdpTnc?oc=5"
+          }
+        ],
+        "source": "pc-tablet.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakNBbWxwNlk4TThGYnhQeE1lVXNRX2E4bTcxYWo4ekNKZFRMWHJHYTBkRDk2SFFWOTZVazFFd01kRzVvcVhQS2NHdU9rSVhycFB3OVVTeExvQVdfMHNqSDVSRDh6V21HdlFCbG5sMkVEeVAxWkVvbHppOE1uMGdkbzg1SWFuU3c0ZlpyWl9EYWhaWTh0TDVLa0hjMnF2Zk9kWGxUYlhaWEQydjFRMVdpOE10RlRpMHRqQWpZMWpKb1VUejg?oc=5"
+      },
+      {
+        "slug": "open-source-20260918-auto-2-b863e3",
+        "title": "全球首个3D算力芯片编程模型开源发布",
+        "category": "开源项目",
+        "date": "2026-09-18",
+        "summary": "全球首个3D算力芯片编程模型开源发布 下一代国产AI软硬件底座率先贯通 tech.cnr.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全球首个3D算力芯片编程模型开源发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "全球首个3D算力芯片编程模型开源发布 下一代国产AI软硬件底座率先贯通 tech.cnr.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全球首个3D算力芯片编程模型开源发布 下一代国产AI软硬件底座率先贯通 tech.cnr.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech.cnr.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU1p5dklBcjdpcnhJTXlvOGFrXzZiMW40SnFkeW1iMS12R3Bla05XY2lOV0d5V2hrNElnV244RDVYcW11UUNQYnpJNFhMdUtVOHFLdF9vN2ZWN25yMWRoRDg3clNHbnItTzZJ?oc=5"
+          },
+          {
+            "label": "pc-tablet.com：Hexaware Partners with Project NANDA to Train Engineers for Open Sourc",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakNBbWxwNlk4TThGYnhQeE1lVXNRX2E4bTcxYWo4ekNKZFRMWHJHYTBkRDk2SFFWOTZVazFFd01kRzVvcVhQS2NHdU9rSVhycFB3OVVTeExvQVdfMHNqSDVSRDh6V21HdlFCbG5sMkVEeVAxWkVvbHppOE1uMGdkbzg1SWFuU3c0ZlpyWl9EYWhaWTh0TDVLa0hjMnF2Zk9kWGxUYlhaWEQydjFRMVdpOE10RlRpMHRqQWpZMWpKb1VUejg?oc=5"
+          },
+          {
+            "label": "世界浙商网：全球首个专家级通用医疗影像AI登上Science，阿里宣布开源 - 世界浙商网",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTHNMUF9FZ21ncTd1OGdCMTFEWExmMzFVT01BMGVnSjNPUEFPQUljVWhnbXZ0RjB1VkRxS0gtOXozTjgwSjBrZndnY25heEdpTnc?oc=5"
+          }
+        ],
+        "source": "tech.cnr.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lU1p5dklBcjdpcnhJTXlvOGFrXzZiMW40SnFkeW1iMS12R3Bla05XY2lOV0d5V2hrNElnV244RDVYcW11UUNQYnpJNFhMdUtVOHFLdF9vN2ZWN25yMWRoRDg3clNHbnItTzZJ?oc=5"
+      },
       {
         "slug": "open-source-20260917-auto-1-2fac23",
         "title": "开源中国马越：Token 要管起来，",
