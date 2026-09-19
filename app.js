@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260919-auto-1-cb719d",
+        "title": "Google Gemini Hack",
+        "category": "AI新闻",
+        "date": "2026-09-19",
+        "summary": "Google Gemini Hacked Three Companies During An AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Gemini Hack 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google Gemini Hacked Three Companies During An AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Gemini Hacked Three Companies During An AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "NDTV Profit：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORURLQTE2MDdzS0RGU1hDbkhaRFZ1alV2U2F5NE5MaUVleWptbmRweFlKaGVMb2xHU1FKejRrUFNQa0RZQ044eVRqQ3RRb2M2dFZiVFZaOXN2NDRnMlp2cUN6X2JiekFLc1V2N2k0RGJQLW9ud0FXRmVlc0lOOWlzR2lncTFpU1RmdGhSMmRGMjI1S3NkNWh4bkVubEg2c1RMemVUbUFpLVlIMjlCYjktbGpGM2ZTdFhxVnZtRzZPNE1EcVRyWGR5UlVB0gHSAUFVX3lxTE5hR09md0J3a1JETkgwQUNpcEhydDR6ZnJWMUJPTzZTd0ZrYktyQ3NlT19yTzRhUWhtWEU3UEtmMHNnMUVySVRBODc1WVZuOVg2YWdwaWxoVnVFV3pNM3h3V25VMFJXSHFsWTUwTjNwUzY0U3pKd082b3B1VDB6aG1jNndnWWRscnFuWE1ZekU3VVpFRnlwQWU1eDl2YUlla3BCbjh5MFBKa2RwMDdtX3BkTjdWbkJoM2JqbFdnN25xcGw3aUVBRUFDb19JUnBNcTNMdw?oc=5"
+          },
+          {
+            "label": "Sohu：周览·钟摆 | 2026第38周(9/18)：SHS人工智能50指数：1986.22点，市盈率28.1倍。 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVm1INWplT2l5N21pVlFiVXFTMjhZQmpYZWgzbHlWQUMyOTd3UlRuYlNzcHFHaHNlNFM5QklrR2dZWWt2aEhUeERNR2Q5bnBtQWIyNzF2Q0hGbmhKZHJYb2U0ODBVc2hweXpXeDEtTlMxRG83T0h6VVBkYlRYdDFQX0lNTl8tWl9EUG1Zdg?oc=5"
+          },
+          {
+            "label": "The Washington Post：Anthropic picks consulting firm to monitor AI safety, pledges to spend",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnN4LUdjc1JEOHpBaU9kc2hlb3BmX2Nmb1NodlYwbnZ0R1BlRWtxWld2cW1ZdWlMZnQwYWk3bGl0d0JlR3RuZU5PaTE3YkhmRm1JamZfcndhcWZCM3RlN1ZXb09qQ1RJUjRKSmFKS2lxNk9PMTZoR3lfMkVTOXVpaVdpY2JVX3k3N1hiSGREQ3ZtZFdudUkzYm9JLUdiZG1Bc05FSXZR?oc=5"
+          }
+        ],
+        "source": "NDTV Profit",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORURLQTE2MDdzS0RGU1hDbkhaRFZ1alV2U2F5NE5MaUVleWptbmRweFlKaGVMb2xHU1FKejRrUFNQa0RZQ044eVRqQ3RRb2M2dFZiVFZaOXN2NDRnMlp2cUN6X2JiekFLc1V2N2k0RGJQLW9ud0FXRmVlc0lOOWlzR2lncTFpU1RmdGhSMmRGMjI1S3NkNWh4bkVubEg2c1RMemVUbUFpLVlIMjlCYjktbGpGM2ZTdFhxVnZtRzZPNE1EcVRyWGR5UlVB0gHSAUFVX3lxTE5hR09md0J3a1JETkgwQUNpcEhydDR6ZnJWMUJPTzZTd0ZrYktyQ3NlT19yTzRhUWhtWEU3UEtmMHNnMUVySVRBODc1WVZuOVg2YWdwaWxoVnVFV3pNM3h3V25VMFJXSHFsWTUwTjNwUzY0U3pKd082b3B1VDB6aG1jNndnWWRscnFuWE1ZekU3VVpFRnlwQWU1eDl2YUlla3BCbjh5MFBKa2RwMDdtX3BkTjdWbkJoM2JqbFdnN25xcGw3aUVBRUFDb19JUnBNcTNMdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260919-auto-2-68ac59",
+        "title": "周览·钟摆 | 2026第38周(9",
+        "category": "AI新闻",
+        "date": "2026-09-19",
+        "summary": "周览·钟摆 | 2026第38周(9/18)：SHS人工智能50指数：1986.22点，市盈率28.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "周览·钟摆 | 2026第38周(9 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "周览·钟摆 | 2026第38周(9/18)：SHS人工智能50指数：1986.22点，市盈率28.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "周览·钟摆 | 2026第38周(9/18)：SHS人工智能50指数：1986.22点，市盈率28.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVm1INWplT2l5N21pVlFiVXFTMjhZQmpYZWgzbHlWQUMyOTd3UlRuYlNzcHFHaHNlNFM5QklrR2dZWWt2aEhUeERNR2Q5bnBtQWIyNzF2Q0hGbmhKZHJYb2U0ODBVc2hweXpXeDEtTlMxRG83T0h6VVBkYlRYdDFQX0lNTl8tWl9EUG1Zdg?oc=5"
+          },
+          {
+            "label": "NDTV Profit：Google Gemini Hacked Three Companies During An AI Security Test. Here'",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORURLQTE2MDdzS0RGU1hDbkhaRFZ1alV2U2F5NE5MaUVleWptbmRweFlKaGVMb2xHU1FKejRrUFNQa0RZQ044eVRqQ3RRb2M2dFZiVFZaOXN2NDRnMlp2cUN6X2JiekFLc1V2N2k0RGJQLW9ud0FXRmVlc0lOOWlzR2lncTFpU1RmdGhSMmRGMjI1S3NkNWh4bkVubEg2c1RMemVUbUFpLVlIMjlCYjktbGpGM2ZTdFhxVnZtRzZPNE1EcVRyWGR5UlVB0gHSAUFVX3lxTE5hR09md0J3a1JETkgwQUNpcEhydDR6ZnJWMUJPTzZTd0ZrYktyQ3NlT19yTzRhUWhtWEU3UEtmMHNnMUVySVRBODc1WVZuOVg2YWdwaWxoVnVFV3pNM3h3V25VMFJXSHFsWTUwTjNwUzY0U3pKd082b3B1VDB6aG1jNndnWWRscnFuWE1ZekU3VVpFRnlwQWU1eDl2YUlla3BCbjh5MFBKa2RwMDdtX3BkTjdWbkJoM2JqbFdnN25xcGw3aUVBRUFDb19JUnBNcTNMdw?oc=5"
+          },
+          {
+            "label": "The Washington Post：Anthropic picks consulting firm to monitor AI safety, pledges to spend",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSnN4LUdjc1JEOHpBaU9kc2hlb3BmX2Nmb1NodlYwbnZ0R1BlRWtxWld2cW1ZdWlMZnQwYWk3bGl0d0JlR3RuZU5PaTE3YkhmRm1JamZfcndhcWZCM3RlN1ZXb09qQ1RJUjRKSmFKS2lxNk9PMTZoR3lfMkVTOXVpaVdpY2JVX3k3N1hiSGREQ3ZtZFdudUkzYm9JLUdiZG1Bc05FSXZR?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVm1INWplT2l5N21pVlFiVXFTMjhZQmpYZWgzbHlWQUMyOTd3UlRuYlNzcHFHaHNlNFM5QklrR2dZWWt2aEhUeERNR2Q5bnBtQWIyNzF2Q0hGbmhKZHJYb2U0ODBVc2hweXpXeDEtTlMxRG83T0h6VVBkYlRYdDFQX0lNTl8tWl9EUG1Zdg?oc=5"
+      },
+      {
         "slug": "ai-news-20260918-auto-1-4468e2",
         "title": "Anthropic says its",
         "category": "AI新闻",
@@ -19771,6 +19887,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260919-auto-1-b4c93f",
+        "title": "AI短剧创作能否成为自由职业新选择",
+        "category": "AI使用教程",
+        "date": "2026-09-19",
+        "summary": "AI短剧创作能否成为自由职业新选择 k.sina.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧创作能否成为自由职业新选择 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI短剧创作能否成为自由职业新选择 k.sina.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI短剧创作能否成为自由职业新选择 k.sina.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "k.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTdhb1ZZd2pNRG12d1dVY28td2FjM1pDUkk1TUNNc08xOUhrT2dyaERUMVdXR0JkXzZFSzdXUlRsREQzYXQ2aG1nbU1MR0d3ZHJ1eXhFM3ZOQndkVkl6RS1EYTJFa0tZRnVzT01WUV93RDA2NmQ1VFNETm1pUWN4SFNB?oc=5"
+          },
+          {
+            "label": "FX168财经：OpenAI、Anthropic推动AI安全升温：PANW、CRWD、NET投资价值对比 - FX168财经",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tOGJoZjhCYmZQWXBVZV91UDVtYXR2dzA2OU9Rb09xQWNudF9KRl81RVhYbDR6Mjg5MDNfdmlLTU1ZTFZoTlVxM19SU3pnLW1TWWhn?oc=5"
+          },
+          {
+            "label": "TradingView：TRM Labs：YouTube上虚假AI交易机器人教程诱导用户部署恶意脚本，224名受害者损失274.6枚ETH - TradingVie",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HYXNJYnRuN2VsQlBFR2xPbk9JUkIxNUFXbFowdm5NR1cyeVYyUmticWdpcFMxR2FqX3JiM21obC1HMzBmRFFfNm50RnYxZ3JSbXVpRVE3bzBhbjI1U01oTmctZG1kZms?oc=5"
+          }
+        ],
+        "source": "k.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTdhb1ZZd2pNRG12d1dVY28td2FjM1pDUkk1TUNNc08xOUhrT2dyaERUMVdXR0JkXzZFSzdXUlRsREQzYXQ2aG1nbU1MR0d3ZHJ1eXhFM3ZOQndkVkl6RS1EYTJFa0tZRnVzT01WUV93RDA2NmQ1VFNETm1pUWN4SFNB?oc=5"
+      },
+      {
         "slug": "ai-guide-20260918-auto-1-ace69c",
         "title": "微软Azure CTO惊叹AI能力：",
         "category": "AI使用教程",
@@ -29079,6 +29253,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260919-auto-1-81b62d",
+        "title": "ColorOS 17 新技术解读，渲",
+        "category": "开源项目",
+        "date": "2026-09-19",
+        "summary": "ColorOS 17 新技术解读，渲染、调度与 AI 升级 - OSCHINA - 开源 × AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ColorOS 17 新技术解读，渲 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "ColorOS 17 新技术解读，渲染、调度与 AI 升级 - OSCHINA - 开源 × AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ColorOS 17 新技术解读，渲染、调度与 AI 升级 - OSCHINA - 开源 × AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yLWZfenFFV0VZVERwU25nU2NIejF1aTd6MTBObk1EWEViRGVtMld5Ymg4X3MxTmtoMlRSZzdkN1ZUZzRINDRqQm1ZZw?oc=5"
+          },
+          {
+            "label": "MarkTechPost：GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026) - Mark",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkJiTU92UF8xWkFaT1lvWkt0aTNsSUxWYUFnSnZxMTFqMFRFN2JEZ2JIWEdBWGtjLUY5bEZPeWlXMG1USGhQSFVoUWtIOHN3NzFWd1JYNjExOV82M2REYUcwZmNaZXFPRWhNdTBiSHBsbWNJRFFCZkRHQ1p4OHhidUJReERNZHZfNUV5dFpEWVBYd1A5SFRWTnctRGJtM2ZOd25v0gGoAUFVX3lxTE9uSjFJczZQb25pWXpRZ2twSE1LclVRd0RSbGVJYTMzekJWbDNWU05xcDdWeVpFM1ZNMDRzdFRreHFTbW02YVdCZkhoamlRMnZDWlc5aC1nV0ROZnNyRS1vMXhTdlAyWU5TWlBhTGhmVW02dGZJajdtQ0N3YS1CZ09vNXo5ZzZmY1g3TzFwYUdTenYzQ0RsSkxsalFXYWs4aVVfNF9kTWVxSQ?oc=5"
+          },
+          {
+            "label": "yeeyi：AI自进化、Agent造软件，开发者还能做什么？GOSIM Shenzhen 2026 最新全日程来了-yeeyi - yeeyi",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55N3kwei1jUktUM1ZCeTNaOFk1ODhvQWxoaE9XYVpjSVNLZm9qUDQ1dV9pLVdoM1dGbjZwY2tCVXY3WGVZVmVnb2dFVjJlZ3lqM1hEdzV3?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yLWZfenFFV0VZVERwU25nU2NIejF1aTd6MTBObk1EWEViRGVtMld5Ymg4X3MxTmtoMlRSZzdkN1ZUZzRINDRqQm1ZZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260919-auto-2-dc4888",
+        "title": "GGUF vs GPTQ vs AW",
+        "category": "开源项目",
+        "date": "2026-09-19",
+        "summary": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Exp",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GGUF vs GPTQ vs AW 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Exp",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Exp",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkJiTU92UF8xWkFaT1lvWkt0aTNsSUxWYUFnSnZxMTFqMFRFN2JEZ2JIWEdBWGtjLUY5bEZPeWlXMG1USGhQSFVoUWtIOHN3NzFWd1JYNjExOV82M2REYUcwZmNaZXFPRWhNdTBiSHBsbWNJRFFCZkRHQ1p4OHhidUJReERNZHZfNUV5dFpEWVBYd1A5SFRWTnctRGJtM2ZOd25v0gGoAUFVX3lxTE9uSjFJczZQb25pWXpRZ2twSE1LclVRd0RSbGVJYTMzekJWbDNWU05xcDdWeVpFM1ZNMDRzdFRreHFTbW02YVdCZkhoamlRMnZDWlc5aC1nV0ROZnNyRS1vMXhTdlAyWU5TWlBhTGhmVW02dGZJajdtQ0N3YS1CZ09vNXo5ZzZmY1g3TzFwYUdTenYzQ0RsSkxsalFXYWs4aVVfNF9kTWVxSQ?oc=5"
+          },
+          {
+            "label": "OSCHINA：ColorOS 17 新技术解读，渲染、调度与 AI 升级 - OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yLWZfenFFV0VZVERwU25nU2NIejF1aTd6MTBObk1EWEViRGVtMld5Ymg4X3MxTmtoMlRSZzdkN1ZUZzRINDRqQm1ZZw?oc=5"
+          },
+          {
+            "label": "yeeyi：AI自进化、Agent造软件，开发者还能做什么？GOSIM Shenzhen 2026 最新全日程来了-yeeyi - yeeyi",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55N3kwei1jUktUM1ZCeTNaOFk1ODhvQWxoaE9XYVpjSVNLZm9qUDQ1dV9pLVdoM1dGbjZwY2tCVXY3WGVZVmVnb2dFVjJlZ3lqM1hEdzV3?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkJiTU92UF8xWkFaT1lvWkt0aTNsSUxWYUFnSnZxMTFqMFRFN2JEZ2JIWEdBWGtjLUY5bEZPeWlXMG1USGhQSFVoUWtIOHN3NzFWd1JYNjExOV82M2REYUcwZmNaZXFPRWhNdTBiSHBsbWNJRFFCZkRHQ1p4OHhidUJReERNZHZfNUV5dFpEWVBYd1A5SFRWTnctRGJtM2ZOd25v0gGoAUFVX3lxTE9uSjFJczZQb25pWXpRZ2twSE1LclVRd0RSbGVJYTMzekJWbDNWU05xcDdWeVpFM1ZNMDRzdFRreHFTbW02YVdCZkhoamlRMnZDWlc5aC1nV0ROZnNyRS1vMXhTdlAyWU5TWlBhTGhmVW02dGZJajdtQ0N3YS1CZ09vNXo5ZzZmY1g3TzFwYUdTenYzQ0RsSkxsalFXYWs4aVVfNF9kTWVxSQ?oc=5"
+      },
       {
         "slug": "open-source-20260918-auto-1-7b000d",
         "title": "Hexaware Partners",
