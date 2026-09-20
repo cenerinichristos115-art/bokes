@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260920-auto-1-85fa6c",
+        "title": "Everyone agrees AI",
+        "category": "AI新闻",
+        "date": "2026-09-20",
+        "summary": "Everyone agrees AI needs a switch. No one agrees w",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Everyone agrees AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Everyone agrees AI needs a switch. No one agrees w",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Everyone agrees AI needs a switch. No one agrees w",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Türkiye Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDJMVno0UWFERzNjNVE3a3FzM3NuRnZOSXY1ZEFsUjlmaDlsUktkbWZZc3IxTkU0blZGYjQ5cFFNY0xrbFlxSkhoeHlrV1g5OEJsZEt1TE45WnEtSTdUaktmNy0zWG5jdkNXYjgzZ0ZBUlFwV0Frdi1qYkQ0cUJaT19oTVc4UkxZSUdn?oc=5"
+          },
+          {
+            "label": "Sohu：卢泰文：人工智能是驱动体验与创新的核心动力 设备体验（DX）事业部总裁*「人工智能是为消费者日常生活方方面面带来智能化、高度个性化体验、驱动",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXFPLTdndUpfQjRidE91VW1xdUFTVHAyLXJ0Ny1Dank0NW1MVDE5OXp6Ti1Xc3paZjFRMWV6RkNnbDR4R3BreVVia0pFU1FzUHBGSkFteVVyUHBmTjNvN0tlZEhwWC1WZC14b200UE9UcE53cnpMcDc2cV9DOHVPS0RPU3JWR1Zf?oc=5"
+          },
+          {
+            "label": "Demócrata：Sánchez brings to New York his agenda on artificial intelligence and s",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2hQd3JFU3lfbllTdnlNVDRHRUV2R1dzQjhCZ3ROeU44aEdvcnF6MUdQU0RuZmdrblpBbmJuZzR0SnprclhBRlg5TU9URkhxLWVSYW54alg5TjJrcUVrQ2Y2N2FrcVVITHNjVXlaazk2Yy10VUFkRFdSRk5IcERBeFJjaV93dVdiZm9lX1M1X2d3dExraXN1TXN3QmtHR0J3andiLTA2TmluQU9valQxZlBwOTFXNkliWWxVWWVsd9IBxAFBVV95cUxPVUhGbGZJVU9aUW03Z3J5VjExZmJBelJoQzdtbkQ1bzhURVN1MVNfWmVkQVJLRVZuOF84c2VzY1VGdWhZZDZmMkRwREk0SGs5SE02SkpNb1I3S3dmV1dScEx1djdnS0JhR2I1M0ppb0dJZzY0bmNKS3kyVGRBWTdmcjZDZXpkSmE3NWJfWmd5NDFBZzV5WVlzN3lvZnA0M3RDb1BWRXJhN0lSZUtQOXc4NURMSVhZQnRjZHE3ZDVFWWk2d1FC?oc=5"
+          }
+        ],
+        "source": "Türkiye Today",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDJMVno0UWFERzNjNVE3a3FzM3NuRnZOSXY1ZEFsUjlmaDlsUktkbWZZc3IxTkU0blZGYjQ5cFFNY0xrbFlxSkhoeHlrV1g5OEJsZEt1TE45WnEtSTdUaktmNy0zWG5jdkNXYjgzZ0ZBUlFwV0Frdi1qYkQ0cUJaT19oTVc4UkxZSUdn?oc=5"
+      },
+      {
+        "slug": "ai-news-20260920-auto-2-14d993",
+        "title": "卢泰文：人工智能是驱动体验与创新的核",
+        "category": "AI新闻",
+        "date": "2026-09-20",
+        "summary": "卢泰文：人工智能是驱动体验与创新的核心动力 设备体验（DX）事业部总裁*「人工智能是为消费者日常生活",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "卢泰文：人工智能是驱动体验与创新的核 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "卢泰文：人工智能是驱动体验与创新的核心动力 设备体验（DX）事业部总裁*「人工智能是为消费者日常生活",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "卢泰文：人工智能是驱动体验与创新的核心动力 设备体验（DX）事业部总裁*「人工智能是为消费者日常生活",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXFPLTdndUpfQjRidE91VW1xdUFTVHAyLXJ0Ny1Dank0NW1MVDE5OXp6Ti1Xc3paZjFRMWV6RkNnbDR4R3BreVVia0pFU1FzUHBGSkFteVVyUHBmTjNvN0tlZEhwWC1WZC14b200UE9UcE53cnpMcDc2cV9DOHVPS0RPU3JWR1Zf?oc=5"
+          },
+          {
+            "label": "Türkiye Today：Everyone agrees AI needs a switch. No one agrees who holds it - Türkiy",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDJMVno0UWFERzNjNVE3a3FzM3NuRnZOSXY1ZEFsUjlmaDlsUktkbWZZc3IxTkU0blZGYjQ5cFFNY0xrbFlxSkhoeHlrV1g5OEJsZEt1TE45WnEtSTdUaktmNy0zWG5jdkNXYjgzZ0ZBUlFwV0Frdi1qYkQ0cUJaT19oTVc4UkxZSUdn?oc=5"
+          },
+          {
+            "label": "Demócrata：Sánchez brings to New York his agenda on artificial intelligence and s",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ2hQd3JFU3lfbllTdnlNVDRHRUV2R1dzQjhCZ3ROeU44aEdvcnF6MUdQU0RuZmdrblpBbmJuZzR0SnprclhBRlg5TU9URkhxLWVSYW54alg5TjJrcUVrQ2Y2N2FrcVVITHNjVXlaazk2Yy10VUFkRFdSRk5IcERBeFJjaV93dVdiZm9lX1M1X2d3dExraXN1TXN3QmtHR0J3andiLTA2TmluQU9valQxZlBwOTFXNkliWWxVWWVsd9IBxAFBVV95cUxPVUhGbGZJVU9aUW03Z3J5VjExZmJBelJoQzdtbkQ1bzhURVN1MVNfWmVkQVJLRVZuOF84c2VzY1VGdWhZZDZmMkRwREk0SGs5SE02SkpNb1I3S3dmV1dScEx1djdnS0JhR2I1M0ppb0dJZzY0bmNKS3kyVGRBWTdmcjZDZXpkSmE3NWJfWmd5NDFBZzV5WVlzN3lvZnA0M3RDb1BWRXJhN0lSZUtQOXc4NURMSVhZQnRjZHE3ZDVFWWk2d1FC?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXFPLTdndUpfQjRidE91VW1xdUFTVHAyLXJ0Ny1Dank0NW1MVDE5OXp6Ti1Xc3paZjFRMWV6RkNnbDR4R3BreVVia0pFU1FzUHBGSkFteVVyUHBmTjNvN0tlZEhwWC1WZC14b200UE9UcE53cnpMcDc2cV9DOHVPS0RPU3JWR1Zf?oc=5"
+      },
+      {
         "slug": "ai-news-20260919-auto-1-cb719d",
         "title": "Google Gemini Hack",
         "category": "AI新闻",
@@ -19887,6 +20003,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260920-auto-1-3349f1",
+        "title": "首次，GPT-6 Astra破解「重",
+        "category": "AI使用教程",
+        "date": "2026-09-20",
+        "summary": "首次，GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人 投资界",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "首次，GPT-6 Astra破解「重 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "首次，GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人 投资界",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "首次，GPT-6 Astra破解「重大进展」级难题，数学家沦为提示词工具人 投资界",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "投资界：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlRUY5WU9Jc0V1a3V0Y0NVQjZPaHBhbTRHd3ljWWU2QTRZRFprbEZnS0U0Xzd2cmp4cTRqUUpOQXl6V2FKUjI2WDB6NHFUb2c0YjhDY01n?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：当人工智能安全风险加剧 网络安全人才能力如何升级 《网络安全人才实战能力报告-AI赋能篇》发布 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DbWhxV3ZROENKVVBodmRzV1MwaGJWMlpLV2FZanc0a2xNTy1rTFdxa09kUURvTmI2Vkhvd2E5SzI0ZWRxbmZOck9YbnFCdUNtNGdpa3BCejJFeG9vLS1nOU43S1pncUVJaVF3Y1hQTC1hMnRhZUE?oc=5"
+          },
+          {
+            "label": "Sohu：AI漫剧也有“创作身份证”了！全国首张落地贵州 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcTNfM2RFQkxnZXl5ZFIyR1dVY05YN0RWVy1QamZQNm9QbFdtVnU1R0Zkb1huQUJ6UE9seDY5aXVsQTY2TS0wVW80NzlpWVBnTUd3dExiMVR2cEpkWHlhajhoY3NQVGFxREMwT084QzJrOVd3RWl5ME5QaWlKa2RDaEtsSGFtdERTSnNIMA?oc=5"
+          }
+        ],
+        "source": "投资界",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlRUY5WU9Jc0V1a3V0Y0NVQjZPaHBhbTRHd3ljWWU2QTRZRFprbEZnS0U0Xzd2cmp4cTRqUUpOQXl6V2FKUjI2WDB6NHFUb2c0YjhDY01n?oc=5"
+      },
+      {
         "slug": "ai-guide-20260919-auto-1-b4c93f",
         "title": "AI短剧创作能否成为自由职业新选择",
         "category": "AI使用教程",
@@ -29253,6 +29427,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260920-auto-1-3c504b",
+        "title": "Part 4 of \"CEO's O",
+        "category": "开源项目",
+        "date": "2026-09-20",
+        "summary": "Part 4 of \"CEO's Operational Intuition\" Series: Bu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Part 4 of \"CEO's O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Part 4 of \"CEO's Operational Intuition\" Series: Bu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Part 4 of \"CEO's Operational Intuition\" Series: Bu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVF93SGFTcFU4dVdwNFd6U0dMaVd4TGRCYWtOV1hNQml1Z0RIZkpISnFDd0poUW5oRW1peFUtOGhUR3Zub24tZW1pS3ItSTVpVndv?oc=5"
+          },
+          {
+            "label": "36Kr：\"We don't mind you copying code, but please don't delete the names!\" G",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQktqbGY0VENPNUMwNFA3UWdNZ2tHbGRkeEdhNHBYYi1sOGtlRTVDN1VFc3JRbGZjVTZEVmxGdDVsTDd3UU1SRUlPdWFoWWRkYmVJ?oc=5"
+          },
+          {
+            "label": "微博：国内首个AI影视开源项目推出 推动影视行业生态建设 - 微博",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcnExYUdTc2NEOXc3Y1ZqQWkxX1ZUaXF2U0FqV214c2pQRmpuWmZnZzQ5b2tNZjJPN2x4TGZmZERqWkdjVS1KelRFdWpta3UzdjlqQjln?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVF93SGFTcFU4dVdwNFd6U0dMaVd4TGRCYWtOV1hNQml1Z0RIZkpISnFDd0poUW5oRW1peFUtOGhUR3Zub24tZW1pS3ItSTVpVndv?oc=5"
+      },
+      {
+        "slug": "open-source-20260920-auto-2-5c623f",
+        "title": "\"We don't mind you",
+        "category": "开源项目",
+        "date": "2026-09-20",
+        "summary": "\"We don't mind you copying code, but please don't",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "\"We don't mind you 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "\"We don't mind you copying code, but please don't",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "\"We don't mind you copying code, but please don't",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQktqbGY0VENPNUMwNFA3UWdNZ2tHbGRkeEdhNHBYYi1sOGtlRTVDN1VFc3JRbGZjVTZEVmxGdDVsTDd3UU1SRUlPdWFoWWRkYmVJ?oc=5"
+          },
+          {
+            "label": "36Kr：Part 4 of \"CEO's Operational Intuition\" Series: Building a High-Impact",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uVF93SGFTcFU4dVdwNFd6U0dMaVd4TGRCYWtOV1hNQml1Z0RIZkpISnFDd0poUW5oRW1peFUtOGhUR3Zub24tZW1pS3ItSTVpVndv?oc=5"
+          },
+          {
+            "label": "微博：国内首个AI影视开源项目推出 推动影视行业生态建设 - 微博",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lcnExYUdTc2NEOXc3Y1ZqQWkxX1ZUaXF2U0FqV214c2pQRmpuWmZnZzQ5b2tNZjJPN2x4TGZmZERqWkdjVS1KelRFdWpta3UzdjlqQjln?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQktqbGY0VENPNUMwNFA3UWdNZ2tHbGRkeEdhNHBYYi1sOGtlRTVDN1VFc3JRbGZjVTZEVmxGdDVsTDd3UU1SRUlPdWFoWWRkYmVJ?oc=5"
+      },
       {
         "slug": "open-source-20260919-auto-1-81b62d",
         "title": "ColorOS 17 新技术解读，渲",
