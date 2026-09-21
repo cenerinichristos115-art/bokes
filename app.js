@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260921-auto-1-a7e2af",
+        "title": "Asia stocks rise o",
+        "category": "AI新闻",
+        "date": "2026-09-21",
+        "summary": "Asia stocks rise on AI, US-China trade talks optim",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Asia stocks rise o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Asia stocks rise on AI, US-China trade talks optim",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Asia stocks rise on AI, US-China trade talks optim",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Iraqi News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVJhOWtmQzJTZW81NFhlSHJBaWJsa0FWY2Z1NUUwN2JBQ2t3enRzYjllY1NsMWpJbTFsNDdUbGdxUDU2aTBJS2x0aGpMcExIVjYwdHN0d2NOallvNFJvXzR4aF9Xck5hQ2QzdTlGWVlKR0lCT1drQU9KRmZnWmxzUURTd3VnWjc0UkY3MVJCS0VQQQ?oc=5"
+          },
+          {
+            "label": "搜狐网：全国产业工人“人工智能+”学习行动湖北站专项活动举办 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlpUb1BERnFJWFlMaU5ZRzljZTJ6a2hsdUo4MHd2eVNzNGsyQ2RieHhNVFdldWVhZXJLQTk0dTkzNGpGSTRfa2VUcEw1R3pEVXRRZjVzMzlwRXlONmJZUFlvLTlrQkx2N0Z3d19WTF8zY3lvRVZTcmJ2UDVvZmxuRjYtV0hraDJkdTN2cA?oc=5"
+          },
+          {
+            "label": "EdTech Innovation Hub：The Google AI Educator Series has come up with a new way for students ",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjlVeGJ4RC1xQkJpSWlZSkdUVzlDVUcwOTZpZVZmSFBQbDRxSEpUTzRzS0JFVlRMZDRkUXlrU3JWZHQ3UE51RjM4UUo1T1ZYN2s3NWtZc09ibjZVM1dHZXdKZUw0RnNhNWVxVW1aQlRva05zR1ZiM2RaZHBuNktFYkdXT19mT1RuSGsxNmtPOEJMQ1gyMFhXajd4OGZXV3I1Rm9rNDc5QmlFVlFZSEdrZGhNV2V2dmhRQWRQd25uY3Z6Q0RtRzNNSA?oc=5"
+          }
+        ],
+        "source": "Iraqi News",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVJhOWtmQzJTZW81NFhlSHJBaWJsa0FWY2Z1NUUwN2JBQ2t3enRzYjllY1NsMWpJbTFsNDdUbGdxUDU2aTBJS2x0aGpMcExIVjYwdHN0d2NOallvNFJvXzR4aF9Xck5hQ2QzdTlGWVlKR0lCT1drQU9KRmZnWmxzUURTd3VnWjc0UkY3MVJCS0VQQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260921-auto-2-d475e5",
+        "title": "全国产业工人“人工智能+”学习行动湖",
+        "category": "AI新闻",
+        "date": "2026-09-21",
+        "summary": "全国产业工人“人工智能+”学习行动湖北站专项活动举办 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全国产业工人“人工智能+”学习行动湖 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "全国产业工人“人工智能+”学习行动湖北站专项活动举办 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全国产业工人“人工智能+”学习行动湖北站专项活动举办 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlpUb1BERnFJWFlMaU5ZRzljZTJ6a2hsdUo4MHd2eVNzNGsyQ2RieHhNVFdldWVhZXJLQTk0dTkzNGpGSTRfa2VUcEw1R3pEVXRRZjVzMzlwRXlONmJZUFlvLTlrQkx2N0Z3d19WTF8zY3lvRVZTcmJ2UDVvZmxuRjYtV0hraDJkdTN2cA?oc=5"
+          },
+          {
+            "label": "Iraqi News：Asia stocks rise on AI, US-China trade talks optimism - Iraqi News",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVJhOWtmQzJTZW81NFhlSHJBaWJsa0FWY2Z1NUUwN2JBQ2t3enRzYjllY1NsMWpJbTFsNDdUbGdxUDU2aTBJS2x0aGpMcExIVjYwdHN0d2NOallvNFJvXzR4aF9Xck5hQ2QzdTlGWVlKR0lCT1drQU9KRmZnWmxzUURTd3VnWjc0UkY3MVJCS0VQQQ?oc=5"
+          },
+          {
+            "label": "EdTech Innovation Hub：The Google AI Educator Series has come up with a new way for students ",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjlVeGJ4RC1xQkJpSWlZSkdUVzlDVUcwOTZpZVZmSFBQbDRxSEpUTzRzS0JFVlRMZDRkUXlrU3JWZHQ3UE51RjM4UUo1T1ZYN2s3NWtZc09ibjZVM1dHZXdKZUw0RnNhNWVxVW1aQlRva05zR1ZiM2RaZHBuNktFYkdXT19mT1RuSGsxNmtPOEJMQ1gyMFhXajd4OGZXV3I1Rm9rNDc5QmlFVlFZSEdrZGhNV2V2dmhRQWRQd25uY3Z6Q0RtRzNNSA?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlpUb1BERnFJWFlMaU5ZRzljZTJ6a2hsdUo4MHd2eVNzNGsyQ2RieHhNVFdldWVhZXJLQTk0dTkzNGpGSTRfa2VUcEw1R3pEVXRRZjVzMzlwRXlONmJZUFlvLTlrQkx2N0Z3d19WTF8zY3lvRVZTcmJ2UDVvZmxuRjYtV0hraDJkdTN2cA?oc=5"
+      },
+      {
         "slug": "ai-news-20260920-auto-1-85fa6c",
         "title": "Everyone agrees AI",
         "category": "AI新闻",
@@ -20003,6 +20119,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260921-auto-1-e997e5",
+        "title": "The Design Brief L",
+        "category": "AI使用教程",
+        "date": "2026-09-21",
+        "summary": "The Design Brief Left the Building: How Creative A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "The Design Brief L 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "The Design Brief Left the Building: How Creative A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "The Design Brief Left the Building: How Creative A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2Y4bmtEd1M5d0RnN0MwOFdXWm8xczdFM1JnaV93RE1qMFM3V24xQ0VmYnhsUlRNU1N3Sk5UZ1hyaXRUZ0tQaVdCYlNVTnQyQnJ2aGxDOVpJLXR6ekxwb3hBNVdqaXRETFFrME5rOFBCMDVvY2FQYXFUVVc2MHRvZWE3RzE4RTBNa0g2ME1LWFZ4T3k2UTBVN2dHaDRJcGw4SDNvZkdIYkRTVWxwTkdWVEY1U2puSDg?oc=5"
+          },
+          {
+            "label": "微博：#AILifeDemo#开学季AI作品征集开启 9.14-9.28面向学习职场场景 - 微博",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vdlRqWnNiS3I4MEV5cFlNUVlqSUpMbmppM3EwcWF1QU10YnlhYjFWemJYWGM2aDd2Z05JS294SnJEMGNEUjVWZXVSM0h6ODBJYklQT0FB?oc=5"
+          },
+          {
+            "label": "微博：微软亚洲研究院等提出Resource2Skill：赋能AI Agent获取做事技能 - 微博",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tUVBsS3VYcTJiUnBNLV9YaW1tNkxWcS10Wk9UMkRwcEdYZnRJLW1aOUJDVlBPT25FZU1kWC04QkluX1I0ejdyc1RtUWhIQ1pCeGRlR2hB?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2Y4bmtEd1M5d0RnN0MwOFdXWm8xczdFM1JnaV93RE1qMFM3V24xQ0VmYnhsUlRNU1N3Sk5UZ1hyaXRUZ0tQaVdCYlNVTnQyQnJ2aGxDOVpJLXR6ekxwb3hBNVdqaXRETFFrME5rOFBCMDVvY2FQYXFUVVc2MHRvZWE3RzE4RTBNa0g2ME1LWFZ4T3k2UTBVN2dHaDRJcGw4SDNvZkdIYkRTVWxwTkdWVEY1U2puSDg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260920-auto-1-3349f1",
         "title": "首次，GPT-6 Astra破解「重",
         "category": "AI使用教程",
@@ -29427,6 +29601,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260921-auto-1-2bc45f",
+        "title": "Qwen Image 2.1: 7B",
+        "category": "开源项目",
+        "date": "2026-09-21",
+        "summary": "Qwen Image 2.1: 7B Open-Weights Image Model Claims",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen Image 2.1: 7B 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Qwen Image 2.1: 7B Open-Weights Image Model Claims",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Qwen Image 2.1: 7B Open-Weights Image Model Claims",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Intelligent Living：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42R2xKTTV3cHV5cldiUVpNU2lTc0JoeXhycUVfREN6M082YXRBTjNLc3BDVWhQYThBY1RoQ1FLZFNVa2NoYkZuQTRkY0dCSkNxVGZIMGdjckU3ZlV2QkRBYnZwcDd6R2dJV0VteUY2am8xTzJ3U0k4cQ?oc=5"
+          },
+          {
+            "label": "counterpunch.org：Look What Xi Just Gave BRICS - counterpunch.org",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNlBQNWNEVWJlc1pKZnppWXdBd0pKbm04NWVjS0tBZWRyOWVrT1o4X0dLMElodlB1S05YSTN6Q0dVQy1IbERELWMtMUFaa0dYOXNaa1dsWEFERUNVTWY5czZFUUwyUldBMVVuOV9IaEFqLWQzUE9zTg?oc=5"
+          },
+          {
+            "label": "OSCHINA：Jev 凭什么刷屏：一个不生成文本的\"判断模型\"，正在悄悄提速AI Agent - OSCHINA - 开源 × AI · 开发者生态社区 ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02ZjByYjZndWszenVkcVRiS3djWjBxMndydnpLdVgyOWRKczRycjBWbXkxU1lSS2ptdWE3X3g4dlhTbjlrblFOUE53TQ?oc=5"
+          }
+        ],
+        "source": "Intelligent Living",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42R2xKTTV3cHV5cldiUVpNU2lTc0JoeXhycUVfREN6M082YXRBTjNLc3BDVWhQYThBY1RoQ1FLZFNVa2NoYkZuQTRkY0dCSkNxVGZIMGdjckU3ZlV2QkRBYnZwcDd6R2dJV0VteUY2am8xTzJ3U0k4cQ?oc=5"
+      },
+      {
+        "slug": "open-source-20260921-auto-2-bf3c98",
+        "title": "Look What Xi Just",
+        "category": "开源项目",
+        "date": "2026-09-21",
+        "summary": "Look What Xi Just Gave BRICS counterpunch.org",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Look What Xi Just 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Look What Xi Just Gave BRICS counterpunch.org",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Look What Xi Just Gave BRICS counterpunch.org",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "counterpunch.org：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNlBQNWNEVWJlc1pKZnppWXdBd0pKbm04NWVjS0tBZWRyOWVrT1o4X0dLMElodlB1S05YSTN6Q0dVQy1IbERELWMtMUFaa0dYOXNaa1dsWEFERUNVTWY5czZFUUwyUldBMVVuOV9IaEFqLWQzUE9zTg?oc=5"
+          },
+          {
+            "label": "Intelligent Living：Qwen Image 2.1: 7B Open-Weights Image Model Claims to Beat Nano Banana",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42R2xKTTV3cHV5cldiUVpNU2lTc0JoeXhycUVfREN6M082YXRBTjNLc3BDVWhQYThBY1RoQ1FLZFNVa2NoYkZuQTRkY0dCSkNxVGZIMGdjckU3ZlV2QkRBYnZwcDd6R2dJV0VteUY2am8xTzJ3U0k4cQ?oc=5"
+          },
+          {
+            "label": "OSCHINA：Jev 凭什么刷屏：一个不生成文本的\"判断模型\"，正在悄悄提速AI Agent - OSCHINA - 开源 × AI · 开发者生态社区 ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02ZjByYjZndWszenVkcVRiS3djWjBxMndydnpLdVgyOWRKczRycjBWbXkxU1lSS2ptdWE3X3g4dlhTbjlrblFOUE53TQ?oc=5"
+          }
+        ],
+        "source": "counterpunch.org",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FNlBQNWNEVWJlc1pKZnppWXdBd0pKbm04NWVjS0tBZWRyOWVrT1o4X0dLMElodlB1S05YSTN6Q0dVQy1IbERELWMtMUFaa0dYOXNaa1dsWEFERUNVTWY5czZFUUwyUldBMVVuOV9IaEFqLWQzUE9zTg?oc=5"
+      },
       {
         "slug": "open-source-20260920-auto-1-3c504b",
         "title": "Part 4 of \"CEO's O",
