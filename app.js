@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260922-auto-1-416fad",
+        "title": "再创佳绩，东莞市技师学院在人工智能应",
+        "category": "AI新闻",
+        "date": "2026-09-22",
+        "summary": "再创佳绩，东莞市技师学院在人工智能应用技术技能省赛中斩获双冠军 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "再创佳绩，东莞市技师学院在人工智能应 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "再创佳绩，东莞市技师学院在人工智能应用技术技能省赛中斩获双冠军 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "再创佳绩，东莞市技师学院在人工智能应用技术技能省赛中斩获双冠军 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWnVsMDVOd1BjSXg4dzdXSk5Ya2RQbkphQnhKMnlJemN6X1lkNmJEeS1OZkp5SlZUNVVPa3ZaWi1fR0hPSDBsRVlNSjhyd1V3NldhTmRNcEd1czRoV1ItUmsyZVNwUGdyZkxMZVRtbnFYdw?oc=5"
+          },
+          {
+            "label": "Nikkei Asia：Alibaba touts 'most powerful AI chip in China' for data center buildou",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0ppMGFuYS1QTjVnVWJpTzlMblBrY0tnMUc4b2NqalpjaW4wQ01sY1dMUjVkbGlTLWt4V2tCRk51QlJYdTZndlhiV21HQjFDWnhVcTZqRVZlNGMzNkNGY28zRnBBc1dUVnJNb0w4MG5nWXFHU1YxNWpLbS14UkV0SF9lV0p6ODFDZmtUUlJLY094SmZYY2dWQXZPN1BYejVfdGRsVmh3VWMtMnJNUFozbnFPSERMQlRtVy1Mc0EwRGRDVWt2d1lYTU5Td2trTG5tMVJ3?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：人工智能加速进入智能体时代，金融AI治理如何跟上？ - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTEMwWVZZNG9BQWJpeGpQM0JIQUNDVG5DNnBieU5WaVgtTzFoVjEwbXlnbVl1dEVvUDJyU0hiVVZmUm5BVmZrWkpRZ19hRVR2ZFB0V3FVWlZLa2gzTHJlaG1WOEZrQU1MWEU5SmNkdkg?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWnVsMDVOd1BjSXg4dzdXSk5Ya2RQbkphQnhKMnlJemN6X1lkNmJEeS1OZkp5SlZUNVVPa3ZaWi1fR0hPSDBsRVlNSjhyd1V3NldhTmRNcEd1czRoV1ItUmsyZVNwUGdyZkxMZVRtbnFYdw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260922-auto-2-2297bd",
+        "title": "Alibaba touts 'mos",
+        "category": "AI新闻",
+        "date": "2026-09-22",
+        "summary": "Alibaba touts 'most powerful AI chip in China' for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Alibaba touts 'mos 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Alibaba touts 'most powerful AI chip in China' for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Alibaba touts 'most powerful AI chip in China' for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Nikkei Asia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0ppMGFuYS1QTjVnVWJpTzlMblBrY0tnMUc4b2NqalpjaW4wQ01sY1dMUjVkbGlTLWt4V2tCRk51QlJYdTZndlhiV21HQjFDWnhVcTZqRVZlNGMzNkNGY28zRnBBc1dUVnJNb0w4MG5nWXFHU1YxNWpLbS14UkV0SF9lV0p6ODFDZmtUUlJLY094SmZYY2dWQXZPN1BYejVfdGRsVmh3VWMtMnJNUFozbnFPSERMQlRtVy1Mc0EwRGRDVWt2d1lYTU5Td2trTG5tMVJ3?oc=5"
+          },
+          {
+            "label": "手机新浪网：再创佳绩，东莞市技师学院在人工智能应用技术技能省赛中斩获双冠军 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfWnVsMDVOd1BjSXg4dzdXSk5Ya2RQbkphQnhKMnlJemN6X1lkNmJEeS1OZkp5SlZUNVVPa3ZaWi1fR0hPSDBsRVlNSjhyd1V3NldhTmRNcEd1czRoV1ItUmsyZVNwUGdyZkxMZVRtbnFYdw?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：人工智能加速进入智能体时代，金融AI治理如何跟上？ - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vTEMwWVZZNG9BQWJpeGpQM0JIQUNDVG5DNnBieU5WaVgtTzFoVjEwbXlnbVl1dEVvUDJyU0hiVVZmUm5BVmZrWkpRZ19hRVR2ZFB0V3FVWlZLa2gzTHJlaG1WOEZrQU1MWEU5SmNkdkg?oc=5"
+          }
+        ],
+        "source": "Nikkei Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc0ppMGFuYS1QTjVnVWJpTzlMblBrY0tnMUc4b2NqalpjaW4wQ01sY1dMUjVkbGlTLWt4V2tCRk51QlJYdTZndlhiV21HQjFDWnhVcTZqRVZlNGMzNkNGY28zRnBBc1dUVnJNb0w4MG5nWXFHU1YxNWpLbS14UkV0SF9lV0p6ODFDZmtUUlJLY094SmZYY2dWQXZPN1BYejVfdGRsVmh3VWMtMnJNUFozbnFPSERMQlRtVy1Mc0EwRGRDVWt2d1lYTU5Td2trTG5tMVJ3?oc=5"
+      },
+      {
         "slug": "ai-news-20260921-auto-1-a7e2af",
         "title": "Asia stocks rise o",
         "category": "AI新闻",
@@ -20119,6 +20235,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260922-auto-1-ed2b34",
+        "title": "AI生成图算\"作品\"吗？ 法院：从三",
+        "category": "AI使用教程",
+        "date": "2026-09-22",
+        "summary": "AI生成图算\"作品\"吗？ 法院：从三个方面审查 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI生成图算\"作品\"吗？ 法院：从三 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI生成图算\"作品\"吗？ 法院：从三个方面审查 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI生成图算\"作品\"吗？ 法院：从三个方面审查 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTdMYWVWVFVLWDd5aGwyWGVIZHphN2NfVnhMc0g0dVg5S1RiZndtMDROeHVvTHJsaHVXbDd6M3ZVVEZDN2FYN2pmaUxNaGdVRG14NkhBQ25SLUpHYWxUbTM0SmZSVENidlE0bGI3RGF5NU5nc1BmY2hUN0tQblhncFljNFd3YkpJOGFVXw?oc=5"
+          },
+          {
+            "label": "Big Easy Magazine：The 5 Best AI Art Generators for 2026 (Watercolor, Oil Painting, and M",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXYyQVNqSXR1eFFnNXcweFBWYXQtTDhJZ3JPaVRwUl9YTjNFVDM3eFhDYXNiUEJaU2cwWmJPeWZqNTUtRzVZOXNFU3UyZ21GYmZ4SDlfQU5yTW95ckVxaHNPZzluNlQ1QlVmLU1wQmJqNUZteEoxdnBXNEJQS0pXVTYxVzVfdzYtVXBCb05vNXpPYl9pLUlzeU5nejU3Y2Vwd1Rqc0VVVGZ1VnR2U1lJ?oc=5"
+          },
+          {
+            "label": "USA Today：ADMANITY® Receives USPTO Approval for PRIMAL AI®, its New, LLM Persuas",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDB0cVRYQVNPWHd4S000VzBzeExYNVU2MC1GbXZZZEhBWmEzdnBxUkgwR0hFZGVfazBjMFV3TVZwUlRiZWQxZG5BTXFFajlsclZ6S1lnUkRLWGZvQkVXSmI4c1ZlSUdRbmp0eGYtVXhrNWh6ZnNBYVZLWnJKbVM0WU1HaG5tMEZNZG9FYVNBTTYtOERVU1lWNGVkVFpETmdMbGV6c3R0REhoS3c1M3BYdUJKRTF5YmhFUVoyT1c4WTU3LU1sRDZ0MHJ0M29JZFBrWWZIbzVONTRDVFRoeUlLNGJFZl9Sc3dIUlM4?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTdMYWVWVFVLWDd5aGwyWGVIZHphN2NfVnhMc0g0dVg5S1RiZndtMDROeHVvTHJsaHVXbDd6M3ZVVEZDN2FYN2pmaUxNaGdVRG14NkhBQ25SLUpHYWxUbTM0SmZSVENidlE0bGI3RGF5NU5nc1BmY2hUN0tQblhncFljNFd3YkpJOGFVXw?oc=5"
+      },
+      {
         "slug": "ai-guide-20260921-auto-1-e997e5",
         "title": "The Design Brief L",
         "category": "AI使用教程",
@@ -29601,6 +29775,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260922-auto-1-8ace5f",
+        "title": "GPT-6 Astra Is Tes",
+        "category": "开源项目",
+        "date": "2026-09-22",
+        "summary": "GPT-6 Astra Is Testing Anthropic's Slowdown, and t",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPT-6 Astra Is Tes 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPT-6 Astra Is Testing Anthropic's Slowdown, and t",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPT-6 Astra Is Testing Anthropic's Slowdown, and t",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Memeburn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMndIdDJmTlFFdktLTzFxeXNySVEyekZLUDlvUzNXa0NnZXNHSXU0OUh6T2E0YXJwbk42WmM3UEkzTGtBX29uNjZtQlV6c2NJZVlfOE40Y3dZaGU1dzMwbmNOR1FCcURMbFB6UHNfLTVNX2x1MmctNXd2NnBkLWhWMjU5ZXpvemlkdnBzR1hqcnhHTVA0UVZOcGRub0hXQ1lXSWxaTldiM3hGSk5LZXpzUEt4dl9fcjhDYlFuSUpGbDFvaGxj?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：月之暗面推出Kimi Code桌面版支持目标和内置浏览器不过并未开源- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YU212WFBkblo4SnktODFGNE1QVmVMdExFMDNYUE1oMmIxb3N6UkpxbHVNcUptS3lRVVVFZFhnWHpKQklhUmxSUGIwcnVxczRWZndUcEZ6ZGxmaGUwWWZndg?oc=5"
+          },
+          {
+            "label": "新浪财经：「AI新世代」“数据上传”风波后，智谱接连上线补救措施，AI数据安全再敲警钟 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1QyajhBZlFwT3BiTzkyaE1yYm1Za0pOUzg2cFJ1dTl4RHB0d3ZZSTBuYTNMaDNRcmZ6VGlnN09MclRmQjROM3hiTi1rZVBPRFo4Q2JOU2poVUpyUnVLeUdxOTB1OXVvWERsNFNyMkc4bDU4UFYxM2xpN0ZEZ2xGbWNJa0Y1YVRfbFZ1aldhVHV2VExxS3FCV21OcU9pTnlRZkhXbVczTQ?oc=5"
+          }
+        ],
+        "source": "Memeburn",
+        "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMndIdDJmTlFFdktLTzFxeXNySVEyekZLUDlvUzNXa0NnZXNHSXU0OUh6T2E0YXJwbk42WmM3UEkzTGtBX29uNjZtQlV6c2NJZVlfOE40Y3dZaGU1dzMwbmNOR1FCcURMbFB6UHNfLTVNX2x1MmctNXd2NnBkLWhWMjU5ZXpvemlkdnBzR1hqcnhHTVA0UVZOcGRub0hXQ1lXSWxaTldiM3hGSk5LZXpzUEt4dl9fcjhDYlFuSUpGbDFvaGxj?oc=5"
+      },
+      {
+        "slug": "open-source-20260922-auto-2-3db70c",
+        "title": "月之暗面推出Kimi Code桌面版",
+        "category": "开源项目",
+        "date": "2026-09-22",
+        "summary": "月之暗面推出Kimi Code桌面版支持目标和内置浏览器不过并未开源- AI 人工智能 cnBeta",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "月之暗面推出Kimi Code桌面版 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "月之暗面推出Kimi Code桌面版支持目标和内置浏览器不过并未开源- AI 人工智能 cnBeta",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "月之暗面推出Kimi Code桌面版支持目标和内置浏览器不过并未开源- AI 人工智能 cnBeta",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YU212WFBkblo4SnktODFGNE1QVmVMdExFMDNYUE1oMmIxb3N6UkpxbHVNcUptS3lRVVVFZFhnWHpKQklhUmxSUGIwcnVxczRWZndUcEZ6ZGxmaGUwWWZndg?oc=5"
+          },
+          {
+            "label": "Memeburn：GPT-6 Astra Is Testing Anthropic's Slowdown, and the Market Is Rewardi",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMndIdDJmTlFFdktLTzFxeXNySVEyekZLUDlvUzNXa0NnZXNHSXU0OUh6T2E0YXJwbk42WmM3UEkzTGtBX29uNjZtQlV6c2NJZVlfOE40Y3dZaGU1dzMwbmNOR1FCcURMbFB6UHNfLTVNX2x1MmctNXd2NnBkLWhWMjU5ZXpvemlkdnBzR1hqcnhHTVA0UVZOcGRub0hXQ1lXSWxaTldiM3hGSk5LZXpzUEt4dl9fcjhDYlFuSUpGbDFvaGxj?oc=5"
+          },
+          {
+            "label": "新浪财经：「AI新世代」“数据上传”风波后，智谱接连上线补救措施，AI数据安全再敲警钟 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1QyajhBZlFwT3BiTzkyaE1yYm1Za0pOUzg2cFJ1dTl4RHB0d3ZZSTBuYTNMaDNRcmZ6VGlnN09MclRmQjROM3hiTi1rZVBPRFo4Q2JOU2poVUpyUnVLeUdxOTB1OXVvWERsNFNyMkc4bDU4UFYxM2xpN0ZEZ2xGbWNJa0Y1YVRfbFZ1aldhVHV2VExxS3FCV21OcU9pTnlRZkhXbVczTQ?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YU212WFBkblo4SnktODFGNE1QVmVMdExFMDNYUE1oMmIxb3N6UkpxbHVNcUptS3lRVVVFZFhnWHpKQklhUmxSUGIwcnVxczRWZndUcEZ6ZGxmaGUwWWZndg?oc=5"
+      },
       {
         "slug": "open-source-20260921-auto-1-2bc45f",
         "title": "Qwen Image 2.1: 7B",
