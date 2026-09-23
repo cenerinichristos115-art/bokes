@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260923-auto-1-fa1df2",
+        "title": "Snowmaking With Ar",
+        "category": "AI新闻",
+        "date": "2026-09-23",
+        "summary": "Snowmaking With Artificial Intelligence SAM Magazi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Snowmaking With Ar 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Snowmaking With Artificial Intelligence SAM Magazi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Snowmaking With Artificial Intelligence SAM Magazi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SAM Magazine：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTTFRckZIX0lLbzI0R2NOczlpTU1XRFBmSDV6dHhKRmZpbXhMT2RMRnhBeXh0ZC1rRjJGY1N0ZGJCaXhRZFJoenl4OHdDQmJFTGhNRmZqZXY1TWtUNmlSSzMyRXR1T3FYSzVueEhPbjh3dw?oc=5"
+          },
+          {
+            "label": "static.weeklyonstock.com：360首批获得国家级人工智能安全一级资质-公司动态 - static.weeklyonstock.com",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVXU2NktWdklGdl9rTEdNaWx1MXZUYmgzbDMxcGFFS0NsTFhwN1k0cmRxNlpKSjR5NVp5NEsyUjJBQVFONG55aDJtVi1QQ2h3bUxSZEgwbVA1YVNhajJ3UU5pdk5rdw?oc=5"
+          },
+          {
+            "label": "CNBC：AI is killing the grunt work, forcing companies to rethink entry-level",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3NHcEl2bmIzaWlmYkk3UkR0U1cxYTNldmo1YUpMSzNpRWVXbmNqYnVvbHJVWXZlNWxURXNsSmViWERTUUE5QXVjcGI4VVB6R09GeW5VU2pnMm5OcFAxNm1JaVI4VUpfbTZkTzNiNUpPLVZiZDhpcFUzVmE1LVJBOUVrSnFWRjhjN3Z3ZtIBkgFBVV95cUxOUm1KWHkxMzVZWEhVTkxRdTB2U1RUX05uMGFWVWhjYmZJWjF1ckhCbnlLTVNzeGNZTzBLdExBd0c2QjRZSzhfRFp4ZDVObHpYVXJlM2FSdDhLT0tqMzM2N0pTbzNESnZSUWU3dzVmZVNrWFViUjF1NWdyS3NWcEltV1Zldy1fRjFIZVRlZFpZTFdWZw?oc=5"
+          }
+        ],
+        "source": "SAM Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTTFRckZIX0lLbzI0R2NOczlpTU1XRFBmSDV6dHhKRmZpbXhMT2RMRnhBeXh0ZC1rRjJGY1N0ZGJCaXhRZFJoenl4OHdDQmJFTGhNRmZqZXY1TWtUNmlSSzMyRXR1T3FYSzVueEhPbjh3dw?oc=5"
+      },
+      {
+        "slug": "ai-news-20260923-auto-2-e45f62",
+        "title": "360首批获得国家级人工智能安全一级",
+        "category": "AI新闻",
+        "date": "2026-09-23",
+        "summary": "360首批获得国家级人工智能安全一级资质-公司动态 static.weeklyonstock.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "360首批获得国家级人工智能安全一级 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "360首批获得国家级人工智能安全一级资质-公司动态 static.weeklyonstock.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "360首批获得国家级人工智能安全一级资质-公司动态 static.weeklyonstock.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "static.weeklyonstock.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVXU2NktWdklGdl9rTEdNaWx1MXZUYmgzbDMxcGFFS0NsTFhwN1k0cmRxNlpKSjR5NVp5NEsyUjJBQVFONG55aDJtVi1QQ2h3bUxSZEgwbVA1YVNhajJ3UU5pdk5rdw?oc=5"
+          },
+          {
+            "label": "SAM Magazine：Snowmaking With Artificial Intelligence - SAM Magazine",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aTTFRckZIX0lLbzI0R2NOczlpTU1XRFBmSDV6dHhKRmZpbXhMT2RMRnhBeXh0ZC1rRjJGY1N0ZGJCaXhRZFJoenl4OHdDQmJFTGhNRmZqZXY1TWtUNmlSSzMyRXR1T3FYSzVueEhPbjh3dw?oc=5"
+          },
+          {
+            "label": "CNBC：AI is killing the grunt work, forcing companies to rethink entry-level",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3NHcEl2bmIzaWlmYkk3UkR0U1cxYTNldmo1YUpMSzNpRWVXbmNqYnVvbHJVWXZlNWxURXNsSmViWERTUUE5QXVjcGI4VVB6R09GeW5VU2pnMm5OcFAxNm1JaVI4VUpfbTZkTzNiNUpPLVZiZDhpcFUzVmE1LVJBOUVrSnFWRjhjN3Z3ZtIBkgFBVV95cUxOUm1KWHkxMzVZWEhVTkxRdTB2U1RUX05uMGFWVWhjYmZJWjF1ckhCbnlLTVNzeGNZTzBLdExBd0c2QjRZSzhfRFp4ZDVObHpYVXJlM2FSdDhLT0tqMzM2N0pTbzNESnZSUWU3dzVmZVNrWFViUjF1NWdyS3NWcEltV1Zldy1fRjFIZVRlZFpZTFdWZw?oc=5"
+          }
+        ],
+        "source": "static.weeklyonstock.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVXU2NktWdklGdl9rTEdNaWx1MXZUYmgzbDMxcGFFS0NsTFhwN1k0cmRxNlpKSjR5NVp5NEsyUjJBQVFONG55aDJtVi1QQ2h3bUxSZEgwbVA1YVNhajJ3UU5pdk5rdw?oc=5"
+      },
+      {
         "slug": "ai-news-20260922-auto-1-416fad",
         "title": "再创佳绩，东莞市技师学院在人工智能应",
         "category": "AI新闻",
@@ -20235,6 +20351,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260923-auto-1-c49ced",
+        "title": "马斯克谈AI时代核心竞争力：最重要的",
+        "category": "AI使用教程",
+        "date": "2026-09-23",
+        "summary": "马斯克谈AI时代核心竞争力：最重要的是会提问 tech.ifeng.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "马斯克谈AI时代核心竞争力：最重要的 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "马斯克谈AI时代核心竞争力：最重要的是会提问 tech.ifeng.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "马斯克谈AI时代核心竞争力：最重要的是会提问 tech.ifeng.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech.ifeng.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWkpOZmRDdXM3eE5uS2NISG1TbUxIc3JHbEJUZnNHWVJyNGNyYjZJNDByUEVqS0QxSWFMdG84bVVFV1dRWGxVRUxxLWU?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：星尘OS黑客松北京站收官：36小时、15支队伍、10余个机器人应用跑通 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xSWNrYkxjUHF4S1FjWTBlYXRVTjF6Y2R3M0lnX1MtZE5VWU5VZlp5LVFjVkJRYkxmN2ZoaTlweS1OMWh6OFB2M05XcG9wdGdhZlU1OU9XaHp3TVptaF9kWXV6ODQxMk0?oc=5"
+          },
+          {
+            "label": "中华网财经：豆包工作功能更新，新增“目标模式”与“计划模式” - 中华网财经",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSlVQMjlqWTNfWXlMNE94ZWZmbXlfazZzek5haHZmSTRlZURkdXotZmpPTUZHZ1hhMVJQdXl2cHhqU19BY2JJaHpxTlhUZE0xSDVQWTJBYzIxTFVrb3FmTUM2OU91SDNMR3daanRR?oc=5"
+          }
+        ],
+        "source": "tech.ifeng.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XWkpOZmRDdXM3eE5uS2NISG1TbUxIc3JHbEJUZnNHWVJyNGNyYjZJNDByUEVqS0QxSWFMdG84bVVFV1dRWGxVRUxxLWU?oc=5"
+      },
+      {
         "slug": "ai-guide-20260922-auto-1-ed2b34",
         "title": "AI生成图算\"作品\"吗？ 法院：从三",
         "category": "AI使用教程",
@@ -29775,6 +29949,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260923-auto-1-1a8f17",
+        "title": "Why I Built an Ope",
+        "category": "开源项目",
+        "date": "2026-09-23",
+        "summary": "Why I Built an Open-Source Project Manager Where A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why I Built an Ope 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Why I Built an Open-Source Project Manager Where A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why I Built an Open-Source Project Manager Where A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "hackernoon.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHRZV2UyWUF5UlRJRGRqaW1BUXUxZ0c1Y2RoM2N3NmdfYXBrT1ByTFR3ekVxbkRPakI1NjM2czZNa3oyRXh1b3NiM1R3b0hBd0RrTTdYVGd2YzNPTlloZjQ4THJDUnVGbmtzWWlqRE9tZVVSY0ZZcmt6TmVVTURocnJ0LUJoUkJQMG9DZVBvTmU3a3h1UnpsVzM1S0gzTXJI?oc=5"
+          },
+          {
+            "label": "Business Standard：Anthropic and OpenAI roll out cheaper models amid intensifying AI race",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDRNSEJnNjhvbWl3VjJVcmg0MGRIUDd0RnNOMHJfZUpTdURsQ0ZqNXV3YlpFOURxZUl0cjk5dFdTTnR5VFlsWi1Rcm40ZnFrZzZvMmlUSEZsRHJNc25pLW5vZERUYk9rNDdyY0NVcF9BWkVTblpING1UUFlqZmg5eVQwb1loSW5BSlAyUFcteG84VnR0dlFlaU9kay1XelhWM0ZEZXNIZHpjODZHUmFlYklJamRGMTVJc1dVUUVnS2pqYlpLQ1hpZHJhdGJud2c2eUNiSjF5NUY1Mk3SAeABQVVfeXFMTS1nTl9iVWpDcnA3a0lZS1dBaXJwTkZkV0NmdnFKNngyc2plMFF3OGdpS0RZU2kteGlpSUF6WEJZVzdVTmpESEQ4X3l4Tm8zQkR4QXA1ME1JOWctUUlkeEpOb1BhX2RReEQ4S3BXTjJ2b1RvRHNnN1B6ZElOd1ktd2JOR0QweVRPSGdOZGtyNTBnczYwWHptWFBHMTNtaC1BUlFFaEtmTXhyUGNldXVRVUxwSkZSbS1PbmhWRng3ZkxycGd3bjh4bXZVaUpYZUVmdTFJdFZhLUl0eDZTOGVzUHE?oc=5"
+          },
+          {
+            "label": "搜狐网：Meta 承认 AI 产品 Muse 设计深受开源项目 OpenClaw 影响 ｜#AI资讯# #Meta# #产品设计# - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdiZUtpTXRUYmRmdXBzOXFCbEdNXzd6NFROVnBwcVpLYjRrV0dMQ3MzVmhSLVZqajNBQVJ1eF9oTnBteXVLZm5mRURwS0xtdWZKd0FFa1A4UTNFWVM1ZmJUUVpUUG43Y0ZEeTBFUTFvZVQ0Q1hERVI1cmVXcnYtVGtubHJsR05sVEljRg?oc=5"
+          }
+        ],
+        "source": "hackernoon.com",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHRZV2UyWUF5UlRJRGRqaW1BUXUxZ0c1Y2RoM2N3NmdfYXBrT1ByTFR3ekVxbkRPakI1NjM2czZNa3oyRXh1b3NiM1R3b0hBd0RrTTdYVGd2YzNPTlloZjQ4THJDUnVGbmtzWWlqRE9tZVVSY0ZZcmt6TmVVTURocnJ0LUJoUkJQMG9DZVBvTmU3a3h1UnpsVzM1S0gzTXJI?oc=5"
+      },
+      {
+        "slug": "open-source-20260923-auto-2-eaf4ad",
+        "title": "Anthropic and Open",
+        "category": "开源项目",
+        "date": "2026-09-23",
+        "summary": "Anthropic and OpenAI roll out cheaper models amid",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic and Open 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic and OpenAI roll out cheaper models amid",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic and OpenAI roll out cheaper models amid",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Business Standard：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDRNSEJnNjhvbWl3VjJVcmg0MGRIUDd0RnNOMHJfZUpTdURsQ0ZqNXV3YlpFOURxZUl0cjk5dFdTTnR5VFlsWi1Rcm40ZnFrZzZvMmlUSEZsRHJNc25pLW5vZERUYk9rNDdyY0NVcF9BWkVTblpING1UUFlqZmg5eVQwb1loSW5BSlAyUFcteG84VnR0dlFlaU9kay1XelhWM0ZEZXNIZHpjODZHUmFlYklJamRGMTVJc1dVUUVnS2pqYlpLQ1hpZHJhdGJud2c2eUNiSjF5NUY1Mk3SAeABQVVfeXFMTS1nTl9iVWpDcnA3a0lZS1dBaXJwTkZkV0NmdnFKNngyc2plMFF3OGdpS0RZU2kteGlpSUF6WEJZVzdVTmpESEQ4X3l4Tm8zQkR4QXA1ME1JOWctUUlkeEpOb1BhX2RReEQ4S3BXTjJ2b1RvRHNnN1B6ZElOd1ktd2JOR0QweVRPSGdOZGtyNTBnczYwWHptWFBHMTNtaC1BUlFFaEtmTXhyUGNldXVRVUxwSkZSbS1PbmhWRng3ZkxycGd3bjh4bXZVaUpYZUVmdTFJdFZhLUl0eDZTOGVzUHE?oc=5"
+          },
+          {
+            "label": "hackernoon.com：Why I Built an Open-Source Project Manager Where AI Can Actually Take ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHRZV2UyWUF5UlRJRGRqaW1BUXUxZ0c1Y2RoM2N3NmdfYXBrT1ByTFR3ekVxbkRPakI1NjM2czZNa3oyRXh1b3NiM1R3b0hBd0RrTTdYVGd2YzNPTlloZjQ4THJDUnVGbmtzWWlqRE9tZVVSY0ZZcmt6TmVVTURocnJ0LUJoUkJQMG9DZVBvTmU3a3h1UnpsVzM1S0gzTXJI?oc=5"
+          },
+          {
+            "label": "搜狐网：Meta 承认 AI 产品 Muse 设计深受开源项目 OpenClaw 影响 ｜#AI资讯# #Meta# #产品设计# - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWdiZUtpTXRUYmRmdXBzOXFCbEdNXzd6NFROVnBwcVpLYjRrV0dMQ3MzVmhSLVZqajNBQVJ1eF9oTnBteXVLZm5mRURwS0xtdWZKd0FFa1A4UTNFWVM1ZmJUUVpUUG43Y0ZEeTBFUTFvZVQ0Q1hERVI1cmVXcnYtVGtubHJsR05sVEljRg?oc=5"
+          }
+        ],
+        "source": "Business Standard",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTDRNSEJnNjhvbWl3VjJVcmg0MGRIUDd0RnNOMHJfZUpTdURsQ0ZqNXV3YlpFOURxZUl0cjk5dFdTTnR5VFlsWi1Rcm40ZnFrZzZvMmlUSEZsRHJNc25pLW5vZERUYk9rNDdyY0NVcF9BWkVTblpING1UUFlqZmg5eVQwb1loSW5BSlAyUFcteG84VnR0dlFlaU9kay1XelhWM0ZEZXNIZHpjODZHUmFlYklJamRGMTVJc1dVUUVnS2pqYlpLQ1hpZHJhdGJud2c2eUNiSjF5NUY1Mk3SAeABQVVfeXFMTS1nTl9iVWpDcnA3a0lZS1dBaXJwTkZkV0NmdnFKNngyc2plMFF3OGdpS0RZU2kteGlpSUF6WEJZVzdVTmpESEQ4X3l4Tm8zQkR4QXA1ME1JOWctUUlkeEpOb1BhX2RReEQ4S3BXTjJ2b1RvRHNnN1B6ZElOd1ktd2JOR0QweVRPSGdOZGtyNTBnczYwWHptWFBHMTNtaC1BUlFFaEtmTXhyUGNldXVRVUxwSkZSbS1PbmhWRng3ZkxycGd3bjh4bXZVaUpYZUVmdTFJdFZhLUl0eDZTOGVzUHE?oc=5"
+      },
       {
         "slug": "open-source-20260922-auto-1-8ace5f",
         "title": "GPT-6 Astra Is Tes",
