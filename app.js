@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260924-auto-1-fa090b",
+        "title": "实力获权威认证！极逸SOON大模型通",
+        "category": "AI新闻",
+        "date": "2026-09-24",
+        "summary": "实力获权威认证！极逸SOON大模型通过备案，攻坚2D骨骼动画生成与视频生游戏技术 mtz.china",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "实力获权威认证！极逸SOON大模型通 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "实力获权威认证！极逸SOON大模型通过备案，攻坚2D骨骼动画生成与视频生游戏技术 mtz.china",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "实力获权威认证！极逸SOON大模型通过备案，攻坚2D骨骼动画生成与视频生游戏技术 mtz.china",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "mtz.china.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTXN6OUZIZEI3ZEdJZ3lvTGdtS3lHazRXRXd5YTRlSnJZeDVSdTZGRlliTXRZQ2l2Ty1NYWJqbXlxNUc2T1JTeUtvdkl1MTlYZmlZaVlzTFJfRmJ2WkE?oc=5"
+          },
+          {
+            "label": "voiceofemirates.com：Elon Musk sets a predicted date for the dominance of artificial intell",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSm1EVW9BVlJKNE05eE5lVXl2TzNFRURMMjdXRUlkR2xaUGZYWWVBOWhKQXRlZGhxRHBrOEFycmNQa2RfWTNsWDRQNF9lSHZIU3FRNThSX05NZi01cUNIU2pBV19zV2prYkdLWWlIdHJoVkE2R1BpUnNHUEdaV3lrVl9SYVQ5WjdGMmJfbV9IVTJ2UENiaHp3Ql9IcHpOSFhYVzJYNVF2STN2VWNmTXZjb2VraDJxZTJJTmJvVU9KbHFNV0c2OXZPbmhzRVE0dEk1ZEZQZnF6d2lHV2lCbmtNYmwwZXVpSzFCQjB0SUNzcw?oc=5"
+          },
+          {
+            "label": "手机新浪网：迭代周期仅需数日！深圳AI产业“链”通全球 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LcWRlVjVCQ3JQQnFoV056VVdONlFnQU9LcFpzUnB5XzNLby1STTkyQzI5NnAxZW1lUl9zMmZzcXpUMkZwMk5GVXNjN25JV2s5WHRIcm4wR0Y4eWRaZ3RIcW5WS2thVnM2Tk1ucVZkdWVlQQ?oc=5"
+          }
+        ],
+        "source": "mtz.china.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTXN6OUZIZEI3ZEdJZ3lvTGdtS3lHazRXRXd5YTRlSnJZeDVSdTZGRlliTXRZQ2l2Ty1NYWJqbXlxNUc2T1JTeUtvdkl1MTlYZmlZaVlzTFJfRmJ2WkE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260924-auto-2-5dad2b",
+        "title": "Elon Musk sets a p",
+        "category": "AI新闻",
+        "date": "2026-09-24",
+        "summary": "Elon Musk sets a predicted date for the dominance",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Elon Musk sets a p 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Elon Musk sets a predicted date for the dominance",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Elon Musk sets a predicted date for the dominance",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "voiceofemirates.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSm1EVW9BVlJKNE05eE5lVXl2TzNFRURMMjdXRUlkR2xaUGZYWWVBOWhKQXRlZGhxRHBrOEFycmNQa2RfWTNsWDRQNF9lSHZIU3FRNThSX05NZi01cUNIU2pBV19zV2prYkdLWWlIdHJoVkE2R1BpUnNHUEdaV3lrVl9SYVQ5WjdGMmJfbV9IVTJ2UENiaHp3Ql9IcHpOSFhYVzJYNVF2STN2VWNmTXZjb2VraDJxZTJJTmJvVU9KbHFNV0c2OXZPbmhzRVE0dEk1ZEZQZnF6d2lHV2lCbmtNYmwwZXVpSzFCQjB0SUNzcw?oc=5"
+          },
+          {
+            "label": "mtz.china.com：实力获权威认证！极逸SOON大模型通过备案，攻坚2D骨骼动画生成与视频生游戏技术 - mtz.china.com",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTXN6OUZIZEI3ZEdJZ3lvTGdtS3lHazRXRXd5YTRlSnJZeDVSdTZGRlliTXRZQ2l2Ty1NYWJqbXlxNUc2T1JTeUtvdkl1MTlYZmlZaVlzTFJfRmJ2WkE?oc=5"
+          },
+          {
+            "label": "手机新浪网：迭代周期仅需数日！深圳AI产业“链”通全球 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LcWRlVjVCQ3JQQnFoV056VVdONlFnQU9LcFpzUnB5XzNLby1STTkyQzI5NnAxZW1lUl9zMmZzcXpUMkZwMk5GVXNjN25JV2s5WHRIcm4wR0Y4eWRaZ3RIcW5WS2thVnM2Tk1ucVZkdWVlQQ?oc=5"
+          }
+        ],
+        "source": "voiceofemirates.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSm1EVW9BVlJKNE05eE5lVXl2TzNFRURMMjdXRUlkR2xaUGZYWWVBOWhKQXRlZGhxRHBrOEFycmNQa2RfWTNsWDRQNF9lSHZIU3FRNThSX05NZi01cUNIU2pBV19zV2prYkdLWWlIdHJoVkE2R1BpUnNHUEdaV3lrVl9SYVQ5WjdGMmJfbV9IVTJ2UENiaHp3Ql9IcHpOSFhYVzJYNVF2STN2VWNmTXZjb2VraDJxZTJJTmJvVU9KbHFNV0c2OXZPbmhzRVE0dEk1ZEZQZnF6d2lHV2lCbmtNYmwwZXVpSzFCQjB0SUNzcw?oc=5"
+      },
+      {
         "slug": "ai-news-20260923-auto-1-fa1df2",
         "title": "Snowmaking With Ar",
         "category": "AI新闻",
@@ -20351,6 +20467,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260924-auto-1-ea0764",
+        "title": "DeepSeek V4.1 Flas",
+        "category": "AI使用教程",
+        "date": "2026-09-24",
+        "summary": "DeepSeek V4.1 Flash 越狱成功！Cherry Studio + API，关闭思考才",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek V4.1 Flas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek V4.1 Flash 越狱成功！Cherry Studio + API，关闭思考才",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek V4.1 Flash 越狱成功！Cherry Studio + API，关闭思考才",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Unisba Media：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jc1ZOeVJOVFlXSjBXTjVxbVlFSEhmakxDVEFzblZXTjN2WTY2c2ZqUWpjMmRMVTU5RnBRbW9HX2N6R01PMVR5NUFwS0p4NGVVZk9TclRJZWt6cW4xQ0pOX052Nzl6UQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：锋面观点 | 未来基础设施：AI-first（AI优先）、AI-native（AI原生） - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyNkhCcnNLc0RmTmhiaVd1VTBrTFBCQmtEME5GSFdCVjlEaGhxRHNLZEt1X05ZbUFaR01NOHR1WHkxalFDZXFiLU5ZWnNaT3NQUFNMMnJUcS0zUTc0MWhkT0ZydEZqYUhUTEsxV25nLTQzaDdFb2pNdV9oWlloSnM?oc=5"
+          },
+          {
+            "label": "财联社：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          }
+        ],
+        "source": "Unisba Media",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jc1ZOeVJOVFlXSjBXTjVxbVlFSEhmakxDVEFzblZXTjN2WTY2c2ZqUWpjMmRMVTU5RnBRbW9HX2N6R01PMVR5NUFwS0p4NGVVZk9TclRJZWt6cW4xQ0pOX052Nzl6UQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20260923-auto-1-c49ced",
         "title": "马斯克谈AI时代核心竞争力：最重要的",
         "category": "AI使用教程",
@@ -29949,6 +30123,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260924-auto-1-664065",
+        "title": "Domestic Open-Sour",
+        "category": "开源项目",
+        "date": "2026-09-24",
+        "summary": "Domestic Open-Source AI Models: The Emerging New B",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Domestic Open-Sour 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Domestic Open-Source AI Models: The Emerging New B",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Domestic Open-Source AI Models: The Emerging New B",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "eu.36kr.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UX3M0RjNvdlBWbENrbUJCRzBPLUtaU1R3dWlFZmdOd0d3THp6WTFqRUl3VW5XdVpra3M4SGNTTm93MVJaOXJHMFliYWtiQ2ZQS0t3?oc=5"
+          },
+          {
+            "label": "news.mydrivers.com：每日互动携CCE价值共创黑客松成果及公司AI实践亮相GOAI开源市集 - news.mydrivers.com",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WnFPQnBhZ1VvRkF0LXZScGdaTS03WWhzVmpRMHFQbElDSTJ4Z0pvOUxkV2FrWnJLaDNPZ1BsS0h0bGhOemJZZzRISDYwMzVENE9yeUJTc3I?oc=5"
+          },
+          {
+            "label": "80aj.com：开发者Vibe Coding数月打造开源下载器DownLord，挑战付费下载软件 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IYjNFSHZzQUR2ZzFLOERrbGhjZ1FnU0lpeExIdGp6R2lrZUFUNV9IaTV1MHRHOHRoN2R6bHY0ZHlYMVJucHEtb2IxNms3Y1BkM1d3WXNqbXRpTUJkandYOGFtZ1VxZjZDd3VTNWhUekRpdw?oc=5"
+          }
+        ],
+        "source": "eu.36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UX3M0RjNvdlBWbENrbUJCRzBPLUtaU1R3dWlFZmdOd0d3THp6WTFqRUl3VW5XdVpra3M4SGNTTm93MVJaOXJHMFliYWtiQ2ZQS0t3?oc=5"
+      },
+      {
+        "slug": "open-source-20260924-auto-2-1cbcf4",
+        "title": "每日互动携CCE价值共创黑客松成果及",
+        "category": "开源项目",
+        "date": "2026-09-24",
+        "summary": "每日互动携CCE价值共创黑客松成果及公司AI实践亮相GOAI开源市集 news.mydrivers.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "每日互动携CCE价值共创黑客松成果及 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "每日互动携CCE价值共创黑客松成果及公司AI实践亮相GOAI开源市集 news.mydrivers.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "每日互动携CCE价值共创黑客松成果及公司AI实践亮相GOAI开源市集 news.mydrivers.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "news.mydrivers.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WnFPQnBhZ1VvRkF0LXZScGdaTS03WWhzVmpRMHFQbElDSTJ4Z0pvOUxkV2FrWnJLaDNPZ1BsS0h0bGhOemJZZzRISDYwMzVENE9yeUJTc3I?oc=5"
+          },
+          {
+            "label": "eu.36kr.com：Domestic Open-Source AI Models: The Emerging New Business Opportunity ",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UX3M0RjNvdlBWbENrbUJCRzBPLUtaU1R3dWlFZmdOd0d3THp6WTFqRUl3VW5XdVpra3M4SGNTTm93MVJaOXJHMFliYWtiQ2ZQS0t3?oc=5"
+          },
+          {
+            "label": "80aj.com：开发者Vibe Coding数月打造开源下载器DownLord，挑战付费下载软件 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IYjNFSHZzQUR2ZzFLOERrbGhjZ1FnU0lpeExIdGp6R2lrZUFUNV9IaTV1MHRHOHRoN2R6bHY0ZHlYMVJucHEtb2IxNms3Y1BkM1d3WXNqbXRpTUJkandYOGFtZ1VxZjZDd3VTNWhUekRpdw?oc=5"
+          }
+        ],
+        "source": "news.mydrivers.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82WnFPQnBhZ1VvRkF0LXZScGdaTS03WWhzVmpRMHFQbElDSTJ4Z0pvOUxkV2FrWnJLaDNPZ1BsS0h0bGhOemJZZzRISDYwMzVENE9yeUJTc3I?oc=5"
+      },
       {
         "slug": "open-source-20260923-auto-1-1a8f17",
         "title": "Why I Built an Ope",
