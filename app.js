@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260925-auto-1-64726e",
+        "title": "当就业遇上AI，劳动力市场迎来哪些改",
+        "category": "AI新闻",
+        "date": "2026-09-25",
+        "summary": "当就业遇上AI，劳动力市场迎来哪些改变？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "当就业遇上AI，劳动力市场迎来哪些改 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "当就业遇上AI，劳动力市场迎来哪些改变？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "当就业遇上AI，劳动力市场迎来哪些改变？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMUNPMlZxSDJEemFrV3VFbTJXRnc2WjNSTHFrSWhvZGFWQ2I0NkNOUi1wT1c0b2ZPbjNfYkltX1BuN3hnd0RjVVp0UjFUY05iaFRJekZGekdjRk5uMjFINFRpUlhxci0wTXYyMUktNnlFU2xOcUM5aF9SMzBZaEE?oc=5"
+          },
+          {
+            "label": "手机新浪网：刘元春：为什么说AI治理的关口必须前移 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUF9NZHRCTWpTWEo4ZmhiU3kzQ2NNRFdUcHV0Q3J4aW4zX2VCQ2FGajV4bUFiU1NlbEdBNThnZUo4ZUhMdzlxRzFoSF9OQjVtZ2RWWTJ2ZkZlbWRfX290ZTNiUFZlelFsQjBTdnhnRDRtdzNOaVgxQjBsd1paNUU?oc=5"
+          },
+          {
+            "label": "搜狐网：刘元春：为什么说AI治理的关口必须前移 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTc2SW9YVG54cDQxRVpjRmNIbUxvdGtXR3VfQ1Fsa04yZGl3bklTNlJYbEFlbC1hZGVFeUtzZTRfcUFLd3lpam9sc2FjYzBsVF9ZZjdmXy1hQmJKYlI3eEJQbE1hbXBuV0xBVWI3blVtRjU5aExHMDdtOXNMNC1oMldSeVNZamQ5R3ZnSQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMUNPMlZxSDJEemFrV3VFbTJXRnc2WjNSTHFrSWhvZGFWQ2I0NkNOUi1wT1c0b2ZPbjNfYkltX1BuN3hnd0RjVVp0UjFUY05iaFRJekZGekdjRk5uMjFINFRpUlhxci0wTXYyMUktNnlFU2xOcUM5aF9SMzBZaEE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260925-auto-2-14f811",
+        "title": "刘元春：为什么说AI治理的关口必须前",
+        "category": "AI新闻",
+        "date": "2026-09-25",
+        "summary": "刘元春：为什么说AI治理的关口必须前移 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "刘元春：为什么说AI治理的关口必须前 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "刘元春：为什么说AI治理的关口必须前移 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "刘元春：为什么说AI治理的关口必须前移 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUF9NZHRCTWpTWEo4ZmhiU3kzQ2NNRFdUcHV0Q3J4aW4zX2VCQ2FGajV4bUFiU1NlbEdBNThnZUo4ZUhMdzlxRzFoSF9OQjVtZ2RWWTJ2ZkZlbWRfX290ZTNiUFZlelFsQjBTdnhnRDRtdzNOaVgxQjBsd1paNUU?oc=5"
+          },
+          {
+            "label": "手机新浪网：当就业遇上AI，劳动力市场迎来哪些改变？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUMUNPMlZxSDJEemFrV3VFbTJXRnc2WjNSTHFrSWhvZGFWQ2I0NkNOUi1wT1c0b2ZPbjNfYkltX1BuN3hnd0RjVVp0UjFUY05iaFRJekZGekdjRk5uMjFINFRpUlhxci0wTXYyMUktNnlFU2xOcUM5aF9SMzBZaEE?oc=5"
+          },
+          {
+            "label": "搜狐网：刘元春：为什么说AI治理的关口必须前移 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTc2SW9YVG54cDQxRVpjRmNIbUxvdGtXR3VfQ1Fsa04yZGl3bklTNlJYbEFlbC1hZGVFeUtzZTRfcUFLd3lpam9sc2FjYzBsVF9ZZjdmXy1hQmJKYlI3eEJQbE1hbXBuV0xBVWI3blVtRjU5aExHMDdtOXNMNC1oMldSeVNZamQ5R3ZnSQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUF9NZHRCTWpTWEo4ZmhiU3kzQ2NNRFdUcHV0Q3J4aW4zX2VCQ2FGajV4bUFiU1NlbEdBNThnZUo4ZUhMdzlxRzFoSF9OQjVtZ2RWWTJ2ZkZlbWRfX290ZTNiUFZlelFsQjBTdnhnRDRtdzNOaVgxQjBsd1paNUU?oc=5"
+      },
+      {
         "slug": "ai-news-20260924-auto-1-fa090b",
         "title": "实力获权威认证！极逸SOON大模型通",
         "category": "AI新闻",
@@ -20467,6 +20583,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260925-auto-1-3f215e",
+        "title": "prompt工程师，一个新兴职业的崛",
+        "category": "AI使用教程",
+        "date": "2026-09-25",
+        "summary": "prompt工程师，一个新兴职业的崛起与消失 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "prompt工程师，一个新兴职业的崛 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "prompt工程师，一个新兴职业的崛起与消失 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "prompt工程师，一个新兴职业的崛起与消失 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzZSSlhCMWFPcFJXT05VSk9LdVZHcVg4YmVNZVhVZHVtUVU0eFZGWGFOUUwxb2JhNVlEMEZIQS1GRG9UUE00ZlprUFZaVl9uVHlHamZjUDV1UVFqMk9pR09SWWl6Mm1ZcldQQnB3MVROX2RFOEhXMFRHWDhXem1TeW8tanR2SWU1?oc=5"
+          },
+          {
+            "label": "وزارة الخارجية الإماراتية：Abdullah bin Zayed meets Lebanese PM in New York; ‘One Million Lebanes",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sLWFQcjNDZTBXS09tSWNNV2ZwQlU3Tm9jcjJlWnp4dHhCSXhWNEdtUmFKdWlhQ2ZRQjlMLVRhNlRyemk0TkVtcE5fMjljS19DMkdHczBFMXZUY1F5VlNUbUNPSXJhRXhTN0JJR3R5UQ?oc=5"
+          },
+          {
+            "label": "blog.csdn.net：腾讯：极少任务还原智能体全量评测 - blog.csdn.net",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVHlkYUctRnBnT2JsaG1rekV0c2dTWFV2dDBMNmdmNUJHUFdabEVaRVhoNFNDQjNzMnVTcXlySDlSeDRiOVk4cFltRC1qOGdiVmZFQU1yMnVHNFFSOXNvdmF5aW1rQjhsMjI4RnQxS2U?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzZSSlhCMWFPcFJXT05VSk9LdVZHcVg4YmVNZVhVZHVtUVU0eFZGWGFOUUwxb2JhNVlEMEZIQS1GRG9UUE00ZlprUFZaVl9uVHlHamZjUDV1UVFqMk9pR09SWWl6Mm1ZcldQQnB3MVROX2RFOEhXMFRHWDhXem1TeW8tanR2SWU1?oc=5"
+      },
+      {
         "slug": "ai-guide-20260924-auto-1-ea0764",
         "title": "DeepSeek V4.1 Flas",
         "category": "AI使用教程",
@@ -30123,6 +30297,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260925-auto-1-b7d752",
+        "title": "Black Forest Labs",
+        "category": "开源项目",
+        "date": "2026-09-25",
+        "summary": "Black Forest Labs Releases FLUX 3 Action: A 7B Ope",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Black Forest Labs 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Black Forest Labs Releases FLUX 3 Action: A 7B Ope",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Black Forest Labs Releases FLUX 3 Action: A 7B Ope",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjZHU3d4bnlOWWFaVFVSYnhhM0NwSkNNcGswSDEyUndzMWF5bEQ1WTA1eW9CV2pNNW4ySndCV0pqWUZpWkU2VUJfM01lVnEyUE5pX2F0QldoWGlYM1ZXYkJyeS15V0FoZ2txS05jQldyb2ZIRVl4akxveUJWcTlVMVNSWXhXcHdpU1F5dVdDV05PS2pWWnQ5Nl9BajdnUWJvRU5SbF9DbDduZ192LWNZaWFYblVvYWhCRWNHaWlBMHgzSUVnS0M0VEFZc1g0NmcxOWVkTlJ0MFRpMlNt0gHcAUFVX3lxTFBGNkdTd3hueU5ZYVpUVVJieGEzQ3BKQ01wazBIMTJSd3MxYXlsRDVZMDV5b0JXak01bjJKd0JXSmpZRmlaRTZVQl8zTWVWcTJQTmlfYXRCV2hYaVgzVldiQnJ5LXlXQWhna3FLTmNCV3JvZkhFWXhqTG95QlZxOVUxU1JZeFdwd2lTUXl1V0NXTk9LalZadDk2X0FqN2dRYm9FTlJsX0NsN25nX3YtY1lpYVhuVW9haEJFY0dpaUEweDNJRWdLQzRUQVlzWDQ2ZzE5ZWROUnQwVGkyU20?oc=5"
+          },
+          {
+            "label": "The Economic Times：'Compute in space will round up to 100%': Elon Musk backs future of AI",
+            "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUdIBtwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUQ?oc=5"
+          },
+          {
+            "label": "80aj.com：开源项目ComposeOps：AI运维个人服务器，高危操作需人工确认 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EVGZRT1BuQ2Z1VXlyOVVwUGpjamtvWWxkenlTVFZ1NTl1bTk2SUhoaFhUbHhTWjJlZUVzQXM3ZjZ2a0JJcWc4Q2ZsUWkwckxYcTFZWlU4Qmx6bUx0X0xsaA?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjZHU3d4bnlOWWFaVFVSYnhhM0NwSkNNcGswSDEyUndzMWF5bEQ1WTA1eW9CV2pNNW4ySndCV0pqWUZpWkU2VUJfM01lVnEyUE5pX2F0QldoWGlYM1ZXYkJyeS15V0FoZ2txS05jQldyb2ZIRVl4akxveUJWcTlVMVNSWXhXcHdpU1F5dVdDV05PS2pWWnQ5Nl9BajdnUWJvRU5SbF9DbDduZ192LWNZaWFYblVvYWhCRWNHaWlBMHgzSUVnS0M0VEFZc1g0NmcxOWVkTlJ0MFRpMlNt0gHcAUFVX3lxTFBGNkdTd3hueU5ZYVpUVVJieGEzQ3BKQ01wazBIMTJSd3MxYXlsRDVZMDV5b0JXak01bjJKd0JXSmpZRmlaRTZVQl8zTWVWcTJQTmlfYXRCV2hYaVgzVldiQnJ5LXlXQWhna3FLTmNCV3JvZkhFWXhqTG95QlZxOVUxU1JZeFdwd2lTUXl1V0NXTk9LalZadDk2X0FqN2dRYm9FTlJsX0NsN25nX3YtY1lpYVhuVW9haEJFY0dpaUEweDNJRWdLQzRUQVlzWDQ2ZzE5ZWROUnQwVGkyU20?oc=5"
+      },
+      {
+        "slug": "open-source-20260925-auto-2-6e6723",
+        "title": "'Compute in space",
+        "category": "开源项目",
+        "date": "2026-09-25",
+        "summary": "'Compute in space will round up to 100%': Elon Mus",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "'Compute in space 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "'Compute in space will round up to 100%': Elon Mus",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "'Compute in space will round up to 100%': Elon Mus",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Economic Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUdIBtwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Black Forest Labs Releases FLUX 3 Action: A 7B Open-Weights World Acti",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjZHU3d4bnlOWWFaVFVSYnhhM0NwSkNNcGswSDEyUndzMWF5bEQ1WTA1eW9CV2pNNW4ySndCV0pqWUZpWkU2VUJfM01lVnEyUE5pX2F0QldoWGlYM1ZXYkJyeS15V0FoZ2txS05jQldyb2ZIRVl4akxveUJWcTlVMVNSWXhXcHdpU1F5dVdDV05PS2pWWnQ5Nl9BajdnUWJvRU5SbF9DbDduZ192LWNZaWFYblVvYWhCRWNHaWlBMHgzSUVnS0M0VEFZc1g0NmcxOWVkTlJ0MFRpMlNt0gHcAUFVX3lxTFBGNkdTd3hueU5ZYVpUVVJieGEzQ3BKQ01wazBIMTJSd3MxYXlsRDVZMDV5b0JXak01bjJKd0JXSmpZRmlaRTZVQl8zTWVWcTJQTmlfYXRCV2hYaVgzVldiQnJ5LXlXQWhna3FLTmNCV3JvZkhFWXhqTG95QlZxOVUxU1JZeFdwd2lTUXl1V0NXTk9LalZadDk2X0FqN2dRYm9FTlJsX0NsN25nX3YtY1lpYVhuVW9haEJFY0dpaUEweDNJRWdLQzRUQVlzWDQ2ZzE5ZWROUnQwVGkyU20?oc=5"
+          },
+          {
+            "label": "80aj.com：开源项目ComposeOps：AI运维个人服务器，高危操作需人工确认 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EVGZRT1BuQ2Z1VXlyOVVwUGpjamtvWWxkenlTVFZ1NTl1bTk2SUhoaFhUbHhTWjJlZUVzQXM3ZjZ2a0JJcWc4Q2ZsUWkwckxYcTFZWlU4Qmx6bUx0X0xsaA?oc=5"
+          }
+        ],
+        "source": "The Economic Times",
+        "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUdIBtwJBVV95cUxOWENoaU5JdEJYSmRYVVl6RVlQQTJOaHlNRS1LTXdFcklCNVZmVTRwaXFHYTVvdmNyWWw3cGhRN0c2WkxSZ2Frb2RsYWpDZ0JZS2EybWdQR0FHQndyWTYyN05Da25sQjdtWHZpb002Nl9Wb1BnalhQMTFoc012N3ZOWFVsd2lPZ09XbWZIUC1CbHBwWGRRNWVsRXpSZU85dlI0WUVhcG05RkdFQ3JuVDhWQnB1eFB5QkVoV3VpRk1vbjNPRzNNZTMyckVMbUY5aTFldXVyLVFTdGp6cnpYczQxeU4tY3NKczQ5a25Ca2RQQmdiQkVpWEhKVjdSUlRqYnFnRE5yYjZwcjI0eVJVS0tWRlBiOFVLN2h3TV81QnZFWXBEemhqeW5Ubzl6UUlsLU9HamxySU9aUQ?oc=5"
+      },
       {
         "slug": "open-source-20260924-auto-1-664065",
         "title": "Domestic Open-Sour",
