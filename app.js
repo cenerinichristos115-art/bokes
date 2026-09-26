@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260926-auto-1-01f1f6",
+        "title": "AI模型使用超现实方言对话混合诗意文",
+        "category": "AI新闻",
+        "date": "2026-09-26",
+        "summary": "AI模型使用超现实方言对话混合诗意文字与科技圈黑话|Agent|Hugging Face|俚语|监控",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI模型使用超现实方言对话混合诗意文 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI模型使用超现实方言对话混合诗意文字与科技圈黑话|Agent|Hugging Face|俚语|监控",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI模型使用超现实方言对话混合诗意文字与科技圈黑话|Agent|Hugging Face|俚语|监控",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDlMUTF3ZE1ISm5TeWdEQXdrRTdZWUk0RzZpczhERnlNNWQxQ2dlZmVwWnRoU0E1ZGhwajJJN2xqWWRnTUZrUTNrR3oyNHFXSExjLXF0TklOV2lpVHAyYTR5c2RXSUNUMTJKSDRQaTFMQW5qSTEyaE16U3BvdGt0RlRNTmJxVl9vcDdGR3lNZE1mbWhDdkU5VU9kTElSWDIyLTlHT0hSVm9BQQ?oc=5"
+          },
+          {
+            "label": "The Washington Post：ChatGPT-maker’s AI inappropriately probed federal government websites ",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5"
+          },
+          {
+            "label": "The Times of India：Google engineer quits his 'amazing' job over AI, and says the doomers ",
+            "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPS0drUXZJYUUxTjFfXzdfbXhVY01mRFZhNWxFTGJ5M3VUdkdfUWhuZHlEcjZ1S3J3QUtlLUpwaWtEWHVTeVVVRmNtX3NMeWV2NXg0d0VSUHp1OE51RGlYeXZySEYyaHZLWTJDc1BNRHp3VXNjSC02ZGVtTWZSUDhmR2UtWFhPbUdmSndVcVdSYkhDV0Z4THF5SXdUYS1YRUF5LTk4MFRoYzhaeFltLWtMWkFHS19WMXFrWHV0RmRINkFJM3NOaDVpYW1HSnJBSC0xUDF3TmMzLWFmdmkxTnp2ZUM2YjBjRnV0bm5aQXE0TVliUzJIUm45M1BPbzNyU3pHTk5wVS1NR2wyNVdiOXBVUzYxcTlJNVdKRVEtZndaTXdQRG9kS1pvUHhGTEtJcDJBeXfSAbcCQVVfeXFMT1dRVW5LczdHZlY1cUhDY1cwSDNmWDJnbVI0U01ybjBpcUVzT2lwakpQdS0wNTlyUmFLYk5NTkNMVHBWZFVPamVfa2NSNEVyaVlIeUxEb0NhRjdpVUhCZzQ2Rk9pT0NKTVBpTXZRdGNhbGNtWlktalFmbVJWeTd0OXQ1MUhNVTQ0N3REU3BTa3dXM3hjSnh4T1M4bW8tMkRFTVhYSWVrUnFvSHVtTUVJVzNULVdKWTd6ZGJQQ0pnUkNSMmM0U3RiZ3FhZmg3YXAzb1lpTXFEM2VnQVdLTjl4YWduLUhHbWJubzlLazUta0lJUzVtcGlrNTZmakJoT1VjTEpJUmpObTZCdzNfM213djBZS2dtaGNGVDhydlpWZzdOOHN6dmVMaDR1MUtyVnRwSFV3bjRzOVk?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDlMUTF3ZE1ISm5TeWdEQXdrRTdZWUk0RzZpczhERnlNNWQxQ2dlZmVwWnRoU0E1ZGhwajJJN2xqWWRnTUZrUTNrR3oyNHFXSExjLXF0TklOV2lpVHAyYTR5c2RXSUNUMTJKSDRQaTFMQW5qSTEyaE16U3BvdGt0RlRNTmJxVl9vcDdGR3lNZE1mbWhDdkU5VU9kTElSWDIyLTlHT0hSVm9BQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260926-auto-2-93acf3",
+        "title": "ChatGPT-maker’s AI",
+        "category": "AI新闻",
+        "date": "2026-09-26",
+        "summary": "ChatGPT-maker’s AI inappropriately probed federal",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ChatGPT-maker’s AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "ChatGPT-maker’s AI inappropriately probed federal",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ChatGPT-maker’s AI inappropriately probed federal",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Washington Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5"
+          },
+          {
+            "label": "新浪财经：AI模型使用超现实方言对话混合诗意文字与科技圈黑话|Agent|Hugging Face|俚语|监控|短语_手机新浪网 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDlMUTF3ZE1ISm5TeWdEQXdrRTdZWUk0RzZpczhERnlNNWQxQ2dlZmVwWnRoU0E1ZGhwajJJN2xqWWRnTUZrUTNrR3oyNHFXSExjLXF0TklOV2lpVHAyYTR5c2RXSUNUMTJKSDRQaTFMQW5qSTEyaE16U3BvdGt0RlRNTmJxVl9vcDdGR3lNZE1mbWhDdkU5VU9kTElSWDIyLTlHT0hSVm9BQQ?oc=5"
+          },
+          {
+            "label": "The Times of India：Google engineer quits his 'amazing' job over AI, and says the doomers ",
+            "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPS0drUXZJYUUxTjFfXzdfbXhVY01mRFZhNWxFTGJ5M3VUdkdfUWhuZHlEcjZ1S3J3QUtlLUpwaWtEWHVTeVVVRmNtX3NMeWV2NXg0d0VSUHp1OE51RGlYeXZySEYyaHZLWTJDc1BNRHp3VXNjSC02ZGVtTWZSUDhmR2UtWFhPbUdmSndVcVdSYkhDV0Z4THF5SXdUYS1YRUF5LTk4MFRoYzhaeFltLWtMWkFHS19WMXFrWHV0RmRINkFJM3NOaDVpYW1HSnJBSC0xUDF3TmMzLWFmdmkxTnp2ZUM2YjBjRnV0bm5aQXE0TVliUzJIUm45M1BPbzNyU3pHTk5wVS1NR2wyNVdiOXBVUzYxcTlJNVdKRVEtZndaTXdQRG9kS1pvUHhGTEtJcDJBeXfSAbcCQVVfeXFMT1dRVW5LczdHZlY1cUhDY1cwSDNmWDJnbVI0U01ybjBpcUVzT2lwakpQdS0wNTlyUmFLYk5NTkNMVHBWZFVPamVfa2NSNEVyaVlIeUxEb0NhRjdpVUhCZzQ2Rk9pT0NKTVBpTXZRdGNhbGNtWlktalFmbVJWeTd0OXQ1MUhNVTQ0N3REU3BTa3dXM3hjSnh4T1M4bW8tMkRFTVhYSWVrUnFvSHVtTUVJVzNULVdKWTd6ZGJQQ0pnUkNSMmM0U3RiZ3FhZmg3YXAzb1lpTXFEM2VnQVdLTjl4YWduLUhHbWJubzlLazUta0lJUzVtcGlrNTZmakJoT1VjTEpJUmpObTZCdzNfM213djBZS2dtaGNGVDhydlpWZzdOOHN6dmVMaDR1MUtyVnRwSFV3bjRzOVk?oc=5"
+          }
+        ],
+        "source": "The Washington Post",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5"
+      },
+      {
         "slug": "ai-news-20260925-auto-1-64726e",
         "title": "当就业遇上AI，劳动力市场迎来哪些改",
         "category": "AI新闻",
@@ -20583,6 +20699,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260926-auto-1-f95c41",
+        "title": "AIGC培训机构怎么选：别被宣传迷惑",
+        "category": "AI使用教程",
+        "date": "2026-09-26",
+        "summary": "AIGC培训机构怎么选：别被宣传迷惑，重点看就业结果 CSDN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AIGC培训机构怎么选：别被宣传迷惑 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AIGC培训机构怎么选：别被宣传迷惑，重点看就业结果 CSDN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AIGC培训机构怎么选：别被宣传迷惑，重点看就业结果 CSDN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CSDN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpRc2xwZnE3UmpnUVo2WmVRdkMxdGFDMWlGSlYxX1NfaDdxZ0l6ZzU2OGg3Z01JUUthektDTWkydkJhLXBUUWpqdHJUUFByY0NxY05KX3YtNUlTTkE?oc=5"
+          },
+          {
+            "label": "cls.cn：AI音乐独角兽估值冲上54亿美元 “互联网女皇”基金领投最新融资 - cls.cn",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jSXZPMWZyMUx3eFpwV05lV3FTdzliTFBQZXFUNkgtTC15azhSamp1bTIxTnVPT0ZwU3ZHM3lDeWhQMzdFWWdFXw?oc=5"
+          },
+          {
+            "label": "53AI：突发！Anthropic宣布Fable 5.1仅用一条提示词突破粒子物理“九圈”难题 - 53AI",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqWVN1empHVGRnS19fd2VKVEN1NHdUM2wxbmcxQnJyUUlGY2NZNUx0M28wY3dmQ2JiV0JLVzN5cWdlSGVTUlByUDVvWkdrMndlSXpyMDZlazBJUU54ZmhoWGx0aGJBLXF1SXc?oc=5"
+          }
+        ],
+        "source": "CSDN",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzRlpRc2xwZnE3UmpnUVo2WmVRdkMxdGFDMWlGSlYxX1NfaDdxZ0l6ZzU2OGg3Z01JUUthektDTWkydkJhLXBUUWpqdHJUUFByY0NxY05KX3YtNUlTTkE?oc=5"
+      },
+      {
         "slug": "ai-guide-20260925-auto-1-3f215e",
         "title": "prompt工程师，一个新兴职业的崛",
         "category": "AI使用教程",
@@ -30297,6 +30471,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260926-auto-1-08781a",
+        "title": "Microsoft Autopilo",
+        "category": "开源项目",
+        "date": "2026-09-26",
+        "summary": "Microsoft Autopilot enters private preview for bus",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Microsoft Autopilo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Microsoft Autopilot enters private preview for bus",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Microsoft Autopilot enters private preview for bus",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tbreak.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRDAzWDc2QkN1b01WQmYxQ1hwNUlqY0wyOGdWaXM4Z0xaVVZOSnMzRmQxb0FqYTBXSHUydm5xQUEyd2dZSzkzd1FyUG83ZWV1R2FVQUlmZmZ4RWpJcnQ3VFo3a3llZw?oc=5"
+          },
+          {
+            "label": "HPCwire：China Telecom AI Releases Agentic Model for Single-GPU Deployment - HP",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkhPanJvWmVyam1kc3BOZ0Y1UmtuUFhKYy1LTExUSDlPV1k0S1p1cEI2eFdkZmZrdmdNeEwtZi1VOENJZmUyNkJfME1yWGdSOWJ2ZFZnSldFLVV5V1hnSm9TREVWLV8yc0h6ME9lTkg1a1daUzcyWFp4YlFvd1FrTHVlOUlZdmliWGhoZG1DTmhvc2ZtR3lneG5SV2VJSUdTYUpTZV9LR0NHWG1u?oc=5"
+          },
+          {
+            "label": "80aj.com：开源AI原生交易终端Desic Terminal：多Agent编排，自然语言写策略 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FM2hYY0hfOHBHMWs1LWtweFoyNHFpVnBrcmsyelF4cm1pRWtrRDdWZDF1SUpBTzNLSGhtdTZLVnRvRDBzRU5tQVRibGhmM0xjd1lEWU9QUlpONzlRZTF5eEpNQ0t3MWVhWkE?oc=5"
+          }
+        ],
+        "source": "tbreak.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRDAzWDc2QkN1b01WQmYxQ1hwNUlqY0wyOGdWaXM4Z0xaVVZOSnMzRmQxb0FqYTBXSHUydm5xQUEyd2dZSzkzd1FyUG83ZWV1R2FVQUlmZmZ4RWpJcnQ3VFo3a3llZw?oc=5"
+      },
+      {
+        "slug": "open-source-20260926-auto-2-b69d1e",
+        "title": "China Telecom AI R",
+        "category": "开源项目",
+        "date": "2026-09-26",
+        "summary": "China Telecom AI Releases Agentic Model for Single",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China Telecom AI R 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "China Telecom AI Releases Agentic Model for Single",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China Telecom AI Releases Agentic Model for Single",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HPCwire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkhPanJvWmVyam1kc3BOZ0Y1UmtuUFhKYy1LTExUSDlPV1k0S1p1cEI2eFdkZmZrdmdNeEwtZi1VOENJZmUyNkJfME1yWGdSOWJ2ZFZnSldFLVV5V1hnSm9TREVWLV8yc0h6ME9lTkg1a1daUzcyWFp4YlFvd1FrTHVlOUlZdmliWGhoZG1DTmhvc2ZtR3lneG5SV2VJSUdTYUpTZV9LR0NHWG1u?oc=5"
+          },
+          {
+            "label": "tbreak.com：Microsoft Autopilot enters private preview for businesses - tbreak.com",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRDAzWDc2QkN1b01WQmYxQ1hwNUlqY0wyOGdWaXM4Z0xaVVZOSnMzRmQxb0FqYTBXSHUydm5xQUEyd2dZSzkzd1FyUG83ZWV1R2FVQUlmZmZ4RWpJcnQ3VFo3a3llZw?oc=5"
+          },
+          {
+            "label": "80aj.com：开源AI原生交易终端Desic Terminal：多Agent编排，自然语言写策略 - 80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FM2hYY0hfOHBHMWs1LWtweFoyNHFpVnBrcmsyelF4cm1pRWtrRDdWZDF1SUpBTzNLSGhtdTZLVnRvRDBzRU5tQVRibGhmM0xjd1lEWU9QUlpONzlRZTF5eEpNQ0t3MWVhWkE?oc=5"
+          }
+        ],
+        "source": "HPCwire",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkhPanJvWmVyam1kc3BOZ0Y1UmtuUFhKYy1LTExUSDlPV1k0S1p1cEI2eFdkZmZrdmdNeEwtZi1VOENJZmUyNkJfME1yWGdSOWJ2ZFZnSldFLVV5V1hnSm9TREVWLV8yc0h6ME9lTkg1a1daUzcyWFp4YlFvd1FrTHVlOUlZdmliWGhoZG1DTmhvc2ZtR3lneG5SV2VJSUdTYUpTZV9LR0NHWG1u?oc=5"
+      },
       {
         "slug": "open-source-20260925-auto-1-b7d752",
         "title": "Black Forest Labs",
