@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260927-auto-1-b94703",
+        "title": "三个月第二次！OpenAI宣布紧急暂",
+        "category": "AI新闻",
+        "date": "2026-09-27",
+        "summary": "三个月第二次！OpenAI宣布紧急暂停 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "三个月第二次！OpenAI宣布紧急暂 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "三个月第二次！OpenAI宣布紧急暂停 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "三个月第二次！OpenAI宣布紧急暂停 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eHZMSHB6Z0pwX0kxUUxveEpwa0RJRzhiOGlvTmdWWC1QMkVFQ3dqTjZYVWdRdHpOUGpXT0FOcGJyY19VLWdDcWVwZTF6WmUtakV4S0xVODR5dzZQY0ZCRnlYdW95RjNhSVl4Z0hFVWZfWE4zQ3dvQmN1N0lzSHM?oc=5"
+          },
+          {
+            "label": "搜狐网：视频丨做盘扣、捆扎钢筋……AI时代这些手搓照样香 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQllPNzRkZ1JxWDc1bnpJZEhvVWc4c19XZEdMV1dNV0xXX1hKMDhQdm1rXzV5aXVlUFBEZklQYzRaLWZHNFZoSFBMbGc1cGJsR3ZNSG56YmRzTUFrVjJHWkw0enFDUFA2MVFZT2ZlY1ljMUQtZ0ZTdjlYTHBmS3BfWTJNbURCTDNjckhKeQ?oc=5"
+          },
+          {
+            "label": "观察者网：啊这…教皇的AI顾问，不用AI - 观察者网",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZTWotYVhqZ3JNRkFHcG9tVDNMaHlGSnAyeEJ3LUowSWRCb3ZIc0pCeXRhWjVIbmdLX3BJRmtLbEN0dW90SW90czlZUF9HLXJHUlZZZ0lWdHMxVGpJQXVKYWNEZk5uVmwxdi1rbC1YclBoUXc?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eHZMSHB6Z0pwX0kxUUxveEpwa0RJRzhiOGlvTmdWWC1QMkVFQ3dqTjZYVWdRdHpOUGpXT0FOcGJyY19VLWdDcWVwZTF6WmUtakV4S0xVODR5dzZQY0ZCRnlYdW95RjNhSVl4Z0hFVWZfWE4zQ3dvQmN1N0lzSHM?oc=5"
+      },
+      {
+        "slug": "ai-news-20260927-auto-2-2e8547",
+        "title": "视频丨做盘扣、捆扎钢筋……AI时代这",
+        "category": "AI新闻",
+        "date": "2026-09-27",
+        "summary": "视频丨做盘扣、捆扎钢筋……AI时代这些手搓照样香 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "视频丨做盘扣、捆扎钢筋……AI时代这 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "视频丨做盘扣、捆扎钢筋……AI时代这些手搓照样香 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "视频丨做盘扣、捆扎钢筋……AI时代这些手搓照样香 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQllPNzRkZ1JxWDc1bnpJZEhvVWc4c19XZEdMV1dNV0xXX1hKMDhQdm1rXzV5aXVlUFBEZklQYzRaLWZHNFZoSFBMbGc1cGJsR3ZNSG56YmRzTUFrVjJHWkw0enFDUFA2MVFZT2ZlY1ljMUQtZ0ZTdjlYTHBmS3BfWTJNbURCTDNjckhKeQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：三个月第二次！OpenAI宣布紧急暂停 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16eHZMSHB6Z0pwX0kxUUxveEpwa0RJRzhiOGlvTmdWWC1QMkVFQ3dqTjZYVWdRdHpOUGpXT0FOcGJyY19VLWdDcWVwZTF6WmUtakV4S0xVODR5dzZQY0ZCRnlYdW95RjNhSVl4Z0hFVWZfWE4zQ3dvQmN1N0lzSHM?oc=5"
+          },
+          {
+            "label": "观察者网：啊这…教皇的AI顾问，不用AI - 观察者网",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZTWotYVhqZ3JNRkFHcG9tVDNMaHlGSnAyeEJ3LUowSWRCb3ZIc0pCeXRhWjVIbmdLX3BJRmtLbEN0dW90SW90czlZUF9HLXJHUlZZZ0lWdHMxVGpJQXVKYWNEZk5uVmwxdi1rbC1YclBoUXc?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQllPNzRkZ1JxWDc1bnpJZEhvVWc4c19XZEdMV1dNV0xXX1hKMDhQdm1rXzV5aXVlUFBEZklQYzRaLWZHNFZoSFBMbGc1cGJsR3ZNSG56YmRzTUFrVjJHWkw0enFDUFA2MVFZT2ZlY1ljMUQtZ0ZTdjlYTHBmS3BfWTJNbURCTDNjckhKeQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260926-auto-1-01f1f6",
         "title": "AI模型使用超现实方言对话混合诗意文",
         "category": "AI新闻",
@@ -20699,6 +20815,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260927-auto-1-b197b7",
+        "title": "OpenAI突发急刹车！AI竟在全网",
+        "category": "AI使用教程",
+        "date": "2026-09-27",
+        "summary": "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 tech.ifeng.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI突发急刹车！AI竟在全网 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 tech.ifeng.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 tech.ifeng.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech.ifeng.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UWWhRdkxVdllHTFlsZDVWTm1xeEVoVWVSNU9OdUI0Y2lxa1JLVjF6YnlabHB5eEZINVhoWHBNR1VWakhfWVI4cjBCTDg?oc=5"
+          },
+          {
+            "label": "搜狐网：一种新的学术不端悄然出现 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlF4bFhIZHRrZ3VKUlJVUFBXek1ZTGVPbGJSTm1HcVlBdVpyNEVlam5EbUVZLTBzS1lNRGxLdVZzUFN6QUFXYnNtd1VDVVZyUjFGVGtjYUFucXpNalRwYXlBd2RRUEM4VWRDVlctNmtqR3ozM0JqZzdTa0JvQ25yby11VVZIVWM1VHBiQw?oc=5"
+          },
+          {
+            "label": "华尔街见闻：OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uYzNmQlZ6c2lBaDVaV2lfRWhhOXJibXhIbHRsbnRDbTN6cmxuN2U2RV85SU44NGp0OHdNZnVYM0xJa2FTdzZVT0oySnhCRzVKU0R3?oc=5"
+          }
+        ],
+        "source": "tech.ifeng.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UWWhRdkxVdllHTFlsZDVWTm1xeEVoVWVSNU9OdUI0Y2lxa1JLVjF6YnlabHB5eEZINVhoWHBNR1VWakhfWVI4cjBCTDg?oc=5"
+      },
+      {
         "slug": "ai-guide-20260926-auto-1-f95c41",
         "title": "AIGC培训机构怎么选：别被宣传迷惑",
         "category": "AI使用教程",
@@ -30471,6 +30645,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260927-auto-1-4098c5",
+        "title": "DeepSeek V4.1-Flas",
+        "category": "开源项目",
+        "date": "2026-09-27",
+        "summary": "DeepSeek V4.1-Flash Pricing: 70% Cheaper, Beats Op",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek V4.1-Flas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek V4.1-Flash Pricing: 70% Cheaper, Beats Op",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek V4.1-Flash Pricing: 70% Cheaper, Beats Op",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "shattered.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UlY1OW8tT1ZmbXZQR3hjQmZRcnExM1dIS0NWMm8xS3Q0R1dmU2JUeGIxcW1LdzM4ZmIyc1ZidU9jbVZzR2NPenhXLUNiVURIVmNla3lYUkRCVFF5NmdHQXpPWTIta3pTZ1VIdjYzUXNvb21BT3c?oc=5"
+          },
+          {
+            "label": "搜狐网：本周AI项目推荐：Ling、AirJelly、HanaAgent……Muse之外的Personal Agent路线 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2k1Yk1DbWtlUTJyZHY5M212TVpEU3I5aXNIWkp3SGpBY2dqcG53TXpobUxYZWFSN1ZUVzdtcFYtVWhsYmFOYU80UldDVXMydk1NQVJwTlRicHRtaVVyN2dHdVVVT0dqVGc0SUVjUF85U09EeC1PS3ROLVJvbUJBZzlkT2o3Q0ZEYW12cw?oc=5"
+          },
+          {
+            "label": "华尔街见闻：扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNldSMmJHTWVzYmdObmdCWmVjMWRodlpGYnFlcmk4dW9JbnFORnFMaXE0RVpXQUZ1bFVDSm5JRjI4aE9jQXhWZF9UYjRUbjFXVmhj?oc=5"
+          }
+        ],
+        "source": "shattered.io",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UlY1OW8tT1ZmbXZQR3hjQmZRcnExM1dIS0NWMm8xS3Q0R1dmU2JUeGIxcW1LdzM4ZmIyc1ZidU9jbVZzR2NPenhXLUNiVURIVmNla3lYUkRCVFF5NmdHQXpPWTIta3pTZ1VIdjYzUXNvb21BT3c?oc=5"
+      },
+      {
+        "slug": "open-source-20260927-auto-2-f5c00f",
+        "title": "本周AI项目推荐：Ling、AirJ",
+        "category": "开源项目",
+        "date": "2026-09-27",
+        "summary": "本周AI项目推荐：Ling、AirJelly、HanaAgent……Muse之外的Personal",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "本周AI项目推荐：Ling、AirJ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "本周AI项目推荐：Ling、AirJelly、HanaAgent……Muse之外的Personal",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "本周AI项目推荐：Ling、AirJelly、HanaAgent……Muse之外的Personal",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2k1Yk1DbWtlUTJyZHY5M212TVpEU3I5aXNIWkp3SGpBY2dqcG53TXpobUxYZWFSN1ZUVzdtcFYtVWhsYmFOYU80UldDVXMydk1NQVJwTlRicHRtaVVyN2dHdVVVT0dqVGc0SUVjUF85U09EeC1PS3ROLVJvbUJBZzlkT2o3Q0ZEYW12cw?oc=5"
+          },
+          {
+            "label": "shattered.io：DeepSeek V4.1-Flash Pricing: 70% Cheaper, Beats Opus 5 - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UlY1OW8tT1ZmbXZQR3hjQmZRcnExM1dIS0NWMm8xS3Q0R1dmU2JUeGIxcW1LdzM4ZmIyc1ZidU9jbVZzR2NPenhXLUNiVURIVmNla3lYUkRCVFF5NmdHQXpPWTIta3pTZ1VIdjYzUXNvb21BT3c?oc=5"
+          },
+          {
+            "label": "华尔街见闻：扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNldSMmJHTWVzYmdObmdCWmVjMWRodlpGYnFlcmk4dW9JbnFORnFMaXE0RVpXQUZ1bFVDSm5JRjI4aE9jQXhWZF9UYjRUbjFXVmhj?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2k1Yk1DbWtlUTJyZHY5M212TVpEU3I5aXNIWkp3SGpBY2dqcG53TXpobUxYZWFSN1ZUVzdtcFYtVWhsYmFOYU80UldDVXMydk1NQVJwTlRicHRtaVVyN2dHdVVVT0dqVGc0SUVjUF85U09EeC1PS3ROLVJvbUJBZzlkT2o3Q0ZEYW12cw?oc=5"
+      },
       {
         "slug": "open-source-20260926-auto-1-08781a",
         "title": "Microsoft Autopilo",
