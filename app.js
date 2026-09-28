@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260928-auto-1-5eddc9",
+        "title": "点“经”之笔丨透过这场博览会 看数字",
+        "category": "AI新闻",
+        "date": "2026-09-28",
+        "summary": "点“经”之笔丨透过这场博览会 看数字贸易的“含智量” 新浪新闻_手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "点“经”之笔丨透过这场博览会 看数字 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "点“经”之笔丨透过这场博览会 看数字贸易的“含智量” 新浪新闻_手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "点“经”之笔丨透过这场博览会 看数字贸易的“含智量” 新浪新闻_手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪新闻_手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbFN5RzFLMW1Xd1dFc3VJa0RTNFI0UjlBUlRrS2djZlBhV0Z3WjBhaUFVbElEVjNQbk0xTXhTX2x2cDRkTUpwNGpkZk93eVNDdU1fY05mLW4xZTFLWkRsTmYzY3NsYU5aSWEwTzRfRDBESU9UNUE?oc=5"
+          },
+          {
+            "label": "手机新浪网：科技金融加速跟进人工智能赛道｜财金纵横 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHB5bU1BZjRLdHF6a05PdTFUZGpiUVAyZnhNUlFKS2FqdHFNUWh3N3A1Y0dVcC1ubHl5b1lJZnVxVVkxTHJwSXNsSG1QZW0xQjZ4cm5oUGpMR21RenZzUVB0UGNrZTJ6MmtrVWRHaUpkT1ZWRHdlUFhXcjNyd3hNUl9YMA?oc=5"
+          },
+          {
+            "label": "手机新浪网：河南：到2030年，全省中小学全面普及AI教育 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YeHJwVlNub0FQZzQzUHo1anhvU0QwRW1JeDRkdkN1LVRHME1JYTJTNFVhaHM0R0JyLUtxNXpDUkV4aDY2andIcTAxbVJrNjRNXzMyUFo4TjBucGhOdFByZWk3YVU2ZDdTSXBqb2JEN1ZqR0dHZXJYSV9YY3A?oc=5"
+          }
+        ],
+        "source": "新浪新闻_手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbFN5RzFLMW1Xd1dFc3VJa0RTNFI0UjlBUlRrS2djZlBhV0Z3WjBhaUFVbElEVjNQbk0xTXhTX2x2cDRkTUpwNGpkZk93eVNDdU1fY05mLW4xZTFLWkRsTmYzY3NsYU5aSWEwTzRfRDBESU9UNUE?oc=5"
+      },
+      {
+        "slug": "ai-news-20260928-auto-2-57fe32",
+        "title": "科技金融加速跟进人工智能赛道｜财金纵",
+        "category": "AI新闻",
+        "date": "2026-09-28",
+        "summary": "科技金融加速跟进人工智能赛道｜财金纵横 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科技金融加速跟进人工智能赛道｜财金纵 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "科技金融加速跟进人工智能赛道｜财金纵横 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科技金融加速跟进人工智能赛道｜财金纵横 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHB5bU1BZjRLdHF6a05PdTFUZGpiUVAyZnhNUlFKS2FqdHFNUWh3N3A1Y0dVcC1ubHl5b1lJZnVxVVkxTHJwSXNsSG1QZW0xQjZ4cm5oUGpMR21RenZzUVB0UGNrZTJ6MmtrVWRHaUpkT1ZWRHdlUFhXcjNyd3hNUl9YMA?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：点“经”之笔丨透过这场博览会 看数字贸易的“含智量” - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbFN5RzFLMW1Xd1dFc3VJa0RTNFI0UjlBUlRrS2djZlBhV0Z3WjBhaUFVbElEVjNQbk0xTXhTX2x2cDRkTUpwNGpkZk93eVNDdU1fY05mLW4xZTFLWkRsTmYzY3NsYU5aSWEwTzRfRDBESU9UNUE?oc=5"
+          },
+          {
+            "label": "手机新浪网：河南：到2030年，全省中小学全面普及AI教育 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YeHJwVlNub0FQZzQzUHo1anhvU0QwRW1JeDRkdkN1LVRHME1JYTJTNFVhaHM0R0JyLUtxNXpDUkV4aDY2andIcTAxbVJrNjRNXzMyUFo4TjBucGhOdFByZWk3YVU2ZDdTSXBqb2JEN1ZqR0dHZXJYSV9YY3A?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHB5bU1BZjRLdHF6a05PdTFUZGpiUVAyZnhNUlFKS2FqdHFNUWh3N3A1Y0dVcC1ubHl5b1lJZnVxVVkxTHJwSXNsSG1QZW0xQjZ4cm5oUGpMR21RenZzUVB0UGNrZTJ6MmtrVWRHaUpkT1ZWRHdlUFhXcjNyd3hNUl9YMA?oc=5"
+      },
+      {
         "slug": "ai-news-20260927-auto-1-b94703",
         "title": "三个月第二次！OpenAI宣布紧急暂",
         "category": "AI新闻",
@@ -20815,6 +20931,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260928-auto-1-4bd369",
+        "title": "OpenAI突发急刹车！AI竟在全网",
+        "category": "AI使用教程",
+        "date": "2026-09-28",
+        "summary": "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 智源社区",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI突发急刹车！AI竟在全网 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 智源社区",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI突发急刹车！AI竟在全网植入自我复制代码，血洗联合国内网 智源社区",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智源社区：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHOGszQlZNQ19pZnF0ZzhSemUteHRXSFEwVTdVWnJLVDdNUUlhYTVhT1ZIS1ppM2JCVjl4RlByLUgta1BrU2RfTA?oc=5"
+          },
+          {
+            "label": "光明网：AI“真人”走向何方 - 光明网",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WcWw2eFRldEExNGdBdXFFUDlHQnNvRGFHZnlVS2lfVnRuaUhfRW55a1VScnRUaVZuTFB1Zm0wM3lHWDM2OUJxUHBMZGY4LWpKbERzYXYxNDdxVmpC?oc=5"
+          },
+          {
+            "label": "tech-insider.org：Set Up Qwen-Image-2.1 in ComfyUI: 13-Step AU Guide - tech-insider.org",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTDMydTgwWGtvaHFOYUdsWWFJcUdXa0ZtVUEyako3VW9uUEJ4MGZEZklTX2Y2NTNSNmZ1X25WLWFfV1NkbTNUckJ4c3E3SE9KRHJGWEFha3l1STBQMFJfemY2Z05ZdlBpWmJRQWt6SQ?oc=5"
+          }
+        ],
+        "source": "智源社区",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHOGszQlZNQ19pZnF0ZzhSemUteHRXSFEwVTdVWnJLVDdNUUlhYTVhT1ZIS1ppM2JCVjl4RlByLUgta1BrU2RfTA?oc=5"
+      },
+      {
         "slug": "ai-guide-20260927-auto-1-b197b7",
         "title": "OpenAI突发急刹车！AI竟在全网",
         "category": "AI使用教程",
@@ -30645,6 +30819,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260928-auto-1-2bf38b",
+        "title": "Speaker Diarizatio",
+        "category": "开源项目",
+        "date": "2026-09-28",
+        "summary": "Speaker Diarization on 95MB: NVIDIA Tracks 8 Speak",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Speaker Diarizatio 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Speaker Diarization on 95MB: NVIDIA Tracks 8 Speak",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Speaker Diarization on 95MB: NVIDIA Tracks 8 Speak",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Intelligent Living：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFhaOGRuQ3BTSHBqX1ZwX3prdndFWGdvOGlvUkFyLUQ2RWJnRm5BYUZxeHdTWjVwam5GMUszQUE1WlBfYV9FblA5S2ZNR3VWa3lyWXdfVU44UmZnWlhWSlNUeGdES1dISWVFQThNX2NTV2JaNXV6ckgxZHRXNkZpcA?oc=5"
+          },
+          {
+            "label": "Help Net Security：Authorizer: Open-source authentication and authorization for your apps",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnczTEUwR1dRUVJMVFU4VjZWRS1aTU51R003NUhMU2JVWnN0cU1nU1dKTlpLdG5lbmtNQlFpX0xMLTJTam9NZjRGQUJFM3lwNzNTVlNoMlBhVEp2WjBZWHJGRERKbFFqdHRvdTlJOVJUY0c3SWNtWWhoVzlnbXczU0dZQlNlb0Jpd2YybFBCYmNNZw?oc=5"
+          },
+          {
+            "label": "디지털투데이：South Korea ranks 12th in generative AI usage, fastest growth among ma",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTZIVWhIbTExS2VHNktUaTZFeTU2VFhXWlpQRklGZmlqNkk2SU5mSjRXNnRJZEhsNGZXejdBZlkwbXpEQ3l6RUdEQ2w1VlFxSU5NQ0FHb2ZlWGdtLU1BMHZ6aTFZQ0FvY2xBeThLRk13TTBsanNpaDhNWVRpV3lvZGhyM1ZFRVYzME56cF8tWnVBbU8xSDg4eUpGRHZFUzQ2Rml2VWNnX2Q5bFQyR3BYR3M5N0pSMS01M0pmUzhmYXF3aVV1NE93?oc=5"
+          }
+        ],
+        "source": "Intelligent Living",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFhaOGRuQ3BTSHBqX1ZwX3prdndFWGdvOGlvUkFyLUQ2RWJnRm5BYUZxeHdTWjVwam5GMUszQUE1WlBfYV9FblA5S2ZNR3VWa3lyWXdfVU44UmZnWlhWSlNUeGdES1dISWVFQThNX2NTV2JaNXV6ckgxZHRXNkZpcA?oc=5"
+      },
+      {
+        "slug": "open-source-20260928-auto-2-975518",
+        "title": "Authorizer: Open-s",
+        "category": "开源项目",
+        "date": "2026-09-28",
+        "summary": "Authorizer: Open-source authentication and authori",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Authorizer: Open-s 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Authorizer: Open-source authentication and authori",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Authorizer: Open-source authentication and authori",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnczTEUwR1dRUVJMVFU4VjZWRS1aTU51R003NUhMU2JVWnN0cU1nU1dKTlpLdG5lbmtNQlFpX0xMLTJTam9NZjRGQUJFM3lwNzNTVlNoMlBhVEp2WjBZWHJGRERKbFFqdHRvdTlJOVJUY0c3SWNtWWhoVzlnbXczU0dZQlNlb0Jpd2YybFBCYmNNZw?oc=5"
+          },
+          {
+            "label": "Intelligent Living：Speaker Diarization on 95MB: NVIDIA Tracks 8 Speakers On-Device - Inte",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOFhaOGRuQ3BTSHBqX1ZwX3prdndFWGdvOGlvUkFyLUQ2RWJnRm5BYUZxeHdTWjVwam5GMUszQUE1WlBfYV9FblA5S2ZNR3VWa3lyWXdfVU44UmZnWlhWSlNUeGdES1dISWVFQThNX2NTV2JaNXV6ckgxZHRXNkZpcA?oc=5"
+          },
+          {
+            "label": "디지털투데이：South Korea ranks 12th in generative AI usage, fastest growth among ma",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTZIVWhIbTExS2VHNktUaTZFeTU2VFhXWlpQRklGZmlqNkk2SU5mSjRXNnRJZEhsNGZXejdBZlkwbXpEQ3l6RUdEQ2w1VlFxSU5NQ0FHb2ZlWGdtLU1BMHZ6aTFZQ0FvY2xBeThLRk13TTBsanNpaDhNWVRpV3lvZGhyM1ZFRVYzME56cF8tWnVBbU8xSDg4eUpGRHZFUzQ2Rml2VWNnX2Q5bFQyR3BYR3M5N0pSMS01M0pmUzhmYXF3aVV1NE93?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnczTEUwR1dRUVJMVFU4VjZWRS1aTU51R003NUhMU2JVWnN0cU1nU1dKTlpLdG5lbmtNQlFpX0xMLTJTam9NZjRGQUJFM3lwNzNTVlNoMlBhVEp2WjBZWHJGRERKbFFqdHRvdTlJOVJUY0c3SWNtWWhoVzlnbXczU0dZQlNlb0Jpd2YybFBCYmNNZw?oc=5"
+      },
       {
         "slug": "open-source-20260927-auto-1-4098c5",
         "title": "DeepSeek V4.1-Flas",
