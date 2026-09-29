@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260929-auto-1-5c4b51",
+        "title": "AI Is Already Bein",
+        "category": "AI新闻",
+        "date": "2026-09-29",
+        "summary": "AI Is Already Being Discussed at the UN Security C",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Is Already Bein 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI Is Already Being Discussed at the UN Security C",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Is Already Being Discussed at the UN Security C",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "UA.NEWS：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEI4UVNDOGJjZ1pmYndzMkNuS0xzU18zMUphNjljRGxIaTl2LXp0Q0RoUGJ6bV9DLTM2TWQ2UnJyWmpJTDVKbk9QOFVnS0RqY1ZQTXpHdy00aDB2SDdDNDlvZmtnQzVpV3lNME4tYi1GNktUbTdBX2M1d3BZSTV1Wk8zcHFOWTd3UFZtXzBPXzF3SUZPR1RqRkRISkFMbkFoQjh1aURLUUR5TTctTWhEbFlEMnBZaW1jMFJ5aUloTGRyVWdMeVgtMGFzX21DbjJNUXZDZl9pYWp1X256?oc=5"
+          },
+          {
+            "label": "上观新闻：回应AI时代，上财国际商务硕士项目探索复合型商业人才培养路径 - 上观新闻",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdWFQQm1tcWkteWVzWkZXamM0WHUxTWdhbUxYb25SVDJuWXBnSmhEdjIwdWxtcEVyTWwtR3FHVG5nMUp6Zk10Z3E1ZkRIM0NGeENJMDVNbnhEUQ?oc=5"
+          },
+          {
+            "label": "The Manila Times：New AI Search Visibility Metrics for ChatGPT, Google AI Overviews, Cla",
+            "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPYWNqVXltWF9RTzlnSzBPYllQUkhQcmhhTFJxYzBxMG8xNkpqUlNvMmw0b0N0aUwtbEpxejI1cThTbFpfMG05YkFjdXo4NWgxdVR1cVl3LU92UkNYX3BiX2x0ajlfaGVKQXRVQm1Nb0dUZmtUVk5JelY2a3luXy1Pa01SU0UxVi1KVEtkUmhIWHRGeXZORk1NQl9jRC02dG5aVXBJNlNaWnBxMUJBRzN1UWFXSFF4bUc3U240SWVzR2JnZ2lYelNfU3pPSXRWNmR2THJOaXhyWHU3a28yWVFCaHdzX3dDQmpjT0VDWUh2N3FBd1ZLOFVZVjBnSHU5R0dHMzMyN21lWmNfMWRud0hMTm9pX0k3S245S255T0dMQnYzUnByZWNaZ1JxRmE5SHRBbVRYY0tiTU1meTc2dnptWHhhNXpjQ3pseW5xWTI2TGNhYnRUS2VValQxUDRtcDFjMmFrZFF3T0UwTk9OaUhyOWJmeENESmJmd0s3N1QtUTZDS25ZQVdEZ3ZQa3hNc3BrbVlTaVRqeVBKZUVFLXFXalhmTHgzNTVLYjZ5eDlfOGFTXzYwWnfSAbsDQVVfeXFMTWozaEJPbTBpeWZNZFJFdUJXcnNWZWNjdlMybk9GQkZYeXJDS2QwSEhmVnctSDV5UWZ3ZGVtMHVDdkotV1BUVzJjNkxwamVpVk51czkxNHlVOGR1Z2gwd3lGb1FoQjFxajZ0M2ZidTVBV29WQ09jRVRrWk1uTXZncHdMRHM3Mm5tYUdQQ1VITlNFUXgwUkl6cEg2bzRWR0tsaXBrWXZMV1FQQ1JSeHFNNzlxalgzTUtTZTVDQ0hLd1ZRaWNfd2Ewb2ExWnMtX3RSQ1lYM2tzM1Y4SEpxUXpHNEZXRFFmSWFNREhpZlZMd1dUYUtzeUxmdUhJWS0xcUwwc1g3aTJNWVlGcEtfSXNrSUZ1SHg0WmR6RjZqWEt2STA2VzUxMVdQNm5SbmluRjg0OEEtdnJEa2EtY1FOY0Z4ZzJIQ3JabG9JVHlXR2ltMWZXanBITFQ4VDlXNXN1ZUhsMEZuUFRzTDUxT1RvWk9oZlBIa0RybkNoMk9OWWVMNGxibXR1QW1mQXExZFR4elpYRU1ab2ltSW1SX2xndVNtN2xkeVJ0dDFhdEZrMXR4cnpwc3B5dzhKLXFleTQ?oc=5"
+          }
+        ],
+        "source": "UA.NEWS",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEI4UVNDOGJjZ1pmYndzMkNuS0xzU18zMUphNjljRGxIaTl2LXp0Q0RoUGJ6bV9DLTM2TWQ2UnJyWmpJTDVKbk9QOFVnS0RqY1ZQTXpHdy00aDB2SDdDNDlvZmtnQzVpV3lNME4tYi1GNktUbTdBX2M1d3BZSTV1Wk8zcHFOWTd3UFZtXzBPXzF3SUZPR1RqRkRISkFMbkFoQjh1aURLUUR5TTctTWhEbFlEMnBZaW1jMFJ5aUloTGRyVWdMeVgtMGFzX21DbjJNUXZDZl9pYWp1X256?oc=5"
+      },
+      {
+        "slug": "ai-news-20260929-auto-2-218b34",
+        "title": "回应AI时代，上财国际商务硕士项目探",
+        "category": "AI新闻",
+        "date": "2026-09-29",
+        "summary": "回应AI时代，上财国际商务硕士项目探索复合型商业人才培养路径 上观新闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "回应AI时代，上财国际商务硕士项目探 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "回应AI时代，上财国际商务硕士项目探索复合型商业人才培养路径 上观新闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "回应AI时代，上财国际商务硕士项目探索复合型商业人才培养路径 上观新闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "上观新闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdWFQQm1tcWkteWVzWkZXamM0WHUxTWdhbUxYb25SVDJuWXBnSmhEdjIwdWxtcEVyTWwtR3FHVG5nMUp6Zk10Z3E1ZkRIM0NGeENJMDVNbnhEUQ?oc=5"
+          },
+          {
+            "label": "UA.NEWS：AI Is Already Being Discussed at the UN Security Council: Why Artifici",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSEI4UVNDOGJjZ1pmYndzMkNuS0xzU18zMUphNjljRGxIaTl2LXp0Q0RoUGJ6bV9DLTM2TWQ2UnJyWmpJTDVKbk9QOFVnS0RqY1ZQTXpHdy00aDB2SDdDNDlvZmtnQzVpV3lNME4tYi1GNktUbTdBX2M1d3BZSTV1Wk8zcHFOWTd3UFZtXzBPXzF3SUZPR1RqRkRISkFMbkFoQjh1aURLUUR5TTctTWhEbFlEMnBZaW1jMFJ5aUloTGRyVWdMeVgtMGFzX21DbjJNUXZDZl9pYWp1X256?oc=5"
+          },
+          {
+            "label": "The Manila Times：New AI Search Visibility Metrics for ChatGPT, Google AI Overviews, Cla",
+            "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPYWNqVXltWF9RTzlnSzBPYllQUkhQcmhhTFJxYzBxMG8xNkpqUlNvMmw0b0N0aUwtbEpxejI1cThTbFpfMG05YkFjdXo4NWgxdVR1cVl3LU92UkNYX3BiX2x0ajlfaGVKQXRVQm1Nb0dUZmtUVk5JelY2a3luXy1Pa01SU0UxVi1KVEtkUmhIWHRGeXZORk1NQl9jRC02dG5aVXBJNlNaWnBxMUJBRzN1UWFXSFF4bUc3U240SWVzR2JnZ2lYelNfU3pPSXRWNmR2THJOaXhyWHU3a28yWVFCaHdzX3dDQmpjT0VDWUh2N3FBd1ZLOFVZVjBnSHU5R0dHMzMyN21lWmNfMWRud0hMTm9pX0k3S245S255T0dMQnYzUnByZWNaZ1JxRmE5SHRBbVRYY0tiTU1meTc2dnptWHhhNXpjQ3pseW5xWTI2TGNhYnRUS2VValQxUDRtcDFjMmFrZFF3T0UwTk9OaUhyOWJmeENESmJmd0s3N1QtUTZDS25ZQVdEZ3ZQa3hNc3BrbVlTaVRqeVBKZUVFLXFXalhmTHgzNTVLYjZ5eDlfOGFTXzYwWnfSAbsDQVVfeXFMTWozaEJPbTBpeWZNZFJFdUJXcnNWZWNjdlMybk9GQkZYeXJDS2QwSEhmVnctSDV5UWZ3ZGVtMHVDdkotV1BUVzJjNkxwamVpVk51czkxNHlVOGR1Z2gwd3lGb1FoQjFxajZ0M2ZidTVBV29WQ09jRVRrWk1uTXZncHdMRHM3Mm5tYUdQQ1VITlNFUXgwUkl6cEg2bzRWR0tsaXBrWXZMV1FQQ1JSeHFNNzlxalgzTUtTZTVDQ0hLd1ZRaWNfd2Ewb2ExWnMtX3RSQ1lYM2tzM1Y4SEpxUXpHNEZXRFFmSWFNREhpZlZMd1dUYUtzeUxmdUhJWS0xcUwwc1g3aTJNWVlGcEtfSXNrSUZ1SHg0WmR6RjZqWEt2STA2VzUxMVdQNm5SbmluRjg0OEEtdnJEa2EtY1FOY0Z4ZzJIQ3JabG9JVHlXR2ltMWZXanBITFQ4VDlXNXN1ZUhsMEZuUFRzTDUxT1RvWk9oZlBIa0RybkNoMk9OWWVMNGxibXR1QW1mQXExZFR4elpYRU1ab2ltSW1SX2xndVNtN2xkeVJ0dDFhdEZrMXR4cnpwc3B5dzhKLXFleTQ?oc=5"
+          }
+        ],
+        "source": "上观新闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGdWFQQm1tcWkteWVzWkZXamM0WHUxTWdhbUxYb25SVDJuWXBnSmhEdjIwdWxtcEVyTWwtR3FHVG5nMUp6Zk10Z3E1ZkRIM0NGeENJMDVNbnhEUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20260928-auto-1-5eddc9",
         "title": "点“经”之笔丨透过这场博览会 看数字",
         "category": "AI新闻",
@@ -20931,6 +21047,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260929-auto-1-b102ab",
+        "title": "AI色情，已经入侵了未成年的生活-3",
+        "category": "AI使用教程",
+        "date": "2026-09-29",
+        "summary": "AI色情，已经入侵了未成年的生活-36氪 36kr.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI色情，已经入侵了未成年的生活-3 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI色情，已经入侵了未成年的生活-36氪 36kr.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI色情，已经入侵了未成年的生活-36氪 36kr.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36kr.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnUG8ySEQ2MHVFSWJlbnJPVkkxUmRNNS1VVjVKVU1aXzFnX2lQSXRORERISDlqUVdsWWY3a0Ffcl80MU1wdUFXWU9MWWtOTFFV?oc=5"
+          },
+          {
+            "label": "科技行者：AI开拖拉机种地，撞到猪会不会踩刹车 - 科技行者",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSHc5MnYyTTVYa2gwOWZfOHgxUG1LSzBSM1p3czc2MFdiTm05N2hCM3ZXTUhMRWxCcHRmbFpfTTJQeGtQLUlOclZXek44QmVyS3NqVDZrUWdXNUlITG5Z?oc=5"
+          },
+          {
+            "label": "finance.sina.cn：AI数字人为药品、保健品“代言”？形象虚拟，责任不能虚置 - finance.sina.cn",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzSjVkWUNVNTVOeHpnUXJrd2lTME1qeHltQ3hmdXVLZWdDR285dm9MYUNxVkRHWEJSQWdpV0dNbUl1cVlZdmhPbDF3eklCdkY5cWhvbDc4SDN4R1B2cXkxWDBMMW5pWlFIY19jLW52YUVWME9Ya0RybA?oc=5"
+          }
+        ],
+        "source": "36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnUG8ySEQ2MHVFSWJlbnJPVkkxUmRNNS1VVjVKVU1aXzFnX2lQSXRORERISDlqUVdsWWY3a0Ffcl80MU1wdUFXWU9MWWtOTFFV?oc=5"
+      },
+      {
         "slug": "ai-guide-20260928-auto-1-4bd369",
         "title": "OpenAI突发急刹车！AI竟在全网",
         "category": "AI使用教程",
@@ -30819,6 +30993,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260929-auto-1-834702",
+        "title": "5 Best Crypto Pres",
+        "category": "开源项目",
+        "date": "2026-09-29",
+        "summary": "5 Best Crypto Presales 2026 as IONIX AI CHAIN Secu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "5 Best Crypto Pres 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "5 Best Crypto Presales 2026 as IONIX AI CHAIN Secu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "5 Best Crypto Presales 2026 as IONIX AI CHAIN Secu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "openPR.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY29jaWU2WEF3OHpsRVpHNTNNT01oYWdfNmFKZnZhTHhNcEdMYzVkVTZVTElYU21hRnRGeUVFLVRyaDZGeGZhbEFiS19hZnJ1ZE9zZUlNMjNkaTdyREZGRFQybE1ITUFGLXFOQjc0dXZITDFzSzYwZHgtOG1Ba0M5aUpZSF9pVDFsTHVEYUIySFU0S0ZiZGdXWV9iRjI?oc=5"
+          },
+          {
+            "label": "Rescana：Active Exploitation Alert: Orkes Conductor Unauthenticated RCE via Gra",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDNQQUFwcG56Tld5dUdXLWlyNENKTUlmM2NtU2hTcXk2OUQ3MjVWZF9sdk44LUNCeGFQVUtzYVNqalVndkd2ck9FSzA5QjhBVXVFRWgwSER6bkdxR2R0UUJpZlp0WC1qc0pIbU9BaThPYkVNSUMwRkVB?oc=5"
+          },
+          {
+            "label": "The Online Citizen：OpenAI delays GPT-6.1 Astra after model falls short of safety threshol",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1lQWVpFbUlWNWNwYXVhS0p6czZubGxySnYyaHRpRkg0b0Q0b2RDRjJ4Wng0UFppUGM1RThhOWIyR1JOamNkQXFHempELWlCTG5BUHI4aWoxdlo2OHFTUVpyQjNaeWtDRDlCOEF1bkM2OVJnR3dxdlBrZ1Bib1JoaWF6VWVlX21KbU9kQVhka2tCZEJoTnZheGJNcjREUm1xeTRGNnJXLU9nRXotYXZUOW9pbk9fNHpR?oc=5"
+          }
+        ],
+        "source": "openPR.com",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY29jaWU2WEF3OHpsRVpHNTNNT01oYWdfNmFKZnZhTHhNcEdMYzVkVTZVTElYU21hRnRGeUVFLVRyaDZGeGZhbEFiS19hZnJ1ZE9zZUlNMjNkaTdyREZGRFQybE1ITUFGLXFOQjc0dXZITDFzSzYwZHgtOG1Ba0M5aUpZSF9pVDFsTHVEYUIySFU0S0ZiZGdXWV9iRjI?oc=5"
+      },
+      {
+        "slug": "open-source-20260929-auto-2-6361f3",
+        "title": "Active Exploitatio",
+        "category": "开源项目",
+        "date": "2026-09-29",
+        "summary": "Active Exploitation Alert: Orkes Conductor Unauthe",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Active Exploitatio 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Active Exploitation Alert: Orkes Conductor Unauthe",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Active Exploitation Alert: Orkes Conductor Unauthe",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Rescana：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDNQQUFwcG56Tld5dUdXLWlyNENKTUlmM2NtU2hTcXk2OUQ3MjVWZF9sdk44LUNCeGFQVUtzYVNqalVndkd2ck9FSzA5QjhBVXVFRWgwSER6bkdxR2R0UUJpZlp0WC1qc0pIbU9BaThPYkVNSUMwRkVB?oc=5"
+          },
+          {
+            "label": "openPR.com：5 Best Crypto Presales 2026 as IONIX AI CHAIN Secures Strong Market Po",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY29jaWU2WEF3OHpsRVpHNTNNT01oYWdfNmFKZnZhTHhNcEdMYzVkVTZVTElYU21hRnRGeUVFLVRyaDZGeGZhbEFiS19hZnJ1ZE9zZUlNMjNkaTdyREZGRFQybE1ITUFGLXFOQjc0dXZITDFzSzYwZHgtOG1Ba0M5aUpZSF9pVDFsTHVEYUIySFU0S0ZiZGdXWV9iRjI?oc=5"
+          },
+          {
+            "label": "The Online Citizen：OpenAI delays GPT-6.1 Astra after model falls short of safety threshol",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1lQWVpFbUlWNWNwYXVhS0p6czZubGxySnYyaHRpRkg0b0Q0b2RDRjJ4Wng0UFppUGM1RThhOWIyR1JOamNkQXFHempELWlCTG5BUHI4aWoxdlo2OHFTUVpyQjNaeWtDRDlCOEF1bkM2OVJnR3dxdlBrZ1Bib1JoaWF6VWVlX21KbU9kQVhka2tCZEJoTnZheGJNcjREUm1xeTRGNnJXLU9nRXotYXZUOW9pbk9fNHpR?oc=5"
+          }
+        ],
+        "source": "Rescana",
+        "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2WDNQQUFwcG56Tld5dUdXLWlyNENKTUlmM2NtU2hTcXk2OUQ3MjVWZF9sdk44LUNCeGFQVUtzYVNqalVndkd2ck9FSzA5QjhBVXVFRWgwSER6bkdxR2R0UUJpZlp0WC1qc0pIbU9BaThPYkVNSUMwRkVB?oc=5"
+      },
       {
         "slug": "open-source-20260928-auto-1-2bf38b",
         "title": "Speaker Diarizatio",
