@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20260930-auto-1-82b8ca",
+        "title": "CNBC Daily Open: A",
+        "category": "AI新闻",
+        "date": "2026-09-30",
+        "summary": "CNBC Daily Open: AI will be marking its own homewo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "CNBC Daily Open: A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "CNBC Daily Open: AI will be marking its own homewo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "CNBC Daily Open: AI will be marking its own homewo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CNBC：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnVDSWV2NWxaalUwQWFBMkYwY2YzdUl0c0hOd3dhV25hWGdWSjNnVWJYRkx5NkpaODl5Nlg1dGZLYi1JdjktVFU3ckdTYzctOWdyd01KZ2JSMEd4VWpxN3ZxMWJyanBlUVRiejZ6N0Y2cjBXbHNsLURpQndZX3Q0MNIBhgFBVV95cUxPTldSWkVQdy1Pamt6MXJSTFpBVVFMcGdYWFY1b0p2OWhoaVRPdk9VU2VXMktCY1EzSE5ELU02SzlQRHpKRkJ3UE9seXZScDNwZUUzUVpsa2hnbWIyYnJzNkFSdmMzRWpmcEY1ai1HT2kwby1EejR5bHV3VGVrNWwwUTQweVJ2UQ?oc=5"
+          },
+          {
+            "label": "中国科学院：【央视新闻】聚焦“四极” 方向科学前沿极限突破计划启动实施 - 中国科学院",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMklwbm1hUHI0YlJHWXlyS0xsWFlUbHljOUNhSXpYYjdXVGd0VFVVUlhpZGJFMm9UMHpGQm1sa0s2ZGFBX1FMdGlFV2lLZzFYWkNrM3VNTF9JekFaZmRvWUtB?oc=5"
+          },
+          {
+            "label": "Tech Xplore：Trump touts AI boss pledge to self-regulate - Tech Xplore",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iRW9OVDh5Nk9OaGdsVVJHa2VXbDdFcWRNSzRxdHpmWU1hLVpMQ21tZ1pwYXJzS0RlV0lCMEpYdFJyemxwSnNVcVZZcHptX3p6V2N1X2l1Qkw2Ty1FM3l6TmpLRXhLTUVad2hadndnb0lSQXgwOEE?oc=5"
+          }
+        ],
+        "source": "CNBC",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnVDSWV2NWxaalUwQWFBMkYwY2YzdUl0c0hOd3dhV25hWGdWSjNnVWJYRkx5NkpaODl5Nlg1dGZLYi1JdjktVFU3ckdTYzctOWdyd01KZ2JSMEd4VWpxN3ZxMWJyanBlUVRiejZ6N0Y2cjBXbHNsLURpQndZX3Q0MNIBhgFBVV95cUxPTldSWkVQdy1Pamt6MXJSTFpBVVFMcGdYWFY1b0p2OWhoaVRPdk9VU2VXMktCY1EzSE5ELU02SzlQRHpKRkJ3UE9seXZScDNwZUUzUVpsa2hnbWIyYnJzNkFSdmMzRWpmcEY1ai1HT2kwby1EejR5bHV3VGVrNWwwUTQweVJ2UQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20260930-auto-2-24d19d",
+        "title": "【央视新闻】聚焦“四极” 方向科学前",
+        "category": "AI新闻",
+        "date": "2026-09-30",
+        "summary": "【央视新闻】聚焦“四极” 方向科学前沿极限突破计划启动实施 中国科学院",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【央视新闻】聚焦“四极” 方向科学前 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "【央视新闻】聚焦“四极” 方向科学前沿极限突破计划启动实施 中国科学院",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【央视新闻】聚焦“四极” 方向科学前沿极限突破计划启动实施 中国科学院",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国科学院：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMklwbm1hUHI0YlJHWXlyS0xsWFlUbHljOUNhSXpYYjdXVGd0VFVVUlhpZGJFMm9UMHpGQm1sa0s2ZGFBX1FMdGlFV2lLZzFYWkNrM3VNTF9JekFaZmRvWUtB?oc=5"
+          },
+          {
+            "label": "CNBC：CNBC Daily Open: AI will be marking its own homework — for now - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnVDSWV2NWxaalUwQWFBMkYwY2YzdUl0c0hOd3dhV25hWGdWSjNnVWJYRkx5NkpaODl5Nlg1dGZLYi1JdjktVFU3ckdTYzctOWdyd01KZ2JSMEd4VWpxN3ZxMWJyanBlUVRiejZ6N0Y2cjBXbHNsLURpQndZX3Q0MNIBhgFBVV95cUxPTldSWkVQdy1Pamt6MXJSTFpBVVFMcGdYWFY1b0p2OWhoaVRPdk9VU2VXMktCY1EzSE5ELU02SzlQRHpKRkJ3UE9seXZScDNwZUUzUVpsa2hnbWIyYnJzNkFSdmMzRWpmcEY1ai1HT2kwby1EejR5bHV3VGVrNWwwUTQweVJ2UQ?oc=5"
+          },
+          {
+            "label": "Tech Xplore：Trump touts AI boss pledge to self-regulate - Tech Xplore",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iRW9OVDh5Nk9OaGdsVVJHa2VXbDdFcWRNSzRxdHpmWU1hLVpMQ21tZ1pwYXJzS0RlV0lCMEpYdFJyemxwSnNVcVZZcHptX3p6V2N1X2l1Qkw2Ty1FM3l6TmpLRXhLTUVad2hadndnb0lSQXgwOEE?oc=5"
+          }
+        ],
+        "source": "中国科学院",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMklwbm1hUHI0YlJHWXlyS0xsWFlUbHljOUNhSXpYYjdXVGd0VFVVUlhpZGJFMm9UMHpGQm1sa0s2ZGFBX1FMdGlFV2lLZzFYWkNrM3VNTF9JekFaZmRvWUtB?oc=5"
+      },
+      {
         "slug": "ai-news-20260929-auto-1-5c4b51",
         "title": "AI Is Already Bein",
         "category": "AI新闻",
@@ -21047,6 +21163,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20260930-auto-1-e0c462",
+        "title": "Introducing GPT-6",
+        "category": "AI使用教程",
+        "date": "2026-09-30",
+        "summary": "Introducing GPT-6 Sol and Luna OpenAI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Introducing GPT-6 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Introducing GPT-6 Sol and Luna OpenAI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Introducing GPT-6 Sol and Luna OpenAI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OpenAI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+          },
+          {
+            "label": "砍柴网：上海智位机器人行空板M10赋能学生科创:“灵瞳智辅”把台灯变成会讲题的AI学习伙伴 - 砍柴网",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ielREQ0xwNGRuWm5vNkYxUnZvVUpmaGpkYkd0WjZVcUhlV1o1WmFBT2Q4bEgxX0VuZ002T2h6aDFKSWQzRk5RUlkwNXhta213?oc=5"
+          },
+          {
+            "label": "手机新浪网：报告称微软Copilot承包商可查看用户上传的照片、AI提示词等 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14UmpIbWE3MTByU29ac2pIVmRjWWxLa1JwckNZbXlUbVdHdzlqX3dRQ1lQQVFZb2gzOHBOaGoxZ2NsdDhVTGp0NzlJLTR5VDV2QjNKSXpBUFpNSC1QZFVsUXZnU21kMlJZbFVBT1h6bXcwTk4wWm53SklCbUljMjQ?oc=5"
+          }
+        ],
+        "source": "OpenAI",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+      },
+      {
         "slug": "ai-guide-20260929-auto-1-b102ab",
         "title": "AI色情，已经入侵了未成年的生活-3",
         "category": "AI使用教程",
@@ -30993,6 +31167,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20260930-auto-1-9c325c",
+        "title": "China Telecom Unve",
+        "category": "开源项目",
+        "date": "2026-09-30",
+        "summary": "China Telecom Unveils TeleOCR: Lightweight 1.2B Mo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China Telecom Unve 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China Telecom Unveils TeleOCR: Lightweight 1.2B Mo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China Telecom Unveils TeleOCR: Lightweight 1.2B Mo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "StreetInsider：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR2dVUzJlVWdUdG9nLW1FZ1BZS1B3dG5lZnFUQ2ZUbm83SVJKSEZlakY5eWtnendYSUlPeFVPdkFRd1pPOWNzN0pPLTVpNW1JUGEtZWMxbWJqbVdtT1pmM0hiaVhucDMtLUcyVlhmaGxyZzFqcTBYWFFCZnd3NE5fVE5maVhSRkVydjJHaWlYbVJHUkc3WUtxQWRnTW40dGJvQXdmTVpHcVNuSzQ4dUs1bHA3RE9YYXAtU3ZwRU1KbjU0dW90dGtudzZDbmJsQVNWR2N4SnVmTEJ0M2dNWTZISzBTSmFpZkl1SGc?oc=5"
+          },
+          {
+            "label": "OSCHINA：Termexo v0.10.9 发布：五种Agent 状态集中显示，终端内可确认完成- OSCHINA - 开源 × AI · 开发者生态社",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wTTk4cnBlMVRUdjM3UTJHaldmUmR2a1dpTzBJR0RINXZFdG5wcEZiLXVTUmU3aERLMnJsTVZ1TUJiQ0JyY3RYNjF2Yw?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：DeepSeek与华为合作开发昇腾编程工具开源软件基础设施以减少对NVIDIA的依赖- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUkVUNm5Wd2NiWEVWMjhsOFBpeFNYc2ZfUFNkT2RWcXlpa1RsWFhwSWZfT2ZUWU5qSk1zYVFWdVhxaklDUXJTX1dBaG5uSmdyU01kQjdnWlJmdjZWdjVCdQ?oc=5"
+          }
+        ],
+        "source": "StreetInsider",
+        "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR2dVUzJlVWdUdG9nLW1FZ1BZS1B3dG5lZnFUQ2ZUbm83SVJKSEZlakY5eWtnendYSUlPeFVPdkFRd1pPOWNzN0pPLTVpNW1JUGEtZWMxbWJqbVdtT1pmM0hiaVhucDMtLUcyVlhmaGxyZzFqcTBYWFFCZnd3NE5fVE5maVhSRkVydjJHaWlYbVJHUkc3WUtxQWRnTW40dGJvQXdmTVpHcVNuSzQ4dUs1bHA3RE9YYXAtU3ZwRU1KbjU0dW90dGtudzZDbmJsQVNWR2N4SnVmTEJ0M2dNWTZISzBTSmFpZkl1SGc?oc=5"
+      },
+      {
+        "slug": "open-source-20260930-auto-2-71f1ea",
+        "title": "Termexo v0.10.9 发布",
+        "category": "开源项目",
+        "date": "2026-09-30",
+        "summary": "Termexo v0.10.9 发布：五种Agent 状态集中显示，终端内可确认完成- OSCHIN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Termexo v0.10.9 发布 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Termexo v0.10.9 发布：五种Agent 状态集中显示，终端内可确认完成- OSCHIN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Termexo v0.10.9 发布：五种Agent 状态集中显示，终端内可确认完成- OSCHIN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wTTk4cnBlMVRUdjM3UTJHaldmUmR2a1dpTzBJR0RINXZFdG5wcEZiLXVTUmU3aERLMnJsTVZ1TUJiQ0JyY3RYNjF2Yw?oc=5"
+          },
+          {
+            "label": "StreetInsider：China Telecom Unveils TeleOCR: Lightweight 1.2B Model Tops Global Docu",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR2dVUzJlVWdUdG9nLW1FZ1BZS1B3dG5lZnFUQ2ZUbm83SVJKSEZlakY5eWtnendYSUlPeFVPdkFRd1pPOWNzN0pPLTVpNW1JUGEtZWMxbWJqbVdtT1pmM0hiaVhucDMtLUcyVlhmaGxyZzFqcTBYWFFCZnd3NE5fVE5maVhSRkVydjJHaWlYbVJHUkc3WUtxQWRnTW40dGJvQXdmTVpHcVNuSzQ4dUs1bHA3RE9YYXAtU3ZwRU1KbjU0dW90dGtudzZDbmJsQVNWR2N4SnVmTEJ0M2dNWTZISzBTSmFpZkl1SGc?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：DeepSeek与华为合作开发昇腾编程工具开源软件基础设施以减少对NVIDIA的依赖- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUkVUNm5Wd2NiWEVWMjhsOFBpeFNYc2ZfUFNkT2RWcXlpa1RsWFhwSWZfT2ZUWU5qSk1zYVFWdVhxaklDUXJTX1dBaG5uSmdyU01kQjdnWlJmdjZWdjVCdQ?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wTTk4cnBlMVRUdjM3UTJHaldmUmR2a1dpTzBJR0RINXZFdG5wcEZiLXVTUmU3aERLMnJsTVZ1TUJiQ0JyY3RYNjF2Yw?oc=5"
+      },
       {
         "slug": "open-source-20260929-auto-1-834702",
         "title": "5 Best Crypto Pres",
