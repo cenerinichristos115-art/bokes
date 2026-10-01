@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261001-auto-1-76acbb",
+        "title": "为善？还是为恶？高志凯首提“人工智能",
+        "category": "AI新闻",
+        "date": "2026-10-01",
+        "summary": "为善？还是为恶？高志凯首提“人工智能十诫” 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "为善？还是为恶？高志凯首提“人工智能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "为善？还是为恶？高志凯首提“人工智能十诫” 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "为善？还是为恶？高志凯首提“人工智能十诫” 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVR0V1RJRDNuYnV2M0VaUVVCY3NReFJ2LVQybE1ZVVlJNC1MbXZJMXVSOExVdC1ZSlF0TkIyamJfdjF6M1lWTjFTa3gwZGJDUGh1M2V3ZTRkaERWOUEyT3BzQWxOcnd3bHpCLTlHUE1PZ1p2WXlSRWlrZVhsbHV4cV81Zw?oc=5"
+          },
+          {
+            "label": "Radiology Business：Widespread AI adoption in private practice produces measurable efficie",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1l6R29IN2l6X0ZYRGNtLUkzRTJmNWNCSzJXa2lHRy11dS1wNUhQc2ppWTBjZmpta0Q2b2RnYzFHb1N2QTNTcU01NjlhWlZWUlB1TXVFcDgxaVdIU1FaaHcwR2xiTVRBM0ZxZ3RsdTZmdG50bWxuMDBRU0R2anZtY19ab0JXSF9IVVFtdXpfbWllT1BXMXVkbi1oaERjWXNrQUxjYnAxNG95c2YyYXZaZGpEOGVNaUtfNWlPWDYtbHhoRXR3RlRpNEtRcEJ6Z21MRkZv?oc=5"
+          },
+          {
+            "label": "Neos Kosmos：Artificial Intelligence today – how justified are the fears? - Neos Ko",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHJBU1dSUE9FZHV5YUVaSnBrNjJoaGNuMWNrV0JkYjZFaXlDdWpiY2l3WGd1THNpS05OQlNZdzQwZ3BvWDNPa3ZmQnZKcEpLMkJIaUx2ZFNLbXgtUlg2b3NWQmFLb1lCa0c0emNCZHYtTTJmS0Jid181bGdRRXI0QzFLUjRORjlIWkFfZVBJek0ycTdFWVVTRC1VQkItM1NnbllXMlIzc2JpUnFRbXJ1WkFB?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVR0V1RJRDNuYnV2M0VaUVVCY3NReFJ2LVQybE1ZVVlJNC1MbXZJMXVSOExVdC1ZSlF0TkIyamJfdjF6M1lWTjFTa3gwZGJDUGh1M2V3ZTRkaERWOUEyT3BzQWxOcnd3bHpCLTlHUE1PZ1p2WXlSRWlrZVhsbHV4cV81Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261001-auto-2-521e50",
+        "title": "Widespread AI adop",
+        "category": "AI新闻",
+        "date": "2026-10-01",
+        "summary": "Widespread AI adoption in private practice produce",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Widespread AI adop 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Widespread AI adoption in private practice produce",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Widespread AI adoption in private practice produce",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Radiology Business：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1l6R29IN2l6X0ZYRGNtLUkzRTJmNWNCSzJXa2lHRy11dS1wNUhQc2ppWTBjZmpta0Q2b2RnYzFHb1N2QTNTcU01NjlhWlZWUlB1TXVFcDgxaVdIU1FaaHcwR2xiTVRBM0ZxZ3RsdTZmdG50bWxuMDBRU0R2anZtY19ab0JXSF9IVVFtdXpfbWllT1BXMXVkbi1oaERjWXNrQUxjYnAxNG95c2YyYXZaZGpEOGVNaUtfNWlPWDYtbHhoRXR3RlRpNEtRcEJ6Z21MRkZv?oc=5"
+          },
+          {
+            "label": "手机新浪网：为善？还是为恶？高志凯首提“人工智能十诫” - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVR0V1RJRDNuYnV2M0VaUVVCY3NReFJ2LVQybE1ZVVlJNC1MbXZJMXVSOExVdC1ZSlF0TkIyamJfdjF6M1lWTjFTa3gwZGJDUGh1M2V3ZTRkaERWOUEyT3BzQWxOcnd3bHpCLTlHUE1PZ1p2WXlSRWlrZVhsbHV4cV81Zw?oc=5"
+          },
+          {
+            "label": "Neos Kosmos：Artificial Intelligence today – how justified are the fears? - Neos Ko",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHJBU1dSUE9FZHV5YUVaSnBrNjJoaGNuMWNrV0JkYjZFaXlDdWpiY2l3WGd1THNpS05OQlNZdzQwZ3BvWDNPa3ZmQnZKcEpLMkJIaUx2ZFNLbXgtUlg2b3NWQmFLb1lCa0c0emNCZHYtTTJmS0Jid181bGdRRXI0QzFLUjRORjlIWkFfZVBJek0ycTdFWVVTRC1VQkItM1NnbllXMlIzc2JpUnFRbXJ1WkFB?oc=5"
+          }
+        ],
+        "source": "Radiology Business",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN1l6R29IN2l6X0ZYRGNtLUkzRTJmNWNCSzJXa2lHRy11dS1wNUhQc2ppWTBjZmpta0Q2b2RnYzFHb1N2QTNTcU01NjlhWlZWUlB1TXVFcDgxaVdIU1FaaHcwR2xiTVRBM0ZxZ3RsdTZmdG50bWxuMDBRU0R2anZtY19ab0JXSF9IVVFtdXpfbWllT1BXMXVkbi1oaERjWXNrQUxjYnAxNG95c2YyYXZaZGpEOGVNaUtfNWlPWDYtbHhoRXR3RlRpNEtRcEJ6Z21MRkZv?oc=5"
+      },
+      {
         "slug": "ai-news-20260930-auto-1-82b8ca",
         "title": "CNBC Daily Open: A",
         "category": "AI新闻",
@@ -21163,6 +21279,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261001-auto-1-3908d1",
+        "title": "AI编程实战教程：零基础54节课从搭",
+        "category": "AI使用教程",
+        "date": "2026-10-01",
+        "summary": "AI编程实战教程：零基础54节课从搭环境到小程序发布上线 80aj.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI编程实战教程：零基础54节课从搭 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI编程实战教程：零基础54节课从搭环境到小程序发布上线 80aj.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI编程实战教程：零基础54节课从搭环境到小程序发布上线 80aj.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "80aj.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RHVXVnA5UGduMmJoc3c2X3VsSVdLRFQwamY5ZFp6M05iSTdDbi01RFJlT2lKaHl4WjJhN0Z1QXBQQXp6REJzUldTbUFaaDNEWkR6Q1NIM0pfRVdBSE9DOXRibkJUUEgxMktB?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：报告称微软Copilot承包商可查看用户上传的照片、AI提示词等 - finance.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQXNTRmdoeXYzRjVXS09jZ2NOSHc5dlMxakFlOEFYdWZrOW9PMVMxb1RLa1V6d0dST3dKREMyYzBNOWFiXzBPV3lhamxhM0dKQ2tRamR1T0k1TFlxMlZUanNuVEFhdEJXMTVfSVFIbjJXY2lQT002Yk10LUt4ZHEyNC11bnd1LS01ejczS0pKZHBqRDdNNmtrdDhYNkNpR2poSDRiZEpWZDByajIxUFZqN3NR?oc=5"
+          },
+          {
+            "label": "光明日报：吉中中商联会举办AI与数码转型工作坊反应热烈| 北马| 2026-10-01 - 光明日报",
+            "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQUEdPcTBUVFJCUTNiUExUZGJIOURyY3JTUk9uajRxOGZjb1VYRjBNTWZfTHFYZkhjVXVNOWZMemVOYmIybzNIUG0zRHRRYU5OUnNha2pEZTJWQWVGS3N3a3NlbndSZThjdTVTa0ZLTVA4VVoyVlJ6bFZMVlV3azltbjA3RzljLVI4V3I1bFdZT3ZTQi1Wa1Uyd2VvdV9VTC0wcHRZcUk3emZZeXN5M3llcnM2RFdjNjFHRF9mWTdQaVZNMWI2MHNMZUtpSGNDYTBtOFZNVVhNdTQ5aG9sQlpPR3g4WXpTWVkxMGRqTlJKTkpXZGlFeHdvRWFrV3ZTYWJ0LTREWVdDS0xva2NsYWdHWVVfdWZGQS13clNvNnNfYng0R2dTWklURTducldveThNVmc?oc=5"
+          }
+        ],
+        "source": "80aj.com",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45RHVXVnA5UGduMmJoc3c2X3VsSVdLRFQwamY5ZFp6M05iSTdDbi01RFJlT2lKaHl4WjJhN0Z1QXBQQXp6REJzUldTbUFaaDNEWkR6Q1NIM0pfRVdBSE9DOXRibkJUUEgxMktB?oc=5"
+      },
+      {
         "slug": "ai-guide-20260930-auto-1-e0c462",
         "title": "Introducing GPT-6",
         "category": "AI使用教程",
@@ -31167,6 +31341,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261001-auto-1-4aa751",
+        "title": "Why AI agent proje",
+        "category": "开源项目",
+        "date": "2026-10-01",
+        "summary": "Why AI agent projects fail in the enterprise (2026",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why AI agent proje 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Why AI agent projects fail in the enterprise (2026",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why AI agent projects fail in the enterprise (2026",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0VpYm1hdTc3ek8yTWdMWDdDVXFUclFvdlIwWTAwZzh0QW9TaE1BUTZrN3IzTEQ3QWcwcUxRRmZrN0RfM2F5cXdpdXJhcW9jLWtUTGxkeURZZVM0NW14Yl92XzY4bkZZaTh3MWtnZjg2aW5DZ041NWJLTEN2S2Zfa1dmYWtadDVC?oc=5"
+          },
+          {
+            "label": "TechGig：OpenClaw Enterprise offers Kubernetes-like control plane for AI agents",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTRoM0JxazlEZWs5YkZpLVpqNGN3RGVEd1gxcDktUFF1aU1JSk1aMXh6dTlONVNqM2FPRE5scFNKbDRNTGxGakR0Q1lLa0QwMXBlakdHSGplRXY2QTlXSzY0X1g3X3FFc0JVWlBUeWQ0dW5EQVRSSURCdU1tZl8xd3FBVXhSeVpOd2VJd0pIM184RGlJOGJfaWxMVW94UmRzWEdfb2ZuN0t2RkRF?oc=5"
+          },
+          {
+            "label": "townhall.com：Trump Smashes the 'Paced' Frontier AI Race With a Dose of MAGA Optimis",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0pmbzdDQ1RnN3RpWDJOOXk2RHJGWTZNdzdiUi01WldSeGg4cWx0LWwxdk8xZVYzalNnZzBRdmpwRVBrSjFWTDA3R1VtMTBaRE5ubTFSNGw0Mm1MVVNBX0hhZ2g5cXJFOE1jU1JLbWFaR0RzSjdnQU1PUW0wRF9iUlgtTkhqQUVUMUZuTFI3eWxneThNZWFxcFhUX21qZnZILVhPb0dBQ3U3OXZSVVlEVm9FdVNlZlFra1FXVzFJM1dFbHk1LTVIUklDVlhnWklh?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0VpYm1hdTc3ek8yTWdMWDdDVXFUclFvdlIwWTAwZzh0QW9TaE1BUTZrN3IzTEQ3QWcwcUxRRmZrN0RfM2F5cXdpdXJhcW9jLWtUTGxkeURZZVM0NW14Yl92XzY4bkZZaTh3MWtnZjg2aW5DZ041NWJLTEN2S2Zfa1dmYWtadDVC?oc=5"
+      },
+      {
+        "slug": "open-source-20261001-auto-2-c693e9",
+        "title": "OpenClaw Enterpris",
+        "category": "开源项目",
+        "date": "2026-10-01",
+        "summary": "OpenClaw Enterprise offers Kubernetes-like control",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenClaw Enterpris 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenClaw Enterprise offers Kubernetes-like control",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenClaw Enterprise offers Kubernetes-like control",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TechGig：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTRoM0JxazlEZWs5YkZpLVpqNGN3RGVEd1gxcDktUFF1aU1JSk1aMXh6dTlONVNqM2FPRE5scFNKbDRNTGxGakR0Q1lLa0QwMXBlakdHSGplRXY2QTlXSzY0X1g3X3FFc0JVWlBUeWQ0dW5EQVRSSURCdU1tZl8xd3FBVXhSeVpOd2VJd0pIM184RGlJOGJfaWxMVW94UmRzWEdfb2ZuN0t2RkRF?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Why AI agent projects fail in the enterprise (2026 data) - Pasquale Pi",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0VpYm1hdTc3ek8yTWdMWDdDVXFUclFvdlIwWTAwZzh0QW9TaE1BUTZrN3IzTEQ3QWcwcUxRRmZrN0RfM2F5cXdpdXJhcW9jLWtUTGxkeURZZVM0NW14Yl92XzY4bkZZaTh3MWtnZjg2aW5DZ041NWJLTEN2S2Zfa1dmYWtadDVC?oc=5"
+          },
+          {
+            "label": "townhall.com：Trump Smashes the 'Paced' Frontier AI Race With a Dose of MAGA Optimis",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0pmbzdDQ1RnN3RpWDJOOXk2RHJGWTZNdzdiUi01WldSeGg4cWx0LWwxdk8xZVYzalNnZzBRdmpwRVBrSjFWTDA3R1VtMTBaRE5ubTFSNGw0Mm1MVVNBX0hhZ2g5cXJFOE1jU1JLbWFaR0RzSjdnQU1PUW0wRF9iUlgtTkhqQUVUMUZuTFI3eWxneThNZWFxcFhUX21qZnZILVhPb0dBQ3U3OXZSVVlEVm9FdVNlZlFra1FXVzFJM1dFbHk1LTVIUklDVlhnWklh?oc=5"
+          }
+        ],
+        "source": "TechGig",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTRoM0JxazlEZWs5YkZpLVpqNGN3RGVEd1gxcDktUFF1aU1JSk1aMXh6dTlONVNqM2FPRE5scFNKbDRNTGxGakR0Q1lLa0QwMXBlakdHSGplRXY2QTlXSzY0X1g3X3FFc0JVWlBUeWQ0dW5EQVRSSURCdU1tZl8xd3FBVXhSeVpOd2VJd0pIM184RGlJOGJfaWxMVW94UmRzWEdfb2ZuN0t2RkRF?oc=5"
+      },
       {
         "slug": "open-source-20260930-auto-1-9c325c",
         "title": "China Telecom Unve",
