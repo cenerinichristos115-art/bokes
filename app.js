@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261002-auto-1-6eec47",
+        "title": "Dartmouth provost",
+        "category": "AI新闻",
+        "date": "2026-10-02",
+        "summary": "Dartmouth provost in a real bind over use of artif",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Dartmouth provost 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Dartmouth provost in a real bind over use of artif",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Dartmouth provost in a real bind over use of artif",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Boston Globe：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUsxbG1IWE51UlpteVBoclYwT0tfSW5hV0pTcHJDdlU0ckdBcmVlV2tiZFhKQ2ZyNkNJRWhZT2E0bHlyYVZEdnFrYlBTVGdIdXFlQkRHejR0Q21KekFVNzZnTnFHVTJhNkV1TlhKU2NNUFY4V1lkNkpKRUNuZVVnUnBQbU93dnVJcGtad0VnRQ?oc=5"
+          },
+          {
+            "label": "Minot Daily News：Data hub rises in age of AI anxiety - Minot Daily News",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk8zSlJUUjgxR1VKRWoxMXE0LTg4MjZ3VUVaWUx0Q2dYRDY1dTNNcEtSYXFWMkpnLVNnNWZ2RnJUQVlobEdieXlCNHYwc3BDZ0N1WEhxMFlFbHRxeTd1Y3hUVHVXM3ZCQVNPX1A4bk5aTzhGME5ydWxrbkRvWjRFeTNrM215ekNXNUdVU3U2UWhGSnJ5SDhWbDh2N2tDUTdGV2Ywd3N3?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：‘Come Hell or High Water’ in AI. Anthropic, DC & SpaceXAI. ARD #176 - ",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTnc5MnZFZzVZNTBmUTNMS0NISHVIZjlwXzNQU3VRcGNkdFhSQnYyazZMT0hzYk04ZElxSG9fd1ptZjZibkFRS2dPWEl6aHFkSkNTdTZDdUNOWjMxamNib09ldWZKN05raEFCX3VDTURram1nMWxVNWQ4V0xBRThHWWhn?oc=5"
+          }
+        ],
+        "source": "The Boston Globe",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUsxbG1IWE51UlpteVBoclYwT0tfSW5hV0pTcHJDdlU0ckdBcmVlV2tiZFhKQ2ZyNkNJRWhZT2E0bHlyYVZEdnFrYlBTVGdIdXFlQkRHejR0Q21KekFVNzZnTnFHVTJhNkV1TlhKU2NNUFY4V1lkNkpKRUNuZVVnUnBQbU93dnVJcGtad0VnRQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261002-auto-2-320b91",
+        "title": "Data hub rises in",
+        "category": "AI新闻",
+        "date": "2026-10-02",
+        "summary": "Data hub rises in age of AI anxiety Minot Daily Ne",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Data hub rises in 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Data hub rises in age of AI anxiety Minot Daily Ne",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Data hub rises in age of AI anxiety Minot Daily Ne",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Minot Daily News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk8zSlJUUjgxR1VKRWoxMXE0LTg4MjZ3VUVaWUx0Q2dYRDY1dTNNcEtSYXFWMkpnLVNnNWZ2RnJUQVlobEdieXlCNHYwc3BDZ0N1WEhxMFlFbHRxeTd1Y3hUVHVXM3ZCQVNPX1A4bk5aTzhGME5ydWxrbkRvWjRFeTNrM215ekNXNUdVU3U2UWhGSnJ5SDhWbDh2N2tDUTdGV2Ywd3N3?oc=5"
+          },
+          {
+            "label": "The Boston Globe：Dartmouth provost in a real bind over use of artificial intelligence -",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUsxbG1IWE51UlpteVBoclYwT0tfSW5hV0pTcHJDdlU0ckdBcmVlV2tiZFhKQ2ZyNkNJRWhZT2E0bHlyYVZEdnFrYlBTVGdIdXFlQkRHejR0Q21KekFVNzZnTnFHVTJhNkV1TlhKU2NNUFY4V1lkNkpKRUNuZVVnUnBQbU93dnVJcGtad0VnRQ?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：‘Come Hell or High Water’ in AI. Anthropic, DC & SpaceXAI. ARD #176 - ",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTnc5MnZFZzVZNTBmUTNMS0NISHVIZjlwXzNQU3VRcGNkdFhSQnYyazZMT0hzYk04ZElxSG9fd1ptZjZibkFRS2dPWEl6aHFkSkNTdTZDdUNOWjMxamNib09ldWZKN05raEFCX3VDTURram1nMWxVNWQ4V0xBRThHWWhn?oc=5"
+          }
+        ],
+        "source": "Minot Daily News",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk8zSlJUUjgxR1VKRWoxMXE0LTg4MjZ3VUVaWUx0Q2dYRDY1dTNNcEtSYXFWMkpnLVNnNWZ2RnJUQVlobEdieXlCNHYwc3BDZ0N1WEhxMFlFbHRxeTd1Y3hUVHVXM3ZCQVNPX1A4bk5aTzhGME5ydWxrbkRvWjRFeTNrM215ekNXNUdVU3U2UWhGSnJ5SDhWbDh2N2tDUTdGV2Ywd3N3?oc=5"
+      },
+      {
         "slug": "ai-news-20261001-auto-1-76acbb",
         "title": "为善？还是为恶？高志凯首提“人工智能",
         "category": "AI新闻",
@@ -21279,6 +21395,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261002-auto-1-40165b",
+        "title": "假装卸载ChatGPT的视频收获14",
+        "category": "AI使用教程",
+        "date": "2026-10-02",
+        "summary": "假装卸载ChatGPT的视频收获1400万次播放 Pasquale Pillitteri",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "假装卸载ChatGPT的视频收获14 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "假装卸载ChatGPT的视频收获1400万次播放 Pasquale Pillitteri",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "假装卸载ChatGPT的视频收获1400万次播放 Pasquale Pillitteri",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWUlfQk4yOEQyOXFpRjNmSzBHNU10OFVLRng4ODc2RkFad1lOLUJWUEpuSlZuNVRESHhkTU9XVzRaUEJ1R2VhZTlMTUJCUmdNUENUTHd4X2NRNDV0QkNZejVLVHd4Rm03R0NoUmg5LURNR0dvQzBTY3lHZzdoZw?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：微软推出MAI-Transcribe-2-Streaming,支持60种语言的实时语音转写 - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmxkRU1CclhEeURHSnFOOHV1Q0N5aHJEZTZqajN6NHhWZGJUcVZmeFlseENUeWJUZURGUDQtQzR4NzlzWHdTa0RRcWpWWkgwMVRfdFFsYkxfbDVRNmpsaTNDYzNsWGY4ZkxtaE5jc0luM3RZRmU5aEVPSU9tcUtrSzRaRGYzS3c?oc=5"
+          },
+          {
+            "label": "深潮TechFlow：以太坊基金会上线 zkAPI：用零知识证明给 AI 模型付费，可不暴露身份 - 深潮TechFlow",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqMjhhT3JSRV90cFNZakE4b3RVaGtkeElIbXlRNXM4d1lISndlU0FNOVpuZ1JpcUZPWDliWG5WQjhGbF96LV9Pdy1aNmg4Y01tUm04aA?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yWUlfQk4yOEQyOXFpRjNmSzBHNU10OFVLRng4ODc2RkFad1lOLUJWUEpuSlZuNVRESHhkTU9XVzRaUEJ1R2VhZTlMTUJCUmdNUENUTHd4X2NRNDV0QkNZejVLVHd4Rm03R0NoUmg5LURNR0dvQzBTY3lHZzdoZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261001-auto-1-3908d1",
         "title": "AI编程实战教程：零基础54节课从搭",
         "category": "AI使用教程",
@@ -31341,6 +31515,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261002-auto-1-aa823e",
+        "title": "Cloudflare launche",
+        "category": "开源项目",
+        "date": "2026-10-02",
+        "summary": "Cloudflare launches Clef as TypeSafe's 'decision m",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cloudflare launche 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Cloudflare launches Clef as TypeSafe's 'decision m",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cloudflare launches Clef as TypeSafe's 'decision m",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Dealroom：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVBmc3dVMzQtYktWRGlvVFBmZTZGZnpxcTE4TDFKMGdfT1QxZFJvdzdLcV9sMDBtSlJmVElqNFluTFYwNjQ5N1RrTFNGN2h4MnRFWURVYlNJT1BCNVhBR2w3bFk5aXdGb2xrS3Q3OXJMVEwyYjU3ejJoM05hTXdKS25FaGpjdEhCX1l4Y3Q4cVUwU1NlOEhnOWtRd2lwWENGTlpLZGdrRWpFWllWeTFEdmNvYlVudTQ?oc=5"
+          },
+          {
+            "label": "analyticsindiamag.com：What Does Open Source Mean for the Lucrative RL Environment Business? ",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGM4Z0FvS01EWDVVUFNzMGc2M2ZaNUFoNXptY1ZmWm9nZ2lCTXZKRWN4Sm5ZWlhiTUhKQTQtNEFaRGhoTW1MaXZta1JiS0I2RVM5MFEtdXBnWHlLT0hIZ09zczBDeWdrMnBBQ3NjWDBuVy1IeTFUZmF5bjJYT0M4UFBaN3NXNjh5OXNzcFZYV3dYNlBDcnVjV1FWU0VUWTl3cVBFelBIZWxRQmVBQmJ3?oc=5"
+          },
+          {
+            "label": "KuCoin：Ethereum Foundation Launches zkAPI for Privacy-Preserving AI Model Pay",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3Z0dlFoWHV1ejZ2UUNrOWY4V09SZ3RFbXpTM01EWnBPSDRrdTFOcy1XN2FOVTdBVW1LZEJXZ1MzbGI1YU43aGxSUWpWeDZDc2NpRVJBSFIwMkdMaTVTcm05UXQ5NWFxRXBMRjdQU3FFazdDRGFLSzdPbmk2RzRJRktUOU03ZEJwZUE2TXU4ZUgwenM2NEd3TkhlMmVENm5FUWgzYjlNbmV3cnhaY2c?oc=5"
+          }
+        ],
+        "source": "Dealroom",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVBmc3dVMzQtYktWRGlvVFBmZTZGZnpxcTE4TDFKMGdfT1QxZFJvdzdLcV9sMDBtSlJmVElqNFluTFYwNjQ5N1RrTFNGN2h4MnRFWURVYlNJT1BCNVhBR2w3bFk5aXdGb2xrS3Q3OXJMVEwyYjU3ejJoM05hTXdKS25FaGpjdEhCX1l4Y3Q4cVUwU1NlOEhnOWtRd2lwWENGTlpLZGdrRWpFWllWeTFEdmNvYlVudTQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261002-auto-2-e441a7",
+        "title": "What Does Open Sou",
+        "category": "开源项目",
+        "date": "2026-10-02",
+        "summary": "What Does Open Source Mean for the Lucrative RL En",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What Does Open Sou 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "What Does Open Source Mean for the Lucrative RL En",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What Does Open Source Mean for the Lucrative RL En",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "analyticsindiamag.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGM4Z0FvS01EWDVVUFNzMGc2M2ZaNUFoNXptY1ZmWm9nZ2lCTXZKRWN4Sm5ZWlhiTUhKQTQtNEFaRGhoTW1MaXZta1JiS0I2RVM5MFEtdXBnWHlLT0hIZ09zczBDeWdrMnBBQ3NjWDBuVy1IeTFUZmF5bjJYT0M4UFBaN3NXNjh5OXNzcFZYV3dYNlBDcnVjV1FWU0VUWTl3cVBFelBIZWxRQmVBQmJ3?oc=5"
+          },
+          {
+            "label": "Dealroom：Cloudflare launches Clef as TypeSafe's 'decision model' idea spreads a",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVBmc3dVMzQtYktWRGlvVFBmZTZGZnpxcTE4TDFKMGdfT1QxZFJvdzdLcV9sMDBtSlJmVElqNFluTFYwNjQ5N1RrTFNGN2h4MnRFWURVYlNJT1BCNVhBR2w3bFk5aXdGb2xrS3Q3OXJMVEwyYjU3ejJoM05hTXdKS25FaGpjdEhCX1l4Y3Q4cVUwU1NlOEhnOWtRd2lwWENGTlpLZGdrRWpFWllWeTFEdmNvYlVudTQ?oc=5"
+          },
+          {
+            "label": "KuCoin：Ethereum Foundation Launches zkAPI for Privacy-Preserving AI Model Pay",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3Z0dlFoWHV1ejZ2UUNrOWY4V09SZ3RFbXpTM01EWnBPSDRrdTFOcy1XN2FOVTdBVW1LZEJXZ1MzbGI1YU43aGxSUWpWeDZDc2NpRVJBSFIwMkdMaTVTcm05UXQ5NWFxRXBMRjdQU3FFazdDRGFLSzdPbmk2RzRJRktUOU03ZEJwZUE2TXU4ZUgwenM2NEd3TkhlMmVENm5FUWgzYjlNbmV3cnhaY2c?oc=5"
+          }
+        ],
+        "source": "analyticsindiamag.com",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGM4Z0FvS01EWDVVUFNzMGc2M2ZaNUFoNXptY1ZmWm9nZ2lCTXZKRWN4Sm5ZWlhiTUhKQTQtNEFaRGhoTW1MaXZta1JiS0I2RVM5MFEtdXBnWHlLT0hIZ09zczBDeWdrMnBBQ3NjWDBuVy1IeTFUZmF5bjJYT0M4UFBaN3NXNjh5OXNzcFZYV3dYNlBDcnVjV1FWU0VUWTl3cVBFelBIZWxRQmVBQmJ3?oc=5"
+      },
       {
         "slug": "open-source-20261001-auto-1-4aa751",
         "title": "Why AI agent proje",
