@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261003-auto-1-0a95c1",
+        "title": "AIIC2026丨万亿规模下，这场大",
+        "category": "AI新闻",
+        "date": "2026-10-03",
+        "summary": "AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AIIC2026丨万亿规模下，这场大 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUp4amNHaGc2Nk11eVVyQjY5UFdIVUJsRFVEYVd1RTExQjN2ZEJZRWlTZl83UmR0b2o2enFSNkdzRU9WQTAxOFRTakxGUW9pWDRGd2xPSENXV1ZXaG5lUHp4SkE4VGNIYXRacFNLZXJSZDJWb3BVRUJuV0ZzZmNUV0xvcTBqR21MMm1paVhZcw?oc=5"
+          },
+          {
+            "label": "The Globe and Mail：Anthropic Delivers Massive News for AI Stock Investors - The Globe and",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDNYWnV3OFFGbGRLWWZLYjBKWWFXWUQwendJUnIwRlpHNnhmVmRMSEMxNWo2eXZkS01CcFZJNnNDQkJhV2p1Z3luekhRdGxQUDRkY1NoaVgzTGY1WXUwNEMyV1R5WGVfN0RpbXRKNnZSdllKaW5WQTktaHB3b2Z4VVlSeDJrNDVRdGlCSDhRR2hLVFFzZVJ3WlpPRUY3bXN1WVN1QlIzd2VoYUNhYlRZd0xLdkdDM3F2cXBFQjFobk9MQVAwX2s2S3RSY2ZWM0FGRnppTnRR?oc=5"
+          },
+          {
+            "label": "搜狐网：从算力到产线，2026人工智能产业大会上的“山东适配度” - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BILTlhdzVTYm4tRG5xZ3BkNFV0cGVwNXFqTVVkbVQtbXB3cTlTUko0dFZlWThzeFFtWXVLR3dzVHBVMmk2alhzWFB5WEpnZlZ2N2M4YjVuZFpyNG5pQnFaTS1xRWhxT05rVjFvV0c3OU9QcEI0RUdZZHZmdUM1aDNKaWEtZWVYUEQ5RQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUp4amNHaGc2Nk11eVVyQjY5UFdIVUJsRFVEYVd1RTExQjN2ZEJZRWlTZl83UmR0b2o2enFSNkdzRU9WQTAxOFRTakxGUW9pWDRGd2xPSENXV1ZXaG5lUHp4SkE4VGNIYXRacFNLZXJSZDJWb3BVRUJuV0ZzZmNUV0xvcTBqR21MMm1paVhZcw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261003-auto-2-a130f8",
+        "title": "Anthropic Delivers",
+        "category": "AI新闻",
+        "date": "2026-10-03",
+        "summary": "Anthropic Delivers Massive News for AI Stock Inves",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic Delivers 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic Delivers Massive News for AI Stock Inves",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic Delivers Massive News for AI Stock Inves",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Globe and Mail：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDNYWnV3OFFGbGRLWWZLYjBKWWFXWUQwendJUnIwRlpHNnhmVmRMSEMxNWo2eXZkS01CcFZJNnNDQkJhV2p1Z3luekhRdGxQUDRkY1NoaVgzTGY1WXUwNEMyV1R5WGVfN0RpbXRKNnZSdllKaW5WQTktaHB3b2Z4VVlSeDJrNDVRdGlCSDhRR2hLVFFzZVJ3WlpPRUY3bXN1WVN1QlIzd2VoYUNhYlRZd0xLdkdDM3F2cXBFQjFobk9MQVAwX2s2S3RSY2ZWM0FGRnppTnRR?oc=5"
+          },
+          {
+            "label": "手机新浪网：AIIC2026丨万亿规模下，这场大会助力AI与产业双向赋能 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUp4amNHaGc2Nk11eVVyQjY5UFdIVUJsRFVEYVd1RTExQjN2ZEJZRWlTZl83UmR0b2o2enFSNkdzRU9WQTAxOFRTakxGUW9pWDRGd2xPSENXV1ZXaG5lUHp4SkE4VGNIYXRacFNLZXJSZDJWb3BVRUJuV0ZzZmNUV0xvcTBqR21MMm1paVhZcw?oc=5"
+          },
+          {
+            "label": "搜狐网：从算力到产线，2026人工智能产业大会上的“山东适配度” - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1BILTlhdzVTYm4tRG5xZ3BkNFV0cGVwNXFqTVVkbVQtbXB3cTlTUko0dFZlWThzeFFtWXVLR3dzVHBVMmk2alhzWFB5WEpnZlZ2N2M4YjVuZFpyNG5pQnFaTS1xRWhxT05rVjFvV0c3OU9QcEI0RUdZZHZmdUM1aDNKaWEtZWVYUEQ5RQ?oc=5"
+          }
+        ],
+        "source": "The Globe and Mail",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDNYWnV3OFFGbGRLWWZLYjBKWWFXWUQwendJUnIwRlpHNnhmVmRMSEMxNWo2eXZkS01CcFZJNnNDQkJhV2p1Z3luekhRdGxQUDRkY1NoaVgzTGY1WXUwNEMyV1R5WGVfN0RpbXRKNnZSdllKaW5WQTktaHB3b2Z4VVlSeDJrNDVRdGlCSDhRR2hLVFFzZVJ3WlpPRUY3bXN1WVN1QlIzd2VoYUNhYlRZd0xLdkdDM3F2cXBFQjFobk9MQVAwX2s2S3RSY2ZWM0FGRnppTnRR?oc=5"
+      },
+      {
         "slug": "ai-news-20261002-auto-1-6eec47",
         "title": "Dartmouth provost",
         "category": "AI新闻",
@@ -21395,6 +21511,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261003-auto-1-c23c1a",
+        "title": "如何用好GPT-6系列AI模型？Op",
+        "category": "AI使用教程",
+        "date": "2026-10-03",
+        "summary": "如何用好GPT-6系列AI模型？OpenAI放出指南，教你选模型等 tech.ifeng.com",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "如何用好GPT-6系列AI模型？Op 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "如何用好GPT-6系列AI模型？OpenAI放出指南，教你选模型等 tech.ifeng.com",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "如何用好GPT-6系列AI模型？OpenAI放出指南，教你选模型等 tech.ifeng.com",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tech.ifeng.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MQWNuYTJUb1dPRDZVYUZHbS1XenMyQkQ5X3I2MWU5OFA1Y3JGbzc5bHB4MnFyN3BvSWI0dEJKYzZXaGFlVU1MTm1lSzg?oc=5"
+          },
+          {
+            "label": "手机新浪网：公众号排版不用一段段调了：装上这个 AI 技能，直接拿成品 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZDJOY3VaUnFiRENXOEVvbm1QQW9iRWYxRzBZQU5OSGJ2NXdaMlBvdzVSR21fUm45R3ZrWWh3akFSRE5ONVlpSEU4ZGNJWFcxN3ZtSTJXNmxTMWdBb3hlcU41dEFoLURsbHRKQlZLblNxVGg5TGdXWnlCT0w1SVk?oc=5"
+          },
+          {
+            "label": "entrepreneur.com：I Built a 7-Figure Business Teaching People How to Engineer AI Prompts",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFQ4SFBINUFjbVN3bzFrX2pkZG5PSncxSFNxcjJCNld4NThLUHdJMWhTaGhNM2FBU2txeW13Q3VHeVVBQ1p2M1RYVDVncU5UQlF1Q1Nfbm9TRzdOM2dncGxRbTYzZUtOdjlJNnVac0t0ZVF6SFRUN01waTBDXzM0YzJUQy1ObFdsQzhBSGxnV25rQVhZWVBSVFoxNk1ucVZRbnlkUmhMSGZxMkxodURpYkNiYnVyTDlJeTM1OF82NDVfOUhPMENOX0N1bl9SVlZf?oc=5"
+          }
+        ],
+        "source": "tech.ifeng.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MQWNuYTJUb1dPRDZVYUZHbS1XenMyQkQ5X3I2MWU5OFA1Y3JGbzc5bHB4MnFyN3BvSWI0dEJKYzZXaGFlVU1MTm1lSzg?oc=5"
+      },
+      {
         "slug": "ai-guide-20261002-auto-1-40165b",
         "title": "假装卸载ChatGPT的视频收获14",
         "category": "AI使用教程",
@@ -31515,6 +31689,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261003-auto-1-68c48f",
+        "title": "Meta says Muse Spa",
+        "category": "开源项目",
+        "date": "2026-10-03",
+        "summary": "Meta says Muse Spark helped solve 6 major math pro",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta says Muse Spa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta says Muse Spark helped solve 6 major math pro",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta says Muse Spark helped solve 6 major math pro",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "indiatoday.in：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZVc2U21hLVlXcEhKNkRQcFY5Q0JLdnlaajJlblMyTVFGZWxMbzRiQVVMbk9wbWtTTm9rQ25rZU5TWTBBaEIwa3M5OGhTVkR1N3Zlc0xsUVl3TklrTWxmcDlOSkFlWER5UlNQNTdqYUttQkZkOFM4YUFiczZHZUxob3M5UDJBdXBTN1EwSkJ4LVJFYlBYVnVNUlIteGYzZWhPa0h5Wmg5STdEeFB1cFEtNE9LbTI0VWFtRWpRMjRfc3hHUzRBMmU4UWdWYjZPcWRtU3pVR2FxcU04b3Axd3pSeFRXblVIQU5kVUV4UmhoSVdKQzc2Y2Z2N3djWdIBgAJBVV95cUxNNDhvemw5THpMTWZMeGRycWxVUk5XbGh6d0haQlp6aHVTdXZLYWd6NGNlWDBjQkRUU3pKWndvSENKOWxqdmtsd1hqaEE1cnpVUDBTR2stUVFNRFE1WUtJM2VJTFA5Y3QzV3FuNTR4Y2VMX2xtbEFHS0NvV25vcHJ4RUxVeHUyRHRnQnJvbjBPbDBUblRMMGJ2eUs1WWNJUFJidWlCRkF3VGgwdTlkYXM2YWJKTUxtWUhJbGxKY3BnRlpfQ01vTlVNRUJ5dThPSjFhSG1HMjM4QmpGbmR6UjVYdi1FS29vcmpScVA0Yzl3ZXlxLXYyQ2hKdF9zaVkyeUZY?oc=5"
+          },
+          {
+            "label": "Gamereactor UK：Capcom’s REX Project Targets AI-Assisted Game Development - Gamereacto",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWFJMSEVwZFMxM0FPcG1ha2hfRTd6S1NXbWY1S1hYQVlsLS1mczZzWTlFR2s3cms5TmlqUzlzeERLLVlvYzZ5MXlVRnlqdGZGcmFkUnhwUXFfdFRIWTFVVWQ3bw?oc=5"
+          },
+          {
+            "label": "KuCoin：StartLux's open-source decision model outperforms Jev in benchmark tes",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1lIbi1faGJiY0JhU2hLMjFTZUUtcFdhQ1BuM3dLZHA4bHUtN2I0allqYVR1XzJOUGV2SUZ0bS1zUWFjR1ExNEZFUjlJVl83TEdaYnUwSmRYN3ZTSnVYSmN1bC1Cclp3ZEZ2QmFqdmtybmhERjZaVVpDQWdob0xucjJ2dUQyaFZrUkpOWHhVcEw1QU5CSzk5MGFCekp1Zjh6XzRWUU5PMA?oc=5"
+          }
+        ],
+        "source": "indiatoday.in",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZVc2U21hLVlXcEhKNkRQcFY5Q0JLdnlaajJlblMyTVFGZWxMbzRiQVVMbk9wbWtTTm9rQ25rZU5TWTBBaEIwa3M5OGhTVkR1N3Zlc0xsUVl3TklrTWxmcDlOSkFlWER5UlNQNTdqYUttQkZkOFM4YUFiczZHZUxob3M5UDJBdXBTN1EwSkJ4LVJFYlBYVnVNUlIteGYzZWhPa0h5Wmg5STdEeFB1cFEtNE9LbTI0VWFtRWpRMjRfc3hHUzRBMmU4UWdWYjZPcWRtU3pVR2FxcU04b3Axd3pSeFRXblVIQU5kVUV4UmhoSVdKQzc2Y2Z2N3djWdIBgAJBVV95cUxNNDhvemw5THpMTWZMeGRycWxVUk5XbGh6d0haQlp6aHVTdXZLYWd6NGNlWDBjQkRUU3pKWndvSENKOWxqdmtsd1hqaEE1cnpVUDBTR2stUVFNRFE1WUtJM2VJTFA5Y3QzV3FuNTR4Y2VMX2xtbEFHS0NvV25vcHJ4RUxVeHUyRHRnQnJvbjBPbDBUblRMMGJ2eUs1WWNJUFJidWlCRkF3VGgwdTlkYXM2YWJKTUxtWUhJbGxKY3BnRlpfQ01vTlVNRUJ5dThPSjFhSG1HMjM4QmpGbmR6UjVYdi1FS29vcmpScVA0Yzl3ZXlxLXYyQ2hKdF9zaVkyeUZY?oc=5"
+      },
+      {
+        "slug": "open-source-20261003-auto-2-76c017",
+        "title": "Capcom’s REX Proje",
+        "category": "开源项目",
+        "date": "2026-10-03",
+        "summary": "Capcom’s REX Project Targets AI-Assisted Game Deve",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Capcom’s REX Proje 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Capcom’s REX Project Targets AI-Assisted Game Deve",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Capcom’s REX Project Targets AI-Assisted Game Deve",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Gamereactor UK：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWFJMSEVwZFMxM0FPcG1ha2hfRTd6S1NXbWY1S1hYQVlsLS1mczZzWTlFR2s3cms5TmlqUzlzeERLLVlvYzZ5MXlVRnlqdGZGcmFkUnhwUXFfdFRIWTFVVWQ3bw?oc=5"
+          },
+          {
+            "label": "indiatoday.in：Meta says Muse Spark helped solve 6 major math problems, releases open",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZVc2U21hLVlXcEhKNkRQcFY5Q0JLdnlaajJlblMyTVFGZWxMbzRiQVVMbk9wbWtTTm9rQ25rZU5TWTBBaEIwa3M5OGhTVkR1N3Zlc0xsUVl3TklrTWxmcDlOSkFlWER5UlNQNTdqYUttQkZkOFM4YUFiczZHZUxob3M5UDJBdXBTN1EwSkJ4LVJFYlBYVnVNUlIteGYzZWhPa0h5Wmg5STdEeFB1cFEtNE9LbTI0VWFtRWpRMjRfc3hHUzRBMmU4UWdWYjZPcWRtU3pVR2FxcU04b3Axd3pSeFRXblVIQU5kVUV4UmhoSVdKQzc2Y2Z2N3djWdIBgAJBVV95cUxNNDhvemw5THpMTWZMeGRycWxVUk5XbGh6d0haQlp6aHVTdXZLYWd6NGNlWDBjQkRUU3pKWndvSENKOWxqdmtsd1hqaEE1cnpVUDBTR2stUVFNRFE1WUtJM2VJTFA5Y3QzV3FuNTR4Y2VMX2xtbEFHS0NvV25vcHJ4RUxVeHUyRHRnQnJvbjBPbDBUblRMMGJ2eUs1WWNJUFJidWlCRkF3VGgwdTlkYXM2YWJKTUxtWUhJbGxKY3BnRlpfQ01vTlVNRUJ5dThPSjFhSG1HMjM4QmpGbmR6UjVYdi1FS29vcmpScVA0Yzl3ZXlxLXYyQ2hKdF9zaVkyeUZY?oc=5"
+          },
+          {
+            "label": "KuCoin：StartLux's open-source decision model outperforms Jev in benchmark tes",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1lIbi1faGJiY0JhU2hLMjFTZUUtcFdhQ1BuM3dLZHA4bHUtN2I0allqYVR1XzJOUGV2SUZ0bS1zUWFjR1ExNEZFUjlJVl83TEdaYnUwSmRYN3ZTSnVYSmN1bC1Cclp3ZEZ2QmFqdmtybmhERjZaVVpDQWdob0xucjJ2dUQyaFZrUkpOWHhVcEw1QU5CSzk5MGFCekp1Zjh6XzRWUU5PMA?oc=5"
+          }
+        ],
+        "source": "Gamereactor UK",
+        "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWFJMSEVwZFMxM0FPcG1ha2hfRTd6S1NXbWY1S1hYQVlsLS1mczZzWTlFR2s3cms5TmlqUzlzeERLLVlvYzZ5MXlVRnlqdGZGcmFkUnhwUXFfdFRIWTFVVWQ3bw?oc=5"
+      },
       {
         "slug": "open-source-20261002-auto-1-aa823e",
         "title": "Cloudflare launche",
