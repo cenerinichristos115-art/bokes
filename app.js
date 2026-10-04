@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261004-auto-1-1afc58",
+        "title": "Artificial intelli",
+        "category": "AI新闻",
+        "date": "2026-10-04",
+        "summary": "Artificial intelligence creates new risks for trav",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Artificial intelligence creates new risks for trav",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial intelligence creates new risks for trav",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Redland Bayside News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0M3ZtTDlWVmZMNkI5WjZYSnVNNHB0VUZCa1QyQWZGcW9ZM050LXJlNFR6M0xFOGN5MS11REhhRHRuWlNXRWtUNks5cjJLdGZyWC13Q0kyU3U1ekVYR1lYdk5WZjl1R3hyWXFXbFN3?oc=5"
+          },
+          {
+            "label": "手机新浪网：果然视频｜中国科学院院士郑志明将在人工智能产业大会做主旨演讲 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTi1TMmtYcFdLeEtMaHJoQlEtNHdiWk5QeTVWVFpESUlSbUkzc2NkZkZxQUJMSjlCREdVZlY5aEtYbWlFdEdfaGt6RDJmbW5wYnMwYWprVG5RUTFqajkzSkwwUENyelg1WHRobm5hVUZjZ0pPOTFJRFQtV0xxdHFYQlVfOTR1eUtDUXBQUkFuN1M?oc=5"
+          },
+          {
+            "label": "手机新浪网：AIIC2026丨安全治理论坛开启报名，共探AI治理新路径 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkd1U2M1aWthOXZ1ODNYWktabzdRYWIyVmN6Z0dQS3RhMXVwQWczT21qOUZqQWZVX1JLcVM3YzVEQVZaNU1XeG92VV93N0RhYlJ4SWNPRUYyRzdrazVhYkFNQXE1azZmckNhcHpBU18yYjI3MVhBbEZwZUsxcWY3QXYtU1Bhb2pMeTgzRy1VQQ?oc=5"
+          }
+        ],
+        "source": "Redland Bayside News",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0M3ZtTDlWVmZMNkI5WjZYSnVNNHB0VUZCa1QyQWZGcW9ZM050LXJlNFR6M0xFOGN5MS11REhhRHRuWlNXRWtUNks5cjJLdGZyWC13Q0kyU3U1ekVYR1lYdk5WZjl1R3hyWXFXbFN3?oc=5"
+      },
+      {
+        "slug": "ai-news-20261004-auto-2-eb66b1",
+        "title": "果然视频｜中国科学院院士郑志明将在人",
+        "category": "AI新闻",
+        "date": "2026-10-04",
+        "summary": "果然视频｜中国科学院院士郑志明将在人工智能产业大会做主旨演讲 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "果然视频｜中国科学院院士郑志明将在人 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "果然视频｜中国科学院院士郑志明将在人工智能产业大会做主旨演讲 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "果然视频｜中国科学院院士郑志明将在人工智能产业大会做主旨演讲 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTi1TMmtYcFdLeEtMaHJoQlEtNHdiWk5QeTVWVFpESUlSbUkzc2NkZkZxQUJMSjlCREdVZlY5aEtYbWlFdEdfaGt6RDJmbW5wYnMwYWprVG5RUTFqajkzSkwwUENyelg1WHRobm5hVUZjZ0pPOTFJRFQtV0xxdHFYQlVfOTR1eUtDUXBQUkFuN1M?oc=5"
+          },
+          {
+            "label": "Redland Bayside News：Artificial intelligence creates new risks for travellers - Redland Bay",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0M3ZtTDlWVmZMNkI5WjZYSnVNNHB0VUZCa1QyQWZGcW9ZM050LXJlNFR6M0xFOGN5MS11REhhRHRuWlNXRWtUNks5cjJLdGZyWC13Q0kyU3U1ekVYR1lYdk5WZjl1R3hyWXFXbFN3?oc=5"
+          },
+          {
+            "label": "手机新浪网：AIIC2026丨安全治理论坛开启报名，共探AI治理新路径 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkd1U2M1aWthOXZ1ODNYWktabzdRYWIyVmN6Z0dQS3RhMXVwQWczT21qOUZqQWZVX1JLcVM3YzVEQVZaNU1XeG92VV93N0RhYlJ4SWNPRUYyRzdrazVhYkFNQXE1azZmckNhcHpBU18yYjI3MVhBbEZwZUsxcWY3QXYtU1Bhb2pMeTgzRy1VQQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTi1TMmtYcFdLeEtMaHJoQlEtNHdiWk5QeTVWVFpESUlSbUkzc2NkZkZxQUJMSjlCREdVZlY5aEtYbWlFdEdfaGt6RDJmbW5wYnMwYWprVG5RUTFqajkzSkwwUENyelg1WHRobm5hVUZjZ0pPOTFJRFQtV0xxdHFYQlVfOTR1eUtDUXBQUkFuN1M?oc=5"
+      },
+      {
         "slug": "ai-news-20261003-auto-1-0a95c1",
         "title": "AIIC2026丨万亿规模下，这场大",
         "category": "AI新闻",
@@ -21511,6 +21627,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261004-auto-1-4b1dc4",
+        "title": "Score ChatGPT, Cla",
+        "category": "AI使用教程",
+        "date": "2026-10-04",
+        "summary": "Score ChatGPT, Claude, Gemini, and More in One Spo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Score ChatGPT, Cla 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Score ChatGPT, Claude, Gemini, and More in One Spo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Score ChatGPT, Claude, Gemini, and More in One Spo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PCMag：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVlSUg1ODdRS0U2N2Y0WUhyS3Q4T0hSWkszVGdpT2l1bXlHdnZXZEZDS1Y5UVZoeHZsd1lvZlM3ZmY4WGc0bU44U1Q4TjVyYXdsWTZqbHBPMnhJLU94aHBuTU1YeWFKUFpBRG9KSzVmSnBwWGhRbDVJQ3pNNnp1WFpDUGNmcWtoLTVhQzkxQWlWZGVYRUxidnVjVUdlZm8?oc=5"
+          },
+          {
+            "label": "新华网重庆：新华视点｜新职业破土生长 老手艺焕发新生 - 新华网重庆",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83cHY5MW9FYlJQN0lPdlZBUWM2NFFQMkVuYWNtMWNpcUZkdGNxdUxaZTN4M0lMOFJHa0pXems2TVUzYklQOWdzS2tGV0Rkdks1ZThLdV9taGEzUWE5alVReUhxZjgxS1ZUMjJWWnFkLU54TGhPRFE?oc=5"
+          },
+          {
+            "label": "搜狐网：GPT-6 Sol被破解！30万字系统提示词已泄露 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0E1TFNkODVmWlFxajRiNnpwOXhMUmR6VkN0V21yamJBeG1MMlpxaG45NlVCaHlNRmxaTkxMak0wQkE4aVViLXRiTWFERHlOSHQwYXk0Mk1RdDR4VkJ5TUkwVFN1STlOWmdQQ3otN1hOdlp0SS1zRFE1QldfMWN4M3pmY29nZHVLS2hiRw?oc=5"
+          }
+        ],
+        "source": "PCMag",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVlSUg1ODdRS0U2N2Y0WUhyS3Q4T0hSWkszVGdpT2l1bXlHdnZXZEZDS1Y5UVZoeHZsd1lvZlM3ZmY4WGc0bU44U1Q4TjVyYXdsWTZqbHBPMnhJLU94aHBuTU1YeWFKUFpBRG9KSzVmSnBwWGhRbDVJQ3pNNnp1WFpDUGNmcWtoLTVhQzkxQWlWZGVYRUxidnVjVUdlZm8?oc=5"
+      },
+      {
         "slug": "ai-guide-20261003-auto-1-c23c1a",
         "title": "如何用好GPT-6系列AI模型？Op",
         "category": "AI使用教程",
@@ -31689,6 +31863,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261004-auto-1-20505d",
+        "title": "AI生成“漏洞报告洪流”压垮审核团队",
+        "category": "开源项目",
+        "date": "2026-10-04",
+        "summary": "AI生成“漏洞报告洪流”压垮审核团队Google暂停部分开源漏洞赏金计划- Google 谷歌 cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI生成“漏洞报告洪流”压垮审核团队 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI生成“漏洞报告洪流”压垮审核团队Google暂停部分开源漏洞赏金计划- Google 谷歌 cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI生成“漏洞报告洪流”压垮审核团队Google暂停部分开源漏洞赏金计划- Google 谷歌 cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xajEyTjZrODBFTy1TSXRFQjZ5RTFsUHV1RGpGTE5PUS1xa0lZYzhPaE5kNVhJT19jWFRVMzNNSkloUkVOM2ZXVEN5NFV0TGdGc3o3VTRRbGozUVRDSGJwZg?oc=5"
+          },
+          {
+            "label": "pasqualepillitteri.it：Free Open Source dots Arrives as OpenDots, but the Model Costs Money -",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQm51UUVwdFFCY1VUaDhYNElqdG1rNkowYTNrbFJmMXpsRkVzekZFUUZlZGRWY0lINC15MlF5QzJ5Y2M2bE83b1FvbS00U2g2YzJBazRxR3hvZnBLTW5feVBvRV91MVpHV0RITXVuZUVTSWx4QVpLeWVVX0xTcS0yTGFYSTVfOS0yQnpCX2Zyamo?oc=5"
+          },
+          {
+            "label": "NewsBytes：Moonshot AI launches open source Kimi K2.6 with agent swarms - NewsByt",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGR1Vzl0dGFrTFhqZWZ6dlhlbDJ6djhHSjBVY19CaUxvVU5hZ01qZXFmRVJldXFkZzVla21pbGFlRldZdS0tWmZBbEhmeVJHM1ZJNGFsR1VhWEQzdVowVU9YZEJWUFVXeEQtOVRQSElVLUdqa1h6ZkNoV212dHU0X2ZLd0x1cVdzVEdCMGdSb29uUmVMeVFRRlhOckk0VUd6aGltQkZLbHlOdw?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xajEyTjZrODBFTy1TSXRFQjZ5RTFsUHV1RGpGTE5PUS1xa0lZYzhPaE5kNVhJT19jWFRVMzNNSkloUkVOM2ZXVEN5NFV0TGdGc3o3VTRRbGozUVRDSGJwZg?oc=5"
+      },
+      {
+        "slug": "open-source-20261004-auto-2-a52a9f",
+        "title": "Free Open Source d",
+        "category": "开源项目",
+        "date": "2026-10-04",
+        "summary": "Free Open Source dots Arrives as OpenDots, but the",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Free Open Source d 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Free Open Source dots Arrives as OpenDots, but the",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Free Open Source dots Arrives as OpenDots, but the",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "pasqualepillitteri.it：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQm51UUVwdFFCY1VUaDhYNElqdG1rNkowYTNrbFJmMXpsRkVzekZFUUZlZGRWY0lINC15MlF5QzJ5Y2M2bE83b1FvbS00U2g2YzJBazRxR3hvZnBLTW5feVBvRV91MVpHV0RITXVuZUVTSWx4QVpLeWVVX0xTcS0yTGFYSTVfOS0yQnpCX2Zyamo?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：AI生成“漏洞报告洪流”压垮审核团队Google暂停部分开源漏洞赏金计划- Google 谷歌 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xajEyTjZrODBFTy1TSXRFQjZ5RTFsUHV1RGpGTE5PUS1xa0lZYzhPaE5kNVhJT19jWFRVMzNNSkloUkVOM2ZXVEN5NFV0TGdGc3o3VTRRbGozUVRDSGJwZg?oc=5"
+          },
+          {
+            "label": "NewsBytes：Moonshot AI launches open source Kimi K2.6 with agent swarms - NewsByt",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGR1Vzl0dGFrTFhqZWZ6dlhlbDJ6djhHSjBVY19CaUxvVU5hZ01qZXFmRVJldXFkZzVla21pbGFlRldZdS0tWmZBbEhmeVJHM1ZJNGFsR1VhWEQzdVowVU9YZEJWUFVXeEQtOVRQSElVLUdqa1h6ZkNoV212dHU0X2ZLd0x1cVdzVEdCMGdSb29uUmVMeVFRRlhOckk0VUd6aGltQkZLbHlOdw?oc=5"
+          }
+        ],
+        "source": "pasqualepillitteri.it",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQm51UUVwdFFCY1VUaDhYNElqdG1rNkowYTNrbFJmMXpsRkVzekZFUUZlZGRWY0lINC15MlF5QzJ5Y2M2bE83b1FvbS00U2g2YzJBazRxR3hvZnBLTW5feVBvRV91MVpHV0RITXVuZUVTSWx4QVpLeWVVX0xTcS0yTGFYSTVfOS0yQnpCX2Zyamo?oc=5"
+      },
       {
         "slug": "open-source-20261003-auto-1-68c48f",
         "title": "Meta says Muse Spa",
