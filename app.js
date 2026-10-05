@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261005-auto-1-a34fca",
+        "title": "马斯克将旗下人工智能业务更名为Spa",
+        "category": "AI新闻",
+        "date": "2026-10-05",
+        "summary": "马斯克将旗下人工智能业务更名为SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 V",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "马斯克将旗下人工智能业务更名为Spa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "马斯克将旗下人工智能业务更名为SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 V",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "马斯克将旗下人工智能业务更名为SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 V",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "极客公园：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teEFCSWxqc00zUTBhSVQ5cDFUb28yN0hEbEFrSzJHQkdQMTNJR0dLTGlZcGE4YU9WMmRCa1d1Ti00SC1iVWxOTEpjeUY?oc=5"
+          },
+          {
+            "label": "Moomoo：Moomoo AI的专家模式如何升级了我的日常工作流程 - Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lQUHZIYmQxSEhCbEFHdktRWDBLUkR0VmxFSER5V1hrMzc4UG51MVB1VHk1WG4xdmtaMHpfekNrb0NmaG5kd1JsdnNqaUw1ejZTR2twY19vcngwbC1VdTM0U2ZoY3lPNmcxUEJJaDVFVG5WZnFtdWwxM3YzeHV2a3dPTFRuU1E2OTB1OS1raXpOZlVRLXp6UXl6N2Z2Q1NEV0xteWhLRFYzUWhwaHJISGc1TQ?oc=5"
+          },
+          {
+            "label": "大紀元：澳儲銀警告：AI熱潮推升手機電腦價格 - 大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kbFNPRm1wVUttZkhKWm1VOE9tSE9BVC1zM1FwT2pFQ2pHVGUxOG5hVDNXRGlVUjlNVldLZldwQWoxS1NvMEl3dVZDZ2pQejlJMm9sYUJfZFFTR2pLSXlEMdIBZkFVX3lxTFBmekFkaXVCOG5jUmd0QXQwLXJNUW9CNGxLZDZPakV0QV9iQ3RZc0l1THBYV2QxSVVQOFI2X19rVFF3U1h0YjE4dWZyZmlVNDZCajRESC1kUFJiZll0RWU2RG52WmJCQQ?oc=5"
+          }
+        ],
+        "source": "极客公园",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teEFCSWxqc00zUTBhSVQ5cDFUb28yN0hEbEFrSzJHQkdQMTNJR0dLTGlZcGE4YU9WMmRCa1d1Ti00SC1iVWxOTEpjeUY?oc=5"
+      },
+      {
+        "slug": "ai-news-20261005-auto-2-c70297",
+        "title": "Moomoo AI的专家模式如何升级",
+        "category": "AI新闻",
+        "date": "2026-10-05",
+        "summary": "Moomoo AI的专家模式如何升级了我的日常工作流程 Moomoo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Moomoo AI的专家模式如何升级 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Moomoo AI的专家模式如何升级了我的日常工作流程 Moomoo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Moomoo AI的专家模式如何升级了我的日常工作流程 Moomoo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Moomoo：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lQUHZIYmQxSEhCbEFHdktRWDBLUkR0VmxFSER5V1hrMzc4UG51MVB1VHk1WG4xdmtaMHpfekNrb0NmaG5kd1JsdnNqaUw1ejZTR2twY19vcngwbC1VdTM0U2ZoY3lPNmcxUEJJaDVFVG5WZnFtdWwxM3YzeHV2a3dPTFRuU1E2OTB1OS1raXpOZlVRLXp6UXl6N2Z2Q1NEV0xteWhLRFYzUWhwaHJISGc1TQ?oc=5"
+          },
+          {
+            "label": "极客公园：马斯克将旗下人工智能业务更名为SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4teEFCSWxqc00zUTBhSVQ5cDFUb28yN0hEbEFrSzJHQkdQMTNJR0dLTGlZcGE4YU9WMmRCa1d1Ti00SC1iVWxOTEpjeUY?oc=5"
+          },
+          {
+            "label": "大紀元：澳儲銀警告：AI熱潮推升手機電腦價格 - 大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kbFNPRm1wVUttZkhKWm1VOE9tSE9BVC1zM1FwT2pFQ2pHVGUxOG5hVDNXRGlVUjlNVldLZldwQWoxS1NvMEl3dVZDZ2pQejlJMm9sYUJfZFFTR2pLSXlEMdIBZkFVX3lxTFBmekFkaXVCOG5jUmd0QXQwLXJNUW9CNGxLZDZPakV0QV9iQ3RZc0l1THBYV2QxSVVQOFI2X19rVFF3U1h0YjE4dWZyZmlVNDZCajRESC1kUFJiZll0RWU2RG52WmJCQQ?oc=5"
+          }
+        ],
+        "source": "Moomoo",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1lQUHZIYmQxSEhCbEFHdktRWDBLUkR0VmxFSER5V1hrMzc4UG51MVB1VHk1WG4xdmtaMHpfekNrb0NmaG5kd1JsdnNqaUw1ejZTR2twY19vcngwbC1VdTM0U2ZoY3lPNmcxUEJJaDVFVG5WZnFtdWwxM3YzeHV2a3dPTFRuU1E2OTB1OS1raXpOZlVRLXp6UXl6N2Z2Q1NEV0xteWhLRFYzUWhwaHJISGc1TQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261004-auto-1-1afc58",
         "title": "Artificial intelli",
         "category": "AI新闻",
@@ -21627,6 +21743,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261005-auto-1-4c99cf",
+        "title": "Coforge Unveils Ne",
+        "category": "AI使用教程",
+        "date": "2026-10-05",
+        "summary": "Coforge Unveils New Framework To Align AI Agents W",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Coforge Unveils Ne 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Coforge Unveils New Framework To Align AI Agents W",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Coforge Unveils New Framework To Align AI Agents W",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Free Press Journal：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWZfek1LdXJSZTdQYTVrb3Bub0RsYW5OZ2dOXzlPOU5YazRQZndieGJDd0xIVzFRYjFRamF0RkdOQ1hSNWlNQ0tYOWUtay1zVklVRUo4N2xIZk85cFdVa2ZFdTNfUktTQUZNd0NWc0w2cEVvQTdKRWR5NWJNX2YwVlNLbmpCTGlHakhLdGMweG5ZV1JlTzRJRWZEVW12ZWFjT19JUTQyMWJ3X0FoZnFrUWl30gG3AUFVX3lxTE43N01TbHc1aWxMalZhTHNuZWlpdF9qc3FxZmlqdEZlb1ZlR3RySDFrLVBJRWFFdm00Ukc1eXo2SDA1SWs5RlZnVzlkZ0xpN1B0QTgwUlFfLWRTTG5rMTdxQU1oQ1FURl93UHhua0ZUVUZyUUNtMUQwMmVtbFdMMFJUMFJvN2dPOHRGYjRYbFhHbkI1UHZGeHVzV1V0Y3hXTk8xZlExRERPcnR1R1IyVnY5SWFiUFI3NA?oc=5"
+          },
+          {
+            "label": "币界网：以太坊基金会与开放匿名项目上线zkapi - 币界网",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aZUhwSlpVS3c3UjRNc3Yzb3RfUzJNV2VMMVZBU2NERjRxeHlhWFpKTktRc3E2ZWhmaFdnZWZOb0hQOC1WdlhpSVBoMFNSMVE0eEQw?oc=5"
+          },
+          {
+            "label": "智源社区：数据集汇总丨22个数据集横跨基因/材料/气象/农业，OpenAI/Meta/剑桥大学/斯坦福等聚焦AI for Science - 智源社区",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SVkN5YzFiTkkzd2FSQW5zTTVVQjhCRkdNVDJ0bmgxUGM0dmxDeThYc19VcThEeXp1cTRNVkpHcm5RZHVSdkJyRA?oc=5"
+          }
+        ],
+        "source": "Free Press Journal",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWZfek1LdXJSZTdQYTVrb3Bub0RsYW5OZ2dOXzlPOU5YazRQZndieGJDd0xIVzFRYjFRamF0RkdOQ1hSNWlNQ0tYOWUtay1zVklVRUo4N2xIZk85cFdVa2ZFdTNfUktTQUZNd0NWc0w2cEVvQTdKRWR5NWJNX2YwVlNLbmpCTGlHakhLdGMweG5ZV1JlTzRJRWZEVW12ZWFjT19JUTQyMWJ3X0FoZnFrUWl30gG3AUFVX3lxTE43N01TbHc1aWxMalZhTHNuZWlpdF9qc3FxZmlqdEZlb1ZlR3RySDFrLVBJRWFFdm00Ukc1eXo2SDA1SWs5RlZnVzlkZ0xpN1B0QTgwUlFfLWRTTG5rMTdxQU1oQ1FURl93UHhua0ZUVUZyUUNtMUQwMmVtbFdMMFJUMFJvN2dPOHRGYjRYbFhHbkI1UHZGeHVzV1V0Y3hXTk8xZlExRERPcnR1R1IyVnY5SWFiUFI3NA?oc=5"
+      },
+      {
         "slug": "ai-guide-20261004-auto-1-4b1dc4",
         "title": "Score ChatGPT, Cla",
         "category": "AI使用教程",
@@ -31863,6 +32037,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261005-auto-1-787bfb",
+        "title": "Singtel Launches A",
+        "category": "开源项目",
+        "date": "2026-10-05",
+        "summary": "Singtel Launches AI Token-as-a-Service for Singapo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Singtel Launches A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Singtel Launches AI Token-as-a-Service for Singapo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Singtel Launches AI Token-as-a-Service for Singapo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Retail News Asia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjlhWUpNVC1jTWxNY2h0N0hXZEktSW90U0hKRG5iZGRFRG50Uy1uZHdxMVZ2X1owYnJFRVY2NWtkNExIZE1EQnJmbVBTclFDbDBsX3FRSG9lN29RdUd4RGdNTWV0NzBJTlR6OXV3UmtuS0pCRHpDMU1mXzRQV2dSa0R5dGRBS2hGQkFYSGdpaC1TQQ?oc=5"
+          },
+          {
+            "label": "pandaily.com：Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top Chinese Spot in Sup",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVpMTmNpcE96ME1nVTJORmFBNXFRU0UzWEl6dlhvbFBOUXl4LW55Y21uQ3g3WFFBYzVFSXNoelJPLUtCOHc0VE5aZGZIMjB4Ul9CWWQzc2FwWVRqcWNzZjEwdkhvT2hqc1BJYUtnaWFuR1ZzVkdIUjNWZmk4cnVuZTF6M2kxYXB3V2ZhNGZzM0ZvY3VlZlVQUnY3d01tMmlU?oc=5"
+          },
+          {
+            "label": "Online Tech Tips：Aleph Alpha Kolibri: What Germany’s ‘Sovereign’ Open-Weight AI Model M",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm1zYUctREJ1aVA5RWNSRXJMZEc0VHFYTGJhZnFpWjhiNHV5eHRmOVhZczgxRGhHUEN2RTJqWGhwbUJvMEsyQTdOWFJnUmxEM1FvX185N0kyTnhtdjhERWdnNlp1V2FodGNvTHNRTVI1Qm4yUDBjREgwNVlJSWlLZmRFS3RESWh5NGotUQ?oc=5"
+          }
+        ],
+        "source": "Retail News Asia",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjlhWUpNVC1jTWxNY2h0N0hXZEktSW90U0hKRG5iZGRFRG50Uy1uZHdxMVZ2X1owYnJFRVY2NWtkNExIZE1EQnJmbVBTclFDbDBsX3FRSG9lN29RdUd4RGdNTWV0NzBJTlR6OXV3UmtuS0pCRHpDMU1mXzRQV2dSa0R5dGRBS2hGQkFYSGdpaC1TQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261005-auto-2-ed8ca5",
+        "title": "Alibaba's Qwen3.8-",
+        "category": "开源项目",
+        "date": "2026-10-05",
+        "summary": "Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Alibaba's Qwen3.8- 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "pandaily.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVpMTmNpcE96ME1nVTJORmFBNXFRU0UzWEl6dlhvbFBOUXl4LW55Y21uQ3g3WFFBYzVFSXNoelJPLUtCOHc0VE5aZGZIMjB4Ul9CWWQzc2FwWVRqcWNzZjEwdkhvT2hqc1BJYUtnaWFuR1ZzVkdIUjNWZmk4cnVuZTF6M2kxYXB3V2ZhNGZzM0ZvY3VlZlVQUnY3d01tMmlU?oc=5"
+          },
+          {
+            "label": "Retail News Asia：Singtel Launches AI Token-as-a-Service for Singapore Enterprises - Ret",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjlhWUpNVC1jTWxNY2h0N0hXZEktSW90U0hKRG5iZGRFRG50Uy1uZHdxMVZ2X1owYnJFRVY2NWtkNExIZE1EQnJmbVBTclFDbDBsX3FRSG9lN29RdUd4RGdNTWV0NzBJTlR6OXV3UmtuS0pCRHpDMU1mXzRQV2dSa0R5dGRBS2hGQkFYSGdpaC1TQQ?oc=5"
+          },
+          {
+            "label": "Online Tech Tips：Aleph Alpha Kolibri: What Germany’s ‘Sovereign’ Open-Weight AI Model M",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTm1zYUctREJ1aVA5RWNSRXJMZEc0VHFYTGJhZnFpWjhiNHV5eHRmOVhZczgxRGhHUEN2RTJqWGhwbUJvMEsyQTdOWFJnUmxEM1FvX185N0kyTnhtdjhERWdnNlp1V2FodGNvTHNRTVI1Qm4yUDBjREgwNVlJSWlLZmRFS3RESWh5NGotUQ?oc=5"
+          }
+        ],
+        "source": "pandaily.com",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVpMTmNpcE96ME1nVTJORmFBNXFRU0UzWEl6dlhvbFBOUXl4LW55Y21uQ3g3WFFBYzVFSXNoelJPLUtCOHc0VE5aZGZIMjB4Ul9CWWQzc2FwWVRqcWNzZjEwdkhvT2hqc1BJYUtnaWFuR1ZzVkdIUjNWZmk4cnVuZTF6M2kxYXB3V2ZhNGZzM0ZvY3VlZlVQUnY3d01tMmlU?oc=5"
+      },
       {
         "slug": "open-source-20261004-auto-1-20505d",
         "title": "AI生成“漏洞报告洪流”压垮审核团队",
