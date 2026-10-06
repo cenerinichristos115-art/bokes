@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261006-auto-1-d22f71",
+        "title": "Epoch AI says AI p",
+        "category": "AI新闻",
+        "date": "2026-10-06",
+        "summary": "Epoch AI says AI prices fall 47% a quarter at the",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Epoch AI says AI p 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Epoch AI says AI prices fall 47% a quarter at the",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Epoch AI says AI prices fall 47% a quarter at the",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0tQQ2Z3VUdvMlFCcFlBSVpPTlNrVkdabXFlNEpEc19mREpNTWVVVGVaWmRrRkgxNTVxWWVJUHpTa3I0elc1dUI0OEpGRlZ0emxQckJtZ0dWMFJUcWc5SF9tZFhyZUtoblZybENwTTRNQzZ5QjNjZ1BTY2NQTC1hZElORWxHNzdsc1JNTEhNbw?oc=5"
+          },
+          {
+            "label": "France 24：South Korea warns of possible AI use in banking hacks - France 24",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVZ6TkVJTXltdlI4blFYSmE2b0p2bklRVndLNXUycm5OY3VYeWlndkswSmNUZjFMczB6cmR4QWMzTFJUaktSZVdSemJlVVBfY3BhdndiUVJsaGZFSUFCdHoyaW00WXZpbzZsMDF4UUljclhEQVFPeFBKWTlTYXQ0aW93dUhRejZ1MTZ2SlB0SEhaLWV1eDdtVHZFUFB3UkpYcmc?oc=5"
+          },
+          {
+            "label": "搜狐网：生成式AI如何表示物理世界？这些高中生走进港中大（深圳） - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVBndG93ejh4OTlHNDRET3M5NC0yaUdyS015dG0zMlRqR0w3aWVQVm5WQ2JXN3ctQWxQTFVOTU1VcTU0LWh4TE1KQmhhTjdYNlZTYkgwdVJWZldzYlFlVURyNDZFNG1lZTdTWngwRTNZYjRmQ2o0a3pIOVdoQjdCSHU4ZlZBTjZ6?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0tQQ2Z3VUdvMlFCcFlBSVpPTlNrVkdabXFlNEpEc19mREpNTWVVVGVaWmRrRkgxNTVxWWVJUHpTa3I0elc1dUI0OEpGRlZ0emxQckJtZ0dWMFJUcWc5SF9tZFhyZUtoblZybENwTTRNQzZ5QjNjZ1BTY2NQTC1hZElORWxHNzdsc1JNTEhNbw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261006-auto-2-34e9f4",
+        "title": "South Korea warns",
+        "category": "AI新闻",
+        "date": "2026-10-06",
+        "summary": "South Korea warns of possible AI use in banking ha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "South Korea warns 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "South Korea warns of possible AI use in banking ha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "South Korea warns of possible AI use in banking ha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "France 24：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVZ6TkVJTXltdlI4blFYSmE2b0p2bklRVndLNXUycm5OY3VYeWlndkswSmNUZjFMczB6cmR4QWMzTFJUaktSZVdSemJlVVBfY3BhdndiUVJsaGZFSUFCdHoyaW00WXZpbzZsMDF4UUljclhEQVFPeFBKWTlTYXQ0aW93dUhRejZ1MTZ2SlB0SEhaLWV1eDdtVHZFUFB3UkpYcmc?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Epoch AI says AI prices fall 47% a quarter at the same performance lev",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0tQQ2Z3VUdvMlFCcFlBSVpPTlNrVkdabXFlNEpEc19mREpNTWVVVGVaWmRrRkgxNTVxWWVJUHpTa3I0elc1dUI0OEpGRlZ0emxQckJtZ0dWMFJUcWc5SF9tZFhyZUtoblZybENwTTRNQzZ5QjNjZ1BTY2NQTC1hZElORWxHNzdsc1JNTEhNbw?oc=5"
+          },
+          {
+            "label": "搜狐网：生成式AI如何表示物理世界？这些高中生走进港中大（深圳） - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVBndG93ejh4OTlHNDRET3M5NC0yaUdyS015dG0zMlRqR0w3aWVQVm5WQ2JXN3ctQWxQTFVOTU1VcTU0LWh4TE1KQmhhTjdYNlZTYkgwdVJWZldzYlFlVURyNDZFNG1lZTdTWngwRTNZYjRmQ2o0a3pIOVdoQjdCSHU4ZlZBTjZ6?oc=5"
+          }
+        ],
+        "source": "France 24",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVZ6TkVJTXltdlI4blFYSmE2b0p2bklRVndLNXUycm5OY3VYeWlndkswSmNUZjFMczB6cmR4QWMzTFJUaktSZVdSemJlVVBfY3BhdndiUVJsaGZFSUFCdHoyaW00WXZpbzZsMDF4UUljclhEQVFPeFBKWTlTYXQ0aW93dUhRejZ1MTZ2SlB0SEhaLWV1eDdtVHZFUFB3UkpYcmc?oc=5"
+      },
+      {
         "slug": "ai-news-20261005-auto-1-a34fca",
         "title": "马斯克将旗下人工智能业务更名为Spa",
         "category": "AI新闻",
@@ -21743,6 +21859,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261006-auto-1-372e21",
+        "title": "TESDA adds more fr",
+        "category": "AI使用教程",
+        "date": "2026-10-06",
+        "summary": "TESDA adds more free courses on cloud computing, A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "TESDA adds more fr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "TESDA adds more free courses on cloud computing, A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "TESDA adds more free courses on cloud computing, A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Philstar Life：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0FvZXgzd2NnbG4yQkxkMENybVc4dzlMSlhGQTBpU2J0Q3ZVSnVGVFBBaTd4VEpLNU5MbUpWT1dOMjd1YVk0bkFDdnNFSUFsY0NHOXMwYlNoZkNJV3JpT1BMbVExeHQ1SVd6S256Wm01M0oybWxyYVRaTlN0Nm9SaGxwSmRaN2ktNzdHRVBjS2NvZ9IBmwFBVV95cUxNUUhpMEptUnZDZmo5a0tDak12Z3Fzams2bkNMbG1CMGpxYy1Ob3FFcmg0a29vRFVMeVJXRDBwWmo0TGNVeElOelZpd0h5TTNFZ19Md3NBU2psY1AzY1BCcnJlbXUyWE1xY3VBams2Z3p3WllJck1vQ1dPSGQ3VnF1c21pMWxDbkVWVEl6LW5JMFhwUHNCZDdNaEdkdw?oc=5"
+          },
+          {
+            "label": "手机新浪网：中国AI短片《合龙》海外获奖 执行导演称跨文化理解先过“质量关” - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jT0lyMjlRUUhXWlJ0Ym5MOFRQZmhsY053Z1dQY1dnaXVNX1hmLTdYTlQxNmJkVjZpSE96ZTFnNlpPYVBkUm9seHdHaVZXOVJKMGpvLVpwd3ZvOWR5aHk4dEdfcF9iTHQzLXZXR3NoSEI0Wmw0d3QtUWdlZjU?oc=5"
+          },
+          {
+            "label": "HackerNoon：Why I Don't Use AI to Remove PII Before Sending Data to AI - HackerNoo",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYWR3UXBUcHJCamxKd29FdTRZd0dSYkpULWp0bk44SEc2NlJacmVqQkFQQXJ6dC1hMEhQZHlETWNHTlJBb21NYk01Z1U1Z1RsNzVYd19NU0QwbFNfQjA3QnlpamR2YmZFb0oyOWxRbnVUNllJM1Q1OHFrcXYwajI4azVpUGFQUnc?oc=5"
+          }
+        ],
+        "source": "Philstar Life",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0FvZXgzd2NnbG4yQkxkMENybVc4dzlMSlhGQTBpU2J0Q3ZVSnVGVFBBaTd4VEpLNU5MbUpWT1dOMjd1YVk0bkFDdnNFSUFsY0NHOXMwYlNoZkNJV3JpT1BMbVExeHQ1SVd6S256Wm01M0oybWxyYVRaTlN0Nm9SaGxwSmRaN2ktNzdHRVBjS2NvZ9IBmwFBVV95cUxNUUhpMEptUnZDZmo5a0tDak12Z3Fzams2bkNMbG1CMGpxYy1Ob3FFcmg0a29vRFVMeVJXRDBwWmo0TGNVeElOelZpd0h5TTNFZ19Md3NBU2psY1AzY1BCcnJlbXUyWE1xY3VBams2Z3p3WllJck1vQ1dPSGQ3VnF1c21pMWxDbkVWVEl6LW5JMFhwUHNCZDdNaEdkdw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261005-auto-1-4c99cf",
         "title": "Coforge Unveils Ne",
         "category": "AI使用教程",
@@ -32037,6 +32211,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261006-auto-1-7ef7b6",
+        "title": "Reflection AI take",
+        "category": "开源项目",
+        "date": "2026-10-06",
+        "summary": "Reflection AI takes on Chinese models with efficie",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Reflection AI take 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Reflection AI takes on Chinese models with efficie",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Reflection AI takes on Chinese models with efficie",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Techzine Global：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYThTNTE3WFk2TnplLXE0S2JjTU92enNmRGMxUlI1cFdsbVc5U05Oa1lFbGhUMzduSV9aU0kyb1ZMSENnaXlCRGFPMW0yRjJ4S054eW9yaWwxbUN5Vk1wZFNzOXJ6ZEpZenJ5LV93NUdsd1B1UTlvUVN1emIzRzBpd1BYWXhVY1lrRFpBMGpvR0h0aVlWbkpWczVPNDdpdGRnNHEtWk9Ccl9uc2s?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：MCP Adapter lands on WordPress, the official plugin for AI agents - Pa",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2hpVGdLN254TjJ4T3FZWENnQ0ppS3NKU21fWHZ1d29GVjZ1eXBOdDZ3ZGNjaWx1ZWxmYW16R1JKSlBjbzNRd2ZVRlhFUFFBcFEzWldfN3VYODNoNFEyWm44VGFIT1JfWk5ack1SdnNWREFJZTZFaTl3bU93cDZ5V3FFYlJFQXV4?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Princeton unveils Queen, a 4B chess model rated 2697 Elo - Pasquale Pi",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnRMVUM2RWliS0hLSk5tRUNkMDA2QlctT091RGRIRnYxSll4TmhneEJ3QUJpejNpTW50Y21KbWhaNVk5LUQ3WHdpVE9tX3RkZDNGY2EtRERRdHkxMmpza2c1MHBobUJ6NlJfU1BkZ3JPN3o3X2tFUC1ReUY1WHljUzNOYkFCMjNWR3V3?oc=5"
+          }
+        ],
+        "source": "Techzine Global",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYThTNTE3WFk2TnplLXE0S2JjTU92enNmRGMxUlI1cFdsbVc5U05Oa1lFbGhUMzduSV9aU0kyb1ZMSENnaXlCRGFPMW0yRjJ4S054eW9yaWwxbUN5Vk1wZFNzOXJ6ZEpZenJ5LV93NUdsd1B1UTlvUVN1emIzRzBpd1BYWXhVY1lrRFpBMGpvR0h0aVlWbkpWczVPNDdpdGRnNHEtWk9Ccl9uc2s?oc=5"
+      },
+      {
+        "slug": "open-source-20261006-auto-2-f13dc0",
+        "title": "MCP Adapter lands",
+        "category": "开源项目",
+        "date": "2026-10-06",
+        "summary": "MCP Adapter lands on WordPress, the official plugi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MCP Adapter lands 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "MCP Adapter lands on WordPress, the official plugi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MCP Adapter lands on WordPress, the official plugi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2hpVGdLN254TjJ4T3FZWENnQ0ppS3NKU21fWHZ1d29GVjZ1eXBOdDZ3ZGNjaWx1ZWxmYW16R1JKSlBjbzNRd2ZVRlhFUFFBcFEzWldfN3VYODNoNFEyWm44VGFIT1JfWk5ack1SdnNWREFJZTZFaTl3bU93cDZ5V3FFYlJFQXV4?oc=5"
+          },
+          {
+            "label": "Techzine Global：Reflection AI takes on Chinese models with efficient Beam - Techzine G",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYThTNTE3WFk2TnplLXE0S2JjTU92enNmRGMxUlI1cFdsbVc5U05Oa1lFbGhUMzduSV9aU0kyb1ZMSENnaXlCRGFPMW0yRjJ4S054eW9yaWwxbUN5Vk1wZFNzOXJ6ZEpZenJ5LV93NUdsd1B1UTlvUVN1emIzRzBpd1BYWXhVY1lrRFpBMGpvR0h0aVlWbkpWczVPNDdpdGRnNHEtWk9Ccl9uc2s?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Princeton unveils Queen, a 4B chess model rated 2697 Elo - Pasquale Pi",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnRMVUM2RWliS0hLSk5tRUNkMDA2QlctT091RGRIRnYxSll4TmhneEJ3QUJpejNpTW50Y21KbWhaNVk5LUQ3WHdpVE9tX3RkZDNGY2EtRERRdHkxMmpza2c1MHBobUJ6NlJfU1BkZ3JPN3o3X2tFUC1ReUY1WHljUzNOYkFCMjNWR3V3?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2hpVGdLN254TjJ4T3FZWENnQ0ppS3NKU21fWHZ1d29GVjZ1eXBOdDZ3ZGNjaWx1ZWxmYW16R1JKSlBjbzNRd2ZVRlhFUFFBcFEzWldfN3VYODNoNFEyWm44VGFIT1JfWk5ack1SdnNWREFJZTZFaTl3bU93cDZ5V3FFYlJFQXV4?oc=5"
+      },
       {
         "slug": "open-source-20261005-auto-1-787bfb",
         "title": "Singtel Launches A",
