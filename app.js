@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261007-auto-1-c2cdee",
+        "title": "Nvidia hits record",
+        "category": "AI新闻",
+        "date": "2026-10-07",
+        "summary": "Nvidia hits record $5.65 trillion as SpaceX seeks",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Nvidia hits record 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Nvidia hits record $5.65 trillion as SpaceX seeks",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Nvidia hits record $5.65 trillion as SpaceX seeks",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CTech：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iYTdrVlVfS0h5b3Q3dVVaSXNjWmd6TmxtVDZqS2tZbWUwNEV0TDNjMzJtMF9XcnM0bURRallPNFlzaExCMXhLcURXU0kyLU9hZzZNQWd0dU5ZTnJsU0E1YmxnWm4ybEk?oc=5"
+          },
+          {
+            "label": "EIN News：Anthropic AI Safety Claims Contradicted by ClawSecure Tests - EIN News",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEduYk1MRTlqTGZQR3NDYzdfSXZRLXNUYi1UNUxTZVBZaUpvLS1ERldtUW1FQ1JqSGk5emhhYko2dFYtY2NBTTR6R09fRVlLRFo2NndaaV9XWG1RQUpvWEl3UDB6MXVWeVlrYWdBUlNyVnVrQ1lHQlo0MWZLQldTeDJCR3hKczdNRHo2emdUVnFldkNjSGZ2N0NjQzhHaU53RjhB?oc=5"
+          },
+          {
+            "label": "The National Law Review：Information Workers Launches Enterprise AI Governance Practice Across ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFpDb2IwN25mMjh1cXlOOFk5VUZfMmpyYm90N09PemFrX1dUY25XYjlSWE1xdkFGSWpselJZdG1tVnBZeHRGY3drbFBTNmQza0N3ajlYOTRIVW8zcUlsRFZnMkNjUmFVLXZxUUNCVzdjbFFyWWZQVF9JRW1ZdmVwMGsxMkdQTFpZeThXTERqWG53ejctRUpSamVOeml2Mk1mSjB0VXJJNndwY1pUbldkN3R3?oc=5"
+          }
+        ],
+        "source": "CTech",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iYTdrVlVfS0h5b3Q3dVVaSXNjWmd6TmxtVDZqS2tZbWUwNEV0TDNjMzJtMF9XcnM0bURRallPNFlzaExCMXhLcURXU0kyLU9hZzZNQWd0dU5ZTnJsU0E1YmxnWm4ybEk?oc=5"
+      },
+      {
+        "slug": "ai-news-20261007-auto-2-4da9a0",
+        "title": "Anthropic AI Safet",
+        "category": "AI新闻",
+        "date": "2026-10-07",
+        "summary": "Anthropic AI Safety Claims Contradicted by ClawSec",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic AI Safet 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic AI Safety Claims Contradicted by ClawSec",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic AI Safety Claims Contradicted by ClawSec",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "EIN News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEduYk1MRTlqTGZQR3NDYzdfSXZRLXNUYi1UNUxTZVBZaUpvLS1ERldtUW1FQ1JqSGk5emhhYko2dFYtY2NBTTR6R09fRVlLRFo2NndaaV9XWG1RQUpvWEl3UDB6MXVWeVlrYWdBUlNyVnVrQ1lHQlo0MWZLQldTeDJCR3hKczdNRHo2emdUVnFldkNjSGZ2N0NjQzhHaU53RjhB?oc=5"
+          },
+          {
+            "label": "CTech：Nvidia hits record $5.65 trillion as SpaceX seeks $40 billion to buy i",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iYTdrVlVfS0h5b3Q3dVVaSXNjWmd6TmxtVDZqS2tZbWUwNEV0TDNjMzJtMF9XcnM0bURRallPNFlzaExCMXhLcURXU0kyLU9hZzZNQWd0dU5ZTnJsU0E1YmxnWm4ybEk?oc=5"
+          },
+          {
+            "label": "The National Law Review：Information Workers Launches Enterprise AI Governance Practice Across ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFpDb2IwN25mMjh1cXlOOFk5VUZfMmpyYm90N09PemFrX1dUY25XYjlSWE1xdkFGSWpselJZdG1tVnBZeHRGY3drbFBTNmQza0N3ajlYOTRIVW8zcUlsRFZnMkNjUmFVLXZxUUNCVzdjbFFyWWZQVF9JRW1ZdmVwMGsxMkdQTFpZeThXTERqWG53ejctRUpSamVOeml2Mk1mSjB0VXJJNndwY1pUbldkN3R3?oc=5"
+          }
+        ],
+        "source": "EIN News",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcEduYk1MRTlqTGZQR3NDYzdfSXZRLXNUYi1UNUxTZVBZaUpvLS1ERldtUW1FQ1JqSGk5emhhYko2dFYtY2NBTTR6R09fRVlLRFo2NndaaV9XWG1RQUpvWEl3UDB6MXVWeVlrYWdBUlNyVnVrQ1lHQlo0MWZLQldTeDJCR3hKczdNRHo2emdUVnFldkNjSGZ2N0NjQzhHaU53RjhB?oc=5"
+      },
+      {
         "slug": "ai-news-20261006-auto-1-d22f71",
         "title": "Epoch AI says AI p",
         "category": "AI新闻",
@@ -21859,6 +21975,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261007-auto-1-9243e7",
+        "title": "别被网红玩法忽悠！AI一键搞定证件照",
+        "category": "AI使用教程",
+        "date": "2026-10-07",
+        "summary": "别被网红玩法忽悠！AI一键搞定证件照，远没有想象那么简单 finance.sina.com.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "别被网红玩法忽悠！AI一键搞定证件照 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "别被网红玩法忽悠！AI一键搞定证件照，远没有想象那么简单 finance.sina.com.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "别被网红玩法忽悠！AI一键搞定证件照，远没有想象那么简单 finance.sina.com.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkppc1dna0dXVUstNl95Z0ZxWlhXRXlFaWN4WHlPeUEwQU85Nm9CaVZkT2NxMld2TGVUaEx3OWRaTld6cWo3cUoxcU9DVjlzRElfYVFkaGZWQW5RbWQxSU45VlRlNzNZVDM4ZXJvcWxUdFZHNzRrNHlpOWhrRHBwOERHTG9YOHBrN05JU19XYTdka05VUm92V1RjV0RmcWo1N3Utc29oTQ?oc=5"
+          },
+          {
+            "label": "Snowflake：Prompt Engineering: How to Design, Test and Optimize Prompts for Produ",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlg2M3pVaDlxNnZpY2pXbkMzU0l3d3VwQ3V2WDRIdkp1dXM2OFM3VURQYndGOTJ4Nk5GYXVTSFNwUV92N3NjdUZMNlBaa3lhM0llTlQySTdkUnQ1YzhCRG9nWG5jeHlBLXkwZEtRc0VhWFJiMWJqV25GVV9RS3FsMEdLb2pCZw?oc=5"
+          },
+          {
+            "label": "Snowflake：How to Build an AI Agent: 8 Steps to Production - Snowflake",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CR29HSTBmLTNycm5XNl9KSmxaNEtnQVlzbjVYMDU5dWFlZms1TXJCam5mUHVDMkZXN0Zib2xXUTZOelZLLXdUaDRJSEV0NldWem95R2JueXdKZ2N2QVJoaXBiRjlVMFV5Nm54Tk9rcHFyUkVW?oc=5"
+          }
+        ],
+        "source": "finance.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkppc1dna0dXVUstNl95Z0ZxWlhXRXlFaWN4WHlPeUEwQU85Nm9CaVZkT2NxMld2TGVUaEx3OWRaTld6cWo3cUoxcU9DVjlzRElfYVFkaGZWQW5RbWQxSU45VlRlNzNZVDM4ZXJvcWxUdFZHNzRrNHlpOWhrRHBwOERHTG9YOHBrN05JU19XYTdka05VUm92V1RjV0RmcWo1N3Utc29oTQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261006-auto-1-372e21",
         "title": "TESDA adds more fr",
         "category": "AI使用教程",
@@ -32211,6 +32385,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261007-auto-1-6bebcf",
+        "title": "Meta AI Open-Sourc",
+        "category": "开源项目",
+        "date": "2026-10-07",
+        "summary": "Meta AI Open-Sources Rebalancer: A C++ Assignment",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta AI Open-Sourc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta AI Open-Sources Rebalancer: A C++ Assignment",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta AI Open-Sources Rebalancer: A C++ Assignment",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYlhlWS15Yy1QM1JnQWtNNUJuU25OeEd3V0Y4N2JTcGtlbzFlQVdrcjVGWlRybHpuZHJHMVR0UFlZY0xNbm1mdUpxZTRHWnJmR1RjRlpmV3VKdFN0c2xUWjJsRk5NYjR5MzdINk54b2VmRjRpTG1GUEJHTkpFQjQyaEdidG44RlRud1FBMFZ5aG5lV0RFX3gyeWdPMVVDOHFoVy04MEdIcVlXU194ZENSQ1EyMWZtNXFWc3NwZ3ZTQVNlWDcyTFhvM3dzQXpCMjBhV1hZbmlST2w4WWVUTGFj0gHfAUFVX3lxTE5iWGVZLXljLVAzUmdBa001Qm5Tbk54R3dXRjg3YlNwa2VvMWVBV2tyNUZaVHJsem5kckcxVHRQWVljTE1ubWZ1SnFlNEdacmZHVGNGWmZXdUp0U3RzbFRaMmxGTk1iNHkzN0g2TnhvZWZGNGlMbUZQQkdOSkVCNDJoR2J0bjhGVG53UUEwVnlobmVXREVfeDJ5Z08xVUM4cWhXLTgwR0hxWVdTX3hkQ1JDUTIxZm01cVZzc3BndlNBU2VYNzJMWG8zd3NBekIyMGFXWFluaVJPbDhZZVRMYWM?oc=5"
+          },
+          {
+            "label": "디지털투데이：German sovereign AI model Kolibri unveiled with 78.1 billion parameter",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVN0b0FkN0FDa0NvRl9DdUhLUlZUa3BVZWRac0VxbWl1UDQ1TjlTRnBJRGNEbHItWEZFUXZvcW1BaVNmVlR4ZHkxOUFXSHJ0czhHQWZyVjBLS1lJQU5hU1BkUHk5bS0tdlRTOTF4OVJsNk5Yc2JFVi1MempNN1ExTEJabnRfQUlXSm9fcmFSWTRUM0tIcnFNNmE1T0F2V2s?oc=5"
+          },
+          {
+            "label": "https://www.ababnews.com/：Google DeepMind Launches EmbeddingGemma 2, Its First Open, Native Mult",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90cThfRlNKYWVRSk1hUzdKMU9qclBzakFIMXp3NG9pXzhZYV9HQ04wZlowbng2N19PZUVvSlktbU4yU3ZtbFVVNnRsWUVvdG5GUW1IeWF0YmdObV9pWkRhTjl1ZWhJZFFCbWwxVWVJTjFjTU9V?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYlhlWS15Yy1QM1JnQWtNNUJuU25OeEd3V0Y4N2JTcGtlbzFlQVdrcjVGWlRybHpuZHJHMVR0UFlZY0xNbm1mdUpxZTRHWnJmR1RjRlpmV3VKdFN0c2xUWjJsRk5NYjR5MzdINk54b2VmRjRpTG1GUEJHTkpFQjQyaEdidG44RlRud1FBMFZ5aG5lV0RFX3gyeWdPMVVDOHFoVy04MEdIcVlXU194ZENSQ1EyMWZtNXFWc3NwZ3ZTQVNlWDcyTFhvM3dzQXpCMjBhV1hZbmlST2w4WWVUTGFj0gHfAUFVX3lxTE5iWGVZLXljLVAzUmdBa001Qm5Tbk54R3dXRjg3YlNwa2VvMWVBV2tyNUZaVHJsem5kckcxVHRQWVljTE1ubWZ1SnFlNEdacmZHVGNGWmZXdUp0U3RzbFRaMmxGTk1iNHkzN0g2TnhvZWZGNGlMbUZQQkdOSkVCNDJoR2J0bjhGVG53UUEwVnlobmVXREVfeDJ5Z08xVUM4cWhXLTgwR0hxWVdTX3hkQ1JDUTIxZm01cVZzc3BndlNBU2VYNzJMWG8zd3NBekIyMGFXWFluaVJPbDhZZVRMYWM?oc=5"
+      },
+      {
+        "slug": "open-source-20261007-auto-2-4d47df",
+        "title": "German sovereign A",
+        "category": "开源项目",
+        "date": "2026-10-07",
+        "summary": "German sovereign AI model Kolibri unveiled with 78",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "German sovereign A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "German sovereign AI model Kolibri unveiled with 78",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "German sovereign AI model Kolibri unveiled with 78",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVN0b0FkN0FDa0NvRl9DdUhLUlZUa3BVZWRac0VxbWl1UDQ1TjlTRnBJRGNEbHItWEZFUXZvcW1BaVNmVlR4ZHkxOUFXSHJ0czhHQWZyVjBLS1lJQU5hU1BkUHk5bS0tdlRTOTF4OVJsNk5Yc2JFVi1MempNN1ExTEJabnRfQUlXSm9fcmFSWTRUM0tIcnFNNmE1T0F2V2s?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs Abo",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYlhlWS15Yy1QM1JnQWtNNUJuU25OeEd3V0Y4N2JTcGtlbzFlQVdrcjVGWlRybHpuZHJHMVR0UFlZY0xNbm1mdUpxZTRHWnJmR1RjRlpmV3VKdFN0c2xUWjJsRk5NYjR5MzdINk54b2VmRjRpTG1GUEJHTkpFQjQyaEdidG44RlRud1FBMFZ5aG5lV0RFX3gyeWdPMVVDOHFoVy04MEdIcVlXU194ZENSQ1EyMWZtNXFWc3NwZ3ZTQVNlWDcyTFhvM3dzQXpCMjBhV1hZbmlST2w4WWVUTGFj0gHfAUFVX3lxTE5iWGVZLXljLVAzUmdBa001Qm5Tbk54R3dXRjg3YlNwa2VvMWVBV2tyNUZaVHJsem5kckcxVHRQWVljTE1ubWZ1SnFlNEdacmZHVGNGWmZXdUp0U3RzbFRaMmxGTk1iNHkzN0g2TnhvZWZGNGlMbUZQQkdOSkVCNDJoR2J0bjhGVG53UUEwVnlobmVXREVfeDJ5Z08xVUM4cWhXLTgwR0hxWVdTX3hkQ1JDUTIxZm01cVZzc3BndlNBU2VYNzJMWG8zd3NBekIyMGFXWFluaVJPbDhZZVRMYWM?oc=5"
+          },
+          {
+            "label": "https://www.ababnews.com/：Google DeepMind Launches EmbeddingGemma 2, Its First Open, Native Mult",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90cThfRlNKYWVRSk1hUzdKMU9qclBzakFIMXp3NG9pXzhZYV9HQ04wZlowbng2N19PZUVvSlktbU4yU3ZtbFVVNnRsWUVvdG5GUW1IeWF0YmdObV9pWkRhTjl1ZWhJZFFCbWwxVWVJTjFjTU9V?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRVN0b0FkN0FDa0NvRl9DdUhLUlZUa3BVZWRac0VxbWl1UDQ1TjlTRnBJRGNEbHItWEZFUXZvcW1BaVNmVlR4ZHkxOUFXSHJ0czhHQWZyVjBLS1lJQU5hU1BkUHk5bS0tdlRTOTF4OVJsNk5Yc2JFVi1MempNN1ExTEJabnRfQUlXSm9fcmFSWTRUM0tIcnFNNmE1T0F2V2s?oc=5"
+      },
       {
         "slug": "open-source-20261006-auto-1-7ef7b6",
         "title": "Reflection AI take",
