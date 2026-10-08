@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261008-auto-1-0b6413",
+        "title": "AI与AI对抗：补丁竞赛进入分秒必争",
+        "category": "AI新闻",
+        "date": "2026-10-08",
+        "summary": "AI与AI对抗：补丁竞赛进入分秒必争时代 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI与AI对抗：补丁竞赛进入分秒必争 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI与AI对抗：补丁竞赛进入分秒必争时代 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI与AI对抗：补丁竞赛进入分秒必争时代 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MR3hTNUlsTlVnQ29jaDNYZjFkbjlvYm5kdEQ5ZmVKUFlFZFpLOGdQRWd4Rmx1bWRfS2pqclQyMnpaR1BYTlVVY1ZGVEdfYkxISFc3WThwMzBuSkZvb3hiV3h6Y1BLc1JkMmxVeXM0bEE?oc=5"
+          },
+          {
+            "label": "PR Newswire：Arden University and Google Cloud Form Strategic Partnership to Ensure",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPODZhVmpfSl8zbDFmRTRtWE0yM0toNHJZcWZRYzFzXy1abk5pT1BtaUg4Q0pvQ1RQSEs5b1BXQ1ZnV1JVNGZRaXVmWUo5cTM4Z0tqY3R0aXBBX1JKZXZNcDJKc241SEJfd0dsRmY1TjVnVmJHdVpJYktBb3hwS2lja3VFTVRzZXdNWlhvekVLYk9WQ3hWZ2JYMWVTVnR4SlFiWTNyRHFuUy1JMXR2a1BycERtVUNHUy05cmJFNm15SXBTRkRQRm4zRm94ODVrcmhVVmFteDJTbV96OTRtbUw5Vy10dUwzbGVmUHlVUlptMlYxVzJ4MEtPODJWcDVlcXRh?oc=5"
+          },
+          {
+            "label": "盖世汽车：Seeds | 前英伟达科学家物理 AI创业， 蚂蚁连投两轮 - 盖世汽车",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1weU1sazVER001UUdSck1jbG5mTFRrMFdiX1NDUmt3Z3lsU3R6SU0wdVBaZWJpV25vNmQtcWpfQ1pWSEpyZUt4VkVYcEk4WDBD?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MR3hTNUlsTlVnQ29jaDNYZjFkbjlvYm5kdEQ5ZmVKUFlFZFpLOGdQRWd4Rmx1bWRfS2pqclQyMnpaR1BYTlVVY1ZGVEdfYkxISFc3WThwMzBuSkZvb3hiV3h6Y1BLc1JkMmxVeXM0bEE?oc=5"
+      },
+      {
+        "slug": "ai-news-20261008-auto-2-fed412",
+        "title": "Arden University a",
+        "category": "AI新闻",
+        "date": "2026-10-08",
+        "summary": "Arden University and Google Cloud Form Strategic P",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Arden University a 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Arden University and Google Cloud Form Strategic P",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Arden University and Google Cloud Form Strategic P",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "PR Newswire：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPODZhVmpfSl8zbDFmRTRtWE0yM0toNHJZcWZRYzFzXy1abk5pT1BtaUg4Q0pvQ1RQSEs5b1BXQ1ZnV1JVNGZRaXVmWUo5cTM4Z0tqY3R0aXBBX1JKZXZNcDJKc241SEJfd0dsRmY1TjVnVmJHdVpJYktBb3hwS2lja3VFTVRzZXdNWlhvekVLYk9WQ3hWZ2JYMWVTVnR4SlFiWTNyRHFuUy1JMXR2a1BycERtVUNHUy05cmJFNm15SXBTRkRQRm4zRm94ODVrcmhVVmFteDJTbV96OTRtbUw5Vy10dUwzbGVmUHlVUlptMlYxVzJ4MEtPODJWcDVlcXRh?oc=5"
+          },
+          {
+            "label": "至顶网：AI与AI对抗：补丁竞赛进入分秒必争时代 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MR3hTNUlsTlVnQ29jaDNYZjFkbjlvYm5kdEQ5ZmVKUFlFZFpLOGdQRWd4Rmx1bWRfS2pqclQyMnpaR1BYTlVVY1ZGVEdfYkxISFc3WThwMzBuSkZvb3hiV3h6Y1BLc1JkMmxVeXM0bEE?oc=5"
+          },
+          {
+            "label": "盖世汽车：Seeds | 前英伟达科学家物理 AI创业， 蚂蚁连投两轮 - 盖世汽车",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1weU1sazVER001UUdSck1jbG5mTFRrMFdiX1NDUmt3Z3lsU3R6SU0wdVBaZWJpV25vNmQtcWpfQ1pWSEpyZUt4VkVYcEk4WDBD?oc=5"
+          }
+        ],
+        "source": "PR Newswire",
+        "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPODZhVmpfSl8zbDFmRTRtWE0yM0toNHJZcWZRYzFzXy1abk5pT1BtaUg4Q0pvQ1RQSEs5b1BXQ1ZnV1JVNGZRaXVmWUo5cTM4Z0tqY3R0aXBBX1JKZXZNcDJKc241SEJfd0dsRmY1TjVnVmJHdVpJYktBb3hwS2lja3VFTVRzZXdNWlhvekVLYk9WQ3hWZ2JYMWVTVnR4SlFiWTNyRHFuUy1JMXR2a1BycERtVUNHUy05cmJFNm15SXBTRkRQRm4zRm94ODVrcmhVVmFteDJTbV96OTRtbUw5Vy10dUwzbGVmUHlVUlptMlYxVzJ4MEtPODJWcDVlcXRh?oc=5"
+      },
+      {
         "slug": "ai-news-20261007-auto-1-c2cdee",
         "title": "Nvidia hits record",
         "category": "AI新闻",
@@ -21975,6 +22091,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261008-auto-1-2db268",
+        "title": "GOCOP empowers mem",
+        "category": "AI使用教程",
+        "date": "2026-10-08",
+        "summary": "GOCOP empowers members to use AI tools to boost ef",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GOCOP empowers mem 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GOCOP empowers members to use AI tools to boost ef",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GOCOP empowers members to use AI tools to boost ef",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Realnews Magazine：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEJYaDZIQ1ZaT1dBRmFlSVludHdVcHhycS1PeFBTZ1NkT0tIR2V6SS1UcGpodXFiNTgtQTRrQ3NKX3kwMHRUR1JmeVdXNjlLak92QkpoZlhfYlIyTElLZGlUalp3cXB1azFrM1YxR2E3aHRieEFRQVIyLXF3bzNtZHBaY1dQQnYtenlWOXZVUURveFBBU09ER0JhNjkxZEhUV004RA?oc=5"
+          },
+          {
+            "label": "Cryptopolitan：Google和Unity的提示词生成游戏工具跑在针对工作室制定的规则前面 - Cryptopolitan",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGlpYkZIdklldmc3b0xYNmJpb2hfcEhRLTl0cGZOX0JYaXNEYklPSjFrZ3p5SU5HTlVWUWhHbTdDUUNXWDdSM3hYNE4zUlhnSVl3c0Q2RF9fUm5QRmJEUEVCMElTRXg1bU95X1o0VGlzUnZkV0ZEMWFHUjBCSEZVTHRESjlydlVlbkNrcXIydDNYZUNkajJWR2c5OF9yMTRjUjdqVnJsYUIyN2Fm?oc=5"
+          },
+          {
+            "label": "The Star：MCMC opens its 1,099th Nadi - The Star",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalU5bXI3dWZMN2VoUFZiWl9mU01VdlpzRHd4b3FmNUZlcVJxUS1NczJTZ2xHbnNCLVBBejJvckplaWVULTllbzVvd2Q4OHFUOHQ3STZmdVdKVkZQS3ctdS1YdVNNdWNyVXZza2tVTWlnNTNRU0FTdjd4ZHJTT05uazB3?oc=5"
+          }
+        ],
+        "source": "Realnews Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNEJYaDZIQ1ZaT1dBRmFlSVludHdVcHhycS1PeFBTZ1NkT0tIR2V6SS1UcGpodXFiNTgtQTRrQ3NKX3kwMHRUR1JmeVdXNjlLak92QkpoZlhfYlIyTElLZGlUalp3cXB1azFrM1YxR2E3aHRieEFRQVIyLXF3bzNtZHBaY1dQQnYtenlWOXZVUURveFBBU09ER0JhNjkxZEhUV004RA?oc=5"
+      },
+      {
         "slug": "ai-guide-20261007-auto-1-9243e7",
         "title": "别被网红玩法忽悠！AI一键搞定证件照",
         "category": "AI使用教程",
@@ -32385,6 +32559,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261008-auto-1-87849b",
+        "title": "Perplexity AI Rele",
+        "category": "开源项目",
+        "date": "2026-10-08",
+        "summary": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Perplexity AI Rele 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Perplexity AI Releases pplx-embed-v2-late: A 0.6B",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTJEM2RHbkhZYjFxSmNmSVF6eTlfaHhZR29nMmFKTkkxTUxjUHgxSHdzVHdJMW0yZmh5ZWhPRDJWSDJ0cjdaT3h4R0NKMUs0TEpaaU9jTUlrUmxNR01kMFpOMVNqd2N6SkJ3OU5YeUV1YndFaUM2TG8yWE13QUJ4Ymd5T3lpLVR5NFl5U2pQNUFhZGNKdUJvLXROTGItUkJFZzFwZDhYbmR1X1EwR01VQkNDMjdtd2pIZ2dEamJmc0w0OHZUbHdteHVXU2Vtb2Z6bkhPS19abElXNEHSAdsBQVVfeXFMTUEyRDNkR25IWWIxcUpjZklRenk5X2h4WUdvZzJhSk5JMU1MY1B4MUh3c1R3STFtMmZoeWVoT0QyVkgydHI3Wk94eEdDSjFLNExKWmlPY01Ja1JsTUdNZDBaTjFTandjekpCdzlOWHlFdWJ3RWlDNkxvMlhNd0FCeGJneU95aS1UeTRZeVNqUDVBYWRjSnVCby10TkxiLVJCRWcxcGQ4WG5kdV9RMEdNVUJDQzI3bXdqSGdnRGpiZnNMNDh2VGx3bXh1V1NlbW9mem5IT0tfWmxJVzRB?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：AI辅助开发催生三款开源Adobe风格创意软件：Rust编写仍处早期阶段- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tSkk3TXZ5NjVUblZ1YnN4TTFTdFBqY0s4TjFPMFhpelFfUkNTR3ZQVk40dFVwN3ZNaXNqNFJvcjJvTlJ4TWpxRncwTDNKMEFWR0ZMZ1N3aTh4UlNqdlBOOQ?oc=5"
+          },
+          {
+            "label": "36Kr：Overseas Open-Source AI Models Speed Up Development: Mistral & \"US Ver",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5telRYSHNhWE5EaTN4ZVRpZGExQ3Y3eTlKalV2eDRFNXBqN3VQT1lOc3BnTUVLSFlaMXRKSGQ0bUdfMkotNmVTdDQ2VjhTRFl1cUVn?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTJEM2RHbkhZYjFxSmNmSVF6eTlfaHhZR29nMmFKTkkxTUxjUHgxSHdzVHdJMW0yZmh5ZWhPRDJWSDJ0cjdaT3h4R0NKMUs0TEpaaU9jTUlrUmxNR01kMFpOMVNqd2N6SkJ3OU5YeUV1YndFaUM2TG8yWE13QUJ4Ymd5T3lpLVR5NFl5U2pQNUFhZGNKdUJvLXROTGItUkJFZzFwZDhYbmR1X1EwR01VQkNDMjdtd2pIZ2dEamJmc0w0OHZUbHdteHVXU2Vtb2Z6bkhPS19abElXNEHSAdsBQVVfeXFMTUEyRDNkR25IWWIxcUpjZklRenk5X2h4WUdvZzJhSk5JMU1MY1B4MUh3c1R3STFtMmZoeWVoT0QyVkgydHI3Wk94eEdDSjFLNExKWmlPY01Ja1JsTUdNZDBaTjFTandjekpCdzlOWHlFdWJ3RWlDNkxvMlhNd0FCeGJneU95aS1UeTRZeVNqUDVBYWRjSnVCby10TkxiLVJCRWcxcGQ4WG5kdV9RMEdNVUJDQzI3bXdqSGdnRGpiZnNMNDh2VGx3bXh1V1NlbW9mem5IT0tfWmxJVzRB?oc=5"
+      },
+      {
+        "slug": "open-source-20261008-auto-2-7b4453",
+        "title": "AI辅助开发催生三款开源Adobe风",
+        "category": "开源项目",
+        "date": "2026-10-08",
+        "summary": "AI辅助开发催生三款开源Adobe风格创意软件：Rust编写仍处早期阶段- AI 人工智能 cnBe",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI辅助开发催生三款开源Adobe风 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI辅助开发催生三款开源Adobe风格创意软件：Rust编写仍处早期阶段- AI 人工智能 cnBe",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI辅助开发催生三款开源Adobe风格创意软件：Rust编写仍处早期阶段- AI 人工智能 cnBe",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tSkk3TXZ5NjVUblZ1YnN4TTFTdFBqY0s4TjFPMFhpelFfUkNTR3ZQVk40dFVwN3ZNaXNqNFJvcjJvTlJ4TWpxRncwTDNKMEFWR0ZMZ1N3aTh4UlNqdlBOOQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B ",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQTJEM2RHbkhZYjFxSmNmSVF6eTlfaHhZR29nMmFKTkkxTUxjUHgxSHdzVHdJMW0yZmh5ZWhPRDJWSDJ0cjdaT3h4R0NKMUs0TEpaaU9jTUlrUmxNR01kMFpOMVNqd2N6SkJ3OU5YeUV1YndFaUM2TG8yWE13QUJ4Ymd5T3lpLVR5NFl5U2pQNUFhZGNKdUJvLXROTGItUkJFZzFwZDhYbmR1X1EwR01VQkNDMjdtd2pIZ2dEamJmc0w0OHZUbHdteHVXU2Vtb2Z6bkhPS19abElXNEHSAdsBQVVfeXFMTUEyRDNkR25IWWIxcUpjZklRenk5X2h4WUdvZzJhSk5JMU1MY1B4MUh3c1R3STFtMmZoeWVoT0QyVkgydHI3Wk94eEdDSjFLNExKWmlPY01Ja1JsTUdNZDBaTjFTandjekpCdzlOWHlFdWJ3RWlDNkxvMlhNd0FCeGJneU95aS1UeTRZeVNqUDVBYWRjSnVCby10TkxiLVJCRWcxcGQ4WG5kdV9RMEdNVUJDQzI3bXdqSGdnRGpiZnNMNDh2VGx3bXh1V1NlbW9mem5IT0tfWmxJVzRB?oc=5"
+          },
+          {
+            "label": "36Kr：Overseas Open-Source AI Models Speed Up Development: Mistral & \"US Ver",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5telRYSHNhWE5EaTN4ZVRpZGExQ3Y3eTlKalV2eDRFNXBqN3VQT1lOc3BnTUVLSFlaMXRKSGQ0bUdfMkotNmVTdDQ2VjhTRFl1cUVn?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tSkk3TXZ5NjVUblZ1YnN4TTFTdFBqY0s4TjFPMFhpelFfUkNTR3ZQVk40dFVwN3ZNaXNqNFJvcjJvTlJ4TWpxRncwTDNKMEFWR0ZMZ1N3aTh4UlNqdlBOOQ?oc=5"
+      },
       {
         "slug": "open-source-20261007-auto-1-6bebcf",
         "title": "Meta AI Open-Sourc",
