@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261009-auto-1-ddd240",
+        "title": "天机控股10月9日与澳大利亚OZBe",
+        "category": "AI新闻",
+        "date": "2026-10-09",
+        "summary": "天机控股10月9日与澳大利亚OZBeat AI签署战略合作意向书 观点网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "天机控股10月9日与澳大利亚OZBe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "天机控股10月9日与澳大利亚OZBeat AI签署战略合作意向书 观点网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "天机控股10月9日与澳大利亚OZBeat AI签署战略合作意向书 观点网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "观点网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DUlJZSU1Bc1JoMzA4T1Z0MzdUUldMM21xQnNfYVNURnMxZ0d6SmkzOWRkcXdGNGJ2MkRoM19mNEl0R0pla2dmb2NVc1llaHVObnAwcE0wbDB5ZDcxQXZEU1N3?oc=5"
+          },
+          {
+            "label": "观点网：康惠股份成立西安康惠智创科技有限公司 经营范围含人工智能业务 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuNGd3MEVQZXVsSDJtWnFEM3JqdUMwYXZKN0wtM04tWFhaRXBIc3FBZ0dYU3dBR2hhVlhaRC1fSWpIQjNrcHFpTm9IaFZXdDRldUtBczBVX2l1OGNTNUpUdzZn?oc=5"
+          },
+          {
+            "label": "조선일보：Controversy Over OpenAI's AI Math Solution Verification, Three Drafts ",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmJvRnF2eWZpRmhfcTd6ZW9ZbUx4WGRueUdhQjlGOEVsTl9lZHk0SVI4TkZ0a3BSZTFsSkg2cjI2WXlzNWJMbXhuTU9pWl85YUh0WVA1QUlWMzRCdFhkdFV2VEhmSGl6MDdsSGdKLVI1RV9oMWJxcTVaSXVmN1dnQzNUWnhiRWRJ?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DUlJZSU1Bc1JoMzA4T1Z0MzdUUldMM21xQnNfYVNURnMxZ0d6SmkzOWRkcXdGNGJ2MkRoM19mNEl0R0pla2dmb2NVc1llaHVObnAwcE0wbDB5ZDcxQXZEU1N3?oc=5"
+      },
+      {
+        "slug": "ai-news-20261009-auto-2-c02f3d",
+        "title": "康惠股份成立西安康惠智创科技有限公司",
+        "category": "AI新闻",
+        "date": "2026-10-09",
+        "summary": "康惠股份成立西安康惠智创科技有限公司 经营范围含人工智能业务 观点网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "康惠股份成立西安康惠智创科技有限公司 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "康惠股份成立西安康惠智创科技有限公司 经营范围含人工智能业务 观点网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "康惠股份成立西安康惠智创科技有限公司 经营范围含人工智能业务 观点网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "观点网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuNGd3MEVQZXVsSDJtWnFEM3JqdUMwYXZKN0wtM04tWFhaRXBIc3FBZ0dYU3dBR2hhVlhaRC1fSWpIQjNrcHFpTm9IaFZXdDRldUtBczBVX2l1OGNTNUpUdzZn?oc=5"
+          },
+          {
+            "label": "观点网：天机控股10月9日与澳大利亚OZBeat AI签署战略合作意向书 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DUlJZSU1Bc1JoMzA4T1Z0MzdUUldMM21xQnNfYVNURnMxZ0d6SmkzOWRkcXdGNGJ2MkRoM19mNEl0R0pla2dmb2NVc1llaHVObnAwcE0wbDB5ZDcxQXZEU1N3?oc=5"
+          },
+          {
+            "label": "조선일보：Controversy Over OpenAI's AI Math Solution Verification, Three Drafts ",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdmJvRnF2eWZpRmhfcTd6ZW9ZbUx4WGRueUdhQjlGOEVsTl9lZHk0SVI4TkZ0a3BSZTFsSkg2cjI2WXlzNWJMbXhuTU9pWl85YUh0WVA1QUlWMzRCdFhkdFV2VEhmSGl6MDdsSGdKLVI1RV9oMWJxcTVaSXVmN1dnQzNUWnhiRWRJ?oc=5"
+          }
+        ],
+        "source": "观点网",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuNGd3MEVQZXVsSDJtWnFEM3JqdUMwYXZKN0wtM04tWFhaRXBIc3FBZ0dYU3dBR2hhVlhaRC1fSWpIQjNrcHFpTm9IaFZXdDRldUtBczBVX2l1OGNTNUpUdzZn?oc=5"
+      },
+      {
         "slug": "ai-news-20261008-auto-1-0b6413",
         "title": "AI与AI对抗：补丁竞赛进入分秒必争",
         "category": "AI新闻",
@@ -22091,6 +22207,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261009-auto-1-a3b69f",
+        "title": "Grok Bot 从 0 到 1 保",
+        "category": "AI使用教程",
+        "date": "2026-10-09",
+        "summary": "Grok Bot 从 0 到 1 保姆教程：装好、建 Bot、拉群干活，一篇讲完 53AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Grok Bot 从 0 到 1 保 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Grok Bot 从 0 到 1 保姆教程：装好、建 Bot、拉群干活，一篇讲完 53AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Grok Bot 从 0 到 1 保姆教程：装好、建 Bot、拉群干活，一篇讲完 53AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "53AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVjBnMXN4OVNZUUxGdWlzMkVlSXRrU3ZFdUl3bVhXVmtHUHN4R0xaelJoSnNqWmh4MnYzRzB2ZHQtTWxOTm9lc0ctcm9sbGlRcVd4bDZhc09jZ1RBWUxNOWxta0dMck5ZdlJDRE9KaHI?oc=5"
+          },
+          {
+            "label": "OpenAI：Pollo AI 借助 OpenAI 将创意转化为广告 - OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mRTR6UFhNdm5FVDNaMER0czVNRTIxOEQ4YkZxU2t4bGhzUHlETVU5RmpGdl9hbFF1SkdkX09CSndsT0ZlV25ZR1EyaVQ3VEt2VFZqU1pUd2Q?oc=5"
+          },
+          {
+            "label": "新浪网：AI写代码省的时间，全赔在调试上？Claude官方：让AI自己测、自己改 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yb2QwMnhxZWZhOW1PV1JoSC0ySWkwLTdfSjYwTk5UYkZadHI3V0plZHdBQ0VnQ1JRUVhWUVpONVhlZmNRb0ZPZlAteV9GalBjZUZhdDk0anpqRGhMX2dvNmg4TUVtWVJRbllkd21WTDZjNWhfQW1wSjhoR21GOGc?oc=5"
+          }
+        ],
+        "source": "53AI",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVjBnMXN4OVNZUUxGdWlzMkVlSXRrU3ZFdUl3bVhXVmtHUHN4R0xaelJoSnNqWmh4MnYzRzB2ZHQtTWxOTm9lc0ctcm9sbGlRcVd4bDZhc09jZ1RBWUxNOWxta0dMck5ZdlJDRE9KaHI?oc=5"
+      },
+      {
         "slug": "ai-guide-20261008-auto-1-2db268",
         "title": "GOCOP empowers mem",
         "category": "AI使用教程",
@@ -32559,6 +32733,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261009-auto-1-80b0da",
+        "title": "Google’s New Embed",
+        "category": "开源项目",
+        "date": "2026-10-09",
+        "summary": "Google’s New Embedding Model Searches Your Photos",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google’s New Embed 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google’s New Embedding Model Searches Your Photos",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google’s New Embedding Model Searches Your Photos",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "H2S Media：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUNpUmUwOXpTZF9uWENyWUtJNHNnTG41cWJvMkRDRXRhWTk5bllkNGtfU193THVYVDFXeWtrT2Y2QXFRWEw5aGQzQk1Ya3p4M0VLV1ZsRDF5SlJ3TW9DR1gtaHVlODlwVEdQMXNVYV9BQXVyT0c3TmhUNzdXVW9zekFXbkFGY1hPeW5FOQ?oc=5"
+          },
+          {
+            "label": "Ideal Investisseur：LightOn launches LightOnOCR-3, a documentary AI that tops three benchm",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjI0ME1HTC1vQTlzcXhqTDJsWTUwQWhSR0tSY1JhdV9DZ1lGeFA5X3FWSWd3Zi1QbEt3ck9VTDM2RE5CWGg3N3c0eEx0ZnRGU2lobE0tYk9DM1RDN2dmZmdHN09URngwMThBNURrTHJfN2tiVVVlckQ5WHZJUERjQVVlSFN4akw2Y2QtRG1fcHBJMExWMUJ3YmdlclFpWTBLVnoxYWJNc3hfSWNlcEQtV2VmUUhiR09OTHNqRkRKc3lnMmtJUGtlSmdoaHc?oc=5"
+          },
+          {
+            "label": "新浪网：Anthropic推出OSS Scanner：用AI为开源软件免费扫漏洞 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DSUF0V2ZUX0o5MXZYT1BSNzBiUHRLeU92RE5yVkRWM0VkWFhRb2pJRzQ3RWp2ZUhrYU1sRk00WjA2SjZlbm05OXlFQ3dEUXRPVV9LaUdWbnMtdGh5N0EteHQ5QzNkNVJYLUhEMzBlVzJUT2xMMFV0bVNQY3BLQQ?oc=5"
+          }
+        ],
+        "source": "H2S Media",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUNpUmUwOXpTZF9uWENyWUtJNHNnTG41cWJvMkRDRXRhWTk5bllkNGtfU193THVYVDFXeWtrT2Y2QXFRWEw5aGQzQk1Ya3p4M0VLV1ZsRDF5SlJ3TW9DR1gtaHVlODlwVEdQMXNVYV9BQXVyT0c3TmhUNzdXVW9zekFXbkFGY1hPeW5FOQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261009-auto-2-d84f8d",
+        "title": "LightOn launches L",
+        "category": "开源项目",
+        "date": "2026-10-09",
+        "summary": "LightOn launches LightOnOCR-3, a documentary AI th",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "LightOn launches L 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "LightOn launches LightOnOCR-3, a documentary AI th",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "LightOn launches LightOnOCR-3, a documentary AI th",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Ideal Investisseur：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjI0ME1HTC1vQTlzcXhqTDJsWTUwQWhSR0tSY1JhdV9DZ1lGeFA5X3FWSWd3Zi1QbEt3ck9VTDM2RE5CWGg3N3c0eEx0ZnRGU2lobE0tYk9DM1RDN2dmZmdHN09URngwMThBNURrTHJfN2tiVVVlckQ5WHZJUERjQVVlSFN4akw2Y2QtRG1fcHBJMExWMUJ3YmdlclFpWTBLVnoxYWJNc3hfSWNlcEQtV2VmUUhiR09OTHNqRkRKc3lnMmtJUGtlSmdoaHc?oc=5"
+          },
+          {
+            "label": "H2S Media：Google’s New Embedding Model Searches Your Photos and Audio Without th",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUNpUmUwOXpTZF9uWENyWUtJNHNnTG41cWJvMkRDRXRhWTk5bllkNGtfU193THVYVDFXeWtrT2Y2QXFRWEw5aGQzQk1Ya3p4M0VLV1ZsRDF5SlJ3TW9DR1gtaHVlODlwVEdQMXNVYV9BQXVyT0c3TmhUNzdXVW9zekFXbkFGY1hPeW5FOQ?oc=5"
+          },
+          {
+            "label": "新浪网：Anthropic推出OSS Scanner：用AI为开源软件免费扫漏洞 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DSUF0V2ZUX0o5MXZYT1BSNzBiUHRLeU92RE5yVkRWM0VkWFhRb2pJRzQ3RWp2ZUhrYU1sRk00WjA2SjZlbm05OXlFQ3dEUXRPVV9LaUdWbnMtdGh5N0EteHQ5QzNkNVJYLUhEMzBlVzJUT2xMMFV0bVNQY3BLQQ?oc=5"
+          }
+        ],
+        "source": "Ideal Investisseur",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjI0ME1HTC1vQTlzcXhqTDJsWTUwQWhSR0tSY1JhdV9DZ1lGeFA5X3FWSWd3Zi1QbEt3ck9VTDM2RE5CWGg3N3c0eEx0ZnRGU2lobE0tYk9DM1RDN2dmZmdHN09URngwMThBNURrTHJfN2tiVVVlckQ5WHZJUERjQVVlSFN4akw2Y2QtRG1fcHBJMExWMUJ3YmdlclFpWTBLVnoxYWJNc3hfSWNlcEQtV2VmUUhiR09OTHNqRkRKc3lnMmtJUGtlSmdoaHc?oc=5"
+      },
       {
         "slug": "open-source-20261008-auto-1-87849b",
         "title": "Perplexity AI Rele",
