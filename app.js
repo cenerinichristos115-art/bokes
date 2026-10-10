@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261010-auto-1-c8ed29",
+        "title": "奇智孔明大模型｜山东人工智能垂域大模",
+        "category": "AI新闻",
+        "date": "2026-10-10",
+        "summary": "奇智孔明大模型｜山东人工智能垂域大模型之奇伟磅礴|具身智能机器人|山东省|智能制造|制造业|工业 新",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "奇智孔明大模型｜山东人工智能垂域大模 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "奇智孔明大模型｜山东人工智能垂域大模型之奇伟磅礴|具身智能机器人|山东省|智能制造|制造业|工业 新",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "奇智孔明大模型｜山东人工智能垂域大模型之奇伟磅礴|具身智能机器人|山东省|智能制造|制造业|工业 新",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3U5UFlURU5hbWNfTDNpR3ZpZU50NHU1VWdDZVppMjNES1FrR0RMRk9UalUzbl9XTkpaMVd3TUttR1FCa19lWWNjMWFZZl9uTUJlR1NOX0NsckZlcUUwUTExQTY3Z2lTQWJDamktSXdjVUpSZzBWd1p4em9qa1NzTGY1ZnVlcmFvN2ZBUmxsTlZFcy04cEZPUkVVMXJvQmotOXRPVE55UGJKSzhsNzNVSllR?oc=5"
+          },
+          {
+            "label": "The News International：Anthropic’s AI goes rogue, sends police a fake homicide tip - The News",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm1LUktEbDl2MHNlWHRMNk5NUFJyd19SYkpPbThXajByU1lrU1BMNnIyVXpoTF9zb0lDMk80aG9KMjFleFRTbVgxNVZFM0dfTFVlTEJsNmhIMXV3VXQwQzg1VDA5SjlRQVhzWDI2R2xMbUdjZTE5cy1oMXJCSE1CQWpxcFdOU09JblNPQURienp1ajdnTENGUmhXbmF3MmVi0gGcAUFVX3lxTE9WY1NSa2VyS21pN3BJZTNfSFRZcHotT2VkUTVKTVRWYm5MREhXYi1BYzA5QWlEYlB2V01hVklNbldvSTF3TTNpUzc4bjhkSTFWUV9ITXBnZDg1QnFKcEM4TV9wcGFZYTk0dzRXNmd1NHFfV3NydzNmTzlBQWJJREd6S05vSVVrRDJnR1BjTTBrdTZlclZndWRLSmFSMw?oc=5"
+          },
+          {
+            "label": "新浪网：武汉商场一楼，正在被AI眼镜和机器人“占领” - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LdTg0bU9pQXZhdmtoOHdnQ0dSVzNMMnhOOERMUGNxeWU3a2lMWTdla0NiOW91TlpjU19JQzRldE1YbFdtUGNKVVlXMkNJbXRyZHkweHZBVnZPUzg1cEZmSXFzVEtPcXZCS0NYLXdQSmsxbFZnNGt5TjczYjN5QQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3U5UFlURU5hbWNfTDNpR3ZpZU50NHU1VWdDZVppMjNES1FrR0RMRk9UalUzbl9XTkpaMVd3TUttR1FCa19lWWNjMWFZZl9uTUJlR1NOX0NsckZlcUUwUTExQTY3Z2lTQWJDamktSXdjVUpSZzBWd1p4em9qa1NzTGY1ZnVlcmFvN2ZBUmxsTlZFcy04cEZPUkVVMXJvQmotOXRPVE55UGJKSzhsNzNVSllR?oc=5"
+      },
+      {
+        "slug": "ai-news-20261010-auto-2-4e1d23",
+        "title": "Anthropic’s AI goe",
+        "category": "AI新闻",
+        "date": "2026-10-10",
+        "summary": "Anthropic’s AI goes rogue, sends police a fake hom",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic’s AI goe 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Anthropic’s AI goes rogue, sends police a fake hom",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic’s AI goes rogue, sends police a fake hom",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The News International：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm1LUktEbDl2MHNlWHRMNk5NUFJyd19SYkpPbThXajByU1lrU1BMNnIyVXpoTF9zb0lDMk80aG9KMjFleFRTbVgxNVZFM0dfTFVlTEJsNmhIMXV3VXQwQzg1VDA5SjlRQVhzWDI2R2xMbUdjZTE5cy1oMXJCSE1CQWpxcFdOU09JblNPQURienp1ajdnTENGUmhXbmF3MmVi0gGcAUFVX3lxTE9WY1NSa2VyS21pN3BJZTNfSFRZcHotT2VkUTVKTVRWYm5MREhXYi1BYzA5QWlEYlB2V01hVklNbldvSTF3TTNpUzc4bjhkSTFWUV9ITXBnZDg1QnFKcEM4TV9wcGFZYTk0dzRXNmd1NHFfV3NydzNmTzlBQWJJREd6S05vSVVrRDJnR1BjTTBrdTZlclZndWRLSmFSMw?oc=5"
+          },
+          {
+            "label": "新浪财经：奇智孔明大模型｜山东人工智能垂域大模型之奇伟磅礴|具身智能机器人|山东省|智能制造|制造业|工业 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3U5UFlURU5hbWNfTDNpR3ZpZU50NHU1VWdDZVppMjNES1FrR0RMRk9UalUzbl9XTkpaMVd3TUttR1FCa19lWWNjMWFZZl9uTUJlR1NOX0NsckZlcUUwUTExQTY3Z2lTQWJDamktSXdjVUpSZzBWd1p4em9qa1NzTGY1ZnVlcmFvN2ZBUmxsTlZFcy04cEZPUkVVMXJvQmotOXRPVE55UGJKSzhsNzNVSllR?oc=5"
+          },
+          {
+            "label": "新浪网：武汉商场一楼，正在被AI眼镜和机器人“占领” - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LdTg0bU9pQXZhdmtoOHdnQ0dSVzNMMnhOOERMUGNxeWU3a2lMWTdla0NiOW91TlpjU19JQzRldE1YbFdtUGNKVVlXMkNJbXRyZHkweHZBVnZPUzg1cEZmSXFzVEtPcXZCS0NYLXdQSmsxbFZnNGt5TjczYjN5QQ?oc=5"
+          }
+        ],
+        "source": "The News International",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm1LUktEbDl2MHNlWHRMNk5NUFJyd19SYkpPbThXajByU1lrU1BMNnIyVXpoTF9zb0lDMk80aG9KMjFleFRTbVgxNVZFM0dfTFVlTEJsNmhIMXV3VXQwQzg1VDA5SjlRQVhzWDI2R2xMbUdjZTE5cy1oMXJCSE1CQWpxcFdOU09JblNPQURienp1ajdnTENGUmhXbmF3MmVi0gGcAUFVX3lxTE9WY1NSa2VyS21pN3BJZTNfSFRZcHotT2VkUTVKTVRWYm5MREhXYi1BYzA5QWlEYlB2V01hVklNbldvSTF3TTNpUzc4bjhkSTFWUV9ITXBnZDg1QnFKcEM4TV9wcGFZYTk0dzRXNmd1NHFfV3NydzNmTzlBQWJJREd6S05vSVVrRDJnR1BjTTBrdTZlclZndWRLSmFSMw?oc=5"
+      },
+      {
         "slug": "ai-news-20261009-auto-1-ddd240",
         "title": "天机控股10月9日与澳大利亚OZBe",
         "category": "AI新闻",
@@ -22207,6 +22323,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261010-auto-1-1b3fbc",
+        "title": "“需要我再微调部分语句吗？”纸质书中",
+        "category": "AI使用教程",
+        "date": "2026-10-10",
+        "summary": "“需要我再微调部分语句吗？”纸质书中出现AI提示词，出版社回应 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“需要我再微调部分语句吗？”纸质书中 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“需要我再微调部分语句吗？”纸质书中出现AI提示词，出版社回应 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“需要我再微调部分语句吗？”纸质书中出现AI提示词，出版社回应 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmxDSFRRTlEyeExrR2Q3MWd5YzBiTzNzRWFxdnpUN3dtZlhORXdRbGtRdkNhUWx2SGdTVjJNaENjU2g4clRMNjNsN1ZzNkFzWE5LSVMwTGFRLUZ4QzRGZUlzWmhKckU1ZEZDclBwSFRYSDBCb3FLQlBHdjZPdGhPd0tjMWV6dDBf?oc=5"
+          },
+          {
+            "label": "凤凰网：实体书出现疑似AI提示词“需要我再微调部分语句吗”等，作者称被改编出版后才出现 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDclQzckZ1WWoxY2ZoU3FoVHZUWTk3Tl91MGV1RGlKSm9FU21keXpwQjlqMHhDbUc1WDFIZU9fUFNYTm5uYTdsdjVUaTY?oc=5"
+          },
+          {
+            "label": "观点网：《终焉路独行》实体书出现AI提示词 出版社称库存不足已下架 - 观点网",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIRGJsQ1BwTDhVQ25PVmZBN19tcUtuQlE1cUUtS3ZvMXpuQzJBUnJwNUIyOHpURjByZUxOS1VYLVJtSG45eXBrVklBdnc0dGNZaEVRdk9yRU42UnYwRmhfUWpn?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmxDSFRRTlEyeExrR2Q3MWd5YzBiTzNzRWFxdnpUN3dtZlhORXdRbGtRdkNhUWx2SGdTVjJNaENjU2g4clRMNjNsN1ZzNkFzWE5LSVMwTGFRLUZ4QzRGZUlzWmhKckU1ZEZDclBwSFRYSDBCb3FLQlBHdjZPdGhPd0tjMWV6dDBf?oc=5"
+      },
+      {
         "slug": "ai-guide-20261009-auto-1-a3b69f",
         "title": "Grok Bot 从 0 到 1 保",
         "category": "AI使用教程",
@@ -32733,6 +32907,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261010-auto-1-81ecdb",
+        "title": "PhotoCraft is an o",
+        "category": "开源项目",
+        "date": "2026-10-10",
+        "summary": "PhotoCraft is an open-source, AI-built clone of Ph",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "PhotoCraft is an o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "PhotoCraft is an open-source, AI-built clone of Ph",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "PhotoCraft is an open-source, AI-built clone of Ph",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OMG! Ubuntu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+          },
+          {
+            "label": "AI: Reset to Zero：AI: OpenAI’s Revenue Math, Nvidia the Kingmaker, AI Czar 2.0 & More. A",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWG1jM1VWY2ZjN2dUX1FlNEVfcGpzOU44Y3lfNWRybkZUbE8xaGtHdDJsbmxyaXA5WWxNZWQwM2ZMbUV5Sjl1V09mZ3lfWldlUFhSYUpsM2dlbURuX09pbHZDQVRqQXN2TDVuZnMxdlhMVGtiTll1dnhSTQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXo4eWU4TjY3bE1KVnMtVmd2SktyUmJ6NUFrdE1JeXpaZWJWNzJoOTlub2UwS2hOQWVzRThxdllEbkk3SDdBQmZSRlVOYlRfMEMxNWd6dWk3YWhjR3JFZ2NvcTdoZnBiS3hHbTNhYnY0NXhocFQ1TmYyV2ZZME9jeGVMQ0dzd2ZoNXd0eW5TM29oMy1FaElCcXFCaUIxTlB1enk1RGpsVlNDUFhWQ19EMDdIRzE1NkN2YV9NVkJsRFlHR2_SAcMBQVVfeXFMUC16OHllOE42N2xNSlZzLVZndkpLclJiejVBa3RNSXl6WmViVjcyaDk5bm9lMEtoTkFlc0U4cXZZRG5JN0g3QUJmUkZVTmJUXzBDMTVnenVpN2FoY0dyRWdjb3E3aGZwYkt4R20zYWJ2NDV4aHBUNU5mMldmWTBPY3hlTENHc3dmaDV3dHluUzNvaDMtRWhJQnFxQmlCMU5QdXp5NURqbFZTQ1BYVkNfRDA3SEcxNTZDdmFfTVZCbERZR0dv?oc=5"
+          }
+        ],
+        "source": "OMG! Ubuntu",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261010-auto-2-e7f920",
+        "title": "AI: OpenAI’s Reven",
+        "category": "开源项目",
+        "date": "2026-10-10",
+        "summary": "AI: OpenAI’s Revenue Math, Nvidia the Kingmaker, A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI: OpenAI’s Reven 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI: OpenAI’s Revenue Math, Nvidia the Kingmaker, A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI: OpenAI’s Revenue Math, Nvidia the Kingmaker, A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AI: Reset to Zero：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWG1jM1VWY2ZjN2dUX1FlNEVfcGpzOU44Y3lfNWRybkZUbE8xaGtHdDJsbmxyaXA5WWxNZWQwM2ZMbUV5Sjl1V09mZ3lfWldlUFhSYUpsM2dlbURuX09pbHZDQVRqQXN2TDVuZnMxdlhMVGtiTll1dnhSTQ?oc=5"
+          },
+          {
+            "label": "OMG! Ubuntu：PhotoCraft is an open-source, AI-built clone of Photoshop - OMG! Ubunt",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXo4eWU4TjY3bE1KVnMtVmd2SktyUmJ6NUFrdE1JeXpaZWJWNzJoOTlub2UwS2hOQWVzRThxdllEbkk3SDdBQmZSRlVOYlRfMEMxNWd6dWk3YWhjR3JFZ2NvcTdoZnBiS3hHbTNhYnY0NXhocFQ1TmYyV2ZZME9jeGVMQ0dzd2ZoNXd0eW5TM29oMy1FaElCcXFCaUIxTlB1enk1RGpsVlNDUFhWQ19EMDdIRzE1NkN2YV9NVkJsRFlHR2_SAcMBQVVfeXFMUC16OHllOE42N2xNSlZzLVZndkpLclJiejVBa3RNSXl6WmViVjcyaDk5bm9lMEtoTkFlc0U4cXZZRG5JN0g3QUJmUkZVTmJUXzBDMTVnenVpN2FoY0dyRWdjb3E3aGZwYkt4R20zYWJ2NDV4aHBUNU5mMldmWTBPY3hlTENHc3dmaDV3dHluUzNvaDMtRWhJQnFxQmlCMU5QdXp5NURqbFZTQ1BYVkNfRDA3SEcxNTZDdmFfTVZCbERZR0dv?oc=5"
+          }
+        ],
+        "source": "AI: Reset to Zero",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnWG1jM1VWY2ZjN2dUX1FlNEVfcGpzOU44Y3lfNWRybkZUbE8xaGtHdDJsbmxyaXA5WWxNZWQwM2ZMbUV5Sjl1V09mZ3lfWldlUFhSYUpsM2dlbURuX09pbHZDQVRqQXN2TDVuZnMxdlhMVGtiTll1dnhSTQ?oc=5"
+      },
       {
         "slug": "open-source-20261009-auto-1-80b0da",
         "title": "Google’s New Embed",
