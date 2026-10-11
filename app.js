@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261011-auto-1-9fe51b",
+        "title": "AI brings new risk",
+        "category": "AI新闻",
+        "date": "2026-10-11",
+        "summary": "AI brings new risks for kids Northwest Arkansas De",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI brings new risk 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI brings new risks for kids Northwest Arkansas De",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI brings new risks for kids Northwest Arkansas De",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Northwest Arkansas Democrat-Gazette：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KM2lfZFRPN1ZQMnNMRURadzZSTWJmWWtCcDU5TmtpQ0NHNWlvQ0NqaFNsb1B1dk9OUkRzQVlsSTBmY2JsN2tZNEFSMUk2eXhKOU03WWdkekE5VkdwazA1c3lQeGM1X0dNUHo5bTJoem9uODFkZ0Z6NUM2VEo?oc=5"
+          },
+          {
+            "label": "新浪网：71岁爷叔用AI拍短剧入围国际影展，上海开大AI课程让普通市民圆梦 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PTVQ3czk5REhOY0hPaXVWVjU5UXdHWjg0YjU0R0ctaE04djluempCbWdQY3VSQnB1UXc3OG9uMDRiRDExZm9od04zRFRCUUFzMUVuYy11X2J6WGVSdy1CTnFVOW5TNFFWV2hCYU1oZVRPdVdSNmh2QzVPT05XUQ?oc=5"
+          },
+          {
+            "label": "搜狐：2026年度广东“AI智能体”数字人才培训计划全面开启，不懂代码也可学，面向20岁以上年龄开放，符合条件可报 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTVtdWd5NmF0Q2RYZ2hkcEVscUMxbnZabjlpR0dmRFFxZUVKX0Fsd1pSUVpzT01XX0J5TjZzZTFtRUlpMnhiMHhvdE0xNjNGNk9rY05STG5XWjlWamNjVWh4T3o4dFZheDNsUG9SQWUwWGp5M25RYU5YRkxjZTVQYlVrbW1HYXpvVEsyRQ?oc=5"
+          }
+        ],
+        "source": "Northwest Arkansas Democrat-Gazette",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KM2lfZFRPN1ZQMnNMRURadzZSTWJmWWtCcDU5TmtpQ0NHNWlvQ0NqaFNsb1B1dk9OUkRzQVlsSTBmY2JsN2tZNEFSMUk2eXhKOU03WWdkekE5VkdwazA1c3lQeGM1X0dNUHo5bTJoem9uODFkZ0Z6NUM2VEo?oc=5"
+      },
+      {
+        "slug": "ai-news-20261011-auto-2-e77a70",
+        "title": "71岁爷叔用AI拍短剧入围国际影展，",
+        "category": "AI新闻",
+        "date": "2026-10-11",
+        "summary": "71岁爷叔用AI拍短剧入围国际影展，上海开大AI课程让普通市民圆梦 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "71岁爷叔用AI拍短剧入围国际影展， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "71岁爷叔用AI拍短剧入围国际影展，上海开大AI课程让普通市民圆梦 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "71岁爷叔用AI拍短剧入围国际影展，上海开大AI课程让普通市民圆梦 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PTVQ3czk5REhOY0hPaXVWVjU5UXdHWjg0YjU0R0ctaE04djluempCbWdQY3VSQnB1UXc3OG9uMDRiRDExZm9od04zRFRCUUFzMUVuYy11X2J6WGVSdy1CTnFVOW5TNFFWV2hCYU1oZVRPdVdSNmh2QzVPT05XUQ?oc=5"
+          },
+          {
+            "label": "Northwest Arkansas Democrat-Gazette：AI brings new risks for kids - Northwest Arkansas Democrat-Gazette",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KM2lfZFRPN1ZQMnNMRURadzZSTWJmWWtCcDU5TmtpQ0NHNWlvQ0NqaFNsb1B1dk9OUkRzQVlsSTBmY2JsN2tZNEFSMUk2eXhKOU03WWdkekE5VkdwazA1c3lQeGM1X0dNUHo5bTJoem9uODFkZ0Z6NUM2VEo?oc=5"
+          },
+          {
+            "label": "搜狐：2026年度广东“AI智能体”数字人才培训计划全面开启，不懂代码也可学，面向20岁以上年龄开放，符合条件可报 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTVtdWd5NmF0Q2RYZ2hkcEVscUMxbnZabjlpR0dmRFFxZUVKX0Fsd1pSUVpzT01XX0J5TjZzZTFtRUlpMnhiMHhvdE0xNjNGNk9rY05STG5XWjlWamNjVWh4T3o4dFZheDNsUG9SQWUwWGp5M25RYU5YRkxjZTVQYlVrbW1HYXpvVEsyRQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PTVQ3czk5REhOY0hPaXVWVjU5UXdHWjg0YjU0R0ctaE04djluempCbWdQY3VSQnB1UXc3OG9uMDRiRDExZm9od04zRFRCUUFzMUVuYy11X2J6WGVSdy1CTnFVOW5TNFFWV2hCYU1oZVRPdVdSNmh2QzVPT05XUQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261010-auto-1-c8ed29",
         "title": "奇智孔明大模型｜山东人工智能垂域大模",
         "category": "AI新闻",
@@ -22323,6 +22439,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261011-auto-1-1731d9",
+        "title": "纸质书出现AI提示词，策划团队致歉",
+        "category": "AI使用教程",
+        "date": "2026-10-11",
+        "summary": "纸质书出现AI提示词，策划团队致歉 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "纸质书出现AI提示词，策划团队致歉 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "纸质书出现AI提示词，策划团队致歉 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "纸质书出现AI提示词，策划团队致歉 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrYzJvcllWZVhkSDNERV85VVByMjlmUFdKb0d0eVVNNTdyLTNmSGQzRGpNVDZqQmJ3ZmpJMGtXNktXeGROM096ZnFVdmVDS3E3eXZleHVOY3Y5QVBhSF9JWkc3T3JSWDNoZE0wS0lMZUxYWFBDc0E?oc=5"
+          },
+          {
+            "label": "搜狐：小说疑现AI微调提示词续：原稿无此内容，系策划团队失误 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmY0M0xVblRiNFRtX2U1ZFc3QTlRS1A5LVJkQ2R0LVFHemdxNGdNczBKckNrQzVoSGpPdFBYbTNpVFdsS2ZNTjdrSFBKQ0lSdDJZQk5IamFrU0VuVk4zcGVxcjZJaGJraWtldGN6alVGdjA3Sm9TMGJWN3lScXBsQlI1R2tnZ1ViT3N6NDdrdTgtNFpFNjFtVXBUSklRUQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：最悲惨的老哥，今年十一假期花15 块，买了本网文小说在家看，看到一半的时候，突然看到微调内容文案的AI 提示词。现在实体书，被出版社紧急全网",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qUVJTVXo3RWVVMGJVRHBtV215UER3YzFwZzBTZGJOTUt3bWN0T1FiVUVYLTFNZERpSy1EcXZveXlGTVB1UGhjd3RyOEplS1FfU0loNnN6d2hoY3hDSk1rOTNLaw?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrYzJvcllWZVhkSDNERV85VVByMjlmUFdKb0d0eVVNNTdyLTNmSGQzRGpNVDZqQmJ3ZmpJMGtXNktXeGROM096ZnFVdmVDS3E3eXZleHVOY3Y5QVBhSF9JWkc3T3JSWDNoZE0wS0lMZUxYWFBDc0E?oc=5"
+      },
+      {
         "slug": "ai-guide-20261010-auto-1-1b3fbc",
         "title": "“需要我再微调部分语句吗？”纸质书中",
         "category": "AI使用教程",
@@ -32907,6 +33081,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261011-auto-1-cb744c",
+        "title": "PhotoCraft is an o",
+        "category": "开源项目",
+        "date": "2026-10-11",
+        "summary": "PhotoCraft is an open-source, AI-built clone of Ph",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "PhotoCraft is an o 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "PhotoCraft is an open-source, AI-built clone of Ph",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "PhotoCraft is an open-source, AI-built clone of Ph",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OMG! Ubuntu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+          },
+          {
+            "label": "www.80aj.com：AI Agent全自动维护开源软件：Magpie提issue几小时即修复引热议 - www.80aj.com",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DM09NN1VFX2NLRVJjQmdFeXVvWnhfaF9SektJRVlTVFpyMFZFTE9SSmZaOVVKQ3lJWW4xNnNZM2J1anczTTdZSXJ1czh0TWdWTXpmcVpXa0RjazlGNTJXNVVEWC0?oc=5"
+          },
+          {
+            "label": "The Times of India：Microsoft CEO Satya Nadella says don’t blindly trust AI; warns: Treat ",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa25HdHNlNTFXLV9jNzV1YVBOb0NiOWtrVHdZUzVxYjRaSXhqN1kwRjNfdk5UMFc2WEhSN1ZLZGFmSUZYT2pFOHQyRTdIeUh1VVhRVm9yZ3lqQi1VUHJKNU81R3h2NWJwNXdyaDRCdzBHTUQyRUZBdUpmSklLRVBsMVpOazctVGF0WGpseG45VDhmWlJweHNqclZZTnEwTFl2dEZVX0lqSG1pUXBIbC1fWTRWMUhoWE0tU0VQbHhHT1NqSnBPcG5ObXVpRlc4OUZHUEZmY19CNzdVNTVGd3Z6UHBhNEtTdHJlNS1mNTJ1VTlRVWZ3MF9ncDJMX3lrMlZlNnRfV0xocFBteTVR0gGSAkFVX3lxTE11dFpxZjZETVhrYlJNUjVrMjZhLWhLdlhuYjNlTDk5RGs4QS10YWtnOUFjVFJOWUJhNGVvUWJwSzdsdGYxdzlrbmdIRXBoc0hwR0pSZ1lnMlNCdUV6QmF2eU9pYWlqbmtOdk5xQ1VCWWlvOVI2UFFUV3RnM1JRZU5PWHl1dHUzaEUyaThYelNRVVdOdllST3g2VkxhUm1abEF4RjdfU0xYTXcwenpwcWFLOVd5QU9nYkNELW9pQTlZUlE5TFhDNW9UR2NaZ0Q3RXMxd1pMemhGbkZGY2tHT0s4ZUh5NnctSVU3R2pZaEpsdDBFTm9CUTZUQlp2R1d0OXhzNFdKSGM3dmo5MFdPVEV2WlE?oc=5"
+          }
+        ],
+        "source": "OMG! Ubuntu",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261011-auto-2-2e93af",
+        "title": "AI Agent全自动维护开源软件：",
+        "category": "开源项目",
+        "date": "2026-10-11",
+        "summary": "AI Agent全自动维护开源软件：Magpie提issue几小时即修复引热议 www.80aj.c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Agent全自动维护开源软件： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Agent全自动维护开源软件：Magpie提issue几小时即修复引热议 www.80aj.c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Agent全自动维护开源软件：Magpie提issue几小时即修复引热议 www.80aj.c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.80aj.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DM09NN1VFX2NLRVJjQmdFeXVvWnhfaF9SektJRVlTVFpyMFZFTE9SSmZaOVVKQ3lJWW4xNnNZM2J1anczTTdZSXJ1czh0TWdWTXpmcVpXa0RjazlGNTJXNVVEWC0?oc=5"
+          },
+          {
+            "label": "OMG! Ubuntu：PhotoCraft is an open-source, AI-built clone of Photoshop - OMG! Ubunt",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81MUk1dEFrQi02aGdXWUNONnlyTVZIeklDTUk4cWVRSExheV9mdVg3QXQxNThDd0htNEl0dTgzMXF0RXo5dzFoZGpDc1BqMjN3YjZFdTJqMmc4ZXQzZFpWMlpZOUtUN2hqUzNUMzhWd21yODB0XzNv0gF8QVVfeXFMTmpaVmZmZmx4LW04c1BwdllBcFhWTHdDWnFLdUdTanpkdnJscXhvTUI4bHltaWRUYzdrckhPVHhjUjQ4ZmlGWFZXQ2dsc3hoRnZfYkc5bWV1b2ZidUZSV1M1dDhZRk9KZTJkU1FaRmMxQlNXNGZCVEhsOUU2NQ?oc=5"
+          },
+          {
+            "label": "The Times of India：Microsoft CEO Satya Nadella says don’t blindly trust AI; warns: Treat ",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa25HdHNlNTFXLV9jNzV1YVBOb0NiOWtrVHdZUzVxYjRaSXhqN1kwRjNfdk5UMFc2WEhSN1ZLZGFmSUZYT2pFOHQyRTdIeUh1VVhRVm9yZ3lqQi1VUHJKNU81R3h2NWJwNXdyaDRCdzBHTUQyRUZBdUpmSklLRVBsMVpOazctVGF0WGpseG45VDhmWlJweHNqclZZTnEwTFl2dEZVX0lqSG1pUXBIbC1fWTRWMUhoWE0tU0VQbHhHT1NqSnBPcG5ObXVpRlc4OUZHUEZmY19CNzdVNTVGd3Z6UHBhNEtTdHJlNS1mNTJ1VTlRVWZ3MF9ncDJMX3lrMlZlNnRfV0xocFBteTVR0gGSAkFVX3lxTE11dFpxZjZETVhrYlJNUjVrMjZhLWhLdlhuYjNlTDk5RGs4QS10YWtnOUFjVFJOWUJhNGVvUWJwSzdsdGYxdzlrbmdIRXBoc0hwR0pSZ1lnMlNCdUV6QmF2eU9pYWlqbmtOdk5xQ1VCWWlvOVI2UFFUV3RnM1JRZU5PWHl1dHUzaEUyaThYelNRVVdOdllST3g2VkxhUm1abEF4RjdfU0xYTXcwenpwcWFLOVd5QU9nYkNELW9pQTlZUlE5TFhDNW9UR2NaZ0Q3RXMxd1pMemhGbkZGY2tHT0s4ZUh5NnctSVU3R2pZaEpsdDBFTm9CUTZUQlp2R1d0OXhzNFdKSGM3dmo5MFdPVEV2WlE?oc=5"
+          }
+        ],
+        "source": "www.80aj.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DM09NN1VFX2NLRVJjQmdFeXVvWnhfaF9SektJRVlTVFpyMFZFTE9SSmZaOVVKQ3lJWW4xNnNZM2J1anczTTdZSXJ1czh0TWdWTXpmcVpXa0RjazlGNTJXNVVEWC0?oc=5"
+      },
       {
         "slug": "open-source-20261010-auto-1-81ecdb",
         "title": "PhotoCraft is an o",
