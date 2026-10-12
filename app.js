@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261012-auto-1-0544d6",
+        "title": "2026世界模型高峰论坛暨通用世界模",
+        "category": "AI新闻",
+        "date": "2026-10-12",
+        "summary": "2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在京举行 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "2026世界模型高峰论坛暨通用世界模 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在京举行 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在京举行 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUTAxUGVoWmlzckZBMVExdTZ3LWt2TmUwaWJXUlZLSzNHRkFiQ3VPbnNVdi16OWhQSjRZQ0RqclRLVXh0U0ZiYUkycVpDZjJxeEx0bzUxb3M4d1N6SFB2cERDT0VST2FJZUNOQnRDbDF2Zw?oc=5"
+          },
+          {
+            "label": "FII Institute：Enterprise AI Impact Report 2026: Transforming Business, AI in the Ent",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam5HeTlJNE5KMUVqX21yUmRLRm9RNDRQSXY5RmFpNTJuLUhDSTlhSk1FeGVFUENaWlpOTzVLNjVMOWxTY0ZOY3NfU05LSVlZa2poSERaSjFMSjFiMms3bDMzS2RWZ0NPRG1YaTlDdEQxRGMzNEdBeXFRdTFxQlpSRjRqc3E4MDQ5ZGVpRUZ0d2s5WUtmT2lGMVZHNzBYcWcweElrZXd5aWRxcy1rSmdRZmJScXQ?oc=5"
+          },
+          {
+            "label": "Aerospace Manufacturing and Design：NASA initiative to help Embry Riddle prepare students for AI-driven ae",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYklyUVdkS3pBT0h3TjJrZzZ6cFJINHhkc3NEWjhtN19DM2N6ajYwM0E0aFlSbFZIcnJzVWlWaWN4dEtFV2E4bmJBcFhwZ1VRWkQ4UnFwdHI5WjRCZ1gxb3l3UFQtTjVaVm1VWldHOFdRWGZFdklUa29zMjFFM2FWQ2liZXZMcHBrNENjV3c0YjRYSHVONEhERHZHaHNIM0g0NlNDQ2hFd2VncHlJS21VZjlpR1g0UUZYN21oUDNuVmlON3Rqem5QMVRKSk8?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUTAxUGVoWmlzckZBMVExdTZ3LWt2TmUwaWJXUlZLSzNHRkFiQ3VPbnNVdi16OWhQSjRZQ0RqclRLVXh0U0ZiYUkycVpDZjJxeEx0bzUxb3M4d1N6SFB2cERDT0VST2FJZUNOQnRDbDF2Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261012-auto-2-84aa01",
+        "title": "Enterprise AI Impa",
+        "category": "AI新闻",
+        "date": "2026-10-12",
+        "summary": "Enterprise AI Impact Report 2026: Transforming Bus",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Enterprise AI Impa 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Enterprise AI Impact Report 2026: Transforming Bus",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Enterprise AI Impact Report 2026: Transforming Bus",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "FII Institute：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam5HeTlJNE5KMUVqX21yUmRLRm9RNDRQSXY5RmFpNTJuLUhDSTlhSk1FeGVFUENaWlpOTzVLNjVMOWxTY0ZOY3NfU05LSVlZa2poSERaSjFMSjFiMms3bDMzS2RWZ0NPRG1YaTlDdEQxRGMzNEdBeXFRdTFxQlpSRjRqc3E4MDQ5ZGVpRUZ0d2s5WUtmT2lGMVZHNzBYcWcweElrZXd5aWRxcy1rSmdRZmJScXQ?oc=5"
+          },
+          {
+            "label": "新浪网：2026世界模型高峰论坛暨通用世界模型北京市重点实验室揭牌仪式在京举行 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IUTAxUGVoWmlzckZBMVExdTZ3LWt2TmUwaWJXUlZLSzNHRkFiQ3VPbnNVdi16OWhQSjRZQ0RqclRLVXh0U0ZiYUkycVpDZjJxeEx0bzUxb3M4d1N6SFB2cERDT0VST2FJZUNOQnRDbDF2Zw?oc=5"
+          },
+          {
+            "label": "Aerospace Manufacturing and Design：NASA initiative to help Embry Riddle prepare students for AI-driven ae",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYklyUVdkS3pBT0h3TjJrZzZ6cFJINHhkc3NEWjhtN19DM2N6ajYwM0E0aFlSbFZIcnJzVWlWaWN4dEtFV2E4bmJBcFhwZ1VRWkQ4UnFwdHI5WjRCZ1gxb3l3UFQtTjVaVm1VWldHOFdRWGZFdklUa29zMjFFM2FWQ2liZXZMcHBrNENjV3c0YjRYSHVONEhERHZHaHNIM0g0NlNDQ2hFd2VncHlJS21VZjlpR1g0UUZYN21oUDNuVmlON3Rqem5QMVRKSk8?oc=5"
+          }
+        ],
+        "source": "FII Institute",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPam5HeTlJNE5KMUVqX21yUmRLRm9RNDRQSXY5RmFpNTJuLUhDSTlhSk1FeGVFUENaWlpOTzVLNjVMOWxTY0ZOY3NfU05LSVlZa2poSERaSjFMSjFiMms3bDMzS2RWZ0NPRG1YaTlDdEQxRGMzNEdBeXFRdTFxQlpSRjRqc3E4MDQ5ZGVpRUZ0d2s5WUtmT2lGMVZHNzBYcWcweElrZXd5aWRxcy1rSmdRZmJScXQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261011-auto-1-9fe51b",
         "title": "AI brings new risk",
         "category": "AI新闻",
@@ -22439,6 +22555,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261012-auto-1-96abef",
+        "title": "South Korea Job Po",
+        "category": "AI使用教程",
+        "date": "2026-10-12",
+        "summary": "South Korea Job Postings Shift From 'Computer Skil",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "South Korea Job Po 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "South Korea Job Postings Shift From 'Computer Skil",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "South Korea Job Postings Shift From 'Computer Skil",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BigGo Finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTGJISllPVFlEa2o2ZlhQNTBUZzh1N0lMLWg3b05OQU9ubVF0YS12My05U0doZXp4WlNYNDFlbkdyeEt6SzJrbE1LcFpVWE5Ld01mbFdtd3JPdGtkc3FXcU5jdkdJaW95QUNmOFBpOWFObXFZS3c?oc=5"
+          },
+          {
+            "label": "新浪网：纸质书《终焉路独行》出现AI提示词，策划团队致歉称系误将校对软件提示词当正文处理所致 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PTEZNZEFuMnpEX1lGblJHNlhBOC1UNDh6QzY2VlZQTC1odktYenUydWtKc2hvcU9NZlFWdDMzNkE1ZTdKQnR1c0FJemRiRzdsX1VEUGY0MWNCWnRibUZIYmtIZkFUT0RIRkNmTFgtMk0wZFVsc3FYa2dLbGVOZw?oc=5"
+          },
+          {
+            "label": "PCMag：Stop Paying for Multiple AI Subscriptions with a Lifetime of 1min.AI f",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSjkxeVh1a0VVQlFRX19fdnJ0MGRrNWl5ZFFEMWQ1czlPUkhWS1dIdWE2RFB1eUVHUXVfTmJ6Q3Z4S3ZOS3ZYNnF3MDhrbmJtYVgxU2FzYXVab2NncGJWeWNkZFdaM3puV3ZyNW5mYy1mNExid3hONHhsU19DQk1GY1lBN25zNi1mNWtiUGNvNklmSl8tRmx3Mk5HQV9uSjk0?oc=5"
+          }
+        ],
+        "source": "BigGo Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BTGJISllPVFlEa2o2ZlhQNTBUZzh1N0lMLWg3b05OQU9ubVF0YS12My05U0doZXp4WlNYNDFlbkdyeEt6SzJrbE1LcFpVWE5Ld01mbFdtd3JPdGtkc3FXcU5jdkdJaW95QUNmOFBpOWFObXFZS3c?oc=5"
+      },
+      {
         "slug": "ai-guide-20261011-auto-1-1731d9",
         "title": "纸质书出现AI提示词，策划团队致歉",
         "category": "AI使用教程",
@@ -33081,6 +33255,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261012-auto-1-01f6a7",
+        "title": "How to Make Your O",
+        "category": "开源项目",
+        "date": "2026-10-12",
+        "summary": "How to Make Your Open-Source Library Easier for AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How to Make Your O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How to Make Your Open-Source Library Easier for AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How to Make Your Open-Source Library Easier for AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "HackerNoon：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXlBSDR2QkVIaGRpWm0yamZiVDdDQWozTlF2OV82X0h1UU5FaGFhQTRJcXpCREUzTUx3dE5PeUhnVDE5cXE5Y0tfNzBnc0VjN2JXZUFoZllQUHNoTVBaQWxfeVk1ZEFYa2RJdnBoakYtaVdTTXlWTjBCb2lYTjB2cF9WeUxBMlNfOTJlNkRJR1lQa3UtQXVqMDFJZmU2YTI2ZnhuNXFRSDdQRXc?oc=5"
+          },
+          {
+            "label": "CSDN博客：210+ AI开源技术大咖汇聚深圳！GOSIM Shenzhen 2026完整日程发布｜千人盛会，附参会指南&注册入口 - CSDN博客",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CN2s5Z18xUmFqMVdVZWZ1MFVfenpYVEZMdGlnbWVCZzlrMWdaN3pfRGZmZjdrTlZOTTFiUTdhZkZYNktRMmIxTWl5VG12cnhUSUFZWE1qb3l3WUJEVDVZYXEyVmZjRVU?oc=5"
+          },
+          {
+            "label": "Help Net Security：Strands Box: Open-source sandbox for AI agents - Help Net Security",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFVWamRoNGo5Z0xaSFZpOEo1dGpBR3ZBLXNDdUNtb0JEWDBrV2Q2UGVjWG02QXlrWDY1Q0ZhZ2NMbDg0aThlX2o0M0VsTDB3czRiSlRPc1lpemhscFBxZXNjMWRnMDNDXzR5VVFrZmRKeVN5bk5jLUY4Ykw5MVpLR1lKS0VqQ3BfY0FRV1NtblpnZw?oc=5"
+          }
+        ],
+        "source": "HackerNoon",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXlBSDR2QkVIaGRpWm0yamZiVDdDQWozTlF2OV82X0h1UU5FaGFhQTRJcXpCREUzTUx3dE5PeUhnVDE5cXE5Y0tfNzBnc0VjN2JXZUFoZllQUHNoTVBaQWxfeVk1ZEFYa2RJdnBoakYtaVdTTXlWTjBCb2lYTjB2cF9WeUxBMlNfOTJlNkRJR1lQa3UtQXVqMDFJZmU2YTI2ZnhuNXFRSDdQRXc?oc=5"
+      },
+      {
+        "slug": "open-source-20261012-auto-2-be189b",
+        "title": "210+ AI开源技术大咖汇聚深圳！",
+        "category": "开源项目",
+        "date": "2026-10-12",
+        "summary": "210+ AI开源技术大咖汇聚深圳！GOSIM Shenzhen 2026完整日程发布｜千人盛会，附",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "210+ AI开源技术大咖汇聚深圳！ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "210+ AI开源技术大咖汇聚深圳！GOSIM Shenzhen 2026完整日程发布｜千人盛会，附",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "210+ AI开源技术大咖汇聚深圳！GOSIM Shenzhen 2026完整日程发布｜千人盛会，附",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CSDN博客：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CN2s5Z18xUmFqMVdVZWZ1MFVfenpYVEZMdGlnbWVCZzlrMWdaN3pfRGZmZjdrTlZOTTFiUTdhZkZYNktRMmIxTWl5VG12cnhUSUFZWE1qb3l3WUJEVDVZYXEyVmZjRVU?oc=5"
+          },
+          {
+            "label": "HackerNoon：How to Make Your Open-Source Library Easier for AI Agents to Find, Tru",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXlBSDR2QkVIaGRpWm0yamZiVDdDQWozTlF2OV82X0h1UU5FaGFhQTRJcXpCREUzTUx3dE5PeUhnVDE5cXE5Y0tfNzBnc0VjN2JXZUFoZllQUHNoTVBaQWxfeVk1ZEFYa2RJdnBoakYtaVdTTXlWTjBCb2lYTjB2cF9WeUxBMlNfOTJlNkRJR1lQa3UtQXVqMDFJZmU2YTI2ZnhuNXFRSDdQRXc?oc=5"
+          },
+          {
+            "label": "Help Net Security：Strands Box: Open-source sandbox for AI agents - Help Net Security",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFVWamRoNGo5Z0xaSFZpOEo1dGpBR3ZBLXNDdUNtb0JEWDBrV2Q2UGVjWG02QXlrWDY1Q0ZhZ2NMbDg0aThlX2o0M0VsTDB3czRiSlRPc1lpemhscFBxZXNjMWRnMDNDXzR5VVFrZmRKeVN5bk5jLUY4Ykw5MVpLR1lKS0VqQ3BfY0FRV1NtblpnZw?oc=5"
+          }
+        ],
+        "source": "CSDN博客",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CN2s5Z18xUmFqMVdVZWZ1MFVfenpYVEZMdGlnbWVCZzlrMWdaN3pfRGZmZjdrTlZOTTFiUTdhZkZYNktRMmIxTWl5VG12cnhUSUFZWE1qb3l3WUJEVDVZYXEyVmZjRVU?oc=5"
+      },
       {
         "slug": "open-source-20261011-auto-1-cb744c",
         "title": "PhotoCraft is an o",
