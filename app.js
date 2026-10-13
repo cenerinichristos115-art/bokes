@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261013-auto-1-1b4113",
+        "title": "Australian voters",
+        "category": "AI新闻",
+        "date": "2026-10-13",
+        "summary": "Australian voters back AI copyright changes — if c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Australian voters 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Australian voters back AI copyright changes — if c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Australian voters back AI copyright changes — if c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Politico：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHVzWWM0VHlJMmY4MEVpQXJmbUI5ckxFb04wZkxJYTB0UzBCZEtmR0dMdVF0S2hZMGQ5MGxwUjFyb3BpYngyenpqdFVlVVVoaHZCMHM4THppcGNXa2l2SDRxcDdZWWwyTER3VWNfdUh6bTBORzA4Vkpnb1hLT01xUFlmR2I2UnF5UFVKekhPSU94enNQd2JhQWpkUkEwNGJ6cUtuYUVORjR2LTBjSGY1SkxhNXRpX1RLakpLdTBoNE1Xb2c?oc=5"
+          },
+          {
+            "label": "RSM US LLP：Building the data foundations for trusted AI and scalable growth - RSM",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkktY0hfLUQ0a2twTXhma0YzZzJnbmRRQ3NraFpRT2FGd3lLbmFTemNEZHFlM1ZibmFyRy1OOGxDci1ucmNIYUpNSGZ3bnZidHRaVlJwdG84VkJtbHZ2ZkpFRjBZR1N3Y2xRM21WUUZ4Ym1xMEZaLVhOOENWSUY1X1RoWFpLQkJIRWhuU0lWWlM?oc=5"
+          },
+          {
+            "label": "Reuters：'Brutal session' for chip stocks shows AI trade is turning - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5"
+          }
+        ],
+        "source": "Politico",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHVzWWM0VHlJMmY4MEVpQXJmbUI5ckxFb04wZkxJYTB0UzBCZEtmR0dMdVF0S2hZMGQ5MGxwUjFyb3BpYngyenpqdFVlVVVoaHZCMHM4THppcGNXa2l2SDRxcDdZWWwyTER3VWNfdUh6bTBORzA4Vkpnb1hLT01xUFlmR2I2UnF5UFVKekhPSU94enNQd2JhQWpkUkEwNGJ6cUtuYUVORjR2LTBjSGY1SkxhNXRpX1RLakpLdTBoNE1Xb2c?oc=5"
+      },
+      {
+        "slug": "ai-news-20261013-auto-2-a31442",
+        "title": "Building the data",
+        "category": "AI新闻",
+        "date": "2026-10-13",
+        "summary": "Building the data foundations for trusted AI and s",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Building the data 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Building the data foundations for trusted AI and s",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Building the data foundations for trusted AI and s",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "RSM US LLP：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkktY0hfLUQ0a2twTXhma0YzZzJnbmRRQ3NraFpRT2FGd3lLbmFTemNEZHFlM1ZibmFyRy1OOGxDci1ucmNIYUpNSGZ3bnZidHRaVlJwdG84VkJtbHZ2ZkpFRjBZR1N3Y2xRM21WUUZ4Ym1xMEZaLVhOOENWSUY1X1RoWFpLQkJIRWhuU0lWWlM?oc=5"
+          },
+          {
+            "label": "Politico：Australian voters back AI copyright changes — if creators get paid - P",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHVzWWM0VHlJMmY4MEVpQXJmbUI5ckxFb04wZkxJYTB0UzBCZEtmR0dMdVF0S2hZMGQ5MGxwUjFyb3BpYngyenpqdFVlVVVoaHZCMHM4THppcGNXa2l2SDRxcDdZWWwyTER3VWNfdUh6bTBORzA4Vkpnb1hLT01xUFlmR2I2UnF5UFVKekhPSU94enNQd2JhQWpkUkEwNGJ6cUtuYUVORjR2LTBjSGY1SkxhNXRpX1RLakpLdTBoNE1Xb2c?oc=5"
+          },
+          {
+            "label": "Reuters：'Brutal session' for chip stocks shows AI trade is turning - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5"
+          }
+        ],
+        "source": "RSM US LLP",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkktY0hfLUQ0a2twTXhma0YzZzJnbmRRQ3NraFpRT2FGd3lLbmFTemNEZHFlM1ZibmFyRy1OOGxDci1ucmNIYUpNSGZ3bnZidHRaVlJwdG84VkJtbHZ2ZkpFRjBZR1N3Y2xRM21WUUZ4Ym1xMEZaLVhOOENWSUY1X1RoWFpLQkJIRWhuU0lWWlM?oc=5"
+      },
+      {
         "slug": "ai-news-20261012-auto-1-0544d6",
         "title": "2026世界模型高峰论坛暨通用世界模",
         "category": "AI新闻",
@@ -22555,6 +22671,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261013-auto-1-b12d71",
+        "title": "WordCraft guide, t",
+        "category": "AI使用教程",
+        "date": "2026-10-13",
+        "summary": "WordCraft guide, the free Word alternative written",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "WordCraft guide, t 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "WordCraft guide, the free Word alternative written",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "WordCraft guide, the free Word alternative written",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2xLSXJFNFp3LWlkVlNLQTVaUzJnZlE4cWtVUExuUGw3MC10M1F6ZkpKV0x3Q3JsNTJDdkhVaE9Oc1NTYlhkeV81YTh4Z2JCVnNYeHRkemFvSmV6T1F2LXZBU0JIREtvLW43X3R0d0FnT0ZiV0UwY0g3NHNYOTZTYktVa2QxZm4zYzUzTnIzQQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：DeckCraft guide, the free PowerPoint alternative written in Rust - Pas",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1VzcDQzZXJObDhMLWZINkI0b0daVVQtUVFBdE9GMVZBVVRWcFp1NFRUX3pmcGxvOHJ3M25kbjZZZi1qb2ZEeXdpSEF5N3lqUjVqTXk0bzdhSmVsWEd2RFRhSElEOUxmTEpNM2VlaHQ5QTlQcENrOUk0bHBXM0h1ZEFYR0xHWXdOVF9Wek1nYUZFUDVJSVVj?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：GridCraft guide, the free Excel alternative written in Rust - Pasquale",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUG53b0FoejVrNlM3NlhzZ1pnV0pMYkw2NXc4UDhMUldtNE1Ha2tUTlh2b2oyM09kTWpmOTc2T1Z4amp0S1pHcnJnS3VhRlB6d092azkwRTdjdVA2X0dDZHR2Uk9nc2R4WU9zanVXYWlXcEZJQmtuQWduVGVzalJiczF0MmJpOWtlR01tMzlBbmg?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2xLSXJFNFp3LWlkVlNLQTVaUzJnZlE4cWtVUExuUGw3MC10M1F6ZkpKV0x3Q3JsNTJDdkhVaE9Oc1NTYlhkeV81YTh4Z2JCVnNYeHRkemFvSmV6T1F2LXZBU0JIREtvLW43X3R0d0FnT0ZiV0UwY0g3NHNYOTZTYktVa2QxZm4zYzUzTnIzQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261012-auto-1-96abef",
         "title": "South Korea Job Po",
         "category": "AI使用教程",
@@ -33255,6 +33429,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261013-auto-1-b12d71",
+        "title": "WordCraft guide, t",
+        "category": "开源项目",
+        "date": "2026-10-13",
+        "summary": "WordCraft guide, the free Word alternative written",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "WordCraft guide, t 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "WordCraft guide, the free Word alternative written",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "WordCraft guide, the free Word alternative written",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2xLSXJFNFp3LWlkVlNLQTVaUzJnZlE4cWtVUExuUGw3MC10M1F6ZkpKV0x3Q3JsNTJDdkhVaE9Oc1NTYlhkeV81YTh4Z2JCVnNYeHRkemFvSmV6T1F2LXZBU0JIREtvLW43X3R0d0FnT0ZiV0UwY0g3NHNYOTZTYktVa2QxZm4zYzUzTnIzQQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：GridCraft guide, the free Excel alternative written in Rust - Pasquale",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUG53b0FoejVrNlM3NlhzZ1pnV0pMYkw2NXc4UDhMUldtNE1Ha2tUTlh2b2oyM09kTWpmOTc2T1Z4amp0S1pHcnJnS3VhRlB6d092azkwRTdjdVA2X0dDZHR2Uk9nc2R4WU9zanVXYWlXcEZJQmtuQWduVGVzalJiczF0MmJpOWtlR01tMzlBbmg?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Anthropic Unveils AI Worms Study With 26B Model on 15 Android TV Boxes",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1FZWkVZcVpYdzVETk4wVGNWckx6b0g4UVlrVk94WGlzeTVFTUl3NE0zaUtYaDNXS0ZIa2ZFUDh2WE9sRm5vTU13X0xCeENXM2NycEMxR0YzdWJFdDd0YTRXOTdtczFMVTc3TEFUMTA0cnRnOTI0eXJwel9lY0pxQm9VNUdNeUxReEJmZkluZw?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2xLSXJFNFp3LWlkVlNLQTVaUzJnZlE4cWtVUExuUGw3MC10M1F6ZkpKV0x3Q3JsNTJDdkhVaE9Oc1NTYlhkeV81YTh4Z2JCVnNYeHRkemFvSmV6T1F2LXZBU0JIREtvLW43X3R0d0FnT0ZiV0UwY0g3NHNYOTZTYktVa2QxZm4zYzUzTnIzQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261013-auto-2-97fa11",
+        "title": "GridCraft guide, t",
+        "category": "开源项目",
+        "date": "2026-10-13",
+        "summary": "GridCraft guide, the free Excel alternative writte",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GridCraft guide, t 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GridCraft guide, the free Excel alternative writte",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GridCraft guide, the free Excel alternative writte",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUG53b0FoejVrNlM3NlhzZ1pnV0pMYkw2NXc4UDhMUldtNE1Ha2tUTlh2b2oyM09kTWpmOTc2T1Z4amp0S1pHcnJnS3VhRlB6d092azkwRTdjdVA2X0dDZHR2Uk9nc2R4WU9zanVXYWlXcEZJQmtuQWduVGVzalJiczF0MmJpOWtlR01tMzlBbmg?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：WordCraft guide, the free Word alternative written in Rust - Pasquale ",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2xLSXJFNFp3LWlkVlNLQTVaUzJnZlE4cWtVUExuUGw3MC10M1F6ZkpKV0x3Q3JsNTJDdkhVaE9Oc1NTYlhkeV81YTh4Z2JCVnNYeHRkemFvSmV6T1F2LXZBU0JIREtvLW43X3R0d0FnT0ZiV0UwY0g3NHNYOTZTYktVa2QxZm4zYzUzTnIzQQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Anthropic Unveils AI Worms Study With 26B Model on 15 Android TV Boxes",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1FZWkVZcVpYdzVETk4wVGNWckx6b0g4UVlrVk94WGlzeTVFTUl3NE0zaUtYaDNXS0ZIa2ZFUDh2WE9sRm5vTU13X0xCeENXM2NycEMxR0YzdWJFdDd0YTRXOTdtczFMVTc3TEFUMTA0cnRnOTI0eXJwel9lY0pxQm9VNUdNeUxReEJmZkluZw?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUG53b0FoejVrNlM3NlhzZ1pnV0pMYkw2NXc4UDhMUldtNE1Ha2tUTlh2b2oyM09kTWpmOTc2T1Z4amp0S1pHcnJnS3VhRlB6d092azkwRTdjdVA2X0dDZHR2Uk9nc2R4WU9zanVXYWlXcEZJQmtuQWduVGVzalJiczF0MmJpOWtlR01tMzlBbmg?oc=5"
+      },
       {
         "slug": "open-source-20261012-auto-1-01f6a7",
         "title": "How to Make Your O",
