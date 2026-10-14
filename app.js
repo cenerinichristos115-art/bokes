@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261014-auto-1-c528e3",
+        "title": "Pittsburgh airport",
+        "category": "AI新闻",
+        "date": "2026-10-14",
+        "summary": "Pittsburgh airport staff gets help in form of AI-p",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Pittsburgh airport 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Pittsburgh airport staff gets help in form of AI-p",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Pittsburgh airport staff gets help in form of AI-p",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "USA Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHByTXZCVk1WYVV1UW1HVTNHVmJ2MXVfUjM5MHVYY0N6SU9Xd0lJU3A1RDEyNnRSOEFfbWNRUE5weFhrellGSFp2cVJBV0F6RmdsSE9RcDY2M1Boal9uNGJLY0JKOV9qQlNaVnhOZWVNNnNVa0p2TTltME45d3ZEYTFzbm0zcnpfQkt5b0xpS19rcTBSenNsUEdIaWE5MXRUQkZ4WUFHNnZJSWdpUjhGQWR2Y0dqUDhXbjMycGpFVjZXZFAtN0Jhbk1PeGxzRFVHU0JsRktOY2ZCWWNRN28wejl2bVc2Vlk?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：International warning: IMF identifies 3 risks threatening the world du",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGJ5LXBTNkk5UkIzZGp4NVFFZ0plQ093dXEzVUhEUDBhd25TSEtnRVZGTWFFNFFEbmo0S0FWYW5qYmdOem9GVkNDUVVIOUQ0eWJlZ01WWDdScVVzb2M1VV9IYldOZ0loQ2ZUNmlFV1JaeVZEWXpMOG55ZmVkNy1SMHBnODI1MWlIQXdKblNTa0NUOTBGWWVlUGhDU1RoVHhIVW85N2FuOEFhWExtSUtHSHpiYWMxeWZkeHR2cnFIM25kTFV2N0RBWl81eFI3ZFVyQTd0cUlIb0NqTnpnZ3pOMG9uLWNEUnNxdHBRYlp2NmJlZV9rR0thb3M0MEZaYUp5Smc?oc=5"
+          },
+          {
+            "label": "中华网：外媒关注即将举行的APEC峰会 中美人工智能对话成焦点 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaU1DbWQ1MEZ2eVRoOEtQSTRFdFozNjJ4bnJfNVZVWHZwZWZ3YXBDOXl6NF93a3VXd1Bma1JqY0tlalJFcXJmWmNQY0FsWm0xRThjSUxFTDFQdlVhQlNmUFh1cHF4V3J3b3dldDR2LVU?oc=5"
+          }
+        ],
+        "source": "USA Today",
+        "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHByTXZCVk1WYVV1UW1HVTNHVmJ2MXVfUjM5MHVYY0N6SU9Xd0lJU3A1RDEyNnRSOEFfbWNRUE5weFhrellGSFp2cVJBV0F6RmdsSE9RcDY2M1Boal9uNGJLY0JKOV9qQlNaVnhOZWVNNnNVa0p2TTltME45d3ZEYTFzbm0zcnpfQkt5b0xpS19rcTBSenNsUEdIaWE5MXRUQkZ4WUFHNnZJSWdpUjhGQWR2Y0dqUDhXbjMycGpFVjZXZFAtN0Jhbk1PeGxzRFVHU0JsRktOY2ZCWWNRN28wejl2bVc2Vlk?oc=5"
+      },
+      {
+        "slug": "ai-news-20261014-auto-2-6a7304",
+        "title": "International warn",
+        "category": "AI新闻",
+        "date": "2026-10-14",
+        "summary": "International warning: IMF identifies 3 risks thre",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "International warn 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "International warning: IMF identifies 3 risks thre",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "International warning: IMF identifies 3 risks thre",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "صوت الإمارات：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGJ5LXBTNkk5UkIzZGp4NVFFZ0plQ093dXEzVUhEUDBhd25TSEtnRVZGTWFFNFFEbmo0S0FWYW5qYmdOem9GVkNDUVVIOUQ0eWJlZ01WWDdScVVzb2M1VV9IYldOZ0loQ2ZUNmlFV1JaeVZEWXpMOG55ZmVkNy1SMHBnODI1MWlIQXdKblNTa0NUOTBGWWVlUGhDU1RoVHhIVW85N2FuOEFhWExtSUtHSHpiYWMxeWZkeHR2cnFIM25kTFV2N0RBWl81eFI3ZFVyQTd0cUlIb0NqTnpnZ3pOMG9uLWNEUnNxdHBRYlp2NmJlZV9rR0thb3M0MEZaYUp5Smc?oc=5"
+          },
+          {
+            "label": "USA Today：Pittsburgh airport staff gets help in form of AI-powered robots - USA ",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMHByTXZCVk1WYVV1UW1HVTNHVmJ2MXVfUjM5MHVYY0N6SU9Xd0lJU3A1RDEyNnRSOEFfbWNRUE5weFhrellGSFp2cVJBV0F6RmdsSE9RcDY2M1Boal9uNGJLY0JKOV9qQlNaVnhOZWVNNnNVa0p2TTltME45d3ZEYTFzbm0zcnpfQkt5b0xpS19rcTBSenNsUEdIaWE5MXRUQkZ4WUFHNnZJSWdpUjhGQWR2Y0dqUDhXbjMycGpFVjZXZFAtN0Jhbk1PeGxzRFVHU0JsRktOY2ZCWWNRN28wejl2bVc2Vlk?oc=5"
+          },
+          {
+            "label": "中华网：外媒关注即将举行的APEC峰会 中美人工智能对话成焦点 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaU1DbWQ1MEZ2eVRoOEtQSTRFdFozNjJ4bnJfNVZVWHZwZWZ3YXBDOXl6NF93a3VXd1Bma1JqY0tlalJFcXJmWmNQY0FsWm0xRThjSUxFTDFQdlVhQlNmUFh1cHF4V3J3b3dldDR2LVU?oc=5"
+          }
+        ],
+        "source": "صوت الإمارات",
+        "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGJ5LXBTNkk5UkIzZGp4NVFFZ0plQ093dXEzVUhEUDBhd25TSEtnRVZGTWFFNFFEbmo0S0FWYW5qYmdOem9GVkNDUVVIOUQ0eWJlZ01WWDdScVVzb2M1VV9IYldOZ0loQ2ZUNmlFV1JaeVZEWXpMOG55ZmVkNy1SMHBnODI1MWlIQXdKblNTa0NUOTBGWWVlUGhDU1RoVHhIVW85N2FuOEFhWExtSUtHSHpiYWMxeWZkeHR2cnFIM25kTFV2N0RBWl81eFI3ZFVyQTd0cUlIb0NqTnpnZ3pOMG9uLWNEUnNxdHBRYlp2NmJlZV9rR0thb3M0MEZaYUp5Smc?oc=5"
+      },
+      {
         "slug": "ai-news-20261013-auto-1-1b4113",
         "title": "Australian voters",
         "category": "AI新闻",
@@ -22671,6 +22787,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261014-auto-1-168e82",
+        "title": "AI短剧人物频现可疑脸红：提示词套路",
+        "category": "AI使用教程",
+        "date": "2026-10-14",
+        "summary": "AI短剧人物频现可疑脸红：提示词套路与情感理解不足暴露AI不动情 虎嗅网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧人物频现可疑脸红：提示词套路 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI短剧人物频现可疑脸红：提示词套路与情感理解不足暴露AI不动情 虎嗅网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI短剧人物频现可疑脸红：提示词套路与情感理解不足暴露AI不动情 虎嗅网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "虎嗅网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sSFhTcDZCejQ1NmRqemg5Qy1SNHFyZUxPZXQ5TE9OckxTREMzTmFaZHVHakptaURad1hjN19XVUFCTTY2R09RTHBHcEtLNFBLODF0bw?oc=5"
+          },
+          {
+            "label": "中新网福建：“才聚首善 数智赋能”——AI赋能基层减负增能专题培训活动 - 中新网福建",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EMnd6S19uSlhnYXhRZTR1bFA0UHBnOVQyakNaMFdsR2dDQS1sOEU4S2M1S2daU3ZheXdjUEp0N0F0RGtCWkxwU3FJSkZKLUdmbUVsUnlDOGRWTmI3N0pnbWRTa2d3UXlGeXR2N3ZyTVlaUQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：FigCraft guide, the free Figma alternative written in Rust - Pasquale ",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWdYbjVMS3lrelBYSkxhZU1vNHNCcUJicmNMeDB5SERERmhWRGtTZFc2ZnRuSHNfVVptVm0xVkZhb0lEeDdub0dwa0RsMVpoTTRrQzU0YS00U2hScWtTQkdNUWFubGhNTDdnZ244VEE4M0NUT3lmTXF1RTV0V19DaGhzNGt3NURtcEZSRlpVcw?oc=5"
+          }
+        ],
+        "source": "虎嗅网",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sSFhTcDZCejQ1NmRqemg5Qy1SNHFyZUxPZXQ5TE9OckxTREMzTmFaZHVHakptaURad1hjN19XVUFCTTY2R09RTHBHcEtLNFBLODF0bw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261013-auto-1-b12d71",
         "title": "WordCraft guide, t",
         "category": "AI使用教程",
@@ -33429,6 +33603,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261014-auto-1-2af03b",
+        "title": "NVIDIA RTX Spark L",
+        "category": "开源项目",
+        "date": "2026-10-14",
+        "summary": "NVIDIA RTX Spark Launches Friday: 74-Billion-Param",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA RTX Spark L 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "NVIDIA RTX Spark Launches Friday: 74-Billion-Param",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA RTX Spark Launches Friday: 74-Billion-Param",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Fish Audio releases Drama 3, a free voice model that beats ElevenLabs ",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmFtOVM4MlQ3RENjbXJHOGw1UGtpVjBldTdGdkMwOTZkc3l2RmZqMUFHQk5oZ05xenZDQklxaVNTTkRlV0pldU9vMzR5WDVoNFlkaDRqYjV2eFduYk51VTVGUGVJd3pCZVJOSlhIb3FyQzg2VXlZNUJJWnFuXy1hNGl3aFhDQTM1dHBQSElPYjhCWVJSUWFLakEzSEYtLXdDX3RzTEt2cWZyM1hfbU9Hc2RTZw?oc=5"
+          },
+          {
+            "label": "至顶网：AI数据中心上太空：谷歌与马斯克谁更务实-AI基础设施 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZE1qOE84Zkpxa181UWlPZXZTYVpQaGUyeUZ3Y0xUdDRiQWkxeEExSllNZThLQ19ZSTRoZndick4xM0xBb1pLaXVxZm4wUUpNVG91bDBscXpuQmlGbm8tdU1vZVUxSEdiX0xhRlpVd0FVQQ?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
+      },
+      {
+        "slug": "open-source-20261014-auto-2-a05267",
+        "title": "Fish Audio release",
+        "category": "开源项目",
+        "date": "2026-10-14",
+        "summary": "Fish Audio releases Drama 3, a free voice model th",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Fish Audio release 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Fish Audio releases Drama 3, a free voice model th",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Fish Audio releases Drama 3, a free voice model th",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Startup Fortune：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmFtOVM4MlQ3RENjbXJHOGw1UGtpVjBldTdGdkMwOTZkc3l2RmZqMUFHQk5oZ05xenZDQklxaVNTTkRlV0pldU9vMzR5WDVoNFlkaDRqYjV2eFduYk51VTVGUGVJd3pCZVJOSlhIb3FyQzg2VXlZNUJJWnFuXy1hNGl3aFhDQTM1dHBQSElPYjhCWVJSUWFLakEzSEYtLXdDX3RzTEt2cWZyM1hfbU9Hc2RTZw?oc=5"
+          },
+          {
+            "label": "Tech Times：NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
+          },
+          {
+            "label": "至顶网：AI数据中心上太空：谷歌与马斯克谁更务实-AI基础设施 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZE1qOE84Zkpxa181UWlPZXZTYVpQaGUyeUZ3Y0xUdDRiQWkxeEExSllNZThLQ19ZSTRoZndick4xM0xBb1pLaXVxZm4wUUpNVG91bDBscXpuQmlGbm8tdU1vZVUxSEdiX0xhRlpVd0FVQQ?oc=5"
+          }
+        ],
+        "source": "Startup Fortune",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmFtOVM4MlQ3RENjbXJHOGw1UGtpVjBldTdGdkMwOTZkc3l2RmZqMUFHQk5oZ05xenZDQklxaVNTTkRlV0pldU9vMzR5WDVoNFlkaDRqYjV2eFduYk51VTVGUGVJd3pCZVJOSlhIb3FyQzg2VXlZNUJJWnFuXy1hNGl3aFhDQTM1dHBQSElPYjhCWVJSUWFLakEzSEYtLXdDX3RzTEt2cWZyM1hfbU9Hc2RTZw?oc=5"
+      },
       {
         "slug": "open-source-20261013-auto-1-b12d71",
         "title": "WordCraft guide, t",
