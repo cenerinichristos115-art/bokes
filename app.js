@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261015-auto-1-152960",
+        "title": "“AI教父”怒批特朗普：他对AI“几",
+        "category": "AI新闻",
+        "date": "2026-10-15",
+        "summary": "“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI” 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“AI教父”怒批特朗普：他对AI“几 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI” 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI” 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5"
+          },
+          {
+            "label": "新浪网：人工智能巨头最新警告，涉及智能家电 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0lEMnBINklpYU1iSFFtOUFCbklRUk9oZTdRVFZoZHpZSFJLbmZDNmR4LTFpSmYtMUpDdnJUTmxodkxMalVkYXZhbDIyMnhOVU9kMVBzRllmNVVXUGdxWlBkSVNEeFBWMW1zLThOa3ZERHgzVWlKd0JkamtlaEZndWl4V0puS1kzRnc2S2dudw?oc=5"
+          },
+          {
+            "label": "Reuters：AI credit default swap spreads widen sharply - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5"
+      },
+      {
+        "slug": "ai-news-20261015-auto-2-39881e",
+        "title": "人工智能巨头最新警告，涉及智能家电",
+        "category": "AI新闻",
+        "date": "2026-10-15",
+        "summary": "人工智能巨头最新警告，涉及智能家电 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能巨头最新警告，涉及智能家电 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人工智能巨头最新警告，涉及智能家电 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能巨头最新警告，涉及智能家电 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0lEMnBINklpYU1iSFFtOUFCbklRUk9oZTdRVFZoZHpZSFJLbmZDNmR4LTFpSmYtMUpDdnJUTmxodkxMalVkYXZhbDIyMnhOVU9kMVBzRllmNVVXUGdxWlBkSVNEeFBWMW1zLThOa3ZERHgzVWlKd0JkamtlaEZndWl4V0puS1kzRnc2S2dudw?oc=5"
+          },
+          {
+            "label": "新浪网：“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI” - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUW55cHR6R2VWcFZyQklPT0l6YmdtZDVEaVg3eW90TGlzT01xdnI5MTFRZjJ1Z2p5QThsbzVNZ1RVY1pIZzVfZGgzb0lRWlJjSExHWC1JcXJlZHlqZGtqSnRNM3dxOHJ6RHJPQjVaT0pPZzB0RXJ2eHZtM1dVbUU?oc=5"
+          },
+          {
+            "label": "Reuters：AI credit default swap spreads widen sharply - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0lEMnBINklpYU1iSFFtOUFCbklRUk9oZTdRVFZoZHpZSFJLbmZDNmR4LTFpSmYtMUpDdnJUTmxodkxMalVkYXZhbDIyMnhOVU9kMVBzRllmNVVXUGdxWlBkSVNEeFBWMW1zLThOa3ZERHgzVWlKd0JkamtlaEZndWl4V0puS1kzRnc2S2dudw?oc=5"
+      },
+      {
         "slug": "ai-news-20261014-auto-1-c528e3",
         "title": "Pittsburgh airport",
         "category": "AI新闻",
@@ -22787,6 +22903,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261015-auto-1-0c3688",
+        "title": "Ninehire发布招聘领域生成式",
+        "category": "AI使用教程",
+        "date": "2026-10-15",
+        "summary": "Ninehire发布招聘领域生成式 AI 应用指南 디지털투데이",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ninehire发布招聘领域生成式 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ninehire发布招聘领域生成式 AI 应用指南 디지털투데이",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ninehire发布招聘领域生成式 AI 应用指南 디지털투데이",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "디지털투데이：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1NfekU3enRtUXFMaWJ3bGRpSlpEbjJCOVZwUkE5MExIaEZmbVFDelgxUG9kWV9nSlBMQWNBdWRpWjMxS0t0Zl93Vl9McXhQbFNFQ2RrQ3JOR18zUnJjdXFqQjdLTXNLNnVxMXFHcUxhdVJkc2JzeXpkZ2hSZzJUMHVLSmNKcFliUEdXa3BpZ2phNWpxMk5CRFQ3dmpmZUQwd1EtRHZZX2xab1U3RHRYY0xXSFJHNjRMOFFQVzZnRWVWdkU?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：SoundCraft 指南，用 Rust 写成的 Pro Tools 免费替代品 - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHIzN0t4NW9UNG5ONWFPT2l4RXdybEdRZjZ3M3F3QkpTZ2I4aklqNXQ5ZV8zTEo3YXNJNHRiaHZNTVhYR0pMRXV3SVpkeDNfc01kdm1wZlNpdTM5X1pxN25qMWgycGpRVWN0WE04c0YyTGFyVjZhVTZULWZxTmhGdmFjNGJscTVUZ0RUSzhnUWZJTjhR?oc=5"
+          },
+          {
+            "label": "PRLog：Personal Prompt Builder™ App Launches With Free Prompt Generation for ",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX25UQ1BDS3RTSU8zM3VKZHpjTVhnek10bmJqZ0NGNFZ4RUpVTXVKM1d1VU5xenh4bnFFTUlvR2NWTHAtZm1qTnNfTFZncm01M1FoaF9ySXNoZ2JEMnlnQ3ljSEZzdlI2YTJUUDROeFNXWjY4T1VITDN6WUE4YnVQbUY2Zlh5VFBuX2lXQnFTVGhsOVc4aHV2U2ZlQ01VOE8wSlhYdHFvSDhtbENGRE05MFZkRXZxWGc?oc=5"
+          }
+        ],
+        "source": "디지털투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1NfekU3enRtUXFMaWJ3bGRpSlpEbjJCOVZwUkE5MExIaEZmbVFDelgxUG9kWV9nSlBMQWNBdWRpWjMxS0t0Zl93Vl9McXhQbFNFQ2RrQ3JOR18zUnJjdXFqQjdLTXNLNnVxMXFHcUxhdVJkc2JzeXpkZ2hSZzJUMHVLSmNKcFliUEdXa3BpZ2phNWpxMk5CRFQ3dmpmZUQwd1EtRHZZX2xab1U3RHRYY0xXSFJHNjRMOFFQVzZnRWVWdkU?oc=5"
+      },
+      {
         "slug": "ai-guide-20261014-auto-1-168e82",
         "title": "AI短剧人物频现可疑脸红：提示词套路",
         "category": "AI使用教程",
@@ -33603,6 +33777,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261015-auto-1-2381f7",
+        "title": "Ant Group Open-Sou",
+        "category": "开源项目",
+        "date": "2026-10-15",
+        "summary": "Ant Group Open-Sources Ling-3.1-flash Weights Unde",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ant Group Open-Sou 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ant Group Open-Sources Ling-3.1-flash Weights Unde",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ant Group Open-Sources Ling-3.1-flash Weights Unde",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pandaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjB6YnlaODdMbUwyVnZzeHVNRUo2UFMwRF91bWVfQXdwak1ibUdHYnRoa2xRaTQ4d041TkwxQXlFUE80ZEtqWm1vbVlFeEQ1WEFYc0RxSkItdFdkdFpSVlNobjhTVXQ3Zk9BOHl2NWNubzQ2eG1vakxwX2hYNm5JRUdxYXAtNUNoWU0zcWIzRWRoS1RQcnBmTA?oc=5"
+          },
+          {
+            "label": "Pandaily：Skywork Open-Sources Matrix-Game 4.0, Pairing a Game Engine With a Rea",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzVrXzBWLVJ0YUdrRjlWR1dEZTVidUNNR2ZQRks2cXFMLUN1Y1RITnBxNER6YVgycTQzZ0dQOEZ1clNLZDNGeDFsNG1HY194eFZPc3JVejUzQzlaRHVjc1NhYVVoSllfRC11T1RVaXNaeFl5cmRSM0lMSTVkQXJWbW00ZEV0M1R1X2FjQURxMHNqeVhWbkRIcXgzaGc4MW81MWprLQ?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Liquid AI Releases LFM2.5-24B-A2B: 24B-Parameter MoE Model Runs Agents",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPblJLckpwWnRNWXNCSWtER3poOTdRNko3ME84MDNUQ2NITzJDVnEyQVFnWlExTjdxMUZxTTUxZmx6elpjWHQyRGg5QlRaQjZ0azdjalZMVXJZQkZ4T0RjQ1Nkd3M2b29kLXA1TmJSTnZwVUhEUk1Idm93V1pEd21jellNbWdkWUhiUzdINWF2dXZzenF0RzNnRUtwOU5NNndRUXVBeVRKTGNvVTdJZmZnVXV4bVRSekVDVkN2V0ExM2IyNVhrRHVDZ2lkT205Zw?oc=5"
+          }
+        ],
+        "source": "Pandaily",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjB6YnlaODdMbUwyVnZzeHVNRUo2UFMwRF91bWVfQXdwak1ibUdHYnRoa2xRaTQ4d041TkwxQXlFUE80ZEtqWm1vbVlFeEQ1WEFYc0RxSkItdFdkdFpSVlNobjhTVXQ3Zk9BOHl2NWNubzQ2eG1vakxwX2hYNm5JRUdxYXAtNUNoWU0zcWIzRWRoS1RQcnBmTA?oc=5"
+      },
+      {
+        "slug": "open-source-20261015-auto-2-4a5f68",
+        "title": "Skywork Open-Sourc",
+        "category": "开源项目",
+        "date": "2026-10-15",
+        "summary": "Skywork Open-Sources Matrix-Game 4.0, Pairing a Ga",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Skywork Open-Sourc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Skywork Open-Sources Matrix-Game 4.0, Pairing a Ga",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Skywork Open-Sources Matrix-Game 4.0, Pairing a Ga",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pandaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzVrXzBWLVJ0YUdrRjlWR1dEZTVidUNNR2ZQRks2cXFMLUN1Y1RITnBxNER6YVgycTQzZ0dQOEZ1clNLZDNGeDFsNG1HY194eFZPc3JVejUzQzlaRHVjc1NhYVVoSllfRC11T1RVaXNaeFl5cmRSM0lMSTVkQXJWbW00ZEV0M1R1X2FjQURxMHNqeVhWbkRIcXgzaGc4MW81MWprLQ?oc=5"
+          },
+          {
+            "label": "Pandaily：Ant Group Open-Sources Ling-3.1-flash Weights Under MIT: 560B Total, 2",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcjB6YnlaODdMbUwyVnZzeHVNRUo2UFMwRF91bWVfQXdwak1ibUdHYnRoa2xRaTQ4d041TkwxQXlFUE80ZEtqWm1vbVlFeEQ1WEFYc0RxSkItdFdkdFpSVlNobjhTVXQ3Zk9BOHl2NWNubzQ2eG1vakxwX2hYNm5JRUdxYXAtNUNoWU0zcWIzRWRoS1RQcnBmTA?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Liquid AI Releases LFM2.5-24B-A2B: 24B-Parameter MoE Model Runs Agents",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPblJLckpwWnRNWXNCSWtER3poOTdRNko3ME84MDNUQ2NITzJDVnEyQVFnWlExTjdxMUZxTTUxZmx6elpjWHQyRGg5QlRaQjZ0azdjalZMVXJZQkZ4T0RjQ1Nkd3M2b29kLXA1TmJSTnZwVUhEUk1Idm93V1pEd21jellNbWdkWUhiUzdINWF2dXZzenF0RzNnRUtwOU5NNndRUXVBeVRKTGNvVTdJZmZnVXV4bVRSekVDVkN2V0ExM2IyNVhrRHVDZ2lkT205Zw?oc=5"
+          }
+        ],
+        "source": "Pandaily",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzVrXzBWLVJ0YUdrRjlWR1dEZTVidUNNR2ZQRks2cXFMLUN1Y1RITnBxNER6YVgycTQzZ0dQOEZ1clNLZDNGeDFsNG1HY194eFZPc3JVejUzQzlaRHVjc1NhYVVoSllfRC11T1RVaXNaeFl5cmRSM0lMSTVkQXJWbW00ZEV0M1R1X2FjQURxMHNqeVhWbkRIcXgzaGc4MW81MWprLQ?oc=5"
+      },
       {
         "slug": "open-source-20261014-auto-1-2af03b",
         "title": "NVIDIA RTX Spark L",
