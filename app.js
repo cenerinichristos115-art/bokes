@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261016-auto-1-2157b0",
+        "title": "W.Va. Joins Seven",
+        "category": "AI新闻",
+        "date": "2026-10-16",
+        "summary": "W.Va. Joins Seven States Suing OpenAI The Intellig",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "W.Va. Joins Seven 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "W.Va. Joins Seven States Suing OpenAI The Intellig",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "W.Va. Joins Seven States Suing OpenAI The Intellig",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Intelligencer：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0lfSDl6MXhoc0NjZUZxMUhBMnE2X2xxX3BlT1dILWZGOVduTUJZOFBRZmp1TzNTdW5nSS1COExxdDRHb2pZLWlBZkQwY0Uta09zTk1CMlViN29SNkpMc2V5MmNXd3huYVdjaUFjLWNwWGhmS2FkMGw1aFNxWUNDd3M0RWxiNFcxRnNmOW03WU5QZXBxQXlVazRXdTA1Zw?oc=5"
+          },
+          {
+            "label": "Unmanned Systems Technology：Trillium Engineering Launches Edge AI Modules for Overland & Maritime ",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHF2VXhvWVhBMGdCV1R3Q0dYS3RfRk05Wlc2UjZYM2ozLU1heE83eWU2RVhySGl5UjFaRnZNM0NOeXBLTXJxWGRMMWt2eVMxNWhLY3FVS2pfUXV4VTltSGxMSy04aVFoTzd5NUZmZWhfX0NYblpSb0pmNzRKN1M3V20yZTBPSWpiMjR4VGlOUzQ2Z2U1OWdMdWNUYmpKUHNnQjBwbmNDOFZibExpdkFrRjAzTWRoQWNGdDJ3ZnpXQU11YWsxQ202cFJFbzNyQQ?oc=5"
+          },
+          {
+            "label": "新浪网：袁东风：无线通信构筑数字孪生实时交互核心底座 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MVVHWGZvcDlOTkQ0VTdRV3hJZVJBXzl6VzVNY3JsSUpJLWZ6Sk42S1c2azFyUDVpcUI0M2JJRXFJT0lXNVJsMFJDT3NlM2tkZ3FiZFBMVkhLcEFBYkpPTC1LbF9YZzJUbnU5aHNRWmJwZw?oc=5"
+          }
+        ],
+        "source": "The Intelligencer",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0lfSDl6MXhoc0NjZUZxMUhBMnE2X2xxX3BlT1dILWZGOVduTUJZOFBRZmp1TzNTdW5nSS1COExxdDRHb2pZLWlBZkQwY0Uta09zTk1CMlViN29SNkpMc2V5MmNXd3huYVdjaUFjLWNwWGhmS2FkMGw1aFNxWUNDd3M0RWxiNFcxRnNmOW03WU5QZXBxQXlVazRXdTA1Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261016-auto-2-4b504f",
+        "title": "Trillium Engineeri",
+        "category": "AI新闻",
+        "date": "2026-10-16",
+        "summary": "Trillium Engineering Launches Edge AI Modules for",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Trillium Engineeri 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Trillium Engineering Launches Edge AI Modules for",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Trillium Engineering Launches Edge AI Modules for",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Unmanned Systems Technology：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHF2VXhvWVhBMGdCV1R3Q0dYS3RfRk05Wlc2UjZYM2ozLU1heE83eWU2RVhySGl5UjFaRnZNM0NOeXBLTXJxWGRMMWt2eVMxNWhLY3FVS2pfUXV4VTltSGxMSy04aVFoTzd5NUZmZWhfX0NYblpSb0pmNzRKN1M3V20yZTBPSWpiMjR4VGlOUzQ2Z2U1OWdMdWNUYmpKUHNnQjBwbmNDOFZibExpdkFrRjAzTWRoQWNGdDJ3ZnpXQU11YWsxQ202cFJFbzNyQQ?oc=5"
+          },
+          {
+            "label": "The Intelligencer：W.Va. Joins Seven States Suing OpenAI - The Intelligencer",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0lfSDl6MXhoc0NjZUZxMUhBMnE2X2xxX3BlT1dILWZGOVduTUJZOFBRZmp1TzNTdW5nSS1COExxdDRHb2pZLWlBZkQwY0Uta09zTk1CMlViN29SNkpMc2V5MmNXd3huYVdjaUFjLWNwWGhmS2FkMGw1aFNxWUNDd3M0RWxiNFcxRnNmOW03WU5QZXBxQXlVazRXdTA1Zw?oc=5"
+          },
+          {
+            "label": "新浪网：袁东风：无线通信构筑数字孪生实时交互核心底座 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MVVHWGZvcDlOTkQ0VTdRV3hJZVJBXzl6VzVNY3JsSUpJLWZ6Sk42S1c2azFyUDVpcUI0M2JJRXFJT0lXNVJsMFJDT3NlM2tkZ3FiZFBMVkhLcEFBYkpPTC1LbF9YZzJUbnU5aHNRWmJwZw?oc=5"
+          }
+        ],
+        "source": "Unmanned Systems Technology",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHF2VXhvWVhBMGdCV1R3Q0dYS3RfRk05Wlc2UjZYM2ozLU1heE83eWU2RVhySGl5UjFaRnZNM0NOeXBLTXJxWGRMMWt2eVMxNWhLY3FVS2pfUXV4VTltSGxMSy04aVFoTzd5NUZmZWhfX0NYblpSb0pmNzRKN1M3V20yZTBPSWpiMjR4VGlOUzQ2Z2U1OWdMdWNUYmpKUHNnQjBwbmNDOFZibExpdkFrRjAzTWRoQWNGdDJ3ZnpXQU11YWsxQ202cFJFbzNyQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261015-auto-1-152960",
         "title": "“AI教父”怒批特朗普：他对AI“几",
         "category": "AI新闻",
@@ -22903,6 +23019,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261016-auto-1-de96bf",
+        "title": "莫待“AI提示词”成为白纸黑字 -",
+        "category": "AI使用教程",
+        "date": "2026-10-16",
+        "summary": "莫待“AI提示词”成为白纸黑字 搜狐",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "莫待“AI提示词”成为白纸黑字 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "莫待“AI提示词”成为白纸黑字 搜狐",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "莫待“AI提示词”成为白纸黑字 搜狐",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlVSSi1hdDhvbXNlckVXbVNyNlZwTDlHN0tyVEEwRnZ6QnpQVU5VV1p6MWNHZGhiUWNIUWF0Y0lFeEdmVEw0cEgzUmFqZmR4aUNNVXF6MWFubkdGRWN6UFhiMHREdVZBenFZdGl1dDRQZWVfZVh6LVNwV2IySE9tQnlHemhZbTZLb0VtdQ?oc=5"
+          },
+          {
+            "label": "科技行者：让AI交易员学会反思：EvolveTrade如何用经验改写自己的操作手册 - 科技行者",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CR3VVQW5qNlh3R3BtaHVvS3dFY19JYklkaXh0d1FpcXoyX2UxaGdWUWxoWjZKTFdmVDR6aGpFRnR0cVFQX2lfV0V0ZVhTMzV2RHlIWnlUMkNzT3BTeTNr?oc=5"
+          },
+          {
+            "label": "中华网：有人用AI复刻出Adobe全家桶 免费开源引发热议 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRnRHRFQ0MktucmE0OG5sQTE5bWpxS0FhRjhUQTdIcmljY3Bwejc4Ynpqb1VwZUpmWTRMbE1LcUs2NFd1T2l0M0tSVEM5b2ZPUHppTFBCbENqNVFHdll4MmhNbEEtZ29kdVNSc1RaTzA?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlVSSi1hdDhvbXNlckVXbVNyNlZwTDlHN0tyVEEwRnZ6QnpQVU5VV1p6MWNHZGhiUWNIUWF0Y0lFeEdmVEw0cEgzUmFqZmR4aUNNVXF6MWFubkdGRWN6UFhiMHREdVZBenFZdGl1dDRQZWVfZVh6LVNwV2IySE9tQnlHemhZbTZLb0VtdQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261015-auto-1-0c3688",
         "title": "Ninehire发布招聘领域生成式",
         "category": "AI使用教程",
@@ -33777,6 +33951,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261016-auto-1-1524a4",
+        "title": "Meta releases Muse",
+        "category": "开源项目",
+        "date": "2026-10-16",
+        "summary": "Meta releases Muse Spark Open AI model with 816 bi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta releases Muse 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta releases Muse Spark Open AI model with 816 bi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta releases Muse Spark Open AI model with 816 bi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Times of India：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLWpwWHlXSExVNGlXRE8wYnNGZndES3NLTF9BTGdWY25uVFQ1amF2dVJod3pTOWRnNzdfRDR0X3VtbDF3QTJtbTRZNXVsa3NZMFMwdlFuZF9ZNEZIdnhzRS1heE9PRHFiTFdSUVFLcW0zRnNFZGZxcThjbnNRYlRHVURIbktGSndoSE95UlBSZllOVHJCczRjTG1QVF9nZjh1blFwRnYyWnZVZG1zMnpjR2tyZkxieUxobWYyaV83R2FXajc1d2lFQlZKY0tObnhyZWtQY1g2WXZ3dzUwYll5WU5MeWpXNm1KRjFhTUJjTGVudFNTbjBnTmFNeWF6WUpwcmpoMHZiOHJKSlHSAZACQVVfeXFMUFQtdHI5RXdZbTJHdEdkTjlNZzcyNFBVM0l3ZDJwUVZvTlprV0d4WmtpYnFDc3U3ek9sNm9Ddk0wYU1hUnY4LXNOUmxRUTFTemlfbUpWQWYxR3V6X3g0RGFWQ0pSYTkwUnJSd0JOcm5ZMG9wVmZ4QkVYUmxjNEVyRlZzXzVVUFBHNEZfcDFNeHpBNWFxcERMWkxYWl90MHhxZXpNZy1pY0dZdkxPWmJBTXgxYnlOVWpfTmNqNmxKQzFZeTQ2S19pcmlqM1Y4b25xUWNyVEJ6TGdxZVVIcWM4RWxPUHZ1MENYSlR3X01LMEFMQk53RWxVd2pSOGl2M0tuWC1GQ01oSHRSNWh4SWxDd0E?oc=5"
+          },
+          {
+            "label": "DagangNews：Phancy and RiseUnion Launch ModelSphere, an Open-Source, One-Stop Prod",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0x1RlZCMjVzZk1GOUdrck1fbVZiLWtuLXl6WFhYaE5oNnZtejM4OWlrS29Rcm5meWNBNGdybG40cEJEZGFZQnl2NDZTS3NUQzE5cUotSWVHdWdVbnR6Q1VUY21qZVZpZUNpTnRIbDdReHNRdkMzaGRzZDIwRVpmdzJkb1FFTnVsY2hHMl9EVjlld2QtcTZOWGFia09zdE94d3NlNXk2aXY4a2hCcW9aZVRTczJCVWJLcl81LWdBWThLQ2JhQ09ZMjRtTm1BdjdPS0RQZ0hScmlZZ19KLWJKNjVodw?oc=5"
+          },
+          {
+            "label": "https://tech-insider.org/：Liquid AI LFM2.5-24B-A2B: Specs, Benchmarks vs Qwen - https://tech-ins",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qVWlqTXFBalVMUFlHSG5WUExaWmp4dzJ4M0IwMllzX25vRm8wek9GZVJiaFEwdzJiMG9QeE5nc19NRjFTTy1ReS1KTzRmZFdwYlZJMzU5XzQwRExHVml3VDczX1ZNYXlaTDkzclVZMA?oc=5"
+          }
+        ],
+        "source": "The Times of India",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLWpwWHlXSExVNGlXRE8wYnNGZndES3NLTF9BTGdWY25uVFQ1amF2dVJod3pTOWRnNzdfRDR0X3VtbDF3QTJtbTRZNXVsa3NZMFMwdlFuZF9ZNEZIdnhzRS1heE9PRHFiTFdSUVFLcW0zRnNFZGZxcThjbnNRYlRHVURIbktGSndoSE95UlBSZllOVHJCczRjTG1QVF9nZjh1blFwRnYyWnZVZG1zMnpjR2tyZkxieUxobWYyaV83R2FXajc1d2lFQlZKY0tObnhyZWtQY1g2WXZ3dzUwYll5WU5MeWpXNm1KRjFhTUJjTGVudFNTbjBnTmFNeWF6WUpwcmpoMHZiOHJKSlHSAZACQVVfeXFMUFQtdHI5RXdZbTJHdEdkTjlNZzcyNFBVM0l3ZDJwUVZvTlprV0d4WmtpYnFDc3U3ek9sNm9Ddk0wYU1hUnY4LXNOUmxRUTFTemlfbUpWQWYxR3V6X3g0RGFWQ0pSYTkwUnJSd0JOcm5ZMG9wVmZ4QkVYUmxjNEVyRlZzXzVVUFBHNEZfcDFNeHpBNWFxcERMWkxYWl90MHhxZXpNZy1pY0dZdkxPWmJBTXgxYnlOVWpfTmNqNmxKQzFZeTQ2S19pcmlqM1Y4b25xUWNyVEJ6TGdxZVVIcWM4RWxPUHZ1MENYSlR3X01LMEFMQk53RWxVd2pSOGl2M0tuWC1GQ01oSHRSNWh4SWxDd0E?oc=5"
+      },
+      {
+        "slug": "open-source-20261016-auto-2-ffc460",
+        "title": "Phancy and RiseUni",
+        "category": "开源项目",
+        "date": "2026-10-16",
+        "summary": "Phancy and RiseUnion Launch ModelSphere, an Open-S",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Phancy and RiseUni 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Phancy and RiseUnion Launch ModelSphere, an Open-S",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Phancy and RiseUnion Launch ModelSphere, an Open-S",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DagangNews：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0x1RlZCMjVzZk1GOUdrck1fbVZiLWtuLXl6WFhYaE5oNnZtejM4OWlrS29Rcm5meWNBNGdybG40cEJEZGFZQnl2NDZTS3NUQzE5cUotSWVHdWdVbnR6Q1VUY21qZVZpZUNpTnRIbDdReHNRdkMzaGRzZDIwRVpmdzJkb1FFTnVsY2hHMl9EVjlld2QtcTZOWGFia09zdE94d3NlNXk2aXY4a2hCcW9aZVRTczJCVWJLcl81LWdBWThLQ2JhQ09ZMjRtTm1BdjdPS0RQZ0hScmlZZ19KLWJKNjVodw?oc=5"
+          },
+          {
+            "label": "The Times of India：Meta releases Muse Spark Open AI model with 816 billion parameters; ru",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLWpwWHlXSExVNGlXRE8wYnNGZndES3NLTF9BTGdWY25uVFQ1amF2dVJod3pTOWRnNzdfRDR0X3VtbDF3QTJtbTRZNXVsa3NZMFMwdlFuZF9ZNEZIdnhzRS1heE9PRHFiTFdSUVFLcW0zRnNFZGZxcThjbnNRYlRHVURIbktGSndoSE95UlBSZllOVHJCczRjTG1QVF9nZjh1blFwRnYyWnZVZG1zMnpjR2tyZkxieUxobWYyaV83R2FXajc1d2lFQlZKY0tObnhyZWtQY1g2WXZ3dzUwYll5WU5MeWpXNm1KRjFhTUJjTGVudFNTbjBnTmFNeWF6WUpwcmpoMHZiOHJKSlHSAZACQVVfeXFMUFQtdHI5RXdZbTJHdEdkTjlNZzcyNFBVM0l3ZDJwUVZvTlprV0d4WmtpYnFDc3U3ek9sNm9Ddk0wYU1hUnY4LXNOUmxRUTFTemlfbUpWQWYxR3V6X3g0RGFWQ0pSYTkwUnJSd0JOcm5ZMG9wVmZ4QkVYUmxjNEVyRlZzXzVVUFBHNEZfcDFNeHpBNWFxcERMWkxYWl90MHhxZXpNZy1pY0dZdkxPWmJBTXgxYnlOVWpfTmNqNmxKQzFZeTQ2S19pcmlqM1Y4b25xUWNyVEJ6TGdxZVVIcWM4RWxPUHZ1MENYSlR3X01LMEFMQk53RWxVd2pSOGl2M0tuWC1GQ01oSHRSNWh4SWxDd0E?oc=5"
+          },
+          {
+            "label": "https://tech-insider.org/：Liquid AI LFM2.5-24B-A2B: Specs, Benchmarks vs Qwen - https://tech-ins",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qVWlqTXFBalVMUFlHSG5WUExaWmp4dzJ4M0IwMllzX25vRm8wek9GZVJiaFEwdzJiMG9QeE5nc19NRjFTTy1ReS1KTzRmZFdwYlZJMzU5XzQwRExHVml3VDczX1ZNYXlaTDkzclVZMA?oc=5"
+          }
+        ],
+        "source": "DagangNews",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0x1RlZCMjVzZk1GOUdrck1fbVZiLWtuLXl6WFhYaE5oNnZtejM4OWlrS29Rcm5meWNBNGdybG40cEJEZGFZQnl2NDZTS3NUQzE5cUotSWVHdWdVbnR6Q1VUY21qZVZpZUNpTnRIbDdReHNRdkMzaGRzZDIwRVpmdzJkb1FFTnVsY2hHMl9EVjlld2QtcTZOWGFia09zdE94d3NlNXk2aXY4a2hCcW9aZVRTczJCVWJLcl81LWdBWThLQ2JhQ09ZMjRtTm1BdjdPS0RQZ0hScmlZZ19KLWJKNjVodw?oc=5"
+      },
       {
         "slug": "open-source-20261015-auto-1-2381f7",
         "title": "Ant Group Open-Sou",
