@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261017-auto-1-32bee2",
+        "title": "AI赋能法治新生态，第二届滴水湖法律",
+        "category": "AI新闻",
+        "date": "2026-10-17",
+        "summary": "AI赋能法治新生态，第二届滴水湖法律科技大会在临港启幕|上观新闻|上海市|法律服务|服务|片区 fi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI赋能法治新生态，第二届滴水湖法律 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI赋能法治新生态，第二届滴水湖法律科技大会在临港启幕|上观新闻|上海市|法律服务|服务|片区 fi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI赋能法治新生态，第二届滴水湖法律科技大会在临港启幕|上观新闻|上海市|法律服务|服务|片区 fi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "finance.sina.com.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ScUtfdVNjMndHMnIyQ2RLOUtXX2JFd1Q5SW14em85NXZMSVNtQnJVWTRaTTZEd3gzX2h6SXlKVkpud1A1a2tQeFpqTW9JMGRWSF9ZRk5HdDNDOHRxQUh0SjJFZHZEWWJRV0JhdWVNamNDV3dYYVpucw?oc=5"
+          },
+          {
+            "label": "搜狐：百度超级智能体“西进”：一场大会如何搅动西北AI生态 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWNkTm5SN1JodWw5SV9RUTJWWU1TV3gxbDRiTFZnOEZUc1FvZm5odVFOM0FBa01ER1NQN2ZUTmthX1VIS2s5T09peXhvd1lBdzVxdzdldjNHSzJSMS1idDVkc1hsUDgyV0haNVlFUmlydnVKdVRqbnEwZTFKcHUzMGg1aFE5aXpN?oc=5"
+          },
+          {
+            "label": "智慧城市行业分析：面向智能体能力构建的高质量数据集建设指南（2026年）：信通院联合联想 - 智慧城市行业分析",
+            "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMnAyUEd2RGpzWWxDMWZpeXZJYkxPVHdNQUE1b3EyYVFqbjlwWmhOdjVKRVIyY0tWRXUyX2JZOHM3eGdZQzM3dXFDcS1IYWhCVmZJTUZuZ292SURXYmJjZG5Zd0ZWZDNtN3Vib3BfdmxoRWZXTFNtdWtRaGluLUhZRzZ3QlhKMm0tdUpXS01CaVRSYTYyUUhndlU3eE5PTklaZnFIRG5hZHVkWFlMeVpoZkc2RVY2dkF1ck5HWWlqZ2pTVVF4ZWZTWTQzZ3YxM1F5RUlpM0dJVlFPV2hiZ3ZvX0xtSWpCWFJ1SldDQ2Y1cm53VWkxOVFaQnFPUklubURiWEpKOFhSOWRSZ01jb29TaEJXV082TG9jM2J1eUhMTEI1c2xsaXJtMnZWdmZiMjEySFE4dVVmemg5TlJhR1FrMThR?oc=5"
+          }
+        ],
+        "source": "finance.sina.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ScUtfdVNjMndHMnIyQ2RLOUtXX2JFd1Q5SW14em85NXZMSVNtQnJVWTRaTTZEd3gzX2h6SXlKVkpud1A1a2tQeFpqTW9JMGRWSF9ZRk5HdDNDOHRxQUh0SjJFZHZEWWJRV0JhdWVNamNDV3dYYVpucw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261017-auto-2-41e4ca",
+        "title": "百度超级智能体“西进”：一场大会如何",
+        "category": "AI新闻",
+        "date": "2026-10-17",
+        "summary": "百度超级智能体“西进”：一场大会如何搅动西北AI生态 搜狐",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "百度超级智能体“西进”：一场大会如何 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "百度超级智能体“西进”：一场大会如何搅动西北AI生态 搜狐",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "百度超级智能体“西进”：一场大会如何搅动西北AI生态 搜狐",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWNkTm5SN1JodWw5SV9RUTJWWU1TV3gxbDRiTFZnOEZUc1FvZm5odVFOM0FBa01ER1NQN2ZUTmthX1VIS2s5T09peXhvd1lBdzVxdzdldjNHSzJSMS1idDVkc1hsUDgyV0haNVlFUmlydnVKdVRqbnEwZTFKcHUzMGg1aFE5aXpN?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：AI赋能法治新生态，第二届滴水湖法律科技大会在临港启幕|上观新闻|上海市|法律服务|服务|片区 - finance.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ScUtfdVNjMndHMnIyQ2RLOUtXX2JFd1Q5SW14em85NXZMSVNtQnJVWTRaTTZEd3gzX2h6SXlKVkpud1A1a2tQeFpqTW9JMGRWSF9ZRk5HdDNDOHRxQUh0SjJFZHZEWWJRV0JhdWVNamNDV3dYYVpucw?oc=5"
+          },
+          {
+            "label": "智慧城市行业分析：面向智能体能力构建的高质量数据集建设指南（2026年）：信通院联合联想 - 智慧城市行业分析",
+            "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMnAyUEd2RGpzWWxDMWZpeXZJYkxPVHdNQUE1b3EyYVFqbjlwWmhOdjVKRVIyY0tWRXUyX2JZOHM3eGdZQzM3dXFDcS1IYWhCVmZJTUZuZ292SURXYmJjZG5Zd0ZWZDNtN3Vib3BfdmxoRWZXTFNtdWtRaGluLUhZRzZ3QlhKMm0tdUpXS01CaVRSYTYyUUhndlU3eE5PTklaZnFIRG5hZHVkWFlMeVpoZkc2RVY2dkF1ck5HWWlqZ2pTVVF4ZWZTWTQzZ3YxM1F5RUlpM0dJVlFPV2hiZ3ZvX0xtSWpCWFJ1SldDQ2Y1cm53VWkxOVFaQnFPUklubURiWEpKOFhSOWRSZ01jb29TaEJXV082TG9jM2J1eUhMTEI1c2xsaXJtMnZWdmZiMjEySFE4dVVmemg5TlJhR1FrMThR?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWNkTm5SN1JodWw5SV9RUTJWWU1TV3gxbDRiTFZnOEZUc1FvZm5odVFOM0FBa01ER1NQN2ZUTmthX1VIS2s5T09peXhvd1lBdzVxdzdldjNHSzJSMS1idDVkc1hsUDgyV0haNVlFUmlydnVKdVRqbnEwZTFKcHUzMGg1aFE5aXpN?oc=5"
+      },
+      {
         "slug": "ai-news-20261016-auto-1-2157b0",
         "title": "W.Va. Joins Seven",
         "category": "AI新闻",
@@ -23019,6 +23135,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261017-auto-1-0ecd60",
+        "title": "MOSS-Image 与 FLUX",
+        "category": "AI使用教程",
+        "date": "2026-10-17",
+        "summary": "MOSS-Image 与 FLUX 3：将方框放入提示词的两种方式 OrcaRouter",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MOSS-Image 与 FLUX 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "MOSS-Image 与 FLUX 3：将方框放入提示词的两种方式 OrcaRouter",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MOSS-Image 与 FLUX 3：将方框放入提示词的两种方式 OrcaRouter",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OrcaRouter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2X3pOSVRkYVJjaXEzRXVONm85MGZjX1RkOUV0NlI4T1ZJWWZBZHJkdUNpaUphTWpLR2tlaldJV3cwa05SbmJyUW1leEZlclBhWEFjV2daSE9XX3ZhMUxUb0JHYWlvNGZY?oc=5"
+          },
+          {
+            "label": "OrcaRouter：MOSS-Image：OpenMOSS 的 5B DiT 读取布局 JSON 提示词 - OrcaRouter",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFE0WkY1YlFaRUpUV0xZVldGeXNWLWJvUVdYcnRuN0swVE95OG1tOHBqdWxYWFBHVk55SEIxYXpHRzlqNHI5WVVUaDJhTTVEd3QzUVJveUtOdGV3WlphUDBsNXFvTzVNb2ZIMUNCaEhPWVEyTURqOUNleHhVeDVZTXREMA?oc=5"
+          },
+          {
+            "label": "www.ababnews.com：日本开发者发布120项AI动画术语库 - www.ababnews.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nU1NYYWlzbUNYejFDUVlMdDVhSUo2YW95VXUxbDh3dUlHd3F1MWtrNUZ1LURESkQyNGdOZ1JLbkRFTFFBUEpmbmMwazJXdm1BQVMwNlhfTGQ0eEJsNk5odVk3Vi1MM253blVpT2VJRjNlbG9t?oc=5"
+          }
+        ],
+        "source": "OrcaRouter",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2X3pOSVRkYVJjaXEzRXVONm85MGZjX1RkOUV0NlI4T1ZJWWZBZHJkdUNpaUphTWpLR2tlaldJV3cwa05SbmJyUW1leEZlclBhWEFjV2daSE9XX3ZhMUxUb0JHYWlvNGZY?oc=5"
+      },
+      {
         "slug": "ai-guide-20261016-auto-1-de96bf",
         "title": "莫待“AI提示词”成为白纸黑字 -",
         "category": "AI使用教程",
@@ -33951,6 +34125,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261017-auto-1-a6f2b1",
+        "title": "Meta introduces it",
+        "category": "开源项目",
+        "date": "2026-10-17",
+        "summary": "Meta introduces its most capable US Open-Weight mo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta introduces it 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Meta introduces its most capable US Open-Weight mo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta introduces its most capable US Open-Weight mo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Tech Outlook：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWk9BS29yUTMzbFRBZ2k0NGhGTHBJck5ZX3RXVGtXTEpsTkJKekVnMkloYndzWVlJcmhRTU1Kd0ZhVThjaE9QVTg0ell5WFB3NUROT1FMMlJKZTRmVFVOYTV1X1ZnZGU5ajU1N2l5QTAxTmpoMWthWVRVTWdtME9kTWZsaU1EQWctMDBpQjNKUXQ4V05pRVNzRExNT3AxT0tmRk94ZHhaUWdCcm1yQlJ4bmxMQ0V4MW1CcXVNaS1DODRPQXd6RUxDTFZOWmZvcUc3?oc=5"
+          },
+          {
+            "label": "https://tech-insider.org/：OpenCode 2.0: CLI Agent Becomes a Background Service [2026] - https://",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96alZTZDdQenRIQUV1RWktNGRQWm1yTlBJUjVUbDJadnlSMENWbkp5dGNtbEUyVjdfR1M1dk9pNEJwTEVYMDdWZXVlQ19JMUFiYmJuMktQcEZBSjZaUlRyVjNXMy05YmxHYmU4cVVmazExdm9IRG9VaA?oc=5"
+          },
+          {
+            "label": "Vocal：Beyond the App: Meta Opens Muse to Makers Hardware, Home Links, and a ",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXdyb1hOVUtUUVNTVkVNeDJEUEpKZEZORnVtXy1IUEJ0bGQwSEg1MUlvYXVEOUNtajdmSHc4YlF5aFU4bHFvMlpENm9naWdmY2x3dk5nTG0xRHNacHZLUksyTjZuTkF0N2g2N1BIZldwclpzNGRrdF9kUkkxdHRsQkZMNFl1N3RrcmdhNE5HM1JDSC1OSl9UOGxJaUpWR3lLXzZQb0pRVFB2bVFx?oc=5"
+          }
+        ],
+        "source": "The Tech Outlook",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWk9BS29yUTMzbFRBZ2k0NGhGTHBJck5ZX3RXVGtXTEpsTkJKekVnMkloYndzWVlJcmhRTU1Kd0ZhVThjaE9QVTg0ell5WFB3NUROT1FMMlJKZTRmVFVOYTV1X1ZnZGU5ajU1N2l5QTAxTmpoMWthWVRVTWdtME9kTWZsaU1EQWctMDBpQjNKUXQ4V05pRVNzRExNT3AxT0tmRk94ZHhaUWdCcm1yQlJ4bmxMQ0V4MW1CcXVNaS1DODRPQXd6RUxDTFZOWmZvcUc3?oc=5"
+      },
+      {
+        "slug": "open-source-20261017-auto-2-cf30f9",
+        "title": "OpenCode 2.0: CLI",
+        "category": "开源项目",
+        "date": "2026-10-17",
+        "summary": "OpenCode 2.0: CLI Agent Becomes a Background Servi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenCode 2.0: CLI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenCode 2.0: CLI Agent Becomes a Background Servi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenCode 2.0: CLI Agent Becomes a Background Servi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "https://tech-insider.org/：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96alZTZDdQenRIQUV1RWktNGRQWm1yTlBJUjVUbDJadnlSMENWbkp5dGNtbEUyVjdfR1M1dk9pNEJwTEVYMDdWZXVlQ19JMUFiYmJuMktQcEZBSjZaUlRyVjNXMy05YmxHYmU4cVVmazExdm9IRG9VaA?oc=5"
+          },
+          {
+            "label": "The Tech Outlook：Meta introduces its most capable US Open-Weight model to date: Muse Sp",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWk9BS29yUTMzbFRBZ2k0NGhGTHBJck5ZX3RXVGtXTEpsTkJKekVnMkloYndzWVlJcmhRTU1Kd0ZhVThjaE9QVTg0ell5WFB3NUROT1FMMlJKZTRmVFVOYTV1X1ZnZGU5ajU1N2l5QTAxTmpoMWthWVRVTWdtME9kTWZsaU1EQWctMDBpQjNKUXQ4V05pRVNzRExNT3AxT0tmRk94ZHhaUWdCcm1yQlJ4bmxMQ0V4MW1CcXVNaS1DODRPQXd6RUxDTFZOWmZvcUc3?oc=5"
+          },
+          {
+            "label": "Vocal：Beyond the App: Meta Opens Muse to Makers Hardware, Home Links, and a ",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXdyb1hOVUtUUVNTVkVNeDJEUEpKZEZORnVtXy1IUEJ0bGQwSEg1MUlvYXVEOUNtajdmSHc4YlF5aFU4bHFvMlpENm9naWdmY2x3dk5nTG0xRHNacHZLUksyTjZuTkF0N2g2N1BIZldwclpzNGRrdF9kUkkxdHRsQkZMNFl1N3RrcmdhNE5HM1JDSC1OSl9UOGxJaUpWR3lLXzZQb0pRVFB2bVFx?oc=5"
+          }
+        ],
+        "source": "https://tech-insider.org/",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96alZTZDdQenRIQUV1RWktNGRQWm1yTlBJUjVUbDJadnlSMENWbkp5dGNtbEUyVjdfR1M1dk9pNEJwTEVYMDdWZXVlQ19JMUFiYmJuMktQcEZBSjZaUlRyVjNXMy05YmxHYmU4cVVmazExdm9IRG9VaA?oc=5"
+      },
       {
         "slug": "open-source-20261016-auto-1-1524a4",
         "title": "Meta releases Muse",
