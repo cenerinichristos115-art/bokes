@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261018-auto-1-b25865",
+        "title": "英伟达市值，9天蒸发4万亿元 - 新",
+        "category": "AI新闻",
+        "date": "2026-10-18",
+        "summary": "英伟达市值，9天蒸发4万亿元 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英伟达市值，9天蒸发4万亿元 - 新 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "英伟达市值，9天蒸发4万亿元 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英伟达市值，9天蒸发4万亿元 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDNmTnhGeTI3SGtxQTdjcDdKUEFZS2ZsTzI3NmsxV0pCR3RqdUJ1Z2VhbkJlRmM0aGh2WllVVDF1Vi1PamtrTzhGa0dDQjRLejl6VGJfamVnTXMtTTlsc2FfbzVNbHptajNlWjJFaEl2YXRoZkpEcDV1bEsxNFNUSTF3?oc=5"
+          },
+          {
+            "label": "搜狐：最新发展报告：破解发展瓶颈，AI赋能传统医学技术落地提速 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFRBMVd6bkV5QVpMSVh0NHh3alBqNXhHUTh4Qnl1bjRLRGFHYlNpR2NPdGhYTmZXbVBtZUczNDVYbUt0Yzhvd3NMdTNtZ1NiR2t5by16RzdfczA1Z3k4eG8tV3B3NHNwTHFMaEpfNTc2RUF5OGVEWnZlTklZbVdod0t5WFBhOW5s?oc=5"
+          },
+          {
+            "label": "eNews Park Forest：Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy a",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm05TllFYnVxQ1dETFYtb2pjVlBORXJ0V1NGc25RbUYycDFjNEo1VDc3UHg3UmpyQkRyRjh3RlV4cGQtNFlxbTV6MmxrNkdCWVJ3SnY5MVE4d0ZiQkowTWk1LVFlazJWX19UVWw4c1dGd2hJMjRZVUlybENaaHZCczFwaFBWVEdrVFUyMXBqVkRVQ0h0QVI3M3F5cHhJYnlaTDBBRzlDUHFuZUhfUHkzZkd6NUo4ZHVuczRwX1ZMcVVyMTFkSHFvRDc4dnFodHBocFRzdFlWOWhncFlvY2E2cFJlMzJzUQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDNmTnhGeTI3SGtxQTdjcDdKUEFZS2ZsTzI3NmsxV0pCR3RqdUJ1Z2VhbkJlRmM0aGh2WllVVDF1Vi1PamtrTzhGa0dDQjRLejl6VGJfamVnTXMtTTlsc2FfbzVNbHptajNlWjJFaEl2YXRoZkpEcDV1bEsxNFNUSTF3?oc=5"
+      },
+      {
+        "slug": "ai-news-20261018-auto-2-c1cf27",
+        "title": "最新发展报告：破解发展瓶颈，AI赋能",
+        "category": "AI新闻",
+        "date": "2026-10-18",
+        "summary": "最新发展报告：破解发展瓶颈，AI赋能传统医学技术落地提速 搜狐",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "最新发展报告：破解发展瓶颈，AI赋能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "最新发展报告：破解发展瓶颈，AI赋能传统医学技术落地提速 搜狐",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "最新发展报告：破解发展瓶颈，AI赋能传统医学技术落地提速 搜狐",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFRBMVd6bkV5QVpMSVh0NHh3alBqNXhHUTh4Qnl1bjRLRGFHYlNpR2NPdGhYTmZXbVBtZUczNDVYbUt0Yzhvd3NMdTNtZ1NiR2t5by16RzdfczA1Z3k4eG8tV3B3NHNwTHFMaEpfNTc2RUF5OGVEWnZlTklZbVdod0t5WFBhOW5s?oc=5"
+          },
+          {
+            "label": "新浪网：英伟达市值，9天蒸发4万亿元 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSDNmTnhGeTI3SGtxQTdjcDdKUEFZS2ZsTzI3NmsxV0pCR3RqdUJ1Z2VhbkJlRmM0aGh2WllVVDF1Vi1PamtrTzhGa0dDQjRLejl6VGJfamVnTXMtTTlsc2FfbzVNbHptajNlWjJFaEl2YXRoZkpEcDV1bEsxNFNUSTF3?oc=5"
+          },
+          {
+            "label": "eNews Park Forest：Park Forest to Host Cybersecurity Seminar Focused on Digital Privacy a",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQm05TllFYnVxQ1dETFYtb2pjVlBORXJ0V1NGc25RbUYycDFjNEo1VDc3UHg3UmpyQkRyRjh3RlV4cGQtNFlxbTV6MmxrNkdCWVJ3SnY5MVE4d0ZiQkowTWk1LVFlazJWX19UVWw4c1dGd2hJMjRZVUlybENaaHZCczFwaFBWVEdrVFUyMXBqVkRVQ0h0QVI3M3F5cHhJYnlaTDBBRzlDUHFuZUhfUHkzZkd6NUo4ZHVuczRwX1ZMcVVyMTFkSHFvRDc4dnFodHBocFRzdFlWOWhncFlvY2E2cFJlMzJzUQ?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFRBMVd6bkV5QVpMSVh0NHh3alBqNXhHUTh4Qnl1bjRLRGFHYlNpR2NPdGhYTmZXbVBtZUczNDVYbUt0Yzhvd3NMdTNtZ1NiR2t5by16RzdfczA1Z3k4eG8tV3B3NHNwTHFMaEpfNTc2RUF5OGVEWnZlTklZbVdod0t5WFBhOW5s?oc=5"
+      },
+      {
         "slug": "ai-news-20261017-auto-1-32bee2",
         "title": "AI赋能法治新生态，第二届滴水湖法律",
         "category": "AI新闻",
@@ -23135,6 +23251,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261018-auto-1-2c0bcc",
+        "title": "耗时一个多月，泰安宁阳一村干部靠短视",
+        "category": "AI使用教程",
+        "date": "2026-10-18",
+        "summary": "耗时一个多月，泰安宁阳一村干部靠短视频教程和AI，“手搓”出村务管理系统 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "耗时一个多月，泰安宁阳一村干部靠短视 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "耗时一个多月，泰安宁阳一村干部靠短视频教程和AI，“手搓”出村务管理系统 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "耗时一个多月，泰安宁阳一村干部靠短视频教程和AI，“手搓”出村务管理系统 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkkzMm9IOVYyc3hfdm5KNXRwR2RDRzVuUUgxdXhJOUlkNUxXbVJTN1BBM0xvMlVkS21PN2c5TXA0Ti01UUFuRU9BekI3U3AzQUlKMHRQcS1XeWpacUVIbDBfSndabXhMVlBWZ3h0MDRTekMzMUVvUUJXRGkwd1ZaZjk3RVNHWlRTQnNaeHp6NA?oc=5"
+          },
+          {
+            "label": "CSDN：普通人也能玩转AI？扣子模型聚合平台接入实操教程来了 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QOUo4Z3VPSS0xajNUVWRrTG5KUWhLZm9OWGVESFhqbThKNDcwNlJBVkppdExGbTVKdllTbHhUcjhmc3AzVmhvRjJ1LUpSVnhrY05jVWNoOFBkSGtTd0E?oc=5"
+          },
+          {
+            "label": "Unisba Media：DeepSeek V4.1 Flash 越狱成功！Cherry Studio + API，关闭思考才稳，提示词免费分享！ Jordyn Wo",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jc1ZOeVJOVFlXSjBXTjVxbVlFSEhmakxDVEFzblZXTjN2WTY2c2ZqUWpjMmRMVTU5RnBRbW9HX2N6R01PMVR5NUFwS0p4NGVVZk9TclRJZWt6cW4xQ0pOX052Nzl6UQ?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkkzMm9IOVYyc3hfdm5KNXRwR2RDRzVuUUgxdXhJOUlkNUxXbVJTN1BBM0xvMlVkS21PN2c5TXA0Ti01UUFuRU9BekI3U3AzQUlKMHRQcS1XeWpacUVIbDBfSndabXhMVlBWZ3h0MDRTekMzMUVvUUJXRGkwd1ZaZjk3RVNHWlRTQnNaeHp6NA?oc=5"
+      },
+      {
         "slug": "ai-guide-20261017-auto-1-0ecd60",
         "title": "MOSS-Image 与 FLUX",
         "category": "AI使用教程",
@@ -34125,6 +34299,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261018-auto-1-1d5d99",
+        "title": "DeepSeek V4.1-Flas",
+        "category": "开源项目",
+        "date": "2026-10-18",
+        "summary": "DeepSeek V4.1-Flash-1017: Faster, Leaner Model Upd",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek V4.1-Flas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek V4.1-Flash-1017: Faster, Leaner Model Upd",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek V4.1-Flash-1017: Faster, Leaner Model Upd",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "tbreak.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSXRnQkRaN2NacDhHbWV3a1hvaC1VUFdGdlQzQVNuLXZIT2ZKWUlicUxFSklJclBUblRjaHFucmo1Tm9DRG9UOGxIMUlUWUxmTm1oMUtyNTF3Sy1XMzU4RQ?oc=5"
+          },
+          {
+            "label": "yeeyi：DHH揭晓Linux新发行版、210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Shenzhen 2026圆满收官！ - y",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01QzFkbUlMQTFpa0d1bHBmSDJXVjlIUFFDUG1lMmlwcmZvNm1ESG5XSkxTbUR4YzVmZFpsWk1DR0xvSnlicU82YS1XOEpFTEQ3RmdBWA?oc=5"
+          },
+          {
+            "label": "Technobaboy：Meta launches Muse Spark Open model for coding and AI agents - Technob",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdOazJsQUJsT05UTENuTjhXM0daYUtFaTdIRTFJSUNoUGdjUXliaFRKeFEzWlowYVRzMHIyRVd3WXhrTkpzS2g3WHc5ZzhueTlLSFphYUJKTTgyRG1xcWhfcTVxZ2tIOWhrbjR2ZlBJUWQzS0JlaVlLNWZJRHFNTXBfcTNLZlRrTnltV1ExaGZhbG1EY3dKajRTVXViMmwzRnc?oc=5"
+          }
+        ],
+        "source": "tbreak.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSXRnQkRaN2NacDhHbWV3a1hvaC1VUFdGdlQzQVNuLXZIT2ZKWUlicUxFSklJclBUblRjaHFucmo1Tm9DRG9UOGxIMUlUWUxmTm1oMUtyNTF3Sy1XMzU4RQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261018-auto-2-fd9c40",
+        "title": "DHH揭晓Linux新发行版、210",
+        "category": "开源项目",
+        "date": "2026-10-18",
+        "summary": "DHH揭晓Linux新发行版、210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Sh",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DHH揭晓Linux新发行版、210 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "DHH揭晓Linux新发行版、210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Sh",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DHH揭晓Linux新发行版、210+开源与AI大咖共话Agent、大模型与机器人，GOSIM Sh",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "yeeyi：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01QzFkbUlMQTFpa0d1bHBmSDJXVjlIUFFDUG1lMmlwcmZvNm1ESG5XSkxTbUR4YzVmZFpsWk1DR0xvSnlicU82YS1XOEpFTEQ3RmdBWA?oc=5"
+          },
+          {
+            "label": "tbreak.com：DeepSeek V4.1-Flash-1017: Faster, Leaner Model Update - tbreak.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YSXRnQkRaN2NacDhHbWV3a1hvaC1VUFdGdlQzQVNuLXZIT2ZKWUlicUxFSklJclBUblRjaHFucmo1Tm9DRG9UOGxIMUlUWUxmTm1oMUtyNTF3Sy1XMzU4RQ?oc=5"
+          },
+          {
+            "label": "Technobaboy：Meta launches Muse Spark Open model for coding and AI agents - Technob",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdOazJsQUJsT05UTENuTjhXM0daYUtFaTdIRTFJSUNoUGdjUXliaFRKeFEzWlowYVRzMHIyRVd3WXhrTkpzS2g3WHc5ZzhueTlLSFphYUJKTTgyRG1xcWhfcTVxZ2tIOWhrbjR2ZlBJUWQzS0JlaVlLNWZJRHFNTXBfcTNLZlRrTnltV1ExaGZhbG1EY3dKajRTVXViMmwzRnc?oc=5"
+          }
+        ],
+        "source": "yeeyi",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01QzFkbUlMQTFpa0d1bHBmSDJXVjlIUFFDUG1lMmlwcmZvNm1ESG5XSkxTbUR4YzVmZFpsWk1DR0xvSnlicU82YS1XOEpFTEQ3RmdBWA?oc=5"
+      },
       {
         "slug": "open-source-20261017-auto-1-a6f2b1",
         "title": "Meta introduces it",
