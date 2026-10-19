@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261019-auto-1-a348ac",
+        "title": "好评中国 | “人工智能+”的牵引力",
+        "category": "AI新闻",
+        "date": "2026-10-19",
+        "summary": "好评中国 | “人工智能+”的牵引力，不在实验室在车间 搜狐",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "好评中国 | “人工智能+”的牵引力 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "好评中国 | “人工智能+”的牵引力，不在实验室在车间 搜狐",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "好评中国 | “人工智能+”的牵引力，不在实验室在车间 搜狐",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFlTMVFmMHdsckFZcVVKTXV5QjFVcUZsUmY5V2x4QXhsUUZZdGNKcFpQZFhfS21DM1E2Q2MydjNab1drUXcxVlExRzl2bHFWMEtaaE9vS0tudlh3RmpmX1JDT3N4QXo4VzN1b3hjQXFaLWpsSVhoci1EQmItaHI5RkppaGtNOWJpNU1NaQ?oc=5"
+          },
+          {
+            "label": "Українські Національні Новини (УНН)：AI giant Anthropic wants to transfer 5% of its shares to a \"public ben",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFlnb3A3ZzVEZENnS3pyM1FGdl9lRXFxdjFnbEVZOGQ3OHRmRzhEZFNGS2x1MTVEa0VwOTdKNXE0ekIwR3ZxUUNHR1ZrdVJ0Ql9QOXZtRld2OVVVZjNxMXZ0bUFlMmlSeEJfM3lTZnpjanQ4RlNCeVE3UjVDelVaaThWTFRyX0RkSl9md3VhOE5zZVRGN21OejJaUmxwODAxUV96VzZJeE5VWVnSAaoBQVVfeXFMTmRlY1JGMUtoc2hFR0c1TERFVTE2Z2tnUmozU0FOamRBUkw2NG1tT0tSZWhybDV1SEZoRUs0T19RUzBQWGR2V3dqOVlXb3JoZ3IwbzNVZi1zWmRoTkZucjBYMFF5RzZXT183eElhU0pZQWQzQWUwNFVmUG1mVHk4d0tqTi0xSW81cGEtbGg3RXA4OG9XdzZQVVl0UThkbHNtVm1tanJWaDdJS3c?oc=5"
+          },
+          {
+            "label": "证券时报网：利好传来！盘中，直线拉升！千亿级龙头，彻底爆发 - 证券时报网",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lWFhJdnJ5LVhhX3JsclQwZ3RvSUxGTTktV1h3VHF3STJheTF0R1QzNjJYaDZKQkoySEFDcWowMzhmUTJSRFNDMFpPRmhTNWk0d0dQNlFHakRSVFl3?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFlTMVFmMHdsckFZcVVKTXV5QjFVcUZsUmY5V2x4QXhsUUZZdGNKcFpQZFhfS21DM1E2Q2MydjNab1drUXcxVlExRzl2bHFWMEtaaE9vS0tudlh3RmpmX1JDT3N4QXo4VzN1b3hjQXFaLWpsSVhoci1EQmItaHI5RkppaGtNOWJpNU1NaQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261019-auto-2-307771",
+        "title": "AI giant Anthropic",
+        "category": "AI新闻",
+        "date": "2026-10-19",
+        "summary": "AI giant Anthropic wants to transfer 5% of its sha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI giant Anthropic 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI giant Anthropic wants to transfer 5% of its sha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI giant Anthropic wants to transfer 5% of its sha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Українські Національні Новини (УНН)：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFlnb3A3ZzVEZENnS3pyM1FGdl9lRXFxdjFnbEVZOGQ3OHRmRzhEZFNGS2x1MTVEa0VwOTdKNXE0ekIwR3ZxUUNHR1ZrdVJ0Ql9QOXZtRld2OVVVZjNxMXZ0bUFlMmlSeEJfM3lTZnpjanQ4RlNCeVE3UjVDelVaaThWTFRyX0RkSl9md3VhOE5zZVRGN21OejJaUmxwODAxUV96VzZJeE5VWVnSAaoBQVVfeXFMTmRlY1JGMUtoc2hFR0c1TERFVTE2Z2tnUmozU0FOamRBUkw2NG1tT0tSZWhybDV1SEZoRUs0T19RUzBQWGR2V3dqOVlXb3JoZ3IwbzNVZi1zWmRoTkZucjBYMFF5RzZXT183eElhU0pZQWQzQWUwNFVmUG1mVHk4d0tqTi0xSW81cGEtbGg3RXA4OG9XdzZQVVl0UThkbHNtVm1tanJWaDdJS3c?oc=5"
+          },
+          {
+            "label": "搜狐：好评中国 | “人工智能+”的牵引力，不在实验室在车间 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFlTMVFmMHdsckFZcVVKTXV5QjFVcUZsUmY5V2x4QXhsUUZZdGNKcFpQZFhfS21DM1E2Q2MydjNab1drUXcxVlExRzl2bHFWMEtaaE9vS0tudlh3RmpmX1JDT3N4QXo4VzN1b3hjQXFaLWpsSVhoci1EQmItaHI5RkppaGtNOWJpNU1NaQ?oc=5"
+          },
+          {
+            "label": "证券时报网：利好传来！盘中，直线拉升！千亿级龙头，彻底爆发 - 证券时报网",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lWFhJdnJ5LVhhX3JsclQwZ3RvSUxGTTktV1h3VHF3STJheTF0R1QzNjJYaDZKQkoySEFDcWowMzhmUTJSRFNDMFpPRmhTNWk0d0dQNlFHakRSVFl3?oc=5"
+          }
+        ],
+        "source": "Українські Національні Новини (УНН)",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFlnb3A3ZzVEZENnS3pyM1FGdl9lRXFxdjFnbEVZOGQ3OHRmRzhEZFNGS2x1MTVEa0VwOTdKNXE0ekIwR3ZxUUNHR1ZrdVJ0Ql9QOXZtRld2OVVVZjNxMXZ0bUFlMmlSeEJfM3lTZnpjanQ4RlNCeVE3UjVDelVaaThWTFRyX0RkSl9md3VhOE5zZVRGN21OejJaUmxwODAxUV96VzZJeE5VWVnSAaoBQVVfeXFMTmRlY1JGMUtoc2hFR0c1TERFVTE2Z2tnUmozU0FOamRBUkw2NG1tT0tSZWhybDV1SEZoRUs0T19RUzBQWGR2V3dqOVlXb3JoZ3IwbzNVZi1zWmRoTkZucjBYMFF5RzZXT183eElhU0pZQWQzQWUwNFVmUG1mVHk4d0tqTi0xSW81cGEtbGg3RXA4OG9XdzZQVVl0UThkbHNtVm1tanJWaDdJS3c?oc=5"
+      },
+      {
         "slug": "ai-news-20261018-auto-1-b25865",
         "title": "英伟达市值，9天蒸发4万亿元 - 新",
         "category": "AI新闻",
@@ -23251,6 +23367,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261019-auto-1-cb8bae",
+        "title": "谷歌开源RSI新成果！华人浓度爆表",
+        "category": "AI使用教程",
+        "date": "2026-10-19",
+        "summary": "谷歌开源RSI新成果！华人浓度爆表 量子位",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌开源RSI新成果！华人浓度爆表 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "谷歌开源RSI新成果！华人浓度爆表 量子位",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "谷歌开源RSI新成果！华人浓度爆表 量子位",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "量子位：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WVm4zSHpsdHN6bzFkWU9EQXJOXzRBTmZEUDVIUjBnSVVFN25ZUnRESkNZU3k3OHZiczlrMUR4T3NieUx5NXRDaVpTdGRvYndHbWJVcg?oc=5"
+          },
+          {
+            "label": "HackerNoon：500 Blog Posts To Learn About Hackernoon Bn - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxWXN0YXJNMVV6eHN5NDh0WGowWkdxN1l4NVlvUlBIdTUtZmhqMWtsaFNBMmtlMW14bTJ6LTVYaVpvdVIzSkVjVnBqUEpCeGVaQVpOTndIdW9fQ3NCX0JiaFZZQmVrNGlqMVB0eTZYZUhmYUNp?oc=5"
+          },
+          {
+            "label": "中华网：三星 I929 怎么样 三星 I929 刷机教程 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mLWN2YzZCcGpoOEFuUzJIbGtFVkZSZjZKY0ZvTG5nU2xwYnBockFQZWM2LWhVaFJIaWNXd01zSE9aZ1NnaU80U0ptSUZaWGJhcFczZlp5bXA1QVVOOHZpVHJKbzhuRU52?oc=5"
+          }
+        ],
+        "source": "量子位",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WVm4zSHpsdHN6bzFkWU9EQXJOXzRBTmZEUDVIUjBnSVVFN25ZUnRESkNZU3k3OHZiczlrMUR4T3NieUx5NXRDaVpTdGRvYndHbWJVcg?oc=5"
+      },
+      {
         "slug": "ai-guide-20261018-auto-1-2c0bcc",
         "title": "耗时一个多月，泰安宁阳一村干部靠短视",
         "category": "AI使用教程",
@@ -34299,6 +34473,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261019-auto-1-77f3c9",
+        "title": "Claude AI Powers S",
+        "category": "开源项目",
+        "date": "2026-10-19",
+        "summary": "Claude AI Powers Seven Free Adobe Alternatives var",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Claude AI Powers S 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Claude AI Powers Seven Free Adobe Alternatives var",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Claude AI Powers Seven Free Adobe Alternatives var",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "varindia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0licGxxWVlDR0hCNEFlWkVyRWs0WUxUQThkZ2lOMHhjTkVSNUp2dG9tc1JLNUFNbWxNOWVQMzR4SGlveS05MnBvYlpvVWZUbXVsUmh4SGdRbTIyUGhEM0dDQkYxTWhxQlRwQmVPdldsckVrb3ktbnZpUGszcnJHbTVR?oc=5"
+          },
+          {
+            "label": "Dealroom：BoxLite raises multi-million-dollar round to build runtime for AI agen",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXV6Tmk2UWZoaU1JbTVxSHNGcTRNX3VUbDVIZTRNOGVaU0Rzbmg5MlZJRTF3bXJuRi1lWGpyWnlCbThLRkwyTTNKaTBMNVo1M0ZLVDZ3bno2UE1jWjFudGZmMUNXb2VubXVPSmJfbEhSd09Cc08zNlhLX2dNWWM3TFMzbGgxa2tTSVJ1Qlk3TDM3b0NnNGFrbzVTUWhLaEpRTVRIcEVpSmV0Zw?oc=5"
+          },
+          {
+            "label": "streamlinefeed.co.ke：Meta Opens Muse Spark Weights, but Access Has Limits - streamlinefeed.",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYURGWTIxV2VVRVRGQmtwVHhiYkp2ZGI1ZzVjS1gtTDRwSW5LM2sySmU2ei1NU0pGYlNuelJPdUtIaC1vMkdZc2dBVU1yOUx3T1pkMERMaXhKNXJ2cWhQcHI1MG0tNi1iWEFRam9iSFZHOG4tZWlXakRReXpaRWhiNWFR?oc=5"
+          }
+        ],
+        "source": "varindia",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0licGxxWVlDR0hCNEFlWkVyRWs0WUxUQThkZ2lOMHhjTkVSNUp2dG9tc1JLNUFNbWxNOWVQMzR4SGlveS05MnBvYlpvVWZUbXVsUmh4SGdRbTIyUGhEM0dDQkYxTWhxQlRwQmVPdldsckVrb3ktbnZpUGszcnJHbTVR?oc=5"
+      },
+      {
+        "slug": "open-source-20261019-auto-2-2a6221",
+        "title": "BoxLite raises mul",
+        "category": "开源项目",
+        "date": "2026-10-19",
+        "summary": "BoxLite raises multi-million-dollar round to build",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "BoxLite raises mul 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "BoxLite raises multi-million-dollar round to build",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "BoxLite raises multi-million-dollar round to build",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Dealroom：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXV6Tmk2UWZoaU1JbTVxSHNGcTRNX3VUbDVIZTRNOGVaU0Rzbmg5MlZJRTF3bXJuRi1lWGpyWnlCbThLRkwyTTNKaTBMNVo1M0ZLVDZ3bno2UE1jWjFudGZmMUNXb2VubXVPSmJfbEhSd09Cc08zNlhLX2dNWWM3TFMzbGgxa2tTSVJ1Qlk3TDM3b0NnNGFrbzVTUWhLaEpRTVRIcEVpSmV0Zw?oc=5"
+          },
+          {
+            "label": "varindia：Claude AI Powers Seven Free Adobe Alternatives - varindia",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0licGxxWVlDR0hCNEFlWkVyRWs0WUxUQThkZ2lOMHhjTkVSNUp2dG9tc1JLNUFNbWxNOWVQMzR4SGlveS05MnBvYlpvVWZUbXVsUmh4SGdRbTIyUGhEM0dDQkYxTWhxQlRwQmVPdldsckVrb3ktbnZpUGszcnJHbTVR?oc=5"
+          },
+          {
+            "label": "streamlinefeed.co.ke：Meta Opens Muse Spark Weights, but Access Has Limits - streamlinefeed.",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYURGWTIxV2VVRVRGQmtwVHhiYkp2ZGI1ZzVjS1gtTDRwSW5LM2sySmU2ei1NU0pGYlNuelJPdUtIaC1vMkdZc2dBVU1yOUx3T1pkMERMaXhKNXJ2cWhQcHI1MG0tNi1iWEFRam9iSFZHOG4tZWlXakRReXpaRWhiNWFR?oc=5"
+          }
+        ],
+        "source": "Dealroom",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXV6Tmk2UWZoaU1JbTVxSHNGcTRNX3VUbDVIZTRNOGVaU0Rzbmg5MlZJRTF3bXJuRi1lWGpyWnlCbThLRkwyTTNKaTBMNVo1M0ZLVDZ3bno2UE1jWjFudGZmMUNXb2VubXVPSmJfbEhSd09Cc08zNlhLX2dNWWM3TFMzbGgxa2tTSVJ1Qlk3TDM3b0NnNGFrbzVTUWhLaEpRTVRIcEVpSmV0Zw?oc=5"
+      },
       {
         "slug": "open-source-20261018-auto-1-1d5d99",
         "title": "DeepSeek V4.1-Flas",
