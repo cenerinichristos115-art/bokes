@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261021-auto-1-d61a9c",
+        "title": "Duke initiative ai",
+        "category": "AI新闻",
+        "date": "2026-10-21",
+        "summary": "Duke initiative aims to bring dementia AI tools in",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Duke initiative ai 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Duke initiative aims to bring dementia AI tools in",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Duke initiative aims to bring dementia AI tools in",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "News-Medical：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFZudkpWeEp1bDR2NUZDY2U4eVFLb2dwa0NiWjhDWU9aN2xQVEZrUG51alJSN0VZdGFOUnN0OXdWclZlVkhsWjNTX1VPblNmNmhkWmMxN01acUxLSEQ2Yzc2MDJMeWRuYWhfM1k1Q09NZmJTN1I5ZFl3TWZYbmFJcFA2RUtRa3VHMHRpWndUaE40REJrSDRJR2I0MXRlRE45bDBtRmp1SF9SLXVmekhqS2pvZVNhQzc0bGc?oc=5"
+          },
+          {
+            "label": "中华网：奥特斯展示最新载板技术，助力开启AI算力新时代 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWUdZQS1zRExXUzlDZHUyUkJTSTFUbTcxN056cnJGU2d0ajhPZUdkNTBjZU5IUWhjV0szZGFOZkhLZzJwMWhvSWVKaXkxR3FGcW5aQkJPdVZyMGxXYS1zVTdxNjEzRTJ0WHBN?oc=5"
+          },
+          {
+            "label": "新浪网：AI科创在校园，机器人、无人机成为学生们的“新伙伴” | 新经济观察 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KSVNSZ1RuY2RuX0R3SzRxek5UMlJQWGtYSjVvenpEY2FVLXA4Mno2dlNXemFBa2NCWXFyU3JxLUh0eWlOel9TXzNFNlJPaVlpSHItZnZILTJTcHY1TWRaSlIxakhDV0tZZzREX3VfTHdXS2dZZmRqdTVkTVUtZw?oc=5"
+          }
+        ],
+        "source": "News-Medical",
+        "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFZudkpWeEp1bDR2NUZDY2U4eVFLb2dwa0NiWjhDWU9aN2xQVEZrUG51alJSN0VZdGFOUnN0OXdWclZlVkhsWjNTX1VPblNmNmhkWmMxN01acUxLSEQ2Yzc2MDJMeWRuYWhfM1k1Q09NZmJTN1I5ZFl3TWZYbmFJcFA2RUtRa3VHMHRpWndUaE40REJrSDRJR2I0MXRlRE45bDBtRmp1SF9SLXVmekhqS2pvZVNhQzc0bGc?oc=5"
+      },
+      {
+        "slug": "ai-news-20261021-auto-2-635c57",
+        "title": "奥特斯展示最新载板技术，助力开启AI",
+        "category": "AI新闻",
+        "date": "2026-10-21",
+        "summary": "奥特斯展示最新载板技术，助力开启AI算力新时代 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "奥特斯展示最新载板技术，助力开启AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "奥特斯展示最新载板技术，助力开启AI算力新时代 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "奥特斯展示最新载板技术，助力开启AI算力新时代 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWUdZQS1zRExXUzlDZHUyUkJTSTFUbTcxN056cnJGU2d0ajhPZUdkNTBjZU5IUWhjV0szZGFOZkhLZzJwMWhvSWVKaXkxR3FGcW5aQkJPdVZyMGxXYS1zVTdxNjEzRTJ0WHBN?oc=5"
+          },
+          {
+            "label": "News-Medical：Duke initiative aims to bring dementia AI tools into clinical practice",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFZudkpWeEp1bDR2NUZDY2U4eVFLb2dwa0NiWjhDWU9aN2xQVEZrUG51alJSN0VZdGFOUnN0OXdWclZlVkhsWjNTX1VPblNmNmhkWmMxN01acUxLSEQ2Yzc2MDJMeWRuYWhfM1k1Q09NZmJTN1I5ZFl3TWZYbmFJcFA2RUtRa3VHMHRpWndUaE40REJrSDRJR2I0MXRlRE45bDBtRmp1SF9SLXVmekhqS2pvZVNhQzc0bGc?oc=5"
+          },
+          {
+            "label": "新浪网：AI科创在校园，机器人、无人机成为学生们的“新伙伴” | 新经济观察 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KSVNSZ1RuY2RuX0R3SzRxek5UMlJQWGtYSjVvenpEY2FVLXA4Mno2dlNXemFBa2NCWXFyU3JxLUh0eWlOel9TXzNFNlJPaVlpSHItZnZILTJTcHY1TWRaSlIxakhDV0tZZzREX3VfTHdXS2dZZmRqdTVkTVUtZw?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mWUdZQS1zRExXUzlDZHUyUkJTSTFUbTcxN056cnJGU2d0ajhPZUdkNTBjZU5IUWhjV0szZGFOZkhLZzJwMWhvSWVKaXkxR3FGcW5aQkJPdVZyMGxXYS1zVTdxNjEzRTJ0WHBN?oc=5"
+      },
+      {
         "slug": "ai-news-20261019-auto-1-a348ac",
         "title": "好评中国 | “人工智能+”的牵引力",
         "category": "AI新闻",
@@ -23367,6 +23483,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261021-auto-1-379fc1",
+        "title": "微软宣布OneDrive支持HTML",
+        "category": "AI使用教程",
+        "date": "2026-10-21",
+        "summary": "微软宣布OneDrive支持HTML与Markdown在线编辑 DoNews",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "微软宣布OneDrive支持HTML 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "微软宣布OneDrive支持HTML与Markdown在线编辑 DoNews",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "微软宣布OneDrive支持HTML与Markdown在线编辑 DoNews",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "DoNews：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53MEwwN2tzWjMzdERsdjQ3VDYySFpPc2x0aFYyWXNMcFQyMnczMnJvSF8tUGZlNDlXWEdaMWZ3dEkzenhjajJqcHE4dFN6VjVDa2lERllRMm9oSXg0NlE?oc=5"
+          },
+          {
+            "label": "搜狐：微软升级OneDrive，支持直接在线编辑HTML与Markdown文件 - 搜狐",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREQ3azR1TWdOWEc5RlhRTnpEcGkxZ0dOR0VfSk9TdXR4aUhRYV84cUVmMUlUd3ZYUFRwUnEya0NYcWxvYWgxMFh1cWJMWFFtdTJGRmlNb3FfWVVvbHQ4MmFnQVVlUF9Oc3BvYVRubnBGZERyYUREMWg1WEZsRzdpVkxwLUVkVVMz?oc=5"
+          },
+          {
+            "label": "同花顺财经：提示词注入攻击拿下“官方编制”：MITRE ATT&CK首次为AI攻击编号 - 同花顺财经",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BcFdJRmc1S3UyeTBGMlExN0tnZnNWekhWVzM4SnhqRlJXUjNWZWd6SVUwRERZc2w5WThzSGliUVB2LTNyeUZTbFlmSnRkWDc5MllzbUloOTZsdTlQZnAwcl9B?oc=5"
+          }
+        ],
+        "source": "DoNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53MEwwN2tzWjMzdERsdjQ3VDYySFpPc2x0aFYyWXNMcFQyMnczMnJvSF8tUGZlNDlXWEdaMWZ3dEkzenhjajJqcHE4dFN6VjVDa2lERllRMm9oSXg0NlE?oc=5"
+      },
+      {
         "slug": "ai-guide-20261019-auto-1-cb8bae",
         "title": "谷歌开源RSI新成果！华人浓度爆表",
         "category": "AI使用教程",
@@ -34473,6 +34647,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261021-auto-1-a05d06",
+        "title": "DeepSeek 开源最新推理框架：",
+        "category": "开源项目",
+        "date": "2026-10-21",
+        "summary": "DeepSeek 开源最新推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek 开源最新推理框架： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek 开源最新推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek 开源最新推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ-CN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcmllZ1dWbl9xWkt3b3dlbG1KR2xPVnMzcDREQ19YSTRNZWdIRXpIdk5sSTNPeVZvenFuRDcwbTMzLXZIYnJLWjJLaklTR2x1LXViT0pkMVRCQQ?oc=5"
+          },
+          {
+            "label": "www.chinapress.com.my：中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉 - www.chinapress.com.my",
+            "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOWh0Um4yMzdTai1PS0Z4Q1I0TzgzdER4enFXMUlFbWdROHQyTWFzTmVPek5SNTVkTzJVcXZlSjBFOWlyamFlYW1FTGdtX2otaFhkTEVDZkI3WDdZWkxEUmFRY1RfWEZHTWk4eEN0NGJGWkpRX1R5OUxad3RnaVJzSEFwMnVIYWM4Q0FkU1FTc25IYWVDZk5PdzRIemFoRTF4OEFDWjVlN2Y2WEdjd2xTSHptMWNNcFdiMEhMVVk1UXB1Wlk4VzhBYjJHMDJVNzhzX2dvT2s4VUxBMjZGQzV2S0JZV2QySm5jalhnM0F2eXpsRVJWQWVuX3ZUMUxYOUphZmlTd2ZUUndoOWExZHZiclFNTmVnUVpUUEsyaGV5MFdoLUZnb1NWOGpLZWduclVlNEpLZ1FvZTQ5M2cwZTVVOUwxdko3YW9ianZ3SnlhWXdLUFdRWVAwc0xJSQ?oc=5"
+          },
+          {
+            "label": "凤凰网科技：开源项目让《塞尔达传说：王国之泪》原生运行于Apple Silicon，苹果M4 MacBook Air稳定90帧 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jbmVyWUgzcnFDU21nVzhDQkdNNkVqb3Z4TElwelBBNHY4YkxncFEza2FLZG9fZ0ktRWR5UEo5YVRoTlRYbGMtYWVPb3I?oc=5"
+          }
+        ],
+        "source": "InfoQ-CN",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcmllZ1dWbl9xWkt3b3dlbG1KR2xPVnMzcDREQ19YSTRNZWdIRXpIdk5sSTNPeVZvenFuRDcwbTMzLXZIYnJLWjJLaklTR2x1LXViT0pkMVRCQQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261021-auto-2-af8cdb",
+        "title": "中文指令操控AI Agent 有骇客",
+        "category": "开源项目",
+        "date": "2026-10-21",
+        "summary": "中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉 www.c",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中文指令操控AI Agent 有骇客 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉 www.c",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "中文指令操控AI Agent 有骇客入侵美日加澳逾百网站 每次成功攻击成本仅约204令吉 www.c",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.chinapress.com.my：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOWh0Um4yMzdTai1PS0Z4Q1I0TzgzdER4enFXMUlFbWdROHQyTWFzTmVPek5SNTVkTzJVcXZlSjBFOWlyamFlYW1FTGdtX2otaFhkTEVDZkI3WDdZWkxEUmFRY1RfWEZHTWk4eEN0NGJGWkpRX1R5OUxad3RnaVJzSEFwMnVIYWM4Q0FkU1FTc25IYWVDZk5PdzRIemFoRTF4OEFDWjVlN2Y2WEdjd2xTSHptMWNNcFdiMEhMVVk1UXB1Wlk4VzhBYjJHMDJVNzhzX2dvT2s4VUxBMjZGQzV2S0JZV2QySm5jalhnM0F2eXpsRVJWQWVuX3ZUMUxYOUphZmlTd2ZUUndoOWExZHZiclFNTmVnUVpUUEsyaGV5MFdoLUZnb1NWOGpLZWduclVlNEpLZ1FvZTQ5M2cwZTVVOUwxdko3YW9ianZ3SnlhWXdLUFdRWVAwc0xJSQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：DeepSeek 开源最新推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存 7 天 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EcmllZ1dWbl9xWkt3b3dlbG1KR2xPVnMzcDREQ19YSTRNZWdIRXpIdk5sSTNPeVZvenFuRDcwbTMzLXZIYnJLWjJLaklTR2x1LXViT0pkMVRCQQ?oc=5"
+          },
+          {
+            "label": "凤凰网科技：开源项目让《塞尔达传说：王国之泪》原生运行于Apple Silicon，苹果M4 MacBook Air稳定90帧 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jbmVyWUgzcnFDU21nVzhDQkdNNkVqb3Z4TElwelBBNHY4YkxncFEza2FLZG9fZ0ktRWR5UEo5YVRoTlRYbGMtYWVPb3I?oc=5"
+          }
+        ],
+        "source": "www.chinapress.com.my",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOWh0Um4yMzdTai1PS0Z4Q1I0TzgzdER4enFXMUlFbWdROHQyTWFzTmVPek5SNTVkTzJVcXZlSjBFOWlyamFlYW1FTGdtX2otaFhkTEVDZkI3WDdZWkxEUmFRY1RfWEZHTWk4eEN0NGJGWkpRX1R5OUxad3RnaVJzSEFwMnVIYWM4Q0FkU1FTc25IYWVDZk5PdzRIemFoRTF4OEFDWjVlN2Y2WEdjd2xTSHptMWNNcFdiMEhMVVk1UXB1Wlk4VzhBYjJHMDJVNzhzX2dvT2s4VUxBMjZGQzV2S0JZV2QySm5jalhnM0F2eXpsRVJWQWVuX3ZUMUxYOUphZmlTd2ZUUndoOWExZHZiclFNTmVnUVpUUEsyaGV5MFdoLUZnb1NWOGpLZWduclVlNEpLZ1FvZTQ5M2cwZTVVOUwxdko3YW9ianZ3SnlhWXdLUFdRWVAwc0xJSQ?oc=5"
+      },
       {
         "slug": "open-source-20261019-auto-1-77f3c9",
         "title": "Claude AI Powers S",
