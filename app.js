@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261022-auto-1-98a481",
+        "title": "探访交通领域国家人工智能应用中试基地",
+        "category": "AI新闻",
+        "date": "2026-10-22",
+        "summary": "探访交通领域国家人工智能应用中试基地 降本增效难题如何化解？ 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "探访交通领域国家人工智能应用中试基地 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "探访交通领域国家人工智能应用中试基地 降本增效难题如何化解？ 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "探访交通领域国家人工智能应用中试基地 降本增效难题如何化解？ 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RTUVtX200ek9XckpIdm5uSnFhRWV2X3E1X0ZuOThCVW9QdVVOcDhpNGU0NjFpSHNyZnZSb19MOHh4bG9uOGdFQnR0WG02SFpMMlZHSWtBXzhLWjQ3QmZRT3JEV1hSVHdGdmxjRVFHOTcxQQ?oc=5"
+          },
+          {
+            "label": "ANI News：OpenAI partners with Google Cloud to offer AI models, codex workflows ",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjBXNTJuc21BY1BoOFEtQ1o4ZlhtWXdYSW02NGI0X3JNSzdQeC1IUUNRWGhkSmxHTDJIMHpEV0pGYWxRcTlkd2hyNS1qcjFFbDZkSU0wMXRManJpdXMtczNmajhWbmphVEdWczd1T0lVa0hNX0lfVEQxdVdUUnI1N1BtWHVaMHdqU2E4R2w3NEZVaEN1bVJCOVdfeUFVLWVZM2NkR3lOZ2FzRmlCSlpmZkJXd1ZaNTZpQXlV?oc=5"
+          },
+          {
+            "label": "Macau Business：Walmart welcomes AI agents as Anthropic launches its own - Macau Busin",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTEyaFkwSm8yT1lNVjRfcm1GQnAwRU9wWlkwdnJRWXBjdHJtQi1IV2pBeC1MX3JkVTMwMlFFZUQtMjdfbkVNOXVEYkh4VDFnYklpLTc0UE00X0FRSVR6dVNCcmo3TEVUaUk2RkpoSktucWZ6eWRaWW9jb0k0RmJDOGlkSkFrQzN4OTBn?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RTUVtX200ek9XckpIdm5uSnFhRWV2X3E1X0ZuOThCVW9QdVVOcDhpNGU0NjFpSHNyZnZSb19MOHh4bG9uOGdFQnR0WG02SFpMMlZHSWtBXzhLWjQ3QmZRT3JEV1hSVHdGdmxjRVFHOTcxQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261022-auto-2-8c9ac0",
+        "title": "OpenAI partners wi",
+        "category": "AI新闻",
+        "date": "2026-10-22",
+        "summary": "OpenAI partners with Google Cloud to offer AI mode",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI partners wi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "OpenAI partners with Google Cloud to offer AI mode",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI partners with Google Cloud to offer AI mode",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ANI News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjBXNTJuc21BY1BoOFEtQ1o4ZlhtWXdYSW02NGI0X3JNSzdQeC1IUUNRWGhkSmxHTDJIMHpEV0pGYWxRcTlkd2hyNS1qcjFFbDZkSU0wMXRManJpdXMtczNmajhWbmphVEdWczd1T0lVa0hNX0lfVEQxdVdUUnI1N1BtWHVaMHdqU2E4R2w3NEZVaEN1bVJCOVdfeUFVLWVZM2NkR3lOZ2FzRmlCSlpmZkJXd1ZaNTZpQXlV?oc=5"
+          },
+          {
+            "label": "新浪网：探访交通领域国家人工智能应用中试基地 降本增效难题如何化解？ - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RTUVtX200ek9XckpIdm5uSnFhRWV2X3E1X0ZuOThCVW9QdVVOcDhpNGU0NjFpSHNyZnZSb19MOHh4bG9uOGdFQnR0WG02SFpMMlZHSWtBXzhLWjQ3QmZRT3JEV1hSVHdGdmxjRVFHOTcxQQ?oc=5"
+          },
+          {
+            "label": "Macau Business：Walmart welcomes AI agents as Anthropic launches its own - Macau Busin",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTEyaFkwSm8yT1lNVjRfcm1GQnAwRU9wWlkwdnJRWXBjdHJtQi1IV2pBeC1MX3JkVTMwMlFFZUQtMjdfbkVNOXVEYkh4VDFnYklpLTc0UE00X0FRSVR6dVNCcmo3TEVUaUk2RkpoSktucWZ6eWRaWW9jb0k0RmJDOGlkSkFrQzN4OTBn?oc=5"
+          }
+        ],
+        "source": "ANI News",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjBXNTJuc21BY1BoOFEtQ1o4ZlhtWXdYSW02NGI0X3JNSzdQeC1IUUNRWGhkSmxHTDJIMHpEV0pGYWxRcTlkd2hyNS1qcjFFbDZkSU0wMXRManJpdXMtczNmajhWbmphVEdWczd1T0lVa0hNX0lfVEQxdVdUUnI1N1BtWHVaMHdqU2E4R2w3NEZVaEN1bVJCOVdfeUFVLWVZM2NkR3lOZ2FzRmlCSlpmZkJXd1ZaNTZpQXlV?oc=5"
+      },
+      {
         "slug": "ai-news-20261021-auto-1-d61a9c",
         "title": "Duke initiative ai",
         "category": "AI新闻",
@@ -23483,6 +23599,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261022-auto-1-dd0dc3",
+        "title": "有商家卖AI平台破解教程，宣称能“无",
+        "category": "AI使用教程",
+        "date": "2026-10-22",
+        "summary": "有商家卖AI平台破解教程，宣称能“无限薅会员”，买家花1.2元却无法使用权益……专家提醒：这类“薅羊",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "有商家卖AI平台破解教程，宣称能“无 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "有商家卖AI平台破解教程，宣称能“无限薅会员”，买家花1.2元却无法使用权益……专家提醒：这类“薅羊",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "有商家卖AI平台破解教程，宣称能“无限薅会员”，买家花1.2元却无法使用权益……专家提醒：这类“薅羊",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0NXX3dNV1BCUHYtdkxtcGhNVFdOUUFvdjR0djdQUVFwX3JXNFlkaFhJaUluejFCeDZFM3F3NjZ4T2JYcktYTHZxeWtiWEx4VGt0a1E0REcwd1BMT3FuUUZXaEFST0ZrN0MxT1pUYm9nOTRCclFDanVxem5PU0M1VkFSNE85Qjct?oc=5"
+          },
+          {
+            "label": "驱动之家：警惕AI会员二道贩子！央视曝光无限薅豆包会员隐患：出租方可见全部对话 - 驱动之家",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCcWUyeVlfMDRrQ3g2VU1zcWwyRTRYZHNhUE9HMmJyRGFTa2VITEZnd2xIZlZ3WjhBb0ZuM2FWemRjTWZkd09TMV9wdjlTZHYwbVA5RUhJU0E?oc=5"
+          },
+          {
+            "label": "finance.sina.com.cn：AI大模型付费权益“低价共享”靠谱吗？ - finance.sina.com.cn",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3FTUEc5dFZhQmZYYlhkblNKeTFVSFhHdHFDS2xQNG4wRzhaenFtX0FOS2RWT29XRElMZ1dSV1hfbnh3UDdReWNKZmxnczZla25TZ3Y2aEl5UTR6SS1UR002NnNkLUsyTnhYSWZYQllfcldHZkktT1ZuYVVDQTZ4dl9vX1ZaRGdaWGpVRkFEd2JDakxNcm03bQ?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0NXX3dNV1BCUHYtdkxtcGhNVFdOUUFvdjR0djdQUVFwX3JXNFlkaFhJaUluejFCeDZFM3F3NjZ4T2JYcktYTHZxeWtiWEx4VGt0a1E0REcwd1BMT3FuUUZXaEFST0ZrN0MxT1pUYm9nOTRCclFDanVxem5PU0M1VkFSNE85Qjct?oc=5"
+      },
+      {
         "slug": "ai-guide-20261021-auto-1-379fc1",
         "title": "微软宣布OneDrive支持HTML",
         "category": "AI使用教程",
@@ -34647,6 +34821,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261022-auto-1-b5abc7",
+        "title": "Recursive Debuts F",
+        "category": "开源项目",
+        "date": "2026-10-22",
+        "summary": "Recursive Debuts Flint: A Laptop-Sized Coding Mode",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Recursive Debuts F 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Recursive Debuts Flint: A Laptop-Sized Coding Mode",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Recursive Debuts Flint: A Laptop-Sized Coding Mode",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BigGo Finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14N2gzUUpmbDY2aXJjVWM3bzZTNlFlU2ZhNW92TlMtUmx5TElicGRkMVYwRzVENGVOdlJ6X0wyeHkyeFdDQ3d6OVlMb2Q0aDFVa0FhUDJkUU42dGtPRXQzRVdfYmNkbTZmZmlkcVJxcmtjdXRhWmc?oc=5"
+          },
+          {
+            "label": "Forkast News：NVIDIA Kumo: Open-Weight Models for Reasoning Over Structured Enterpri",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmxKV0V6Ynl3WGRaRzFDcC0wNWthS2lEc3dMQnpzeEpRejZ3MHlrRG1mbWRTREFqZlcyZVJoTlM2X1Atb1FiZDlUZWM4dzROZnhXcWtIdFAtWDV2UWRxM0FlaFJKM2tjUGROV1pYclBjQlBId21lQzNCbDkyelVPWUJrSER0SGpqMl9fRy1tLXI0ZDlfRG9heC1jcC05bTQ?oc=5"
+          },
+          {
+            "label": "Pandaily：MemTensor Open-Sources MemT 1.0, Memory-Native Models That Keep Long H",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjBCeEc5M2s4RDZhQTVfbjQ0ekcwd043dUxRaGo0X0hoemFIb0F0NXVERGx5cGl1NzRhWE9nR3dzLXZEY0ZiTUhkQWxhVmZZbmZkUDh6RXhnQklGRnBlYXpmU25fUnVzemxhZ05OVlBzLW5KV1BkS2VRRjdKd29sdkxVUzI0QVpYZElz?oc=5"
+          }
+        ],
+        "source": "BigGo Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14N2gzUUpmbDY2aXJjVWM3bzZTNlFlU2ZhNW92TlMtUmx5TElicGRkMVYwRzVENGVOdlJ6X0wyeHkyeFdDQ3d6OVlMb2Q0aDFVa0FhUDJkUU42dGtPRXQzRVdfYmNkbTZmZmlkcVJxcmtjdXRhWmc?oc=5"
+      },
+      {
+        "slug": "open-source-20261022-auto-2-09f232",
+        "title": "NVIDIA Kumo: Open-",
+        "category": "开源项目",
+        "date": "2026-10-22",
+        "summary": "NVIDIA Kumo: Open-Weight Models for Reasoning Over",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "NVIDIA Kumo: Open- 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "NVIDIA Kumo: Open-Weight Models for Reasoning Over",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "NVIDIA Kumo: Open-Weight Models for Reasoning Over",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Forkast News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmxKV0V6Ynl3WGRaRzFDcC0wNWthS2lEc3dMQnpzeEpRejZ3MHlrRG1mbWRTREFqZlcyZVJoTlM2X1Atb1FiZDlUZWM4dzROZnhXcWtIdFAtWDV2UWRxM0FlaFJKM2tjUGROV1pYclBjQlBId21lQzNCbDkyelVPWUJrSER0SGpqMl9fRy1tLXI0ZDlfRG9heC1jcC05bTQ?oc=5"
+          },
+          {
+            "label": "BigGo Finance：Recursive Debuts Flint: A Laptop-Sized Coding Model That AI Helped Bui",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14N2gzUUpmbDY2aXJjVWM3bzZTNlFlU2ZhNW92TlMtUmx5TElicGRkMVYwRzVENGVOdlJ6X0wyeHkyeFdDQ3d6OVlMb2Q0aDFVa0FhUDJkUU42dGtPRXQzRVdfYmNkbTZmZmlkcVJxcmtjdXRhWmc?oc=5"
+          },
+          {
+            "label": "Pandaily：MemTensor Open-Sources MemT 1.0, Memory-Native Models That Keep Long H",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjBCeEc5M2s4RDZhQTVfbjQ0ekcwd043dUxRaGo0X0hoemFIb0F0NXVERGx5cGl1NzRhWE9nR3dzLXZEY0ZiTUhkQWxhVmZZbmZkUDh6RXhnQklGRnBlYXpmU25fUnVzemxhZ05OVlBzLW5KV1BkS2VRRjdKd29sdkxVUzI0QVpYZElz?oc=5"
+          }
+        ],
+        "source": "Forkast News",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmxKV0V6Ynl3WGRaRzFDcC0wNWthS2lEc3dMQnpzeEpRejZ3MHlrRG1mbWRTREFqZlcyZVJoTlM2X1Atb1FiZDlUZWM4dzROZnhXcWtIdFAtWDV2UWRxM0FlaFJKM2tjUGROV1pYclBjQlBId21lQzNCbDkyelVPWUJrSER0SGpqMl9fRy1tLXI0ZDlfRG9heC1jcC05bTQ?oc=5"
+      },
       {
         "slug": "open-source-20261021-auto-1-a05d06",
         "title": "DeepSeek 开源最新推理框架：",
