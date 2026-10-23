@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261023-auto-1-89146a",
+        "title": "PHP是什么？为何它引发全球网络安全",
+        "category": "AI新闻",
+        "date": "2026-10-23",
+        "summary": "PHP是什么？为何它引发全球网络安全危机？ BBC",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "PHP是什么？为何它引发全球网络安全 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "PHP是什么？为何它引发全球网络安全危机？ BBC",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "PHP是什么？为何它引发全球网络安全危机？ BBC",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BBC：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DNWltYVB6QXZpNWJqcVZpVS1zejVrc0labkJVcXBOQkFrUkFDaDhITnBUTXZEbkFFS05zSkFiMnc0cmw5S19UTjVwby0yQW5ld0stNE9RT1dIdkFaT19jeExCNm93SnPSAWxBVV95cUxOTlJqd1hVaThYclk0dEhCS0V5WWVQQS0zc180eW9YVGFvWk8xY3FSbFFYT1h4U19KY291dTJXTVhsWThPMGg5UDg2b18zaFAwSDBBNTVHNXlmZTA3SEhzT1p0V3VvOGVkd19LcGc?oc=5"
+          },
+          {
+            "label": "新浪网：下班后充电！职工变身AI推介官，边学边练还能拿专属证书 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY3Z1cEJVX2N5VjZvbG0wZ3NReVVBZG1vb1lidjd6MXlNbllOSGRDZTBwOUhPUUZEejVuaXh1a3EyVXBwRGVlMFFIblRFb1RVcFhvcHZldy1oaVpwVl9hQ0ZWZ0JhS1R0bnlCRGZjUEpfT2xUV09STkZhMFFYcUk?oc=5"
+          },
+          {
+            "label": "新浪网：中国计算机大会今日举行，前沿科技成果集中亮相成都 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGendCNHdoTXYxSXN6a0hueTFPZkQ0ZGFBaTBzYU1xLWxJRmJtVmItbG5ELXlCOFhVSXlFWWtPR0VzTTQ4M0l2czZkTGtaRkF4RnhfN2tMS2Jic2lPYXlXelVNVEtTS2NZU2JiRUtHVnFtQQ?oc=5"
+          }
+        ],
+        "source": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DNWltYVB6QXZpNWJqcVZpVS1zejVrc0labkJVcXBOQkFrUkFDaDhITnBUTXZEbkFFS05zSkFiMnc0cmw5S19UTjVwby0yQW5ld0stNE9RT1dIdkFaT19jeExCNm93SnPSAWxBVV95cUxOTlJqd1hVaThYclk0dEhCS0V5WWVQQS0zc180eW9YVGFvWk8xY3FSbFFYT1h4U19KY291dTJXTVhsWThPMGg5UDg2b18zaFAwSDBBNTVHNXlmZTA3SEhzT1p0V3VvOGVkd19LcGc?oc=5"
+      },
+      {
+        "slug": "ai-news-20261023-auto-2-067566",
+        "title": "下班后充电！职工变身AI推介官，边学",
+        "category": "AI新闻",
+        "date": "2026-10-23",
+        "summary": "下班后充电！职工变身AI推介官，边学边练还能拿专属证书 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "下班后充电！职工变身AI推介官，边学 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "下班后充电！职工变身AI推介官，边学边练还能拿专属证书 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "下班后充电！职工变身AI推介官，边学边练还能拿专属证书 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY3Z1cEJVX2N5VjZvbG0wZ3NReVVBZG1vb1lidjd6MXlNbllOSGRDZTBwOUhPUUZEejVuaXh1a3EyVXBwRGVlMFFIblRFb1RVcFhvcHZldy1oaVpwVl9hQ0ZWZ0JhS1R0bnlCRGZjUEpfT2xUV09STkZhMFFYcUk?oc=5"
+          },
+          {
+            "label": "BBC：PHP是什么？为何它引发全球网络安全危机？ - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DNWltYVB6QXZpNWJqcVZpVS1zejVrc0labkJVcXBOQkFrUkFDaDhITnBUTXZEbkFFS05zSkFiMnc0cmw5S19UTjVwby0yQW5ld0stNE9RT1dIdkFaT19jeExCNm93SnPSAWxBVV95cUxOTlJqd1hVaThYclk0dEhCS0V5WWVQQS0zc180eW9YVGFvWk8xY3FSbFFYT1h4U19KY291dTJXTVhsWThPMGg5UDg2b18zaFAwSDBBNTVHNXlmZTA3SEhzT1p0V3VvOGVkd19LcGc?oc=5"
+          },
+          {
+            "label": "新浪网：中国计算机大会今日举行，前沿科技成果集中亮相成都 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGendCNHdoTXYxSXN6a0hueTFPZkQ0ZGFBaTBzYU1xLWxJRmJtVmItbG5ELXlCOFhVSXlFWWtPR0VzTTQ4M0l2czZkTGtaRkF4RnhfN2tMS2Jic2lPYXlXelVNVEtTS2NZU2JiRUtHVnFtQQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fY3Z1cEJVX2N5VjZvbG0wZ3NReVVBZG1vb1lidjd6MXlNbllOSGRDZTBwOUhPUUZEejVuaXh1a3EyVXBwRGVlMFFIblRFb1RVcFhvcHZldy1oaVpwVl9hQ0ZWZ0JhS1R0bnlCRGZjUEpfT2xUV09STkZhMFFYcUk?oc=5"
+      },
+      {
         "slug": "ai-news-20261022-auto-1-98a481",
         "title": "探访交通领域国家人工智能应用中试基地",
         "category": "AI新闻",
@@ -23599,6 +23715,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261023-auto-1-c1d75e",
+        "title": "媒体聚焦丨互联网法院如何给AI“立规",
+        "category": "AI使用教程",
+        "date": "2026-10-23",
+        "summary": "媒体聚焦丨互联网法院如何给AI“立规矩” 搜狐",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "媒体聚焦丨互联网法院如何给AI“立规 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "媒体聚焦丨互联网法院如何给AI“立规矩” 搜狐",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "媒体聚焦丨互联网法院如何给AI“立规矩” 搜狐",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNQZmg5Nlg3a19SeEZtRjRPaFVNeUZNZFNDMlNIQV82R2JhQVF3RHBiVmVKS2p6dWowbmlpMGdYbjk1UEY1SUdNcUE1Tm1lT0tiUHZxMGZoVFpZd2MwUGRveFIxOTk0dmhZeW9kX2wyOXdpMHdxRmU3aTRJc1JZOVQ1aENqOE1m?oc=5"
+          },
+          {
+            "label": "IBM：Doctors are using AI for more than diagnosis, study finds - IBM",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdXd6ZWVucUQtdENQWjJWNno4YVBXVDIwNTdQUlVvX1UzU1hZVEdudjNVSkEzUjQ1dHNVMVliZzE3dFFIc1lrNGhZY2NhejB2T2VCeERnTVRsUUlQVGNJRXpaWENhdTc2QWpRdGlNVlBfd09Wczl1MUFpRjRuSC1OZEotTll0Zw?oc=5"
+          },
+          {
+            "label": "CommBank：CommBank joins Deadly Coders to grow AI skills for 5,000 First Nations",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHc0dWZ0eGxBUGVpdkVtZGRKTGRNUS0xa0RkOWJvZXEzeWZTajV2YVRqVmNRSGNrd0RGR0VYeVBraDBDdHdldkFfcHZ0Qkl6bnZ2cHVqdFNaa0FHREZ6dXB5ckNpcGdmdnZvT29qcnhmakpXVGFTYjdoenRSSzdvWFFoYS1Xb1kxTXJtZUdCeHBaaU1LTFdTT3BPekRhX1ljcWU2T2pkNE00bnVKeXVzNGFiczg?oc=5"
+          }
+        ],
+        "source": "搜狐",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjNQZmg5Nlg3a19SeEZtRjRPaFVNeUZNZFNDMlNIQV82R2JhQVF3RHBiVmVKS2p6dWowbmlpMGdYbjk1UEY1SUdNcUE1Tm1lT0tiUHZxMGZoVFpZd2MwUGRveFIxOTk0dmhZeW9kX2wyOXdpMHdxRmU3aTRJc1JZOVQ1aENqOE1m?oc=5"
+      },
+      {
         "slug": "ai-guide-20261022-auto-1-dd0dc3",
         "title": "有商家卖AI平台破解教程，宣称能“无",
         "category": "AI使用教程",
@@ -34821,6 +34995,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261023-auto-1-431d81",
+        "title": "MiniMax M3.1 Flash",
+        "category": "开源项目",
+        "date": "2026-10-23",
+        "summary": "MiniMax M3.1 Flash Weights Are Out: 428B, 252 GB,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MiniMax M3.1 Flash 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "MiniMax M3.1 Flash Weights Are Out: 428B, 252 GB,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MiniMax M3.1 Flash Weights Are Out: 428B, 252 GB,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OrcaRouter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CTDZVUEJqSzRWejlHSjNlbVR2UV9qc2NUZjdjcGlkZ3ExM0RxeGRvaXY2NFRyeE1VMXBJb2NRQTNFanpCaVhNdEZHUWc0eWNIa3hXN2lVWld0dkhFRXVxQ2dmcDVfOU5yM0RHUzFiUQ?oc=5"
+          },
+          {
+            "label": "OrcaRouter：MiniMax M3.1 Flash vs DeepSeek V4.1 Flash: Both Open, Only One Is MIT ",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hXzRkYV95cGlSbW1xVTJQdjZYd2Q4YkFyUWxyLTdvdDUxMk5IOHdGSGNGZXVWYnQ2V2M5cG1JdFhuN0Z2NTZLb3hKRUUwSEI5dnBYdW5MZE10VXVtX1ZaYktaUTFBM2FoWGt4RXVvLTRGRFdPNFRfbU5kVG0?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWlnWjEwVnZHTHBBNFRvNmRna2RaZkV1SC1JN0VWbnI1YTFkN0tuWkFKSVBGemZoNGFtWUZLNy1lRHFsM2lSaG5TalJ1dG9fZWpRV2ZSWG92SVFoaGc?oc=5"
+          }
+        ],
+        "source": "OrcaRouter",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CTDZVUEJqSzRWejlHSjNlbVR2UV9qc2NUZjdjcGlkZ3ExM0RxeGRvaXY2NFRyeE1VMXBJb2NRQTNFanpCaVhNdEZHUWc0eWNIa3hXN2lVWld0dkhFRXVxQ2dmcDVfOU5yM0RHUzFiUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261023-auto-2-fc6a5b",
+        "title": "MiniMax M3.1 Flash",
+        "category": "开源项目",
+        "date": "2026-10-23",
+        "summary": "MiniMax M3.1 Flash vs DeepSeek V4.1 Flash: Both Op",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MiniMax M3.1 Flash 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "MiniMax M3.1 Flash vs DeepSeek V4.1 Flash: Both Op",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MiniMax M3.1 Flash vs DeepSeek V4.1 Flash: Both Op",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OrcaRouter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hXzRkYV95cGlSbW1xVTJQdjZYd2Q4YkFyUWxyLTdvdDUxMk5IOHdGSGNGZXVWYnQ2V2M5cG1JdFhuN0Z2NTZLb3hKRUUwSEI5dnBYdW5MZE10VXVtX1ZaYktaUTFBM2FoWGt4RXVvLTRGRFdPNFRfbU5kVG0?oc=5"
+          },
+          {
+            "label": "OrcaRouter：MiniMax M3.1 Flash Weights Are Out: 428B, 252 GB, and a $20M Licence L",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CTDZVUEJqSzRWejlHSjNlbVR2UV9qc2NUZjdjcGlkZ3ExM0RxeGRvaXY2NFRyeE1VMXBJb2NRQTNFanpCaVhNdEZHUWc0eWNIa3hXN2lVWld0dkhFRXVxQ2dmcDVfOU5yM0RHUzFiUQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyYWlnWjEwVnZHTHBBNFRvNmRna2RaZkV1SC1JN0VWbnI1YTFkN0tuWkFKSVBGemZoNGFtWUZLNy1lRHFsM2lSaG5TalJ1dG9fZWpRV2ZSWG92SVFoaGc?oc=5"
+          }
+        ],
+        "source": "OrcaRouter",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hXzRkYV95cGlSbW1xVTJQdjZYd2Q4YkFyUWxyLTdvdDUxMk5IOHdGSGNGZXVWYnQ2V2M5cG1JdFhuN0Z2NTZLb3hKRUUwSEI5dnBYdW5MZE10VXVtX1ZaYktaUTFBM2FoWGt4RXVvLTRGRFdPNFRfbU5kVG0?oc=5"
+      },
       {
         "slug": "open-source-20261022-auto-1-b5abc7",
         "title": "Recursive Debuts F",
