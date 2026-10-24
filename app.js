@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261024-auto-1-eb80ac",
+        "title": "来科梦，碰个面！AI生态开放日 看见",
+        "category": "AI新闻",
+        "date": "2026-10-24",
+        "summary": "来科梦，碰个面！AI生态开放日 看见成都数字文创的创新爆发力 新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "来科梦，碰个面！AI生态开放日 看见 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "来科梦，碰个面！AI生态开放日 看见成都数字文创的创新爆发力 新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "来科梦，碰个面！AI生态开放日 看见成都数字文创的创新爆发力 新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlJ3bVhIZVdYdW9xTHhwTEFxTjdsbXlRNTBJSVhNcWNxRW1uS05GS050M2JnUTFIdWVIWHhXY2x3WklwREd6c0IyaWV4ak1LTnNaeGRtODlJU3RudXdlOFVFUUpkUXBzOEE1cmFXeGh3MGpYeG1DSTZNSktMSVNDZmk1SmZYaVNSblRubzFn?oc=5"
+          },
+          {
+            "label": "新浪财经：我市举办“人工智能+赋能民营经济高质量发展专题培训班” - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZanZTbjhDZVJycEdfZHhIZzc2M2xVY3BqQk1YRlo0Y2ozM3NmVXI0M1JMcnhFc0sxczBmem5yckxMblJ0bmh4SFk3QXdhMGZPQ1hHRzRkQ3VqUWJCanlrWTYtY0ttclh6R3gtSUFPVFZ6MzNkM1MwYQ?oc=5"
+          },
+          {
+            "label": "搜狐网：广东【人工智能训练师】专项培训报名已开启，持证最高可申领3120元补贴，55岁以下人员均可参与 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0dnTnZIbVNOY2VRRTcxOUI4aGhpdTBLaXdPTDhyMjRNb3NHd0tzb19CNmVmdXMxVnhNaWRsajZZMHItQXk5UUxsRWxWb2hOUTY3WFI0NkJ1aVpZMks2VmRpcEQ4UF9jVWZGTGVkM2ZFWFBmay1xUGYtc1lQT2hSVHQzWU5jTFdHOU9WVQ?oc=5"
+          }
+        ],
+        "source": "新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlJ3bVhIZVdYdW9xTHhwTEFxTjdsbXlRNTBJSVhNcWNxRW1uS05GS050M2JnUTFIdWVIWHhXY2x3WklwREd6c0IyaWV4ak1LTnNaeGRtODlJU3RudXdlOFVFUUpkUXBzOEE1cmFXeGh3MGpYeG1DSTZNSktMSVNDZmk1SmZYaVNSblRubzFn?oc=5"
+      },
+      {
+        "slug": "ai-news-20261024-auto-2-36a07c",
+        "title": "我市举办“人工智能+赋能民营经济高质",
+        "category": "AI新闻",
+        "date": "2026-10-24",
+        "summary": "我市举办“人工智能+赋能民营经济高质量发展专题培训班” 新浪财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "我市举办“人工智能+赋能民营经济高质 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "我市举办“人工智能+赋能民营经济高质量发展专题培训班” 新浪财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "我市举办“人工智能+赋能民营经济高质量发展专题培训班” 新浪财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZanZTbjhDZVJycEdfZHhIZzc2M2xVY3BqQk1YRlo0Y2ozM3NmVXI0M1JMcnhFc0sxczBmem5yckxMblJ0bmh4SFk3QXdhMGZPQ1hHRzRkQ3VqUWJCanlrWTYtY0ttclh6R3gtSUFPVFZ6MzNkM1MwYQ?oc=5"
+          },
+          {
+            "label": "新浪网：来科梦，碰个面！AI生态开放日 看见成都数字文创的创新爆发力 - 新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlJ3bVhIZVdYdW9xTHhwTEFxTjdsbXlRNTBJSVhNcWNxRW1uS05GS050M2JnUTFIdWVIWHhXY2x3WklwREd6c0IyaWV4ak1LTnNaeGRtODlJU3RudXdlOFVFUUpkUXBzOEE1cmFXeGh3MGpYeG1DSTZNSktMSVNDZmk1SmZYaVNSblRubzFn?oc=5"
+          },
+          {
+            "label": "搜狐网：广东【人工智能训练师】专项培训报名已开启，持证最高可申领3120元补贴，55岁以下人员均可参与 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0dnTnZIbVNOY2VRRTcxOUI4aGhpdTBLaXdPTDhyMjRNb3NHd0tzb19CNmVmdXMxVnhNaWRsajZZMHItQXk5UUxsRWxWb2hOUTY3WFI0NkJ1aVpZMks2VmRpcEQ4UF9jVWZGTGVkM2ZFWFBmay1xUGYtc1lQT2hSVHQzWU5jTFdHOU9WVQ?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZanZTbjhDZVJycEdfZHhIZzc2M2xVY3BqQk1YRlo0Y2ozM3NmVXI0M1JMcnhFc0sxczBmem5yckxMblJ0bmh4SFk3QXdhMGZPQ1hHRzRkQ3VqUWJCanlrWTYtY0ttclh6R3gtSUFPVFZ6MzNkM1MwYQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261023-auto-1-89146a",
         "title": "PHP是什么？为何它引发全球网络安全",
         "category": "AI新闻",
@@ -23715,6 +23831,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261024-auto-1-4872a1",
+        "title": "AI短剧公司几乎不需要基础岗 岗位替",
+        "category": "AI使用教程",
+        "date": "2026-10-24",
+        "summary": "AI短剧公司几乎不需要基础岗 岗位替代与新增并存 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI短剧公司几乎不需要基础岗 岗位替 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI短剧公司几乎不需要基础岗 岗位替代与新增并存 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI短剧公司几乎不需要基础岗 岗位替代与新增并存 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WeE0waG5jdzk1MldrejJ4WUlRTlM2c3E4cFZVWmdGdEN3aERpczFicElxalZzWGJZTElseFBSU182MnE5RkJFenVjc3NOUWpHblhOS0pxZnppVmRNSjdBckdVRXcwdC1IbVR5TDlzd1E?oc=5"
+          },
+          {
+            "label": "Simplilearn.com：The Best AI Coding Tools: Tested and Compared - Simplilearn.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FdTBrYUxNOXNkRUp3c2FWeUtvbmlwczR5T3o5dmFFZlY1ajZwaE5Pc1BnOGEwYWNNU1Z1SE4yOHhUdzVzQ3RBNS1QNzBRMmNFRlRUOEFUbHJtNWxPNXhxSQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Claude Code 上线 MCP Tasks，长任务在后台运行 - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDZJVVhtcDVIeF84Qkt2OFZYRVpjTEkzTGJQOHAyMWVNbHdZdmpCNkh0WjVWS1p0RFQ1OVpxUkJ6ZmRuTW9yS3JRTUI1R0lVYTVFLTRxaHpxTkk1Mk5jd3lBY2xxdnpsU3dJTmIyUE42X3ZNWXZCdm9INjkzdjNLNlk0RnB4WVlXN1o1YQ?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WeE0waG5jdzk1MldrejJ4WUlRTlM2c3E4cFZVWmdGdEN3aERpczFicElxalZzWGJZTElseFBSU182MnE5RkJFenVjc3NOUWpHblhOS0pxZnppVmRNSjdBckdVRXcwdC1IbVR5TDlzd1E?oc=5"
+      },
+      {
         "slug": "ai-guide-20261023-auto-1-c1d75e",
         "title": "媒体聚焦丨互联网法院如何给AI“立规",
         "category": "AI使用教程",
@@ -34995,6 +35169,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261024-auto-1-63a53c",
+        "title": "OpenAI and Anthrop",
+        "category": "开源项目",
+        "date": "2026-10-24",
+        "summary": "OpenAI and Anthropic Disclose AI Model Boundary Br",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI and Anthrop 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI and Anthropic Disclose AI Model Boundary Br",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI and Anthropic Disclose AI Model Boundary Br",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BigGo Finance：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hbjZXMG8tamhHaFVMT3lCbV9fODZ5YVZKb1pJLVJxLVFDWmhqYzBMaWI3WmIyRXI4cXNSVUZvWnRKSEhNN1QwX0lrRjBoOHU5VHo0cWRYMFZrQ1ZlUk5GSklLZEFtZGZpTVZ1LW5CZWdOSDJnN0E?oc=5"
+          },
+          {
+            "label": "eu.36kr.com：Breaking: Two Leading Labs Expose Uncontrolled AI Outbreaks, GitHub Po",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXRVc3MS1RWHlteXJ6eHkya0NNSEl1Q0Qwa3NLQUo4RDZDRjA4eVdKQTd5RV9Edzd0dG9sQXllMGZrUFM4SDNMVHQwY3NXZjUycktB?oc=5"
+          },
+          {
+            "label": "HackerNoon：Immutable Architecture: Why the Future of AI Models Demands Permanent ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2I4Yi1uS1FOOTdjNjNpemZBYmV5YWdlUXRPaEFFUUlBN3I4aTl3RGZkWkJVZ3VTZlktWldxb3pJUGFmQy1jVnQwSFhkZFJSNTZDLVJMNGc1QWlZR2lPYTRYd3A1YmVqbmdfcGl4VVJfSE1yUUdDTVpRLUpxbU1GbjJncHVHbzN0VjVRS0plS0pJaWJEcmNVY0puR0FZd19t?oc=5"
+          }
+        ],
+        "source": "BigGo Finance",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hbjZXMG8tamhHaFVMT3lCbV9fODZ5YVZKb1pJLVJxLVFDWmhqYzBMaWI3WmIyRXI4cXNSVUZvWnRKSEhNN1QwX0lrRjBoOHU5VHo0cWRYMFZrQ1ZlUk5GSklLZEFtZGZpTVZ1LW5CZWdOSDJnN0E?oc=5"
+      },
+      {
+        "slug": "open-source-20261024-auto-2-08f0bc",
+        "title": "Breaking: Two Lead",
+        "category": "开源项目",
+        "date": "2026-10-24",
+        "summary": "Breaking: Two Leading Labs Expose Uncontrolled AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Breaking: Two Lead 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Breaking: Two Leading Labs Expose Uncontrolled AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Breaking: Two Leading Labs Expose Uncontrolled AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "eu.36kr.com：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXRVc3MS1RWHlteXJ6eHkya0NNSEl1Q0Qwa3NLQUo4RDZDRjA4eVdKQTd5RV9Edzd0dG9sQXllMGZrUFM4SDNMVHQwY3NXZjUycktB?oc=5"
+          },
+          {
+            "label": "BigGo Finance：OpenAI and Anthropic Disclose AI Model Boundary Breaches on Same Day; ",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hbjZXMG8tamhHaFVMT3lCbV9fODZ5YVZKb1pJLVJxLVFDWmhqYzBMaWI3WmIyRXI4cXNSVUZvWnRKSEhNN1QwX0lrRjBoOHU5VHo0cWRYMFZrQ1ZlUk5GSklLZEFtZGZpTVZ1LW5CZWdOSDJnN0E?oc=5"
+          },
+          {
+            "label": "HackerNoon：Immutable Architecture: Why the Future of AI Models Demands Permanent ",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2I4Yi1uS1FOOTdjNjNpemZBYmV5YWdlUXRPaEFFUUlBN3I4aTl3RGZkWkJVZ3VTZlktWldxb3pJUGFmQy1jVnQwSFhkZFJSNTZDLVJMNGc1QWlZR2lPYTRYd3A1YmVqbmdfcGl4VVJfSE1yUUdDTVpRLUpxbU1GbjJncHVHbzN0VjVRS0plS0pJaWJEcmNVY0puR0FZd19t?oc=5"
+          }
+        ],
+        "source": "eu.36kr.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXRVc3MS1RWHlteXJ6eHkya0NNSEl1Q0Qwa3NLQUo4RDZDRjA4eVdKQTd5RV9Edzd0dG9sQXllMGZrUFM4SDNMVHQwY3NXZjUycktB?oc=5"
+      },
       {
         "slug": "open-source-20261023-auto-1-431d81",
         "title": "MiniMax M3.1 Flash",
