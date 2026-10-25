@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261025-auto-1-d7cb81",
+        "title": "CEOs say the AI ro",
+        "category": "AI新闻",
+        "date": "2026-10-25",
+        "summary": "CEOs say the AI rollout is going well. Employees f",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "CEOs say the AI ro 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "CEOs say the AI rollout is going well. Employees f",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "CEOs say the AI rollout is going well. Employees f",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Oman Observer：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTYxTHZzYzFxQ0pTUkRfb3hRZm9LSHd5S0ZlZ0U2ckU3bkRET2c0MkFtZEpIaklPckpBZDRjUXNGRWFiV0FDSHpkTXQxbVlJV0F5SEwxLVN2d05CeUo1cEZRc0pwbmdsMlhVM1RhRnZkejZFVkJYOU1PX19lZnhnYlFzSDBYc2ZOQUpfVHRaVG16NFlGWW1qenBIbTZXbWs0QV90dUFvY0wxNkFadi1JVEgwazNfd3NTTWZ3d2FvSHZzZ9IBWkFVX3lxTE41bERQNmNJcXVCcEpsYVhEemRDcHNpRDBGTFAxQzNZR2tXaVpxV3Uza3Izb3haNlRGSF9Pbl9XYnV3ck1PT1VyNkZ0TnhZelM0ZTJseUVWUW5ZQQ?oc=5"
+          },
+          {
+            "label": "21财经：21评论丨本轮AI投资热潮能持续多久？ - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVDd3VoV0NlbE00UmxKbkVqNWNTM295WWJPQjJ2Tk9oeGpCZlJNYnVEVDdlTVBKOWJrMFBiWnlid1JzMGhFbTI1S3lNRHZNNXptRWF5ZjQwM1UtRlZITC1GYWFIR2hGY1FJZU5qODQtZS1OcThfcUpkMGQyaXZpNlFxNmVPVU9WTm9B?oc=5"
+          },
+          {
+            "label": "Times of Malta：Is Europe walking into the AI Dark Ages? - Times of Malta",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZRTBhMGo3a1gzTDMwUHY0MzhiRW9OckFXUWV6TWlVdDNHNDlwNG91UmZQWWl4RmQ4QkF1ZGZaeUJDSkZwZ0NJR3FuaVhERDg0amplVDNtMHRQN1BtUVNSeElWeHBBTmctZlpRYUNKaS1ZdUVVQUVZ?oc=5"
+          }
+        ],
+        "source": "Oman Observer",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTYxTHZzYzFxQ0pTUkRfb3hRZm9LSHd5S0ZlZ0U2ckU3bkRET2c0MkFtZEpIaklPckpBZDRjUXNGRWFiV0FDSHpkTXQxbVlJV0F5SEwxLVN2d05CeUo1cEZRc0pwbmdsMlhVM1RhRnZkejZFVkJYOU1PX19lZnhnYlFzSDBYc2ZOQUpfVHRaVG16NFlGWW1qenBIbTZXbWs0QV90dUFvY0wxNkFadi1JVEgwazNfd3NTTWZ3d2FvSHZzZ9IBWkFVX3lxTE41bERQNmNJcXVCcEpsYVhEemRDcHNpRDBGTFAxQzNZR2tXaVpxV3Uza3Izb3haNlRGSF9Pbl9XYnV3ck1PT1VyNkZ0TnhZelM0ZTJseUVWUW5ZQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261025-auto-2-bc54ce",
+        "title": "21评论丨本轮AI投资热潮能持续多久",
+        "category": "AI新闻",
+        "date": "2026-10-25",
+        "summary": "21评论丨本轮AI投资热潮能持续多久？ 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "21评论丨本轮AI投资热潮能持续多久 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "21评论丨本轮AI投资热潮能持续多久？ 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "21评论丨本轮AI投资热潮能持续多久？ 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVDd3VoV0NlbE00UmxKbkVqNWNTM295WWJPQjJ2Tk9oeGpCZlJNYnVEVDdlTVBKOWJrMFBiWnlid1JzMGhFbTI1S3lNRHZNNXptRWF5ZjQwM1UtRlZITC1GYWFIR2hGY1FJZU5qODQtZS1OcThfcUpkMGQyaXZpNlFxNmVPVU9WTm9B?oc=5"
+          },
+          {
+            "label": "Oman Observer：CEOs say the AI rollout is going well. Employees feel differently - Om",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTYxTHZzYzFxQ0pTUkRfb3hRZm9LSHd5S0ZlZ0U2ckU3bkRET2c0MkFtZEpIaklPckpBZDRjUXNGRWFiV0FDSHpkTXQxbVlJV0F5SEwxLVN2d05CeUo1cEZRc0pwbmdsMlhVM1RhRnZkejZFVkJYOU1PX19lZnhnYlFzSDBYc2ZOQUpfVHRaVG16NFlGWW1qenBIbTZXbWs0QV90dUFvY0wxNkFadi1JVEgwazNfd3NTTWZ3d2FvSHZzZ9IBWkFVX3lxTE41bERQNmNJcXVCcEpsYVhEemRDcHNpRDBGTFAxQzNZR2tXaVpxV3Uza3Izb3haNlRGSF9Pbl9XYnV3ck1PT1VyNkZ0TnhZelM0ZTJseUVWUW5ZQQ?oc=5"
+          },
+          {
+            "label": "Times of Malta：Is Europe walking into the AI Dark Ages? - Times of Malta",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZRTBhMGo3a1gzTDMwUHY0MzhiRW9OckFXUWV6TWlVdDNHNDlwNG91UmZQWWl4RmQ4QkF1ZGZaeUJDSkZwZ0NJR3FuaVhERDg0amplVDNtMHRQN1BtUVNSeElWeHBBTmctZlpRYUNKaS1ZdUVVQUVZ?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVVDd3VoV0NlbE00UmxKbkVqNWNTM295WWJPQjJ2Tk9oeGpCZlJNYnVEVDdlTVBKOWJrMFBiWnlid1JzMGhFbTI1S3lNRHZNNXptRWF5ZjQwM1UtRlZITC1GYWFIR2hGY1FJZU5qODQtZS1OcThfcUpkMGQyaXZpNlFxNmVPVU9WTm9B?oc=5"
+      },
+      {
         "slug": "ai-news-20261024-auto-1-eb80ac",
         "title": "来科梦，碰个面！AI生态开放日 看见",
         "category": "AI新闻",
@@ -23831,6 +23947,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261025-auto-1-641056",
+        "title": "一颗AI毫米波雷达，千里科技在补哪一",
+        "category": "AI使用教程",
+        "date": "2026-10-25",
+        "summary": "一颗AI毫米波雷达，千里科技在补哪一环-36氪 36kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "一颗AI毫米波雷达，千里科技在补哪一 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "一颗AI毫米波雷达，千里科技在补哪一环-36氪 36kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "一颗AI毫米波雷达，千里科技在补哪一环-36氪 36kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TWFkzb245VHZWLUZvaHdQdEVPbDY2Tm5ERkU3OGRCX3lUNi1zZlVBT1k4MEhwRmVMd2pXV2E1ajd3ZmFkVk5JQ3J1TjFQaGxS?oc=5"
+          },
+          {
+            "label": "36kr：硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？-36氪 - 36kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zZUd4cXhsYnM1cUZkWkNkanNGMUNhMmxPTUlFVVlZVi1NVGR2czdGYXJNN2JMTVE3NWNxb2JXeFVTVFYzVm1rUkItYWIyWkxZ?oc=5"
+          },
+          {
+            "label": "36kr：提示词工程已死！祖师爷亲手砸饭碗：以后问AI，不用再念咒了-36氪 - 36kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2RkhpV3NWbjVDMF9tTE1tQjAyLUg1WHktWElhX2xBYV9UVkJkX1JhNHBlXzJOS00teDVpajVFU1plemV5TVhsemg3QUx2V1Y4?oc=5"
+          }
+        ],
+        "source": "36kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TWFkzb245VHZWLUZvaHdQdEVPbDY2Tm5ERkU3OGRCX3lUNi1zZlVBT1k4MEhwRmVMd2pXV2E1ajd3ZmFkVk5JQ3J1TjFQaGxS?oc=5"
+      },
+      {
         "slug": "ai-guide-20261024-auto-1-4872a1",
         "title": "AI短剧公司几乎不需要基础岗 岗位替",
         "category": "AI使用教程",
@@ -35169,6 +35343,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261025-auto-1-d82484",
+        "title": "四分之一 PR 是“AI 垃圾”！L",
+        "category": "开源项目",
+        "date": "2026-10-25",
+        "summary": "四分之一 PR 是“AI 垃圾”！Linux 基金会发布新报告：AI 写代码快了 52%，开源维护者",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "四分之一 PR 是“AI 垃圾”！L 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "四分之一 PR 是“AI 垃圾”！Linux 基金会发布新报告：AI 写代码快了 52%，开源维护者",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "四分之一 PR 是“AI 垃圾”！Linux 基金会发布新报告：AI 写代码快了 52%，开源维护者",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "InfoQ-CN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjM0MUNBcmY4UWtzdWtBNVFzY1dLWjF0ZTFvVVRIUnotUXBPdEc3ZUxpVkpBY2hYaE82SnNjY1FBQ3k0ZFdJWlBrT1FFWnl3TS01TTRvSF9VRnpGWERoMEpCRXpSQVBRRzRNTkxBN3BqLWNyMk1tUGNta2dGc2Q2N2tYZnk3M04z?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents ",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQdIBmwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQQ?oc=5"
+          },
+          {
+            "label": "KuCoin：Open-Source Project GPU Unlock Boosts RTX 30 Series AI Performance by ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmZzcjM4ODJRTEp6WG9DZU52MDdmNG5zRTVOWURMbkZTMDVtZ2k4N201amVnZTJTa0F4anhXMkdPOERXN2d2Ti1QTHFUWmtFWDJKVFdJZzdCQW9wU2hydTYxbmpkUGwyWS13aFp5Z3JRcFRCSjFCbUdYU2VXUlFBT1YzYzhfNTNRdkxhbFQ4VGVJdGN2YzNmaExyT3RPQWk2eU1Md0lBVjNxZTJjcFd6enN3?oc=5"
+          }
+        ],
+        "source": "InfoQ-CN",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjM0MUNBcmY4UWtzdWtBNVFzY1dLWjF0ZTFvVVRIUnotUXBPdEc3ZUxpVkpBY2hYaE82SnNjY1FBQ3k0ZFdJWlBrT1FFWnl3TS01TTRvSF9VRnpGWERoMEpCRXpSQVBRRzRNTkxBN3BqLWNyMk1tUGNta2dGc2Q2N2tYZnk3M04z?oc=5"
+      },
+      {
+        "slug": "open-source-20261025-auto-2-277777",
+        "title": "Microsoft Open-Sou",
+        "category": "开源项目",
+        "date": "2026-10-25",
+        "summary": "Microsoft Open-Sources Agensh: A Multi-Agent Harne",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Microsoft Open-Sou 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Microsoft Open-Sources Agensh: A Multi-Agent Harne",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Microsoft Open-Sources Agensh: A Multi-Agent Harne",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQdIBmwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQQ?oc=5"
+          },
+          {
+            "label": "InfoQ-CN：四分之一 PR 是“AI 垃圾”！Linux 基金会发布新报告：AI 写代码快了 52%，开源维护者却更累了 - InfoQ-CN",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjM0MUNBcmY4UWtzdWtBNVFzY1dLWjF0ZTFvVVRIUnotUXBPdEc3ZUxpVkpBY2hYaE82SnNjY1FBQ3k0ZFdJWlBrT1FFWnl3TS01TTRvSF9VRnpGWERoMEpCRXpSQVBRRzRNTkxBN3BqLWNyMk1tUGNta2dGc2Q2N2tYZnk3M04z?oc=5"
+          },
+          {
+            "label": "KuCoin：Open-Source Project GPU Unlock Boosts RTX 30 Series AI Performance by ",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmZzcjM4ODJRTEp6WG9DZU52MDdmNG5zRTVOWURMbkZTMDVtZ2k4N201amVnZTJTa0F4anhXMkdPOERXN2d2Ti1QTHFUWmtFWDJKVFdJZzdCQW9wU2hydTYxbmpkUGwyWS13aFp5Z3JRcFRCSjFCbUdYU2VXUlFBT1YzYzhfNTNRdkxhbFQ4VGVJdGN2YzNmaExyT3RPQWk2eU1Md0lBVjNxZTJjcFd6enN3?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQdIBmwFBVV95cUxQZDNWQml5RFBKNHZZaWduOHdpeUkxM3NqbV9xYTRpaWVhbGwyclQ1djRlSTc5NDBnd2tFQmVlUC1KMzUyeHdPOWVlSWVxbXBKd3BoLUo4aEd3Q01GN0dkUzJxVE1YQkNyNUU2ZzJnWnRIOTFkbHk0bmdZcmN2ZFlWb0VUb09RQUZ2Q1hRLXAxeFNaaElTRHFaOG9JQQ?oc=5"
+      },
       {
         "slug": "open-source-20261024-auto-1-63a53c",
         "title": "OpenAI and Anthrop",
