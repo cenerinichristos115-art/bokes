@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261026-auto-1-ff4696",
+        "title": "人工智能越“聪明”，就越需要算力吗？",
+        "category": "AI新闻",
+        "date": "2026-10-26",
+        "summary": "人工智能越“聪明”，就越需要算力吗？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能越“聪明”，就越需要算力吗？ 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "人工智能越“聪明”，就越需要算力吗？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能越“聪明”，就越需要算力吗？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTFiWU9XQWlCY3UzQ0xkaFpYTVplNGlNYzFpcXF0UzZfY1N4b3R5OUJPLWFzM01QcG83WDhsNkpINFBFRnlsbExTZG9MMUZQV0liZUYtRlBxYk00T3QtQlUyY1lZcFVPWC1vVmNsWHVxMVBQbXpXd0hIc09oSDZjeEVjaWJqaFZwVDdqOHhB?oc=5"
+          },
+          {
+            "label": "手机新浪网：全国多所财经高校布局“AI +财经” - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WU1GMHdTbDhYbnFVMG9maE1MbWNKdkg2YW5jRzlMaEFkV3BvQ1FfT1MwNjNDNHZObkszNm85SkhGNDMySmNaYl84cUs3S08tQm5vWDhFcVVDYlB4UXVpTkxCbFNiUWc4YkVGWmwyMjZEZjlYZlh4djFkdWpuZw?oc=5"
+          },
+          {
+            "label": "流媒体网：下载→《2026人工智能产业十大关键词》 - 流媒体网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfb3Y0WnQzc2o2SFVPSjE2VFRaUkk4Qmp2Yk50VENkLTF2d1g3cXZBRkJtTVNTN3NqVjZ5dDRtbUNySzF6elhoS1V6Y2tFNEVzRTN2ay0wYTNjQy1BcFRVSmJYdkgzTTRzcXlZ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTFiWU9XQWlCY3UzQ0xkaFpYTVplNGlNYzFpcXF0UzZfY1N4b3R5OUJPLWFzM01QcG83WDhsNkpINFBFRnlsbExTZG9MMUZQV0liZUYtRlBxYk00T3QtQlUyY1lZcFVPWC1vVmNsWHVxMVBQbXpXd0hIc09oSDZjeEVjaWJqaFZwVDdqOHhB?oc=5"
+      },
+      {
+        "slug": "ai-news-20261026-auto-2-766565",
+        "title": "全国多所财经高校布局“AI +财经”",
+        "category": "AI新闻",
+        "date": "2026-10-26",
+        "summary": "全国多所财经高校布局“AI +财经” 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "全国多所财经高校布局“AI +财经” 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "全国多所财经高校布局“AI +财经” 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "全国多所财经高校布局“AI +财经” 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WU1GMHdTbDhYbnFVMG9maE1MbWNKdkg2YW5jRzlMaEFkV3BvQ1FfT1MwNjNDNHZObkszNm85SkhGNDMySmNaYl84cUs3S08tQm5vWDhFcVVDYlB4UXVpTkxCbFNiUWc4YkVGWmwyMjZEZjlYZlh4djFkdWpuZw?oc=5"
+          },
+          {
+            "label": "手机新浪网：人工智能越“聪明”，就越需要算力吗？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTFiWU9XQWlCY3UzQ0xkaFpYTVplNGlNYzFpcXF0UzZfY1N4b3R5OUJPLWFzM01QcG83WDhsNkpINFBFRnlsbExTZG9MMUZQV0liZUYtRlBxYk00T3QtQlUyY1lZcFVPWC1vVmNsWHVxMVBQbXpXd0hIc09oSDZjeEVjaWJqaFZwVDdqOHhB?oc=5"
+          },
+          {
+            "label": "流媒体网：下载→《2026人工智能产业十大关键词》 - 流媒体网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfb3Y0WnQzc2o2SFVPSjE2VFRaUkk4Qmp2Yk50VENkLTF2d1g3cXZBRkJtTVNTN3NqVjZ5dDRtbUNySzF6elhoS1V6Y2tFNEVzRTN2ay0wYTNjQy1BcFRVSmJYdkgzTTRzcXlZ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WU1GMHdTbDhYbnFVMG9maE1MbWNKdkg2YW5jRzlMaEFkV3BvQ1FfT1MwNjNDNHZObkszNm85SkhGNDMySmNaYl84cUs3S08tQm5vWDhFcVVDYlB4UXVpTkxCbFNiUWc4YkVGWmwyMjZEZjlYZlh4djFkdWpuZw?oc=5"
+      },
+      {
         "slug": "ai-news-20261025-auto-1-d7cb81",
         "title": "CEOs say the AI ro",
         "category": "AI新闻",
@@ -23947,6 +24063,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261026-auto-1-9a14aa",
+        "title": "AI成功破解索尼A7C II相机固件",
+        "category": "AI使用教程",
+        "date": "2026-10-26",
+        "summary": "AI成功破解索尼A7C II相机固件，直接解锁FL2 / FL3和富士理光滤镜 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI成功破解索尼A7C II相机固件 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI成功破解索尼A7C II相机固件，直接解锁FL2 / FL3和富士理光滤镜 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI成功破解索尼A7C II相机固件，直接解锁FL2 / FL3和富士理光滤镜 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWhGampKemM0QXJvRUJ3R0lGZTg2bTFlYmt2MzdJUThWUjgyUk9rMWRta2FiUGFFeU83NVphc2RQdExZM3AtM3MyS09hckRTRVRJZkJVWVBZdFdjZWNTdDJOMlptbEhsYlBEWDV3bnN1b2libDBibHh3UlEyMkRBRw?oc=5"
+          },
+          {
+            "label": "手机新浪网：公司帮做AI探店视频月流水800万，店内环境、菜品展示甚至排队场景都可以AI生成 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnJwclJza3hCZFd1TnlROHJBX2Npdmo4VFRWdmVXRG1OZHp0ZkwyaERtTS1SUG1WWXlZbDJOWGtSemFHU3dPOGNPZ1ZmY3VFRFhOblhmRDhYZVhjX0VMLXZBeUNwTXF0bXgwOW82UWxMdGZWLTJ1NDRfYlNiVnBOcDFCcVFKQQ?oc=5"
+          },
+          {
+            "label": "手机搜狐网：花0.18元买AI探店教程 不到10元就能生成 业内称有代做公司月流水800万元 - 手机搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUNjQXZla2JJOEl2U3B3dHFKb1JHZktXazdHZks0NGJPMHhzZ0FROXpEZUx4VlZvMGJGVExnb2s1U2pPVXNIYS1fRU5vYlNrdHlBQThlNGliT3FzcTFvT09udnIxczBRM2dDQk9JUmV2LVlPek9XMmZzTHN5cmk1aVBVVklzaXpHUEdneA?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWhGampKemM0QXJvRUJ3R0lGZTg2bTFlYmt2MzdJUThWUjgyUk9rMWRta2FiUGFFeU83NVphc2RQdExZM3AtM3MyS09hckRTRVRJZkJVWVBZdFdjZWNTdDJOMlptbEhsYlBEWDV3bnN1b2libDBibHh3UlEyMkRBRw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261025-auto-1-641056",
         "title": "一颗AI毫米波雷达，千里科技在补哪一",
         "category": "AI使用教程",
@@ -35343,6 +35517,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261026-auto-1-20cf19",
+        "title": "China Open-Weight",
+        "category": "开源项目",
+        "date": "2026-10-26",
+        "summary": "China Open-Weight AI: 5 Risks vs 5 Wins [2026] sha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China Open-Weight 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China Open-Weight AI: 5 Risks vs 5 Wins [2026] sha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China Open-Weight AI: 5 Risks vs 5 Wins [2026] sha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "shattered.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmt1RkZYT0FkS2FoM0dGT2xCeEdGSkxUYzYtQTEyQkpURURfaDY2cHZkS0oxbDd5MlY3LUw1dGZUaUFwM0cybGRSSkw0d1N0MkpUZ3laMnRhaTNudzNlVEJlS2Y4bW9xNlRTNjZnNHU1WUJlc0Qwa2p4LWl5eHlXOHlMSGtpN1l1a18wbWln?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Hobbyists Are Squeezing Trillion-Parameter AI Models Onto Laptops - St",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUViVjI2OXBZd2pWbFg0YmZPTWJXZWh5SExYTmVma2dLdjRiSExiaDYybE5UYzd3WjlVNkJnd2MwcHNVQTluZ0ptQ3dEU1FIZ1JjRGs2THNDY083eVBZQkNJbTRaODFza3BHRkpXeFBnd1VKS2l4cFNRZGxnNTJnUUpxVXUwOFotdkVSSENpQUlrellSUmhKTg?oc=5"
+          },
+          {
+            "label": "36Kr：Amid the global open-source war, how many AI projects have been brough",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cDVNLWFsdHk2TEdybjA1UUd6N2tkLUZCVU1XN1N6ZWE0RzlHUGczMVdZRzR5N3ZnTW5RaW43bzB1UEx5a0Y3U216NHJKczU2ZVNr?oc=5"
+          }
+        ],
+        "source": "shattered.io",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmt1RkZYT0FkS2FoM0dGT2xCeEdGSkxUYzYtQTEyQkpURURfaDY2cHZkS0oxbDd5MlY3LUw1dGZUaUFwM0cybGRSSkw0d1N0MkpUZ3laMnRhaTNudzNlVEJlS2Y4bW9xNlRTNjZnNHU1WUJlc0Qwa2p4LWl5eHlXOHlMSGtpN1l1a18wbWln?oc=5"
+      },
+      {
+        "slug": "open-source-20261026-auto-2-71afc9",
+        "title": "Hobbyists Are Sque",
+        "category": "开源项目",
+        "date": "2026-10-26",
+        "summary": "Hobbyists Are Squeezing Trillion-Parameter AI Mode",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hobbyists Are Sque 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Hobbyists Are Squeezing Trillion-Parameter AI Mode",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hobbyists Are Squeezing Trillion-Parameter AI Mode",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Startup Fortune：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUViVjI2OXBZd2pWbFg0YmZPTWJXZWh5SExYTmVma2dLdjRiSExiaDYybE5UYzd3WjlVNkJnd2MwcHNVQTluZ0ptQ3dEU1FIZ1JjRGs2THNDY083eVBZQkNJbTRaODFza3BHRkpXeFBnd1VKS2l4cFNRZGxnNTJnUUpxVXUwOFotdkVSSENpQUlrellSUmhKTg?oc=5"
+          },
+          {
+            "label": "shattered.io：China Open-Weight AI: 5 Risks vs 5 Wins [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmt1RkZYT0FkS2FoM0dGT2xCeEdGSkxUYzYtQTEyQkpURURfaDY2cHZkS0oxbDd5MlY3LUw1dGZUaUFwM0cybGRSSkw0d1N0MkpUZ3laMnRhaTNudzNlVEJlS2Y4bW9xNlRTNjZnNHU1WUJlc0Qwa2p4LWl5eHlXOHlMSGtpN1l1a18wbWln?oc=5"
+          },
+          {
+            "label": "36Kr：Amid the global open-source war, how many AI projects have been brough",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cDVNLWFsdHk2TEdybjA1UUd6N2tkLUZCVU1XN1N6ZWE0RzlHUGczMVdZRzR5N3ZnTW5RaW43bzB1UEx5a0Y3U216NHJKczU2ZVNr?oc=5"
+          }
+        ],
+        "source": "Startup Fortune",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZUViVjI2OXBZd2pWbFg0YmZPTWJXZWh5SExYTmVma2dLdjRiSExiaDYybE5UYzd3WjlVNkJnd2MwcHNVQTluZ0ptQ3dEU1FIZ1JjRGs2THNDY083eVBZQkNJbTRaODFza3BHRkpXeFBnd1VKS2l4cFNRZGxnNTJnUUpxVXUwOFotdkVSSENpQUlrellSUmhKTg?oc=5"
+      },
       {
         "slug": "open-source-20261025-auto-1-d82484",
         "title": "四分之一 PR 是“AI 垃圾”！L",
