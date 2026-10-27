@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261027-auto-1-9284b4",
+        "title": "“AI消费者”助力韩企预测消费行为",
+        "category": "AI新闻",
+        "date": "2026-10-27",
+        "summary": "“AI消费者”助力韩企预测消费行为 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“AI消费者”助力韩企预测消费行为 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“AI消费者”助力韩企预测消费行为 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“AI消费者”助力韩企预测消费行为 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Q25va3psalNDaUtjdVZRbHJzQmozam1JUzZRUmRZa3VZaTl6a0RjUkVDdl8tN3ZlM1FxV1VLOXEyS1JRdV9MWF9TYjBtU1o5WGZPbkE2dlVWSV9XNE1EM1lIZ29KQmkzb2p1YUFLM0RSc0U0cGItYllFcGY1cE0?oc=5"
+          },
+          {
+            "label": "投资界：50亿元物理AI与世界模型基金落地南京 - 投资界",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMUtiN1kwdENXZC1xelRXVnVkQnRCMFUtVzNsUmZqdlROMW5SWGQ2eG9FT3dRR1padXdFTnA1RDRNNG5sbzd6SDV4MzhYN0tHNGtKN0xn?oc=5"
+          },
+          {
+            "label": "新浪财经：外媒：AI支出激增，美国投资级债券发行规模有望刷新历史纪录 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PTnVsR0k5SmJQaDcwTl9rMmNfXzQwd2o4NS1JbFlJMnZLN1h2TTZ3MGdhWW5OSHpQLXJVeUxSZFppTURGbmo2cm9mSXZ0MXQzV2I0OGdPLTRZbENXRTlaakFpb09vQWE1N2MzRzF6YUw0dTVBYmY3dg?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Q25va3psalNDaUtjdVZRbHJzQmozam1JUzZRUmRZa3VZaTl6a0RjUkVDdl8tN3ZlM1FxV1VLOXEyS1JRdV9MWF9TYjBtU1o5WGZPbkE2dlVWSV9XNE1EM1lIZ29KQmkzb2p1YUFLM0RSc0U0cGItYllFcGY1cE0?oc=5"
+      },
+      {
+        "slug": "ai-news-20261027-auto-2-e550c4",
+        "title": "50亿元物理AI与世界模型基金落地南",
+        "category": "AI新闻",
+        "date": "2026-10-27",
+        "summary": "50亿元物理AI与世界模型基金落地南京 投资界",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "50亿元物理AI与世界模型基金落地南 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "50亿元物理AI与世界模型基金落地南京 投资界",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "50亿元物理AI与世界模型基金落地南京 投资界",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "投资界：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMUtiN1kwdENXZC1xelRXVnVkQnRCMFUtVzNsUmZqdlROMW5SWGQ2eG9FT3dRR1padXdFTnA1RDRNNG5sbzd6SDV4MzhYN0tHNGtKN0xn?oc=5"
+          },
+          {
+            "label": "手机新浪网：“AI消费者”助力韩企预测消费行为 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Q25va3psalNDaUtjdVZRbHJzQmozam1JUzZRUmRZa3VZaTl6a0RjUkVDdl8tN3ZlM1FxV1VLOXEyS1JRdV9MWF9TYjBtU1o5WGZPbkE2dlVWSV9XNE1EM1lIZ29KQmkzb2p1YUFLM0RSc0U0cGItYllFcGY1cE0?oc=5"
+          },
+          {
+            "label": "新浪财经：外媒：AI支出激增，美国投资级债券发行规模有望刷新历史纪录 - 新浪财经",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PTnVsR0k5SmJQaDcwTl9rMmNfXzQwd2o4NS1JbFlJMnZLN1h2TTZ3MGdhWW5OSHpQLXJVeUxSZFppTURGbmo2cm9mSXZ0MXQzV2I0OGdPLTRZbENXRTlaakFpb09vQWE1N2MzRzF6YUw0dTVBYmY3dg?oc=5"
+          }
+        ],
+        "source": "投资界",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMUtiN1kwdENXZC1xelRXVnVkQnRCMFUtVzNsUmZqdlROMW5SWGQ2eG9FT3dRR1padXdFTnA1RDRNNG5sbzd6SDV4MzhYN0tHNGtKN0xn?oc=5"
+      },
+      {
         "slug": "ai-news-20261026-auto-1-ff4696",
         "title": "人工智能越“聪明”，就越需要算力吗？",
         "category": "AI新闻",
@@ -24063,6 +24179,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261027-auto-1-fe3a8a",
+        "title": "Can AI help physic",
+        "category": "AI使用教程",
+        "date": "2026-10-27",
+        "summary": "Can AI help physicists solve the mystery of time?",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Can AI help physic 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Can AI help physicists solve the mystery of time?",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Can AI help physicists solve the mystery of time?",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3Y0RjZUektaNThZenNsbG80Vm9yNHhKbG9oZHdPZVAxa1M4N3lMNFZ1dngtWDlWX2tTVWlSZjM2V3lWdFRKYm5leDZFeWh2d1BHVVI4ZTFycjJqaEZsTk0wdmVIcWZfem1Ha0JoelVUNkhhOTVtbTFqNUZOWENKRUFCTll1SVYyY1pjNVJUMlY?oc=5"
+          },
+          {
+            "label": "디지털투데이：Fortinet为FortiGate新增AI安全服务，可实时检测提示词并脱敏 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTVmd1dSYUZ6a1Z6UzRiZDFlUVF3cTdEOXE1VzFGT01ZWGYtSnpGZU81QUwwNk5jemVxOXd0X2d6aWlSQ25NWUg3WnBWMW9hYzFzX1VVaThOd0h4LUFIY0oyU1ZmOFJhOHY2eldwbWx1VERMcUNFRFNQSE14U0dKdzVOQ1p4bldLT3VSbTdTNGVtTDNfcFJBWk9tNUlDV21CWnNsRFdUXy1Iank3bWFNWklKRmpfWVZXMUtvX21yTlA?oc=5"
+          },
+          {
+            "label": "教育在线：提示词也要留底！高校论文AI管理出现新变化 - 教育在线",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sQ1ZPUThkMEcxTDFlSUNIZ01ad0N1NUFtTWVVTGduVTRYRGQwTnNFbkF6YXptLUFQMUw5bEFXZFB3ak9MUFhXZEE0RWd0MHY2UElqdUhJZXU1N21qcFRhamFBTDEyQ3I1Y05QNG9R?oc=5"
+          }
+        ],
+        "source": "IBM",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3Y0RjZUektaNThZenNsbG80Vm9yNHhKbG9oZHdPZVAxa1M4N3lMNFZ1dngtWDlWX2tTVWlSZjM2V3lWdFRKYm5leDZFeWh2d1BHVVI4ZTFycjJqaEZsTk0wdmVIcWZfem1Ha0JoelVUNkhhOTVtbTFqNUZOWENKRUFCTll1SVYyY1pjNVJUMlY?oc=5"
+      },
+      {
         "slug": "ai-guide-20261026-auto-1-9a14aa",
         "title": "AI成功破解索尼A7C II相机固件",
         "category": "AI使用教程",
@@ -35517,6 +35691,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261027-auto-1-a6f783",
+        "title": "Gensyn AI 是面向 AI 模",
+        "category": "开源项目",
+        "date": "2026-10-27",
+        "summary": "Gensyn AI 是面向 AI 模型训练的去中心化 GPU 市场 OneBullEx",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Gensyn AI 是面向 AI 模 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Gensyn AI 是面向 AI 模型训练的去中心化 GPU 市场 OneBullEx",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Gensyn AI 是面向 AI 模型训练的去中心化 GPU 市场 OneBullEx",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OneBullEx：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckFLN0pwYkZOV0ZDQTdmZzhYcGJ3QktOTFRVZkV1OWtqYkpmZWI4TTFWUjBXZ3dyc2dEQU91dzZ4TGhfaDAxaldFZl9zVEhBVHBwSWNSak5FMGdPaHZrMWF0NDFad0hMMDlaWUlWRUxVX2xFb2xXaHExVThNZjdWWFBmMVF5NVU?oc=5"
+          },
+          {
+            "label": "Tech Times：GitHub Had 257 Incidents in 12 Months: Entire Ships Distributed Forge ",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUQzOEdsajEwN3RKZmNLNFdRdFVfTGxNclgzMzg5V1RtRUhFa2NMWTM2Q1pacm05Y0dEa1pHcWNyMEdXVkZSdTVBemFfdEVXWS05cEltZTdva2lZSHpMSGtMY2hodU54dmtpVXVpa21qVVhmVVlxSzhmMl9BOHdhaHFsaHVGSmwxb01ucktabGV0ZW56RDlab3NGS2dBbkxyR0xwSm9aME1ZR2dXYTBPMmQ2Z2lDRlBFZHVscHF2ejg5MkN4QklZTFBR?oc=5"
+          },
+          {
+            "label": "财联社：开源中国CEO徐勇：以AI驱动研发重塑软件生产，打造智能化软件工厂 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTY0ZKZDN2cjNkVGJtamhEQ0VtY1VINHgxMUVKaWYwZXB3U3QyUFBvbHl5aVZ2QlhpbXVReUdBQkYyOTU4cXpPVQ?oc=5"
+          }
+        ],
+        "source": "OneBullEx",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckFLN0pwYkZOV0ZDQTdmZzhYcGJ3QktOTFRVZkV1OWtqYkpmZWI4TTFWUjBXZ3dyc2dEQU91dzZ4TGhfaDAxaldFZl9zVEhBVHBwSWNSak5FMGdPaHZrMWF0NDFad0hMMDlaWUlWRUxVX2xFb2xXaHExVThNZjdWWFBmMVF5NVU?oc=5"
+      },
+      {
+        "slug": "open-source-20261027-auto-2-c494b9",
+        "title": "GitHub Had 257 Inc",
+        "category": "开源项目",
+        "date": "2026-10-27",
+        "summary": "GitHub Had 257 Incidents in 12 Months: Entire Ship",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GitHub Had 257 Inc 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "GitHub Had 257 Incidents in 12 Months: Entire Ship",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GitHub Had 257 Incidents in 12 Months: Entire Ship",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUQzOEdsajEwN3RKZmNLNFdRdFVfTGxNclgzMzg5V1RtRUhFa2NMWTM2Q1pacm05Y0dEa1pHcWNyMEdXVkZSdTVBemFfdEVXWS05cEltZTdva2lZSHpMSGtMY2hodU54dmtpVXVpa21qVVhmVVlxSzhmMl9BOHdhaHFsaHVGSmwxb01ucktabGV0ZW56RDlab3NGS2dBbkxyR0xwSm9aME1ZR2dXYTBPMmQ2Z2lDRlBFZHVscHF2ejg5MkN4QklZTFBR?oc=5"
+          },
+          {
+            "label": "OneBullEx：Gensyn AI 是面向 AI 模型训练的去中心化 GPU 市场 - OneBullEx",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckFLN0pwYkZOV0ZDQTdmZzhYcGJ3QktOTFRVZkV1OWtqYkpmZWI4TTFWUjBXZ3dyc2dEQU91dzZ4TGhfaDAxaldFZl9zVEhBVHBwSWNSak5FMGdPaHZrMWF0NDFad0hMMDlaWUlWRUxVX2xFb2xXaHExVThNZjdWWFBmMVF5NVU?oc=5"
+          },
+          {
+            "label": "财联社：开源中国CEO徐勇：以AI驱动研发重塑软件生产，打造智能化软件工厂 - 财联社",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTY0ZKZDN2cjNkVGJtamhEQ0VtY1VINHgxMUVKaWYwZXB3U3QyUFBvbHl5aVZ2QlhpbXVReUdBQkYyOTU4cXpPVQ?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUQzOEdsajEwN3RKZmNLNFdRdFVfTGxNclgzMzg5V1RtRUhFa2NMWTM2Q1pacm05Y0dEa1pHcWNyMEdXVkZSdTVBemFfdEVXWS05cEltZTdva2lZSHpMSGtMY2hodU54dmtpVXVpa21qVVhmVVlxSzhmMl9BOHdhaHFsaHVGSmwxb01ucktabGV0ZW56RDlab3NGS2dBbkxyR0xwSm9aME1ZR2dXYTBPMmQ2Z2lDRlBFZHVscHF2ejg5MkN4QklZTFBR?oc=5"
+      },
       {
         "slug": "open-source-20261026-auto-1-20cf19",
         "title": "China Open-Weight",
