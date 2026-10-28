@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261028-auto-1-687fb2",
+        "title": "Experts defer to A",
+        "category": "AI新闻",
+        "date": "2026-10-28",
+        "summary": "Experts defer to AI in decision-making, Anthropic",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Experts defer to A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Experts defer to AI in decision-making, Anthropic",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Experts defer to AI in decision-making, Anthropic",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Al Jazeera：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkNYVlZwZ2dJMjZFOEp4TERHeUZINUsxTl9oN1YxM3N4RFRlQm9GMVlQV1E1RVZYbUZUS0g3MFlONmRYOVJVTTllQ1BqbWE3dGZGVnRZOGNzMW1JTW9sUHQ4YW5lMGtrMDdXSHpkOEJNXy1aa3NSd0FVZnNvMGZtOEY5TnlnT2p2MXdaaGpFRURNdEZxY3ZlMFpkOUtrdjJWWm8tdW9IRnjSAa4BQVVfeXFMUHRYd2hBNHdmRFA2OS1iNHJvdmwwS0JsbGIySGJoZmlLZEw0clNGSGs0Y3kxZjV1MEJDVHBXQ2NXSlNNamZMNkVuWHpYTXV2U1otMTlDN3lGTzVySl92RnlQc1VEVWtlMUNwNEJhTUNFLVo4cTJScXY0VnNuQWdld01NR09FdVNRVW5pTHRtMExiSWt6ODNUeWJwd0p5YlVsMHRjRzdxVnJfNndxTTdn?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：Ahead of its public launch in November, Anthropic unveils its future v",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWlFwWVF0NGJmd0dqZVphX1pYdHoteGctdUpYM1VEbm95Y1pvSnNEWUVPN1dySVZOdkpYektVbE1VYjNFTmRlZEM1UUcwUHZWUFpNNE5TQkQxdU9SbjR2M2xzeHJHLUtzUXNmamZyd1A3MzU2d2lLd2VLRXRNNGpTMVQzdUNkNzNNRktnbkRtZ3JlWjJHcGJvVzJpdXdyaFd0bjExdG93cy1vMy04RjBWdm01UFU5NlpTb0gtQ2ttZjJ4a2ZCTGVOZzB2RWg1SFJUY1ZFZGw3TnRWQnhtRld5U05EbGplcXR0cXdsUzJ0bw?oc=5"
+          },
+          {
+            "label": "搜狐网：AI领航·智造出海 | 人工智能产业论坛邀您参加！ - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTB1aV9mSk1wM1BWNWpPZ3N3b1lqZl9tcllIQ0tJYzRJV3dhckpsc3duaG1zblREcHR6NzJORVJqRlFhNDQ4d19UajM1Y3FoWE5EbHhOLWVlSEdoU3lxLWVtNWkzV0Z0TFMxSVZWTEV3OVZPYm9DRnIydmc3RFlCVzRXWDFUMS1aWS1rag?oc=5"
+          }
+        ],
+        "source": "Al Jazeera",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkNYVlZwZ2dJMjZFOEp4TERHeUZINUsxTl9oN1YxM3N4RFRlQm9GMVlQV1E1RVZYbUZUS0g3MFlONmRYOVJVTTllQ1BqbWE3dGZGVnRZOGNzMW1JTW9sUHQ4YW5lMGtrMDdXSHpkOEJNXy1aa3NSd0FVZnNvMGZtOEY5TnlnT2p2MXdaaGpFRURNdEZxY3ZlMFpkOUtrdjJWWm8tdW9IRnjSAa4BQVVfeXFMUHRYd2hBNHdmRFA2OS1iNHJvdmwwS0JsbGIySGJoZmlLZEw0clNGSGs0Y3kxZjV1MEJDVHBXQ2NXSlNNamZMNkVuWHpYTXV2U1otMTlDN3lGTzVySl92RnlQc1VEVWtlMUNwNEJhTUNFLVo4cTJScXY0VnNuQWdld01NR09FdVNRVW5pTHRtMExiSWt6ODNUeWJwd0p5YlVsMHRjRzdxVnJfNndxTTdn?oc=5"
+      },
+      {
+        "slug": "ai-news-20261028-auto-2-1c8e85",
+        "title": "Ahead of its publi",
+        "category": "AI新闻",
+        "date": "2026-10-28",
+        "summary": "Ahead of its public launch in November, Anthropic",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ahead of its publi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Ahead of its public launch in November, Anthropic",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ahead of its public launch in November, Anthropic",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "صوت الإمارات：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWlFwWVF0NGJmd0dqZVphX1pYdHoteGctdUpYM1VEbm95Y1pvSnNEWUVPN1dySVZOdkpYektVbE1VYjNFTmRlZEM1UUcwUHZWUFpNNE5TQkQxdU9SbjR2M2xzeHJHLUtzUXNmamZyd1A3MzU2d2lLd2VLRXRNNGpTMVQzdUNkNzNNRktnbkRtZ3JlWjJHcGJvVzJpdXdyaFd0bjExdG93cy1vMy04RjBWdm01UFU5NlpTb0gtQ2ttZjJ4a2ZCTGVOZzB2RWg1SFJUY1ZFZGw3TnRWQnhtRld5U05EbGplcXR0cXdsUzJ0bw?oc=5"
+          },
+          {
+            "label": "Al Jazeera：Experts defer to AI in decision-making, Anthropic study finds - Al Jaz",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkNYVlZwZ2dJMjZFOEp4TERHeUZINUsxTl9oN1YxM3N4RFRlQm9GMVlQV1E1RVZYbUZUS0g3MFlONmRYOVJVTTllQ1BqbWE3dGZGVnRZOGNzMW1JTW9sUHQ4YW5lMGtrMDdXSHpkOEJNXy1aa3NSd0FVZnNvMGZtOEY5TnlnT2p2MXdaaGpFRURNdEZxY3ZlMFpkOUtrdjJWWm8tdW9IRnjSAa4BQVVfeXFMUHRYd2hBNHdmRFA2OS1iNHJvdmwwS0JsbGIySGJoZmlLZEw0clNGSGs0Y3kxZjV1MEJDVHBXQ2NXSlNNamZMNkVuWHpYTXV2U1otMTlDN3lGTzVySl92RnlQc1VEVWtlMUNwNEJhTUNFLVo4cTJScXY0VnNuQWdld01NR09FdVNRVW5pTHRtMExiSWt6ODNUeWJwd0p5YlVsMHRjRzdxVnJfNndxTTdn?oc=5"
+          },
+          {
+            "label": "搜狐网：AI领航·智造出海 | 人工智能产业论坛邀您参加！ - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTB1aV9mSk1wM1BWNWpPZ3N3b1lqZl9tcllIQ0tJYzRJV3dhckpsc3duaG1zblREcHR6NzJORVJqRlFhNDQ4d19UajM1Y3FoWE5EbHhOLWVlSEdoU3lxLWVtNWkzV0Z0TFMxSVZWTEV3OVZPYm9DRnIydmc3RFlCVzRXWDFUMS1aWS1rag?oc=5"
+          }
+        ],
+        "source": "صوت الإمارات",
+        "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWlFwWVF0NGJmd0dqZVphX1pYdHoteGctdUpYM1VEbm95Y1pvSnNEWUVPN1dySVZOdkpYektVbE1VYjNFTmRlZEM1UUcwUHZWUFpNNE5TQkQxdU9SbjR2M2xzeHJHLUtzUXNmamZyd1A3MzU2d2lLd2VLRXRNNGpTMVQzdUNkNzNNRktnbkRtZ3JlWjJHcGJvVzJpdXdyaFd0bjExdG93cy1vMy04RjBWdm01UFU5NlpTb0gtQ2ttZjJ4a2ZCTGVOZzB2RWg1SFJUY1ZFZGw3TnRWQnhtRld5U05EbGplcXR0cXdsUzJ0bw?oc=5"
+      },
+      {
         "slug": "ai-news-20261027-auto-1-9284b4",
         "title": "“AI消费者”助力韩企预测消费行为",
         "category": "AI新闻",
@@ -24179,6 +24295,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261028-auto-1-e4e6e4",
+        "title": "How AI Teams Are P",
+        "category": "AI使用教程",
+        "date": "2026-10-28",
+        "summary": "How AI Teams Are Pairing Claude Opus 5.5 and DeepS",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How AI Teams Are P 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How AI Teams Are Pairing Claude Opus 5.5 and DeepS",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How AI Teams Are Pairing Claude Opus 5.5 and DeepS",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WinCentral：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGJzbDlaZjVqNEk0REtoU05abC1Dc3lyTEotTlhuQWp5MVJqdUpoYnZwMXBURW0xRmZod1Z2ckpjNjhjQl85dDFHZHE5WjZ0X3BUX3p0elNrMkV6bUNBd0Y1N2ozdG90MFJZS0J3TnVwMU84ck50alBxMzlKMVp4TDBPVHh1T2d2WUNGWjlTaDhKdlZKeEtV?oc=5"
+          },
+          {
+            "label": "手机新浪网：AI Bot泛滥、API攻击、提示词注入，原生全球化中国AI企业如何筑牢防线？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfemFDb3h5Q0dMU25JQjdrZ2F0LTZYcVlndGxSVEpmb1Q4WnJiMHFmTFZEU05LM3htSzZiM09uN0tfV2g0VzZzSEh4LUpaYW4tNGFmU1Nib2tFRE1yZXNDbzk2Qll4VE1VOVNyZGs0WlgySnZjZi1vdDZMSDE5dw?oc=5"
+          },
+          {
+            "label": "Fello AI：Grok Spicy Mode: How to Enable It in Grok Imagine (2026 Guide) - Fello",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhamhyd3FhYnJiREJ4OHlXSnBoVjFKeGNfNTlnaGZCQ1N1dEtoTWtFM1V0N1ZlMVJlOFVUbXE3NUpEc0FJRkNVX3lYbk5kZmU4cU0tTW94VQ?oc=5"
+          }
+        ],
+        "source": "WinCentral",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGJzbDlaZjVqNEk0REtoU05abC1Dc3lyTEotTlhuQWp5MVJqdUpoYnZwMXBURW0xRmZod1Z2ckpjNjhjQl85dDFHZHE5WjZ0X3BUX3p0elNrMkV6bUNBd0Y1N2ozdG90MFJZS0J3TnVwMU84ck50alBxMzlKMVp4TDBPVHh1T2d2WUNGWjlTaDhKdlZKeEtV?oc=5"
+      },
+      {
         "slug": "ai-guide-20261027-auto-1-fe3a8a",
         "title": "Can AI help physic",
         "category": "AI使用教程",
@@ -35691,6 +35865,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261028-auto-1-36f873",
+        "title": "Liquid AI releases",
+        "category": "开源项目",
+        "date": "2026-10-28",
+        "summary": "Liquid AI releases LFM3 models small enough to run",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Liquid AI releases 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Liquid AI releases LFM3 models small enough to run",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Liquid AI releases LFM3 models small enough to run",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Startup Fortune：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnF6V0ZnNjA3cGdoclUydWxqRTd0LUhINzBkLUNHanpPZ3BPOXZVcVFXSlIyVnhDXzBOYnRnam9qeTlicEZRakw5eXdDVGF4V3FBaXJPYVdfSTE3QTdjT1dJNE9YVzFlQ0ozZFdmZlR1cFhrT2R1M3FRRnFxRVEwZ2JiRDZOYW4zSmpiUE9PTmYtNm8?oc=5"
+          },
+          {
+            "label": "Howl.Link：Google DeepMind unveils Genie 4 real-time interactive world model, and",
+            "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5zdHlJa0V6eldvZHdvWHphR1dqbGZPWkY1MmtNeWJhUzlCRU91VkQ0azhLbVpjZk0xeHlR?oc=5"
+          },
+          {
+            "label": "OfficeChai：Artificial Analysis Launches Intelligence Index v5 With Majority Priva",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOERYSHBfMUZiQXc5WUpwOTBFaWMxcTlYTHBkWWNUYlN3dU9ZQ29CZlpyWHFrbHlZUUFpTU5jWGZIcERuNHFfNHhnaFdzZVRFeVJYMW5NZWFNYU92N1lGMTFEQnVHTk9LUU16N1M0aE93SDhIa3N4N0s3cHdQN056bDl2LV9DaGV6djZYVnZuNGhpN3RZTTdybGpQLVN6enBLRzBqNnJrWlFhU3VDM053eTduZ2Q2M3BvMm1qSS0yR3Z0Y2puNmt6N3JwakdLa1FYTEZpMTg2cGZzbTNjTUxmUmY3aw?oc=5"
+          }
+        ],
+        "source": "Startup Fortune",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnF6V0ZnNjA3cGdoclUydWxqRTd0LUhINzBkLUNHanpPZ3BPOXZVcVFXSlIyVnhDXzBOYnRnam9qeTlicEZRakw5eXdDVGF4V3FBaXJPYVdfSTE3QTdjT1dJNE9YVzFlQ0ozZFdmZlR1cFhrT2R1M3FRRnFxRVEwZ2JiRDZOYW4zSmpiUE9PTmYtNm8?oc=5"
+      },
+      {
+        "slug": "open-source-20261028-auto-2-9c1c68",
+        "title": "Google DeepMind un",
+        "category": "开源项目",
+        "date": "2026-10-28",
+        "summary": "Google DeepMind unveils Genie 4 real-time interact",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google DeepMind un 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google DeepMind unveils Genie 4 real-time interact",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google DeepMind unveils Genie 4 real-time interact",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Howl.Link：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5zdHlJa0V6eldvZHdvWHphR1dqbGZPWkY1MmtNeWJhUzlCRU91VkQ0azhLbVpjZk0xeHlR?oc=5"
+          },
+          {
+            "label": "Startup Fortune：Liquid AI releases LFM3 models small enough to run on a phone - Startu",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnF6V0ZnNjA3cGdoclUydWxqRTd0LUhINzBkLUNHanpPZ3BPOXZVcVFXSlIyVnhDXzBOYnRnam9qeTlicEZRakw5eXdDVGF4V3FBaXJPYVdfSTE3QTdjT1dJNE9YVzFlQ0ozZFdmZlR1cFhrT2R1M3FRRnFxRVEwZ2JiRDZOYW4zSmpiUE9PTmYtNm8?oc=5"
+          },
+          {
+            "label": "OfficeChai：Artificial Analysis Launches Intelligence Index v5 With Majority Priva",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOERYSHBfMUZiQXc5WUpwOTBFaWMxcTlYTHBkWWNUYlN3dU9ZQ29CZlpyWHFrbHlZUUFpTU5jWGZIcERuNHFfNHhnaFdzZVRFeVJYMW5NZWFNYU92N1lGMTFEQnVHTk9LUU16N1M0aE93SDhIa3N4N0s3cHdQN056bDl2LV9DaGV6djZYVnZuNGhpN3RZTTdybGpQLVN6enBLRzBqNnJrWlFhU3VDM053eTduZ2Q2M3BvMm1qSS0yR3Z0Y2puNmt6N3JwakdLa1FYTEZpMTg2cGZzbTNjTUxmUmY3aw?oc=5"
+          }
+        ],
+        "source": "Howl.Link",
+        "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5zdHlJa0V6eldvZHdvWHphR1dqbGZPWkY1MmtNeWJhUzlCRU91VkQ0azhLbVpjZk0xeHlR?oc=5"
+      },
       {
         "slug": "open-source-20261027-auto-1-a6f783",
         "title": "Gensyn AI 是面向 AI 模",
