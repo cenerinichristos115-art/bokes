@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261029-auto-1-9a576c",
+        "title": "成都AI链主企业考拉悠然完成B++轮",
+        "category": "AI新闻",
+        "date": "2026-10-29",
+        "summary": "成都AI链主企业考拉悠然完成B++轮融资，强化世界模型赛道领先地位 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "成都AI链主企业考拉悠然完成B++轮 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "成都AI链主企业考拉悠然完成B++轮融资，强化世界模型赛道领先地位 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "成都AI链主企业考拉悠然完成B++轮融资，强化世界模型赛道领先地位 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblhiRk83TXJnd3FlUHdZbExKS0NfMzFIWE5XN19LV0VCUlBlNU43VUUwakk5Qm1teXN1UW1yWWU2OGZWamJDN210NERjQVVQRjNnQWs5SEppbXZMRWdOMXR1WDE0MHVsdjRNMC04a0JqWUFMVnhGRlNEMWRZN1BmbHpta3BDZlRo?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：聚力AIGC赋能影视传媒 2026年AIGC赋能影视传媒产业论坛将于11月17日在北京启幕 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkd3hfOHcwWWt3akk1NDZEbWxSRUljVi1lZFk2bWZraWNhMEFQbWFRYXZHUnRFUnl1b2pUbWwydnJDdUpQUkEwYl95LS1pUnQtYmNRcDB6eTBWa21XRGljRlY0LXFUZkgydmlFTTlpWjBJeVprMkE?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：谷歌股价暴跌10% 第三季度人工智能支出达513亿美元引发担忧- Google 谷歌 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UN09sTU1pUkswY2djU0s5S3ZHR3hmNFlsNGdCUGFEcU1Rd1dTaHVXM2wtMElnU180cW5KUXM5d3d5djJqU1V2YzIwd0xncnFEZ0QtYTZzeEViVmd3Q3BqYw?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblhiRk83TXJnd3FlUHdZbExKS0NfMzFIWE5XN19LV0VCUlBlNU43VUUwakk5Qm1teXN1UW1yWWU2OGZWamJDN210NERjQVVQRjNnQWs5SEppbXZMRWdOMXR1WDE0MHVsdjRNMC04a0JqWUFMVnhGRlNEMWRZN1BmbHpta3BDZlRo?oc=5"
+      },
+      {
+        "slug": "ai-news-20261029-auto-2-5bdf4e",
+        "title": "聚力AIGC赋能影视传媒 2026年",
+        "category": "AI新闻",
+        "date": "2026-10-29",
+        "summary": "聚力AIGC赋能影视传媒 2026年AIGC赋能影视传媒产业论坛将于11月17日在北京启幕 新浪新闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "聚力AIGC赋能影视传媒 2026年 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "聚力AIGC赋能影视传媒 2026年AIGC赋能影视传媒产业论坛将于11月17日在北京启幕 新浪新闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "聚力AIGC赋能影视传媒 2026年AIGC赋能影视传媒产业论坛将于11月17日在北京启幕 新浪新闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪新闻_手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkd3hfOHcwWWt3akk1NDZEbWxSRUljVi1lZFk2bWZraWNhMEFQbWFRYXZHUnRFUnl1b2pUbWwydnJDdUpQUkEwYl95LS1pUnQtYmNRcDB6eTBWa21XRGljRlY0LXFUZkgydmlFTTlpWjBJeVprMkE?oc=5"
+          },
+          {
+            "label": "搜狐网：成都AI链主企业考拉悠然完成B++轮融资，强化世界模型赛道领先地位 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblhiRk83TXJnd3FlUHdZbExKS0NfMzFIWE5XN19LV0VCUlBlNU43VUUwakk5Qm1teXN1UW1yWWU2OGZWamJDN210NERjQVVQRjNnQWs5SEppbXZMRWdOMXR1WDE0MHVsdjRNMC04a0JqWUFMVnhGRlNEMWRZN1BmbHpta3BDZlRo?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：谷歌股价暴跌10% 第三季度人工智能支出达513亿美元引发担忧- Google 谷歌 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UN09sTU1pUkswY2djU0s5S3ZHR3hmNFlsNGdCUGFEcU1Rd1dTaHVXM2wtMElnU180cW5KUXM5d3d5djJqU1V2YzIwd0xncnFEZ0QtYTZzeEViVmd3Q3BqYw?oc=5"
+          }
+        ],
+        "source": "新浪新闻_手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkd3hfOHcwWWt3akk1NDZEbWxSRUljVi1lZFk2bWZraWNhMEFQbWFRYXZHUnRFUnl1b2pUbWwydnJDdUpQUkEwYl95LS1pUnQtYmNRcDB6eTBWa21XRGljRlY0LXFUZkgydmlFTTlpWjBJeVprMkE?oc=5"
+      },
+      {
         "slug": "ai-news-20261028-auto-1-687fb2",
         "title": "Experts defer to A",
         "category": "AI新闻",
@@ -24295,6 +24411,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261029-auto-1-5cb830",
+        "title": "网友嫌广告太多用AI爆改电视 智能电",
+        "category": "AI使用教程",
+        "date": "2026-10-29",
+        "summary": "网友嫌广告太多用AI爆改电视 智能电视大扫除 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "网友嫌广告太多用AI爆改电视 智能电 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "网友嫌广告太多用AI爆改电视 智能电视大扫除 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "网友嫌广告太多用AI爆改电视 智能电视大扫除 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUVBkcWpHTm05SkVnQmdMTzRaSnppZ1JNUHpjV0VIclcySy1zbHZRU1A1bWI5bEpZdFBfUGM1UGMtSXNiR1BTaHdoRTNEQy1ZYWl5bV9zanhxS2NReUZTQVFHaDBmbjBtSGR2S082ZVI?oc=5"
+          },
+          {
+            "label": "搜狐网：男子为看女友手机，用AI搜教程自制听话水！被判拘役并罚款 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1JZOG9Wd2tBU3ZHS1hGdGlzbVcyOHV3dW1NZHVOd2VyUHpYa3hQdzZLUkl1ZHFXNm1rdTExT0dXUXdwOER0LXVyRHA5dzJCRjBTbzJSblpVVU45NFJuOVQxX2NjbEZZWWRKbkZpLTFDbjdCS3Vzc3BHNWwyUU91OEZCb2xDQWxLVmNr?oc=5"
+          },
+          {
+            "label": "华商网：AI模特“攻占”双十一：商品图中出现“三条腿”模特 - 华商网",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xY3ZSNlExQi1iU0MwNEtUcHZ2aWo3R2JTMTlMUGhzd3VSRFBpcXQ2U3VfQy0yZTZQcVV4X0ZrMGJUSS01X2xHMmlWWllLRndPVUJ6NEd3dHZfaG5zLS1B?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUVBkcWpHTm05SkVnQmdMTzRaSnppZ1JNUHpjV0VIclcySy1zbHZRU1A1bWI5bEpZdFBfUGM1UGMtSXNiR1BTaHdoRTNEQy1ZYWl5bV9zanhxS2NReUZTQVFHaDBmbjBtSGR2S082ZVI?oc=5"
+      },
+      {
         "slug": "ai-guide-20261028-auto-1-e4e6e4",
         "title": "How AI Teams Are P",
         "category": "AI使用教程",
@@ -35865,6 +36039,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261029-auto-1-69052c",
+        "title": "Open Weight Models",
+        "category": "开源项目",
+        "date": "2026-10-29",
+        "summary": "Open Weight Models: 6 Licenses Compared [2026] sha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Open Weight Models 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Open Weight Models: 6 Licenses Compared [2026] sha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Open Weight Models: 6 Licenses Compared [2026] sha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "shattered.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbndydFNkc2k4dUh5Y3JDT2VLRjV4S2dhUkU4OWhNTnlUTVpIZS1sbGNKV2FSRmEwWm0yR1VGUGhkMzNCUXJTVVFBSFRtcjJQNFF6aDBfRUZjcHZ3SUJYdGswWGJfODI1S294b0VtcllaT1Q0LVUyZy1IMW84N3BzOEEtY1dYclU?oc=5"
+          },
+          {
+            "label": "OSCHINA：“智启未来·AI科普千校计划”滨州正式启动，开源中国捐赠500 万教育服务资源- OSCHINA - 开源 × AI · 开发者生态社区 -",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CeUxLZEV6Y0xJdi1qTkZhLWR2Unh5TENOdm9UQ1FxM3ZRdUVUZ3dZMEkzbHRBd3ZMRG11eXNnclFLTFRaYlhTc2lNOA?oc=5"
+          },
+          {
+            "label": "Fello AI：Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5"
+          }
+        ],
+        "source": "shattered.io",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbndydFNkc2k4dUh5Y3JDT2VLRjV4S2dhUkU4OWhNTnlUTVpIZS1sbGNKV2FSRmEwWm0yR1VGUGhkMzNCUXJTVVFBSFRtcjJQNFF6aDBfRUZjcHZ3SUJYdGswWGJfODI1S294b0VtcllaT1Q0LVUyZy1IMW84N3BzOEEtY1dYclU?oc=5"
+      },
+      {
+        "slug": "open-source-20261029-auto-2-f1f3f1",
+        "title": "“智启未来·AI科普千校计划”滨州正",
+        "category": "开源项目",
+        "date": "2026-10-29",
+        "summary": "“智启未来·AI科普千校计划”滨州正式启动，开源中国捐赠500 万教育服务资源- OSCHINA -",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“智启未来·AI科普千校计划”滨州正 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“智启未来·AI科普千校计划”滨州正式启动，开源中国捐赠500 万教育服务资源- OSCHINA -",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“智启未来·AI科普千校计划”滨州正式启动，开源中国捐赠500 万教育服务资源- OSCHINA -",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OSCHINA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CeUxLZEV6Y0xJdi1qTkZhLWR2Unh5TENOdm9UQ1FxM3ZRdUVUZ3dZMEkzbHRBd3ZMRG11eXNnclFLTFRaYlhTc2lNOA?oc=5"
+          },
+          {
+            "label": "shattered.io：Open Weight Models: 6 Licenses Compared [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbndydFNkc2k4dUh5Y3JDT2VLRjV4S2dhUkU4OWhNTnlUTVpIZS1sbGNKV2FSRmEwWm0yR1VGUGhkMzNCUXJTVVFBSFRtcjJQNFF6aDBfRUZjcHZ3SUJYdGswWGJfODI1S294b0VtcllaT1Q0LVUyZy1IMW84N3BzOEEtY1dYclU?oc=5"
+          },
+          {
+            "label": "Fello AI：Best Free AI Models in 2026: Which Ones Cost Nothing and Where to Use ",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5"
+          }
+        ],
+        "source": "OSCHINA",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CeUxLZEV6Y0xJdi1qTkZhLWR2Unh5TENOdm9UQ1FxM3ZRdUVUZ3dZMEkzbHRBd3ZMRG11eXNnclFLTFRaYlhTc2lNOA?oc=5"
+      },
       {
         "slug": "open-source-20261028-auto-1-36f873",
         "title": "Liquid AI releases",
