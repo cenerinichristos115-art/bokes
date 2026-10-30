@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261030-auto-1-ad98ba",
+        "title": "AI-controlled .50-",
+        "category": "AI新闻",
+        "date": "2026-10-30",
+        "summary": "AI-controlled .50-cal gun turrets are becoming a r",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI-controlled .50- 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI-controlled .50-cal gun turrets are becoming a r",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI-controlled .50-cal gun turrets are becoming a r",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Business Insider：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWtZVEhocFZXamtleE1xOHN3bE54OHZBamlwTXlUVGVMWlZWaGV5SlNIQTJaWDFPX2xIM0JfbGQyQVlPTk1vdVM1LS1UVzBYaE5uUnZja2gxS3dSME5iNDJhRXVXMUF1WTFvaWpKeFpleVl3TUpGY2VMNDdlTkNIcm0zMHNqYk9rLTNjRzRqMjl4LUt0MkZ4UTJ5cjFTLW5VeDJmQjNtaC0?oc=5"
+          },
+          {
+            "label": "IBM：当客户的 AI 成为交易对手：智能体对智能体世界中的银行业 - IBM",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzVHOXc0YkJhcERNSm5Nc3pYRGlCZVhla3ZCaTE3ZXFqVXc3bXZ2ZV9QY3Y4QTZSc0hrZGZhTXUxVkhBdGxFZ1laTjRXdWVTVEY2QS1xb1E0TjFLcFNlYUItLTJ4cHdmMVZzMXVPRzFSWWIxUmYxa3pKSmx6VkRFc1F4QnlhQQ?oc=5"
+          },
+          {
+            "label": "21财经：SpaceX，神秘大客户揭晓 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWtyREYzSHFuclN5LVlRdFkybDVJZkpVVXpGMVZjYkFpYl9PR1Fod3dwbUlxSUZJeV91QXYzWV9tX1U4R3d4RVhxWVNMTkZtdzNsYXBoanZ6TlQ5YXpNX1ZVTUFkbzBMVjF4Q1RIRlVIMmtxT2U1ZUdYTDh3MFAwdTVGRGZvbEo2VllrZWhSMA?oc=5"
+          }
+        ],
+        "source": "Business Insider",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWtZVEhocFZXamtleE1xOHN3bE54OHZBamlwTXlUVGVMWlZWaGV5SlNIQTJaWDFPX2xIM0JfbGQyQVlPTk1vdVM1LS1UVzBYaE5uUnZja2gxS3dSME5iNDJhRXVXMUF1WTFvaWpKeFpleVl3TUpGY2VMNDdlTkNIcm0zMHNqYk9rLTNjRzRqMjl4LUt0MkZ4UTJ5cjFTLW5VeDJmQjNtaC0?oc=5"
+      },
+      {
+        "slug": "ai-news-20261030-auto-2-43dba6",
+        "title": "当客户的 AI 成为交易对手：智能体",
+        "category": "AI新闻",
+        "date": "2026-10-30",
+        "summary": "当客户的 AI 成为交易对手：智能体对智能体世界中的银行业 IBM",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "当客户的 AI 成为交易对手：智能体 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "当客户的 AI 成为交易对手：智能体对智能体世界中的银行业 IBM",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "当客户的 AI 成为交易对手：智能体对智能体世界中的银行业 IBM",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IBM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzVHOXc0YkJhcERNSm5Nc3pYRGlCZVhla3ZCaTE3ZXFqVXc3bXZ2ZV9QY3Y4QTZSc0hrZGZhTXUxVkhBdGxFZ1laTjRXdWVTVEY2QS1xb1E0TjFLcFNlYUItLTJ4cHdmMVZzMXVPRzFSWWIxUmYxa3pKSmx6VkRFc1F4QnlhQQ?oc=5"
+          },
+          {
+            "label": "Business Insider：AI-controlled .50-cal gun turrets are becoming a reality of war - Busi",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbWtZVEhocFZXamtleE1xOHN3bE54OHZBamlwTXlUVGVMWlZWaGV5SlNIQTJaWDFPX2xIM0JfbGQyQVlPTk1vdVM1LS1UVzBYaE5uUnZja2gxS3dSME5iNDJhRXVXMUF1WTFvaWpKeFpleVl3TUpGY2VMNDdlTkNIcm0zMHNqYk9rLTNjRzRqMjl4LUt0MkZ4UTJ5cjFTLW5VeDJmQjNtaC0?oc=5"
+          },
+          {
+            "label": "21财经：SpaceX，神秘大客户揭晓 - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWtyREYzSHFuclN5LVlRdFkybDVJZkpVVXpGMVZjYkFpYl9PR1Fod3dwbUlxSUZJeV91QXYzWV9tX1U4R3d4RVhxWVNMTkZtdzNsYXBoanZ6TlQ5YXpNX1ZVTUFkbzBMVjF4Q1RIRlVIMmtxT2U1ZUdYTDh3MFAwdTVGRGZvbEo2VllrZWhSMA?oc=5"
+          }
+        ],
+        "source": "IBM",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzVHOXc0YkJhcERNSm5Nc3pYRGlCZVhla3ZCaTE3ZXFqVXc3bXZ2ZV9QY3Y4QTZSc0hrZGZhTXUxVkhBdGxFZ1laTjRXdWVTVEY2QS1xb1E0TjFLcFNlYUItLTJ4cHdmMVZzMXVPRzFSWWIxUmYxa3pKSmx6VkRFc1F4QnlhQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261029-auto-1-9a576c",
         "title": "成都AI链主企业考拉悠然完成B++轮",
         "category": "AI新闻",
@@ -24411,6 +24527,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261030-auto-1-4a4fd4",
+        "title": "马上评｜AI模特“攻占”双十一：技术",
+        "category": "AI使用教程",
+        "date": "2026-10-30",
+        "summary": "马上评｜AI模特“攻占”双十一：技术无罪，欺诈有责 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "马上评｜AI模特“攻占”双十一：技术 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "马上评｜AI模特“攻占”双十一：技术无罪，欺诈有责 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "马上评｜AI模特“攻占”双十一：技术无罪，欺诈有责 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlpOdUlsMkpZOE9LRFhfSmhtNUNoby1vNHpSVncwTVRQQTZidzVTUU9sWTI1SHlpQjc3YUVFOEExaldGaXd6T0VpVFZBQ3QzTDZjZzkyQ041ZUFpSmpYaVRRRlc2NnpmcG02QW8wWFBjWm5kdHNLRmJSTWx5MWo4SjRSUzhoUGlpVVVrbw?oc=5"
+          },
+          {
+            "label": "今日流媒体：豫章论道|宇歌文化心虎:AI漫剧精品“一键流”——1小时做1部S级漫剧 - 今日流媒体",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yWkFzMWNKMzZtbUk0VWg5eENLTG9ZaXRMMldrVnZPdTBRcC1SMVBaOEFscUZIUWFqNDhkQ1Y4QllEVk5pSkpQNDdJUkg0U3dkRVhZa0NITmk?oc=5"
+          },
+          {
+            "label": "InfoQ.cn：4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践 - InfoQ.cn",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrTVRqdXlCRkZOaHBvTmNJOXAzZkx5TEN0Q2VJTVRCUVByZk55dkt3VVJHV0RuRm1ReWdIcDlWUWFIUFZCYWpBelFIWVF5VUdZN3JMR1J2ckg3WHk4ZlE?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlpOdUlsMkpZOE9LRFhfSmhtNUNoby1vNHpSVncwTVRQQTZidzVTUU9sWTI1SHlpQjc3YUVFOEExaldGaXd6T0VpVFZBQ3QzTDZjZzkyQ041ZUFpSmpYaVRRRlc2NnpmcG02QW8wWFBjWm5kdHNLRmJSTWx5MWo4SjRSUzhoUGlpVVVrbw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261029-auto-1-5cb830",
         "title": "网友嫌广告太多用AI爆改电视 智能电",
         "category": "AI使用教程",
@@ -36039,6 +36213,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261030-auto-1-834bba",
+        "title": "五类制造业AI落地服务商：谁适合陪你",
+        "category": "开源项目",
+        "date": "2026-10-30",
+        "summary": "五类制造业AI落地服务商：谁适合陪你走“深水区”？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "五类制造业AI落地服务商：谁适合陪你 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "五类制造业AI落地服务商：谁适合陪你走“深水区”？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "五类制造业AI落地服务商：谁适合陪你走“深水区”？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0RIcUpyeG52NGQ4TExEU25xTWFpWUxzRkxCbzBjMjcxdk93OEN0eXdyNDlpTFJwRkdad3NIQXdLRkxmWDExcEpBR2pXR0RDVzBuRllxLWhpMHpfZWpmUGJEdGhYWXRSal94ZUtpcVRjRk9VTGJfTmprMjhORnBSZ2VnNHNRUTRQTFFIV3N1RQ?oc=5"
+          },
+          {
+            "label": "ZDNET：Mistral's Le Chonk is now a top open model for coding, ranking alongsi",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+          },
+          {
+            "label": "搜狐网：小码王携手涂鸦智能，解锁青少年物理AI新赛道，让孩子做出属于自己的真实AI作品 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm9rTl9RQ2tzSGxZVk5wcklMZFJ6UnJiRUZpU2hIRnpBNzRMUjZubC1ScDdHLVhVRThSTUx0cjNhTXdRcHVmdGhGMU90MFI1S0ZGWFJFVVhsN19QV3lWZmpSQW1jR1JpVVFOWHZUSlJYdDd0LS1jSjYzamIwcVo1T0pTOUJJbzVD?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0RIcUpyeG52NGQ4TExEU25xTWFpWUxzRkxCbzBjMjcxdk93OEN0eXdyNDlpTFJwRkdad3NIQXdLRkxmWDExcEpBR2pXR0RDVzBuRllxLWhpMHpfZWpmUGJEdGhYWXRSal94ZUtpcVRjRk9VTGJfTmprMjhORnBSZ2VnNHNRUTRQTFFIV3N1RQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261030-auto-2-941c9b",
+        "title": "Mistral's Le Chonk",
+        "category": "开源项目",
+        "date": "2026-10-30",
+        "summary": "Mistral's Le Chonk is now a top open model for cod",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mistral's Le Chonk 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Mistral's Le Chonk is now a top open model for cod",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mistral's Le Chonk is now a top open model for cod",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ZDNET：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+          },
+          {
+            "label": "手机新浪网：五类制造业AI落地服务商：谁适合陪你走“深水区”？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0RIcUpyeG52NGQ4TExEU25xTWFpWUxzRkxCbzBjMjcxdk93OEN0eXdyNDlpTFJwRkdad3NIQXdLRkxmWDExcEpBR2pXR0RDVzBuRllxLWhpMHpfZWpmUGJEdGhYWXRSal94ZUtpcVRjRk9VTGJfTmprMjhORnBSZ2VnNHNRUTRQTFFIV3N1RQ?oc=5"
+          },
+          {
+            "label": "搜狐网：小码王携手涂鸦智能，解锁青少年物理AI新赛道，让孩子做出属于自己的真实AI作品 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm9rTl9RQ2tzSGxZVk5wcklMZFJ6UnJiRUZpU2hIRnpBNzRMUjZubC1ScDdHLVhVRThSTUx0cjNhTXdRcHVmdGhGMU90MFI1S0ZGWFJFVVhsN19QV3lWZmpSQW1jR1JpVVFOWHZUSlJYdDd0LS1jSjYzamIwcVo1T0pTOUJJbzVD?oc=5"
+          }
+        ],
+        "source": "ZDNET",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+      },
       {
         "slug": "open-source-20261029-auto-1-69052c",
         "title": "Open Weight Models",
