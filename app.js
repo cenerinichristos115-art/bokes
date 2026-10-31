@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261031-auto-1-6f1f04",
+        "title": "美的集团方洪波：要从同质化竞争升级到",
+        "category": "AI新闻",
+        "date": "2026-10-31",
+        "summary": "美的集团方洪波：要从同质化竞争升级到原创性竞争 新京报",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "美的集团方洪波：要从同质化竞争升级到 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "美的集团方洪波：要从同质化竞争升级到原创性竞争 新京报",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "美的集团方洪波：要从同质化竞争升级到原创性竞争 新京报",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新京报：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MYlhraHZudEhRLUN4RHFnQnJCNm9YZXB3dmZBWDBNaDJkUDRvSllKUGZiZEVJNlpneExYVTA2cDFJRVdwUExBVmVSNUhlX195Y29zM2puTVNPeURHeGJDZnZZRUM?oc=5"
+          },
+          {
+            "label": "21财经：科技巨头“烧钱”吓坏市场：纳指重挫，AI热潮能否继续？ - 21财经",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDZST0FBM19fY3dyLVlTY1JsaWNzdk1VYi1xcTg3NFB0RkZNRk1rcVJCVkJHcERPdjZKMFpsQ04tcFVWU040MVVTbHNfZlB1eURtRl9fU0xnQ2ZNdXNhdFFMTGVNV2h0TTV5ZUNfeHN0eThfWWgxQ2FEVG1WRXR1Nm10eUplYnlmZ2VUN2xySWF5NjE5?oc=5"
+          },
+          {
+            "label": "Korea JoongAng Daily：Samsung, OpenAI chief discuss AI’s impact on future business strategie",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU1Zc0tvS1RkVEVoQjFENHJPbWtJS1c4UVJjVVQxdUMtYlpGb2kzVEVPTDlQN25fUldhVGVqM2JJTDI2M1l5d3JtZU96ZUo3TmZhSEpRcnByZ05PaFNqQ2V1RFlfS240dF9kcE13SEhMY3NLTWsxTnlLcmRmUlR3czFjWUJSSlJja1Nvc3RHT0VhOXczY0Fud2UzX3VObWVEd2xqUk9DdVpJVjBHNXJwV2kxeHBBX3VfV1pzRUpsZw?oc=5"
+          }
+        ],
+        "source": "新京报",
+        "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MYlhraHZudEhRLUN4RHFnQnJCNm9YZXB3dmZBWDBNaDJkUDRvSllKUGZiZEVJNlpneExYVTA2cDFJRVdwUExBVmVSNUhlX195Y29zM2puTVNPeURHeGJDZnZZRUM?oc=5"
+      },
+      {
+        "slug": "ai-news-20261031-auto-2-7ec35e",
+        "title": "科技巨头“烧钱”吓坏市场：纳指重挫，",
+        "category": "AI新闻",
+        "date": "2026-10-31",
+        "summary": "科技巨头“烧钱”吓坏市场：纳指重挫，AI热潮能否继续？ 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "科技巨头“烧钱”吓坏市场：纳指重挫， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "科技巨头“烧钱”吓坏市场：纳指重挫，AI热潮能否继续？ 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "科技巨头“烧钱”吓坏市场：纳指重挫，AI热潮能否继续？ 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDZST0FBM19fY3dyLVlTY1JsaWNzdk1VYi1xcTg3NFB0RkZNRk1rcVJCVkJHcERPdjZKMFpsQ04tcFVWU040MVVTbHNfZlB1eURtRl9fU0xnQ2ZNdXNhdFFMTGVNV2h0TTV5ZUNfeHN0eThfWWgxQ2FEVG1WRXR1Nm10eUplYnlmZ2VUN2xySWF5NjE5?oc=5"
+          },
+          {
+            "label": "新京报：美的集团方洪波：要从同质化竞争升级到原创性竞争 - 新京报",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MYlhraHZudEhRLUN4RHFnQnJCNm9YZXB3dmZBWDBNaDJkUDRvSllKUGZiZEVJNlpneExYVTA2cDFJRVdwUExBVmVSNUhlX195Y29zM2puTVNPeURHeGJDZnZZRUM?oc=5"
+          },
+          {
+            "label": "Korea JoongAng Daily：Samsung, OpenAI chief discuss AI’s impact on future business strategie",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMU1Zc0tvS1RkVEVoQjFENHJPbWtJS1c4UVJjVVQxdUMtYlpGb2kzVEVPTDlQN25fUldhVGVqM2JJTDI2M1l5d3JtZU96ZUo3TmZhSEpRcnByZ05PaFNqQ2V1RFlfS240dF9kcE13SEhMY3NLTWsxTnlLcmRmUlR3czFjWUJSSlJja1Nvc3RHT0VhOXczY0Fud2UzX3VObWVEd2xqUk9DdVpJVjBHNXJwV2kxeHBBX3VfV1pzRUpsZw?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDZST0FBM19fY3dyLVlTY1JsaWNzdk1VYi1xcTg3NFB0RkZNRk1rcVJCVkJHcERPdjZKMFpsQ04tcFVWU040MVVTbHNfZlB1eURtRl9fU0xnQ2ZNdXNhdFFMTGVNV2h0TTV5ZUNfeHN0eThfWWgxQ2FEVG1WRXR1Nm10eUplYnlmZ2VUN2xySWF5NjE5?oc=5"
+      },
+      {
         "slug": "ai-news-20261030-auto-1-ad98ba",
         "title": "AI-controlled .50-",
         "category": "AI新闻",
@@ -24527,6 +24643,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261031-auto-1-04e391",
+        "title": "和AI协同第一问至关重要，建议用反问",
+        "category": "AI使用教程",
+        "date": "2026-10-31",
+        "summary": "和AI协同第一问至关重要，建议用反问抛出问题 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "和AI协同第一问至关重要，建议用反问 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "和AI协同第一问至关重要，建议用反问抛出问题 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "和AI协同第一问至关重要，建议用反问抛出问题 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEU3eEltSzFEdzlXRGNxVThqcjlBUDVldkZQem1MeG9VOERBNnNoN3g3Wld3VzlWTVNxaHRHMjJSZnc3SWMyUHZtSnJwaXRNYmtWUFNSN1d6SnFnblh2WVNMRTR6MjNvZERqa2w0UFN2c0lFX3F2YzcyOTNtYUR0dDAzWkdTQQ?oc=5"
+          },
+          {
+            "label": "搜狐网：运营机构月流水仅2万，普通人的“AI卖脸”生意为何跑不动？ - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNktTZUZKYm11ZF9SVy1Qd1QzSUpvRzVQU0kzZm9yUm05VVRRd19tLVdRVlZ4UndKaFdCTGlKeEtQN3dadEFRd2hjam10VmNYLW41Q202emFRcXo4NDV4Z1R6TFhEaGhwbmVKQnRIMWY0Y3d0Sk1XandvaXAzZ3NvUFBpWUt0UjhYME9V?oc=5"
+          },
+          {
+            "label": "Blockchain News：NVIDIA details edge AI workflow for DGX Spark and TensorRT Edge-LLM - ",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0ItRlItdjR5a0xwcDdBeGtLSmtTOXVvU1dfWFlMZjhNdmw1dnVWLUMxXzZkQ240SkZJcFVocC1PS01OOFdMZ0l0R0c3amFzUFdNXzRxZHRGdzFxeXBhdE5RdWhYb2plUXIxRklsS3BUbldYeUhEemhzNkl0dlJyQURNdF85dTVKN1NjLWxha1F1djNTSzkwbWx3?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdEU3eEltSzFEdzlXRGNxVThqcjlBUDVldkZQem1MeG9VOERBNnNoN3g3Wld3VzlWTVNxaHRHMjJSZnc3SWMyUHZtSnJwaXRNYmtWUFNSN1d6SnFnblh2WVNMRTR6MjNvZERqa2w0UFN2c0lFX3F2YzcyOTNtYUR0dDAzWkdTQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261030-auto-1-4a4fd4",
         "title": "马上评｜AI模特“攻占”双十一：技术",
         "category": "AI使用教程",
@@ -36213,6 +36387,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261031-auto-1-8282a0",
+        "title": "Mistral's Le Chonk",
+        "category": "开源项目",
+        "date": "2026-10-31",
+        "summary": "Mistral's Le Chonk is now a top open model for cod",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mistral's Le Chonk 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Mistral's Le Chonk is now a top open model for cod",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mistral's Le Chonk is now a top open model for cod",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ZDNET：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+          },
+          {
+            "label": "搜狐网：追平DeepMind，反超Anthropic！国产开源模型闯入AI制药第一梯队 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGh5SjBrcWQwY2ZmX0FUUllqQ0l1MF9NeHhfMm1DUXhzZzNLdFRLcXo5bmVWcnVNdVZOMTd1WWlYOGpQYTZKM1RLVU1ieldVS0Y3WDB2d19qVld3LWJ2azV2Y3o4bGVZdC1HSXlUZ0kzOEcwWll0bmN6czY0YmNReTVoMS05eFRZb1RlOA?oc=5"
+          },
+          {
+            "label": "The Economic Times：Google's 'Project Suncatcher' achieves first successful AI response fr",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUG5MRHVva0ctS3ViZzZLNnhtQWdGMlNIUTZRalAwaF9RdU85TkE0Tms2S1lZc3I2Z1BvYzhtZzBBLVZnRWptTlpOWGVBTFFVYV80YzliZi1lbnhDeG4yN2Ftc0VSRXdIZERuNzJob0F4Y2pwRkhiUGJpcXo3RERFX3djM0VFZTV2MjRiUHhad0RJektEaU9sNkh1SlRYT3lZeDZ6X3VEdUplTGRNaThQRmhNc3dYUHhwNVQxOVFiNHJ3M1NBN3BkWG1iMG0yX1QyemFKN094SE1LVXRyb3ZOWTVqQ1ZmLWxzWlhtbnV6b9IB9AFBVV95cUxNVk93UFhsdno1bXZIeGxTd3dJbDlGOENSUUpNN2M0RzZWVVhSREhWVTR4M1pMMkstaVZIUmpLRXA1OFI1cVpZTGl1aURLS1VTT2RsUG1QX0JiT2xRek96Y2N5TVlHQjd4Xy1NVkoxcU9mZHVrMlhTV21qdWRORTZJQ3hCSFlza2ZqZHN0NU5xbWFjbHFGNWd5SWlJdEV2d0pDa0xPaEh6UXVUeGJGaEpxTENnZ0F5MHdOeU5zUG9oWV8yZnRsWFhnVnd1TkpqOVgwOFFNcjN6SHZmQmhBdzUyRk1mb2h2eWE4ak9DUmZqMlMtTFJn?oc=5"
+          }
+        ],
+        "source": "ZDNET",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+      },
+      {
+        "slug": "open-source-20261031-auto-2-40f0ef",
+        "title": "追平DeepMind，反超Anthr",
+        "category": "开源项目",
+        "date": "2026-10-31",
+        "summary": "追平DeepMind，反超Anthropic！国产开源模型闯入AI制药第一梯队 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "追平DeepMind，反超Anthr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "追平DeepMind，反超Anthropic！国产开源模型闯入AI制药第一梯队 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "追平DeepMind，反超Anthropic！国产开源模型闯入AI制药第一梯队 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGh5SjBrcWQwY2ZmX0FUUllqQ0l1MF9NeHhfMm1DUXhzZzNLdFRLcXo5bmVWcnVNdVZOMTd1WWlYOGpQYTZKM1RLVU1ieldVS0Y3WDB2d19qVld3LWJ2azV2Y3o4bGVZdC1HSXlUZ0kzOEcwWll0bmN6czY0YmNReTVoMS05eFRZb1RlOA?oc=5"
+          },
+          {
+            "label": "ZDNET：Mistral's Le Chonk is now a top open model for coding, ranking alongsi",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5"
+          },
+          {
+            "label": "The Economic Times：Google's 'Project Suncatcher' achieves first successful AI response fr",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUG5MRHVva0ctS3ViZzZLNnhtQWdGMlNIUTZRalAwaF9RdU85TkE0Tms2S1lZc3I2Z1BvYzhtZzBBLVZnRWptTlpOWGVBTFFVYV80YzliZi1lbnhDeG4yN2Ftc0VSRXdIZERuNzJob0F4Y2pwRkhiUGJpcXo3RERFX3djM0VFZTV2MjRiUHhad0RJektEaU9sNkh1SlRYT3lZeDZ6X3VEdUplTGRNaThQRmhNc3dYUHhwNVQxOVFiNHJ3M1NBN3BkWG1iMG0yX1QyemFKN094SE1LVXRyb3ZOWTVqQ1ZmLWxzWlhtbnV6b9IB9AFBVV95cUxNVk93UFhsdno1bXZIeGxTd3dJbDlGOENSUUpNN2M0RzZWVVhSREhWVTR4M1pMMkstaVZIUmpLRXA1OFI1cVpZTGl1aURLS1VTT2RsUG1QX0JiT2xRek96Y2N5TVlHQjd4Xy1NVkoxcU9mZHVrMlhTV21qdWRORTZJQ3hCSFlza2ZqZHN0NU5xbWFjbHFGNWd5SWlJdEV2d0pDa0xPaEh6UXVUeGJGaEpxTENnZ0F5MHdOeU5zUG9oWV8yZnRsWFhnVnd1TkpqOVgwOFFNcjN6SHZmQmhBdzUyRk1mb2h2eWE4ak9DUmZqMlMtTFJn?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGh5SjBrcWQwY2ZmX0FUUllqQ0l1MF9NeHhfMm1DUXhzZzNLdFRLcXo5bmVWcnVNdVZOMTd1WWlYOGpQYTZKM1RLVU1ieldVS0Y3WDB2d19qVld3LWJ2azV2Y3o4bGVZdC1HSXlUZ0kzOEcwWll0bmN6czY0YmNReTVoMS05eFRZb1RlOA?oc=5"
+      },
       {
         "slug": "open-source-20261030-auto-1-834bba",
         "title": "五类制造业AI落地服务商：谁适合陪你",
