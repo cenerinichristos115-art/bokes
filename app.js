@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261101-auto-1-062f79",
+        "title": "Google, Reddit and",
+        "category": "AI新闻",
+        "date": "2026-11-01",
+        "summary": "Google, Reddit and AI: Who Can You Trust? GrantWat",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google, Reddit and 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google, Reddit and AI: Who Can You Trust? GrantWat",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google, Reddit and AI: Who Can You Trust? GrantWat",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GrantWatch：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DNUczbkhiMTdaLW9nenptaFFHcVkwV0RiUno5MkhFMG0yYkFVdE1FUkdUbS0ySVJ2U2x1NXpVTHJPOHdGREFVLWhjRHVmSGdDMVF3eUtLUDVQVlp4TlEwMzhzaDdDMFMwSU1xVk1jQWNRRHRSUVBDNw?oc=5"
+          },
+          {
+            "label": "搜狐网：英国学者玛德琳·卡尔：中国给全球人工智能治理带来的理念非常重要 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmFkTllOZkVDemdSU1BEQjZjcW1tTHgwSlNCYnVlaFZWeGlBYnVnU3dMbUZrZWZjWDN4Q3NNc1NmR0JvME1iUE9qZXI1UkRhWEZOSEtIN3kwd0h5YWk1RWtFNFlZM2t2TGt6R3JEYnNvX3JxSXRXdjM5alZESXFONkp6QlFhZ2RC?oc=5"
+          },
+          {
+            "label": "The Lewiston Tribune：How they use AI in healthcare: a patient guide - The Lewiston Tribune",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmlkNTFwNDU3WWVubnBVUTdkRVdpck05a2lTSGRweURVUmFVbVg2OURhdXptQ2kwaXJDLV9BbmdGbEdwb2dGSjdGd19EQ2hXZE5RLTJNT1F4RTNqdmJBTlREeEVyTG91VHgzdGtRdWY0SGxMa0pvTU1lRFpTRFJOMFo1dXJzbXRyaUtOOHRTRkZwUm5xcXc?oc=5"
+          }
+        ],
+        "source": "GrantWatch",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DNUczbkhiMTdaLW9nenptaFFHcVkwV0RiUno5MkhFMG0yYkFVdE1FUkdUbS0ySVJ2U2x1NXpVTHJPOHdGREFVLWhjRHVmSGdDMVF3eUtLUDVQVlp4TlEwMzhzaDdDMFMwSU1xVk1jQWNRRHRSUVBDNw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261101-auto-2-5f1895",
+        "title": "英国学者玛德琳·卡尔：中国给全球人工",
+        "category": "AI新闻",
+        "date": "2026-11-01",
+        "summary": "英国学者玛德琳·卡尔：中国给全球人工智能治理带来的理念非常重要 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "英国学者玛德琳·卡尔：中国给全球人工 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "英国学者玛德琳·卡尔：中国给全球人工智能治理带来的理念非常重要 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "英国学者玛德琳·卡尔：中国给全球人工智能治理带来的理念非常重要 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmFkTllOZkVDemdSU1BEQjZjcW1tTHgwSlNCYnVlaFZWeGlBYnVnU3dMbUZrZWZjWDN4Q3NNc1NmR0JvME1iUE9qZXI1UkRhWEZOSEtIN3kwd0h5YWk1RWtFNFlZM2t2TGt6R3JEYnNvX3JxSXRXdjM5alZESXFONkp6QlFhZ2RC?oc=5"
+          },
+          {
+            "label": "GrantWatch：Google, Reddit and AI: Who Can You Trust? - GrantWatch",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DNUczbkhiMTdaLW9nenptaFFHcVkwV0RiUno5MkhFMG0yYkFVdE1FUkdUbS0ySVJ2U2x1NXpVTHJPOHdGREFVLWhjRHVmSGdDMVF3eUtLUDVQVlp4TlEwMzhzaDdDMFMwSU1xVk1jQWNRRHRSUVBDNw?oc=5"
+          },
+          {
+            "label": "The Lewiston Tribune：How they use AI in healthcare: a patient guide - The Lewiston Tribune",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcmlkNTFwNDU3WWVubnBVUTdkRVdpck05a2lTSGRweURVUmFVbVg2OURhdXptQ2kwaXJDLV9BbmdGbEdwb2dGSjdGd19EQ2hXZE5RLTJNT1F4RTNqdmJBTlREeEVyTG91VHgzdGtRdWY0SGxMa0pvTU1lRFpTRFJOMFo1dXJzbXRyaUtOOHRTRkZwUm5xcXc?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmFkTllOZkVDemdSU1BEQjZjcW1tTHgwSlNCYnVlaFZWeGlBYnVnU3dMbUZrZWZjWDN4Q3NNc1NmR0JvME1iUE9qZXI1UkRhWEZOSEtIN3kwd0h5YWk1RWtFNFlZM2t2TGt6R3JEYnNvX3JxSXRXdjM5alZESXFONkp6QlFhZ2RC?oc=5"
+      },
+      {
         "slug": "ai-news-20261031-auto-1-6f1f04",
         "title": "美的集团方洪波：要从同质化竞争升级到",
         "category": "AI新闻",
@@ -24643,6 +24759,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261101-auto-1-ff2814",
+        "title": "媒体：AI模特长着三条腿？如此试衣，",
+        "category": "AI使用教程",
+        "date": "2026-11-01",
+        "summary": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身” 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "媒体：AI模特长着三条腿？如此试衣， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身” 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身” 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUm1vYjVNMXprcnNjU3BQS2NUZjdHektoV19VbTZKaWYxRl82MWlPekpXSnBYWUlyZ1VqMFV0LXpvaGxqYm1Rbl8zamRFVTU1RzhRem1IVUJvVTlMbl84NWRzS2NRbnJQWDFYZE42STUxRzRId2txQ2o5NDY5bjh6bUtpQ2hMNS0xcjY1RQ?oc=5"
+          },
+          {
+            "label": "搜狐网：玩转AIGC新技能 锻造宣传新本领——门头沟区举办宣传干部能力提升专题培训班 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcU1IOHpiSWtYV1R0TXFxZUkxLUY0MlhtTW1Hck1WUkgwWTlkZE95OWlxMFVJZ3JzRDVjRGk1YW9WdXRReTlLUnEtaVFVUEpNZWN3WGQxLVJLZFltTERHQkI2Ry05OG9pZXpTWkc3UE9IVWFCRGlMSTNqMzFodDJWTmNNbWpCaG9IaGdCZg?oc=5"
+          },
+          {
+            "label": "搜狐网：港澳台侨学子探访“成都智造” 感受AI与机器人前沿 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUJpOENPMU9Xdl9ZcFd0ZGVqT21XNndZZHU5TGtaT2tBd29wUkgyeFZuSDgtSjliNzNGYThIVExTdDVUaUV4RVdXdUxLXzlvaFBsWDBBYkxwenRUZjBSZDk4UGtLeVhwWEYtSlMyWUZaUHhIVzlYU2JVQlNtUEI5aUEwYWgzQTVR?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUm1vYjVNMXprcnNjU3BQS2NUZjdHektoV19VbTZKaWYxRl82MWlPekpXSnBYWUlyZ1VqMFV0LXpvaGxqYm1Rbl8zamRFVTU1RzhRem1IVUJvVTlMbl84NWRzS2NRbnJQWDFYZE42STUxRzRId2txQ2o5NDY5bjh6bUtpQ2hMNS0xcjY1RQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261031-auto-1-04e391",
         "title": "和AI协同第一问至关重要，建议用反问",
         "category": "AI使用教程",
@@ -36387,6 +36561,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261101-auto-1-0898fc",
+        "title": "DeepSeek Expands A",
+        "category": "开源项目",
+        "date": "2026-11-01",
+        "summary": "DeepSeek Expands AI Agent Ambitions With New Codin",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek Expands A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "DeepSeek Expands AI Agent Ambitions With New Codin",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek Expands AI Agent Ambitions With New Codin",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BusinessToday Malaysia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxua2dVMXNIa29aQ2ZkcUFwaEVuU2tJSWVpbWlCUHZNZk9yZnpJT0RGRXZhYThFRDQ2YVNJTmpRWWJhcm1YelVOMGNkYVVZRXBLUEFxLWtpMDV2aG5rQWxQZjZZcVBfdUZlQUlIdkh1N2c2eGp5YWE0aGVmbmRtel9wejQycWE4c0dQVGw5LUIyU0oyTXRZbTJHRkUya1Z0Nzh6RVpXWmROUQ?oc=5"
+          },
+          {
+            "label": "shattered.io：Sovereign AI in India Shifts to Apps: 20 Models [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5"
+          },
+          {
+            "label": "黑海洋Wiki：Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI - 黑海洋Wiki",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53OWVnTjNSNEZaWV9Cc3AxbU0zLTVJVWRxcnRvUURhQkRBSmh5SzBCTE5hMkJqcnZZRlNlUW1XOGgzTWVyQnM2TlhzamMxWWc?oc=5"
+          }
+        ],
+        "source": "BusinessToday Malaysia",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxua2dVMXNIa29aQ2ZkcUFwaEVuU2tJSWVpbWlCUHZNZk9yZnpJT0RGRXZhYThFRDQ2YVNJTmpRWWJhcm1YelVOMGNkYVVZRXBLUEFxLWtpMDV2aG5rQWxQZjZZcVBfdUZlQUlIdkh1N2c2eGp5YWE0aGVmbmRtel9wejQycWE4c0dQVGw5LUIyU0oyTXRZbTJHRkUya1Z0Nzh6RVpXWmROUQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261101-auto-2-527f63",
+        "title": "Sovereign AI in In",
+        "category": "开源项目",
+        "date": "2026-11-01",
+        "summary": "Sovereign AI in India Shifts to Apps: 20 Models [2",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Sovereign AI in In 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Sovereign AI in India Shifts to Apps: 20 Models [2",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Sovereign AI in India Shifts to Apps: 20 Models [2",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "shattered.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5"
+          },
+          {
+            "label": "BusinessToday Malaysia：DeepSeek Expands AI Agent Ambitions With New Coding Prototype - Busine",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxua2dVMXNIa29aQ2ZkcUFwaEVuU2tJSWVpbWlCUHZNZk9yZnpJT0RGRXZhYThFRDQ2YVNJTmpRWWJhcm1YelVOMGNkYVVZRXBLUEFxLWtpMDV2aG5rQWxQZjZZcVBfdUZlQUlIdkh1N2c2eGp5YWE0aGVmbmRtel9wejQycWE4c0dQVGw5LUIyU0oyTXRZbTJHRkUya1Z0Nzh6RVpXWmROUQ?oc=5"
+          },
+          {
+            "label": "黑海洋Wiki：Clearcam：不换摄像头，给现有 RTSP 监控加上本地 AI - 黑海洋Wiki",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53OWVnTjNSNEZaWV9Cc3AxbU0zLTVJVWRxcnRvUURhQkRBSmh5SzBCTE5hMkJqcnZZRlNlUW1XOGgzTWVyQnM2TlhzamMxWWc?oc=5"
+          }
+        ],
+        "source": "shattered.io",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkVvekxmWlpvcmZKRkRZeWlqeDcwcTVPZjZWTERnQmJSVUNhZFd6WjJUVTg3eHhXRV9Tc0V4cW5PSEYtRVluU3pLTElJRFJDZllVcjhqaXNRdTctRzRpQzF2azFuRnJMci1QN2NhdkRvQTVmR09IdVB6c0FHdUpJMTRCcU5OWS1jRXY4b2N0emJIaHBKNm9fZkc2M0l6S28?oc=5"
+      },
       {
         "slug": "open-source-20261031-auto-1-8282a0",
         "title": "Mistral's Le Chonk",
