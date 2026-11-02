@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261102-auto-1-d20deb",
+        "title": "Ceva Extends Wirel",
+        "category": "AI新闻",
+        "date": "2026-11-02",
+        "summary": "Ceva Extends Wireless Connectivity IP Leadership a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ceva Extends Wirel 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ceva Extends Wireless Connectivity IP Leadership a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ceva Extends Wireless Connectivity IP Leadership a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AiThority：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcy1Jb001RzlvbjlPMUF3VnFnT3hNWFNCWFVPd3BQcHFkQXBxWlNRRUx4Q095T2NMSWtLRGtZZ0NVa0xGLWZ3b25oOFF5UDI4VF9RM0hyNENkczFQWlBabVk1ODVHdjBUWHpXLVB6ZUNlMzItR3lSU3ZXZzY2QllEaUQzMnkyQ2duU21PT3hvUnBTN1VQcVhMcDBoaDdIWk5UdDFiNjl0ajluTjEzUE8zOVotU0pYaXNfVFJ3WGxn?oc=5"
+          },
+          {
+            "label": "手机新浪网：人工智能到来，带给人们更多责任 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3U2M3h3Y3BhcnlzdHZzQnZZRWpXQkNMekp6dV9rbUVHdGo3Nm1odHZhVWtsWmhNNlc4M05qbUpaY1I2MWpHT3B6aW12cUw1YUtUQUlZY2JJUnVFRmpwWjVWbUFZazkzVlhuNERDUFpKUXJWd3h6ZjNvRXh2MUVOd1FuT3NTbmFqeHVCMDZB?oc=5"
+          },
+          {
+            "label": "手机新浪网：会员风采｜中设智控设备管理工业大模型 通过国家生成式人工智能服务备案 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UWVIzZHA5RFUzYTVUbzg3UVRzc2tqcWNEUkRoNVJ3TTJiN3Z6TjdnUkplRjJrWVlzTTdyUXBfSXZacUNFZ3BuZUhtZnlKWnZPZFFHWTJ0WVZHRERrVG5PSndCYmc0R25QZ3pPM0UwRkVNWWVPLVlDVml2N1JuU1U?oc=5"
+          }
+        ],
+        "source": "AiThority",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcy1Jb001RzlvbjlPMUF3VnFnT3hNWFNCWFVPd3BQcHFkQXBxWlNRRUx4Q095T2NMSWtLRGtZZ0NVa0xGLWZ3b25oOFF5UDI4VF9RM0hyNENkczFQWlBabVk1ODVHdjBUWHpXLVB6ZUNlMzItR3lSU3ZXZzY2QllEaUQzMnkyQ2duU21PT3hvUnBTN1VQcVhMcDBoaDdIWk5UdDFiNjl0ajluTjEzUE8zOVotU0pYaXNfVFJ3WGxn?oc=5"
+      },
+      {
+        "slug": "ai-news-20261102-auto-2-afca71",
+        "title": "人工智能到来，带给人们更多责任 -",
+        "category": "AI新闻",
+        "date": "2026-11-02",
+        "summary": "人工智能到来，带给人们更多责任 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能到来，带给人们更多责任 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人工智能到来，带给人们更多责任 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能到来，带给人们更多责任 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3U2M3h3Y3BhcnlzdHZzQnZZRWpXQkNMekp6dV9rbUVHdGo3Nm1odHZhVWtsWmhNNlc4M05qbUpaY1I2MWpHT3B6aW12cUw1YUtUQUlZY2JJUnVFRmpwWjVWbUFZazkzVlhuNERDUFpKUXJWd3h6ZjNvRXh2MUVOd1FuT3NTbmFqeHVCMDZB?oc=5"
+          },
+          {
+            "label": "AiThority：Ceva Extends Wireless Connectivity IP Leadership as AI Moves to Connec",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcy1Jb001RzlvbjlPMUF3VnFnT3hNWFNCWFVPd3BQcHFkQXBxWlNRRUx4Q095T2NMSWtLRGtZZ0NVa0xGLWZ3b25oOFF5UDI4VF9RM0hyNENkczFQWlBabVk1ODVHdjBUWHpXLVB6ZUNlMzItR3lSU3ZXZzY2QllEaUQzMnkyQ2duU21PT3hvUnBTN1VQcVhMcDBoaDdIWk5UdDFiNjl0ajluTjEzUE8zOVotU0pYaXNfVFJ3WGxn?oc=5"
+          },
+          {
+            "label": "手机新浪网：会员风采｜中设智控设备管理工业大模型 通过国家生成式人工智能服务备案 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UWVIzZHA5RFUzYTVUbzg3UVRzc2tqcWNEUkRoNVJ3TTJiN3Z6TjdnUkplRjJrWVlzTTdyUXBfSXZacUNFZ3BuZUhtZnlKWnZPZFFHWTJ0WVZHRERrVG5PSndCYmc0R25QZ3pPM0UwRkVNWWVPLVlDVml2N1JuU1U?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3U2M3h3Y3BhcnlzdHZzQnZZRWpXQkNMekp6dV9rbUVHdGo3Nm1odHZhVWtsWmhNNlc4M05qbUpaY1I2MWpHT3B6aW12cUw1YUtUQUlZY2JJUnVFRmpwWjVWbUFZazkzVlhuNERDUFpKUXJWd3h6ZjNvRXh2MUVOd1FuT3NTbmFqeHVCMDZB?oc=5"
+      },
+      {
         "slug": "ai-news-20261101-auto-1-062f79",
         "title": "Google, Reddit and",
         "category": "AI新闻",
@@ -24759,6 +24875,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261102-auto-1-c7ee70",
+        "title": "35岁中专小伙“手搓”AI短剧走红，",
+        "category": "AI使用教程",
+        "date": "2026-11-02",
+        "summary": "35岁中专小伙“手搓”AI短剧走红，月均收入一万多元：从小爱看小说，自制短剧全网流量8000万_深度",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "35岁中专小伙“手搓”AI短剧走红， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "35岁中专小伙“手搓”AI短剧走红，月均收入一万多元：从小爱看小说，自制短剧全网流量8000万_深度",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "35岁中专小伙“手搓”AI短剧走红，月均收入一万多元：从小爱看小说，自制短剧全网流量8000万_深度",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "大众网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UlNYTTNjdzV6NW5pRFU5RlBQb0tJc2lfOXNBcl9hdGRqeFNKaG51QTVoSWFIWU5nWE9FUkJlcTNVZjkzMHktRlRJR3lsN2VNNEZtVzIyYzBac2ZDMmxtMDNRbnNtVWYwclhiS2RR?oc=5"
+          },
+          {
+            "label": "中华网：想阴阳中国结果AI说是美国 镜子转了个方向 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZ1NzZVQ5aEpEZXBZQkFuVzJTQVRITzZ4eE1fZHVjTE03ajdhZjFIdVJYUzk5a3RmZzlHa2xWVDd0Qi1kT1dDMVJZR1VSNFVyd1gySUVWZ0F0NWF0enZoRDNlblM1T1lHOU5HaVJDQ0Q?oc=5"
+          },
+          {
+            "label": "中国知识产权律师网：AI文生图著作权纠纷裁判难点解析 - 中国知识产权律师网",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHaVVUaXVwZGZWNU1mVVNsMVFyNEozWVlIQUdxQUxZbzJuVTRkbjZNOXlQTGlQeVpWTV84aDBFczd6STh4a2ZyMzYtN19yX3BTS3h0aktadlo?oc=5"
+          }
+        ],
+        "source": "大众网",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5UlNYTTNjdzV6NW5pRFU5RlBQb0tJc2lfOXNBcl9hdGRqeFNKaG51QTVoSWFIWU5nWE9FUkJlcTNVZjkzMHktRlRJR3lsN2VNNEZtVzIyYzBac2ZDMmxtMDNRbnNtVWYwclhiS2RR?oc=5"
+      },
+      {
         "slug": "ai-guide-20261101-auto-1-ff2814",
         "title": "媒体：AI模特长着三条腿？如此试衣，",
         "category": "AI使用教程",
@@ -36561,6 +36735,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261102-auto-1-5f001d",
+        "title": "Google, OpenAI, Mi",
+        "category": "开源项目",
+        "date": "2026-11-02",
+        "summary": "Google, OpenAI, Microsoft and Anthropic Agree on O",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google, OpenAI, Mi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google, OpenAI, Microsoft and Anthropic Agree on O",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google, OpenAI, Microsoft and Anthropic Agree on O",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "H2S Media：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1ycFJhSjZ0T0cxRnRvdkV3MWw4MVBGM2NmTkNieHR6N1YzemVEVWNlUDY2Yk10ZFRacXA1V190dGE4eXFKU0o3RkZoZ0xzdmFJS1MtMjRzeWNDd2U0UGJLWDNQNFhQYmVCU0N5TDFEeVdfOVItazlDN3RtczRaRGZhQ25RaDZ4OHpLZVVtdFhfdVNXaHJHcW1kSUdLU1l3clgyMFc1V3k?oc=5"
+          },
+          {
+            "label": "Help Net Security：Byoky: Open-source wallet for AI API keys - Help Net Security",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHVoRTU3NjZ1TUowTHFSOW9OSzhaRUx2Q29FemZoaXhKRnVTQTRvT3hwS1lCZ3VrVV8weFREaHVyZDBBQWg2d29ibHVXeTdnSkFaRWxLc0ZxSnBDU05YdVg0cVgxNkt4dVlERHU5a3ByQk5xbXZWcXgyWHVBckdfQWNnUDFQQQ?oc=5"
+          },
+          {
+            "label": "Fello AI：Is Claude Code Free? Free Ways to Use It in 2026 - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzejZEZU9tVVVzVjNJdk84VldFTVdpMUpINmVmd0tQTXh5OFphRzdMOHZ6NzJtdE5qWGdnM05pRThFVnBUZ0p4UXg3WHUtNkwxd2c?oc=5"
+          }
+        ],
+        "source": "H2S Media",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1ycFJhSjZ0T0cxRnRvdkV3MWw4MVBGM2NmTkNieHR6N1YzemVEVWNlUDY2Yk10ZFRacXA1V190dGE4eXFKU0o3RkZoZ0xzdmFJS1MtMjRzeWNDd2U0UGJLWDNQNFhQYmVCU0N5TDFEeVdfOVItazlDN3RtczRaRGZhQ25RaDZ4OHpLZVVtdFhfdVNXaHJHcW1kSUdLU1l3clgyMFc1V3k?oc=5"
+      },
+      {
+        "slug": "open-source-20261102-auto-2-294852",
+        "title": "Byoky: Open-source",
+        "category": "开源项目",
+        "date": "2026-11-02",
+        "summary": "Byoky: Open-source wallet for AI API keys Help Net",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Byoky: Open-source 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Byoky: Open-source wallet for AI API keys Help Net",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Byoky: Open-source wallet for AI API keys Help Net",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Help Net Security：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHVoRTU3NjZ1TUowTHFSOW9OSzhaRUx2Q29FemZoaXhKRnVTQTRvT3hwS1lCZ3VrVV8weFREaHVyZDBBQWg2d29ibHVXeTdnSkFaRWxLc0ZxSnBDU05YdVg0cVgxNkt4dVlERHU5a3ByQk5xbXZWcXgyWHVBckdfQWNnUDFQQQ?oc=5"
+          },
+          {
+            "label": "H2S Media：Google, OpenAI, Microsoft and Anthropic Agree on One AI Training Opt-O",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1ycFJhSjZ0T0cxRnRvdkV3MWw4MVBGM2NmTkNieHR6N1YzemVEVWNlUDY2Yk10ZFRacXA1V190dGE4eXFKU0o3RkZoZ0xzdmFJS1MtMjRzeWNDd2U0UGJLWDNQNFhQYmVCU0N5TDFEeVdfOVItazlDN3RtczRaRGZhQ25RaDZ4OHpLZVVtdFhfdVNXaHJHcW1kSUdLU1l3clgyMFc1V3k?oc=5"
+          },
+          {
+            "label": "Fello AI：Is Claude Code Free? Free Ways to Use It in 2026 - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzejZEZU9tVVVzVjNJdk84VldFTVdpMUpINmVmd0tQTXh5OFphRzdMOHZ6NzJtdE5qWGdnM05pRThFVnBUZ0p4UXg3WHUtNkwxd2c?oc=5"
+          }
+        ],
+        "source": "Help Net Security",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHVoRTU3NjZ1TUowTHFSOW9OSzhaRUx2Q29FemZoaXhKRnVTQTRvT3hwS1lCZ3VrVV8weFREaHVyZDBBQWg2d29ibHVXeTdnSkFaRWxLc0ZxSnBDU05YdVg0cVgxNkt4dVlERHU5a3ByQk5xbXZWcXgyWHVBckdfQWNnUDFQQQ?oc=5"
+      },
       {
         "slug": "open-source-20261101-auto-1-0898fc",
         "title": "DeepSeek Expands A",
