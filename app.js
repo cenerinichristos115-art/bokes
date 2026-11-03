@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261103-auto-1-f86ab7",
+        "title": "​CDIO与工程教育联盟2026年年",
+        "category": "AI新闻",
+        "date": "2026-11-03",
+        "summary": "​CDIO与工程教育联盟2026年年会暨“人工智能+工程教育”研讨会在上海召开 天津大学新闻网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "​CDIO与工程教育联盟2026年年 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "​CDIO与工程教育联盟2026年年会暨“人工智能+工程教育”研讨会在上海召开 天津大学新闻网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "​CDIO与工程教育联盟2026年年会暨“人工智能+工程教育”研讨会在上海召开 天津大学新闻网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "天津大学新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaEJDQWd6eExlY0ZOSUcybkFYdUMyeVB2aDF0dzlyVzBsNDNSbXhnZHFvZi1McHBQYnhTTjN6RXc0cUZmUURMWUh6SktUa2hWcmdmUzZDYw?oc=5"
+          },
+          {
+            "label": "中国青年网：在乌镇，看见AI未来的模样 - 中国青年网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Nmp4NDVCWUdfZ3M3VG03ZmJkTU1sVXdlTXZ2bWo1QVp4YUFGTG5LbHA3ek9jVG85b2pfaTN4MUFDU1BsZjJHNHR3bjBPYnlhMUlZdjlJRUJ5WTlOVHhfZjlRVWtKaTIyRF84?oc=5"
+          },
+          {
+            "label": "中国经济网：2026年世界互联网大会乌镇峰会今天开幕 - 中国经济网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vOTBta0JZLVk4TmtGakZFNnAyTE1Cd2FEUkxzcHFDV2hxcnh3cDBNUHo2S1RqOEJJVzJJc2FDUllyT1VWbzRCZVdmZ3Z6SU1pN1RpMDV1dmZ2LUMzTk05azJCNVF2UlNuMVFTVVdFOA?oc=5"
+          }
+        ],
+        "source": "天津大学新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaEJDQWd6eExlY0ZOSUcybkFYdUMyeVB2aDF0dzlyVzBsNDNSbXhnZHFvZi1McHBQYnhTTjN6RXc0cUZmUURMWUh6SktUa2hWcmdmUzZDYw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261103-auto-2-700f77",
+        "title": "在乌镇，看见AI未来的模样 - 中国",
+        "category": "AI新闻",
+        "date": "2026-11-03",
+        "summary": "在乌镇，看见AI未来的模样 中国青年网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "在乌镇，看见AI未来的模样 - 中国 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "在乌镇，看见AI未来的模样 中国青年网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "在乌镇，看见AI未来的模样 中国青年网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国青年网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Nmp4NDVCWUdfZ3M3VG03ZmJkTU1sVXdlTXZ2bWo1QVp4YUFGTG5LbHA3ek9jVG85b2pfaTN4MUFDU1BsZjJHNHR3bjBPYnlhMUlZdjlJRUJ5WTlOVHhfZjlRVWtKaTIyRF84?oc=5"
+          },
+          {
+            "label": "天津大学新闻网：​CDIO与工程教育联盟2026年年会暨“人工智能+工程教育”研讨会在上海召开 - 天津大学新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaEJDQWd6eExlY0ZOSUcybkFYdUMyeVB2aDF0dzlyVzBsNDNSbXhnZHFvZi1McHBQYnhTTjN6RXc0cUZmUURMWUh6SktUa2hWcmdmUzZDYw?oc=5"
+          },
+          {
+            "label": "中国经济网：2026年世界互联网大会乌镇峰会今天开幕 - 中国经济网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vOTBta0JZLVk4TmtGakZFNnAyTE1Cd2FEUkxzcHFDV2hxcnh3cDBNUHo2S1RqOEJJVzJJc2FDUllyT1VWbzRCZVdmZ3Z6SU1pN1RpMDV1dmZ2LUMzTk05azJCNVF2UlNuMVFTVVdFOA?oc=5"
+          }
+        ],
+        "source": "中国青年网",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0Nmp4NDVCWUdfZ3M3VG03ZmJkTU1sVXdlTXZ2bWo1QVp4YUFGTG5LbHA3ek9jVG85b2pfaTN4MUFDU1BsZjJHNHR3bjBPYnlhMUlZdjlJRUJ5WTlOVHhfZjlRVWtKaTIyRF84?oc=5"
+      },
+      {
         "slug": "ai-news-20261102-auto-1-d20deb",
         "title": "Ceva Extends Wirel",
         "category": "AI新闻",
@@ -24875,6 +24991,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261103-auto-1-8fd982",
+        "title": "黑莓 Priv 刷机教程 黑莓 Pr",
+        "category": "AI使用教程",
+        "date": "2026-11-03",
+        "summary": "黑莓 Priv 刷机教程 黑莓 Priv 刷机步骤 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "黑莓 Priv 刷机教程 黑莓 Pr 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "黑莓 Priv 刷机教程 黑莓 Priv 刷机步骤 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "黑莓 Priv 刷机教程 黑莓 Priv 刷机步骤 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWXZ3c28tbTJFaXBjc0VzWjRlVksxUUFQN0U0RVNmWGNpZUpMQ3RKV0phU0R3ZXpocFY0V2xScDcyaDN1MzBFQ0V6dGlCcGFYNTZTSFN3SWhsNFBqYWE1Sm40QjFkYVE?oc=5"
+          },
+          {
+            "label": "中华网：提示词不会写？Lovart 2.0帮你完成设计 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ud196T1U1YXNrMlVDUUQ1bDNxVDBCT01kUV9ubDhCdnI5bll6REhrM2VQbUY3aFlBSjg3VnhUZ2lWSlN4bDdYTDM2VkQ0NV8wakg5cGpDQzQyTnFnZ3FWb055OFUyOGpmY3UyM0l3?oc=5"
+          },
+          {
+            "label": "上观新闻：揭秘上海首起利用AI盗用大模型算力案，多次升级防护系统均被AI破解 - 上观新闻",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3bXpiTFlfQ0ZTV1dObmpXcXF0YW5PdUYxOUoxY0RGZFhmcmxDZUwzTzFacFpaUmVYQnRkYjIxVXJOS3ZOQWZDckxWamNYSmJEWW14Z2ZWNHRPYjVhc1E?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWXZ3c28tbTJFaXBjc0VzWjRlVksxUUFQN0U0RVNmWGNpZUpMQ3RKV0phU0R3ZXpocFY0V2xScDcyaDN1MzBFQ0V6dGlCcGFYNTZTSFN3SWhsNFBqYWE1Sm40QjFkYVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20261102-auto-1-c7ee70",
         "title": "35岁中专小伙“手搓”AI短剧走红，",
         "category": "AI使用教程",
@@ -36735,6 +36909,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261103-auto-1-a9103e",
+        "title": "How to Make Local",
+        "category": "开源项目",
+        "date": "2026-11-03",
+        "summary": "How to Make Local AI Edit Your Videos: The Zero-Su",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How to Make Local 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "How to Make Local AI Edit Your Videos: The Zero-Su",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How to Make Local AI Edit Your Videos: The Zero-Su",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Gadget Pilipinas：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanBzdmxtcGlfdFhXUzBhVGswZ0QwWXRWYld0WEtpdTE2ZWF4aUNHdnNVYVBSc0QyWjFUS29tcE9tb3p3TzhxWFU4NFdiVDNTRkQ2MzlLazlBaVE3ZmVqOS1XUnhGbmJ4aF95WEc4MTV1VktoSXJhNjZ3SXQ1cVVIUURlM3k2aXpU?oc=5"
+          },
+          {
+            "label": "Techzine Global：“Don’t blindly trust open source, take control” - Techzine Global",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU051R1pCdmdGMmpEMjllRTJTUFF0SnJCbzczSHZ5VUJPZzUxcklNM2dXNUlvM2h4QkJhNERocUdzVF80ai1JcHhnUU9rajdrUDRkSlFya3JzVXZ6bnFITHdZeDVMS0NFdU83NmQ2dWtwLTFnMExJbFhCaUVIQVZUbmNqQ0J3UVFRSnZoWU1FbV9EQU5uLXc?oc=5"
+          },
+          {
+            "label": "电商派：蔡崇信：只有开源开放才能推动AI普惠普及 - 电商派",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mVjZORUVxRnhnZVhycjFuRmoybXZtdWVLa1dKYmd6V2o0YnVHZGJ0SlhfaVEydFJTVHdjZ3hzVmllLVdudDgtRjIyYUhwTnhaRXptYWphaWMtV0lsRjl0Rw?oc=5"
+          }
+        ],
+        "source": "Gadget Pilipinas",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanBzdmxtcGlfdFhXUzBhVGswZ0QwWXRWYld0WEtpdTE2ZWF4aUNHdnNVYVBSc0QyWjFUS29tcE9tb3p3TzhxWFU4NFdiVDNTRkQ2MzlLazlBaVE3ZmVqOS1XUnhGbmJ4aF95WEc4MTV1VktoSXJhNjZ3SXQ1cVVIUURlM3k2aXpU?oc=5"
+      },
+      {
+        "slug": "open-source-20261103-auto-2-ca065a",
+        "title": "“Don’t blindly tru",
+        "category": "开源项目",
+        "date": "2026-11-03",
+        "summary": "“Don’t blindly trust open source, take control” Te",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“Don’t blindly tru 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "“Don’t blindly trust open source, take control” Te",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“Don’t blindly trust open source, take control” Te",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Techzine Global：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU051R1pCdmdGMmpEMjllRTJTUFF0SnJCbzczSHZ5VUJPZzUxcklNM2dXNUlvM2h4QkJhNERocUdzVF80ai1JcHhnUU9rajdrUDRkSlFya3JzVXZ6bnFITHdZeDVMS0NFdU83NmQ2dWtwLTFnMExJbFhCaUVIQVZUbmNqQ0J3UVFRSnZoWU1FbV9EQU5uLXc?oc=5"
+          },
+          {
+            "label": "Gadget Pilipinas：How to Make Local AI Edit Your Videos: The Zero-Subscription CapCut Wo",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanBzdmxtcGlfdFhXUzBhVGswZ0QwWXRWYld0WEtpdTE2ZWF4aUNHdnNVYVBSc0QyWjFUS29tcE9tb3p3TzhxWFU4NFdiVDNTRkQ2MzlLazlBaVE3ZmVqOS1XUnhGbmJ4aF95WEc4MTV1VktoSXJhNjZ3SXQ1cVVIUURlM3k2aXpU?oc=5"
+          },
+          {
+            "label": "电商派：蔡崇信：只有开源开放才能推动AI普惠普及 - 电商派",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mVjZORUVxRnhnZVhycjFuRmoybXZtdWVLa1dKYmd6V2o0YnVHZGJ0SlhfaVEydFJTVHdjZ3hzVmllLVdudDgtRjIyYUhwTnhaRXptYWphaWMtV0lsRjl0Rw?oc=5"
+          }
+        ],
+        "source": "Techzine Global",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU051R1pCdmdGMmpEMjllRTJTUFF0SnJCbzczSHZ5VUJPZzUxcklNM2dXNUlvM2h4QkJhNERocUdzVF80ai1JcHhnUU9rajdrUDRkSlFya3JzVXZ6bnFITHdZeDVMS0NFdU83NmQ2dWtwLTFnMExJbFhCaUVIQVZUbmNqQ0J3UVFRSnZoWU1FbV9EQU5uLXc?oc=5"
+      },
       {
         "slug": "open-source-20261102-auto-1-5f001d",
         "title": "Google, OpenAI, Mi",
