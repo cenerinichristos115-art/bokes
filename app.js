@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261104-auto-1-017ebb",
+        "title": "Anthropic开发AI模型身份验",
+        "category": "AI新闻",
+        "date": "2026-11-04",
+        "summary": "Anthropic开发AI模型身份验证系统-人工智能 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Anthropic开发AI模型身份验 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Anthropic开发AI模型身份验证系统-人工智能 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Anthropic开发AI模型身份验证系统-人工智能 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcENpVVYyS2IzX2V1czRVNkpCUW1sNzVqN2pxaDljTHUzbGRpbG5QZDQ4bFNwVWR5TmVpeldGa3hfd1dlS3BxRkdPdlRSQUdaODl3eW45MDVNUWdhMHc?oc=5"
+          },
+          {
+            "label": "至顶网：Ballistic Ventures寻求4.9亿美元新基金，押注AI驱动的网络安全浪潮 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbkNLZTQ3Vnl1NUwyOFpvdHBIVE01akVQd3Q4aURZYm1JeXBnMXFwRzI3cDV1TkozaVpiOVoyMjlUelRlYkdhc3F3aHBFeEJUb1pSeEZTNmQ0ZHRtbXVtbUpIbW0zbU56Z1E0QXVQZEw?oc=5"
+          },
+          {
+            "label": "至顶网：AI推动治理模式打破孤岛壁垒-人工智能 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybTQyVlZZLThFSGh2elBCZ1oxSzdCYnNyWVotcEdERUh4QkpsUndwX1RTRWxmMDRsX193OUpYUmRCVWlna1NKZmJwVi16eExOWHhSOEM3YzMwMDJHQUE?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcENpVVYyS2IzX2V1czRVNkpCUW1sNzVqN2pxaDljTHUzbGRpbG5QZDQ4bFNwVWR5TmVpeldGa3hfd1dlS3BxRkdPdlRSQUdaODl3eW45MDVNUWdhMHc?oc=5"
+      },
+      {
+        "slug": "ai-news-20261104-auto-2-0f6567",
+        "title": "Ballistic Ventures",
+        "category": "AI新闻",
+        "date": "2026-11-04",
+        "summary": "Ballistic Ventures寻求4.9亿美元新基金，押注AI驱动的网络安全浪潮 至顶网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ballistic Ventures 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Ballistic Ventures寻求4.9亿美元新基金，押注AI驱动的网络安全浪潮 至顶网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ballistic Ventures寻求4.9亿美元新基金，押注AI驱动的网络安全浪潮 至顶网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "至顶网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbkNLZTQ3Vnl1NUwyOFpvdHBIVE01akVQd3Q4aURZYm1JeXBnMXFwRzI3cDV1TkozaVpiOVoyMjlUelRlYkdhc3F3aHBFeEJUb1pSeEZTNmQ0ZHRtbXVtbUpIbW0zbU56Z1E0QXVQZEw?oc=5"
+          },
+          {
+            "label": "至顶网：Anthropic开发AI模型身份验证系统-人工智能 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KcENpVVYyS2IzX2V1czRVNkpCUW1sNzVqN2pxaDljTHUzbGRpbG5QZDQ4bFNwVWR5TmVpeldGa3hfd1dlS3BxRkdPdlRSQUdaODl3eW45MDVNUWdhMHc?oc=5"
+          },
+          {
+            "label": "至顶网：AI推动治理模式打破孤岛壁垒-人工智能 - 至顶网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ybTQyVlZZLThFSGh2elBCZ1oxSzdCYnNyWVotcEdERUh4QkpsUndwX1RTRWxmMDRsX193OUpYUmRCVWlna1NKZmJwVi16eExOWHhSOEM3YzMwMDJHQUE?oc=5"
+          }
+        ],
+        "source": "至顶网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbkNLZTQ3Vnl1NUwyOFpvdHBIVE01akVQd3Q4aURZYm1JeXBnMXFwRzI3cDV1TkozaVpiOVoyMjlUelRlYkdhc3F3aHBFeEJUb1pSeEZTNmQ0ZHRtbXVtbUpIbW0zbU56Z1E0QXVQZEw?oc=5"
+      },
+      {
         "slug": "ai-news-20261103-auto-1-f86ab7",
         "title": "​CDIO与工程教育联盟2026年年",
         "category": "AI新闻",
@@ -24991,6 +25107,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261104-auto-1-5782e0",
+        "title": "Hakeem Jeffries po",
+        "category": "AI使用教程",
+        "date": "2026-11-04",
+        "summary": "Hakeem Jeffries poised to become speaker of US Hou",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Hakeem Jeffries po 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Hakeem Jeffries poised to become speaker of US Hou",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Hakeem Jeffries poised to become speaker of US Hou",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Emirates 24|7：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Y1aWtnSmhaTU82TFQyQ2xyblp3cFhEc2FBdEltTmFrU2plSmNwVUw2RklqS2JCcXVucEVzakh3bTdDUXU3N0NrNW1XQlk5VjBZMVQ1bVlmLXZCUnJPRFlQZlNNaloxX011MHhFX1BQWUdPR3lLUEpmZnFkalYzWXBVdzhIaTl4WER0RjNXY2k0dVg1TXZNSnlFNnVDcXhWMXFKQ0QxRmJZN1pVcGpR0gHKAUFVX3lxTE0zM1hWUTBqRVI4SjlaWXBzSXBCVHVBc3Rhb2tvTlBfWVFqSldPc0VYSUhxaFIwbVlvUjJfSFVEOC12QTUxdzdrcXVrT2EzNnI5ZmRaTWp5WUJWS212ZTgySURjUTJRVHUwcURCUG1zQndNQXl3enVOelRrMGFMX2ZON1E1OEZDdGdVSURzLTNOZ3BIUkI2c3JJLXhCalNEdm41U0xHRVd0bnZBbHAwU3NaSmR0NHlDeGZYakNKMjFpcnlZRUpxVUNhcVE?oc=5"
+          },
+          {
+            "label": "Emirates 24|7：Player's death after brutal match collision with goal keeper stuns Spa",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUhUcng4cVVQYUJXbXBha0FqcGwzc1NFZGJzR2djMGNRbm96X3I4NzlUd2F2SEVIYS1ZbE85Um12aWJMeDBZWXZQXzRUd1p1UU9nTnV0Q2NXX2VsbHN3Tnk1ZVZ5SDM4dE1aYU5yYVBpcXBGMngzVFhiQ0haTy1mQ2NINUwyaDJLRzBuNDZYVEtaNnVDc3ZDX2xuSFR5WnZiZGNGOVFKNDJKNWdBcUlR0gHKAUFVX3lxTE0zcmhNVzA1cDBXNTRLYTFjVDIzOHZMLXhndzhOdUtyN3I1X0QyTGRlT21yQjlvZElRNjcydU1Za0dSNHVUOVBHR1J2Y2M4VUthU2tDT0RGdTNwa2haS3BIQ245SUhPSVJvaS1kVUdWMEliWG9QM3AtTDA5d183NVJQSU5QWlFRNlE2aTg0THBLaHMzUFF0SU5oeWtYeE83Vy1PYzFhblBPX2dhS0NiaHZpVHNuUTlJdjlxMUJIbG5PNHowV3ZqcXVsWWc?oc=5"
+          },
+          {
+            "label": "Emirates 24|7：UAE leads AI-driven development of financial services - Emirates 24|7",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTFfTkRmaWN6SVlGQmVLaHFXSEJMX1dDbEs4NDlOclR1REJNanNYeWRXS0lFRmR5SnM1UTFsUzdxd0NIcWRwLW1oaXF3OFA1LU02ckRMWFhQenhudFBoRHNwWDhsZUhZRFJwTmMxNEhiVWMzNl83ckRianY4bXZ0R3NzbDhMc0J3NENUZW5nanpmM3p0V0NXc0RJMNIBtgFBVV95cUxPQng4OGxMX2RRSjJqOVRLdFlSLUZVcWFFOW5qSzlHY3o2d1VJOFJzT3VTYVFUQXlKZGNiOU1Ma0FQOGczUmc4Ni1YVkdxcUtGQUE0ak1SVVVEQTl0aWhLV3h1UjZkZEFoeHVsR0ZhdmE2VjY5Q1BHWmJwZ1pkTHhVa1R1Q0ZmeUFHM0pZTk5BTXVsMVlHYU93VjBtdm9NQURNQndFenNDZnRtVGt3X2d2SlhSdG12dw?oc=5"
+          }
+        ],
+        "source": "Emirates 24|7",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Y1aWtnSmhaTU82TFQyQ2xyblp3cFhEc2FBdEltTmFrU2plSmNwVUw2RklqS2JCcXVucEVzakh3bTdDUXU3N0NrNW1XQlk5VjBZMVQ1bVlmLXZCUnJPRFlQZlNNaloxX011MHhFX1BQWUdPR3lLUEpmZnFkalYzWXBVdzhIaTl4WER0RjNXY2k0dVg1TXZNSnlFNnVDcXhWMXFKQ0QxRmJZN1pVcGpR0gHKAUFVX3lxTE0zM1hWUTBqRVI4SjlaWXBzSXBCVHVBc3Rhb2tvTlBfWVFqSldPc0VYSUhxaFIwbVlvUjJfSFVEOC12QTUxdzdrcXVrT2EzNnI5ZmRaTWp5WUJWS212ZTgySURjUTJRVHUwcURCUG1zQndNQXl3enVOelRrMGFMX2ZON1E1OEZDdGdVSURzLTNOZ3BIUkI2c3JJLXhCalNEdm41U0xHRVd0bnZBbHAwU3NaSmR0NHlDeGZYakNKMjFpcnlZRUpxVUNhcVE?oc=5"
+      },
+      {
         "slug": "ai-guide-20261103-auto-1-8fd982",
         "title": "黑莓 Priv 刷机教程 黑莓 Pr",
         "category": "AI使用教程",
@@ -36909,6 +37083,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261104-auto-1-e41df1",
+        "title": "Three-Live, Google",
+        "category": "开源项目",
+        "date": "2026-11-04",
+        "summary": "Three-Live, Google's Powerful AI 3D Tool for Web,",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Three-Live, Google 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Three-Live, Google's Powerful AI 3D Tool for Web,",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Three-Live, Google's Powerful AI 3D Tool for Web,",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Open Source For You：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQlhNY2hxZWVMcUg4a0RsMjVnSlJPOUNZS3JuNnU4S1FRN2Z3dFhYM05Oc0tERWNpUXVnQ3BRZDZCYk4zS1dfSjZKeTFhc285bkhWRm5YLU81cmNWUjloSW04M2JiQXEydVhRREl3?oc=5"
+          },
+          {
+            "label": "Livemint：What is FlashProve? Anthropic’s open-source tool to prove which AI mod",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTTdGNnA3d3NrU0dnLV9MRFJib094R0VvQzBLaXdJSy03eU56bXlDd3BBTWswUWhEZmZOZ3NsMjZiVEdzVjRYMWpvNkNoZmNqaFI1by1fcUlTclNXSXlKVVdnSm9yWWNZMlktbWtfYkJOSlRrZHlTZXpnSUJLemRjaEdLdVJDZjFveXNvYUpHaHFvYXNtQ2R1TWtzckd2OEkzVTRNQTM0MjBvZmxXTks2UVRsZTZVaGdDU2o4SF9oWm9pSFZpZEY1MmRXRWMzdDdIMjZSRl8tQdIB3AFBVV95cUxQV3Y4Y1o0OVpWQmJuQjRsUDlSMjRYd0hsckhsS0tWR0lhWWRLTk1FMTBhNTlyUzkzc1ltUGNmZXI5bE1MSnh6MElUc1lxeFFEWFpRb3lSbUt6UWFEei0wenFCeEtuVVEtUm1GUVc3MUhfd2FlMVlYZnEyV2JQQnFGQUlpUGxfV1RDUGFSY2RmV0p6MXAzcmxncEdSTGxEb1hidm5fWm9JVkFmVlNlV3NIYmxGb0g0SlRYMmZxQlpZdzdMQkxleHJJUURHbFlMQm8xdW5tSjRZeTR4eEE5?oc=5"
+          },
+          {
+            "label": "samaa tv：Anthropic unveils system to verify which AI model responds - samaa tv",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2hGYlRLZjUtUlhObFpLRkVDVVVXODU2eUFQU3U0S3lKSmxiZXFHZHNNekIwX1NOdWhHMjN4ZV9aUnFRZ2EzekVnbFpNMmN0eFY3MGpjVnlLd2p4SXVVYVRrTFJ3Tlg0Z1MzVnk1OEg5VUJIeFV0dVQyRU5iUGVLdTEwdGtnWnpGdG5VZ2swUU9HZkNo?oc=5"
+          }
+        ],
+        "source": "Open Source For You",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQlhNY2hxZWVMcUg4a0RsMjVnSlJPOUNZS3JuNnU4S1FRN2Z3dFhYM05Oc0tERWNpUXVnQ3BRZDZCYk4zS1dfSjZKeTFhc285bkhWRm5YLU81cmNWUjloSW04M2JiQXEydVhRREl3?oc=5"
+      },
+      {
+        "slug": "open-source-20261104-auto-2-581d17",
+        "title": "What is FlashProve",
+        "category": "开源项目",
+        "date": "2026-11-04",
+        "summary": "What is FlashProve? Anthropic’s open-source tool t",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What is FlashProve 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "What is FlashProve? Anthropic’s open-source tool t",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What is FlashProve? Anthropic’s open-source tool t",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Livemint：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTTdGNnA3d3NrU0dnLV9MRFJib094R0VvQzBLaXdJSy03eU56bXlDd3BBTWswUWhEZmZOZ3NsMjZiVEdzVjRYMWpvNkNoZmNqaFI1by1fcUlTclNXSXlKVVdnSm9yWWNZMlktbWtfYkJOSlRrZHlTZXpnSUJLemRjaEdLdVJDZjFveXNvYUpHaHFvYXNtQ2R1TWtzckd2OEkzVTRNQTM0MjBvZmxXTks2UVRsZTZVaGdDU2o4SF9oWm9pSFZpZEY1MmRXRWMzdDdIMjZSRl8tQdIB3AFBVV95cUxQV3Y4Y1o0OVpWQmJuQjRsUDlSMjRYd0hsckhsS0tWR0lhWWRLTk1FMTBhNTlyUzkzc1ltUGNmZXI5bE1MSnh6MElUc1lxeFFEWFpRb3lSbUt6UWFEei0wenFCeEtuVVEtUm1GUVc3MUhfd2FlMVlYZnEyV2JQQnFGQUlpUGxfV1RDUGFSY2RmV0p6MXAzcmxncEdSTGxEb1hidm5fWm9JVkFmVlNlV3NIYmxGb0g0SlRYMmZxQlpZdzdMQkxleHJJUURHbFlMQm8xdW5tSjRZeTR4eEE5?oc=5"
+          },
+          {
+            "label": "Open Source For You：Three-Live, Google's Powerful AI 3D Tool for Web, AR and XR - Open Sou",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQlhNY2hxZWVMcUg4a0RsMjVnSlJPOUNZS3JuNnU4S1FRN2Z3dFhYM05Oc0tERWNpUXVnQ3BRZDZCYk4zS1dfSjZKeTFhc285bkhWRm5YLU81cmNWUjloSW04M2JiQXEydVhRREl3?oc=5"
+          },
+          {
+            "label": "samaa tv：Anthropic unveils system to verify which AI model responds - samaa tv",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2hGYlRLZjUtUlhObFpLRkVDVVVXODU2eUFQU3U0S3lKSmxiZXFHZHNNekIwX1NOdWhHMjN4ZV9aUnFRZ2EzekVnbFpNMmN0eFY3MGpjVnlLd2p4SXVVYVRrTFJ3Tlg0Z1MzVnk1OEg5VUJIeFV0dVQyRU5iUGVLdTEwdGtnWnpGdG5VZ2swUU9HZkNo?oc=5"
+          }
+        ],
+        "source": "Livemint",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTTdGNnA3d3NrU0dnLV9MRFJib094R0VvQzBLaXdJSy03eU56bXlDd3BBTWswUWhEZmZOZ3NsMjZiVEdzVjRYMWpvNkNoZmNqaFI1by1fcUlTclNXSXlKVVdnSm9yWWNZMlktbWtfYkJOSlRrZHlTZXpnSUJLemRjaEdLdVJDZjFveXNvYUpHaHFvYXNtQ2R1TWtzckd2OEkzVTRNQTM0MjBvZmxXTks2UVRsZTZVaGdDU2o4SF9oWm9pSFZpZEY1MmRXRWMzdDdIMjZSRl8tQdIB3AFBVV95cUxQV3Y4Y1o0OVpWQmJuQjRsUDlSMjRYd0hsckhsS0tWR0lhWWRLTk1FMTBhNTlyUzkzc1ltUGNmZXI5bE1MSnh6MElUc1lxeFFEWFpRb3lSbUt6UWFEei0wenFCeEtuVVEtUm1GUVc3MUhfd2FlMVlYZnEyV2JQQnFGQUlpUGxfV1RDUGFSY2RmV0p6MXAzcmxncEdSTGxEb1hidm5fWm9JVkFmVlNlV3NIYmxGb0g0SlRYMmZxQlpZdzdMQkxleHJJUURHbFlMQm8xdW5tSjRZeTR4eEE5?oc=5"
+      },
       {
         "slug": "open-source-20261103-auto-1-a9103e",
         "title": "How to Make Local",
