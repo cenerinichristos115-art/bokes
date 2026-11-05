@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261105-auto-1-34ff9a",
+        "title": "《经济日报》关注郫都：培育“人工智能",
+        "category": "AI新闻",
+        "date": "2026-11-05",
+        "summary": "《经济日报》关注郫都：培育“人工智能+”新赛道，科产融合激活创新动能 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "《经济日报》关注郫都：培育“人工智能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "《经济日报》关注郫都：培育“人工智能+”新赛道，科产融合激活创新动能 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "《经济日报》关注郫都：培育“人工智能+”新赛道，科产融合激活创新动能 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERjYzcFhPY2toNDEwSGVDWFR5aGl6amRKcEwxb1hfeTEtUmlIaGFpd216WmZVdDdpZWRNQnpVVGtxQ3YySzF5bFRJV0VacXlONm93cmJJQ0ljUWczOGt6YkJrQ1RTVUl0NmZQZGVpZ24?oc=5"
+          },
+          {
+            "label": "江南大学新闻网：人工智能与计算机学院党委召开巡察整改满意度测评大会 - 江南大学新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rRDh6YVpCRkFyNFZCVDFzbGgyZmtrZThBX1lrTlFCQkpucEktM1czakN2YmNxVGJ4VVUyQTVseGhQd1Y3VFNmQUR3NEY3SXNDeF9wNmNFRzQ2Wi1xMXc?oc=5"
+          },
+          {
+            "label": "新蓝网：2026年世界互联网大会乌镇峰会今日闭幕 - 新蓝网",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUG9VSnNmRE44VXZlWEstSXZMUzZfRE1maFp6dXRGeDBxNjFxMDNpSFVCdXk2TU1Zak1iU3I2NXBvMDdEVnVfRWl5RWk2Vkk?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERjYzcFhPY2toNDEwSGVDWFR5aGl6amRKcEwxb1hfeTEtUmlIaGFpd216WmZVdDdpZWRNQnpVVGtxQ3YySzF5bFRJV0VacXlONm93cmJJQ0ljUWczOGt6YkJrQ1RTVUl0NmZQZGVpZ24?oc=5"
+      },
+      {
+        "slug": "ai-news-20261105-auto-2-44397c",
+        "title": "人工智能与计算机学院党委召开巡察整改",
+        "category": "AI新闻",
+        "date": "2026-11-05",
+        "summary": "人工智能与计算机学院党委召开巡察整改满意度测评大会 江南大学新闻网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "人工智能与计算机学院党委召开巡察整改 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "人工智能与计算机学院党委召开巡察整改满意度测评大会 江南大学新闻网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "人工智能与计算机学院党委召开巡察整改满意度测评大会 江南大学新闻网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "江南大学新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rRDh6YVpCRkFyNFZCVDFzbGgyZmtrZThBX1lrTlFCQkpucEktM1czakN2YmNxVGJ4VVUyQTVseGhQd1Y3VFNmQUR3NEY3SXNDeF9wNmNFRzQ2Wi1xMXc?oc=5"
+          },
+          {
+            "label": "手机新浪网：《经济日报》关注郫都：培育“人工智能+”新赛道，科产融合激活创新动能 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERjYzcFhPY2toNDEwSGVDWFR5aGl6amRKcEwxb1hfeTEtUmlIaGFpd216WmZVdDdpZWRNQnpVVGtxQ3YySzF5bFRJV0VacXlONm93cmJJQ0ljUWczOGt6YkJrQ1RTVUl0NmZQZGVpZ24?oc=5"
+          },
+          {
+            "label": "新蓝网：2026年世界互联网大会乌镇峰会今日闭幕 - 新蓝网",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUG9VSnNmRE44VXZlWEstSXZMUzZfRE1maFp6dXRGeDBxNjFxMDNpSFVCdXk2TU1Zak1iU3I2NXBvMDdEVnVfRWl5RWk2Vkk?oc=5"
+          }
+        ],
+        "source": "江南大学新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rRDh6YVpCRkFyNFZCVDFzbGgyZmtrZThBX1lrTlFCQkpucEktM1czakN2YmNxVGJ4VVUyQTVseGhQd1Y3VFNmQUR3NEY3SXNDeF9wNmNFRzQ2Wi1xMXc?oc=5"
+      },
+      {
         "slug": "ai-news-20261104-auto-1-017ebb",
         "title": "Anthropic开发AI模型身份验",
         "category": "AI新闻",
@@ -25107,6 +25223,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261105-auto-1-7a13f4",
+        "title": "没基础能学会AI吗？AI社区发起人：",
+        "category": "AI使用教程",
+        "date": "2026-11-05",
+        "summary": "没基础能学会AI吗？AI社区发起人：3岁孩子和70岁老人都能掌握，社区里有教学，“我们只收作业不收费",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "没基础能学会AI吗？AI社区发起人： 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "没基础能学会AI吗？AI社区发起人：3岁孩子和70岁老人都能掌握，社区里有教学，“我们只收作业不收费",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "没基础能学会AI吗？AI社区发起人：3岁孩子和70岁老人都能掌握，社区里有教学，“我们只收作业不收费",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华商网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5NktRbllHdFFsM1JOU3RiYWhKeVlHYnNiQXdIU0I1bDdTTGw2SkItVTd3VWstNlZpeWZFYkVTakVEbzA5aThsWTk3S1FVUUZ5VURGQ1RWaklaODhGRl9v?oc=5"
+          },
+          {
+            "label": "Emirates 24|7：Dubai court orders engineer to repay AED4.2 million loan to employer-r",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHlWeE9IN0VaNkkzSERWWW92YnJTVzJsUEJlbDRQd1lEN3hPeHVLb2R2Y3pWNmlzNmJjTWpac0RxUFVBRG55NjduSF9zMUxCTmdqTVJPTThKUnlDS2Zwdm12X0g2ZDYzZE1XeTF5cUtjdVhENGNvcjFXcHpuUmNoNE1VeXFqbUl5U1NfYUY5N2NTVU1Qd1ZycWJFT0h1bmR0S25jTmYwNkVvNlF6UWc4M3d2SdIBzgFBVV95cUxPeldqelJXeklRb2Q3UUdDQWJfY2IxTEZyNWpuRm1TaVhmVkl5SHFJVEh4RGRYbmNZdmFIVTNSTC1Sb2dMbUtUbnU1SXBGZGZZc25HRmc2VGIwMmk5WjB0QkVFcW96THVENGxyYUhCSmEtdjNyZkJBS1haTVFtM2kwbzBhNnF6bWxZSnFNM1pTNU1Fa05TUkYyNGJpNUhFMVQycHJ3OXJSSnRYMHVVOUxHVGVFa2xZQWw3NmxZT25OdUJfMlZjNGdmTVNjOUtqQQ?oc=5"
+          },
+          {
+            "label": "区块周刊BlockWeeks：Claude工程师Agent大教程：如何防止被AI养废 - 区块周刊BlockWeeks",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kOGN2MnRoLVZHV0pEZEQzWDBhZjZzZW9IWEV0MExzVEJacDZ6TmplcEZRcDQ1Sk94WTZxQVB1QktxbGMxQWhTYUJ3?oc=5"
+          }
+        ],
+        "source": "华商网",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5NktRbllHdFFsM1JOU3RiYWhKeVlHYnNiQXdIU0I1bDdTTGw2SkItVTd3VWstNlZpeWZFYkVTakVEbzA5aThsWTk3S1FVUUZ5VURGQ1RWaklaODhGRl9v?oc=5"
+      },
+      {
         "slug": "ai-guide-20261104-auto-1-5782e0",
         "title": "Hakeem Jeffries po",
         "category": "AI使用教程",
@@ -37083,6 +37257,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261105-auto-1-b7d6f7",
+        "title": "Ricursive launches",
+        "category": "开源项目",
+        "date": "2026-11-05",
+        "summary": "Ricursive launches Ripple-65B Preview, its first d",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ricursive launches 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ricursive launches Ripple-65B Preview, its first d",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ricursive launches Ripple-65B Preview, its first d",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NMRWhGUXo3WnJORWRTZ3Q0RGZQUl80TEE1N0ItQ3hDeXpQdnhGaThzSV9KTDlkSGRLbXo0LXlhUG4wY0t1Nm5TcURfN0FSNll4cFpMUGY3a0U2OFJzVjBsNE9zTW9FcDRuQk54VVV0ZkhVR3FvdXRkY2RVSXQ0LTN4S2hkVUpLV3pQLUdHV3puN3VCRTBTd2dR?oc=5"
+          },
+          {
+            "label": "Fello AI：DeepSeek V5 Release Date: What We Know So Far - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZDQ0aF91RzQ2OV8zOWlpcWt5QzItZXgxeGpRTk8wWGZNZmRJX29DUE5nT0VaNEI5cXFkM2ZfSHcyNElHNEhB?oc=5"
+          },
+          {
+            "label": "shattered.io：Open WebUI vs LibreChat vs AnythingLLM: 3 Picks [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHdqOVRLWkg1YVVJMmxEZmJNVHhVaExMQ3MzT1pJUkpNRV9lLWMwWmpmNlJtZGdVSXpRTWstZnBLNkVfa00yQWlQRzNUdFRuTzJXamlLME9xYmlRQVB5X2p4TWVaandXNXZ4UGRkYXZrc3d5MTdVeXRtd2s1Ull3VjJXMEg5RmFoQnF3dGRveDBvajFR?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NMRWhGUXo3WnJORWRTZ3Q0RGZQUl80TEE1N0ItQ3hDeXpQdnhGaThzSV9KTDlkSGRLbXo0LXlhUG4wY0t1Nm5TcURfN0FSNll4cFpMUGY3a0U2OFJzVjBsNE9zTW9FcDRuQk54VVV0ZkhVR3FvdXRkY2RVSXQ0LTN4S2hkVUpLV3pQLUdHV3puN3VCRTBTd2dR?oc=5"
+      },
+      {
+        "slug": "open-source-20261105-auto-2-42f258",
+        "title": "DeepSeek V5 Releas",
+        "category": "开源项目",
+        "date": "2026-11-05",
+        "summary": "DeepSeek V5 Release Date: What We Know So Far Fell",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "DeepSeek V5 Releas 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "DeepSeek V5 Release Date: What We Know So Far Fell",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "DeepSeek V5 Release Date: What We Know So Far Fell",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fello AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZDQ0aF91RzQ2OV8zOWlpcWt5QzItZXgxeGpRTk8wWGZNZmRJX29DUE5nT0VaNEI5cXFkM2ZfSHcyNElHNEhB?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Ricursive launches Ripple-65B Preview, its first dense open-weight LLM",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3NMRWhGUXo3WnJORWRTZ3Q0RGZQUl80TEE1N0ItQ3hDeXpQdnhGaThzSV9KTDlkSGRLbXo0LXlhUG4wY0t1Nm5TcURfN0FSNll4cFpMUGY3a0U2OFJzVjBsNE9zTW9FcDRuQk54VVV0ZkhVR3FvdXRkY2RVSXQ0LTN4S2hkVUpLV3pQLUdHV3puN3VCRTBTd2dR?oc=5"
+          },
+          {
+            "label": "shattered.io：Open WebUI vs LibreChat vs AnythingLLM: 3 Picks [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHdqOVRLWkg1YVVJMmxEZmJNVHhVaExMQ3MzT1pJUkpNRV9lLWMwWmpmNlJtZGdVSXpRTWstZnBLNkVfa00yQWlQRzNUdFRuTzJXamlLME9xYmlRQVB5X2p4TWVaandXNXZ4UGRkYXZrc3d5MTdVeXRtd2s1Ull3VjJXMEg5RmFoQnF3dGRveDBvajFR?oc=5"
+          }
+        ],
+        "source": "Fello AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MZDQ0aF91RzQ2OV8zOWlpcWt5QzItZXgxeGpRTk8wWGZNZmRJX29DUE5nT0VaNEI5cXFkM2ZfSHcyNElHNEhB?oc=5"
+      },
       {
         "slug": "open-source-20261104-auto-1-e41df1",
         "title": "Three-Live, Google",
