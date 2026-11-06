@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261106-auto-1-427f7c",
+        "title": "Asian shares skid",
+        "category": "AI新闻",
+        "date": "2026-11-06",
+        "summary": "Asian shares skid after AI worries send Wall Stree",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Asian shares skid 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Asian shares skid after AI worries send Wall Stree",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Asian shares skid after AI worries send Wall Stree",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "WPLG Local 10：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclhYNkRYZWNiMTMtaUlzM2hsM3JLLXZybkg0RmNES2NQZm5vd29IMFVBbnVLRkpjMzh6cHo3WTlVVTd6c0tNaTN4eHBPNU1mVFFUMUNWSC11X1VCbHc3UGJHZk93a1ZZdGZTT0ZBZlpNcHJiVWYtT3RRU1JxVTVRSFlpbW1sRjV0Z21oeHFEMks0dUdjb0pxQndJWjZvUXJhcTFra0k1YVNaZTZJMUZ1TG13?oc=5"
+          },
+          {
+            "label": "搜狐网：中行上海市分行发布专项方案，金融赋能人工智能企业扬帆出海 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWZLLTZhMHBxUUoyZC1nWnhFSy1FZVpRXzV3bUFHMS1JdHJseVhvSjhPMlIwdVpJSC1kUllxRUdSdUJ1WGtZWUR0SjJRaUI5aEhseEVRRUlia1VhZXpyX1dnNHdRTXRMcUYzR25ONjNEUXFxX242UGp3VHI2ZHl3MGpaUkQwUi1P?oc=5"
+          },
+          {
+            "label": "中国网：2027高登科博会定档5月杭州 10万平方米展览空间、八大主题展区、十大论坛聚焦未来产业 - 中国网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ybnVDY0p3Nl9pSFEtZkttSkJ4Y2FWcW1JLUdHcmRmdFpMQy1aa3ZQNjhaeTlLQ213aURuWmhkajU1dDhGTnBTRlpqQUdVS3VlckdOUnpTdG4yM29NTTQ1Rl9UMmpPMm9DTkc4RXNUaw?oc=5"
+          }
+        ],
+        "source": "WPLG Local 10",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclhYNkRYZWNiMTMtaUlzM2hsM3JLLXZybkg0RmNES2NQZm5vd29IMFVBbnVLRkpjMzh6cHo3WTlVVTd6c0tNaTN4eHBPNU1mVFFUMUNWSC11X1VCbHc3UGJHZk93a1ZZdGZTT0ZBZlpNcHJiVWYtT3RRU1JxVTVRSFlpbW1sRjV0Z21oeHFEMks0dUdjb0pxQndJWjZvUXJhcTFra0k1YVNaZTZJMUZ1TG13?oc=5"
+      },
+      {
+        "slug": "ai-news-20261106-auto-2-0e0a17",
+        "title": "中行上海市分行发布专项方案，金融赋能",
+        "category": "AI新闻",
+        "date": "2026-11-06",
+        "summary": "中行上海市分行发布专项方案，金融赋能人工智能企业扬帆出海 搜狐网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "中行上海市分行发布专项方案，金融赋能 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "中行上海市分行发布专项方案，金融赋能人工智能企业扬帆出海 搜狐网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "中行上海市分行发布专项方案，金融赋能人工智能企业扬帆出海 搜狐网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "搜狐网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWZLLTZhMHBxUUoyZC1nWnhFSy1FZVpRXzV3bUFHMS1JdHJseVhvSjhPMlIwdVpJSC1kUllxRUdSdUJ1WGtZWUR0SjJRaUI5aEhseEVRRUlia1VhZXpyX1dnNHdRTXRMcUYzR25ONjNEUXFxX242UGp3VHI2ZHl3MGpaUkQwUi1P?oc=5"
+          },
+          {
+            "label": "WPLG Local 10：Asian shares skid after AI worries send Wall Street tumbling - WPLG Lo",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclhYNkRYZWNiMTMtaUlzM2hsM3JLLXZybkg0RmNES2NQZm5vd29IMFVBbnVLRkpjMzh6cHo3WTlVVTd6c0tNaTN4eHBPNU1mVFFUMUNWSC11X1VCbHc3UGJHZk93a1ZZdGZTT0ZBZlpNcHJiVWYtT3RRU1JxVTVRSFlpbW1sRjV0Z21oeHFEMks0dUdjb0pxQndJWjZvUXJhcTFra0k1YVNaZTZJMUZ1TG13?oc=5"
+          },
+          {
+            "label": "中国网：2027高登科博会定档5月杭州 10万平方米展览空间、八大主题展区、十大论坛聚焦未来产业 - 中国网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ybnVDY0p3Nl9pSFEtZkttSkJ4Y2FWcW1JLUdHcmRmdFpMQy1aa3ZQNjhaeTlLQ213aURuWmhkajU1dDhGTnBTRlpqQUdVS3VlckdOUnpTdG4yM29NTTQ1Rl9UMmpPMm9DTkc4RXNUaw?oc=5"
+          }
+        ],
+        "source": "搜狐网",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWZLLTZhMHBxUUoyZC1nWnhFSy1FZVpRXzV3bUFHMS1JdHJseVhvSjhPMlIwdVpJSC1kUllxRUdSdUJ1WGtZWUR0SjJRaUI5aEhseEVRRUlia1VhZXpyX1dnNHdRTXRMcUYzR25ONjNEUXFxX242UGp3VHI2ZHl3MGpaUkQwUi1P?oc=5"
+      },
+      {
         "slug": "ai-news-20261105-auto-1-34ff9a",
         "title": "《经济日报》关注郫都：培育“人工智能",
         "category": "AI新闻",
@@ -25223,6 +25339,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261106-auto-1-951e0e",
+        "title": "AI探店视频兴起！盘和林：AI能降低",
+        "category": "AI使用教程",
+        "date": "2026-11-06",
+        "summary": "AI探店视频兴起！盘和林：AI能降低引流成本，但不能虚假宣传误导观众 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI探店视频兴起！盘和林：AI能降低 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI探店视频兴起！盘和林：AI能降低引流成本，但不能虚假宣传误导观众 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI探店视频兴起！盘和林：AI能降低引流成本，但不能虚假宣传误导观众 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRU2FVY2ViajdqSDU4LXVCdFJSc0RaYlJqSDRlZXhlaGVmN2pldDlDaUdQaFRIMlM3T0g5RkZnTDdweWpja2FKSGptZ041ZEI4bXFtTGQ1eEExajJ6TUZjX005RVFOMVBaZ0ZLbVNpVnJEeXN1ZHllNVZRVzItclU?oc=5"
+          },
+          {
+            "label": "quasa.io：Ponder AI：只需一个提示词，即可将原始素材变成专业粗剪 - quasa.io",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3RCaWRBcHVnYVp5c0U2YkVndzV2WkFpVTREUnJMRC0xLXZGdGJSOHBiMjdkbkNxMTVIV2lDckJoNTg3OFFhUWVXYVVtQTIzMG9QNHdpbVJDc2o5ZUI5bjlERXRxTTFBY1J4cG10ZFZlRjNFQnR1VnNDb242UUFJcEpqSENZLWZMNGdrZDRxSnRvX3NWT3AwQ1YxbDVJNEQ1WTNtbzI3czNGTG1SSElQS0ltSXE?oc=5"
+          },
+          {
+            "label": "搜狐网：男孩沉迷看电视，老爸“魔改”电视系统，孩子每看十分钟就要随机答一道题，网友直呼求教程；当事人：儿子破解我升级 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWdWSHE0R2VQRHhOVTJVVUxWc09pS0NzUDBhOE14TmxIYnJBcHlhODJvMm9wTW15X29WVWpubHh4V0U1UHVKYS1vZFFfU05aNnRuWkNIelhZUEhOYWxTMmJOTXdRSHl3TmpQYkZkU2l6Q09fQzZkUFh0bEUyZ3ZmQ2ZQVFd5UQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRU2FVY2ViajdqSDU4LXVCdFJSc0RaYlJqSDRlZXhlaGVmN2pldDlDaUdQaFRIMlM3T0g5RkZnTDdweWpja2FKSGptZ041ZEI4bXFtTGQ1eEExajJ6TUZjX005RVFOMVBaZ0ZLbVNpVnJEeXN1ZHllNVZRVzItclU?oc=5"
+      },
+      {
         "slug": "ai-guide-20261105-auto-1-7a13f4",
         "title": "没基础能学会AI吗？AI社区发起人：",
         "category": "AI使用教程",
@@ -37257,6 +37431,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261106-auto-1-0c7c9e",
+        "title": "Google Donates AI",
+        "category": "开源项目",
+        "date": "2026-11-06",
+        "summary": "Google Donates AI Agent Sandbox to Linux Foundatio",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google Donates AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google Donates AI Agent Sandbox to Linux Foundatio",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google Donates AI Agent Sandbox to Linux Foundatio",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnoxU2E0Q0lISHpCcmgyYWJBTGxILXRNeVJIWkZWUlVwbGwzN3g0Y0RXQUN2a0IwNWNXR1lOclc0MjcwZG5wcERsX2thZzcxN3FDbGk1S0lGU1JYamVZMFg1TXR2R3dqLWN4TUlRNWNfTVpYMFVrN3lxUzlvYlpEcmdEYWpGZ2R0NGQ0ZXJlU0RJSXh0WDIta2l4Nk41ZWltUlJ2dVYyVDVhanZGVUVvd3pfR1pHbUM0RTEteWk3d2pUU1VVMEkzS0oteUpvcDJUNGdoWEVHOGhKNkMweGk1eQ?oc=5"
+          },
+          {
+            "label": "Fello AI：Qwen 4 Release Date: What We Know So Far - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBfTjduVmhuVzQ2N1p5Z0RvMHJOWVBMbkk4ZnBRQ3lLdnlmZnpXajZ0UV9RakZtdllEN1BsaC1OTXo?oc=5"
+          },
+          {
+            "label": "文学城：OpenAI收购Pierre重塑AI编程工作流 - 文学城",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTzl4SkZ6XzZ0Skg2NmozUF9JZFNNX09WZDFaaTQwVURPVkJLRnFZNllNa0lXRnBfZUk1RmM5TkNIYnBZWDNaTTdITVdXc0Vtd0hjM3lQY0hHMUtXdTk2ZTNFcTMtN0x6?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnoxU2E0Q0lISHpCcmgyYWJBTGxILXRNeVJIWkZWUlVwbGwzN3g0Y0RXQUN2a0IwNWNXR1lOclc0MjcwZG5wcERsX2thZzcxN3FDbGk1S0lGU1JYamVZMFg1TXR2R3dqLWN4TUlRNWNfTVpYMFVrN3lxUzlvYlpEcmdEYWpGZ2R0NGQ0ZXJlU0RJSXh0WDIta2l4Nk41ZWltUlJ2dVYyVDVhanZGVUVvd3pfR1pHbUM0RTEteWk3d2pUU1VVMEkzS0oteUpvcDJUNGdoWEVHOGhKNkMweGk1eQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261106-auto-2-04868f",
+        "title": "Qwen 4 Release Dat",
+        "category": "开源项目",
+        "date": "2026-11-06",
+        "summary": "Qwen 4 Release Date: What We Know So Far Fello AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Qwen 4 Release Dat 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Qwen 4 Release Date: What We Know So Far Fello AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Qwen 4 Release Date: What We Know So Far Fello AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fello AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBfTjduVmhuVzQ2N1p5Z0RvMHJOWVBMbkk4ZnBRQ3lLdnlmZnpXajZ0UV9RakZtdllEN1BsaC1OTXo?oc=5"
+          },
+          {
+            "label": "Tech Times：Google Donates AI Agent Sandbox to Linux Foundation's CNCF; Agent Subs",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbnoxU2E0Q0lISHpCcmgyYWJBTGxILXRNeVJIWkZWUlVwbGwzN3g0Y0RXQUN2a0IwNWNXR1lOclc0MjcwZG5wcERsX2thZzcxN3FDbGk1S0lGU1JYamVZMFg1TXR2R3dqLWN4TUlRNWNfTVpYMFVrN3lxUzlvYlpEcmdEYWpGZ2R0NGQ0ZXJlU0RJSXh0WDIta2l4Nk41ZWltUlJ2dVYyVDVhanZGVUVvd3pfR1pHbUM0RTEteWk3d2pUU1VVMEkzS0oteUpvcDJUNGdoWEVHOGhKNkMweGk1eQ?oc=5"
+          },
+          {
+            "label": "文学城：OpenAI收购Pierre重塑AI编程工作流 - 文学城",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTzl4SkZ6XzZ0Skg2NmozUF9JZFNNX09WZDFaaTQwVURPVkJLRnFZNllNa0lXRnBfZUk1RmM5TkNIYnBZWDNaTTdITVdXc0Vtd0hjM3lQY0hHMUtXdTk2ZTNFcTMtN0x6?oc=5"
+          }
+        ],
+        "source": "Fello AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBfTjduVmhuVzQ2N1p5Z0RvMHJOWVBMbkk4ZnBRQ3lLdnlmZnpXajZ0UV9RakZtdllEN1BsaC1OTXo?oc=5"
+      },
       {
         "slug": "open-source-20261105-auto-1-b7d6f7",
         "title": "Ricursive launches",
