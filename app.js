@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261107-auto-1-22a77d",
+        "title": "多项“人工智能+交通运输”重磅成果发",
+        "category": "AI新闻",
+        "date": "2026-11-07",
+        "summary": "多项“人工智能+交通运输”重磅成果发布！“人工智能+交通运输”上海发布2026活动顺利举行 手机新浪",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "多项“人工智能+交通运输”重磅成果发 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "多项“人工智能+交通运输”重磅成果发布！“人工智能+交通运输”上海发布2026活动顺利举行 手机新浪",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "多项“人工智能+交通运输”重磅成果发布！“人工智能+交通运输”上海发布2026活动顺利举行 手机新浪",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q1pTaEtpZEdjc21QVGU5SXotajMxRnlZcWptQVg5WXJMcDNsZENCUHNwdTF0aTVFWnViVTdEZktYQzVOTTdGUzBOSDBidWk3X29LeVJEbTBQZlBkZHhWaVk5RnVpSTdKRFgwbXVGSGctTjRwNmMtS0RnSXl3aFU?oc=5"
+          },
+          {
+            "label": "CSDN博客：这届网友用AI搞机太离谱：红米能跑iOS、Mac运行安卓 - CSDN博客",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44VnNMSkRfVFZmaG90ZlFJUVlRc3ZlWVo0Y3dHVnZYYkhIdG5SbklnNFg1c2dWYVdnNUZYbDBFRG9ic0hWdjNsQzNtYUprdUhKakJ1UEpLYkJIVmFoNE9WSzZCcnZFX2lMRmxVb1FB?oc=5"
+          },
+          {
+            "label": "quasa.io：Visla 评测：面向企业团队的一体化 AI 视频平台 - quasa.io",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTW9HM1RQR1RPd1dUVDVhWEZrOXhmT0R2elpxVTF0UjRzMENaNXlPdG9rcU9FSW9JaThDYW1TSENCMXU1ZEtyTmloX1l1SExSU0M2QjJrRzRsQV95NEJ0X1hHSFlhNUFfU29TS0RXSjExZVQxWkNuM0pOUWp0c2p5UkRjSlM0Q1ZVVWRvSkVwM25LOHgxVnRLaHFMcnIwSlk?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q1pTaEtpZEdjc21QVGU5SXotajMxRnlZcWptQVg5WXJMcDNsZENCUHNwdTF0aTVFWnViVTdEZktYQzVOTTdGUzBOSDBidWk3X29LeVJEbTBQZlBkZHhWaVk5RnVpSTdKRFgwbXVGSGctTjRwNmMtS0RnSXl3aFU?oc=5"
+      },
+      {
+        "slug": "ai-news-20261107-auto-2-5ce387",
+        "title": "这届网友用AI搞机太离谱：红米能跑i",
+        "category": "AI新闻",
+        "date": "2026-11-07",
+        "summary": "这届网友用AI搞机太离谱：红米能跑iOS、Mac运行安卓 CSDN博客",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "这届网友用AI搞机太离谱：红米能跑i 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "这届网友用AI搞机太离谱：红米能跑iOS、Mac运行安卓 CSDN博客",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "这届网友用AI搞机太离谱：红米能跑iOS、Mac运行安卓 CSDN博客",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CSDN博客：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44VnNMSkRfVFZmaG90ZlFJUVlRc3ZlWVo0Y3dHVnZYYkhIdG5SbklnNFg1c2dWYVdnNUZYbDBFRG9ic0hWdjNsQzNtYUprdUhKakJ1UEpLYkJIVmFoNE9WSzZCcnZFX2lMRmxVb1FB?oc=5"
+          },
+          {
+            "label": "手机新浪网：多项“人工智能+交通运输”重磅成果发布！“人工智能+交通运输”上海发布2026活动顺利举行 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96Q1pTaEtpZEdjc21QVGU5SXotajMxRnlZcWptQVg5WXJMcDNsZENCUHNwdTF0aTVFWnViVTdEZktYQzVOTTdGUzBOSDBidWk3X29LeVJEbTBQZlBkZHhWaVk5RnVpSTdKRFgwbXVGSGctTjRwNmMtS0RnSXl3aFU?oc=5"
+          },
+          {
+            "label": "quasa.io：Visla 评测：面向企业团队的一体化 AI 视频平台 - quasa.io",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTW9HM1RQR1RPd1dUVDVhWEZrOXhmT0R2elpxVTF0UjRzMENaNXlPdG9rcU9FSW9JaThDYW1TSENCMXU1ZEtyTmloX1l1SExSU0M2QjJrRzRsQV95NEJ0X1hHSFlhNUFfU29TS0RXSjExZVQxWkNuM0pOUWp0c2p5UkRjSlM0Q1ZVVWRvSkVwM25LOHgxVnRLaHFMcnIwSlk?oc=5"
+          }
+        ],
+        "source": "CSDN博客",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44VnNMSkRfVFZmaG90ZlFJUVlRc3ZlWVo0Y3dHVnZYYkhIdG5SbklnNFg1c2dWYVdnNUZYbDBFRG9ic0hWdjNsQzNtYUprdUhKakJ1UEpLYkJIVmFoNE9WSzZCcnZFX2lMRmxVb1FB?oc=5"
+      },
+      {
         "slug": "ai-news-20261106-auto-1-427f7c",
         "title": "Asian shares skid",
         "category": "AI新闻",
@@ -25339,6 +25455,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261107-auto-1-17039e",
+        "title": "Beyond code genera",
+        "category": "AI使用教程",
+        "date": "2026-11-07",
+        "summary": "Beyond code generation: A developer’s guide to age",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Beyond code genera 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Beyond code generation: A developer’s guide to age",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Beyond code generation: A developer’s guide to age",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The GitHub Blog：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmRFaktIZG9QMlRSWGsyOG85U2pNQnhzREhwMVZBeDhxNWRwRC16MEY3djRDbElZaEJZel9XVWNGOTVIRktJbUJZVk14OEc2LUxGTlBpdmJyRVFtSlN5Z2haLW82clgzQUpyb01wazI0WGc0Tzh4aDdYR3VqdVI4MDFodlZmemttOTFXTjAwcTh0dW1pRlRaZFFyVnFSTEpJQjJTdFNGVWJvd2FRdFdJ?oc=5"
+          },
+          {
+            "label": "Simplilearn.com：From LLMs to Production Agents: The GenAI & Agentic AI Stack for 2027 ",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByNFlOaVJybENrWjNTbWxnR0J3ZVJ2VmZHVmFqM0pLcnh2S0s3ek42V1V0MGIwUzg2NDZKNlI0QzhfS2JJbE1WYTFIazFWVlR5ZDU4WWk2bDZYV2FoVjRYLW8tZVRfakFvYnZTVVBvMnJyZnpw?oc=5"
+          },
+          {
+            "label": "科技行者：AI画图模型越训越假：当\"奖励\"骗过了AI，也骗过了人类评委 - 科技行者",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tNzJKV0d2V0VMeTVYMEZ4bTBESU9RSmZLaHRKZ0RoTHVoS1A3d2dsTW1ZNXU4eWxDMWVieGRLemlKaDh0ZkVvckVOcTI5RjJOQ1F2OXJGRXgwZkdkNzM0?oc=5"
+          }
+        ],
+        "source": "The GitHub Blog",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTmRFaktIZG9QMlRSWGsyOG85U2pNQnhzREhwMVZBeDhxNWRwRC16MEY3djRDbElZaEJZel9XVWNGOTVIRktJbUJZVk14OEc2LUxGTlBpdmJyRVFtSlN5Z2haLW82clgzQUpyb01wazI0WGc0Tzh4aDdYR3VqdVI4MDFodlZmemttOTFXTjAwcTh0dW1pRlRaZFFyVnFSTEpJQjJTdFNGVWJvd2FRdFdJ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261106-auto-1-951e0e",
         "title": "AI探店视频兴起！盘和林：AI能降低",
         "category": "AI使用教程",
@@ -37431,6 +37605,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261107-auto-1-ff6328",
+        "title": "Chroma 评测：用于 AI 搜索",
+        "category": "开源项目",
+        "date": "2026-11-07",
+        "summary": "Chroma 评测：用于 AI 搜索的最佳开源向量数据库 quasa.io",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Chroma 评测：用于 AI 搜索 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Chroma 评测：用于 AI 搜索的最佳开源向量数据库 quasa.io",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Chroma 评测：用于 AI 搜索的最佳开源向量数据库 quasa.io",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "quasa.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajJsQWZhUWdXc2hHM1AyUG9UR3dfVDFRSHZpUFJNQU1Wb21HcTNXR2pScDA3ZTc2WEJyRkJmTmxmVDgxOF9ZY3I1YmcyQmo2RzNqMjlwWWdadXFVWGtvalFQSFZyMkdEdzNPZFZLMFp5cVlNMjlSS1BFVXN4UF9LVWowaHRLVVA0am5EVmg3TUpPMWNKQTV5d2U0Z2l4QTY5OWM4?oc=5"
+          },
+          {
+            "label": "https://tech-insider.org/：Riemann AI: 13.1B Model Grown From 163M [2026] - https://tech-insider.",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVFuNkpwN1MyWl8tZl81RHVtUEJMeGVXVWVfTkxkNkstRTdXZkE3TlJRcnZfOXBJaXdNckN6YmwwQnFOcmlrenVGN0Vkcm5zZW1OenF6YkFCZUtPeEV4dXhtaHJtY21wTFFtQ0M5ek8wMkRPV0J0UEdUdDZGWW9aWnZqNEY1ZUdJcFE?oc=5"
+          },
+          {
+            "label": "ZDNET：I just built my first game in Twine – no code or AI required - ZDNET",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mZmprNEYyQ1dnZ2xRZEVrNzhKNUZxRVI4MjN0Q0NUOTY1MEVSVWRPWXlZWWdZWDlpN180WjFkMUhDeUozLUczcEx3TUJ6RU1qb3ZtaTVQX2VJUUxaVXR0VTRfSHNjMlVQRDhFX0VvQVk?oc=5"
+          }
+        ],
+        "source": "quasa.io",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajJsQWZhUWdXc2hHM1AyUG9UR3dfVDFRSHZpUFJNQU1Wb21HcTNXR2pScDA3ZTc2WEJyRkJmTmxmVDgxOF9ZY3I1YmcyQmo2RzNqMjlwWWdadXFVWGtvalFQSFZyMkdEdzNPZFZLMFp5cVlNMjlSS1BFVXN4UF9LVWowaHRLVVA0am5EVmg3TUpPMWNKQTV5d2U0Z2l4QTY5OWM4?oc=5"
+      },
+      {
+        "slug": "open-source-20261107-auto-2-1edde4",
+        "title": "Riemann AI: 13.1B",
+        "category": "开源项目",
+        "date": "2026-11-07",
+        "summary": "Riemann AI: 13.1B Model Grown From 163M [2026] htt",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Riemann AI: 13.1B 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Riemann AI: 13.1B Model Grown From 163M [2026] htt",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Riemann AI: 13.1B Model Grown From 163M [2026] htt",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "https://tech-insider.org/：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVFuNkpwN1MyWl8tZl81RHVtUEJMeGVXVWVfTkxkNkstRTdXZkE3TlJRcnZfOXBJaXdNckN6YmwwQnFOcmlrenVGN0Vkcm5zZW1OenF6YkFCZUtPeEV4dXhtaHJtY21wTFFtQ0M5ek8wMkRPV0J0UEdUdDZGWW9aWnZqNEY1ZUdJcFE?oc=5"
+          },
+          {
+            "label": "quasa.io：Chroma 评测：用于 AI 搜索的最佳开源向量数据库 - quasa.io",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPajJsQWZhUWdXc2hHM1AyUG9UR3dfVDFRSHZpUFJNQU1Wb21HcTNXR2pScDA3ZTc2WEJyRkJmTmxmVDgxOF9ZY3I1YmcyQmo2RzNqMjlwWWdadXFVWGtvalFQSFZyMkdEdzNPZFZLMFp5cVlNMjlSS1BFVXN4UF9LVWowaHRLVVA0am5EVmg3TUpPMWNKQTV5d2U0Z2l4QTY5OWM4?oc=5"
+          },
+          {
+            "label": "ZDNET：I just built my first game in Twine – no code or AI required - ZDNET",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mZmprNEYyQ1dnZ2xRZEVrNzhKNUZxRVI4MjN0Q0NUOTY1MEVSVWRPWXlZWWdZWDlpN180WjFkMUhDeUozLUczcEx3TUJ6RU1qb3ZtaTVQX2VJUUxaVXR0VTRfSHNjMlVQRDhFX0VvQVk?oc=5"
+          }
+        ],
+        "source": "https://tech-insider.org/",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVFuNkpwN1MyWl8tZl81RHVtUEJMeGVXVWVfTkxkNkstRTdXZkE3TlJRcnZfOXBJaXdNckN6YmwwQnFOcmlrenVGN0Vkcm5zZW1OenF6YkFCZUtPeEV4dXhtaHJtY21wTFFtQ0M5ek8wMkRPV0J0UEdUdDZGWW9aWnZqNEY1ZUdJcFE?oc=5"
+      },
       {
         "slug": "open-source-20261106-auto-1-0c7c9e",
         "title": "Google Donates AI",
