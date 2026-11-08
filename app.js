@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261108-auto-1-9a0369",
+        "title": "物理AI科学家走进真实实验室！上海A",
+        "category": "AI新闻",
+        "date": "2026-11-08",
+        "summary": "物理AI科学家走进真实实验室！上海AI+生物医药融合跑出落地样本 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "物理AI科学家走进真实实验室！上海A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "物理AI科学家走进真实实验室！上海AI+生物医药融合跑出落地样本 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "物理AI科学家走进真实实验室！上海AI+生物医药融合跑出落地样本 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15d0N5RTdsbkVWclNuWEtja0ItWkhzZkpuenhyMllCQzMzNGdadDZVUHBUelpmWG5zYXhlU1FMOHJWSmNPWEE3NmJlT0UwMFpaeGpkUEpIVU9jemkyUHlFMVhoQ19IcTU4a0dYR2NtWXYwZjBJSE44TS1vd0o2MG8?oc=5"
+          },
+          {
+            "label": "صوت الإمارات：Meta is developing its smart assistant... the Muse Voice feature enabl",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTGFwV09tNnd6WHBUVk9GejBPRDEtdlNtLVJLWWhDUE9rbUhKTGtVbUpfNjNSa2FDTUNiRWUyTUl6YnZPSkFkY3dhV2VBTzhLV1NZQndTMW5SaXlMLWp3Um9hWlFXeXFjUHQ3SUc2Zzktc0p1RldCc0pYbGt1aW9xeFRmUXBJMHZYNzNhcEFzRzNPdHQ1Z0FfbjRVMlhLTWYyQ1VBUDNJTUFnNEhqY3dlbVF6MlhvUzNCT2JLUzVNMWd3ZUE3UlhkbkNfNWRnamdvbGxjbnlfTXQ2YmhMYXdnN2N4em50ZFRRWU9xWTFvXy1HRTktTm83dXhrNjM5VlNOb08ySw?oc=5"
+          },
+          {
+            "label": "Stocktwits：The AI Buildout Has A New Problem, And It’s Not Nvidia — JPMorgan Soun",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnlpeEVydjYzaFBxal9qZ0wyNEJ5ckU4STNjVy03dFdjUGtJcUVDY3dadUcwUDNSZWJrQzFJUGgwUFEtcXpKRGlDaGsxaGdyOC02cWtRZmtoTkh1dWI2NFdnbEFLMmNkT2ZfUW00R3UzalFVNWNGWmdHVER4ZHE1UFJyei1ySW5zdS1JX1I5MDVQc2toNk9XSmtyYmc4OFZra0txd0FR?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15d0N5RTdsbkVWclNuWEtja0ItWkhzZkpuenhyMllCQzMzNGdadDZVUHBUelpmWG5zYXhlU1FMOHJWSmNPWEE3NmJlT0UwMFpaeGpkUEpIVU9jemkyUHlFMVhoQ19IcTU4a0dYR2NtWXYwZjBJSE44TS1vd0o2MG8?oc=5"
+      },
+      {
+        "slug": "ai-news-20261108-auto-2-ec0db4",
+        "title": "Meta is developing",
+        "category": "AI新闻",
+        "date": "2026-11-08",
+        "summary": "Meta is developing its smart assistant... the Muse",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Meta is developing 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Meta is developing its smart assistant... the Muse",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Meta is developing its smart assistant... the Muse",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "صوت الإمارات：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTGFwV09tNnd6WHBUVk9GejBPRDEtdlNtLVJLWWhDUE9rbUhKTGtVbUpfNjNSa2FDTUNiRWUyTUl6YnZPSkFkY3dhV2VBTzhLV1NZQndTMW5SaXlMLWp3Um9hWlFXeXFjUHQ3SUc2Zzktc0p1RldCc0pYbGt1aW9xeFRmUXBJMHZYNzNhcEFzRzNPdHQ1Z0FfbjRVMlhLTWYyQ1VBUDNJTUFnNEhqY3dlbVF6MlhvUzNCT2JLUzVNMWd3ZUE3UlhkbkNfNWRnamdvbGxjbnlfTXQ2YmhMYXdnN2N4em50ZFRRWU9xWTFvXy1HRTktTm83dXhrNjM5VlNOb08ySw?oc=5"
+          },
+          {
+            "label": "手机新浪网：物理AI科学家走进真实实验室！上海AI+生物医药融合跑出落地样本 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15d0N5RTdsbkVWclNuWEtja0ItWkhzZkpuenhyMllCQzMzNGdadDZVUHBUelpmWG5zYXhlU1FMOHJWSmNPWEE3NmJlT0UwMFpaeGpkUEpIVU9jemkyUHlFMVhoQ19IcTU4a0dYR2NtWXYwZjBJSE44TS1vd0o2MG8?oc=5"
+          },
+          {
+            "label": "Stocktwits：The AI Buildout Has A New Problem, And It’s Not Nvidia — JPMorgan Soun",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnlpeEVydjYzaFBxal9qZ0wyNEJ5ckU4STNjVy03dFdjUGtJcUVDY3dadUcwUDNSZWJrQzFJUGgwUFEtcXpKRGlDaGsxaGdyOC02cWtRZmtoTkh1dWI2NFdnbEFLMmNkT2ZfUW00R3UzalFVNWNGWmdHVER4ZHE1UFJyei1ySW5zdS1JX1I5MDVQc2toNk9XSmtyYmc4OFZra0txd0FR?oc=5"
+          }
+        ],
+        "source": "صوت الإمارات",
+        "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTGFwV09tNnd6WHBUVk9GejBPRDEtdlNtLVJLWWhDUE9rbUhKTGtVbUpfNjNSa2FDTUNiRWUyTUl6YnZPSkFkY3dhV2VBTzhLV1NZQndTMW5SaXlMLWp3Um9hWlFXeXFjUHQ3SUc2Zzktc0p1RldCc0pYbGt1aW9xeFRmUXBJMHZYNzNhcEFzRzNPdHQ1Z0FfbjRVMlhLTWYyQ1VBUDNJTUFnNEhqY3dlbVF6MlhvUzNCT2JLUzVNMWd3ZUE3UlhkbkNfNWRnamdvbGxjbnlfTXQ2YmhMYXdnN2N4em50ZFRRWU9xWTFvXy1HRTktTm83dXhrNjM5VlNOb08ySw?oc=5"
+      },
+      {
         "slug": "ai-news-20261107-auto-1-22a77d",
         "title": "多项“人工智能+交通运输”重磅成果发",
         "category": "AI新闻",
@@ -25455,6 +25571,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261108-auto-1-edce42",
+        "title": "大三男生宿舍 “手搓” AI 漫剧",
+        "category": "AI使用教程",
+        "date": "2026-11-08",
+        "summary": "大三男生宿舍 “手搓” AI 漫剧 不到一年营收超300万元 华商网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "大三男生宿舍 “手搓” AI 漫剧 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "大三男生宿舍 “手搓” AI 漫剧 不到一年营收超300万元 华商网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "大三男生宿舍 “手搓” AI 漫剧 不到一年营收超300万元 华商网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华商网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zTlNfVXptcXBpTjRxWFE0R3d5WVA0S0lLRXJuVWVWVGNvTnFfQWhNT2RaS1c3NVVxZzJNWTVWQ1l3MmRpRTdDN2t3RzQyaW5lQ3ppQjNRMjU2azN6SS00?oc=5"
+          },
+          {
+            "label": "quasa.io：AIPRM 评测：适用于 ChatGPT 和 AI 的终极提示词库与管理工具 - quasa.io",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0dxcDhGbm1rTFFHVEF1Vy04RXRxbGZWenR5ZlpkT3M4QzdZcmhReXdsbzVHMmlBbFkwU1ItWVAtNVZ6bzNEQ3lYekJ3bVVZMUFlQk5pMGYtbUJLZnB0N2VlY2xDMXN5RVFzRklnZlY0blZmcHFYelNzYkJCNXo0OVBwQUFzRjZ5ZEFORVFMUmkxdzNqX3FsVmRkT1RzdkxJcHZQQlBENFlqVEJxUXc?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：GLM 5.1是什么？智谱Z.ai开放权重AI模型与收费 - Pasquale Pillitteri",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUoyYlQwNkJ2cl9yNlRjQWJVdnBzZkhlVXppNW9uTWJNQ3M2d1YzellrUUZBSWNEUzhPTlpkblgxRWljUjBpU25oTExFbV92a19ZTTZidm9kektXS3hqWUJZa3IwTXdBUHVweWhKOHNvNS05dGN2OUhWZG5SRWpvWUpoMGptQzg?oc=5"
+          }
+        ],
+        "source": "华商网",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zTlNfVXptcXBpTjRxWFE0R3d5WVA0S0lLRXJuVWVWVGNvTnFfQWhNT2RaS1c3NVVxZzJNWTVWQ1l3MmRpRTdDN2t3RzQyaW5lQ3ppQjNRMjU2azN6SS00?oc=5"
+      },
+      {
         "slug": "ai-guide-20261107-auto-1-17039e",
         "title": "Beyond code genera",
         "category": "AI使用教程",
@@ -37605,6 +37779,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261108-auto-1-40a0ab",
+        "title": "GPU Taskman: Per-P",
+        "category": "开源项目",
+        "date": "2026-11-08",
+        "summary": "GPU Taskman: Per-Process VRAM Tool, v0.3.3 [2026]",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "GPU Taskman: Per-P 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "GPU Taskman: Per-Process VRAM Tool, v0.3.3 [2026]",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "GPU Taskman: Per-Process VRAM Tool, v0.3.3 [2026]",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "shattered.io：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZG0xWGZhNXB0U1dzc2U4YlZCUFN0ektmT1EtUzM1Ynl3aVhZYU91cEo0c05IdHYteTFrZ2I3ZmpvTE5Oamt3UVoya2w2NWl1Vk5DRVZZME0xYjltTVp1dWx4QngxOTZvMi1ISUd6aUo3QXllUTNNMzNmZC14VENwYjBSMTM?oc=5"
+          },
+          {
+            "label": "Fello AI：Claude Code Alternatives: 9 Options Checked for 2026 - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YRi1zbjRteEQ2cV9USklzRFp3bWV3bmZJZTdWYlkxTng4Mk1meVdNZHZWbDhRNHNxZUtwdGUwZV83MmJiYXNCdjA1YmEyakhQUmtEOHFjdDQ?oc=5"
+          },
+          {
+            "label": "NeoTeo：Kimi K3.1 Pro open weights: release reported Nov. 4 - NeoTeo",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW1rTVBORmZOeFp3a3ZnV1l4NXQya0hnV2FZczFWbTR4TkFSNkpjdjhkUTNsd0Y5a2VqbU9UZm91UzZHVW9yUU0xMkJRT3pMNkRiUkd2SXVuU292QU5uaXVXVy1KVDBiUHFZTDJQSmw3Y3l2WHY2dWJHUW9xdVVndA?oc=5"
+          }
+        ],
+        "source": "shattered.io",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZG0xWGZhNXB0U1dzc2U4YlZCUFN0ektmT1EtUzM1Ynl3aVhZYU91cEo0c05IdHYteTFrZ2I3ZmpvTE5Oamt3UVoya2w2NWl1Vk5DRVZZME0xYjltTVp1dWx4QngxOTZvMi1ISUd6aUo3QXllUTNNMzNmZC14VENwYjBSMTM?oc=5"
+      },
+      {
+        "slug": "open-source-20261108-auto-2-e1e74b",
+        "title": "Claude Code Altern",
+        "category": "开源项目",
+        "date": "2026-11-08",
+        "summary": "Claude Code Alternatives: 9 Options Checked for 20",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Claude Code Altern 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Claude Code Alternatives: 9 Options Checked for 20",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Claude Code Alternatives: 9 Options Checked for 20",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fello AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YRi1zbjRteEQ2cV9USklzRFp3bWV3bmZJZTdWYlkxTng4Mk1meVdNZHZWbDhRNHNxZUtwdGUwZV83MmJiYXNCdjA1YmEyakhQUmtEOHFjdDQ?oc=5"
+          },
+          {
+            "label": "shattered.io：GPU Taskman: Per-Process VRAM Tool, v0.3.3 [2026] - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZG0xWGZhNXB0U1dzc2U4YlZCUFN0ektmT1EtUzM1Ynl3aVhZYU91cEo0c05IdHYteTFrZ2I3ZmpvTE5Oamt3UVoya2w2NWl1Vk5DRVZZME0xYjltTVp1dWx4QngxOTZvMi1ISUd6aUo3QXllUTNNMzNmZC14VENwYjBSMTM?oc=5"
+          },
+          {
+            "label": "NeoTeo：Kimi K3.1 Pro open weights: release reported Nov. 4 - NeoTeo",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW1rTVBORmZOeFp3a3ZnV1l4NXQya0hnV2FZczFWbTR4TkFSNkpjdjhkUTNsd0Y5a2VqbU9UZm91UzZHVW9yUU0xMkJRT3pMNkRiUkd2SXVuU292QU5uaXVXVy1KVDBiUHFZTDJQSmw3Y3l2WHY2dWJHUW9xdVVndA?oc=5"
+          }
+        ],
+        "source": "Fello AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YRi1zbjRteEQ2cV9USklzRFp3bWV3bmZJZTdWYlkxTng4Mk1meVdNZHZWbDhRNHNxZUtwdGUwZV83MmJiYXNCdjA1YmEyakhQUmtEOHFjdDQ?oc=5"
+      },
       {
         "slug": "open-source-20261107-auto-1-ff6328",
         "title": "Chroma 评测：用于 AI 搜索",
