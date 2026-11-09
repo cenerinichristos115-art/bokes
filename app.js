@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261109-auto-1-ed46eb",
+        "title": "聚焦人工智能+智库 第七届智库科学与",
+        "category": "AI新闻",
+        "date": "2026-11-09",
+        "summary": "聚焦人工智能+智库 第七届智库科学与工程国际研讨会在北京举行 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "聚焦人工智能+智库 第七届智库科学与 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "聚焦人工智能+智库 第七届智库科学与工程国际研讨会在北京举行 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "聚焦人工智能+智库 第七届智库科学与工程国际研讨会在北京举行 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdmgxZXpRRGUxOVF5R2tCbkRwc3FlRkctYmFSYzV4LWNhd0hRRTVPOW1WYmExdjdNRDhpLUNtRVJDVk1hb2FwMW1MZWpDcnkzcTAwcDlsS0dHaUIxa1dxNWNhYXFMSWdPN2k3bEZjV0p1QmVCb1hKWGJmeTYxQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：华瑞联慧（Huarui SmartLink）从人工智能基础设施拓展产业研究视野 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnM1djlrRkFfSVVBaXNHX2l4bExsc21qdFlWRUI5MjBzYTFpUTZtai04MURBZFZkTE40X2dEY3JCOWt5N0dteG9IYXZJMW1hbDRZQ3lZZzNSaDlfRUlQMHBGQXdHZTc1OXlQLTVoOUttN2FmVlBiTTZOYUVKOGVKVmJQaGdqWW5MTm5rSVBn?oc=5"
+          },
+          {
+            "label": "手机新浪网：张涛：非对称人机协作——AI辅助论文写作的原理、误区与技巧 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWGFadFBnNGFuXzlla25MQTJIUXdjNVpVUkUzeEJFWTd5SkZyNnh1bm16VTJiRnAwaWdYZUJMQUVKb0N1VlRnYy1PQ2dfU2JyQ056QlVLOGM0U0tTWjFuTFhaQlpIOHczb19ucWljUXRTdW9yaG9ISUNyT0Jpdw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdmgxZXpRRGUxOVF5R2tCbkRwc3FlRkctYmFSYzV4LWNhd0hRRTVPOW1WYmExdjdNRDhpLUNtRVJDVk1hb2FwMW1MZWpDcnkzcTAwcDlsS0dHaUIxa1dxNWNhYXFMSWdPN2k3bEZjV0p1QmVCb1hKWGJmeTYxQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261109-auto-2-4923d0",
+        "title": "华瑞联慧（Huarui SmartL",
+        "category": "AI新闻",
+        "date": "2026-11-09",
+        "summary": "华瑞联慧（Huarui SmartLink）从人工智能基础设施拓展产业研究视野 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "华瑞联慧（Huarui SmartL 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "华瑞联慧（Huarui SmartLink）从人工智能基础设施拓展产业研究视野 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "华瑞联慧（Huarui SmartLink）从人工智能基础设施拓展产业研究视野 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnM1djlrRkFfSVVBaXNHX2l4bExsc21qdFlWRUI5MjBzYTFpUTZtai04MURBZFZkTE40X2dEY3JCOWt5N0dteG9IYXZJMW1hbDRZQ3lZZzNSaDlfRUlQMHBGQXdHZTc1OXlQLTVoOUttN2FmVlBiTTZOYUVKOGVKVmJQaGdqWW5MTm5rSVBn?oc=5"
+          },
+          {
+            "label": "手机新浪网：聚焦人工智能+智库 第七届智库科学与工程国际研讨会在北京举行 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdmgxZXpRRGUxOVF5R2tCbkRwc3FlRkctYmFSYzV4LWNhd0hRRTVPOW1WYmExdjdNRDhpLUNtRVJDVk1hb2FwMW1MZWpDcnkzcTAwcDlsS0dHaUIxa1dxNWNhYXFMSWdPN2k3bEZjV0p1QmVCb1hKWGJmeTYxQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：张涛：非对称人机协作——AI辅助论文写作的原理、误区与技巧 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SWGFadFBnNGFuXzlla25MQTJIUXdjNVpVUkUzeEJFWTd5SkZyNnh1bm16VTJiRnAwaWdYZUJMQUVKb0N1VlRnYy1PQ2dfU2JyQ056QlVLOGM0U0tTWjFuTFhaQlpIOHczb19ucWljUXRTdW9yaG9ISUNyT0Jpdw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnM1djlrRkFfSVVBaXNHX2l4bExsc21qdFlWRUI5MjBzYTFpUTZtai04MURBZFZkTE40X2dEY3JCOWt5N0dteG9IYXZJMW1hbDRZQ3lZZzNSaDlfRUlQMHBGQXdHZTc1OXlQLTVoOUttN2FmVlBiTTZOYUVKOGVKVmJQaGdqWW5MTm5rSVBn?oc=5"
+      },
+      {
         "slug": "ai-news-20261108-auto-1-9a0369",
         "title": "物理AI科学家走进真实实验室！上海A",
         "category": "AI新闻",
@@ -25571,6 +25687,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261109-auto-1-637202",
+        "title": "破4亿！最快涨粉百万的AI超创，用O",
+        "category": "AI使用教程",
+        "date": "2026-11-09",
+        "summary": "破4亿！最快涨粉百万的AI超创，用OiiOii跑通IP商业化链路 21财经",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "破4亿！最快涨粉百万的AI超创，用O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "破4亿！最快涨粉百万的AI超创，用OiiOii跑通IP商业化链路 21财经",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "破4亿！最快涨粉百万的AI超创，用OiiOii跑通IP商业化链路 21财经",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "21财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXBEV0xSVWhaNVJYOE5JRU1hM0NGUU5tWjdIY1ZKMnJ3VVN2U0k2VVJIWldSTFZDYUliZnl1Tkdfc01ELTlFemR2QlMzU2NfNzE4VjlLTlZiVlJGR1QxWHZ0dGJKZTlnZ2c4blJGSXlZUDlSTW5jMjJRdGUzT2I0X19hc3NRRzktQno0Q2xzSQ?oc=5"
+          },
+          {
+            "label": "雷科技：全球首个「人机共评」榜单面世！雷科技年度灯塔榜·2026评选启动，AI与人一起探寻「科技之光」 - 雷科技",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MYUQyTEhMTk82UXppMUJaWHFjRmdyb1hzeFcyTk50SFJ1S3pjMWVFXy1VOGwxZTQ5ZTVydWhHd1NGWGxnZUx4N0RmN05Pdw?oc=5"
+          },
+          {
+            "label": "新华报业网：43AI集团荣获2026哈佛商业评论鼎革奖，提示词产业化实践获认可 - 新华报业网",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yelhRaU40cGdPZDhqOUdsT0ZOaFlHRGx3Wk9oRmx3S09VZTRTWnl5cW83TGNiaFBWYnZBRXFRNVc4dzJWZzgzNHBsSWUyV2pFR3NtTzRRRDlQei1ZSkowQ0RHU3FPams4YmpJ?oc=5"
+          }
+        ],
+        "source": "21财经",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXBEV0xSVWhaNVJYOE5JRU1hM0NGUU5tWjdIY1ZKMnJ3VVN2U0k2VVJIWldSTFZDYUliZnl1Tkdfc01ELTlFemR2QlMzU2NfNzE4VjlLTlZiVlJGR1QxWHZ0dGJKZTlnZ2c4blJGSXlZUDlSTW5jMjJRdGUzT2I0X19hc3NRRzktQno0Q2xzSQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261108-auto-1-edce42",
         "title": "大三男生宿舍 “手搓” AI 漫剧",
         "category": "AI使用教程",
@@ -37779,6 +37953,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261109-auto-1-014dbf",
+        "title": "Heroes of Might an",
+        "category": "开源项目",
+        "date": "2026-11-09",
+        "summary": "Heroes of Might and Magic 2 project fheroes2 versi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Heroes of Might an 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Heroes of Might and Magic 2 project fheroes2 versi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Heroes of Might and Magic 2 project fheroes2 versi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "GamingOnLinux：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjliWFFHUE1pd2hWS251XzMzN190UDBieDdMNGR4LTFFTVZacHRPUTg5S2ZJTjlVUzRGaFpBOHFGREpuZmZ1eFI5Zjd6SFY3Wm5FM1oxNEpHZVYxTGVfajIwa2QyU0hNR0Jxb3ZQUHV1WGZaLXZPNVRxaUg5MEFyRkdQNzBLSXgxc1BFc3c0c1JCZ3VkbnNYRnhLS1JIZm9HSEp3RUhCVlVocGRteVE?oc=5"
+          },
+          {
+            "label": "News Karnataka：AI drug discovery and bioweapon risks: Tencent warning - News Karnatak",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDhjaWJMekZCYWdTZzZiVlhsXy1YUGdHdGNER2tVYldVX2ZvRGZ2YmFKT1gtUURIaWNDSWZQLWtEN1RIR1VjOVYtTHY3VW5jbHdKNTJUbWQxdjJ5VjdzVG1WdTNKVXpGQngyT1gxR0RqZ24taWxNODBMZElFWWIyNGxKSGxWQXExVmpxVGV6QUh6c1Z1MmhLby04OEd4VE16eVE?oc=5"
+          },
+          {
+            "label": "Pandaily：TokenRhythm Opens Limited Beta for NeoHorse-1.5-Flash Preview, a 180B ",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGNrRXhsMjRmdjdKRzNKRkNBaFdXVlc4T1pjOHptTzdNWmdsT1dkR09FLUZXSE5teUctRU1lMUhWaGQ4bU51bHdYQTFZT2w3V3BrTEtwSEo1bjV4Y2xFLU05UV94WDA3V2YyY3JqU3E1cW8tX0k5cVVYX09wTHIwcUFCcnhKd19JNGxFcA?oc=5"
+          }
+        ],
+        "source": "GamingOnLinux",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjliWFFHUE1pd2hWS251XzMzN190UDBieDdMNGR4LTFFTVZacHRPUTg5S2ZJTjlVUzRGaFpBOHFGREpuZmZ1eFI5Zjd6SFY3Wm5FM1oxNEpHZVYxTGVfajIwa2QyU0hNR0Jxb3ZQUHV1WGZaLXZPNVRxaUg5MEFyRkdQNzBLSXgxc1BFc3c0c1JCZ3VkbnNYRnhLS1JIZm9HSEp3RUhCVlVocGRteVE?oc=5"
+      },
+      {
+        "slug": "open-source-20261109-auto-2-9d169b",
+        "title": "AI drug discovery",
+        "category": "开源项目",
+        "date": "2026-11-09",
+        "summary": "AI drug discovery and bioweapon risks: Tencent war",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI drug discovery 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI drug discovery and bioweapon risks: Tencent war",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI drug discovery and bioweapon risks: Tencent war",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "News Karnataka：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDhjaWJMekZCYWdTZzZiVlhsXy1YUGdHdGNER2tVYldVX2ZvRGZ2YmFKT1gtUURIaWNDSWZQLWtEN1RIR1VjOVYtTHY3VW5jbHdKNTJUbWQxdjJ5VjdzVG1WdTNKVXpGQngyT1gxR0RqZ24taWxNODBMZElFWWIyNGxKSGxWQXExVmpxVGV6QUh6c1Z1MmhLby04OEd4VE16eVE?oc=5"
+          },
+          {
+            "label": "GamingOnLinux：Heroes of Might and Magic 2 project fheroes2 version 1.1.18 is out now",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjliWFFHUE1pd2hWS251XzMzN190UDBieDdMNGR4LTFFTVZacHRPUTg5S2ZJTjlVUzRGaFpBOHFGREpuZmZ1eFI5Zjd6SFY3Wm5FM1oxNEpHZVYxTGVfajIwa2QyU0hNR0Jxb3ZQUHV1WGZaLXZPNVRxaUg5MEFyRkdQNzBLSXgxc1BFc3c0c1JCZ3VkbnNYRnhLS1JIZm9HSEp3RUhCVlVocGRteVE?oc=5"
+          },
+          {
+            "label": "Pandaily：TokenRhythm Opens Limited Beta for NeoHorse-1.5-Flash Preview, a 180B ",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGNrRXhsMjRmdjdKRzNKRkNBaFdXVlc4T1pjOHptTzdNWmdsT1dkR09FLUZXSE5teUctRU1lMUhWaGQ4bU51bHdYQTFZT2w3V3BrTEtwSEo1bjV4Y2xFLU05UV94WDA3V2YyY3JqU3E1cW8tX0k5cVVYX09wTHIwcUFCcnhKd19JNGxFcA?oc=5"
+          }
+        ],
+        "source": "News Karnataka",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdDhjaWJMekZCYWdTZzZiVlhsXy1YUGdHdGNER2tVYldVX2ZvRGZ2YmFKT1gtUURIaWNDSWZQLWtEN1RIR1VjOVYtTHY3VW5jbHdKNTJUbWQxdjJ5VjdzVG1WdTNKVXpGQngyT1gxR0RqZ24taWxNODBMZElFWWIyNGxKSGxWQXExVmpxVGV6QUh6c1Z1MmhLby04OEd4VE16eVE?oc=5"
+      },
       {
         "slug": "open-source-20261108-auto-1-40a0ab",
         "title": "GPU Taskman: Per-P",
