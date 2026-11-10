@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261110-auto-1-73f352",
+        "title": "河北数字大脑赋能环京智算集群 - 首",
+        "category": "AI新闻",
+        "date": "2026-11-10",
+        "summary": "河北数字大脑赋能环京智算集群 首都文明网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "河北数字大脑赋能环京智算集群 - 首 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "河北数字大脑赋能环京智算集群 首都文明网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "河北数字大脑赋能环京智算集群 首都文明网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "首都文明网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcHBVcFNPbjBGTGpITGNkSXM1NWJuQ29QRGdzS0JCMzJRdGpneE9sUENZbWMxemY5MzhrLTZHMWdqQjF0VklyeTF4Vl9tX1U2dTNtX0pTb1JxWUk?oc=5"
+          },
+          {
+            "label": "Firstpost：Why Wall Street sees the AI selloff as overdone despite regulatory ris",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXB1cDVaVkg4bmI2TnVwR2xHX3psTEdtMU5JeVBmNFNYOU5TZ2dIU0c3YWZzNkplSDgtVy1GbTRlaWVFZWFTVUdlZFN3bHVDSlpUUE40THZzWWppQVdKNTBZX2twajduendUcmZJOFhiQm1CQ2lWenZJSi0yd0EwOThRNUJoY3puOVBDRURsRXkxb0RrX3EyYzMtcnRGTGFValY1SXV0eFRrclU1VlViQXR5ck1MWXRTc1RMcGp30gHDAUFVX3lxTFB1VjZTM212MmsxVk03aU5feU5jcmRmWXVuZndaWW1fM1B4eDlpVFpNa011ZHNKeGpVVmxlcTNpSFNVT0JoV2N6NlB1cEExUTdfRlM5dllGZmd6VGhnTkV3cFlBa3VIYmdWRzFJY1B5amFDZV82MjdLMlhTczU4XzEtUW9ETTBnUFFjWDhJMHdHNkFIU0VSV1ZKWXRmNVZ3cjJuelZCUnNTRk10ZDNfQl9XZjllalltdDZxN29wSzBsWlJKMA?oc=5"
+          },
+          {
+            "label": "中国新闻网：从乌镇窗口看科技创新 - 中国新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HeFlUb0tzeURkeUowSDdsbTZhX3R2WTdmU0pQb1JKb0NUQWxFWDVfaUxWSjNjWWVKbGw4LUY2emZLQ1o1ODgycjJjMk4zVXFSV1diY3JYNnVoc2ZmUzNPRklNRGtuUUpH?oc=5"
+          }
+        ],
+        "source": "首都文明网",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcHBVcFNPbjBGTGpITGNkSXM1NWJuQ29QRGdzS0JCMzJRdGpneE9sUENZbWMxemY5MzhrLTZHMWdqQjF0VklyeTF4Vl9tX1U2dTNtX0pTb1JxWUk?oc=5"
+      },
+      {
+        "slug": "ai-news-20261110-auto-2-39351f",
+        "title": "Why Wall Street se",
+        "category": "AI新闻",
+        "date": "2026-11-10",
+        "summary": "Why Wall Street sees the AI selloff as overdone de",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Why Wall Street se 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Why Wall Street sees the AI selloff as overdone de",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Why Wall Street sees the AI selloff as overdone de",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Firstpost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXB1cDVaVkg4bmI2TnVwR2xHX3psTEdtMU5JeVBmNFNYOU5TZ2dIU0c3YWZzNkplSDgtVy1GbTRlaWVFZWFTVUdlZFN3bHVDSlpUUE40THZzWWppQVdKNTBZX2twajduendUcmZJOFhiQm1CQ2lWenZJSi0yd0EwOThRNUJoY3puOVBDRURsRXkxb0RrX3EyYzMtcnRGTGFValY1SXV0eFRrclU1VlViQXR5ck1MWXRTc1RMcGp30gHDAUFVX3lxTFB1VjZTM212MmsxVk03aU5feU5jcmRmWXVuZndaWW1fM1B4eDlpVFpNa011ZHNKeGpVVmxlcTNpSFNVT0JoV2N6NlB1cEExUTdfRlM5dllGZmd6VGhnTkV3cFlBa3VIYmdWRzFJY1B5amFDZV82MjdLMlhTczU4XzEtUW9ETTBnUFFjWDhJMHdHNkFIU0VSV1ZKWXRmNVZ3cjJuelZCUnNTRk10ZDNfQl9XZjllalltdDZxN29wSzBsWlJKMA?oc=5"
+          },
+          {
+            "label": "首都文明网：河北数字大脑赋能环京智算集群 - 首都文明网",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcHBVcFNPbjBGTGpITGNkSXM1NWJuQ29QRGdzS0JCMzJRdGpneE9sUENZbWMxemY5MzhrLTZHMWdqQjF0VklyeTF4Vl9tX1U2dTNtX0pTb1JxWUk?oc=5"
+          },
+          {
+            "label": "中国新闻网：从乌镇窗口看科技创新 - 中国新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HeFlUb0tzeURkeUowSDdsbTZhX3R2WTdmU0pQb1JKb0NUQWxFWDVfaUxWSjNjWWVKbGw4LUY2emZLQ1o1ODgycjJjMk4zVXFSV1diY3JYNnVoc2ZmUzNPRklNRGtuUUpH?oc=5"
+          }
+        ],
+        "source": "Firstpost",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXB1cDVaVkg4bmI2TnVwR2xHX3psTEdtMU5JeVBmNFNYOU5TZ2dIU0c3YWZzNkplSDgtVy1GbTRlaWVFZWFTVUdlZFN3bHVDSlpUUE40THZzWWppQVdKNTBZX2twajduendUcmZJOFhiQm1CQ2lWenZJSi0yd0EwOThRNUJoY3puOVBDRURsRXkxb0RrX3EyYzMtcnRGTGFValY1SXV0eFRrclU1VlViQXR5ck1MWXRTc1RMcGp30gHDAUFVX3lxTFB1VjZTM212MmsxVk03aU5feU5jcmRmWXVuZndaWW1fM1B4eDlpVFpNa011ZHNKeGpVVmxlcTNpSFNVT0JoV2N6NlB1cEExUTdfRlM5dllGZmd6VGhnTkV3cFlBa3VIYmdWRzFJY1B5amFDZV82MjdLMlhTczU4XzEtUW9ETTBnUFFjWDhJMHdHNkFIU0VSV1ZKWXRmNVZ3cjJuelZCUnNTRk10ZDNfQl9XZjllalltdDZxN29wSzBsWlJKMA?oc=5"
+      },
+      {
         "slug": "ai-news-20261109-auto-1-ed46eb",
         "title": "聚焦人工智能+智库 第七届智库科学与",
         "category": "AI新闻",
@@ -25687,6 +25803,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261110-auto-1-8e6d58",
+        "title": "当AI进入创作现场，文学如何重新定义",
+        "category": "AI使用教程",
+        "date": "2026-11-10",
+        "summary": "当AI进入创作现场，文学如何重新定义“好”？｜文化观察 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "当AI进入创作现场，文学如何重新定义 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "当AI进入创作现场，文学如何重新定义“好”？｜文化观察 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "当AI进入创作现场，文学如何重新定义“好”？｜文化观察 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IemJUbkNlbkNlQW1La2NyUDZzekMzaGxTQkVOOFFMSnV3amJoUFlqTFJoVnNOZi1ZR212enNmMEpnOS04VU5UR0hkXzhLN1RSVnMyaXZLZm9FUVNOMjY4dS1YbXRkb2hLS1BBZ29keDBfejRXVkxWVHVlRl9QQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：大三男生在宿舍手搓AI漫剧，一部爆款播放破15亿，创收200多万 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnBFV2RHMWNtQV9FaTZQZThGYmZhMGVrMjdIQjh4a3FjeHNmbnpsVXNKQjVTZ2FaYlQxN2ZvN0xJUkNORkoxVXZMcUhac1RaZVJScUtYV1FjLWNrZUREeWItV0dhWHliZlhwM2s0amxmbUp4TE1vOGJhOC10TmF1WThQZ1JWeUdhR2JR?oc=5"
+          },
+          {
+            "label": "搜狐网：“AI变现”教学书线上扎堆“手把手教赚钱”，有作者称1个月就能写完一本 - 搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlRscmQ4TzNOdnJqb2k5SUpVWldQdXF2ekN5dW1sNEd2aXdIakJFcFpJQldYVXJaYmNvZ01iaVA2Q2JfREFlU3ZHWnJiUzJuZHBDMkJhS19pdDdNRl9JSzN4OVBMczdjdUstTHN6V2R4RUszbWxPd3hleWs1dlNuYkJ4ZXBoOGNDVGQ1Yw?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IemJUbkNlbkNlQW1La2NyUDZzekMzaGxTQkVOOFFMSnV3amJoUFlqTFJoVnNOZi1ZR212enNmMEpnOS04VU5UR0hkXzhLN1RSVnMyaXZLZm9FUVNOMjY4dS1YbXRkb2hLS1BBZ29keDBfejRXVkxWVHVlRl9QQQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261109-auto-1-637202",
         "title": "破4亿！最快涨粉百万的AI超创，用O",
         "category": "AI使用教程",
@@ -37953,6 +38127,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261110-auto-1-74ed57",
+        "title": "Zhihe AI Launches",
+        "category": "开源项目",
+        "date": "2026-11-10",
+        "summary": "Zhihe AI Launches Agent 3.5 Local Edition and Open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Zhihe AI Launches 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Zhihe AI Launches Agent 3.5 Local Edition and Open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Zhihe AI Launches Agent 3.5 Local Edition and Open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Carroll County Mirror-Democrat：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzNfUGpVZ3ZTVDdhcENTMjVONndBdW5Da0l4eVV6WURlVmNEYXg1bWFwQUU3bWMzLWRhM3p0a01DdlF4U2xpMFd6VE85VlRQZzJRMktXRTk5aF9qbEZvNHlBWFFnRW1JcFZCRDJ4SU5kaVJxcExlcjd4VVIyVlBlQXRMd09YdGUtSEhkcmxvdnJNRW0tUjlIYVdYdlBidnduQ0pIN3NxRk9lLVkzWEtNaDRzU0dlZUk?oc=5"
+          },
+          {
+            "label": "Telecompaper：ETRI releases open-source no-code AI development platform - Telecompap",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjFMck5CbHd2WDg4cDlQMldPV25PSmJQc3paZUxoLUR0RDZNZDdWNGxGeDhSNGNiUTQxQVh5eFVKNGlzTV81SnczcVV3dHdEU1BKSHhZRmtMcGxUX1ROaFo5WlM1cEV3NlphLWVnbjFCeW1YU1FwbjgwY0NzS0NtYVVhbWRVc1p3Qm1wOWM3dWx6Y3JUeUZPaGZEam9mb2dTUkE?oc=5"
+          },
+          {
+            "label": "中华网：GitHub破万星：MemoryBear开启AI记忆原生时代 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSlMxeHhxUWpnNC1RcXJDdm1UUjBYMG9Td2xlNXd4cjVSdDBJaUJHamJEaG81RF8yNnNOb0RlNHZnaENvalNNOWhiY250T3BGUmxySjZMdHpRa1ZPLWtXOVFTbV9pMmlOYzZTSHZ3?oc=5"
+          }
+        ],
+        "source": "Carroll County Mirror-Democrat",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzNfUGpVZ3ZTVDdhcENTMjVONndBdW5Da0l4eVV6WURlVmNEYXg1bWFwQUU3bWMzLWRhM3p0a01DdlF4U2xpMFd6VE85VlRQZzJRMktXRTk5aF9qbEZvNHlBWFFnRW1JcFZCRDJ4SU5kaVJxcExlcjd4VVIyVlBlQXRMd09YdGUtSEhkcmxvdnJNRW0tUjlIYVdYdlBidnduQ0pIN3NxRk9lLVkzWEtNaDRzU0dlZUk?oc=5"
+      },
+      {
+        "slug": "open-source-20261110-auto-2-8f7c99",
+        "title": "ETRI releases open",
+        "category": "开源项目",
+        "date": "2026-11-10",
+        "summary": "ETRI releases open-source no-code AI development p",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "ETRI releases open 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "ETRI releases open-source no-code AI development p",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "ETRI releases open-source no-code AI development p",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Telecompaper：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjFMck5CbHd2WDg4cDlQMldPV25PSmJQc3paZUxoLUR0RDZNZDdWNGxGeDhSNGNiUTQxQVh5eFVKNGlzTV81SnczcVV3dHdEU1BKSHhZRmtMcGxUX1ROaFo5WlM1cEV3NlphLWVnbjFCeW1YU1FwbjgwY0NzS0NtYVVhbWRVc1p3Qm1wOWM3dWx6Y3JUeUZPaGZEam9mb2dTUkE?oc=5"
+          },
+          {
+            "label": "Carroll County Mirror-Democrat：Zhihe AI Launches Agent 3.5 Local Edition and Open-Sources 70 Legal AI",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzNfUGpVZ3ZTVDdhcENTMjVONndBdW5Da0l4eVV6WURlVmNEYXg1bWFwQUU3bWMzLWRhM3p0a01DdlF4U2xpMFd6VE85VlRQZzJRMktXRTk5aF9qbEZvNHlBWFFnRW1JcFZCRDJ4SU5kaVJxcExlcjd4VVIyVlBlQXRMd09YdGUtSEhkcmxvdnJNRW0tUjlIYVdYdlBidnduQ0pIN3NxRk9lLVkzWEtNaDRzU0dlZUk?oc=5"
+          },
+          {
+            "label": "中华网：GitHub破万星：MemoryBear开启AI记忆原生时代 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxSlMxeHhxUWpnNC1RcXJDdm1UUjBYMG9Td2xlNXd4cjVSdDBJaUJHamJEaG81RF8yNnNOb0RlNHZnaENvalNNOWhiY250T3BGUmxySjZMdHpRa1ZPLWtXOVFTbV9pMmlOYzZTSHZ3?oc=5"
+          }
+        ],
+        "source": "Telecompaper",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjFMck5CbHd2WDg4cDlQMldPV25PSmJQc3paZUxoLUR0RDZNZDdWNGxGeDhSNGNiUTQxQVh5eFVKNGlzTV81SnczcVV3dHdEU1BKSHhZRmtMcGxUX1ROaFo5WlM1cEV3NlphLWVnbjFCeW1YU1FwbjgwY0NzS0NtYVVhbWRVc1p3Qm1wOWM3dWx6Y3JUeUZPaGZEam9mb2dTUkE?oc=5"
+      },
       {
         "slug": "open-source-20261109-auto-1-014dbf",
         "title": "Heroes of Might an",
