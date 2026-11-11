@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261111-auto-1-620b81",
+        "title": "What Taiwanese chi",
+        "category": "AI新闻",
+        "date": "2026-11-11",
+        "summary": "What Taiwanese chip giant TSMC gains from taking s",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What Taiwanese chi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "What Taiwanese chip giant TSMC gains from taking s",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What Taiwanese chip giant TSMC gains from taking s",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "South China Morning Post：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRllHVkRNYUlIZGZOMGtBNVpvbTd1MU1nQVJWZzR3a0k0Zy1Hc1lJdndteGw1eDFpUFJCcllOVFExaHlzRVBqb195cnFBWjRuaXNsdmhmTlBYQVFaczhudFl4cGZMdlNtV20yYXFmY2V2RFpyQlFKNV9DZ1pXcnFTOFFxanFHRGhjeEVNSVdYLXpTT0p2bnYwRFBfRGJPOHVKMmIwSGNuQ1dhRkhVLWR4VENsOGxmMXBCZGxfdXUyenlneWlxcW9QV3hrQWlub3RaU1JNZ3U0XzdES0dSRVBmbkd4cm1qamRoZTBROTF5SU9KYWxEZXBIWWdqQQ?oc=5"
+          },
+          {
+            "label": "中华网：聚焦乌镇峰会|孙茂松：AI赋能生产性服务，拥有巨大的场景创新空间 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaXdPYXdlNDRXa2JaaHRuX3o0cXpMazRRSXVzRk92a20tRW9BQl94UWFHbWJ2c1lReWdSWkg3M2R2WlRZeHJscmdKNkVpQWRXOXNDbTY3ck5fcWFyMGJ5Ym5tSUp2aDc1OFpwQkdR?oc=5"
+          },
+          {
+            "label": "The Hacker News：Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewe",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFVQMXMyV196MU9CR1hjVzBhbmFqMjJ1ZWdvb3A2VXo3Z01iemJnMk1PVjJRY2ExNlZaWWtJYnNUYW5wOGlVOVpFQlZuaVVRbzFmM2hQdUdDc2VBS2RjQ3VsdW5jTVJ6SFVoWmFxOTR6SW5MYzVnb2RFamcyNWNiaw?oc=5"
+          }
+        ],
+        "source": "South China Morning Post",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRllHVkRNYUlIZGZOMGtBNVpvbTd1MU1nQVJWZzR3a0k0Zy1Hc1lJdndteGw1eDFpUFJCcllOVFExaHlzRVBqb195cnFBWjRuaXNsdmhmTlBYQVFaczhudFl4cGZMdlNtV20yYXFmY2V2RFpyQlFKNV9DZ1pXcnFTOFFxanFHRGhjeEVNSVdYLXpTT0p2bnYwRFBfRGJPOHVKMmIwSGNuQ1dhRkhVLWR4VENsOGxmMXBCZGxfdXUyenlneWlxcW9QV3hrQWlub3RaU1JNZ3U0XzdES0dSRVBmbkd4cm1qamRoZTBROTF5SU9KYWxEZXBIWWdqQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261111-auto-2-0d8cc3",
+        "title": "聚焦乌镇峰会|孙茂松：AI赋能生产性",
+        "category": "AI新闻",
+        "date": "2026-11-11",
+        "summary": "聚焦乌镇峰会|孙茂松：AI赋能生产性服务，拥有巨大的场景创新空间 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "聚焦乌镇峰会|孙茂松：AI赋能生产性 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "聚焦乌镇峰会|孙茂松：AI赋能生产性服务，拥有巨大的场景创新空间 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "聚焦乌镇峰会|孙茂松：AI赋能生产性服务，拥有巨大的场景创新空间 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaXdPYXdlNDRXa2JaaHRuX3o0cXpMazRRSXVzRk92a20tRW9BQl94UWFHbWJ2c1lReWdSWkg3M2R2WlRZeHJscmdKNkVpQWRXOXNDbTY3ck5fcWFyMGJ5Ym5tSUp2aDc1OFpwQkdR?oc=5"
+          },
+          {
+            "label": "South China Morning Post：What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and ",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRllHVkRNYUlIZGZOMGtBNVpvbTd1MU1nQVJWZzR3a0k0Zy1Hc1lJdndteGw1eDFpUFJCcllOVFExaHlzRVBqb195cnFBWjRuaXNsdmhmTlBYQVFaczhudFl4cGZMdlNtV20yYXFmY2V2RFpyQlFKNV9DZ1pXcnFTOFFxanFHRGhjeEVNSVdYLXpTT0p2bnYwRFBfRGJPOHVKMmIwSGNuQ1dhRkhVLWR4VENsOGxmMXBCZGxfdXUyenlneWlxcW9QV3hrQWlub3RaU1JNZ3U0XzdES0dSRVBmbkd4cm1qamRoZTBROTF5SU9KYWxEZXBIWWdqQQ?oc=5"
+          },
+          {
+            "label": "The Hacker News：Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewe",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFVQMXMyV196MU9CR1hjVzBhbmFqMjJ1ZWdvb3A2VXo3Z01iemJnMk1PVjJRY2ExNlZaWWtJYnNUYW5wOGlVOVpFQlZuaVVRbzFmM2hQdUdDc2VBS2RjQ3VsdW5jTVJ6SFVoWmFxOTR6SW5MYzVnb2RFamcyNWNiaw?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VaXdPYXdlNDRXa2JaaHRuX3o0cXpMazRRSXVzRk92a20tRW9BQl94UWFHbWJ2c1lReWdSWkg3M2R2WlRZeHJscmdKNkVpQWRXOXNDbTY3ck5fcWFyMGJ5Ym5tSUp2aDc1OFpwQkdR?oc=5"
+      },
+      {
         "slug": "ai-news-20261110-auto-1-73f352",
         "title": "河北数字大脑赋能环京智算集群 - 首",
         "category": "AI新闻",
@@ -25803,6 +25919,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261111-auto-1-4ceff2",
+        "title": "#媒体原创 “变”局双十一① | A",
+        "category": "AI使用教程",
+        "date": "2026-11-11",
+        "summary": "#媒体原创 “变”局双十一① | AI“渗透”双十一，AI主播、模特降本被吐槽，催生9.9元“AI电",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "#媒体原创 “变”局双十一① | A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "#媒体原创 “变”局双十一① | AI“渗透”双十一，AI主播、模特降本被吐槽，催生9.9元“AI电",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "#媒体原创 “变”局双十一① | AI“渗透”双十一，AI主播、模特降本被吐槽，催生9.9元“AI电",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazNqc2ZsMmRXSU1jdWJyY3o5eFBVb01ZQ01PRW5YeEhLZU9ocFg1TEJ2TjVCQmFHQjRtNGUteFFmZzVFU2ZGVVFJVUFVN1RZamVWZ091YTZuWTFYdGluMjRGVVJzME5WYlpEXzNTSktaR2NwbzlrcjI0aWJvMm5tMkFVc2I5bXAzOHhtRw?oc=5"
+          },
+          {
+            "label": "Sohu：#媒体原创 “变”局双十一① | AI“渗透”双十一，AI主播、模特降本被吐槽，催生9.9元“AI电商教程” - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLVpwUjdDSE5JZGJCWWlhSXdlNWNhX3poTUcwdUtMb0x4Q1JBZ28xdUItbzRtWmItQmdNZFhHOFk3RUFqY2RQd3dKWHBGcnloQ3FneWVlbTlXUVNKb3VvSVBuaElGcDlaMWlydnBoYWw4OEpEUy1xTnBKNWpwUXpfWlZkU3VMei1fUkZPRw?oc=5"
+          },
+          {
+            "label": "Sohu：“变”局双十一① | AI“渗透”双十一，通过AI主播、模特降低成本，被网友吐槽缺少“活人感”，催生9.9元“AI电商教程” - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOG9PMUJuVEwzMzl2clN3OFREajZXUTRfWFdWODNWQUFCa0plckppU29ieUpHVl9GbFA5T1JaZ1VBLXJrSDN4T2RXOHpDdG9MR2ZkNkZ6SDV0UEhQcE9qMU9wV2Z1WGhxSWdHQlU5MUQ5TGVMZTZ3bkNpUkZXeV9LMzFXTGJfTG5xem9xUQ?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazNqc2ZsMmRXSU1jdWJyY3o5eFBVb01ZQ01PRW5YeEhLZU9ocFg1TEJ2TjVCQmFHQjRtNGUteFFmZzVFU2ZGVVFJVUFVN1RZamVWZ091YTZuWTFYdGluMjRGVVJzME5WYlpEXzNTSktaR2NwbzlrcjI0aWJvMm5tMkFVc2I5bXAzOHhtRw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261110-auto-1-8e6d58",
         "title": "当AI进入创作现场，文学如何重新定义",
         "category": "AI使用教程",
@@ -38127,6 +38301,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261111-auto-1-7c69c6",
+        "title": "Apple Harbor Turns",
+        "category": "开源项目",
+        "date": "2026-11-11",
+        "summary": "Apple Harbor Turns Macs Into Private AI Servers Wi",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Apple Harbor Turns 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Apple Harbor Turns Macs Into Private AI Servers Wi",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Apple Harbor Turns Macs Into Private AI Servers Wi",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "BeInCrypto：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByMlFBVjJDLVhnUWctRmFKUkEwUjJxUE5zRVh4WjJBSzhicmVQc25nTXllaFZ4QThENncxczNsNS1kVFk4NHU2Y1V0d2tNZ0JWOTRWVC1TbjFvSUJlc00xVWgtYnNaSDg0R0tqUw?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目甚至要索赔2.5万美元- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUU0dxeUNTSDllRlVDYVNXZXpwNzcta0ZacUdsOW5Hd0N6NVFFWk9CWFBlSTJUZ280UDFaeU8tYmJ0Wm8xWXJ4ZEFUaWZsRmZLTFQ5WF9Xbk00c0U5WHJjOA?oc=5"
+          },
+          {
+            "label": "Trend Hunter：Open-Weight Coding Models: Meituan Releases the Vision-Based LongCat-2",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sLWFVREVDbmQ3SmVJSzhIR2I3ajJsa3NzQWFGRFJzeTFxR0NpSFZXaFNhM01KMVpRM2g5bDdiRVVUeFQtQm50VWF1S0U1dXpGZi0wOXFKN3VSQlFyRFVPc0xndlpVWWxra0FxYg?oc=5"
+          }
+        ],
+        "source": "BeInCrypto",
+        "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByMlFBVjJDLVhnUWctRmFKUkEwUjJxUE5zRVh4WjJBSzhicmVQc25nTXllaFZ4QThENncxczNsNS1kVFk4NHU2Y1V0d2tNZ0JWOTRWVC1TbjFvSUJlc00xVWgtYnNaSDg0R0tqUw?oc=5"
+      },
+      {
+        "slug": "open-source-20261111-auto-2-ac0263",
+        "title": "开发者使用AI写开源驱动遭到厂商威胁",
+        "category": "开源项目",
+        "date": "2026-11-11",
+        "summary": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目甚至要索赔2.5万美元- AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开发者使用AI写开源驱动遭到厂商威胁 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目甚至要索赔2.5万美元- AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开发者使用AI写开源驱动遭到厂商威胁：Synaptics要求下架项目甚至要索赔2.5万美元- AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUU0dxeUNTSDllRlVDYVNXZXpwNzcta0ZacUdsOW5Hd0N6NVFFWk9CWFBlSTJUZ280UDFaeU8tYmJ0Wm8xWXJ4ZEFUaWZsRmZLTFQ5WF9Xbk00c0U5WHJjOA?oc=5"
+          },
+          {
+            "label": "BeInCrypto：Apple Harbor Turns Macs Into Private AI Servers With No Cloud Fees - B",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByMlFBVjJDLVhnUWctRmFKUkEwUjJxUE5zRVh4WjJBSzhicmVQc25nTXllaFZ4QThENncxczNsNS1kVFk4NHU2Y1V0d2tNZ0JWOTRWVC1TbjFvSUJlc00xVWgtYnNaSDg0R0tqUw?oc=5"
+          },
+          {
+            "label": "Trend Hunter：Open-Weight Coding Models: Meituan Releases the Vision-Based LongCat-2",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sLWFVREVDbmQ3SmVJSzhIR2I3ajJsa3NzQWFGRFJzeTFxR0NpSFZXaFNhM01KMVpRM2g5bDdiRVVUeFQtQm50VWF1S0U1dXpGZi0wOXFKN3VSQlFyRFVPc0xndlpVWWxra0FxYg?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUU0dxeUNTSDllRlVDYVNXZXpwNzcta0ZacUdsOW5Hd0N6NVFFWk9CWFBlSTJUZ280UDFaeU8tYmJ0Wm8xWXJ4ZEFUaWZsRmZLTFQ5WF9Xbk00c0U5WHJjOA?oc=5"
+      },
       {
         "slug": "open-source-20261110-auto-1-74ed57",
         "title": "Zhihe AI Launches",
