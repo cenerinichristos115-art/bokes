@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261112-auto-1-fe44b8",
+        "title": "一条街区如何托举AI时代的“一人公司",
+        "category": "AI新闻",
+        "date": "2026-11-12",
+        "summary": "一条街区如何托举AI时代的“一人公司”？ 36Kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "一条街区如何托举AI时代的“一人公司 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "一条街区如何托举AI时代的“一人公司”？ 36Kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "一条街区如何托举AI时代的“一人公司”？ 36Kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36Kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaXFWMmNrV2lCaUR2QWZhbFJabUxxNVhRakZzelZfU0dwLWVJRFBrMXJSbTU3QlhHYjVyRjI0TzdfaW9VZHpFYS1nUQ?oc=5"
+          },
+          {
+            "label": "Fortune：Exclusive: SE3, a German startup building ‘spatial intelligence’ for m",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmdrRTI4bHcwQzZST29FQjdhbDJSMTB4QUtOcC01Rk0zYTNscTJVMlhQbDcyV3NqMVlsN3BwTmZQZzlQRlZ2UUZPWFVPbTc1WVExZ2wySkltd1BDZU1XMFowZW5kYkdkam5Zem1EM29IS2xRQ2pvRkI2ZG53VWFZUWpRWTRuVERoQ0RWZjh1MTc0SUJBYnU2eWZDLUxGTTVoRGUzcTFOLVJyZEZaZk9MZFBMS0RTRG5pcnZaMUE0WGFqNEhRUndsdC1pQ3d6QjU5MlVhcWhMZGRHd002N3d6dTR3?oc=5"
+          },
+          {
+            "label": "Financial Times：Sex, spies and salaries shake up AI chipmakers - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMW5UTXc1d21URWxpbDVYT2g0YmNUSUxWOHo3WFZhUktLTnBnWnRGeEFraGEyaDA4NUN3bFVPdEpVUHBQMjg5WHNSV0hLY3NMblo4Y29IeFpTWWY3VjYtWkY4cDNkRjByODgtV05vVXNBd0Y5cWQxcVFEM2xscWxwNE5abDk?oc=5"
+          }
+        ],
+        "source": "36Kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaXFWMmNrV2lCaUR2QWZhbFJabUxxNVhRakZzelZfU0dwLWVJRFBrMXJSbTU3QlhHYjVyRjI0TzdfaW9VZHpFYS1nUQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261112-auto-2-7cab71",
+        "title": "Exclusive: SE3, a",
+        "category": "AI新闻",
+        "date": "2026-11-12",
+        "summary": "Exclusive: SE3, a German startup building ‘spatial",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Exclusive: SE3, a 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Exclusive: SE3, a German startup building ‘spatial",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Exclusive: SE3, a German startup building ‘spatial",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fortune：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmdrRTI4bHcwQzZST29FQjdhbDJSMTB4QUtOcC01Rk0zYTNscTJVMlhQbDcyV3NqMVlsN3BwTmZQZzlQRlZ2UUZPWFVPbTc1WVExZ2wySkltd1BDZU1XMFowZW5kYkdkam5Zem1EM29IS2xRQ2pvRkI2ZG53VWFZUWpRWTRuVERoQ0RWZjh1MTc0SUJBYnU2eWZDLUxGTTVoRGUzcTFOLVJyZEZaZk9MZFBMS0RTRG5pcnZaMUE0WGFqNEhRUndsdC1pQ3d6QjU5MlVhcWhMZGRHd002N3d6dTR3?oc=5"
+          },
+          {
+            "label": "36Kr：一条街区如何托举AI时代的“一人公司”？ - 36Kr",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaXFWMmNrV2lCaUR2QWZhbFJabUxxNVhRakZzelZfU0dwLWVJRFBrMXJSbTU3QlhHYjVyRjI0TzdfaW9VZHpFYS1nUQ?oc=5"
+          },
+          {
+            "label": "Financial Times：Sex, spies and salaries shake up AI chipmakers - Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMW5UTXc1d21URWxpbDVYT2g0YmNUSUxWOHo3WFZhUktLTnBnWnRGeEFraGEyaDA4NUN3bFVPdEpVUHBQMjg5WHNSV0hLY3NMblo4Y29IeFpTWWY3VjYtWkY4cDNkRjByODgtV05vVXNBd0Y5cWQxcVFEM2xscWxwNE5abDk?oc=5"
+          }
+        ],
+        "source": "Fortune",
+        "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdmdrRTI4bHcwQzZST29FQjdhbDJSMTB4QUtOcC01Rk0zYTNscTJVMlhQbDcyV3NqMVlsN3BwTmZQZzlQRlZ2UUZPWFVPbTc1WVExZ2wySkltd1BDZU1XMFowZW5kYkdkam5Zem1EM29IS2xRQ2pvRkI2ZG53VWFZUWpRWTRuVERoQ0RWZjh1MTc0SUJBYnU2eWZDLUxGTTVoRGUzcTFOLVJyZEZaZk9MZFBMS0RTRG5pcnZaMUE0WGFqNEhRUndsdC1pQ3d6QjU5MlVhcWhMZGRHd002N3d6dTR3?oc=5"
+      },
+      {
         "slug": "ai-news-20261111-auto-1-620b81",
         "title": "What Taiwanese chi",
         "category": "AI新闻",
@@ -25919,6 +26035,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261112-auto-1-f6fafc",
+        "title": "Fable 5.2 Advances",
+        "category": "AI使用教程",
+        "date": "2026-11-12",
+        "summary": "Fable 5.2 Advances the Frontier Substack",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Fable 5.2 Advances 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Fable 5.2 Advances the Frontier Substack",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Fable 5.2 Advances the Frontier Substack",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Substack：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40X1Fjb3JTYjhlVlZaN3l1WS1PXzl6Q0oyZFU1blBNb1QxVVFrNWNqRl9wYUdzVVRjamZIdXdMMjAxWnFyMlZlcV9adEFSUlFlb2I0NWNhMDY4WEtRaDRYR3hJNU5wai1OcE90U3c1OVFkbk50YkE?oc=5"
+          },
+          {
+            "label": "驱动之家：NVIDIA护城河被挖！AI自己适配AMD显卡：3天干完半年的活 - 驱动之家",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96T0t6QTVLajBBeFdwSVlSQjJCeGpncE5NSVU0a1U3Sks3c203MGRSVHR0ZHZ0NGp2NTJRbzA3TVBsRjZ6WHJzY1hRZ1Z2d1h5VWpOVHJJZlk?oc=5"
+          },
+          {
+            "label": "四川新闻：2张图，做出最可控的AI特效与一镜到底丨AI工坊笔记④ - 四川新闻",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UdElnRDZFdlpqMUdEM1NVVDRhU1hMc0tDMGp4ZnhwVkV0TVNoM3BreGlZN09mdENkVVVRRmZwUXlLLWh2Wl9HV0lkUTVuOURGQVBHcDg4WjRzZVgteU01VFZtdw?oc=5"
+          }
+        ],
+        "source": "Substack",
+        "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40X1Fjb3JTYjhlVlZaN3l1WS1PXzl6Q0oyZFU1blBNb1QxVVFrNWNqRl9wYUdzVVRjamZIdXdMMjAxWnFyMlZlcV9adEFSUlFlb2I0NWNhMDY4WEtRaDRYR3hJNU5wai1OcE90U3c1OVFkbk50YkE?oc=5"
+      },
+      {
         "slug": "ai-guide-20261111-auto-1-4ceff2",
         "title": "#媒体原创 “变”局双十一① | A",
         "category": "AI使用教程",
@@ -38301,6 +38475,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261112-auto-1-25b9f0",
+        "title": "AWS Open-Sources A",
+        "category": "开源项目",
+        "date": "2026-11-12",
+        "summary": "AWS Open-Sources AI Agent Evaluation Framework Tha",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AWS Open-Sources A 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AWS Open-Sources AI Agent Evaluation Framework Tha",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AWS Open-Sources AI Agent Evaluation Framework Tha",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVF9uXzcyLVhXb0ZyRUY1SEhRMEozaW1vNGZlellqU3dUVXZoVTc5enFTM1JWZmttbzVUT2JsbWJjRGdCNHpFNFkySHptbVdoT250c3dfdHRJNk5vYWlqdHZpN0lZT0pXc1BOUnQzUU9JNWVBcjVud0NVWjVSWUw1NmExZk9hSjBqUjR1OTV3NU1DeG5Dbi1XWG9ZMlpnU3hBN2VuZkpfTEVqd2cwVGNnejRzTkhkbURfR3NCN1VOYkJtZEV2QXVyeDhJYWVWTGY3aW9EazQ5MFliWFF3d1ZhV1NGdkhQSFky?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：AWS publishes AWS Emulator for local testing of AWS APIs - news.lavx.h",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEJFcTVJYnV6RDJ5UnBqc3d5Uk8tUXl0d0E1RlpxTzBSeGE3YkFEa0lvQWRwZVhzUGdKbnNNV1pnWHRzRUZGWW5RRWdWd2RlVXAwYWtWZmtvLTd1YTVhTUJFN1Fqd2I2eWwxbmNyUnU1N0U4dkl4QW96dXpuME9adnJFejJuOXpVeGI1N2Zn?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Tyler TMS releases Stela, an early project to boot macOS on x86 PCs - ",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWRlRE5laE4xSjdXZVlaR2dyTjhLUXBfVVhQYnNyRUVuaHVwNmZHdTZGVHduYzV3dE9vWU1pN21YMTNNVlBNSlF5NjcxM3hEdXc0Tk8zOVZrOXBnb3hYX1pTUEotV0M3SjZKNHh0Y2tNMERac1lZbnBPcTZIa0dOYWxzcE41bVB3cUVzWVVPQTVaX1RmcUpZSnVMQQ?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVF9uXzcyLVhXb0ZyRUY1SEhRMEozaW1vNGZlellqU3dUVXZoVTc5enFTM1JWZmttbzVUT2JsbWJjRGdCNHpFNFkySHptbVdoT250c3dfdHRJNk5vYWlqdHZpN0lZT0pXc1BOUnQzUU9JNWVBcjVud0NVWjVSWUw1NmExZk9hSjBqUjR1OTV3NU1DeG5Dbi1XWG9ZMlpnU3hBN2VuZkpfTEVqd2cwVGNnejRzTkhkbURfR3NCN1VOYkJtZEV2QXVyeDhJYWVWTGY3aW9EazQ5MFliWFF3d1ZhV1NGdkhQSFky?oc=5"
+      },
+      {
+        "slug": "open-source-20261112-auto-2-67557f",
+        "title": "AWS publishes AWS",
+        "category": "开源项目",
+        "date": "2026-11-12",
+        "summary": "AWS publishes AWS Emulator for local testing of AW",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AWS publishes AWS 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AWS publishes AWS Emulator for local testing of AW",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AWS publishes AWS Emulator for local testing of AW",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "news.lavx.hu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEJFcTVJYnV6RDJ5UnBqc3d5Uk8tUXl0d0E1RlpxTzBSeGE3YkFEa0lvQWRwZVhzUGdKbnNNV1pnWHRzRUZGWW5RRWdWd2RlVXAwYWtWZmtvLTd1YTVhTUJFN1Fqd2I2eWwxbmNyUnU1N0U4dkl4QW96dXpuME9adnJFejJuOXpVeGI1N2Zn?oc=5"
+          },
+          {
+            "label": "Tech Times：AWS Open-Sources AI Agent Evaluation Framework That Hardens Its AI Gra",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVF9uXzcyLVhXb0ZyRUY1SEhRMEozaW1vNGZlellqU3dUVXZoVTc5enFTM1JWZmttbzVUT2JsbWJjRGdCNHpFNFkySHptbVdoT250c3dfdHRJNk5vYWlqdHZpN0lZT0pXc1BOUnQzUU9JNWVBcjVud0NVWjVSWUw1NmExZk9hSjBqUjR1OTV3NU1DeG5Dbi1XWG9ZMlpnU3hBN2VuZkpfTEVqd2cwVGNnejRzTkhkbURfR3NCN1VOYkJtZEV2QXVyeDhJYWVWTGY3aW9EazQ5MFliWFF3d1ZhV1NGdkhQSFky?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Tyler TMS releases Stela, an early project to boot macOS on x86 PCs - ",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWRlRE5laE4xSjdXZVlaR2dyTjhLUXBfVVhQYnNyRUVuaHVwNmZHdTZGVHduYzV3dE9vWU1pN21YMTNNVlBNSlF5NjcxM3hEdXc0Tk8zOVZrOXBnb3hYX1pTUEotV0M3SjZKNHh0Y2tNMERac1lZbnBPcTZIa0dOYWxzcE41bVB3cUVzWVVPQTVaX1RmcUpZSnVMQQ?oc=5"
+          }
+        ],
+        "source": "news.lavx.hu",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEJFcTVJYnV6RDJ5UnBqc3d5Uk8tUXl0d0E1RlpxTzBSeGE3YkFEa0lvQWRwZVhzUGdKbnNNV1pnWHRzRUZGWW5RRWdWd2RlVXAwYWtWZmtvLTd1YTVhTUJFN1Fqd2I2eWwxbmNyUnU1N0U4dkl4QW96dXpuME9adnJFejJuOXpVeGI1N2Zn?oc=5"
+      },
       {
         "slug": "open-source-20261111-auto-1-7c69c6",
         "title": "Apple Harbor Turns",
