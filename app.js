@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261113-auto-1-db03d2",
+        "title": "“太空AI第一股”国星宇航在港上市",
+        "category": "AI新闻",
+        "date": "2026-11-13",
+        "summary": "“太空AI第一股”国星宇航在港上市 孙东：体现香港“双赋能”优势 中国新闻网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "“太空AI第一股”国星宇航在港上市 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "“太空AI第一股”国星宇航在港上市 孙东：体现香港“双赋能”优势 中国新闻网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "“太空AI第一股”国星宇航在港上市 孙东：体现香港“双赋能”优势 中国新闻网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVjVZWEFwaVlIaXBqeFI5Qk5Gc3gycThMd29LelRpTkxHSlBjUVhqc3ZuMGVTU3JOc2Z2ejNPTjk5ZnFzcnp5eTl1UXRGRGZGcFVlRXdlN2Y0d0dhX0lMSlg4VjZFcDFQ?oc=5"
+          },
+          {
+            "label": "Notebookcheck：Gemini 4 Hydrogen: What free users and Google AI Plus get - Notebookch",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRU1CMVJYR0NPRTFZdFFYN2JoTWY0YkZQeDlDT0liNmpabUV2TGxkazBxbDdXSlBHT0p0bFdLZXdoTzlNS05Uck0yYm01dlZGbmpBTjRucWZTOUxNMGVUOGllYUlLaEpSQy1TV0YzampqNExJbE9SNlQ0MUNTbjJlOS1Jc1Q3Z1lZLTBwcDNxYkFUMkV0ZVFxUTA4SE5uWUpPRnpj?oc=5"
+          },
+          {
+            "label": "UkrMedia News：Google has updated its search with Gemini 4 Hydrogen — what’s new - Uk",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVYtbmhIMXR5eGxLYWJPRndmMGl0OHRqM3NqVW1JN1ZBVDZYdnR3VnRMWHEwTnhic0tDNDVndi1wVE83MnpXb2k5YmV0UlJ6X201cUxHUmpJSktjMm5fTmd3ck1oOFlxWjl6NjVvcUs5WVY4VmFnRkRaNE9aQk9ZbEdrY2hUN2ZP?oc=5"
+          }
+        ],
+        "source": "中国新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVjVZWEFwaVlIaXBqeFI5Qk5Gc3gycThMd29LelRpTkxHSlBjUVhqc3ZuMGVTU3JOc2Z2ejNPTjk5ZnFzcnp5eTl1UXRGRGZGcFVlRXdlN2Y0d0dhX0lMSlg4VjZFcDFQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261113-auto-2-f87ce7",
+        "title": "Gemini 4 Hydrogen:",
+        "category": "AI新闻",
+        "date": "2026-11-13",
+        "summary": "Gemini 4 Hydrogen: What free users and Google AI P",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Gemini 4 Hydrogen: 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Gemini 4 Hydrogen: What free users and Google AI P",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Gemini 4 Hydrogen: What free users and Google AI P",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Notebookcheck：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRU1CMVJYR0NPRTFZdFFYN2JoTWY0YkZQeDlDT0liNmpabUV2TGxkazBxbDdXSlBHT0p0bFdLZXdoTzlNS05Uck0yYm01dlZGbmpBTjRucWZTOUxNMGVUOGllYUlLaEpSQy1TV0YzampqNExJbE9SNlQ0MUNTbjJlOS1Jc1Q3Z1lZLTBwcDNxYkFUMkV0ZVFxUTA4SE5uWUpPRnpj?oc=5"
+          },
+          {
+            "label": "中国新闻网：“太空AI第一股”国星宇航在港上市 孙东：体现香港“双赋能”优势 - 中国新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQVjVZWEFwaVlIaXBqeFI5Qk5Gc3gycThMd29LelRpTkxHSlBjUVhqc3ZuMGVTU3JOc2Z2ejNPTjk5ZnFzcnp5eTl1UXRGRGZGcFVlRXdlN2Y0d0dhX0lMSlg4VjZFcDFQ?oc=5"
+          },
+          {
+            "label": "UkrMedia News：Google has updated its search with Gemini 4 Hydrogen — what’s new - Uk",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMVYtbmhIMXR5eGxLYWJPRndmMGl0OHRqM3NqVW1JN1ZBVDZYdnR3VnRMWHEwTnhic0tDNDVndi1wVE83MnpXb2k5YmV0UlJ6X201cUxHUmpJSktjMm5fTmd3ck1oOFlxWjl6NjVvcUs5WVY4VmFnRkRaNE9aQk9ZbEdrY2hUN2ZP?oc=5"
+          }
+        ],
+        "source": "Notebookcheck",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRU1CMVJYR0NPRTFZdFFYN2JoTWY0YkZQeDlDT0liNmpabUV2TGxkazBxbDdXSlBHT0p0bFdLZXdoTzlNS05Uck0yYm01dlZGbmpBTjRucWZTOUxNMGVUOGllYUlLaEpSQy1TV0YzampqNExJbE9SNlQ0MUNTbjJlOS1Jc1Q3Z1lZLTBwcDNxYkFUMkV0ZVFxUTA4SE5uWUpPRnpj?oc=5"
+      },
+      {
         "slug": "ai-news-20261112-auto-1-fe44b8",
         "title": "一条街区如何托举AI时代的“一人公司",
         "category": "AI新闻",
@@ -26035,6 +26151,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261113-auto-1-ba016d",
+        "title": "直接在文件名里求满分 AI阅卷老师还",
+        "category": "AI使用教程",
+        "date": "2026-11-13",
+        "summary": "直接在文件名里求满分 AI阅卷老师还真信了 OpenAI内部研究发现，AI为了拿到高分，竟然在提交文",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "直接在文件名里求满分 AI阅卷老师还 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "直接在文件名里求满分 AI阅卷老师还真信了 OpenAI内部研究发现，AI为了拿到高分，竟然在提交文",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "直接在文件名里求满分 AI阅卷老师还真信了 OpenAI内部研究发现，AI为了拿到高分，竟然在提交文",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOS1VdWtsenBjd2o2UlpsT1FEbkl3ZEVTemtWOWdNdVFXR3puRU45eXV2ejNFa29vZ1RnakNPclRPZG01ODVvMDA1TU15a1drVVZ4bnJGdm9hRTlNaU9uX2tad2Itc2ktNTRDd0lEQl9Vdnc3dDdCRF9BRS1vQzRqaWRzcnF2UG44QkNoNw?oc=5"
+          },
+          {
+            "label": "FourWeekMBA：Prompt Engineering And Why It Matters To The AI Revolution - FourWeekM",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tbk54U0ViT3l5V2JWczZmZjN0Uy1jRFlYdUZpdGEwTThnMUcwQVJXMlZWTWo4SjdVNTVtTzBfa2NKRFQ3RDJwb3gxNEpXMURtOXFqdGpn?oc=5"
+          },
+          {
+            "label": "凤凰网科技：Claude新旗舰刚发，95万字绝密提示词被扒光了 - 凤凰网科技",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OV2tYVUo5X2k3dnkwUlVOdVNfUjZkRm50djdXenNaM3pnMUV4UV9WcUVfU0xqc1hsU3JfaVhJeUo4M3JmODVnLUxjT0s?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOS1VdWtsenBjd2o2UlpsT1FEbkl3ZEVTemtWOWdNdVFXR3puRU45eXV2ejNFa29vZ1RnakNPclRPZG01ODVvMDA1TU15a1drVVZ4bnJGdm9hRTlNaU9uX2tad2Itc2ktNTRDd0lEQl9Vdnc3dDdCRF9BRS1vQzRqaWRzcnF2UG44QkNoNw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261112-auto-1-f6fafc",
         "title": "Fable 5.2 Advances",
         "category": "AI使用教程",
@@ -38475,6 +38649,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261113-auto-1-cb61da",
+        "title": "China’s Top A.I. M",
+        "category": "开源项目",
+        "date": "2026-11-13",
+        "summary": "China’s Top A.I. Models Carry the Fingerprints of",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "China’s Top A.I. M 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "China’s Top A.I. Models Carry the Fingerprints of",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "China’s Top A.I. Models Carry the Fingerprints of",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.trendingtopics.eu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekQ0aS05SkdOT1p4YS0ycFJTY1YzbVRmaC02RUVta2ctOFEzdjBidmpvVmlnZkNubFlXeXo1ZDB4T2hvNjFhM1BXUGxEbU43aUNHb1FZRnR0QXlYTDFSRDBheHFqMjR6T2FlazRFSkRNdzlRcW9FTERzTG1Ra0RYclk2Zw?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Uncensored and abliterated AI models, and who answers for them - Pasqu",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb05vQ1BEc3kwSTNEVjZtUzhtN0FjbVBjZW1ObzhIalRaRFd3RTFuQ2lYSGhyQVU0Q0xBT29SazktR05mSWgxdkpQWU9nUWFoWUNCTDk2Ulk1VkZRSUlSWDRyZGxwQnNhUTJRdGZnalpIOVJGNE04ZkpvaWpGeTdUa25MVzdvMFFHZ3RnRUJ3Y1VpSFJJQmc?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：AI生成代码大量涌入Linux内核资深维护者Lorenzo Stoakes宣布退出多个代码审查岗位- Linux - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aeHhWbW8tNGtIQUpFYkZZMGE5bjhZVm1TRGNWZHhSV3NMOU92Ni0yZkQzaGF3dExGV3l3SXc1Z29VWGZwWlJVMWtqcFBmb2NWWU96aXppQXNKMlYtbFBwdw?oc=5"
+          }
+        ],
+        "source": "www.trendingtopics.eu",
+        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekQ0aS05SkdOT1p4YS0ycFJTY1YzbVRmaC02RUVta2ctOFEzdjBidmpvVmlnZkNubFlXeXo1ZDB4T2hvNjFhM1BXUGxEbU43aUNHb1FZRnR0QXlYTDFSRDBheHFqMjR6T2FlazRFSkRNdzlRcW9FTERzTG1Ra0RYclk2Zw?oc=5"
+      },
+      {
+        "slug": "open-source-20261113-auto-2-f43d6a",
+        "title": "Uncensored and abl",
+        "category": "开源项目",
+        "date": "2026-11-13",
+        "summary": "Uncensored and abliterated AI models, and who answ",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Uncensored and abl 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Uncensored and abliterated AI models, and who answ",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Uncensored and abliterated AI models, and who answ",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb05vQ1BEc3kwSTNEVjZtUzhtN0FjbVBjZW1ObzhIalRaRFd3RTFuQ2lYSGhyQVU0Q0xBT29SazktR05mSWgxdkpQWU9nUWFoWUNCTDk2Ulk1VkZRSUlSWDRyZGxwQnNhUTJRdGZnalpIOVJGNE04ZkpvaWpGeTdUa25MVzdvMFFHZ3RnRUJ3Y1VpSFJJQmc?oc=5"
+          },
+          {
+            "label": "www.trendingtopics.eu：China’s Top A.I. Models Carry the Fingerprints of Banned Nvidia Chips ",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekQ0aS05SkdOT1p4YS0ycFJTY1YzbVRmaC02RUVta2ctOFEzdjBidmpvVmlnZkNubFlXeXo1ZDB4T2hvNjFhM1BXUGxEbU43aUNHb1FZRnR0QXlYTDFSRDBheHFqMjR6T2FlazRFSkRNdzlRcW9FTERzTG1Ra0RYclk2Zw?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：AI生成代码大量涌入Linux内核资深维护者Lorenzo Stoakes宣布退出多个代码审查岗位- Linux - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aeHhWbW8tNGtIQUpFYkZZMGE5bjhZVm1TRGNWZHhSV3NMOU92Ni0yZkQzaGF3dExGV3l3SXc1Z29VWGZwWlJVMWtqcFBmb2NWWU96aXppQXNKMlYtbFBwdw?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb05vQ1BEc3kwSTNEVjZtUzhtN0FjbVBjZW1ObzhIalRaRFd3RTFuQ2lYSGhyQVU0Q0xBT29SazktR05mSWgxdkpQWU9nUWFoWUNCTDk2Ulk1VkZRSUlSWDRyZGxwQnNhUTJRdGZnalpIOVJGNE04ZkpvaWpGeTdUa25MVzdvMFFHZ3RnRUJ3Y1VpSFJJQmc?oc=5"
+      },
       {
         "slug": "open-source-20261112-auto-1-25b9f0",
         "title": "AWS Open-Sources A",
