@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261114-auto-1-fdb0a9",
+        "title": "Japan mulls penalt",
+        "category": "AI新闻",
+        "date": "2026-11-14",
+        "summary": "Japan mulls penalties for AI firms over safety ris",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Japan mulls penalt 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Japan mulls penalties for AI firms over safety ris",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Japan mulls penalties for AI firms over safety ris",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Japan Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3Q1VWcyOFd2aXF4R3E3MTV6V3A3dXRuTS1icFBPUVY3RnRnamVIck41eWpKeHR2aHV6ZjlDS0VYOEU0RnVUSVNwRTNHUmhZLXkta1YxcnlRemhHaDNKZWtwSmxjYlI4Z056TUE1bVBmQ0FUVjdUWTFEcmhQTjNrdEdXTkVhaXUxT2ZwODg5b0Z4bDA?oc=5"
+          },
+          {
+            "label": "Morningstar：AI Stocks Beyond Big Tech: Where Nuveen’s Head of Global Equities Sees",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3lOLXJFZVVVYU0yMkxhT0M4YjJkM1o3SUo2d0RpQUZuVGdFNHkyWHhtTUtjNF9hRTRTOFNDSzM5el9scTEzYVNXbGFaQWhMYXRiTlpQRF95SEdJckd0NXUwdGJpVHBpVTRDZkV2dDFWMU9oTVRwV0lfaV8xWGxPN2tnU0RaTHR2VVpyRmplMHpZWGJ4V1ZwU29NVnlnMnhuOTRPeTF0NzVIeE9sYThKLUtwdGdLbVlHeXdDRlh1WQ?oc=5"
+          },
+          {
+            "label": "凤凰网：谷歌利用多个专业AI智能体打造Teamwork系统，成功验证多项复杂数学证明 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96TVY4U2N4TTFzcEdnMG90RlJmd2NXLVlneE94THZZQ2oyTUpTLTVjdzRCUEV6ZHlfbjI2NVRJaTZ1YU5GWi1iRg?oc=5"
+          }
+        ],
+        "source": "Japan Today",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3Q1VWcyOFd2aXF4R3E3MTV6V3A3dXRuTS1icFBPUVY3RnRnamVIck41eWpKeHR2aHV6ZjlDS0VYOEU0RnVUSVNwRTNHUmhZLXkta1YxcnlRemhHaDNKZWtwSmxjYlI4Z056TUE1bVBmQ0FUVjdUWTFEcmhQTjNrdEdXTkVhaXUxT2ZwODg5b0Z4bDA?oc=5"
+      },
+      {
+        "slug": "ai-news-20261114-auto-2-715508",
+        "title": "AI Stocks Beyond B",
+        "category": "AI新闻",
+        "date": "2026-11-14",
+        "summary": "AI Stocks Beyond Big Tech: Where Nuveen’s Head of",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Stocks Beyond B 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI Stocks Beyond Big Tech: Where Nuveen’s Head of",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Stocks Beyond Big Tech: Where Nuveen’s Head of",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Morningstar：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3lOLXJFZVVVYU0yMkxhT0M4YjJkM1o3SUo2d0RpQUZuVGdFNHkyWHhtTUtjNF9hRTRTOFNDSzM5el9scTEzYVNXbGFaQWhMYXRiTlpQRF95SEdJckd0NXUwdGJpVHBpVTRDZkV2dDFWMU9oTVRwV0lfaV8xWGxPN2tnU0RaTHR2VVpyRmplMHpZWGJ4V1ZwU29NVnlnMnhuOTRPeTF0NzVIeE9sYThKLUtwdGdLbVlHeXdDRlh1WQ?oc=5"
+          },
+          {
+            "label": "Japan Today：Japan mulls penalties for AI firms over safety risks - Japan Today",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3Q1VWcyOFd2aXF4R3E3MTV6V3A3dXRuTS1icFBPUVY3RnRnamVIck41eWpKeHR2aHV6ZjlDS0VYOEU0RnVUSVNwRTNHUmhZLXkta1YxcnlRemhHaDNKZWtwSmxjYlI4Z056TUE1bVBmQ0FUVjdUWTFEcmhQTjNrdEdXTkVhaXUxT2ZwODg5b0Z4bDA?oc=5"
+          },
+          {
+            "label": "凤凰网：谷歌利用多个专业AI智能体打造Teamwork系统，成功验证多项复杂数学证明 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE96TVY4U2N4TTFzcEdnMG90RlJmd2NXLVlneE94THZZQ2oyTUpTLTVjdzRCUEV6ZHlfbjI2NVRJaTZ1YU5GWi1iRg?oc=5"
+          }
+        ],
+        "source": "Morningstar",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3lOLXJFZVVVYU0yMkxhT0M4YjJkM1o3SUo2d0RpQUZuVGdFNHkyWHhtTUtjNF9hRTRTOFNDSzM5el9scTEzYVNXbGFaQWhMYXRiTlpQRF95SEdJckd0NXUwdGJpVHBpVTRDZkV2dDFWMU9oTVRwV0lfaV8xWGxPN2tnU0RaTHR2VVpyRmplMHpZWGJ4V1ZwU29NVnlnMnhuOTRPeTF0NzVIeE9sYThKLUtwdGdLbVlHeXdDRlh1WQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261113-auto-1-db03d2",
         "title": "“太空AI第一股”国星宇航在港上市",
         "category": "AI新闻",
@@ -26151,6 +26267,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261114-auto-1-f023c7",
+        "title": "Simba 3.5 对比 Qwen-",
+        "category": "AI使用教程",
+        "date": "2026-11-14",
+        "summary": "Simba 3.5 对比 Qwen-Audio-3.0-TTS：是语言列表还是提示词 OrcaRou",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Simba 3.5 对比 Qwen- 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Simba 3.5 对比 Qwen-Audio-3.0-TTS：是语言列表还是提示词 OrcaRou",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Simba 3.5 对比 Qwen-Audio-3.0-TTS：是语言列表还是提示词 OrcaRou",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OrcaRouter：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yMVBYWlc0Y1hyVXVsak43RXZFTERidDNnU1h0bm00cGVhSEV3TEY1VWRlTWxoSnVLRl8wenNTSXFQQjRRUEhwbnFNVHQyUFJacHBEaXlvblVfcEdNMTRCV18zTlpZeFVpWElDeXNpN2xjZzhyaHZz?oc=5"
+          },
+          {
+            "label": "CSDN：Codex AGENTS.md 配置指南：一次落盘项目上下文，告别重复提示词 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZXl5Y3JzNUpKYkVURnFzN2tZQ05KRTJUWS1IVDlEMlI3QUZ3ZThjNkN3M3N3RmxWR3ViNkUzaUQzb0h4NGVLaXBla1dpdVBLOG4wYVJoR1lrb1hUc2tJ?oc=5"
+          },
+          {
+            "label": "AICERTs：The AI Business Intelligence Skills 2027 That Turn Dashboards Into Dec",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDFyeW94RjZzSUtoMk5MTk5XdjFFWU1HSDJXLVFaX0tVMzhidFBac2o3V2h2Z0F0NlFCeE1ianl4NlZYazBmRngxYkxNZWhteGhSakxpbEtOMGNoeXFvNU81WE40alU3cmtYRi1vVlNXNVNzWW5NRnpNMnBBb0puOFV2aFBvb0paMUg3MU04VlBSVUYydGkyVy1GY1cyNThwNVFrRDE2elBWUQ?oc=5"
+          }
+        ],
+        "source": "OrcaRouter",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yMVBYWlc0Y1hyVXVsak43RXZFTERidDNnU1h0bm00cGVhSEV3TEY1VWRlTWxoSnVLRl8wenNTSXFQQjRRUEhwbnFNVHQyUFJacHBEaXlvblVfcEdNMTRCV18zTlpZeFVpWElDeXNpN2xjZzhyaHZz?oc=5"
+      },
+      {
         "slug": "ai-guide-20261113-auto-1-ba016d",
         "title": "直接在文件名里求满分 AI阅卷老师还",
         "category": "AI使用教程",
@@ -38649,6 +38823,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261114-auto-1-9f825c",
+        "title": "Open Source Docume",
+        "category": "开源项目",
+        "date": "2026-11-14",
+        "summary": "Open Source DocumentDB 1.0 Reaches General Availab",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Open Source Docume 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Open Source DocumentDB 1.0 Reaches General Availab",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Open Source DocumentDB 1.0 Reaches General Availab",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "news.lavx.hu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JzcS1EaUh5SGUxUTUxLUhWQ2Uzbzl4SEo2eXV6eFpkY2YxSUdoN0xtbks4cVpqNjJBa3hhcWNtMGtBemhQR2ZodWxrNzhrVjJKck5vVG50R3pJeFdsMXBWbEhtQXo4MUVYSzNhUVY0U0F0SXNCSUJqaVVRcEJ2bmpvM2FtaUNPMWt4LQ?oc=5"
+          },
+          {
+            "label": "MarkTechPost：Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents - MarkTe",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQdIBfkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：苹果折叠机、微软Win11系统、谷歌AI，这个开源项目把三家凑齐了 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1M0FyLVdITlliRU9TX2ZUSXJFS3dZdmxuRFRRWlpVNmtYUlZ6Q2x1VlZESVZKZzlxZUowRFBwcHFmZXYtclUtN2NqczVTVTZrX2xNbFdMZTl4SjYyQ29GQnMtb1dnN1ZDdEh1R1RXckoxZjc4WG81ZXI0Y2ZtbWc?oc=5"
+          }
+        ],
+        "source": "news.lavx.hu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JzcS1EaUh5SGUxUTUxLUhWQ2Uzbzl4SEo2eXV6eFpkY2YxSUdoN0xtbks4cVpqNjJBa3hhcWNtMGtBemhQR2ZodWxrNzhrVjJKck5vVG50R3pJeFdsMXBWbEhtQXo4MUVYSzNhUVY0U0F0SXNCSUJqaVVRcEJ2bmpvM2FtaUNPMWt4LQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261114-auto-2-4ab188",
+        "title": "Vercel Releases UI",
+        "category": "开源项目",
+        "date": "2026-11-14",
+        "summary": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Co",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Vercel Releases UI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Co",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Vercel Releases UI SDK: 50+ UI Behaviors for AI Co",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "MarkTechPost：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQdIBfkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQQ?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Open Source DocumentDB 1.0 Reaches General Availability - news.lavx.hu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JzcS1EaUh5SGUxUTUxLUhWQ2Uzbzl4SEo2eXV6eFpkY2YxSUdoN0xtbks4cVpqNjJBa3hhcWNtMGtBemhQR2ZodWxrNzhrVjJKck5vVG50R3pJeFdsMXBWbEhtQXo4MUVYSzNhUVY0U0F0SXNCSUJqaVVRcEJ2bmpvM2FtaUNPMWt4LQ?oc=5"
+          },
+          {
+            "label": "手机新浪网：苹果折叠机、微软Win11系统、谷歌AI，这个开源项目把三家凑齐了 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1M0FyLVdITlliRU9TX2ZUSXJFS3dZdmxuRFRRWlpVNmtYUlZ6Q2x1VlZESVZKZzlxZUowRFBwcHFmZXYtclUtN2NqczVTVTZrX2xNbFdMZTl4SjYyQ29GQnMtb1dnN1ZDdEh1R1RXckoxZjc4WG81ZXI0Y2ZtbWc?oc=5"
+          }
+        ],
+        "source": "MarkTechPost",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQdIBfkFVX3lxTE0tNXZ2WGxkci1oakJJZUVhdUN4V0RZVVdsTkhnM2Raak15TURNanJqNUdHSlVxczBTUnY1bGZNcTh5S1NMZTZkbTR4bVJGM3JqdF96UGV2RU5RY09GcDBYbTYyQzk1QU14WElmb2ZDR1dnQi1PTFVjX2Zrd0RtQQ?oc=5"
+      },
       {
         "slug": "open-source-20261113-auto-1-cb61da",
         "title": "China’s Top A.I. M",
