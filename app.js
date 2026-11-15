@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261115-auto-1-8b69c9",
+        "title": "首批“人工智能+交通运输”场景清单发",
+        "category": "AI新闻",
+        "date": "2026-11-15",
+        "summary": "首批“人工智能+交通运输”场景清单发布 北京市人民政府门户网站",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "首批“人工智能+交通运输”场景清单发 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "首批“人工智能+交通运输”场景清单发布 北京市人民政府门户网站",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "首批“人工智能+交通运输”场景清单发布 北京市人民政府门户网站",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "北京市人民政府门户网站：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByLVN3WlZjWDREa2l6MnluUVppNGhRZ28zb2VtX1BzMktQcWhKQmdFVkRCaktXMVA3Z3pfcXd6dUtvX01fZnVzRzFXd0VWOXlsNDNyeEtPM3M1Y1JRZWZzUXh0RkNYcld5bU4zTTM5Y1FuNE9OVXRR?oc=5"
+          },
+          {
+            "label": "The White Coat Investor：How Physicians Feel About AI and If Their Pay and Job Security Will Be",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2xxMGRRVlpzYk9iZ0dGVkNtbVFOa0Vnc2pjRDMzbjZ3b0lndWkyd0hpU21BSHMtcGc1b3N4SFFuYU5tYmw1aUtuSnRNazdXbUdneXhmRk8wNENHbEVvZHhDNEJwUlJuQ3IzQXJFQnJrOU5TdXpka1FXQk9mell5OA?oc=5"
+          },
+          {
+            "label": "Philippine News Agency：Go urges ASEAN to prepare for growing AI demand - Philippine News Agen",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUxHNDJRZkdxN2x3QVdUZ2FjVUJnVDQ0bVI5aENrRVYwZ2dwSjlFTVduaVNFX0RkUFhVZ2ZZNlNJVDIzWWRrZV9oOGo0REswbVFLY0ltT2hkb3l4OFgwcmNlTWpTVXpIR01ZZlpsMG9aZHVNd1VWejdNS2o1QVZtMmJ5YXc?oc=5"
+          }
+        ],
+        "source": "北京市人民政府门户网站",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByLVN3WlZjWDREa2l6MnluUVppNGhRZ28zb2VtX1BzMktQcWhKQmdFVkRCaktXMVA3Z3pfcXd6dUtvX01fZnVzRzFXd0VWOXlsNDNyeEtPM3M1Y1JRZWZzUXh0RkNYcld5bU4zTTM5Y1FuNE9OVXRR?oc=5"
+      },
+      {
+        "slug": "ai-news-20261115-auto-2-d40878",
+        "title": "How Physicians Fee",
+        "category": "AI新闻",
+        "date": "2026-11-15",
+        "summary": "How Physicians Feel About AI and If Their Pay and",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "How Physicians Fee 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "How Physicians Feel About AI and If Their Pay and",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "How Physicians Feel About AI and If Their Pay and",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The White Coat Investor：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2xxMGRRVlpzYk9iZ0dGVkNtbVFOa0Vnc2pjRDMzbjZ3b0lndWkyd0hpU21BSHMtcGc1b3N4SFFuYU5tYmw1aUtuSnRNazdXbUdneXhmRk8wNENHbEVvZHhDNEJwUlJuQ3IzQXJFQnJrOU5TdXpka1FXQk9mell5OA?oc=5"
+          },
+          {
+            "label": "北京市人民政府门户网站：首批“人工智能+交通运输”场景清单发布 - 北京市人民政府门户网站",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByLVN3WlZjWDREa2l6MnluUVppNGhRZ28zb2VtX1BzMktQcWhKQmdFVkRCaktXMVA3Z3pfcXd6dUtvX01fZnVzRzFXd0VWOXlsNDNyeEtPM3M1Y1JRZWZzUXh0RkNYcld5bU4zTTM5Y1FuNE9OVXRR?oc=5"
+          },
+          {
+            "label": "Philippine News Agency：Go urges ASEAN to prepare for growing AI demand - Philippine News Agen",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUxHNDJRZkdxN2x3QVdUZ2FjVUJnVDQ0bVI5aENrRVYwZ2dwSjlFTVduaVNFX0RkUFhVZ2ZZNlNJVDIzWWRrZV9oOGo0REswbVFLY0ltT2hkb3l4OFgwcmNlTWpTVXpIR01ZZlpsMG9aZHVNd1VWejdNS2o1QVZtMmJ5YXc?oc=5"
+          }
+        ],
+        "source": "The White Coat Investor",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa2xxMGRRVlpzYk9iZ0dGVkNtbVFOa0Vnc2pjRDMzbjZ3b0lndWkyd0hpU21BSHMtcGc1b3N4SFFuYU5tYmw1aUtuSnRNazdXbUdneXhmRk8wNENHbEVvZHhDNEJwUlJuQ3IzQXJFQnJrOU5TdXpka1FXQk9mell5OA?oc=5"
+      },
+      {
         "slug": "ai-news-20261114-auto-1-fdb0a9",
         "title": "Japan mulls penalt",
         "category": "AI新闻",
@@ -26267,6 +26383,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261115-auto-1-90154e",
+        "title": "在盐城，用AI“造”漫剧！ - ww",
+        "category": "AI使用教程",
+        "date": "2026-11-15",
+        "summary": "在盐城，用AI“造”漫剧！ www.ycnews.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "在盐城，用AI“造”漫剧！ - ww 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在盐城，用AI“造”漫剧！ www.ycnews.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "在盐城，用AI“造”漫剧！ www.ycnews.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.ycnews.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IdnFOZFpKZVBNbk5CbkVsdjlmVWRnd1EwWEdaT0dIQVgzRXlva2xBLUV5UjBpUlQtVmpRLWtIVlNiSWgxODBVRW9HVGN4a2ZGdXlHVXlucE5PN2VVNk9JRA?oc=5"
+          },
+          {
+            "label": "手机新浪网：张柠、吕约：AI时代，用创意写作守护“母语尊严和人脑尊严”| 百家 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRzh0eHRpTUQ1VkFiaWpRNVJOMjVNV3ZnSm5FdXVDWTF3TFZxRktUSkdMRFNtRFUwZk9rMlpkUjdZMVBOUUN3N1dmZWxwMGJmXzVreUtGaTFfZEhTNHotckZwaVpLTkFkcDVVd0FEUWRFaUU0amJ1cUtwTzE0ZlhZMk90RQ?oc=5"
+          },
+          {
+            "label": "武汉科技大学：从零基础摸索到作品获千万播放 我校一学生科创团队全员保研 - 武汉科技大学",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90SjRycWFyQjliY2dwUUdfdUdoQ1FqaERLLWNBNnRPTTFycU9HelJqNzRUQUhlUUpMMHhSVEhNSjhFSWZFdjhkLUtXZlNnM01DcFdlWjZlNWw?oc=5"
+          }
+        ],
+        "source": "www.ycnews.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IdnFOZFpKZVBNbk5CbkVsdjlmVWRnd1EwWEdaT0dIQVgzRXlva2xBLUV5UjBpUlQtVmpRLWtIVlNiSWgxODBVRW9HVGN4a2ZGdXlHVXlucE5PN2VVNk9JRA?oc=5"
+      },
+      {
         "slug": "ai-guide-20261114-auto-1-f023c7",
         "title": "Simba 3.5 对比 Qwen-",
         "category": "AI使用教程",
@@ -38823,6 +38997,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261115-auto-1-486e15",
+        "title": "RoutineMiku/apksta",
+        "category": "开源项目",
+        "date": "2026-11-15",
+        "summary": "RoutineMiku/apkstart: Runs Android apps as Windows",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "RoutineMiku/apksta 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "RoutineMiku/apkstart: Runs Android apps as Windows",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "RoutineMiku/apkstart: Runs Android apps as Windows",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "news.lavx.hu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWV9MUlQzakNreEVINkJTTms4dFVDb3JlOVhVc0I1dE1URHNMYnc2YWFEdHhHN05MX2FTN0Fma2h5blNra25hYWNjZFE2bGlpdzRMdENDUnAyZXhuTjFNeWhpRGtqYVVhSUtqc1dkOGtXcmpLaHlNOEU4S2RJbnVxbWxmaFNfcDBETnczdS1TSEFVSXpGNFQxVE5Ud0hZRE41aWl3T2hyS2NDOWdPdldj?oc=5"
+          },
+          {
+            "label": "Cryptonews.net：What Nvidia's CEO Ouster and Bitcoin Have in Common - Cryptonews.net",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzN3d6VkVGNVgzTmhFcTI2MFNfcS1BLS1uYk1abTlMQXpOSkdVVmp1R1AyTkVyTkltXzRVUnktQm4tYVdMN0ljNDhERTNfd3BFRE0yRUNn?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Xbox 25th anniversary posts raise Project Helix questions - news.lavx.",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmtTZWRlcUNJc282dFhKanJuZ25MWWliSWRpMUpSbE1rSThUd281dGVWeUp0N0YtRzRHdC1aX0R5bHJUNFhCcGhpVXNqc3J1UW4wN2Nfek9jbjk2cFRVZGV1c2xWRkdFWFhLcHRtMVJ0S3h4eFVYU004RUU1ZTIxdFhoNVZRdGpyN0VkUlltdw?oc=5"
+          }
+        ],
+        "source": "news.lavx.hu",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWV9MUlQzakNreEVINkJTTms4dFVDb3JlOVhVc0I1dE1URHNMYnc2YWFEdHhHN05MX2FTN0Fma2h5blNra25hYWNjZFE2bGlpdzRMdENDUnAyZXhuTjFNeWhpRGtqYVVhSUtqc1dkOGtXcmpLaHlNOEU4S2RJbnVxbWxmaFNfcDBETnczdS1TSEFVSXpGNFQxVE5Ud0hZRE41aWl3T2hyS2NDOWdPdldj?oc=5"
+      },
+      {
+        "slug": "open-source-20261115-auto-2-bfdb9e",
+        "title": "What Nvidia's CEO",
+        "category": "开源项目",
+        "date": "2026-11-15",
+        "summary": "What Nvidia's CEO Ouster and Bitcoin Have in Commo",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What Nvidia's CEO 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "What Nvidia's CEO Ouster and Bitcoin Have in Commo",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What Nvidia's CEO Ouster and Bitcoin Have in Commo",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Cryptonews.net：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzN3d6VkVGNVgzTmhFcTI2MFNfcS1BLS1uYk1abTlMQXpOSkdVVmp1R1AyTkVyTkltXzRVUnktQm4tYVdMN0ljNDhERTNfd3BFRE0yRUNn?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：RoutineMiku/apkstart: Runs Android apps as Windows desktop application",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWV9MUlQzakNreEVINkJTTms4dFVDb3JlOVhVc0I1dE1URHNMYnc2YWFEdHhHN05MX2FTN0Fma2h5blNra25hYWNjZFE2bGlpdzRMdENDUnAyZXhuTjFNeWhpRGtqYVVhSUtqc1dkOGtXcmpLaHlNOEU4S2RJbnVxbWxmaFNfcDBETnczdS1TSEFVSXpGNFQxVE5Ud0hZRE41aWl3T2hyS2NDOWdPdldj?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：Xbox 25th anniversary posts raise Project Helix questions - news.lavx.",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmtTZWRlcUNJc282dFhKanJuZ25MWWliSWRpMUpSbE1rSThUd281dGVWeUp0N0YtRzRHdC1aX0R5bHJUNFhCcGhpVXNqc3J1UW4wN2Nfek9jbjk2cFRVZGV1c2xWRkdFWFhLcHRtMVJ0S3h4eFVYU004RUU1ZTIxdFhoNVZRdGpyN0VkUlltdw?oc=5"
+          }
+        ],
+        "source": "Cryptonews.net",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzN3d6VkVGNVgzTmhFcTI2MFNfcS1BLS1uYk1abTlMQXpOSkdVVmp1R1AyTkVyTkltXzRVUnktQm4tYVdMN0ljNDhERTNfd3BFRE0yRUNn?oc=5"
+      },
       {
         "slug": "open-source-20261114-auto-1-9f825c",
         "title": "Open Source Docume",
