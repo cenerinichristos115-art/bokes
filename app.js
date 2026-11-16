@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261116-auto-1-faf936",
+        "title": "Multimodal Artific",
+        "category": "AI新闻",
+        "date": "2026-11-16",
+        "summary": "Multimodal Artificial Intelligence Accurately Eval",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Multimodal Artific 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Multimodal Artificial Intelligence Accurately Eval",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Multimodal Artificial Intelligence Accurately Eval",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Bioengineer.org：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWhnSlp2YTdMVGluUnA0UC1mQlhqekxqQkRDdllYQUNmazFvQzM0NFh1ZGxIVVl0a0ZvQndqcDZRdll5RUI5cTUtaURGZFJZclpYWkZmdm5Xc1NSTnQ2dHQ4ZGg0V1FnZ3RCMGxjRUhfc09DSjhUempjc0ZYdzlidUphdHBzVmo5R2lWLWhVRE1ITjE0R0k1T3R2QTdCMFdUZlh4TkhEbG9McXhjTFpLTnN6bnR5TU81dEQ4STk2MA?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：印度官员：印度不怕人工智能的威胁- AI 人工智能 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aElwV0ItNVQzZkdmNFEzR25lakc2R21iS2ZBem9zUjUxX0hKT1lTaWw2UlpvaXl5ejJqS0FRQndpZzYzbG12Ymx4czdhT1c4VWV3NmpBY05rSW1OSmxiZw?oc=5"
+          },
+          {
+            "label": "Moomoo：苹果推出新应用，研究人们如何利用AI获取健康信息 - Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55WFIwUjdjc2luand6WFRlOEF6aFB5Mk1na2g0WXlWNjg1eEVNM0xJRHVyNU9EaGZKVmFXLUgtclVrOTJ0VlFkTk5iWnhaWkxHMmhkS3NPV0dQekh4?oc=5"
+          }
+        ],
+        "source": "Bioengineer.org",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWhnSlp2YTdMVGluUnA0UC1mQlhqekxqQkRDdllYQUNmazFvQzM0NFh1ZGxIVVl0a0ZvQndqcDZRdll5RUI5cTUtaURGZFJZclpYWkZmdm5Xc1NSTnQ2dHQ4ZGg0V1FnZ3RCMGxjRUhfc09DSjhUempjc0ZYdzlidUphdHBzVmo5R2lWLWhVRE1ITjE0R0k1T3R2QTdCMFdUZlh4TkhEbG9McXhjTFpLTnN6bnR5TU81dEQ4STk2MA?oc=5"
+      },
+      {
+        "slug": "ai-news-20261116-auto-2-b37df2",
+        "title": "印度官员：印度不怕人工智能的威胁-",
+        "category": "AI新闻",
+        "date": "2026-11-16",
+        "summary": "印度官员：印度不怕人工智能的威胁- AI 人工智能 cnBeta.COM",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "印度官员：印度不怕人工智能的威胁- 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "印度官员：印度不怕人工智能的威胁- AI 人工智能 cnBeta.COM",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "印度官员：印度不怕人工智能的威胁- AI 人工智能 cnBeta.COM",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aElwV0ItNVQzZkdmNFEzR25lakc2R21iS2ZBem9zUjUxX0hKT1lTaWw2UlpvaXl5ejJqS0FRQndpZzYzbG12Ymx4czdhT1c4VWV3NmpBY05rSW1OSmxiZw?oc=5"
+          },
+          {
+            "label": "Bioengineer.org：Multimodal Artificial Intelligence Accurately Evaluates Sarcopenia Usi",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWhnSlp2YTdMVGluUnA0UC1mQlhqekxqQkRDdllYQUNmazFvQzM0NFh1ZGxIVVl0a0ZvQndqcDZRdll5RUI5cTUtaURGZFJZclpYWkZmdm5Xc1NSTnQ2dHQ4ZGg0V1FnZ3RCMGxjRUhfc09DSjhUempjc0ZYdzlidUphdHBzVmo5R2lWLWhVRE1ITjE0R0k1T3R2QTdCMFdUZlh4TkhEbG9McXhjTFpLTnN6bnR5TU81dEQ4STk2MA?oc=5"
+          },
+          {
+            "label": "Moomoo：苹果推出新应用，研究人们如何利用AI获取健康信息 - Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55WFIwUjdjc2luand6WFRlOEF6aFB5Mk1na2g0WXlWNjg1eEVNM0xJRHVyNU9EaGZKVmFXLUgtclVrOTJ0VlFkTk5iWnhaWkxHMmhkS3NPV0dQekh4?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aElwV0ItNVQzZkdmNFEzR25lakc2R21iS2ZBem9zUjUxX0hKT1lTaWw2UlpvaXl5ejJqS0FRQndpZzYzbG12Ymx4czdhT1c4VWV3NmpBY05rSW1OSmxiZw?oc=5"
+      },
+      {
         "slug": "ai-news-20261115-auto-1-8b69c9",
         "title": "首批“人工智能+交通运输”场景清单发",
         "category": "AI新闻",
@@ -26383,6 +26499,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261116-auto-1-b6ca3f",
+        "title": "SambaNova携手Intel G",
+        "category": "AI使用教程",
+        "date": "2026-11-16",
+        "summary": "SambaNova携手Intel GPU与SN50，打造风冷AI推理系统 Unite.AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SambaNova携手Intel G 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "SambaNova携手Intel GPU与SN50，打造风冷AI推理系统 Unite.AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SambaNova携手Intel GPU与SN50，打造风冷AI推理系统 Unite.AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Unite.AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYklMZUxLM3Q2Ql9RZ0lrRlFOUzROTlZPZzlZRndPZjE3Z2d5YWx2eG9SaDZnT0NBa0dNMkx6Y20wWUFQcGttbHVpTjRrMVhTYlRlck1MbVU2blFXN1gwSUJoenZFUlFXMHNmdmo5N181Y1Zxb3Z1Z1JaZ05LZmdnRXZnM2VYcndhcWdKa1dxNTNvbmxkSGtV?oc=5"
+          },
+          {
+            "label": "新浪新闻_手机新浪网：AI创作收入如何纳税？专家解读：关键看实质，“虚拟外衣”不是避税屏障 - 新浪新闻_手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYms4aHp3T1hrcjRWeWkteGFBdS1fSTZ2b1NNRnRzYjFZUGlUU2luLU5XXzRyZTlFa1R1V2RGT0V2VWRBblU2N1NBdFpLR3ZWQnd0LWRCLWVob2xLYzI5TWlKSVlVQ01ISEtVeVR4WGIwa0dLbkZadkVDY2R3Q3VqUk5kOGZlZ2Nqb2FIMnItLUViY1E3RUl2OA?oc=5"
+          },
+          {
+            "label": "中华网：7人卖淫秽图片获利被判刑 AI生成同样担责 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXalh3Q3RrelZQNEI5alQxYm1CM2Y4aE1LSTA4S0QwZFdkSmlZRG9ENHp3dGs4dUJmSWFwZDhQekVPZXFxZkdfRGIzWHI0UWVRU1F2SlotX0c5VVF6dDNxLUVBVWZwd1VmelluTXFNQTU?oc=5"
+          }
+        ],
+        "source": "Unite.AI",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYklMZUxLM3Q2Ql9RZ0lrRlFOUzROTlZPZzlZRndPZjE3Z2d5YWx2eG9SaDZnT0NBa0dNMkx6Y20wWUFQcGttbHVpTjRrMVhTYlRlck1MbVU2blFXN1gwSUJoenZFUlFXMHNmdmo5N181Y1Zxb3Z1Z1JaZ05LZmdnRXZnM2VYcndhcWdKa1dxNTNvbmxkSGtV?oc=5"
+      },
+      {
         "slug": "ai-guide-20261115-auto-1-90154e",
         "title": "在盐城，用AI“造”漫剧！ - ww",
         "category": "AI使用教程",
@@ -38997,6 +39171,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261116-auto-1-936da6",
+        "title": "AI Hacking Tool AR",
+        "category": "开源项目",
+        "date": "2026-11-16",
+        "summary": "AI Hacking Tool ARTEX Survives GitHub Removal; FBI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Hacking Tool AR 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI Hacking Tool ARTEX Survives GitHub Removal; FBI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Hacking Tool ARTEX Survives GitHub Removal; FBI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tech Times：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFGSnlmaVNFY2RhRFY2WE5mNloxbHhta19GYnRLekpGUkFUNTBUZWxQLV9OWllYalhWWnBPalNWQ1Y0MGdyWFRBanUxZGdmQ2l1QUgxcWxkQ2VRREt1dW95cjNGZlVfWW5LcUZEaDlqenJfQXFPbk5hMUhNajdORWVkRElfZy1odlBoc2JkSlluYnpwUkp4c0h2eVIwVFZCeko1UlQ5T09VeWtHRXYxQ0VEREJsNXVOM09FNlVCVTJISjZUQWY2QUtjSDNrNUcyQTBmYVZRVVZjNTk3MjlhRXFZRHc?oc=5"
+          },
+          {
+            "label": "cnBeta.COM：开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时 - cnBeta.COM",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zcjBDQ1pQejloOGRSalpqUEN3RUdlRl91MS0tb2kyZzU2eldHSGRZUURnTk5LeUQyQW12YjFmWEZNaG9tei1iRXJzM3c1WDlwZ2h0ZzEzWGNGSXhKTHRYSg?oc=5"
+          },
+          {
+            "label": "Financial Times：Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenA",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5"
+          }
+        ],
+        "source": "Tech Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFGSnlmaVNFY2RhRFY2WE5mNloxbHhta19GYnRLekpGUkFUNTBUZWxQLV9OWllYalhWWnBPalNWQ1Y0MGdyWFRBanUxZGdmQ2l1QUgxcWxkQ2VRREt1dW95cjNGZlVfWW5LcUZEaDlqenJfQXFPbk5hMUhNajdORWVkRElfZy1odlBoc2JkSlluYnpwUkp4c0h2eVIwVFZCeko1UlQ5T09VeWtHRXYxQ0VEREJsNXVOM09FNlVCVTJISjZUQWY2QUtjSDNrNUcyQTBmYVZRVVZjNTk3MjlhRXFZRHc?oc=5"
+      },
+      {
+        "slug": "open-source-20261116-auto-2-8a882c",
+        "title": "开源AI渗透测试框架ARTEX引起F",
+        "category": "开源项目",
+        "date": "2026-11-16",
+        "summary": "开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时 cnBeta.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开源AI渗透测试框架ARTEX引起F 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时 cnBeta.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开源AI渗透测试框架ARTEX引起FBI关注：从锁定目标到取得最高权限用时不到3小时 cnBeta.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "cnBeta.COM：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zcjBDQ1pQejloOGRSalpqUEN3RUdlRl91MS0tb2kyZzU2eldHSGRZUURnTk5LeUQyQW12YjFmWEZNaG9tei1iRXJzM3c1WDlwZ2h0ZzEzWGNGSXhKTHRYSg?oc=5"
+          },
+          {
+            "label": "Tech Times：AI Hacking Tool ARTEX Survives GitHub Removal; FBI: Some Intrusions Re",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFGSnlmaVNFY2RhRFY2WE5mNloxbHhta19GYnRLekpGUkFUNTBUZWxQLV9OWllYalhWWnBPalNWQ1Y0MGdyWFRBanUxZGdmQ2l1QUgxcWxkQ2VRREt1dW95cjNGZlVfWW5LcUZEaDlqenJfQXFPbk5hMUhNajdORWVkRElfZy1odlBoc2JkSlluYnpwUkp4c0h2eVIwVFZCeko1UlQ5T09VeWtHRXYxQ0VEREJsNXVOM09FNlVCVTJISjZUQWY2QUtjSDNrNUcyQTBmYVZRVVZjNTk3MjlhRXFZRHc?oc=5"
+          },
+          {
+            "label": "Financial Times：Jensen Huang’s fall hits ‘open’ models in boost to Anthropic and OpenA",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVhYSlplNHZVVUFRTlRWc1BIbWFqTFFSWkRLR1NfMUhhazRKRjhLYjM4emVsYU9IRzBKMVlaUlVLZzRsRW40NkZwY3dhNjFwVjVsd29GVGNlcnVPanlOVUw4RWZBdjVWZ0JOb2pBQTJrb3VMZkRSS0tfNUkwN3ZrSThSdDg?oc=5"
+          }
+        ],
+        "source": "cnBeta.COM",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zcjBDQ1pQejloOGRSalpqUEN3RUdlRl91MS0tb2kyZzU2eldHSGRZUURnTk5LeUQyQW12YjFmWEZNaG9tei1iRXJzM3c1WDlwZ2h0ZzEzWGNGSXhKTHRYSg?oc=5"
+      },
       {
         "slug": "open-source-20261115-auto-1-486e15",
         "title": "RoutineMiku/apksta",
