@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261117-auto-1-f68a0b",
+        "title": "Sovereign AI on yo",
+        "category": "AI新闻",
+        "date": "2026-11-17",
+        "summary": "Sovereign AI on your terms: Our new startup accele",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Sovereign AI on yo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Sovereign AI on your terms: Our new startup accele",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Sovereign AI on your terms: Our new startup accele",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Google Cloud：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXE1RzhtOXJsNlF1TzZaWjFKaE9OZXdCVDNpcW8wa2RfUTN2ank3WXNZMlBiOUVsUlFCd2lpbGl2X0FiS24ySUc3U19IMUdBRjRTdGNrOUVldV9YbnRXNEtYRWwwR1RGS3BfSzNQYUJ0YzFBRGJUb3g2UW9QTWpxUTVQNmVrRnZMNVV3NXRoRFh5SjlDdFQyaDVoV2dGTXkwbWIxbkxvNG9naUFRbHc?oc=5"
+          },
+          {
+            "label": "中国教育新闻网：第三届人工智能赋能思想政治教育高质量发展论坛暨四川省高等学校思想政治教育研究会2026年学术年会举行 - 中国教育新闻网",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RNjhESTBPbzhmajFWaHBWWndLbXBSNGxDM2dlUzdpalhHdkYzVmpsRkxyaFdjWUJLY1pYVVd5MmpuX2haTHZYd1FUYmpRX2ltVTduV0NpcFVxQU5pdFhhOXJFaE9jM1lmdjFqM3ExSElPem9E?oc=5"
+          },
+          {
+            "label": "Help Net Security：Google finds AI agent writing and launching exploits with no human in ",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5"
+          }
+        ],
+        "source": "Google Cloud",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXE1RzhtOXJsNlF1TzZaWjFKaE9OZXdCVDNpcW8wa2RfUTN2ank3WXNZMlBiOUVsUlFCd2lpbGl2X0FiS24ySUc3U19IMUdBRjRTdGNrOUVldV9YbnRXNEtYRWwwR1RGS3BfSzNQYUJ0YzFBRGJUb3g2UW9QTWpxUTVQNmVrRnZMNVV3NXRoRFh5SjlDdFQyaDVoV2dGTXkwbWIxbkxvNG9naUFRbHc?oc=5"
+      },
+      {
+        "slug": "ai-news-20261117-auto-2-7500a7",
+        "title": "第三届人工智能赋能思想政治教育高质量",
+        "category": "AI新闻",
+        "date": "2026-11-17",
+        "summary": "第三届人工智能赋能思想政治教育高质量发展论坛暨四川省高等学校思想政治教育研究会2026年学术年会举行",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "第三届人工智能赋能思想政治教育高质量 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "第三届人工智能赋能思想政治教育高质量发展论坛暨四川省高等学校思想政治教育研究会2026年学术年会举行",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "第三届人工智能赋能思想政治教育高质量发展论坛暨四川省高等学校思想政治教育研究会2026年学术年会举行",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中国教育新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RNjhESTBPbzhmajFWaHBWWndLbXBSNGxDM2dlUzdpalhHdkYzVmpsRkxyaFdjWUJLY1pYVVd5MmpuX2haTHZYd1FUYmpRX2ltVTduV0NpcFVxQU5pdFhhOXJFaE9jM1lmdjFqM3ExSElPem9E?oc=5"
+          },
+          {
+            "label": "Google Cloud：Sovereign AI on your terms: Our new startup accelerator is open - Goog",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXE1RzhtOXJsNlF1TzZaWjFKaE9OZXdCVDNpcW8wa2RfUTN2ank3WXNZMlBiOUVsUlFCd2lpbGl2X0FiS24ySUc3U19IMUdBRjRTdGNrOUVldV9YbnRXNEtYRWwwR1RGS3BfSzNQYUJ0YzFBRGJUb3g2UW9QTWpxUTVQNmVrRnZMNVV3NXRoRFh5SjlDdFQyaDVoV2dGTXkwbWIxbkxvNG9naUFRbHc?oc=5"
+          },
+          {
+            "label": "Help Net Security：Google finds AI agent writing and launching exploits with no human in ",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObmFLRGNrSHBwMGRXVi04amxQUkd4QS1KQVU2anBuc0poYW1iN3hidU85aGhJeU45WjFPWERybmlISkZNaVhJVVFLX250aUlMM09UY0F1N1ZUdFNzaEh2MnRlZ1BYUFpBVGNHWEg2blBHanpPVktoN055ZmlESC1BOHp6eUVYUQ?oc=5"
+          }
+        ],
+        "source": "中国教育新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RNjhESTBPbzhmajFWaHBWWndLbXBSNGxDM2dlUzdpalhHdkYzVmpsRkxyaFdjWUJLY1pYVVd5MmpuX2haTHZYd1FUYmpRX2ltVTduV0NpcFVxQU5pdFhhOXJFaE9jM1lmdjFqM3ExSElPem9E?oc=5"
+      },
+      {
         "slug": "ai-news-20261116-auto-1-faf936",
         "title": "Multimodal Artific",
         "category": "AI新闻",
@@ -26499,6 +26615,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261117-auto-1-fdb553",
+        "title": "40岁男子辞职后自学AI“搓”短剧，",
+        "category": "AI使用教程",
+        "date": "2026-11-17",
+        "summary": "40岁男子辞职后自学AI“搓”短剧，花4000元做AI短剧，拿下6000多万热度和6万元增收，本人回",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "40岁男子辞职后自学AI“搓”短剧， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "40岁男子辞职后自学AI“搓”短剧，花4000元做AI短剧，拿下6000多万热度和6万元增收，本人回",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "40岁男子辞职后自学AI“搓”短剧，花4000元做AI短剧，拿下6000多万热度和6万元增收，本人回",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "新浪财经：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUlPVjRFQmVpSlZLNFg0elYzRUdDRE9CdnFub3Z1RGlTWUVOLUplV0J6WkkzRUtYYXZpRHFZNWdMMDdHNkZXaVNCRjctTTZ2WTNGdTBBWjZlUnlTYy1tVGJ1X09IRDVPV2NHMU1kNXJYMU1ZR1lKRnAyVUh0U1ByaG1IVDVybk1iU1VTMGtnUU9vcG5jSEx0Vg?oc=5"
+          },
+          {
+            "label": "中华网：MOTO ME811 怎么样怎么刷机？ME811 刷机 ROOT 教程 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xRUxJMjNQODdKeFQzVHowWnJXTXdFSHZDdFR4Mlp6SWZBR0RGajBkZkp2WHNGa2tucTFKZWFidnd2UU9hRlBYM0N6T0VaVkJlYllNc1F3cGk1NXNyY0ppV0pGZnlOdmM?oc=5"
+          },
+          {
+            "label": "中华网：iPad mini3 怎么降级 11.0.3？iPad mini3 系统降级教程 - 中华网",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGdWk3TlR6aGthMlBGd0tXOXQtSHplaUxCcC1RZTFCUzY1VGs1NnpWVnloMFNjSkxfZ3l0TVpnUTBJOS1uWmpIajFrOVpaa0xvcGVLaU5hZUJiYjljVmJBZVlTT2FGbGc?oc=5"
+          }
+        ],
+        "source": "新浪财经",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUlPVjRFQmVpSlZLNFg0elYzRUdDRE9CdnFub3Z1RGlTWUVOLUplV0J6WkkzRUtYYXZpRHFZNWdMMDdHNkZXaVNCRjctTTZ2WTNGdTBBWjZlUnlTYy1tVGJ1X09IRDVPV2NHMU1kNXJYMU1ZR1lKRnAyVUh0U1ByaG1IVDVybk1iU1VTMGtnUU9vcG5jSEx0Vg?oc=5"
+      },
+      {
         "slug": "ai-guide-20261116-auto-1-b6ca3f",
         "title": "SambaNova携手Intel G",
         "category": "AI使用教程",
@@ -39171,6 +39345,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261117-auto-1-99799a",
+        "title": "FBI Warns AI Hacki",
+        "category": "开源项目",
+        "date": "2026-11-17",
+        "summary": "FBI Warns AI Hacking Tool Artex Can Breach Network",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "FBI Warns AI Hacki 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "FBI Warns AI Hacking Tool Artex Can Breach Network",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "FBI Warns AI Hacking Tool Artex Can Breach Network",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "theopenpress.in：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85NGN0Q1JKMmgtaDRDMEtFdGFZMFhKSEx3N0xpc1dLdzJidWE4dVhDSHhBeVpVRkhYckF0dnV4X3AtbWlzWTBFTXVQdGFjTEdPX2JVaUlMUmVtUWt4NGhvMDF5WnY1b2lmWkpMTnRkdmdITEpFTVZ3eUxMa2o?oc=5"
+          },
+          {
+            "label": "36kr：材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率-36氪 - 36kr",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV2tlTnVLQmtRRlR4OW54V0NmVHNBWVRKMUEyaVNhZmViWmtLbmdnNXdNS2tLSHdSV2ZuQktFZ09iM3I1UFRwbFNsY1Q0TGs?oc=5"
+          },
+          {
+            "label": "Blockchain News：Claude-BugHunter AI Tool Surges on GitHub with 7,681 Stars - Blockchai",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1ZjAxOFowZXE5NGdUUGpJSUZhdXppMVh0ZVZWYUhoTUE1TjZTUXRFVVpkalBfNXhnWlZWaXBhZVMzeWJhSjdwallOZUk4T0Q1TUo1V3gycXFoalVBYjJHQkVHcl9HdGFqaVo1UHhB?oc=5"
+          }
+        ],
+        "source": "theopenpress.in",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85NGN0Q1JKMmgtaDRDMEtFdGFZMFhKSEx3N0xpc1dLdzJidWE4dVhDSHhBeVpVRkhYckF0dnV4X3AtbWlzWTBFTXVQdGFjTEdPX2JVaUlMUmVtUWt4NGhvMDF5WnY1b2lmWkpMTnRkdmdITEpFTVZ3eUxMa2o?oc=5"
+      },
+      {
+        "slug": "open-source-20261117-auto-2-85ad70",
+        "title": "材料科学智能体MatOS正式开源，大",
+        "category": "开源项目",
+        "date": "2026-11-17",
+        "summary": "材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率-36氪 36kr",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "材料科学智能体MatOS正式开源，大 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率-36氪 36kr",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "材料科学智能体MatOS正式开源，大幅提高材料研发任务成功率-36氪 36kr",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "36kr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV2tlTnVLQmtRRlR4OW54V0NmVHNBWVRKMUEyaVNhZmViWmtLbmdnNXdNS2tLSHdSV2ZuQktFZ09iM3I1UFRwbFNsY1Q0TGs?oc=5"
+          },
+          {
+            "label": "theopenpress.in：FBI Warns AI Hacking Tool Artex Can Breach Networks in Under Three Hou",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85NGN0Q1JKMmgtaDRDMEtFdGFZMFhKSEx3N0xpc1dLdzJidWE4dVhDSHhBeVpVRkhYckF0dnV4X3AtbWlzWTBFTXVQdGFjTEdPX2JVaUlMUmVtUWt4NGhvMDF5WnY1b2lmWkpMTnRkdmdITEpFTVZ3eUxMa2o?oc=5"
+          },
+          {
+            "label": "Blockchain News：Claude-BugHunter AI Tool Surges on GitHub with 7,681 Stars - Blockchai",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1ZjAxOFowZXE5NGdUUGpJSUZhdXppMVh0ZVZWYUhoTUE1TjZTUXRFVVpkalBfNXhnWlZWaXBhZVMzeWJhSjdwallOZUk4T0Q1TUo1V3gycXFoalVBYjJHQkVHcl9HdGFqaVo1UHhB?oc=5"
+          }
+        ],
+        "source": "36kr",
+        "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV2tlTnVLQmtRRlR4OW54V0NmVHNBWVRKMUEyaVNhZmViWmtLbmdnNXdNS2tLSHdSV2ZuQktFZ09iM3I1UFRwbFNsY1Q0TGs?oc=5"
+      },
       {
         "slug": "open-source-20261116-auto-1-936da6",
         "title": "AI Hacking Tool AR",
