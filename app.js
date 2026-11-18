@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261118-auto-1-77653b",
+        "title": "Australia seeks jo",
+        "category": "AI新闻",
+        "date": "2026-11-18",
+        "summary": "Australia seeks joint efforts to harness AI opport",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Australia seeks jo 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Australia seeks joint efforts to harness AI opport",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Australia seeks joint efforts to harness AI opport",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Anadolu Ajansı：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0h1YmZXclUyMVNHSGt1d1k3REtvNVNMNDVHaEVzWXRDbHNlNGZjS3o4WVlraHlEX2hxUWtHaGM2eUZEWTQzU1gtLUtRdHV0SXNfNXZqRVY5Y0xRS2JFTkphQmJST1NiWUxQSEcwTTlDSVotN3ZZVUpPRVJWRTZWWFNrcXpGd284MnpZeWlXcmw0QzF2bnZ5SzcxRDVSTnJ4RDlaTjlR?oc=5"
+          },
+          {
+            "label": "AiThority：Guidepoint Introduces Guidepoint MCP, Connecting Its Expert Research T",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOU0yRkFaZXp3bVd2SXhlVEdXcy1LcEpHQzJsbWpROTlKV3NyNDFwZ2ZibTlNUENuWE5sNjBLOS1kd25fcEVTaC05NTZ3aEl0RnExUHdiOWZ1aGZtQm1TWkFnS0U0TFFSUkY0MmVYdzJzYUlMUG1LLVJMQUYxczVDWDcya3RRTlg2N3RrbW55UDNsaTIyQzRyeWI2Y2k5MzY0WjNicUZETEVFaEFwd2Nwb1lQNUJYcHdqdGdIU2hJdlV5aWxvQnd3eUo0WFdUSW5HN0lLRXU2SGFkenhNOFlTLTNfWQ?oc=5"
+          },
+          {
+            "label": "中国教育和科研计算机网：苗启广：以“模数共振”为引擎 让智能服务触手可及 - 中国教育和科研计算机网",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeGdlWkJjcnlkODZoUlZLVlhReG9ZVVRTUy02SlB6UDVHSnBiX2tEM0g4cHpMNFVYUXhlc0lHamNMQW9BU2NhUmx3aVhPcWhLTkMxbWd0ZHZEWHF0dDkwV29QdTF6TG1OcTJpNHZXYU5SNTJfT2F1Yw?oc=5"
+          }
+        ],
+        "source": "Anadolu Ajansı",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0h1YmZXclUyMVNHSGt1d1k3REtvNVNMNDVHaEVzWXRDbHNlNGZjS3o4WVlraHlEX2hxUWtHaGM2eUZEWTQzU1gtLUtRdHV0SXNfNXZqRVY5Y0xRS2JFTkphQmJST1NiWUxQSEcwTTlDSVotN3ZZVUpPRVJWRTZWWFNrcXpGd284MnpZeWlXcmw0QzF2bnZ5SzcxRDVSTnJ4RDlaTjlR?oc=5"
+      },
+      {
+        "slug": "ai-news-20261118-auto-2-54ad4f",
+        "title": "Guidepoint Introdu",
+        "category": "AI新闻",
+        "date": "2026-11-18",
+        "summary": "Guidepoint Introduces Guidepoint MCP, Connecting I",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Guidepoint Introdu 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Guidepoint Introduces Guidepoint MCP, Connecting I",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Guidepoint Introduces Guidepoint MCP, Connecting I",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "AiThority：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOU0yRkFaZXp3bVd2SXhlVEdXcy1LcEpHQzJsbWpROTlKV3NyNDFwZ2ZibTlNUENuWE5sNjBLOS1kd25fcEVTaC05NTZ3aEl0RnExUHdiOWZ1aGZtQm1TWkFnS0U0TFFSUkY0MmVYdzJzYUlMUG1LLVJMQUYxczVDWDcya3RRTlg2N3RrbW55UDNsaTIyQzRyeWI2Y2k5MzY0WjNicUZETEVFaEFwd2Nwb1lQNUJYcHdqdGdIU2hJdlV5aWxvQnd3eUo0WFdUSW5HN0lLRXU2SGFkenhNOFlTLTNfWQ?oc=5"
+          },
+          {
+            "label": "Anadolu Ajansı：Australia seeks joint efforts to harness AI opportunities - Anadolu Aj",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0h1YmZXclUyMVNHSGt1d1k3REtvNVNMNDVHaEVzWXRDbHNlNGZjS3o4WVlraHlEX2hxUWtHaGM2eUZEWTQzU1gtLUtRdHV0SXNfNXZqRVY5Y0xRS2JFTkphQmJST1NiWUxQSEcwTTlDSVotN3ZZVUpPRVJWRTZWWFNrcXpGd284MnpZeWlXcmw0QzF2bnZ5SzcxRDVSTnJ4RDlaTjlR?oc=5"
+          },
+          {
+            "label": "中国教育和科研计算机网：苗启广：以“模数共振”为引擎 让智能服务触手可及 - 中国教育和科研计算机网",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMeGdlWkJjcnlkODZoUlZLVlhReG9ZVVRTUy02SlB6UDVHSnBiX2tEM0g4cHpMNFVYUXhlc0lHamNMQW9BU2NhUmx3aVhPcWhLTkMxbWd0ZHZEWHF0dDkwV29QdTF6TG1OcTJpNHZXYU5SNTJfT2F1Yw?oc=5"
+          }
+        ],
+        "source": "AiThority",
+        "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOU0yRkFaZXp3bVd2SXhlVEdXcy1LcEpHQzJsbWpROTlKV3NyNDFwZ2ZibTlNUENuWE5sNjBLOS1kd25fcEVTaC05NTZ3aEl0RnExUHdiOWZ1aGZtQm1TWkFnS0U0TFFSUkY0MmVYdzJzYUlMUG1LLVJMQUYxczVDWDcya3RRTlg2N3RrbW55UDNsaTIyQzRyeWI2Y2k5MzY0WjNicUZETEVFaEFwd2Nwb1lQNUJYcHdqdGdIU2hJdlV5aWxvQnd3eUo0WFdUSW5HN0lLRXU2SGFkenhNOFlTLTNfWQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261117-auto-1-f68a0b",
         "title": "Sovereign AI on yo",
         "category": "AI新闻",
@@ -26615,6 +26731,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261118-auto-1-57e86b",
+        "title": "转存教程！巧用AI让单词滑进大脑 -",
+        "category": "AI使用教程",
+        "date": "2026-11-18",
+        "summary": "转存教程！巧用AI让单词滑进大脑 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "转存教程！巧用AI让单词滑进大脑 - 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "转存教程！巧用AI让单词滑进大脑 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "转存教程！巧用AI让单词滑进大脑 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RC1YSEpJQUNyQU5TR2o2bTlma2lMQlVRSlExcFJIVWFRS092Y04taWVFUmo3a1RXbHJiWXR6S2Vyd1lHT09iUDQwNzY3VUlsS0JiazIyTjZ3bkxMUlhZQW52Q0p4YlFwaEZVdmMwNXFSUQ?oc=5"
+          },
+          {
+            "label": "OrcaRouter：EchoGram：一个能翻转 AI 护栏判定的 token - OrcaRouter",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1SS12aVBwZkFiWkUxZTdOZkdEalpCZzhtZHJla2tHT3phNlRJYVZUZGZkRkFFbF9ibmhxYzZicVJKbEF4VU45b0ZWQ0ROZWthY0xfYjV6VENOVEZ0TW5CVjNjanVmU3V1SnU3VTBacjJVcWh6cFJ0WllPZEs?oc=5"
+          },
+          {
+            "label": "HackerNoon：418 Blog Posts To Learn About Writing - HackerNoon",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ueE9CUDNMdm43WGszQWZWclotZFB2RVV5MWtqY1oxWjJSMFpHQ2thQzAyOHJ3NE5QZ1FEVTZ2MXk3TUdka3NELU0ybUNabEl3bXhPamZYUFdRUjcxWkg0aVo3aXg1d1J0MzEwRA?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55RC1YSEpJQUNyQU5TR2o2bTlma2lMQlVRSlExcFJIVWFRS092Y04taWVFUmo3a1RXbHJiWXR6S2Vyd1lHT09iUDQwNzY3VUlsS0JiazIyTjZ3bkxMUlhZQW52Q0p4YlFwaEZVdmMwNXFSUQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261117-auto-1-fdb553",
         "title": "40岁男子辞职后自学AI“搓”短剧，",
         "category": "AI使用教程",
@@ -39345,6 +39519,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261118-auto-1-968814",
+        "title": "OVHcloud unveils O",
+        "category": "开源项目",
+        "date": "2026-11-18",
+        "summary": "OVHcloud unveils Olala mini, its first in-house LL",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OVHcloud unveils O 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OVHcloud unveils Olala mini, its first in-house LL",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OVHcloud unveils Olala mini, its first in-house LL",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "IT Brief UK：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkZtNDFaM0hydkp4dXhndG1uS3Z0cEdzaGxFcFNuclMzSlAtckR5Mk1DSkZyS1E5eU9oQ25tenFUWEw4elhldVVPcFNYdS1uVjZnODhKa21Kbkl6Z3RVYmlkRTh5ajZFUHVHZ2R0QXFXckFBRFdyZkZmMkpmQ2VZajY3XzE?oc=5"
+          },
+          {
+            "label": "Pandaily：Tencent Releases Downloadable Hy4 flash Weights in Three Variants - Pa",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjBNeWJCa2lXZ0ZQUkpiUFlrWlktcG9vQ1Zral9peUMtb1NiSXJ3T09EMllXUWcwdGRtWWxRTC1CSzZValB5bXlUN1FFQzNzM0MtS0NOUkZlYVZGNTdxdnVRcmVjZGFQLVFwUS1SNUxPUUZCS3gxNlhHREV6LXZWV19B?oc=5"
+          },
+          {
+            "label": "Fello AI：Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5"
+          }
+        ],
+        "source": "IT Brief UK",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkZtNDFaM0hydkp4dXhndG1uS3Z0cEdzaGxFcFNuclMzSlAtckR5Mk1DSkZyS1E5eU9oQ25tenFUWEw4elhldVVPcFNYdS1uVjZnODhKa21Kbkl6Z3RVYmlkRTh5ajZFUHVHZ2R0QXFXckFBRFdyZkZmMkpmQ2VZajY3XzE?oc=5"
+      },
+      {
+        "slug": "open-source-20261118-auto-2-bfadf6",
+        "title": "Tencent Releases D",
+        "category": "开源项目",
+        "date": "2026-11-18",
+        "summary": "Tencent Releases Downloadable Hy4 flash Weights in",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Tencent Releases D 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Tencent Releases Downloadable Hy4 flash Weights in",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Tencent Releases Downloadable Hy4 flash Weights in",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pandaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjBNeWJCa2lXZ0ZQUkpiUFlrWlktcG9vQ1Zral9peUMtb1NiSXJ3T09EMllXUWcwdGRtWWxRTC1CSzZValB5bXlUN1FFQzNzM0MtS0NOUkZlYVZGNTdxdnVRcmVjZGFQLVFwUS1SNUxPUUZCS3gxNlhHREV6LXZWV19B?oc=5"
+          },
+          {
+            "label": "IT Brief UK：OVHcloud unveils Olala mini, its first in-house LLM - IT Brief UK",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkZtNDFaM0hydkp4dXhndG1uS3Z0cEdzaGxFcFNuclMzSlAtckR5Mk1DSkZyS1E5eU9oQ25tenFUWEw4elhldVVPcFNYdS1uVjZnODhKa21Kbkl6Z3RVYmlkRTh5ajZFUHVHZ2R0QXFXckFBRFdyZkZmMkpmQ2VZajY3XzE?oc=5"
+          },
+          {
+            "label": "Fello AI：Best Free AI Models 2026: What's Free and Where to Use It - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FSGoyTkZPOWtOb0xLUld6QTBoamp3MGg0b2pjcURBaXk2dllWN3B6SlNvYUMxZzdIUnM2UG5JRlVvcDhoY1QxcVlBVQ?oc=5"
+          }
+        ],
+        "source": "Pandaily",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSjBNeWJCa2lXZ0ZQUkpiUFlrWlktcG9vQ1Zral9peUMtb1NiSXJ3T09EMllXUWcwdGRtWWxRTC1CSzZValB5bXlUN1FFQzNzM0MtS0NOUkZlYVZGNTdxdnVRcmVjZGFQLVFwUS1SNUxPUUZCS3gxNlhHREV6LXZWV19B?oc=5"
+      },
       {
         "slug": "open-source-20261117-auto-1-99799a",
         "title": "FBI Warns AI Hacki",
