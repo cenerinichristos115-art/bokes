@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261119-auto-1-b54dc0",
+        "title": "【立方基金通】31家机构入股Deep",
+        "category": "AI新闻",
+        "date": "2026-11-19",
+        "summary": "【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "【立方基金通】31家机构入股Deep 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "大河财立方：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSkpiMmxpaUhBclgwOVlHYzV1dTRaSGlmTC14WFN5Ylh2cEZrY2d0Y3kzUUlULWQ1QjJQMlpkRGZ3OXZBZVppa1pGa250cWN4WFhZQkllOEJzaVVmdVl3TzRJVnRfQ1pqNUE?oc=5"
+          },
+          {
+            "label": "华尔街见闻：习近平会见美国总统特朗普 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uazF2NHhiT3RnVU1EQnFSVGxobWtkdllDUTZsSHhYVFBud3JnREJSbHF1Ty14aVF3WnY4ODl1Q3dVTURRdXRoUkctUEdLdmh3cjk4?oc=5"
+          },
+          {
+            "label": "The Washington Post：The world embraced the AI boom. Now many are having regrets. - The Was",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
+          }
+        ],
+        "source": "大河财立方",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSkpiMmxpaUhBclgwOVlHYzV1dTRaSGlmTC14WFN5Ylh2cEZrY2d0Y3kzUUlULWQ1QjJQMlpkRGZ3OXZBZVppa1pGa250cWN4WFhZQkllOEJzaVVmdVl3TzRJVnRfQ1pqNUE?oc=5"
+      },
+      {
+        "slug": "ai-news-20261119-auto-2-0fc7bf",
+        "title": "习近平会见美国总统特朗普 - 华尔街",
+        "category": "AI新闻",
+        "date": "2026-11-19",
+        "summary": "习近平会见美国总统特朗普 华尔街见闻",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "习近平会见美国总统特朗普 - 华尔街 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "习近平会见美国总统特朗普 华尔街见闻",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "习近平会见美国总统特朗普 华尔街见闻",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "华尔街见闻：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uazF2NHhiT3RnVU1EQnFSVGxobWtkdllDUTZsSHhYVFBud3JnREJSbHF1Ty14aVF3WnY4ODl1Q3dVTURRdXRoUkctUEdLdmh3cjk4?oc=5"
+          },
+          {
+            "label": "大河财立方：【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百万富翁 - 大河财立方",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OSkpiMmxpaUhBclgwOVlHYzV1dTRaSGlmTC14WFN5Ylh2cEZrY2d0Y3kzUUlULWQ1QjJQMlpkRGZ3OXZBZVppa1pGa250cWN4WFhZQkllOEJzaVVmdVl3TzRJVnRfQ1pqNUE?oc=5"
+          },
+          {
+            "label": "The Washington Post：The world embraced the AI boom. Now many are having regrets. - The Was",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
+          }
+        ],
+        "source": "华尔街见闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uazF2NHhiT3RnVU1EQnFSVGxobWtkdllDUTZsSHhYVFBud3JnREJSbHF1Ty14aVF3WnY4ODl1Q3dVTURRdXRoUkctUEdLdmh3cjk4?oc=5"
+      },
+      {
         "slug": "ai-news-20261118-auto-1-77653b",
         "title": "Australia seeks jo",
         "category": "AI新闻",
@@ -26731,6 +26847,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261119-auto-1-fab631",
+        "title": "AI Car Modificatio",
+        "category": "AI使用教程",
+        "date": "2026-11-19",
+        "summary": "AI Car Modification: 7 ChatGPT Prompts Tested on a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI Car Modificatio 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI Car Modification: 7 ChatGPT Prompts Tested on a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI Car Modification: 7 ChatGPT Prompts Tested on a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Fello AI：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FU193bXVJUE5EcHg0bjZ0Nlh1bXlmdEl0blpBV0U2OHJVaTlueWd4NUtqY19vSmJLRzFXNzNEaHgxWldFSjlzMUppbnJEMGFJSHc?oc=5"
+          },
+          {
+            "label": "CSDN：前端工程师的AI协同转型：从写代码到架构AI工作流 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14bXRmRnJXQnJpbzEzbzg4ODE5UFhDckVfczlqX2QxRUNNQUxhOVFqUTZNRi1vWF9yV2V1cENtM0l2YjJJVTRYSzY1Z1Nna2lEQWNwNmo0WjJka2pEYTNXWQ?oc=5"
+          },
+          {
+            "label": "中国新闻网：“AI变现”图书热销 这类书籍如何挑选？ - 中国新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DMXNEN2hBVVNaMWd1MnowVTY4ZFZNY2c5eG1iUkloM1lDSDVpamNmZnZISmF5QnItLW5lVjN3NkcxRjZyZkVhZHZxLTZRV00teFYtZ2ctY1VCQjZzcjd0WFdHSUZ0cEI2dGc?oc=5"
+          }
+        ],
+        "source": "Fello AI",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FU193bXVJUE5EcHg0bjZ0Nlh1bXlmdEl0blpBV0U2OHJVaTlueWd4NUtqY19vSmJLRzFXNzNEaHgxWldFSjlzMUppbnJEMGFJSHc?oc=5"
+      },
+      {
         "slug": "ai-guide-20261118-auto-1-57e86b",
         "title": "转存教程！巧用AI让单词滑进大脑 -",
         "category": "AI使用教程",
@@ -39519,6 +39693,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261119-auto-1-ec2166",
+        "title": "AURA 2.0 Introduce",
+        "category": "开源项目",
+        "date": "2026-11-19",
+        "summary": "AURA 2.0 Introduces Model-Initiated Conversations",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AURA 2.0 Introduce 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AURA 2.0 Introduces Model-Initiated Conversations",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AURA 2.0 Introduces Model-Initiated Conversations",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Blockchain News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12bk1ORko4SkFLNFptTTZYXy1fZWk5amEyNUxia2FUbGc2TVBWS2JiMFdWRHpJTTVxZjM1ak1HRU8tNm51YlQ3YzdNcXgzV2Jjc1pweGlubUZqUUlhMzRzQXhPMlFJZVpTaDdGblhUNA?oc=5"
+          },
+          {
+            "label": "Tbreak UAE：Cloudflare's Clairic models pull data from PDFs and receipts - Tbreak ",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12TjhZeklqTm0tMTRTY01JZ1BBclVLbEttc25RUVYwb1BqaURHeDFjRXFaZngxbDZMQVhwZUpxZVFNT3R1UlctLUc2M3NpTlhRcjdPeGNoZmp4d1hCRUpRMFFIUEczaTFuWUtieFMycERETzVQ?oc=5"
+          },
+          {
+            "label": "Blockchain News：Open-Source ECC Project Gains 1,108 Stars in 24 Hours on GitHub - Bloc",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ekM2ZUNtWUZIbDRBNTZlU0JZYWdmb25wNy1VVzc4SU5ramNjRWpES3hVdFduX200aUZNOWpITHU2OVA1Wi1RU0JXQmNZY3hXN2pUSzJYN2VWZEtDV0pKSzdrSUJUd3c?oc=5"
+          }
+        ],
+        "source": "Blockchain News",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12bk1ORko4SkFLNFptTTZYXy1fZWk5amEyNUxia2FUbGc2TVBWS2JiMFdWRHpJTTVxZjM1ak1HRU8tNm51YlQ3YzdNcXgzV2Jjc1pweGlubUZqUUlhMzRzQXhPMlFJZVpTaDdGblhUNA?oc=5"
+      },
+      {
+        "slug": "open-source-20261119-auto-2-28860c",
+        "title": "Cloudflare's Clair",
+        "category": "开源项目",
+        "date": "2026-11-19",
+        "summary": "Cloudflare's Clairic models pull data from PDFs an",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Cloudflare's Clair 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Cloudflare's Clairic models pull data from PDFs an",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Cloudflare's Clairic models pull data from PDFs an",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Tbreak UAE：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12TjhZeklqTm0tMTRTY01JZ1BBclVLbEttc25RUVYwb1BqaURHeDFjRXFaZngxbDZMQVhwZUpxZVFNT3R1UlctLUc2M3NpTlhRcjdPeGNoZmp4d1hCRUpRMFFIUEczaTFuWUtieFMycERETzVQ?oc=5"
+          },
+          {
+            "label": "Blockchain News：AURA 2.0 Introduces Model-Initiated Conversations in Streaming AI - Bl",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12bk1ORko4SkFLNFptTTZYXy1fZWk5amEyNUxia2FUbGc2TVBWS2JiMFdWRHpJTTVxZjM1ak1HRU8tNm51YlQ3YzdNcXgzV2Jjc1pweGlubUZqUUlhMzRzQXhPMlFJZVpTaDdGblhUNA?oc=5"
+          },
+          {
+            "label": "Blockchain News：Open-Source ECC Project Gains 1,108 Stars in 24 Hours on GitHub - Bloc",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ekM2ZUNtWUZIbDRBNTZlU0JZYWdmb25wNy1VVzc4SU5ramNjRWpES3hVdFduX200aUZNOWpITHU2OVA1Wi1RU0JXQmNZY3hXN2pUSzJYN2VWZEtDV0pKSzdrSUJUd3c?oc=5"
+          }
+        ],
+        "source": "Tbreak UAE",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12TjhZeklqTm0tMTRTY01JZ1BBclVLbEttc25RUVYwb1BqaURHeDFjRXFaZngxbDZMQVhwZUpxZVFNT3R1UlctLUc2M3NpTlhRcjdPeGNoZmp4d1hCRUpRMFFIUEczaTFuWUtieFMycERETzVQ?oc=5"
+      },
       {
         "slug": "open-source-20261118-auto-1-968814",
         "title": "OVHcloud unveils O",
