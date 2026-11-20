@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261120-auto-1-c8cc03",
+        "title": "Artificial Intelli",
+        "category": "AI新闻",
+        "date": "2026-11-20",
+        "summary": "Artificial Intelligence: Part 7 The Portugal News",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Artificial Intelli 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Artificial Intelligence: Part 7 The Portugal News",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Artificial Intelligence: Part 7 The Portugal News",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "The Portugal News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEY1MU9RRDllZHRTRE5ycWhfbExfdHpudmhGNFlFekVzUTlXdVV5WTMtQi1FSWREeE5udkJDVXZ1dm9RaEV6SDNwLXJVMjQ2WDRlZThRRW4zN0M2dXJ2TW8xNkpTcFNaVnkwdkd6SzFpSTYyampWbGFza1gzYTdpTHBKNnFvT1o2TE5ETUR1SQ?oc=5"
+          },
+          {
+            "label": "温州新闻网：更多资讯请下载学习强国客户端 - 温州新闻网",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vQ0l4VXRJXzJPRS1Ib0tBUFh0MW1kd2xicjVOckhVVmhZZHpKeC00a1MxcjFrMVQ1V1RIMWxwSTZ4dGcyNUlmaTV2WW5XZ0Zqay1GTzdZbnRTd3V6SEx5SDN0aVZuQQ?oc=5"
+          },
+          {
+            "label": "매일경제：Google will launch an artificial intelligence (AI) computing satellite",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52aDZ4TVNZbFRMWUZTZDM0ZFBmalhPRldJMkRiNzRDdWN3alV5MjlZTjRDUUdueUdkVUJEdnNqaUFRdm4zLUdLeldpcw?oc=5"
+          }
+        ],
+        "source": "The Portugal News",
+        "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEY1MU9RRDllZHRTRE5ycWhfbExfdHpudmhGNFlFekVzUTlXdVV5WTMtQi1FSWREeE5udkJDVXZ1dm9RaEV6SDNwLXJVMjQ2WDRlZThRRW4zN0M2dXJ2TW8xNkpTcFNaVnkwdkd6SzFpSTYyampWbGFza1gzYTdpTHBKNnFvT1o2TE5ETUR1SQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261120-auto-2-56107a",
+        "title": "更多资讯请下载学习强国客户端 - 温",
+        "category": "AI新闻",
+        "date": "2026-11-20",
+        "summary": "更多资讯请下载学习强国客户端 温州新闻网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "更多资讯请下载学习强国客户端 - 温 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "更多资讯请下载学习强国客户端 温州新闻网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "更多资讯请下载学习强国客户端 温州新闻网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "温州新闻网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vQ0l4VXRJXzJPRS1Ib0tBUFh0MW1kd2xicjVOckhVVmhZZHpKeC00a1MxcjFrMVQ1V1RIMWxwSTZ4dGcyNUlmaTV2WW5XZ0Zqay1GTzdZbnRTd3V6SEx5SDN0aVZuQQ?oc=5"
+          },
+          {
+            "label": "The Portugal News：Artificial Intelligence: Part 7 - The Portugal News",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEY1MU9RRDllZHRTRE5ycWhfbExfdHpudmhGNFlFekVzUTlXdVV5WTMtQi1FSWREeE5udkJDVXZ1dm9RaEV6SDNwLXJVMjQ2WDRlZThRRW4zN0M2dXJ2TW8xNkpTcFNaVnkwdkd6SzFpSTYyampWbGFza1gzYTdpTHBKNnFvT1o2TE5ETUR1SQ?oc=5"
+          },
+          {
+            "label": "매일경제：Google will launch an artificial intelligence (AI) computing satellite",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52aDZ4TVNZbFRMWUZTZDM0ZFBmalhPRldJMkRiNzRDdWN3alV5MjlZTjRDUUdueUdkVUJEdnNqaUFRdm4zLUdLeldpcw?oc=5"
+          }
+        ],
+        "source": "温州新闻网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vQ0l4VXRJXzJPRS1Ib0tBUFh0MW1kd2xicjVOckhVVmhZZHpKeC00a1MxcjFrMVQ1V1RIMWxwSTZ4dGcyNUlmaTV2WW5XZ0Zqay1GTzdZbnRTd3V6SEx5SDN0aVZuQQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261119-auto-1-b54dc0",
         "title": "【立方基金通】31家机构入股Deep",
         "category": "AI新闻",
@@ -26847,6 +26963,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261120-auto-1-efcd75",
+        "title": "Mastering AI in 20",
+        "category": "AI使用教程",
+        "date": "2026-11-20",
+        "summary": "Mastering AI in 2027: How to Pick the Right Course",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Mastering AI in 20 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Mastering AI in 2027: How to Pick the Right Course",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Mastering AI in 2027: How to Pick the Right Course",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "OneArabia：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFd6Wm9qZmVHWlQ5ZW5tT2pQcERPZEdjMENxbVY5ZkducDlTWkdyNXZDSEZGUENyem51SEkybk5VMUlKQkhtOXNVem9BRFNVTWZCNnBLNld6aGp1Ykc1ZDNhbi1nSWJZdlZpandHdEo3R0FQTEdOcV9jUFFtemFJZkFMb0pYOXdQZzN0MWJlNXNPa0JkZ1dBekVsTQ?oc=5"
+          },
+          {
+            "label": "CSDN：贝锐花生壳：不用公网 IP、不改路由器，内网穿透正在被一句提示词改写 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56d0RFUHlVOW1rOGZqOWxJRmhxVXZDOTFxdG4ta0hITlM1WTRlelYzYzQyellNalcxdkhOMVdLdmtOSWpEd002Rmt3TXZWN2RqMGpveFp2QU1rLW5PSEE?oc=5"
+          },
+          {
+            "label": "HackerNoon：LangChain Says Prompt Engineering Will Disappear. Here's What Comes Ne",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdktIY2NyMnk5VDc2WU54VGlSbWVjUjllblFqVGlrSWZkVHVVODg2UXZoOEQwZjRxXzFlWk9QTV9zTExxcTFtNlVCazJQYnppQUNSV3dJLWdROVdRVTBvSlBVYk82Z2tBZU5TQzBGSnZ5d01WdVQtemhYdDZyTDhibVJrZ2hxYzZxNXNtZGpuNjA5WkdmNVZCQg?oc=5"
+          }
+        ],
+        "source": "OneArabia",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFd6Wm9qZmVHWlQ5ZW5tT2pQcERPZEdjMENxbVY5ZkducDlTWkdyNXZDSEZGUENyem51SEkybk5VMUlKQkhtOXNVem9BRFNVTWZCNnBLNld6aGp1Ykc1ZDNhbi1nSWJZdlZpandHdEo3R0FQTEdOcV9jUFFtemFJZkFMb0pYOXdQZzN0MWJlNXNPa0JkZ1dBekVsTQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261119-auto-1-fab631",
         "title": "AI Car Modificatio",
         "category": "AI使用教程",
@@ -39693,6 +39867,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261120-auto-1-fdd6a8",
+        "title": "Terminal 3 and Aff",
+        "category": "开源项目",
+        "date": "2026-11-20",
+        "summary": "Terminal 3 and Affinidi Partner to Launch TENON, a",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Terminal 3 and Aff 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Terminal 3 and Affinidi Partner to Launch TENON, a",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Terminal 3 and Affinidi Partner to Launch TENON, a",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ACROFAN USA：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01Q3R5OUZudHkyalBNV2VhSWttWEtZQkhWMG9oX2JtNzdTVVRsamc2LXpJVVJXS0NTeHhMVjFpREZlSXIyM3JGQS10UmN3X2FCZldDTk5RNlZmRmVK?oc=5"
+          },
+          {
+            "label": "CSDN：5个值得本地部署的开源AI项目：GitHub热门推荐 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KSmJWUkJkdTNxaHBtc3poRnNia1dxNHp6WGRraXpuTVdodG5VVWllbjY5cnU0QXg2Rl9HY181OHljdUtJdldNbXdSS0M5c3JOdUpzdm0zTGFTN2JRaExV?oc=5"
+          },
+          {
+            "label": "华尔街见闻：DeepSeek前成员张博开源Linger项目，主打零token费 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOFNUSEN6ZFZ3Qkwwb3VYa0RXU3BfankyWHBmay1KR29sc09HbG5BZjFLaVBjR0JqbS1kdV9vZGFfeWt0SGZEUkwyZ252ek5mTEtv?oc=5"
+          }
+        ],
+        "source": "ACROFAN USA",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01Q3R5OUZudHkyalBNV2VhSWttWEtZQkhWMG9oX2JtNzdTVVRsamc2LXpJVVJXS0NTeHhMVjFpREZlSXIyM3JGQS10UmN3X2FCZldDTk5RNlZmRmVK?oc=5"
+      },
+      {
+        "slug": "open-source-20261120-auto-2-c9dbee",
+        "title": "5个值得本地部署的开源AI项目：Gi",
+        "category": "开源项目",
+        "date": "2026-11-20",
+        "summary": "5个值得本地部署的开源AI项目：GitHub热门推荐 CSDN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "5个值得本地部署的开源AI项目：Gi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "5个值得本地部署的开源AI项目：GitHub热门推荐 CSDN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "5个值得本地部署的开源AI项目：GitHub热门推荐 CSDN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CSDN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KSmJWUkJkdTNxaHBtc3poRnNia1dxNHp6WGRraXpuTVdodG5VVWllbjY5cnU0QXg2Rl9HY181OHljdUtJdldNbXdSS0M5c3JOdUpzdm0zTGFTN2JRaExV?oc=5"
+          },
+          {
+            "label": "ACROFAN USA：Terminal 3 and Affinidi Partner to Launch TENON, a Public Trust Layer ",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01Q3R5OUZudHkyalBNV2VhSWttWEtZQkhWMG9oX2JtNzdTVVRsamc2LXpJVVJXS0NTeHhMVjFpREZlSXIyM3JGQS10UmN3X2FCZldDTk5RNlZmRmVK?oc=5"
+          },
+          {
+            "label": "华尔街见闻：DeepSeek前成员张博开源Linger项目，主打零token费 - 华尔街见闻",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOFNUSEN6ZFZ3Qkwwb3VYa0RXU3BfankyWHBmay1KR29sc09HbG5BZjFLaVBjR0JqbS1kdV9vZGFfeWt0SGZEUkwyZ252ek5mTEtv?oc=5"
+          }
+        ],
+        "source": "CSDN",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KSmJWUkJkdTNxaHBtc3poRnNia1dxNHp6WGRraXpuTVdodG5VVWllbjY5cnU0QXg2Rl9HY181OHljdUtJdldNbXdSS0M5c3JOdUpzdm0zTGFTN2JRaExV?oc=5"
+      },
       {
         "slug": "open-source-20261119-auto-1-ec2166",
         "title": "AURA 2.0 Introduce",
