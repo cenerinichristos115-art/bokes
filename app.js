@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261121-auto-1-702a65",
+        "title": "AI类岗位扩容、技能人才需求旺 就业",
+        "category": "AI新闻",
+        "date": "2026-11-21",
+        "summary": "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI类岗位扩容、技能人才需求旺 就业 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RRjktV0dhMmVjYWNGUE5yQTh5VENQUTFKWVhiMG1pTUozWjU3aUk5ZkhUVVVKOUp5OFpMRzExOThFc3lKQ25vZFFwcFpSbmlMMWg4N0NpSi0wR1dEVFh1VXRacGpTM1hoZ04wWlY0SlEwQQ?oc=5"
+          },
+          {
+            "label": "Sohu：雁栖资本汇暨科学城新能源产业专班项目投融资对接专场沙龙举办 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN05vMTEwUXNnNExWX0R3T25mVnloZkJtYld5bmYxRWVKMUt6Ql8wZEM2WlNaSG5fUUxNU2tJcTJDSE1rZFprRkFCUXhVeTF1YTVxbm1RTFNsNkZlZTd3bFZuQ25mMXVkdTc4SWFFekRTZXpRZ08yM1d2enF3YlMwQU4zUGdrZkx3Mk1LVw?oc=5"
+          },
+          {
+            "label": "大紀元：中國AI深入美企 美議員呼籲扶持美國模型 - 大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmR0VBd0dvejY4a1ZiS1BwRGxWZW1DRzdVa3NnWEoxb2NFXzh6SzhuVFhxWWVjZVp3eXgxbXRpcENoU21ESGlHWF85QkpkZ2gyR2VvR3lOLWU5SVpncUlJSkZ30gFnQVVfeXFMUENkbzhtLWRUVFpfaFR6VHJFZGdjYVNpdXVmdlRzSklxaG56eENEY2l3Tnludnl2dE1ua3NtYm5La1JkckplSE9td2hPRWVCYzJpUDk4Z0x0ME9CS21YV3l4Q200TlJqQQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RRjktV0dhMmVjYWNGUE5yQTh5VENQUTFKWVhiMG1pTUozWjU3aUk5ZkhUVVVKOUp5OFpMRzExOThFc3lKQ25vZFFwcFpSbmlMMWg4N0NpSi0wR1dEVFh1VXRacGpTM1hoZ04wWlY0SlEwQQ?oc=5"
+      },
+      {
+        "slug": "ai-news-20261121-auto-2-21da38",
+        "title": "雁栖资本汇暨科学城新能源产业专班项目",
+        "category": "AI新闻",
+        "date": "2026-11-21",
+        "summary": "雁栖资本汇暨科学城新能源产业专班项目投融资对接专场沙龙举办 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "雁栖资本汇暨科学城新能源产业专班项目 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "雁栖资本汇暨科学城新能源产业专班项目投融资对接专场沙龙举办 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "雁栖资本汇暨科学城新能源产业专班项目投融资对接专场沙龙举办 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN05vMTEwUXNnNExWX0R3T25mVnloZkJtYld5bmYxRWVKMUt6Ql8wZEM2WlNaSG5fUUxNU2tJcTJDSE1rZFprRkFCUXhVeTF1YTVxbm1RTFNsNkZlZTd3bFZuQ25mMXVkdTc4SWFFekRTZXpRZ08yM1d2enF3YlMwQU4zUGdrZkx3Mk1LVw?oc=5"
+          },
+          {
+            "label": "手机新浪网：AI类岗位扩容、技能人才需求旺 就业市场出现哪些新趋势？ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RRjktV0dhMmVjYWNGUE5yQTh5VENQUTFKWVhiMG1pTUozWjU3aUk5ZkhUVVVKOUp5OFpMRzExOThFc3lKQ25vZFFwcFpSbmlMMWg4N0NpSi0wR1dEVFh1VXRacGpTM1hoZ04wWlY0SlEwQQ?oc=5"
+          },
+          {
+            "label": "大紀元：中國AI深入美企 美議員呼籲扶持美國模型 - 大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmR0VBd0dvejY4a1ZiS1BwRGxWZW1DRzdVa3NnWEoxb2NFXzh6SzhuVFhxWWVjZVp3eXgxbXRpcENoU21ESGlHWF85QkpkZ2gyR2VvR3lOLWU5SVpncUlJSkZ30gFnQVVfeXFMUENkbzhtLWRUVFpfaFR6VHJFZGdjYVNpdXVmdlRzSklxaG56eENEY2l3Tnludnl2dE1ua3NtYm5La1JkckplSE9td2hPRWVCYzJpUDk4Z0x0ME9CS21YV3l4Q200TlJqQQ?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN05vMTEwUXNnNExWX0R3T25mVnloZkJtYld5bmYxRWVKMUt6Ql8wZEM2WlNaSG5fUUxNU2tJcTJDSE1rZFprRkFCUXhVeTF1YTVxbm1RTFNsNkZlZTd3bFZuQ25mMXVkdTc4SWFFekRTZXpRZ08yM1d2enF3YlMwQU4zUGdrZkx3Mk1LVw?oc=5"
+      },
+      {
         "slug": "ai-news-20261120-auto-1-c8cc03",
         "title": "Artificial Intelli",
         "category": "AI新闻",
@@ -26963,6 +27079,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261121-auto-1-0d6239",
+        "title": "200万条金丝雀提示词实测 AI供应",
+        "category": "AI使用教程",
+        "date": "2026-11-21",
+        "summary": "200万条金丝雀提示词实测 AI供应链泄露普遍 www.itsdw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "200万条金丝雀提示词实测 AI供应 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "200万条金丝雀提示词实测 AI供应链泄露普遍 www.itsdw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "200万条金丝雀提示词实测 AI供应链泄露普遍 www.itsdw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.itsdw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tY0VLSGM4Qm5RV0lkZHhSTE9Tal91T29YM0Fwd2R4bE1Sc3p5MVZ4YkZhZVZqY0FOZUhRREVGcG5HVm13dllPcEZJaEo?oc=5"
+          },
+          {
+            "label": "区块周刊BlockWeeks：近200万枚“金丝雀”陷阱撕开AI供应链黑洞：约200组AWS密钥被窃，3家AI托管商遭入侵竟浑然不觉 - 区块周刊BlockWeeks",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aUXczUzhyRkJDRWotbnRDdnllZzJxUHNEZUI5MlhIdmZnR3g5Z0dXM3lxdjFjNktPRTNUVUpYd3p3eVRwODRhQ0hn?oc=5"
+          },
+          {
+            "label": "Google Cloud：Google Cloud latest news and announcements - Google Cloud",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNREwxdGg2aXlreXo5blo4WENaSFZEV2NGckE3MzBTbk1WeDQ5eVJsMkdjdlNnVUx5R1QxbHJSMmVRUmRHbkZWeV9PY2ExYXhxZ19tQnpjTFlPTWtPZy1VWmdxUFBKV2dFZmt2WHR0NmQtUlR6bzRVUVZpcHpVOGVuYnR5UHBUdw?oc=5"
+          }
+        ],
+        "source": "www.itsdw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tY0VLSGM4Qm5RV0lkZHhSTE9Tal91T29YM0Fwd2R4bE1Sc3p5MVZ4YkZhZVZqY0FOZUhRREVGcG5HVm13dllPcEZJaEo?oc=5"
+      },
+      {
         "slug": "ai-guide-20261120-auto-1-efcd75",
         "title": "Mastering AI in 20",
         "category": "AI使用教程",
@@ -39867,6 +40041,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261121-auto-1-bcbcf3",
+        "title": "Thinking Machines",
+        "category": "开源项目",
+        "date": "2026-11-21",
+        "summary": "Thinking Machines releases Inkling 2 Mini, an open",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Thinking Machines 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Thinking Machines releases Inkling 2 Mini, an open",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Thinking Machines releases Inkling 2 Mini, an open",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTlQdnNtb3dsXzBvWkZIQXY5ZHMzdnVBTDdYYjJuZzM0VmxUVm5DNDMzaDN2RTcwSFVZLU5hTG16ZHNLanBZdjFGS200R3A5Q2dHX3QwTmtWMWYzWU4taTNjUGMzQ1g3WkFFWTI2XzRQNHlyZWdTb0M4NkFTamNjX2hhSmNVQ1dPN1RCTE9QZ1lCeUxGeEZTQVhIUlY4S1hp?oc=5"
+          },
+          {
+            "label": "Sohu：Central Park开源智算青年训练营收官 - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjdyMGduUFJiV0xYYjZKRzZBTm5rdUJoWWZLRExBVk9ndlc3ZGJpd0ZxdkZhN0Z1SXRWb1Q4NUlMSkpOX1F0MDRwNlVnY01fQm0zZVNhSHBpVkh6OVV0NGkxSy16b0tFMmZRZDlscFUtZ09RT21FTzE2OERTRWI3UnZQSDNOTWgw?oc=5"
+          },
+          {
+            "label": "CASRAI：Amazon Reports Autonomous AI Agents Exploited MONAI Label Zero-Day on ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZE9PTnVnT3pTREcyOG1RQi03eERVMXd4S29UT0JPcHZfUl8wa0R3M2dHX2Z2UWxtNEFyb0VheUpzX25nMDg1b0xzMXZQZnVfVmJia19zaTlvdHAzS09vMXFVa0ZocHRNcV9CbGppZkNhYjBZaV9YcjRkRk5RTlBBU1BNU244R1BEZ0lpczl6Si14Y1BE?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTlQdnNtb3dsXzBvWkZIQXY5ZHMzdnVBTDdYYjJuZzM0VmxUVm5DNDMzaDN2RTcwSFVZLU5hTG16ZHNLanBZdjFGS200R3A5Q2dHX3QwTmtWMWYzWU4taTNjUGMzQ1g3WkFFWTI2XzRQNHlyZWdTb0M4NkFTamNjX2hhSmNVQ1dPN1RCTE9QZ1lCeUxGeEZTQVhIUlY4S1hp?oc=5"
+      },
+      {
+        "slug": "open-source-20261121-auto-2-4a453d",
+        "title": "Central Park开源智算青年",
+        "category": "开源项目",
+        "date": "2026-11-21",
+        "summary": "Central Park开源智算青年训练营收官 Sohu",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Central Park开源智算青年 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Central Park开源智算青年训练营收官 Sohu",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Central Park开源智算青年训练营收官 Sohu",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjdyMGduUFJiV0xYYjZKRzZBTm5rdUJoWWZLRExBVk9ndlc3ZGJpd0ZxdkZhN0Z1SXRWb1Q4NUlMSkpOX1F0MDRwNlVnY01fQm0zZVNhSHBpVkh6OVV0NGkxSy16b0tFMmZRZDlscFUtZ09RT21FTzE2OERTRWI3UnZQSDNOTWgw?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Thinking Machines releases Inkling 2 Mini, an open model for laptops -",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTlQdnNtb3dsXzBvWkZIQXY5ZHMzdnVBTDdYYjJuZzM0VmxUVm5DNDMzaDN2RTcwSFVZLU5hTG16ZHNLanBZdjFGS200R3A5Q2dHX3QwTmtWMWYzWU4taTNjUGMzQ1g3WkFFWTI2XzRQNHlyZWdTb0M4NkFTamNjX2hhSmNVQ1dPN1RCTE9QZ1lCeUxGeEZTQVhIUlY4S1hp?oc=5"
+          },
+          {
+            "label": "CASRAI：Amazon Reports Autonomous AI Agents Exploited MONAI Label Zero-Day on ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZE9PTnVnT3pTREcyOG1RQi03eERVMXd4S29UT0JPcHZfUl8wa0R3M2dHX2Z2UWxtNEFyb0VheUpzX25nMDg1b0xzMXZQZnVfVmJia19zaTlvdHAzS09vMXFVa0ZocHRNcV9CbGppZkNhYjBZaV9YcjRkRk5RTlBBU1BNU244R1BEZ0lpczl6Si14Y1BE?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjdyMGduUFJiV0xYYjZKRzZBTm5rdUJoWWZLRExBVk9ndlc3ZGJpd0ZxdkZhN0Z1SXRWb1Q4NUlMSkpOX1F0MDRwNlVnY01fQm0zZVNhSHBpVkh6OVV0NGkxSy16b0tFMmZRZDlscFUtZ09RT21FTzE2OERTRWI3UnZQSDNOTWgw?oc=5"
+      },
       {
         "slug": "open-source-20261120-auto-1-fdd6a8",
         "title": "Terminal 3 and Aff",
