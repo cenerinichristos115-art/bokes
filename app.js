@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261122-auto-1-ed2db2",
+        "title": "从经验试错到智能推演，当AI 成为科",
+        "category": "AI新闻",
+        "date": "2026-11-22",
+        "summary": "从经验试错到智能推演，当AI 成为科研“新工具”，赋能多领域基础研究 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "从经验试错到智能推演，当AI 成为科 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "从经验试错到智能推演，当AI 成为科研“新工具”，赋能多领域基础研究 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "从经验试错到智能推演，当AI 成为科研“新工具”，赋能多领域基础研究 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdk9CcGJoT2JOd3FleDJ0N0djR3A5eHBNYTJvZXRVZTA1bzFCUTdWMmtRWlktSDlWZnAxZ3JZQVpJWnBhVUliVE5HRzROVzJpYWdLOE5MbDB5VGpYUURUNzZXUkI4Tl81QmVvQmFjU3ZtUllhM05LM1k0VDlqcVVEQUpR?oc=5"
+          },
+          {
+            "label": "Rediff：Google pledges $5 mn to IIT Kharagpur for AI research - Rediff",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXctMHZrOUFaMlZKMEVWTmJIQ0ZCVFp1cjJxNG1RVWU4YWU5djlJM2p0Ty1xZnRaVzJGQlVJaWVMVnUtTGo3aTNGMXhiWGdkdHczckdrTTE1ZXFVa1pSZlpUX2Y2Zy13c3R6LS1rN2M4VHFLdEJpVnd0UW5DbVhKN3dlOF8zZENLSEZDY2E0ME1fbWRnMkVJRXZUZE9IRTBnc0JvVTFmYVVYT05kVG9Rc0N1dXBMSXpwVnphVWMyWVgzdE9sbU10VnBadjR1Ym5YMlE?oc=5"
+          },
+          {
+            "label": "Fierce Biotech：Danaher teams up with Microsoft to boost ‘experimental execution’ - Fi",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXZaaXpSUjE5aVdndHJseW5Ya210Wjk5LWF1dkExNU1ic25kY2RBcXlkcXl4cHBrMHBQSWw3MGtBZEJjTnNrNG1NZkI3TFV0Q19NdGowajd6cG5BZnIybmpSRGY2MUFOTmtYNERyRFpBWHlrVzBmVmxkSC1HemZJODk1RVF6VXJJTE5nazNndWtQU292?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdk9CcGJoT2JOd3FleDJ0N0djR3A5eHBNYTJvZXRVZTA1bzFCUTdWMmtRWlktSDlWZnAxZ3JZQVpJWnBhVUliVE5HRzROVzJpYWdLOE5MbDB5VGpYUURUNzZXUkI4Tl81QmVvQmFjU3ZtUllhM05LM1k0VDlqcVVEQUpR?oc=5"
+      },
+      {
+        "slug": "ai-news-20261122-auto-2-d3e0ec",
+        "title": "Google pledges $5",
+        "category": "AI新闻",
+        "date": "2026-11-22",
+        "summary": "Google pledges $5 mn to IIT Kharagpur for AI resea",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google pledges $5 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Google pledges $5 mn to IIT Kharagpur for AI resea",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google pledges $5 mn to IIT Kharagpur for AI resea",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Rediff：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXctMHZrOUFaMlZKMEVWTmJIQ0ZCVFp1cjJxNG1RVWU4YWU5djlJM2p0Ty1xZnRaVzJGQlVJaWVMVnUtTGo3aTNGMXhiWGdkdHczckdrTTE1ZXFVa1pSZlpUX2Y2Zy13c3R6LS1rN2M4VHFLdEJpVnd0UW5DbVhKN3dlOF8zZENLSEZDY2E0ME1fbWRnMkVJRXZUZE9IRTBnc0JvVTFmYVVYT05kVG9Rc0N1dXBMSXpwVnphVWMyWVgzdE9sbU10VnBadjR1Ym5YMlE?oc=5"
+          },
+          {
+            "label": "手机新浪网：从经验试错到智能推演，当AI 成为科研“新工具”，赋能多领域基础研究 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdk9CcGJoT2JOd3FleDJ0N0djR3A5eHBNYTJvZXRVZTA1bzFCUTdWMmtRWlktSDlWZnAxZ3JZQVpJWnBhVUliVE5HRzROVzJpYWdLOE5MbDB5VGpYUURUNzZXUkI4Tl81QmVvQmFjU3ZtUllhM05LM1k0VDlqcVVEQUpR?oc=5"
+          },
+          {
+            "label": "Fierce Biotech：Danaher teams up with Microsoft to boost ‘experimental execution’ - Fi",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXZaaXpSUjE5aVdndHJseW5Ya210Wjk5LWF1dkExNU1ic25kY2RBcXlkcXl4cHBrMHBQSWw3MGtBZEJjTnNrNG1NZkI3TFV0Q19NdGowajd6cG5BZnIybmpSRGY2MUFOTmtYNERyRFpBWHlrVzBmVmxkSC1HemZJODk1RVF6VXJJTE5nazNndWtQU292?oc=5"
+          }
+        ],
+        "source": "Rediff",
+        "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXctMHZrOUFaMlZKMEVWTmJIQ0ZCVFp1cjJxNG1RVWU4YWU5djlJM2p0Ty1xZnRaVzJGQlVJaWVMVnUtTGo3aTNGMXhiWGdkdHczckdrTTE1ZXFVa1pSZlpUX2Y2Zy13c3R6LS1rN2M4VHFLdEJpVnd0UW5DbVhKN3dlOF8zZENLSEZDY2E0ME1fbWRnMkVJRXZUZE9IRTBnc0JvVTFmYVVYT05kVG9Rc0N1dXBMSXpwVnphVWMyWVgzdE9sbU10VnBadjR1Ym5YMlE?oc=5"
+      },
+      {
         "slug": "ai-news-20261121-auto-1-702a65",
         "title": "AI类岗位扩容、技能人才需求旺 就业",
         "category": "AI新闻",
@@ -27079,6 +27195,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261122-auto-1-4227ee",
+        "title": "腾讯Chatterfly输入法开启安",
+        "category": "AI使用教程",
+        "date": "2026-11-22",
+        "summary": "腾讯Chatterfly输入法开启安卓内测 支持语音转写与翻译 www.itsdw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "腾讯Chatterfly输入法开启安 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "腾讯Chatterfly输入法开启安卓内测 支持语音转写与翻译 www.itsdw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "腾讯Chatterfly输入法开启安卓内测 支持语音转写与翻译 www.itsdw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.itsdw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pY0lOcDJIOG1EUlZ5T0xYdU1lbVZ0c3JGY0x0T0Rab0c5US1RTFBfX0JydlFaTTV4Y3dpNm9WcktLdU1SZTM5dVJsS2w?oc=5"
+          },
+          {
+            "label": "Unite.AI：特斯拉推出搭载 Reality View 和视觉升级的 FSD V15 - Unite.AI",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlpjS25WNkZocmMzTVJjWmVTb1NHSTdSUDRVOHE5VTM0dUxIcy1xQW5GZ0RHOEtrSmJ6WklSeElZdDVMcDkxakFiX1ZVTlpxamhKWnh6VzJER2NHVk5KTHFjbzVvQ3kzWUVUMXk0YjZPa3hsczh2TjNyVk9VYmd2TEt1T2Q2LUtSRlBXU0FJME84cXc?oc=5"
+          },
+          {
+            "label": "FourWeekMBA：What Is Prompt Injection? How Hidden Text Hijacks AI Agents - FourWeek",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ySWluZWZhLTN6U2k1NHdlX2lCMnItUzBidDRmQnpPSE53Z3RfZnhlRmhZVlJnUWxRTXdJamszaXp4ZjRFWUpOdnBBb01hSy1Lb0xyTVA4RG5OTGlNTVE?oc=5"
+          }
+        ],
+        "source": "www.itsdw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pY0lOcDJIOG1EUlZ5T0xYdU1lbVZ0c3JGY0x0T0Rab0c5US1RTFBfX0JydlFaTTV4Y3dpNm9WcktLdU1SZTM5dVJsS2w?oc=5"
+      },
+      {
         "slug": "ai-guide-20261121-auto-1-0d6239",
         "title": "200万条金丝雀提示词实测 AI供应",
         "category": "AI使用教程",
@@ -40041,6 +40215,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261122-auto-1-f3d217",
+        "title": "MONAI Label Zero-D",
+        "category": "开源项目",
+        "date": "2026-11-22",
+        "summary": "MONAI Label Zero-Day: AI Agents Exploit Medical Im",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MONAI Label Zero-D 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "MONAI Label Zero-Day: AI Agents Exploit Medical Im",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MONAI Label Zero-Day: AI Agents Exploit Medical Im",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Cloud Security Alliance (CSA)：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGVRdmxYQ01aU2hXZzlmR0tSbGp4M0JMVTVFcWI3ZTc5SUhyYXJrYTc4RW93VmlkTzNVR3pXS2pTa2ZEamxXX0R6VE9NTjBpRlF3X204bm0xcE9UNkV3cElGd2hsVnVzdG1Wa0FGeTctZlRTeEhpN0pLdkN3TjdfcXNDOTlxaUplVFYyWWJNRkQ2SHpreTFCbjJoZFVpekhJVjkxMmRQeE11a205QWc?oc=5"
+          },
+          {
+            "label": "Rescana：MONAI Label CVE-2026-133968 Path Traversal Exploited in the Wild: No F",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzFmck1yVzBiakdHZGtBc3NaMmdqUnA5QUR5U0p6NUcxcElLM2Z2MTBqRXdtU2NUMWpOaS1nTi1OcHV5b19hV2F0UHJZNDNORDZDMnVuZkNwWWxYSkJDTmRUb3p6SkpkNjhaRmFORnBXRDZmY0M5R3oxaUlLcmM1WEx2eVBzRC1PNy14bHZ4SXNHNm9WNDJ0TmJtR1RMRmItQTMyei1TeEoycTJmbTFCWQ?oc=5"
+          },
+          {
+            "label": "CASRAI：Thinking Machines releases Inkling 2 Mini, an open-weights looped mode",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0N2RmltdDlNbU9ZQ3Z5dnlMYjJUVDJ6S0s4QlBQLXlVdjVCdzkxVkRwanpMd1JxLWdfR1hpZjFsczAtOFFNSkFONkJlRklDOUkzSUl1TDcyb3JlNkF3cTlqVzFlcVNRLWYzenZtVmdhaUFVdXRXc29SSENmUjB4bUdhdXNjSXc0WDFkQmwzMA?oc=5"
+          }
+        ],
+        "source": "Cloud Security Alliance (CSA)",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGVRdmxYQ01aU2hXZzlmR0tSbGp4M0JMVTVFcWI3ZTc5SUhyYXJrYTc4RW93VmlkTzNVR3pXS2pTa2ZEamxXX0R6VE9NTjBpRlF3X204bm0xcE9UNkV3cElGd2hsVnVzdG1Wa0FGeTctZlRTeEhpN0pLdkN3TjdfcXNDOTlxaUplVFYyWWJNRkQ2SHpreTFCbjJoZFVpekhJVjkxMmRQeE11a205QWc?oc=5"
+      },
+      {
+        "slug": "open-source-20261122-auto-2-a715e8",
+        "title": "MONAI Label CVE-20",
+        "category": "开源项目",
+        "date": "2026-11-22",
+        "summary": "MONAI Label CVE-2026-133968 Path Traversal Exploit",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "MONAI Label CVE-20 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "MONAI Label CVE-2026-133968 Path Traversal Exploit",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "MONAI Label CVE-2026-133968 Path Traversal Exploit",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Rescana：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzFmck1yVzBiakdHZGtBc3NaMmdqUnA5QUR5U0p6NUcxcElLM2Z2MTBqRXdtU2NUMWpOaS1nTi1OcHV5b19hV2F0UHJZNDNORDZDMnVuZkNwWWxYSkJDTmRUb3p6SkpkNjhaRmFORnBXRDZmY0M5R3oxaUlLcmM1WEx2eVBzRC1PNy14bHZ4SXNHNm9WNDJ0TmJtR1RMRmItQTMyei1TeEoycTJmbTFCWQ?oc=5"
+          },
+          {
+            "label": "Cloud Security Alliance (CSA)：MONAI Label Zero-Day: AI Agents Exploit Medical Imaging Research Serve",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGVRdmxYQ01aU2hXZzlmR0tSbGp4M0JMVTVFcWI3ZTc5SUhyYXJrYTc4RW93VmlkTzNVR3pXS2pTa2ZEamxXX0R6VE9NTjBpRlF3X204bm0xcE9UNkV3cElGd2hsVnVzdG1Wa0FGeTctZlRTeEhpN0pLdkN3TjdfcXNDOTlxaUplVFYyWWJNRkQ2SHpreTFCbjJoZFVpekhJVjkxMmRQeE11a205QWc?oc=5"
+          },
+          {
+            "label": "CASRAI：Thinking Machines releases Inkling 2 Mini, an open-weights looped mode",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0N2RmltdDlNbU9ZQ3Z5dnlMYjJUVDJ6S0s4QlBQLXlVdjVCdzkxVkRwanpMd1JxLWdfR1hpZjFsczAtOFFNSkFONkJlRklDOUkzSUl1TDcyb3JlNkF3cTlqVzFlcVNRLWYzenZtVmdhaUFVdXRXc29SSENmUjB4bUdhdXNjSXc0WDFkQmwzMA?oc=5"
+          }
+        ],
+        "source": "Rescana",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzFmck1yVzBiakdHZGtBc3NaMmdqUnA5QUR5U0p6NUcxcElLM2Z2MTBqRXdtU2NUMWpOaS1nTi1OcHV5b19hV2F0UHJZNDNORDZDMnVuZkNwWWxYSkJDTmRUb3p6SkpkNjhaRmFORnBXRDZmY0M5R3oxaUlLcmM1WEx2eVBzRC1PNy14bHZ4SXNHNm9WNDJ0TmJtR1RMRmItQTMyei1TeEoycTJmbTFCWQ?oc=5"
+      },
       {
         "slug": "open-source-20261121-auto-1-bcbcf3",
         "title": "Thinking Machines",
