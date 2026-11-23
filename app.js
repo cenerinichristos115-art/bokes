@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261123-auto-1-700643",
+        "title": "OpenAI’s Reported",
+        "category": "AI新闻",
+        "date": "2026-11-23",
+        "summary": "OpenAI’s Reported AI Phone: What We Know So Far Te",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "OpenAI’s Reported 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "OpenAI’s Reported AI Phone: What We Know So Far Te",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "OpenAI’s Reported AI Phone: What We Know So Far Te",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "TechRepublic：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGpTSkNPNEdteG9QOVR4TWNZOVYzSW1RaTVUVEtvbHdBUEhWb1U0NWhGeWxYc1h5MnZCVGVpVXAzVU9TQjBxaHBKeTZRQjBwUUFmcHV2UmViTUtORmhBa05pTkI5LW5vS2V6ODZwbGJYVEVZNk9TQWV5bFk4bjNHWEUxQnBhd2hqS1l5TA?oc=5"
+          },
+          {
+            "label": "Car Dealership Guy News：New study finds Google car searches losing ground as social media, AI ",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTks3X0hwd0k3c0pPekhod2ZoQndJbHJsWXBueU9uRnAwWV9VblNnWkt6d2ExQkxadXBWOHkyekN1M2FvX2JKTjdCLTAtQ3pxaHFwQ1R2Z2xoUkRvNXc0cTR4cVpvN0JQRFpFLVFPUF9JQnQxdHJvZ29tOXRReVhsVFpMOVhGTU05cjdNYlR0RXVYc0xwdE8wV29rM3psamdUTm9XV2Q4anBNcTFZb2h1dEJBMFVmbG53NkZLOTlfdXA0cGMyaUhDYTVuWQ?oc=5"
+          },
+          {
+            "label": "Bioengineer.org：Dental AI Recommendations Vary Widely Across Repeated Clinical Prompts",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlZoSnpkM25KVVlWSEZqa0Z3TEN5WUthSGdIcnpZT0NLWHAzU1o1WkJ0NnZHOGVHNmVZSkxSekpCVDNkeFpnQXlVTnE3SHVlSDRfeFc2SEdVd01uRU9ZcVVrT0JyYW16WlNsN0RuT0FjQ1NERnBvTDFQZFRQaHFNMzVHRUVQV2ZpT3pCeVowVE52b0RXUHh0Yk15OA?oc=5"
+          }
+        ],
+        "source": "TechRepublic",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGpTSkNPNEdteG9QOVR4TWNZOVYzSW1RaTVUVEtvbHdBUEhWb1U0NWhGeWxYc1h5MnZCVGVpVXAzVU9TQjBxaHBKeTZRQjBwUUFmcHV2UmViTUtORmhBa05pTkI5LW5vS2V6ODZwbGJYVEVZNk9TQWV5bFk4bjNHWEUxQnBhd2hqS1l5TA?oc=5"
+      },
+      {
+        "slug": "ai-news-20261123-auto-2-43d6f1",
+        "title": "New study finds Go",
+        "category": "AI新闻",
+        "date": "2026-11-23",
+        "summary": "New study finds Google car searches losing ground",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "New study finds Go 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "New study finds Google car searches losing ground",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "New study finds Google car searches losing ground",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Car Dealership Guy News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTks3X0hwd0k3c0pPekhod2ZoQndJbHJsWXBueU9uRnAwWV9VblNnWkt6d2ExQkxadXBWOHkyekN1M2FvX2JKTjdCLTAtQ3pxaHFwQ1R2Z2xoUkRvNXc0cTR4cVpvN0JQRFpFLVFPUF9JQnQxdHJvZ29tOXRReVhsVFpMOVhGTU05cjdNYlR0RXVYc0xwdE8wV29rM3psamdUTm9XV2Q4anBNcTFZb2h1dEJBMFVmbG53NkZLOTlfdXA0cGMyaUhDYTVuWQ?oc=5"
+          },
+          {
+            "label": "TechRepublic：OpenAI’s Reported AI Phone: What We Know So Far - TechRepublic",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGpTSkNPNEdteG9QOVR4TWNZOVYzSW1RaTVUVEtvbHdBUEhWb1U0NWhGeWxYc1h5MnZCVGVpVXAzVU9TQjBxaHBKeTZRQjBwUUFmcHV2UmViTUtORmhBa05pTkI5LW5vS2V6ODZwbGJYVEVZNk9TQWV5bFk4bjNHWEUxQnBhd2hqS1l5TA?oc=5"
+          },
+          {
+            "label": "Bioengineer.org：Dental AI Recommendations Vary Widely Across Repeated Clinical Prompts",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlZoSnpkM25KVVlWSEZqa0Z3TEN5WUthSGdIcnpZT0NLWHAzU1o1WkJ0NnZHOGVHNmVZSkxSekpCVDNkeFpnQXlVTnE3SHVlSDRfeFc2SEdVd01uRU9ZcVVrT0JyYW16WlNsN0RuT0FjQ1NERnBvTDFQZFRQaHFNMzVHRUVQV2ZpT3pCeVowVE52b0RXUHh0Yk15OA?oc=5"
+          }
+        ],
+        "source": "Car Dealership Guy News",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTks3X0hwd0k3c0pPekhod2ZoQndJbHJsWXBueU9uRnAwWV9VblNnWkt6d2ExQkxadXBWOHkyekN1M2FvX2JKTjdCLTAtQ3pxaHFwQ1R2Z2xoUkRvNXc0cTR4cVpvN0JQRFpFLVFPUF9JQnQxdHJvZ29tOXRReVhsVFpMOVhGTU05cjdNYlR0RXVYc0xwdE8wV29rM3psamdUTm9XV2Q4anBNcTFZb2h1dEJBMFVmbG53NkZLOTlfdXA0cGMyaUhDYTVuWQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261122-auto-1-ed2db2",
         "title": "从经验试错到智能推演，当AI 成为科",
         "category": "AI新闻",
@@ -27195,6 +27311,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261123-auto-1-b94c50",
+        "title": "研究发现AI请求路由会泄露提示词密码",
+        "category": "AI使用教程",
+        "date": "2026-11-23",
+        "summary": "研究发现AI请求路由会泄露提示词密码 www.itsdw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "研究发现AI请求路由会泄露提示词密码 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "研究发现AI请求路由会泄露提示词密码 www.itsdw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "研究发现AI请求路由会泄露提示词密码 www.itsdw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.itsdw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82RjJVVzdneGhUbUg5eWtfQ0VtbDgwRUdTMDRZMzF5UjllNVRUQ1hBZFlkb253TkxxbjA4VHhsQW1xQnZHaXNyOVJ2YXg?oc=5"
+          },
+          {
+            "label": "Geeky Nigeria：The Most In-Demand Digital Skills in the Modern Job Market - Geeky Nig",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTlxN3NwOVNSRDk0bTBacWp6VUdIRm10UzRpOFYtS29qNXctejdLQ2lneGlDcl9rTWU2ZzU4MVJoTEtzSnllTEtEbzQ4Y01xS0RMUWtaREM4YW1BeXA3SVU0WVladkpVdTFJeENIZExWenE0RW9tRENGTF9CSFVQSXVNbGdrUlBQNzFTNXA2bUJOTmJ6bFE?oc=5"
+          },
+          {
+            "label": "ThePaper.cn：这个专门去文章AI味的工具火了，但争议挺大的 - ThePaper.cn",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EclcyMEtSZE1Mbm1zcHdockJLMWRfdmo0bmVBNW9kWFpqeUxWbFNKVnQ1QjFEOUVoaUNJLXlXSDZWTXZRYnNDRG5nLXV1ZENvVi1OTGdITm5oRUQ2dkNhWHZERFoyR094cktVZ194MklTQQ?oc=5"
+          }
+        ],
+        "source": "www.itsdw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82RjJVVzdneGhUbUg5eWtfQ0VtbDgwRUdTMDRZMzF5UjllNVRUQ1hBZFlkb253TkxxbjA4VHhsQW1xQnZHaXNyOVJ2YXg?oc=5"
+      },
+      {
         "slug": "ai-guide-20261122-auto-1-4227ee",
         "title": "腾讯Chatterfly输入法开启安",
         "category": "AI使用教程",
@@ -40215,6 +40389,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261123-auto-1-60ba57",
+        "title": "Inkling 2 Mini: 20",
+        "category": "开源项目",
+        "date": "2026-11-23",
+        "summary": "Inkling 2 Mini: 2026’s local AI outperforms last y",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Inkling 2 Mini: 20 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Inkling 2 Mini: 2026’s local AI outperforms last y",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Inkling 2 Mini: 2026’s local AI outperforms last y",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Techzine Global：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVBnUmFiRUM4aWhrVzFSMzdJTXlBSjZ0eEU2Z0xfWFlkbUJ3ajZwMEVxQkdOQTJXaDB5T3J0M3hpWDVlM201Q1NvNlJ6WERPRmVlajNsOGZ6T2JkUlluTGJvOEtvVDVMRHNhREhkR251OG5KbkUtY0NyeVU0Um1hSWxSVHRrQ3hnWUpTQXBYZDlfR09HVHZlQWZfdG8tMWNJQWJ4aFRLUGRnRkVXN1E?oc=5"
+          },
+          {
+            "label": "news.lavx.hu：A 17 million line Lean proof of the Riemann hypothesis dwarfs theorem ",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW5sUWl4QVpQczBwTTVIa19GUmVrMzJudnhfTWEyeUozaFRuMWRiTmJEWWRvMktGMjhmTjJLN2pibHZQV1JmaU9nNDAyRkZNLVFWdDEwT3J0TlBRRWFLTVp5WW9hMVctNk9VcUhpZ0Znb0x4UG9qY3JLWUJWQ2tqdG9kODBLWDBuMXRjc0tIQmFCQ2NxSG1DcXBWNlVDbWRqX0dZeVFsdDJIREwz?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：How to map sidewalk accessibility for wheelchair users - Pasquale Pill",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcm1sRGU2YjJDa0ZtSEpqZ3hjRjVtRzlENEpPelhjbmZFeS1wRG40YmpMTmFUYS1Xdk1PdTdkUmZwZ3g0bFJIWnpjQmQyVFQzRUtUdmNUY1B5U0o5RW5ueTBYc1lGQkwxZW9YeExsNEhPVHlDX1lPMGQzTVVsZkgyQjBka0F5SUQySHUwZFJVdjlzVGNVTnd5RU9PN3J1Q2s?oc=5"
+          }
+        ],
+        "source": "Techzine Global",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVBnUmFiRUM4aWhrVzFSMzdJTXlBSjZ0eEU2Z0xfWFlkbUJ3ajZwMEVxQkdOQTJXaDB5T3J0M3hpWDVlM201Q1NvNlJ6WERPRmVlajNsOGZ6T2JkUlluTGJvOEtvVDVMRHNhREhkR251OG5KbkUtY0NyeVU0Um1hSWxSVHRrQ3hnWUpTQXBYZDlfR09HVHZlQWZfdG8tMWNJQWJ4aFRLUGRnRkVXN1E?oc=5"
+      },
+      {
+        "slug": "open-source-20261123-auto-2-346c72",
+        "title": "A 17 million line",
+        "category": "开源项目",
+        "date": "2026-11-23",
+        "summary": "A 17 million line Lean proof of the Riemann hypoth",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "A 17 million line 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "A 17 million line Lean proof of the Riemann hypoth",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "A 17 million line Lean proof of the Riemann hypoth",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "news.lavx.hu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW5sUWl4QVpQczBwTTVIa19GUmVrMzJudnhfTWEyeUozaFRuMWRiTmJEWWRvMktGMjhmTjJLN2pibHZQV1JmaU9nNDAyRkZNLVFWdDEwT3J0TlBRRWFLTVp5WW9hMVctNk9VcUhpZ0Znb0x4UG9qY3JLWUJWQ2tqdG9kODBLWDBuMXRjc0tIQmFCQ2NxSG1DcXBWNlVDbWRqX0dZeVFsdDJIREwz?oc=5"
+          },
+          {
+            "label": "Techzine Global：Inkling 2 Mini: 2026’s local AI outperforms last year’s Claude - Techz",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVBnUmFiRUM4aWhrVzFSMzdJTXlBSjZ0eEU2Z0xfWFlkbUJ3ajZwMEVxQkdOQTJXaDB5T3J0M3hpWDVlM201Q1NvNlJ6WERPRmVlajNsOGZ6T2JkUlluTGJvOEtvVDVMRHNhREhkR251OG5KbkUtY0NyeVU0Um1hSWxSVHRrQ3hnWUpTQXBYZDlfR09HVHZlQWZfdG8tMWNJQWJ4aFRLUGRnRkVXN1E?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：How to map sidewalk accessibility for wheelchair users - Pasquale Pill",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcm1sRGU2YjJDa0ZtSEpqZ3hjRjVtRzlENEpPelhjbmZFeS1wRG40YmpMTmFUYS1Xdk1PdTdkUmZwZ3g0bFJIWnpjQmQyVFQzRUtUdmNUY1B5U0o5RW5ueTBYc1lGQkwxZW9YeExsNEhPVHlDX1lPMGQzTVVsZkgyQjBka0F5SUQySHUwZFJVdjlzVGNVTnd5RU9PN3J1Q2s?oc=5"
+          }
+        ],
+        "source": "news.lavx.hu",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZW5sUWl4QVpQczBwTTVIa19GUmVrMzJudnhfTWEyeUozaFRuMWRiTmJEWWRvMktGMjhmTjJLN2pibHZQV1JmaU9nNDAyRkZNLVFWdDEwT3J0TlBRRWFLTVp5WW9hMVctNk9VcUhpZ0Znb0x4UG9qY3JLWUJWQ2tqdG9kODBLWDBuMXRjc0tIQmFCQ2NxSG1DcXBWNlVDbWRqX0dZeVFsdDJIREwz?oc=5"
+      },
       {
         "slug": "open-source-20261122-auto-1-f3d217",
         "title": "MONAI Label Zero-D",
