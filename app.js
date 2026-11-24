@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261124-auto-1-89d066",
+        "title": "在人工智能推动的风险偏好反弹削弱避险",
+        "category": "AI新闻",
+        "date": "2026-11-24",
+        "summary": "在人工智能推动的风险偏好反弹削弱避险需求、美国PCE数据公布前夕，黄金回落至3,620美元 VT M",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "在人工智能推动的风险偏好反弹削弱避险 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "在人工智能推动的风险偏好反弹削弱避险需求、美国PCE数据公布前夕，黄金回落至3,620美元 VT M",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "在人工智能推动的风险偏好反弹削弱避险需求、美国PCE数据公布前夕，黄金回落至3,620美元 VT M",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "VT Markets：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUlBZDZJRzVNMkZFMW0xS3N3cU1xd2ltWmIzSXc2bmlUY0E5VFRibGg2SlV3MzVtemlLMXdJQVN0bVdxWGJmVG9QUDd2NlNTZUtwck9wbHNld1BwdnlvY0JtUTE3UlNNUUMzbnRLNnNHT3pjUFBabzVTN002UW5GZWJrS2dIWXRRRkZiSWhISHI3dmxHVXE4bUl3R1hQc2VGSTZMX1NlbEJUN3gtMDRHY2JManowUGZDR0I2eXE0MA?oc=5"
+          },
+          {
+            "label": "Modern Ghana：Is Artificial Intelligence Replacing Human Thinking? Growing Threats t",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTZtMHNpemNrdnNiekNIc2piRFlfYjRtaXprbkppT0sxTVl3YmJ1WjFTY0FNcWRIaE43YUtxMVdCSk1YVGtIbHhzU3RVWjRuWXE4emVUelBhWkYtYXlpR3Z5SlAwaV9GMUR5WHY2X2pRWTZJZGJOZVJtdFFhRW50Qy1mdkFrT0xudEY1ck5oQnhOMHlRc0dSeUxMbDfSAZsBQVVfeXFMTWZkWEdWZVNaWnJCcnYtSHZCTl9TNEUzYk5iUmRfdUk3Mmhnb1F5M2VVREdJa2JCSWdnTjAzcDZ1NFk0aFVKOWIxNUVlVF9JWUVlUnphM0RXUmZLSzJrR1VoQ2V0Ri11WHVIQnE5enRMZXo3cVJkWVF0eGlhVzM3dnRBVUsyZEdrd3Q4NUpMMncxT25KRWRtSHc1VkU?oc=5"
+          },
+          {
+            "label": "上观新闻：北电数智亮相国际工程智能大会，展示国产全栈AI落地成果 - 上观新闻",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pSzhNdmlub0NGSG9LREM2dE9adUR4cGpMb1poMUw2VV9CalVmcXJad1hyTXdyNzlKWVRxWDB2TXVDU0pBMm1TYUNBZlVKLWJuaEZjcDNMTU1nNmJTZkE?oc=5"
+          }
+        ],
+        "source": "VT Markets",
+        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUlBZDZJRzVNMkZFMW0xS3N3cU1xd2ltWmIzSXc2bmlUY0E5VFRibGg2SlV3MzVtemlLMXdJQVN0bVdxWGJmVG9QUDd2NlNTZUtwck9wbHNld1BwdnlvY0JtUTE3UlNNUUMzbnRLNnNHT3pjUFBabzVTN002UW5GZWJrS2dIWXRRRkZiSWhISHI3dmxHVXE4bUl3R1hQc2VGSTZMX1NlbEJUN3gtMDRHY2JManowUGZDR0I2eXE0MA?oc=5"
+      },
+      {
+        "slug": "ai-news-20261124-auto-2-e782c8",
+        "title": "Is Artificial Inte",
+        "category": "AI新闻",
+        "date": "2026-11-24",
+        "summary": "Is Artificial Intelligence Replacing Human Thinkin",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Is Artificial Inte 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Is Artificial Intelligence Replacing Human Thinkin",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Is Artificial Intelligence Replacing Human Thinkin",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Modern Ghana：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTZtMHNpemNrdnNiekNIc2piRFlfYjRtaXprbkppT0sxTVl3YmJ1WjFTY0FNcWRIaE43YUtxMVdCSk1YVGtIbHhzU3RVWjRuWXE4emVUelBhWkYtYXlpR3Z5SlAwaV9GMUR5WHY2X2pRWTZJZGJOZVJtdFFhRW50Qy1mdkFrT0xudEY1ck5oQnhOMHlRc0dSeUxMbDfSAZsBQVVfeXFMTWZkWEdWZVNaWnJCcnYtSHZCTl9TNEUzYk5iUmRfdUk3Mmhnb1F5M2VVREdJa2JCSWdnTjAzcDZ1NFk0aFVKOWIxNUVlVF9JWUVlUnphM0RXUmZLSzJrR1VoQ2V0Ri11WHVIQnE5enRMZXo3cVJkWVF0eGlhVzM3dnRBVUsyZEdrd3Q4NUpMMncxT25KRWRtSHc1VkU?oc=5"
+          },
+          {
+            "label": "VT Markets：在人工智能推动的风险偏好反弹削弱避险需求、美国PCE数据公布前夕，黄金回落至3,620美元 - VT Markets",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUlBZDZJRzVNMkZFMW0xS3N3cU1xd2ltWmIzSXc2bmlUY0E5VFRibGg2SlV3MzVtemlLMXdJQVN0bVdxWGJmVG9QUDd2NlNTZUtwck9wbHNld1BwdnlvY0JtUTE3UlNNUUMzbnRLNnNHT3pjUFBabzVTN002UW5GZWJrS2dIWXRRRkZiSWhISHI3dmxHVXE4bUl3R1hQc2VGSTZMX1NlbEJUN3gtMDRHY2JManowUGZDR0I2eXE0MA?oc=5"
+          },
+          {
+            "label": "上观新闻：北电数智亮相国际工程智能大会，展示国产全栈AI落地成果 - 上观新闻",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pSzhNdmlub0NGSG9LREM2dE9adUR4cGpMb1poMUw2VV9CalVmcXJad1hyTXdyNzlKWVRxWDB2TXVDU0pBMm1TYUNBZlVKLWJuaEZjcDNMTU1nNmJTZkE?oc=5"
+          }
+        ],
+        "source": "Modern Ghana",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTZtMHNpemNrdnNiekNIc2piRFlfYjRtaXprbkppT0sxTVl3YmJ1WjFTY0FNcWRIaE43YUtxMVdCSk1YVGtIbHhzU3RVWjRuWXE4emVUelBhWkYtYXlpR3Z5SlAwaV9GMUR5WHY2X2pRWTZJZGJOZVJtdFFhRW50Qy1mdkFrT0xudEY1ck5oQnhOMHlRc0dSeUxMbDfSAZsBQVVfeXFMTWZkWEdWZVNaWnJCcnYtSHZCTl9TNEUzYk5iUmRfdUk3Mmhnb1F5M2VVREdJa2JCSWdnTjAzcDZ1NFk0aFVKOWIxNUVlVF9JWUVlUnphM0RXUmZLSzJrR1VoQ2V0Ri11WHVIQnE5enRMZXo3cVJkWVF0eGlhVzM3dnRBVUsyZEdrd3Q4NUpMMncxT25KRWRtSHc1VkU?oc=5"
+      },
+      {
         "slug": "ai-news-20261123-auto-1-700643",
         "title": "OpenAI’s Reported",
         "category": "AI新闻",
@@ -27311,6 +27427,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261124-auto-1-cf59ab",
+        "title": "nba新赛季揭幕在哪看直播回放视频教",
+        "category": "AI使用教程",
+        "date": "2026-11-24",
+        "summary": "nba新赛季揭幕在哪看直播回放视频教程比赛免费视频观看_nba新赛季揭幕在哪看直播回放视频教程高清无",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "nba新赛季揭幕在哪看直播回放视频教 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "nba新赛季揭幕在哪看直播回放视频教程比赛免费视频观看_nba新赛季揭幕在哪看直播回放视频教程高清无",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "nba新赛季揭幕在哪看直播回放视频教程比赛免费视频观看_nba新赛季揭幕在哪看直播回放视频教程高清无",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "智东西：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oX2dObWZTLXg3RlI4SzFaYXRPSjhhRnZjY0J0WTMxUlItR0VuZ3dDdlprWHR3XzNQaDQ2UEliMFEwUk4tajk2TnVEU3I3VlR3OHcwdmFtUmV6UQ?oc=5"
+          },
+          {
+            "label": "智东西：NBA直播吧_NBA比赛高清直播观看_JRS直播免费无插件_2265安卓网 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQblFVQnJHdFQtRVdZWFNqZExUamZjb3dNWEJpbnczUkxCVWRBbk5wRlNQbG4tU1YzTGltMnVMX1FlTUU0ZHM3WWp3N1JPLS1qOC1nTy1DYUZwclBEZlpVWWhaekJveWprRzBCb08yRldhdGI4S1R2UUhibWdyNTYzS2J2OTAyOW13NmpCS09FTFJ6cXVz?oc=5"
+          },
+          {
+            "label": "智东西：NBA直播_NBA免费在线高清直播_NBA赛事视频在线观看无插件 - JRS直播 - 智东西",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYS0wN1Zoak9KTWp4V3hzb09QSmVNN2g1YmEwck5qVlF0OTBVRG1UcjFGVXpGSENIVl9VM0ZTQnY5Z25XREFhWlJjNHNFSkNMa0RLZEgxNVNfRDBuYVUzcHVNcGFkUTNYai12c21ISFZ0MlhyWTlvVXhUb1lvaFEtWEZUanU5UG4xY2dqNjNEbkktcHky?oc=5"
+          }
+        ],
+        "source": "智东西",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oX2dObWZTLXg3RlI4SzFaYXRPSjhhRnZjY0J0WTMxUlItR0VuZ3dDdlprWHR3XzNQaDQ2UEliMFEwUk4tajk2TnVEU3I3VlR3OHcwdmFtUmV6UQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261123-auto-1-b94c50",
         "title": "研究发现AI请求路由会泄露提示词密码",
         "category": "AI使用教程",
@@ -40389,6 +40563,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261124-auto-1-11a9d6",
+        "title": "迈向具身智能的GPT时刻！Einsi",
+        "category": "开源项目",
+        "date": "2026-11-24",
+        "summary": "迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "迈向具身智能的GPT时刻！Einsi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Sohu：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDY2a2hVT0pYMlFjZE1TeHlFVXJiR2M3OXNlQTNyOFp4cXRjTnduaEl1b2IyWWl2WHdxN3hRS0xVNVc1UFBZQWJXc0t0U0JGMTR0ME0tTVBQeTNRd1VzUVp0MFZfbkxCbm9hMDNkNzlSejVoMTRlaDhpbW9hMTlscVRZNi1QOElf?oc=5"
+          },
+          {
+            "label": "SecNews.gr：Shirudo: OpenAI & Cisco launch AI Linux security tool - SecNews.gr",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMW8xeGUycEhIOVRtV2g2VDh2aDhzQnRRMGRCM21IN0dkR1B0ZC1vV05scF9MNjh6RmMzR0xEcG82a0tyY0dpV09sZUJTWVYwU2RuSHZ1c0sxTXlnYmZndktLZDJWZXByTGVORVJGV0RKRnMwWENTb3o1YUZUdw?oc=5"
+          },
+          {
+            "label": "新华网：蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Qa2ctNTRVY2p1THU4SDhlc1I4Ry1KYnZOMXlES3FRZldIVEM3TUVKTm9DaU5JUDBLY2R3YUx5aXJWaFFWM0t0a0swYlF0M1ZHdk5Rbnl1TnlGNXUtWEkwc0s0b0tSSmNqeGlXcW5tSENHS2ZEaW1OZVhEY3M?oc=5"
+          }
+        ],
+        "source": "Sohu",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDY2a2hVT0pYMlFjZE1TeHlFVXJiR2M3OXNlQTNyOFp4cXRjTnduaEl1b2IyWWl2WHdxN3hRS0xVNVc1UFBZQWJXc0t0U0JGMTR0ME0tTVBQeTNRd1VzUVp0MFZfbkxCbm9hMDNkNzlSejVoMTRlaDhpbW9hMTlscVRZNi1QOElf?oc=5"
+      },
+      {
+        "slug": "open-source-20261124-auto-2-19e06b",
+        "title": "Shirudo: OpenAI &",
+        "category": "开源项目",
+        "date": "2026-11-24",
+        "summary": "Shirudo: OpenAI & Cisco launch AI Linux security t",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Shirudo: OpenAI & 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "Shirudo: OpenAI & Cisco launch AI Linux security t",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Shirudo: OpenAI & Cisco launch AI Linux security t",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SecNews.gr：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMW8xeGUycEhIOVRtV2g2VDh2aDhzQnRRMGRCM21IN0dkR1B0ZC1vV05scF9MNjh6RmMzR0xEcG82a0tyY0dpV09sZUJTWVYwU2RuSHZ1c0sxTXlnYmZndktLZDJWZXByTGVORVJGV0RKRnMwWENTb3o1YUZUdw?oc=5"
+          },
+          {
+            "label": "Sohu：迈向具身智能的GPT时刻！Einsia AI开源首个万级具身RL环境RoboUniverse-10K - Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaDY2a2hVT0pYMlFjZE1TeHlFVXJiR2M3OXNlQTNyOFp4cXRjTnduaEl1b2IyWWl2WHdxN3hRS0xVNVc1UFBZQWJXc0t0U0JGMTR0ME0tTVBQeTNRd1VzUVp0MFZfbkxCbm9hMDNkNzlSejVoMTRlaDhpbW9hMTlscVRZNi1QOElf?oc=5"
+          },
+          {
+            "label": "新华网：蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源 - 新华网",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Qa2ctNTRVY2p1THU4SDhlc1I4Ry1KYnZOMXlES3FRZldIVEM3TUVKTm9DaU5JUDBLY2R3YUx5aXJWaFFWM0t0a0swYlF0M1ZHdk5Rbnl1TnlGNXUtWEkwc0s0b0tSSmNqeGlXcW5tSENHS2ZEaW1OZVhEY3M?oc=5"
+          }
+        ],
+        "source": "SecNews.gr",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FMW8xeGUycEhIOVRtV2g2VDh2aDhzQnRRMGRCM21IN0dkR1B0ZC1vV05scF9MNjh6RmMzR0xEcG82a0tyY0dpV09sZUJTWVYwU2RuSHZ1c0sxTXlnYmZndktLZDJWZXByTGVORVJGV0RKRnMwWENTb3o1YUZUdw?oc=5"
+      },
       {
         "slug": "open-source-20261123-auto-1-60ba57",
         "title": "Inkling 2 Mini: 20",
