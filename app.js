@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261125-auto-1-a4125d",
+        "title": "What is a thought",
+        "category": "AI新闻",
+        "date": "2026-11-25",
+        "summary": "What is a thought made of? Why human consciousness",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "What is a thought 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "What is a thought made of? Why human consciousness",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "What is a thought made of? Why human consciousness",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "ScienceDaily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yQ0M1WkVUbm16YVZTSllvN2ZmSk9qX3FuZllVbUhhYXJia1EwTlJsMTFzUEJHQXY3TDdrdncyMUViN2xEMTg2Ui1lczlFTE9SeWxNSE9KNVRaVllKaUJOSF9XTm5xTHF0dUNBYUtR?oc=5"
+          },
+          {
+            "label": "Dataconomy：California Sues OpenAI Over 80 Alleged Autonomous AI Agent Escapes - D",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFpvODk0VlY2TXpnci14N0gyLXpfdDJWQ0VBekJGS1FGYXJidXRBTHY4YUFkSEctbVI2OW5rbzJFVEV1dDFOcWRncGZPZVlldXBPYndUTDRQVG5lcjROd25OM25kWFp4Um1Wamp3bFZINXpRVkF1SVJrZ0JFSHdRSUJPNDlpZnRpZm1kaWlxbXk4QXNlR1N5aw?oc=5"
+          },
+          {
+            "label": "清华大学公共管理学院：“人工智能对就业的影响”国际学术交流会（2026年11月27日星期五9:00-17:30） - 清华大学公共管理学院",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WR1h6czVQcmF5OVZ3aDFfLW81NVZEUGNRMFJORkMzbklGLXNlZGxJTU1yMjQ0U01GWUpJUmNiUjMwdXVvLWk3ZmNwcjhHVVZEc09GTEYyVnRSZ1VqZE1VSA?oc=5"
+          }
+        ],
+        "source": "ScienceDaily",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yQ0M1WkVUbm16YVZTSllvN2ZmSk9qX3FuZllVbUhhYXJia1EwTlJsMTFzUEJHQXY3TDdrdncyMUViN2xEMTg2Ui1lczlFTE9SeWxNSE9KNVRaVllKaUJOSF9XTm5xTHF0dUNBYUtR?oc=5"
+      },
+      {
+        "slug": "ai-news-20261125-auto-2-40f157",
+        "title": "California Sues Op",
+        "category": "AI新闻",
+        "date": "2026-11-25",
+        "summary": "California Sues OpenAI Over 80 Alleged Autonomous",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "California Sues Op 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "California Sues OpenAI Over 80 Alleged Autonomous",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "California Sues OpenAI Over 80 Alleged Autonomous",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Dataconomy：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFpvODk0VlY2TXpnci14N0gyLXpfdDJWQ0VBekJGS1FGYXJidXRBTHY4YUFkSEctbVI2OW5rbzJFVEV1dDFOcWRncGZPZVlldXBPYndUTDRQVG5lcjROd25OM25kWFp4Um1Wamp3bFZINXpRVkF1SVJrZ0JFSHdRSUJPNDlpZnRpZm1kaWlxbXk4QXNlR1N5aw?oc=5"
+          },
+          {
+            "label": "ScienceDaily：What is a thought made of? Why human consciousness may be beyond AI’s ",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yQ0M1WkVUbm16YVZTSllvN2ZmSk9qX3FuZllVbUhhYXJia1EwTlJsMTFzUEJHQXY3TDdrdncyMUViN2xEMTg2Ui1lczlFTE9SeWxNSE9KNVRaVllKaUJOSF9XTm5xTHF0dUNBYUtR?oc=5"
+          },
+          {
+            "label": "清华大学公共管理学院：“人工智能对就业的影响”国际学术交流会（2026年11月27日星期五9:00-17:30） - 清华大学公共管理学院",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WR1h6czVQcmF5OVZ3aDFfLW81NVZEUGNRMFJORkMzbklGLXNlZGxJTU1yMjQ0U01GWUpJUmNiUjMwdXVvLWk3ZmNwcjhHVVZEc09GTEYyVnRSZ1VqZE1VSA?oc=5"
+          }
+        ],
+        "source": "Dataconomy",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdFpvODk0VlY2TXpnci14N0gyLXpfdDJWQ0VBekJGS1FGYXJidXRBTHY4YUFkSEctbVI2OW5rbzJFVEV1dDFOcWRncGZPZVlldXBPYndUTDRQVG5lcjROd25OM25kWFp4Um1Wamp3bFZINXpRVkF1SVJrZ0JFSHdRSUJPNDlpZnRpZm1kaWlxbXk4QXNlR1N5aw?oc=5"
+      },
+      {
         "slug": "ai-news-20261124-auto-1-89d066",
         "title": "在人工智能推动的风险偏好反弹削弱避险",
         "category": "AI新闻",
@@ -27427,6 +27543,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261125-auto-1-2c646b",
+        "title": "Sand.ai发布480B参数视频生",
+        "category": "AI使用教程",
+        "date": "2026-11-25",
+        "summary": "Sand.ai发布480B参数视频生成模型MAGI-2 www.itsdw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Sand.ai发布480B参数视频生 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Sand.ai发布480B参数视频生成模型MAGI-2 www.itsdw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Sand.ai发布480B参数视频生成模型MAGI-2 www.itsdw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.itsdw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTUVpxRkV2ZjUwREI5T2J3bmxoWlBpM2lPVkNZYjR1aU05ZVAtVFNscGd4a1hKd2M3OU4wOV9tb2RpWHQ1ZmFiWUU0Nnk?oc=5"
+          },
+          {
+            "label": "浙江新闻：用Vibe Coding“手搓” 应用？这个“逆袭剧本”对普通人来说没那么简单 - 浙江新闻",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52S3N2bGNVM3ZPT2xIbHQxMGhjZ1RUOGtnYVpqaGxvWS1PMEJlM1MxaWdlQi1sTmZlSlJoQUI2VDIzOVdicmtWYkgyUHJRTXhzUjlGNmY3U3JyRzk1RHhRRUd3blNzZkp3ZEpJSzQ1LVZMVkk?oc=5"
+          },
+          {
+            "label": "驱动之家：《GTA6》成人女网红用AI代聊翻车！只想捞钱太讽刺 - 驱动之家",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44MlBNX192WU5oRmFQcDI1dTIyZzVkYW9KcjBEVXcyTlRDNExqZ0VaeGJJZV9EWGRNNDdGbnA3dUItVVpaM1RtWjlmRWk1dm1GcEN5NlVPUjk?oc=5"
+          }
+        ],
+        "source": "www.itsdw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTUVpxRkV2ZjUwREI5T2J3bmxoWlBpM2lPVkNZYjR1aU05ZVAtVFNscGd4a1hKd2M3OU4wOV9tb2RpWHQ1ZmFiWUU0Nnk?oc=5"
+      },
+      {
         "slug": "ai-guide-20261124-auto-1-cf59ab",
         "title": "nba新赛季揭幕在哪看直播回放视频教",
         "category": "AI使用教程",
@@ -40563,6 +40737,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261125-auto-1-245038",
+        "title": "Ant Group opens it",
+        "category": "开源项目",
+        "date": "2026-11-25",
+        "summary": "Ant Group opens its health AI to the world — and A",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Ant Group opens it 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Ant Group opens its health AI to the world — and A",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Ant Group opens its health AI to the world — and A",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Business Insider Africa：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkdyWFlvVTFKWHdaUENhbUxLQzlaWXRWTVVoMXc4dWNOdWxOckRsZ3RPd3hJTGx1LV9QYTN4VkNYcGdxR2d5cE5wNmw5NDJwdmpLOHFGSWVKd1ZOTGg3VE5EOFV2S1FoMEJUWmtZZ083Q2hwa3lUNEYtVE5oNEJ4TG9hSWVPSXVJYW96UEF6Wm9pc25IX0pzcVl1Nk9CUVhTOGNUelB4NEkyUWxYa0lFc1JzR0dieXpQclBCc1RmZDFOQ3VTRGduVEdfUGRzVm9uUFZScQ?oc=5"
+          },
+          {
+            "label": "www.itsdw.cn：谷歌开源AI评测框架gBench 内置86个评估套件 - www.itsdw.cn",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oeXJtdnVzSW5WN0N3LUlNY0lQS0tHaVNiNFNFZ2ZlRHRFakh1bDdGNTh0RnVYQ2NtckNabFI3UjkzS2o2elpjQkN2bkI?oc=5"
+          },
+          {
+            "label": "MLQ.ai：Baidu posts ERNIE 5.5 Flash Preview weights on Hugging Face under an A",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFI0SGFfdzhGVFd3NnJyM0VILVFWeFplNGp5QURTVlV2T18xbmVEZkJON2pGS0R5c0hVLTlvbWFtTllrNFNsUGFGMWE3cEdlbWZtR2MyblJqcEgyWjhzNTktSUN0bDVRYUZtQUlQUFBaTzRHSExsbGFTbUk1OW04cUJZSkVQTzJwVHFJSUg3VmEtTnZZcTRJR1NSTExYN3BLZFZFZEE5NVZzdw?oc=5"
+          }
+        ],
+        "source": "Business Insider Africa",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkdyWFlvVTFKWHdaUENhbUxLQzlaWXRWTVVoMXc4dWNOdWxOckRsZ3RPd3hJTGx1LV9QYTN4VkNYcGdxR2d5cE5wNmw5NDJwdmpLOHFGSWVKd1ZOTGg3VE5EOFV2S1FoMEJUWmtZZ083Q2hwa3lUNEYtVE5oNEJ4TG9hSWVPSXVJYW96UEF6Wm9pc25IX0pzcVl1Nk9CUVhTOGNUelB4NEkyUWxYa0lFc1JzR0dieXpQclBCc1RmZDFOQ3VTRGduVEdfUGRzVm9uUFZScQ?oc=5"
+      },
+      {
+        "slug": "open-source-20261125-auto-2-862ca3",
+        "title": "谷歌开源AI评测框架gBench 内",
+        "category": "开源项目",
+        "date": "2026-11-25",
+        "summary": "谷歌开源AI评测框架gBench 内置86个评估套件 www.itsdw.cn",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "谷歌开源AI评测框架gBench 内 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "谷歌开源AI评测框架gBench 内置86个评估套件 www.itsdw.cn",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "谷歌开源AI评测框架gBench 内置86个评估套件 www.itsdw.cn",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "www.itsdw.cn：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oeXJtdnVzSW5WN0N3LUlNY0lQS0tHaVNiNFNFZ2ZlRHRFakh1bDdGNTh0RnVYQ2NtckNabFI3UjkzS2o2elpjQkN2bkI?oc=5"
+          },
+          {
+            "label": "Business Insider Africa：Ant Group opens its health AI to the world — and Africa’s stretched do",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkdyWFlvVTFKWHdaUENhbUxLQzlaWXRWTVVoMXc4dWNOdWxOckRsZ3RPd3hJTGx1LV9QYTN4VkNYcGdxR2d5cE5wNmw5NDJwdmpLOHFGSWVKd1ZOTGg3VE5EOFV2S1FoMEJUWmtZZ083Q2hwa3lUNEYtVE5oNEJ4TG9hSWVPSXVJYW96UEF6Wm9pc25IX0pzcVl1Nk9CUVhTOGNUelB4NEkyUWxYa0lFc1JzR0dieXpQclBCc1RmZDFOQ3VTRGduVEdfUGRzVm9uUFZScQ?oc=5"
+          },
+          {
+            "label": "MLQ.ai：Baidu posts ERNIE 5.5 Flash Preview weights on Hugging Face under an A",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFI0SGFfdzhGVFd3NnJyM0VILVFWeFplNGp5QURTVlV2T18xbmVEZkJON2pGS0R5c0hVLTlvbWFtTllrNFNsUGFGMWE3cEdlbWZtR2MyblJqcEgyWjhzNTktSUN0bDVRYUZtQUlQUFBaTzRHSExsbGFTbUk1OW04cUJZSkVQTzJwVHFJSUg3VmEtTnZZcTRJR1NSTExYN3BLZFZFZEE5NVZzdw?oc=5"
+          }
+        ],
+        "source": "www.itsdw.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oeXJtdnVzSW5WN0N3LUlNY0lQS0tHaVNiNFNFZ2ZlRHRFakh1bDdGNTh0RnVYQ2NtckNabFI3UjkzS2o2elpjQkN2bkI?oc=5"
+      },
       {
         "slug": "open-source-20261124-auto-1-11a9d6",
         "title": "迈向具身智能的GPT时刻！Einsi",
