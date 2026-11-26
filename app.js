@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261126-auto-1-7848a1",
+        "title": "Google patent reve",
+        "category": "AI新闻",
+        "date": "2026-11-26",
+        "summary": "Google patent reveals an AI TV channel where you'r",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Google patent reve 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Google patent reveals an AI TV channel where you'r",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Google patent reveals an AI TV channel where you'r",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmNMYU1vMEp3OHdpanUzV0l4T0ZUdFNpQVlCNEtqMnNuRWtEUUgyS3BVRWNNX1Q3clVEV2ZLdDVjdDA1bERrZ1hIVnEtaXNmM2stOEtYTHZ3Ujc4SkxfVVI3dGxYdVFHaVFtVWZIUmxkek9rYVRTNEdnQ2pmaUJMa0RIQ29pS1BZM2FUYTFqaFRkdDRLbWgw?oc=5"
+          },
+          {
+            "label": "CT Insider：650 listings — AI jobs are growing in Connecticut. What you need to kn",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSURBUlRndk9SdU9jdUdjTGlHcE41aWhWVnByOUxHNzcwdXEzUFdBRmFfdG0tc0Z4ZUc2a3k5MW80d3RjTlhBNXBpd3BwcHNpTWQ3eUtuVGpnN3FOU3UzQjZlM0pSX09kUXg0cWJBOWFjRV9HWHJ4MFhiNFNwb3BBVkZ0eFNfN3BDU1B4eQ?oc=5"
+          },
+          {
+            "label": "CTech：AI is increasingly replacing software developers, while lawyers are us",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94ZkNoZk1OeW4wby05bUFrQ29iWXB2dl92RkxvMU5UQ0pDXzN0SzkyWVA2enNtVEdIV2JzZWdSWHBXSzJlZ0lYN1pCMGdWQkVpdkZLaGx4cWVyUUpUZURNd3k4X1JVN2c?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmNMYU1vMEp3OHdpanUzV0l4T0ZUdFNpQVlCNEtqMnNuRWtEUUgyS3BVRWNNX1Q3clVEV2ZLdDVjdDA1bERrZ1hIVnEtaXNmM2stOEtYTHZ3Ujc4SkxfVVI3dGxYdVFHaVFtVWZIUmxkek9rYVRTNEdnQ2pmaUJMa0RIQ29pS1BZM2FUYTFqaFRkdDRLbWgw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261126-auto-2-70eeb8",
+        "title": "650 listings — AI",
+        "category": "AI新闻",
+        "date": "2026-11-26",
+        "summary": "650 listings — AI jobs are growing in Connecticut.",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "650 listings — AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "650 listings — AI jobs are growing in Connecticut.",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "650 listings — AI jobs are growing in Connecticut.",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CT Insider：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSURBUlRndk9SdU9jdUdjTGlHcE41aWhWVnByOUxHNzcwdXEzUFdBRmFfdG0tc0Z4ZUc2a3k5MW80d3RjTlhBNXBpd3BwcHNpTWQ3eUtuVGpnN3FOU3UzQjZlM0pSX09kUXg0cWJBOWFjRV9HWHJ4MFhiNFNwb3BBVkZ0eFNfN3BDU1B4eQ?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Google patent reveals an AI TV channel where you're the star - Pasqual",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQmNMYU1vMEp3OHdpanUzV0l4T0ZUdFNpQVlCNEtqMnNuRWtEUUgyS3BVRWNNX1Q3clVEV2ZLdDVjdDA1bERrZ1hIVnEtaXNmM2stOEtYTHZ3Ujc4SkxfVVI3dGxYdVFHaVFtVWZIUmxkek9rYVRTNEdnQ2pmaUJMa0RIQ29pS1BZM2FUYTFqaFRkdDRLbWgw?oc=5"
+          },
+          {
+            "label": "CTech：AI is increasingly replacing software developers, while lawyers are us",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94ZkNoZk1OeW4wby05bUFrQ29iWXB2dl92RkxvMU5UQ0pDXzN0SzkyWVA2enNtVEdIV2JzZWdSWHBXSzJlZ0lYN1pCMGdWQkVpdkZLaGx4cWVyUUpUZURNd3k4X1JVN2c?oc=5"
+          }
+        ],
+        "source": "CT Insider",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSURBUlRndk9SdU9jdUdjTGlHcE41aWhWVnByOUxHNzcwdXEzUFdBRmFfdG0tc0Z4ZUc2a3k5MW80d3RjTlhBNXBpd3BwcHNpTWQ3eUtuVGpnN3FOU3UzQjZlM0pSX09kUXg0cWJBOWFjRV9HWHJ4MFhiNFNwb3BBVkZ0eFNfN3BDU1B4eQ?oc=5"
+      },
+      {
         "slug": "ai-news-20261125-auto-1-a4125d",
         "title": "What is a thought",
         "category": "AI新闻",
@@ -27543,6 +27659,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261126-auto-1-575e63",
+        "title": "Openreach puts AI",
+        "category": "AI使用教程",
+        "date": "2026-11-26",
+        "summary": "Openreach puts AI guidance tool within reach of 10",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Openreach puts AI 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Openreach puts AI guidance tool within reach of 10",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Openreach puts AI guidance tool within reach of 10",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Superpower Daily：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUI2T1ViYlh6ZkZPWnphLVN6T3pLaHItcWZMMGxDYlJfNGpJbnhXbjFJOTY1eHE2ZDFqWndzelJmYnctbENVb2VwNDB2WjRUcmlPTUNmbzR1LXlSYTcxNU9FdFl2Y2RxMXFYalJDdlFYWjlZSXliU3Nib3dGU0FSSUFfZ3lhRDBRVF96UVpsTzNLVnJSMDNIRTA0YUttaXJCS3BVaEQ5MHRrZw?oc=5"
+          },
+          {
+            "label": "디지털투데이：GitHub隐藏提示词激增：AI可读、人眼难辨，安全风险抬头 - 디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVFUzMtM0xDYzROWmM5ZHNQdm84cmF4SFEzcFNJMHdoX0tMQUlUQlR0dmFDVVVXeVBQNGhySC1iell0eFRvWW03endYZzZMdDRoZW9Qd25LMzQ4enRJVkw1Um5Ya2RGYV94ZzNCZ2N4T213S1ZUMEFCOWV4R1Jkb2UtMkdlckJGd2hPSU5jN216UVpTWWNubzcxcDhZbkE?oc=5"
+          },
+          {
+            "label": "CSDN：AI编程的本质是人机协作契约，不是代码生成 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DVU9mYTQ0bUVZWUdSRDFSR0psUkwwRHpFaUxDM2RzUkxZSjNRQi1vbEo3SkhfZEpxQnFKTGRzNWJ1NkVVSW5aaGxISl90d2pwTEZlUnV5alVaVmp6RVRr?oc=5"
+          }
+        ],
+        "source": "Superpower Daily",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUI2T1ViYlh6ZkZPWnphLVN6T3pLaHItcWZMMGxDYlJfNGpJbnhXbjFJOTY1eHE2ZDFqWndzelJmYnctbENVb2VwNDB2WjRUcmlPTUNmbzR1LXlSYTcxNU9FdFl2Y2RxMXFYalJDdlFYWjlZSXliU3Nib3dGU0FSSUFfZ3lhRDBRVF96UVpsTzNLVnJSMDNIRTA0YUttaXJCS3BVaEQ5MHRrZw?oc=5"
+      },
+      {
         "slug": "ai-guide-20261125-auto-1-2c646b",
         "title": "Sand.ai发布480B参数视频生",
         "category": "AI使用教程",
@@ -40737,6 +40911,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261126-auto-1-631308",
+        "title": "BharatGen launches",
+        "category": "开源项目",
+        "date": "2026-11-26",
+        "summary": "BharatGen launches Patram 1.5, a made-in-India AI",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "BharatGen launches 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "BharatGen launches Patram 1.5, a made-in-India AI",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "BharatGen launches Patram 1.5, a made-in-India AI",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "India Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5"
+          },
+          {
+            "label": "Analytics India Magazine：BharatGen Launches Patram 1.5, a 7B Vision-Language Model for Document",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFFhQ1p4dmhFLUtiT1Y4d3Z1WmhwT0M1M0sxTUlfQ0pibVQxOGhLUThNWTlCcUx4VFBPV1l6Y09LQTBLNlZOaGRyaEpRUG9jNzNNbnJVT0RCRWF0aVJMQXVzSFk5LVUyOVh3T0EzRHlscjcyNUhGNVdPWTV4a3QySW56UWJBOUROXzh1cThCQkdnZ1NTQWJaNVNrUEpqMWRkczdGdXVZajg0X2JEcTMtWDRLOXZYSnlW?oc=5"
+          },
+          {
+            "label": "Tech Times：Hugging Face AI Agent Swarm Report: Server Blocked Admin Token Attempt",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUHdHQ2Z2R2tiTnVfU1BnZXRJdWJtWjlYR3J0R2JRLUxwYlNLeXoxRFRnRmxWeTRGbUhKM3BwT2d2VUg0OVZ3OG5KTjIyME0yeFhkcU9GZTJSb2gyaHZ6d1piNU9ZWVRDb1dxM20yOUR0d0Eyc1FidWhsMWJ2eDk5RlB4VEpFdk5LUTNOS1YtVE8yUHEwWTdacHZVZmJnZXZKUXVGYm1rX3VkTEJCLU9VNEk3ZzZXY1NzZGhhRFlXXzUzRl9rR2RiZFZzM3dHMWZYeXZ6bjUwbGhuOWhhVE94dGpjeGU?oc=5"
+          }
+        ],
+        "source": "India Today",
+        "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5"
+      },
+      {
+        "slug": "open-source-20261126-auto-2-9de790",
+        "title": "BharatGen Launches",
+        "category": "开源项目",
+        "date": "2026-11-26",
+        "summary": "BharatGen Launches Patram 1.5, a 7B Vision-Languag",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "BharatGen Launches 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "BharatGen Launches Patram 1.5, a 7B Vision-Languag",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "BharatGen Launches Patram 1.5, a 7B Vision-Languag",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Analytics India Magazine：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFFhQ1p4dmhFLUtiT1Y4d3Z1WmhwT0M1M0sxTUlfQ0pibVQxOGhLUThNWTlCcUx4VFBPV1l6Y09LQTBLNlZOaGRyaEpRUG9jNzNNbnJVT0RCRWF0aVJMQXVzSFk5LVUyOVh3T0EzRHlscjcyNUhGNVdPWTV4a3QySW56UWJBOUROXzh1cThCQkdnZ1NTQWJaNVNrUEpqMWRkczdGdXVZajg0X2JEcTMtWDRLOXZYSnlW?oc=5"
+          },
+          {
+            "label": "India Today：BharatGen launches Patram 1.5, a made-in-India AI model that can read ",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNanRjcWUzWEJYdkJ5TmJpWkU4LXd3Y0lSWS1tUlZDY0lBZHhBS3FDTm9nZVNRenRNYm9IbExCUWtHdEUtbE8wZ3Vma3M1SG8xM1RIN091YjhteWR1OWhZeFUtRlozT1RfejZzblA1eTlJOEk0ZzNJdUdrdzFQLTVpSWZmbEdITDY3b21jVVRDQnJYQjdXT3RpSjRTU21SN2F2U1FBbEdqLUVsdy1MaFJPNTRIajhZSEpEODNNNEV6YjhPWnZQRWVhVThZQWVpd1IwRHVOZ1RYeXE5aHB0T0Y2cXk1WDE0aktfQjc1eGpMcXozcHFz0gH6AUFVX3lxTE1NbGdRZmhFNUZid2J6NWF0S2toR1JhNUYxajlpZm5GUmIwWkU2TlVJdGdLUy1teXQ0Z3ZabVNha0pVNWJqQ0Uxekw2c0ZreXU3cFhBUEZjMXJaMEVvNVpPRFJmQjluNXVfeWs1dXRRdnMzZGRZXzF5TWNBb2ZISnNibGM1eXVvenQzVEN5T1AtejNXQ05nNE95WmdralRzRHpRTXNoZ2hWbGFucWJuMGFKdzdCY1B0Q0hjYVU5N0MtZnQ4Z1YtRnBteDkwRVRwQkdyQXh5VWNVWUFFOUZPSzRTMjR1MFdSZjhxNXYtd0JtUFh6TTRCRDgwNmc?oc=5"
+          },
+          {
+            "label": "Tech Times：Hugging Face AI Agent Swarm Report: Server Blocked Admin Token Attempt",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUHdHQ2Z2R2tiTnVfU1BnZXRJdWJtWjlYR3J0R2JRLUxwYlNLeXoxRFRnRmxWeTRGbUhKM3BwT2d2VUg0OVZ3OG5KTjIyME0yeFhkcU9GZTJSb2gyaHZ6d1piNU9ZWVRDb1dxM20yOUR0d0Eyc1FidWhsMWJ2eDk5RlB4VEpFdk5LUTNOS1YtVE8yUHEwWTdacHZVZmJnZXZKUXVGYm1rX3VkTEJCLU9VNEk3ZzZXY1NzZGhhRFlXXzUzRl9rR2RiZFZzM3dHMWZYeXZ6bjUwbGhuOWhhVE94dGpjeGU?oc=5"
+          }
+        ],
+        "source": "Analytics India Magazine",
+        "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMFFhQ1p4dmhFLUtiT1Y4d3Z1WmhwT0M1M0sxTUlfQ0pibVQxOGhLUThNWTlCcUx4VFBPV1l6Y09LQTBLNlZOaGRyaEpRUG9jNzNNbnJVT0RCRWF0aVJMQXVzSFk5LVUyOVh3T0EzRHlscjcyNUhGNVdPWTV4a3QySW56UWJBOUROXzh1cThCQkdnZ1NTQWJaNVNrUEpqMWRkczdGdXVZajg0X2JEcTMtWDRLOXZYSnlW?oc=5"
+      },
       {
         "slug": "open-source-20261125-auto-1-245038",
         "title": "Ant Group opens it",
