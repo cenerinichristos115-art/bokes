@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261127-auto-1-4d3c4f",
+        "title": "李胜峰：在21世纪人工智能领域，中国",
+        "category": "AI新闻",
+        "date": "2026-11-27",
+        "summary": "李胜峰：在21世纪人工智能领域，中国人靠智慧和努力走出了属于自己的路！ 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "李胜峰：在21世纪人工智能领域，中国 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "李胜峰：在21世纪人工智能领域，中国人靠智慧和努力走出了属于自己的路！ 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "李胜峰：在21世纪人工智能领域，中国人靠智慧和努力走出了属于自己的路！ 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNlk0ZFJocmRYUEx4d1RGd3R5dDNnNkZjY3VCMEtaa2c0alp2dzVSMFA5TC0yY3pJWHh5SlFtWmZsby11WDVDWmVsbWRoRnl6N1ZleG1RbXdWMkYxVnIzSE5KQ05feFotSFpKbVhZUWx6YUE?oc=5"
+          },
+          {
+            "label": "India Today：AI could kill us all if it takes control, warns ex-Google DeepMind res",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOE9qaE9BbmQ2VWFQa01QOUlaNUdndW13QWxESEFoQTJqMmp4MmZYQ3RJY3JXQUNvQlg2MG9VRDkxRzU4VDJoZDV1T3BMVi1fYkZEMFhXeW5JQ2F4UFFPWVRnQWRCaFRLZVAyeXJSVUJqYzN0OXJIalpaMFViQ3FPS29ZbWI4STVNQTIxblJmUFZmZlltVmxpcnpOamNvelNPeUltVlZ0anpMQnlVOEFtSkdrZUdzX0tBdHgwRG94OVNlNmdCWElYRFVsdDlPUXUzX0FlSGxHTVkwSE3SAeABQVVfeXFMT1VLS20yVkdqNXBJVXFCU3dRVm1ra01fV2JBNlYta0ZrTG9hZ0tNM3F5Rm5Lc0FlV3o2MGY1emM0a1hzTUg3eFc4MG1fUE4zTjh3YkpGb0dfTU5VTFdfUjNMb2xvSnRGX0hfUk9qcEV0SjhRUC1HeG5xdllsYnZMaUFuUndPdXR1WXExa01ic2I3Q1RCeEVxcHhWc3ZUV0dRa3R6b19oc0gzZjVYY0ZmTkNtclYtWF9GOGtYNm5NbEoyeUhiSXZpYmpRLTlXMU5ZRmhaeGswMEdDMlVZUTVFVDU?oc=5"
+          },
+          {
+            "label": "智慧城市行业分析：天津市数字经济发展“十五五”规划：以数据要素改革为主线，打造京津冀数字经济创新高地 - 智慧城市行业分析",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM2NyVHAtaFUtdmx6TWx3eUNmbE1ubEItSjZyYnNSUkVFejRoOUNwb1BlTFBnUEQ3dC0xeUZid3lHYlFBX0g2bko1TnZQM0tXalFIQ1JHUVh6U0xvcGtpd0NGMVVldVNySTlFWWdhSlVlbE03czJxNDd3RU13UQ?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNlk0ZFJocmRYUEx4d1RGd3R5dDNnNkZjY3VCMEtaa2c0alp2dzVSMFA5TC0yY3pJWHh5SlFtWmZsby11WDVDWmVsbWRoRnl6N1ZleG1RbXdWMkYxVnIzSE5KQ05feFotSFpKbVhZUWx6YUE?oc=5"
+      },
+      {
+        "slug": "ai-news-20261127-auto-2-5bc676",
+        "title": "AI could kill us a",
+        "category": "AI新闻",
+        "date": "2026-11-27",
+        "summary": "AI could kill us all if it takes control, warns ex",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "AI could kill us a 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "AI could kill us all if it takes control, warns ex",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "AI could kill us all if it takes control, warns ex",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "India Today：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOE9qaE9BbmQ2VWFQa01QOUlaNUdndW13QWxESEFoQTJqMmp4MmZYQ3RJY3JXQUNvQlg2MG9VRDkxRzU4VDJoZDV1T3BMVi1fYkZEMFhXeW5JQ2F4UFFPWVRnQWRCaFRLZVAyeXJSVUJqYzN0OXJIalpaMFViQ3FPS29ZbWI4STVNQTIxblJmUFZmZlltVmxpcnpOamNvelNPeUltVlZ0anpMQnlVOEFtSkdrZUdzX0tBdHgwRG94OVNlNmdCWElYRFVsdDlPUXUzX0FlSGxHTVkwSE3SAeABQVVfeXFMT1VLS20yVkdqNXBJVXFCU3dRVm1ra01fV2JBNlYta0ZrTG9hZ0tNM3F5Rm5Lc0FlV3o2MGY1emM0a1hzTUg3eFc4MG1fUE4zTjh3YkpGb0dfTU5VTFdfUjNMb2xvSnRGX0hfUk9qcEV0SjhRUC1HeG5xdllsYnZMaUFuUndPdXR1WXExa01ic2I3Q1RCeEVxcHhWc3ZUV0dRa3R6b19oc0gzZjVYY0ZmTkNtclYtWF9GOGtYNm5NbEoyeUhiSXZpYmpRLTlXMU5ZRmhaeGswMEdDMlVZUTVFVDU?oc=5"
+          },
+          {
+            "label": "手机新浪网：李胜峰：在21世纪人工智能领域，中国人靠智慧和努力走出了属于自己的路！ - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNlk0ZFJocmRYUEx4d1RGd3R5dDNnNkZjY3VCMEtaa2c0alp2dzVSMFA5TC0yY3pJWHh5SlFtWmZsby11WDVDWmVsbWRoRnl6N1ZleG1RbXdWMkYxVnIzSE5KQ05feFotSFpKbVhZUWx6YUE?oc=5"
+          },
+          {
+            "label": "智慧城市行业分析：天津市数字经济发展“十五五”规划：以数据要素改革为主线，打造京津冀数字经济创新高地 - 智慧城市行业分析",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsM2NyVHAtaFUtdmx6TWx3eUNmbE1ubEItSjZyYnNSUkVFejRoOUNwb1BlTFBnUEQ3dC0xeUZid3lHYlFBX0g2bko1TnZQM0tXalFIQ1JHUVh6U0xvcGtpd0NGMVVldVNySTlFWWdhSlVlbE03czJxNDd3RU13UQ?oc=5"
+          }
+        ],
+        "source": "India Today",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOE9qaE9BbmQ2VWFQa01QOUlaNUdndW13QWxESEFoQTJqMmp4MmZYQ3RJY3JXQUNvQlg2MG9VRDkxRzU4VDJoZDV1T3BMVi1fYkZEMFhXeW5JQ2F4UFFPWVRnQWRCaFRLZVAyeXJSVUJqYzN0OXJIalpaMFViQ3FPS29ZbWI4STVNQTIxblJmUFZmZlltVmxpcnpOamNvelNPeUltVlZ0anpMQnlVOEFtSkdrZUdzX0tBdHgwRG94OVNlNmdCWElYRFVsdDlPUXUzX0FlSGxHTVkwSE3SAeABQVVfeXFMT1VLS20yVkdqNXBJVXFCU3dRVm1ra01fV2JBNlYta0ZrTG9hZ0tNM3F5Rm5Lc0FlV3o2MGY1emM0a1hzTUg3eFc4MG1fUE4zTjh3YkpGb0dfTU5VTFdfUjNMb2xvSnRGX0hfUk9qcEV0SjhRUC1HeG5xdllsYnZMaUFuUndPdXR1WXExa01ic2I3Q1RCeEVxcHhWc3ZUV0dRa3R6b19oc0gzZjVYY0ZmTkNtclYtWF9GOGtYNm5NbEoyeUhiSXZpYmpRLTlXMU5ZRmhaeGswMEdDMlVZUTVFVDU?oc=5"
+      },
+      {
         "slug": "ai-news-20261126-auto-1-7848a1",
         "title": "Google patent reve",
         "category": "AI新闻",
@@ -27659,6 +27775,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261127-auto-1-c30b1f",
+        "title": "Win7 家庭版怎么升级旗舰版？Wi",
+        "category": "AI使用教程",
+        "date": "2026-11-27",
+        "summary": "Win7 家庭版怎么升级旗舰版？Win7 版本升级教程详解 中华网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Win7 家庭版怎么升级旗舰版？Wi 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Win7 家庭版怎么升级旗舰版？Win7 版本升级教程详解 中华网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Win7 家庭版怎么升级旗舰版？Win7 版本升级教程详解 中华网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "中华网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BSGh6cmdjaXdURmZvSkxaSXRKNTFTSFB0RkFXc0ZLNzFPTHY5Y1l0MmlwYlJOQi1ncFZwQjR3RkpDNUlJUzV0eWhCMkg4UzlMN0FGVUdZMVFxM0NvZmNQNlkwa3FwVjQ?oc=5"
+          },
+          {
+            "label": "上观新闻：《AI通识100分》（长者版）㊲：用AI查询垃圾分类 - 上观新闻",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrSDZ6X01pb04xUXF2X0ZxNzYxcklxOGhXRUhTUGRKWl9uVGpvUmZycGlsLS1rM3pMVU9vc1VsZ1VPcVBvcGdPdmNnQWVwel9aMFl1UFAwOVU4Zw?oc=5"
+          },
+          {
+            "label": "美通社：Concierto AI 正式上线：为每位员工提供主权 AI， 部署于企业自有云环境或数据中心 - 美通社",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nOXFSRGdXVDVNN3JBOHRtX3FaMnh4Nm1WVDFqbUY5VHRkTFdNb2tNdHVzdDFfZ0xZOG95a3JJalhDWTJKUjdtVFZfMm1RaUdLSFE1bnlISQ?oc=5"
+          }
+        ],
+        "source": "中华网",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BSGh6cmdjaXdURmZvSkxaSXRKNTFTSFB0RkFXc0ZLNzFPTHY5Y1l0MmlwYlJOQi1ncFZwQjR3RkpDNUlJUzV0eWhCMkg4UzlMN0FGVUdZMVFxM0NvZmNQNlkwa3FwVjQ?oc=5"
+      },
+      {
         "slug": "ai-guide-20261126-auto-1-575e63",
         "title": "Openreach puts AI",
         "category": "AI使用教程",
@@ -40911,6 +41085,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261127-auto-1-2b480b",
+        "title": "BharatGen Patram 1",
+        "category": "开源项目",
+        "date": "2026-11-27",
+        "summary": "BharatGen Patram 1.5: Made-in-India AI Model Reads",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "BharatGen Patram 1 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "BharatGen Patram 1.5: Made-in-India AI Model Reads",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "BharatGen Patram 1.5: Made-in-India AI Model Reads",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "theopenpress.in：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFVtdFBoVFlNQlFSNnh2d2d2T0Q4MC1OTXpSU1dLQTk4V1hmQ2JfVUZJQmpCX21hblRuY1ZMNHBKaEVqRDR6VUhyTlNOLW1OVWNWS09Kank1aVNraFd4S01PbmcwbWdGZG02Wjlpd0hsS2tULWhld3VaSUhUYlF0TldlQlBqamVNUGc?oc=5"
+          },
+          {
+            "label": "SecurityWeek：SAP Confirms Cyberattack, Source Code Reportedly Compromised - Securit",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5"
+          },
+          {
+            "label": "theopenpress.in：SAP Cyberattack: Hackers Breach German Tech Giant, Source Code at Risk",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUkxN1hYVDhhNU5yTUQwaG5aU0JwMnk2dDI0U2hBSmU1NFdDcXBIQVdUeWpYa01hRTl6dHgzaU5US0Z1bHpIc1NqX0dkMm4xbnM5LVk0SjVyVkgxcjRTd2Q4NGI5ck1LQV80cEFQLUhjSnVjWWcxcnkyM2g2a2Z2VlZBUjNjZEloN3FqYWlB?oc=5"
+          }
+        ],
+        "source": "theopenpress.in",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFVtdFBoVFlNQlFSNnh2d2d2T0Q4MC1OTXpSU1dLQTk4V1hmQ2JfVUZJQmpCX21hblRuY1ZMNHBKaEVqRDR6VUhyTlNOLW1OVWNWS09Kank1aVNraFd4S01PbmcwbWdGZG02Wjlpd0hsS2tULWhld3VaSUhUYlF0TldlQlBqamVNUGc?oc=5"
+      },
+      {
+        "slug": "open-source-20261127-auto-2-f4a5a4",
+        "title": "SAP Confirms Cyber",
+        "category": "开源项目",
+        "date": "2026-11-27",
+        "summary": "SAP Confirms Cyberattack, Source Code Reportedly C",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "SAP Confirms Cyber 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "SAP Confirms Cyberattack, Source Code Reportedly C",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "SAP Confirms Cyberattack, Source Code Reportedly C",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "SecurityWeek：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5"
+          },
+          {
+            "label": "theopenpress.in：BharatGen Patram 1.5: Made-in-India AI Model Reads Messy Handwritten D",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFVtdFBoVFlNQlFSNnh2d2d2T0Q4MC1OTXpSU1dLQTk4V1hmQ2JfVUZJQmpCX21hblRuY1ZMNHBKaEVqRDR6VUhyTlNOLW1OVWNWS09Kank1aVNraFd4S01PbmcwbWdGZG02Wjlpd0hsS2tULWhld3VaSUhUYlF0TldlQlBqamVNUGc?oc=5"
+          },
+          {
+            "label": "theopenpress.in：SAP Cyberattack: Hackers Breach German Tech Giant, Source Code at Risk",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUkxN1hYVDhhNU5yTUQwaG5aU0JwMnk2dDI0U2hBSmU1NFdDcXBIQVdUeWpYa01hRTl6dHgzaU5US0Z1bHpIc1NqX0dkMm4xbnM5LVk0SjVyVkgxcjRTd2Q4NGI5ck1LQV80cEFQLUhjSnVjWWcxcnkyM2g2a2Z2VlZBUjNjZEloN3FqYWlB?oc=5"
+          }
+        ],
+        "source": "SecurityWeek",
+        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5"
+      },
       {
         "slug": "open-source-20261126-auto-1-631308",
         "title": "BharatGen launches",
