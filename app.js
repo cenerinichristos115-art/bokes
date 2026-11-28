@@ -25,6 +25,122 @@ const sections = [
     title: "AI新闻",
     items: [
       {
+        "slug": "ai-news-20261128-auto-1-5174b6",
+        "title": "同道猎聘宣布招聘智能体Lily上线，",
+        "category": "AI新闻",
+        "date": "2026-11-28",
+        "summary": "同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告 手机新浪网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "同道猎聘宣布招聘智能体Lily上线， 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告 手机新浪网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告 手机新浪网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "手机新浪网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UTGNyb2psbTZoZ0FTUmhLMU1HVi1JV1k0X3RiQnFrQTZSbm9PWWtWZThFaEk0aXFIV0xkYW9MMHNnTHNSSk1CRFVod0g0S3lsVHFRWVMyVVhXLTZZX3puVW5MXzVzVzJWdVBtUzNHODd3Zw?oc=5"
+          },
+          {
+            "label": "凤凰网：什么样的工作，AI抢不走？ - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5RXNFM2h2a2tXVnJUMmM2ZW9rbnZQX283RGdqTzdLNW9QTUR6c3Z6OEFEY2U4VFYxRUc3NmthcHVwc1hzeVpEUg?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Google launches Humanity's First Exam to test AI on easy questions - P",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemhFT1Z5NFNRZGpWTzBVWm5TY3BwV2VhSG4wWm1tRnBQWTFJZEUwSUd1ZS1WeFlMbFBKMmg5eXUzYmFnQTlJZGNiZ3gwdHAzNzJEMlFtWE9UendJUEVTNlBkdGdXc0prdHM2TWZ5YjZQVmZfUXk0VDlZZ1lwMm91VHlGcXpGWmI2?oc=5"
+          }
+        ],
+        "source": "手机新浪网",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UTGNyb2psbTZoZ0FTUmhLMU1HVi1JV1k0X3RiQnFrQTZSbm9PWWtWZThFaEk0aXFIV0xkYW9MMHNnTHNSSk1CRFVod0g0S3lsVHFRWVMyVVhXLTZZX3puVW5MXzVzVzJWdVBtUzNHODd3Zw?oc=5"
+      },
+      {
+        "slug": "ai-news-20261128-auto-2-0ca6e6",
+        "title": "什么样的工作，AI抢不走？ - 凤凰",
+        "category": "AI新闻",
+        "date": "2026-11-28",
+        "summary": "什么样的工作，AI抢不走？ 凤凰网",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "什么样的工作，AI抢不走？ - 凤凰 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "什么样的工作，AI抢不走？ 凤凰网",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "什么样的工作，AI抢不走？ 凤凰网",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "凤凰网：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5RXNFM2h2a2tXVnJUMmM2ZW9rbnZQX283RGdqTzdLNW9QTUR6c3Z6OEFEY2U4VFYxRUc3NmthcHVwc1hzeVpEUg?oc=5"
+          },
+          {
+            "label": "手机新浪网：同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告 - 手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UTGNyb2psbTZoZ0FTUmhLMU1HVi1JV1k0X3RiQnFrQTZSbm9PWWtWZThFaEk0aXFIV0xkYW9MMHNnTHNSSk1CRFVod0g0S3lsVHFRWVMyVVhXLTZZX3puVW5MXzVzVzJWdVBtUzNHODd3Zw?oc=5"
+          },
+          {
+            "label": "Pasquale Pillitteri：Google launches Humanity's First Exam to test AI on easy questions - P",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemhFT1Z5NFNRZGpWTzBVWm5TY3BwV2VhSG4wWm1tRnBQWTFJZEUwSUd1ZS1WeFlMbFBKMmg5eXUzYmFnQTlJZGNiZ3gwdHAzNzJEMlFtWE9UendJUEVTNlBkdGdXc0prdHM2TWZ5YjZQVmZfUXk0VDlZZ1lwMm91VHlGcXpGWmI2?oc=5"
+          }
+        ],
+        "source": "凤凰网",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5RXNFM2h2a2tXVnJUMmM2ZW9rbnZQX283RGdqTzdLNW9QTUR6c3Z6OEFEY2U4VFYxRUc3NmthcHVwc1hzeVpEUg?oc=5"
+      },
+      {
         "slug": "ai-news-20261127-auto-1-4d3c4f",
         "title": "李胜峰：在21世纪人工智能领域，中国",
         "category": "AI新闻",
@@ -27775,6 +27891,64 @@ const sections = [
     title: "AI使用教程",
     items: [
       {
+        "slug": "ai-guide-20261128-auto-1-918f42",
+        "title": "Italian Brainrot案在",
+        "category": "AI使用教程",
+        "date": "2026-11-28",
+        "summary": "Italian Brainrot案在热那亚落槌, 六条提示词撑不起著作权 Pasquale Pill",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Italian Brainrot案在 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Italian Brainrot案在热那亚落槌, 六条提示词撑不起著作权 Pasquale Pill",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Italian Brainrot案在热那亚落槌, 六条提示词撑不起著作权 Pasquale Pill",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Pasquale Pillitteri：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUVGMVp2NjkyWk5SRVBXVkRaWWE5WTlHclc5UWJ5elgzR3RSa0V2bnhMdmctdE9yaXdtQkhmUjg1MXRoR0QtRVAxM1ppM1owc1QtQlcwZWNaYW1tY1FqWnJsT3liaWl5ZUdpeEVMOTZuQjVsZFJvc0VuTmFJUkYxTzU3cEdRQWJEZUllSUFLTVJRakFWcEFiaFhn?oc=5"
+          },
+          {
+            "label": "智源社区：文生图不只画画，MOSS-Image-SFT 让 AI 更准确地生成文字与复杂排版；Scenario 3D Collection 收录 13",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RTU9sZVdqeGdBT1h0WnNRX1g0VUVNUE1UakgwVjVEbFo4MkdVcFJlVlhWamtLOUhzcDUyWkV1Nms1UTgzYTVEVg?oc=5"
+          },
+          {
+            "label": "凤凰网：一张照片就能挑战覆面系舞蹈？2026年覆面系舞蹈视频爆款复刻AI视频生成工具推荐，即梦AI玩法解析 - 凤凰网",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aSVY3ZC1vdC1mWmlXY0pfdWluZWtBWkhuSGdaazcxa2VROGFFTXVaR1VGYmFTNVVFOU54NGNON0NOSGRnUDVGM0twNUU?oc=5"
+          }
+        ],
+        "source": "Pasquale Pillitteri",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUVGMVp2NjkyWk5SRVBXVkRaWWE5WTlHclc5UWJ5elgzR3RSa0V2bnhMdmctdE9yaXdtQkhmUjg1MXRoR0QtRVAxM1ppM1owc1QtQlcwZWNaYW1tY1FqWnJsT3liaWl5ZUdpeEVMOTZuQjVsZFJvc0VuTmFJUkYxTzU3cEdRQWJEZUllSUFLTVJRakFWcEFiaFhn?oc=5"
+      },
+      {
         "slug": "ai-guide-20261127-auto-1-c30b1f",
         "title": "Win7 家庭版怎么升级旗舰版？Wi",
         "category": "AI使用教程",
@@ -41085,6 +41259,122 @@ const sections = [
     id: "open-source",
     title: "开源项目",
     items: [
+      {
+        "slug": "open-source-20261128-auto-1-725bd8",
+        "title": "Russia's largest b",
+        "category": "开源项目",
+        "date": "2026-11-28",
+        "summary": "Russia's largest bank Sber unveils GigaChat 4 AI m",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "Russia's largest b 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": true,
+        "content": {
+          "intro": "Russia's largest bank Sber unveils GigaChat 4 AI m",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "Russia's largest bank Sber unveils GigaChat 4 AI m",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "Indian Startup News：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2V0aUFVeE9WYV9YOVVmTmlRalNRSE13S1RzVjhPR0xUdmpRSjIzd2tUZ2I4VkNEY0k3d3M0eEYtTlJRSjAwZEUzOVBPZHBXM2lqQU5Vc0swYnpqTm43Q3lkYnJfcXVaVGdlSklJMFdXbWs0Tzl6dFZGWjRUaU1VdzIxcnhuekhKcTZEczhoNGhUMk5xRTFlbS1tUkxFTHJGa3pDMHFqRXBKWUt6eHZVck9OUXVBLU1qOUhzSzZ1NVJ5NlRCVmNfUHBINk1FUGl2SVNGZFVR0gHWAUFVX3lxTE1fZXRpQVV4T1ZhX1g5VWZOaVFqU1FITXdLVHNWOE9HTFR2alFKMjN3a1RnYjhWQ0RjSTd3czR4Ri1OUlFKMDBkRTM5UE9kcFczaWpBTlVzSzBiempObjdDeWRicl9xdVpUZ2VKSUkwV1dtazRPOXp0VkZaNFRpTVV3MjFyeG56SEpxNkRzOGg0aFQyTnFFMWVtLW1STEVMckZrekMwcWpFcEpZS3p4dlVyT05RdUEtTWo5SHNLNnU1Unk2VEJWY19QcEg2TUVQaXZJU0ZkVVE?oc=5"
+          },
+          {
+            "label": "CSDN：开源鸿蒙加速行业商用与科研创新，迈向“设备即AI”新阶段 - CSDN",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yNkl3UkVoemVyS3BXeFNKRVcxOXBXbEs2dDhrZUxsNTd4UjVrZDl0MzQyWkNndFQ0aVZSUXRRSDIwalNrdUdlS3cxc1FUWkJtaWpQVk94MlByM2dhdkE?oc=5"
+          },
+          {
+            "label": "shattered.io：DeepSeek API Pricing vs Kimi: $0.006 vs $0.20 Cached - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWxqUk9SLWRKQW9peHJnNlF2UHp6ZTZkenlLR1I3eEtnQVJDblZYaDZydmVQcERFSDdGT2IyZFdPTjJoa19idWJOelNtbVB3UzBkZXlWZ3BobFF0Wk1WX3ZvaVFTR016eGplaEN3RDVJMXgtYlVNMnYwNVhNcU9HdThTYW9BRFRIVy1rN192Umt0ckctS0E?oc=5"
+          }
+        ],
+        "source": "Indian Startup News",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2V0aUFVeE9WYV9YOVVmTmlRalNRSE13S1RzVjhPR0xUdmpRSjIzd2tUZ2I4VkNEY0k3d3M0eEYtTlJRSjAwZEUzOVBPZHBXM2lqQU5Vc0swYnpqTm43Q3lkYnJfcXVaVGdlSklJMFdXbWs0Tzl6dFZGWjRUaU1VdzIxcnhuekhKcTZEczhoNGhUMk5xRTFlbS1tUkxFTHJGa3pDMHFqRXBKWUt6eHZVck9OUXVBLU1qOUhzSzZ1NVJ5NlRCVmNfUHBINk1FUGl2SVNGZFVR0gHWAUFVX3lxTE1fZXRpQVV4T1ZhX1g5VWZOaVFqU1FITXdLVHNWOE9HTFR2alFKMjN3a1RnYjhWQ0RjSTd3czR4Ri1OUlFKMDBkRTM5UE9kcFczaWpBTlVzSzBiempObjdDeWRicl9xdVpUZ2VKSUkwV1dtazRPOXp0VkZaNFRpTVV3MjFyeG56SEpxNkRzOGg0aFQyTnFFMWVtLW1STEVMckZrekMwcWpFcEpZS3p4dlVyT05RdUEtTWo5SHNLNnU1Unk2VEJWY19QcEg2TUVQaXZJU0ZkVVE?oc=5"
+      },
+      {
+        "slug": "open-source-20261128-auto-2-ceaede",
+        "title": "开源鸿蒙加速行业商用与科研创新，迈向",
+        "category": "开源项目",
+        "date": "2026-11-28",
+        "summary": "开源鸿蒙加速行业商用与科研创新，迈向“设备即AI”新阶段 CSDN",
+        "hero_image": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg",
+          "alt": "开源鸿蒙加速行业商用与科研创新，迈向 配图",
+          "credit": "图片来源：Wikimedia Commons"
+        },
+        "featured": false,
+        "content": {
+          "intro": "开源鸿蒙加速行业商用与科研创新，迈向“设备即AI”新阶段 CSDN",
+          "blocks": [
+            {
+              "heading": "事件概览",
+              "paragraphs": [
+                "开源鸿蒙加速行业商用与科研创新，迈向“设备即AI”新阶段 CSDN",
+                "目前公开信息主要来自媒体与官方对外发布内容。",
+                "核心结论仍需结合后续公告持续验证。"
+              ]
+            },
+            {
+              "heading": "行业影响",
+              "paragraphs": [
+                "该动态可能影响相关模型能力竞争与产品节奏。",
+                "企业端落地与商业化路径会随生态合作变化。",
+                "短期内建议关注数据、成本与合规层面的变化。"
+              ]
+            },
+            {
+              "heading": "后续观察",
+              "paragraphs": [
+                "继续追踪官方博客、发布会与监管信息更新。",
+                "若出现版本迭代，需重新评估能力边界。",
+                "建议在多来源交叉验证后再形成长期判断。"
+              ]
+            }
+          ]
+        },
+        "references": [
+          {
+            "label": "CSDN：原始报道",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yNkl3UkVoemVyS3BXeFNKRVcxOXBXbEs2dDhrZUxsNTd4UjVrZDl0MzQyWkNndFQ0aVZSUXRRSDIwalNrdUdlS3cxc1FUWkJtaWpQVk94MlByM2dhdkE?oc=5"
+          },
+          {
+            "label": "Indian Startup News：Russia's largest bank Sber unveils GigaChat 4 AI model that can solve ",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2V0aUFVeE9WYV9YOVVmTmlRalNRSE13S1RzVjhPR0xUdmpRSjIzd2tUZ2I4VkNEY0k3d3M0eEYtTlJRSjAwZEUzOVBPZHBXM2lqQU5Vc0swYnpqTm43Q3lkYnJfcXVaVGdlSklJMFdXbWs0Tzl6dFZGWjRUaU1VdzIxcnhuekhKcTZEczhoNGhUMk5xRTFlbS1tUkxFTHJGa3pDMHFqRXBKWUt6eHZVck9OUXVBLU1qOUhzSzZ1NVJ5NlRCVmNfUHBINk1FUGl2SVNGZFVR0gHWAUFVX3lxTE1fZXRpQVV4T1ZhX1g5VWZOaVFqU1FITXdLVHNWOE9HTFR2alFKMjN3a1RnYjhWQ0RjSTd3czR4Ri1OUlFKMDBkRTM5UE9kcFczaWpBTlVzSzBiempObjdDeWRicl9xdVpUZ2VKSUkwV1dtazRPOXp0VkZaNFRpTVV3MjFyeG56SEpxNkRzOGg0aFQyTnFFMWVtLW1STEVMckZrekMwcWpFcEpZS3p4dlVyT05RdUEtTWo5SHNLNnU1Unk2VEJWY19QcEg2TUVQaXZJU0ZkVVE?oc=5"
+          },
+          {
+            "label": "shattered.io：DeepSeek API Pricing vs Kimi: $0.006 vs $0.20 Cached - shattered.io",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWxqUk9SLWRKQW9peHJnNlF2UHp6ZTZkenlLR1I3eEtnQVJDblZYaDZydmVQcERFSDdGT2IyZFdPTjJoa19idWJOelNtbVB3UzBkZXlWZ3BobFF0Wk1WX3ZvaVFTR016eGplaEN3RDVJMXgtYlVNMnYwNVhNcU9HdThTYW9BRFRIVy1rN192Umt0ckctS0E?oc=5"
+          }
+        ],
+        "source": "CSDN",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yNkl3UkVoemVyS3BXeFNKRVcxOXBXbEs2dDhrZUxsNTd4UjVrZDl0MzQyWkNndFQ0aVZSUXRRSDIwalNrdUdlS3cxc1FUWkJtaWpQVk94MlByM2dhdkE?oc=5"
+      },
       {
         "slug": "open-source-20261127-auto-1-2b480b",
         "title": "BharatGen Patram 1",
